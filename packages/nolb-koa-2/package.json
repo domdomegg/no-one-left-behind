@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-koa-2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "koa-2-acl": "latest",
+        "koa-2-browser": "latest",
+        "koa-2-error-handler": "latest",
+        "koa-2-ioredis": "latest",
+        "koa-2-webpack": "latest",
+        "koa-2-webpack-dev-middleware": "latest"
+    }
+}

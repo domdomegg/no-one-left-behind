@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-postcss-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "postcss-janus": "latest",
+        "postcss-japanese-stylesheets": "latest",
+        "postcss-javascript-mixins": "latest",
+        "postcss-jingoal": "latest",
+        "postcss-jingoal-cd": "latest",
+        "postcss-jingoal-sprite": "latest",
+        "postcss-jingoal-sprite-cd": "latest",
+        "postcss-jit-props": "latest",
+        "postcss-join-transitions": "latest",
+        "postcss-jongleberry": "latest",
+        "postcss-js": "latest",
+        "postcss-js-core": "latest",
+        "postcss-js-loader": "latest",
+        "postcss-js-mixins": "latest",
+        "postcss-js-syntax": "latest",
+        "postcss-jsmath": "latest",
+        "postcss-jsx": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-nexta",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nextable": "latest",
+        "nextable-stream": "latest",
+        "nextafter": "latest",
+        "nextalys-angular-common": "latest",
+        "nextalys-angular-fire": "latest",
+        "nextalys-angular-tools": "latest",
+        "nextalys-carousel": "latest",
+        "nextalys-chart": "latest",
+        "nextalys-file-upload": "latest",
+        "nextalys-google-material-autocomplete": "latest",
+        "nextalys-ionic-tools": "latest",
+        "nextalys-js-helpers": "latest",
+        "nextalys-logs-manager": "latest",
+        "nextalys-maps-module": "latest",
+        "nextalys-node-helpers": "latest",
+        "nextalys-pdf-viewer": "latest",
+        "nextalys-rich-editor": "latest",
+        "nextalys-slider": "latest",
+        "nextalys-youtube-player": "latest",
+        "nextanwromo-admin": "latest",
+        "nextapm": "latest",
+        "nextapp-ui-ds": "latest",
+        "nextarter": "latest",
+        "nextask.core.demo": "latest",
+        "nextatic": "latest",
+        "nextauth-cloudinary-provider": "latest",
+        "nextauth-provider-neuronaltrader": "latest",
+        "nextauth-slonik": "latest"
+    }
+}

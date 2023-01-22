@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_pog",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@poggle/colors": "latest",
+        "@poggle/core": "latest",
+        "@poggle/starter": "latest",
+        "@pogilvie/dlog": "latest",
+        "@pogilvie/dx": "latest",
+        "@pogilvie/npm-demo": "latest",
+        "@pogilvie/sfdx": "latest",
+        "@pogix3m/http": "latest",
+        "@pogix3m/rate-limit": "latest",
+        "@pogix3m/short-number": "latest",
+        "@pognetwork/champ-proto": "latest",
+        "@pognetwork/champ-wasm": "latest",
+        "@pognetwork/proto": "latest",
+        "@pognetwork/vite-plugin-wasm-pack": "latest",
+        "@pogoda/basic-api": "latest",
+        "@pogojs/angular-http-client": "latest",
+        "@pogotc/mcts": "latest",
+        "@pograjak/user-fingerprints": "latest",
+        "@pogusha/test-nx-lib": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-qip",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qip": "latest",
+        "qipai": "latest",
+        "qipai-builder": "latest",
+        "qipan": "latest",
+        "qipengchengtage-1225": "latest",
+        "qipiao-util": "latest",
+        "qipilang01": "latest",
+        "qipilang02": "latest",
+        "qipp-config-environment": "latest",
+        "qipp-directives-paging": "latest",
+        "qipp-directives-progress": "latest",
+        "qipp-services-auth": "latest",
+        "qipp-services-dialog": "latest",
+        "qipp-services-helper": "latest",
+        "qipp-services-io": "latest",
+        "qipp-services-oauth": "latest",
+        "qipp-services-paging": "latest",
+        "qipp-services-progress": "latest",
+        "qipp-services-pubsub": "latest",
+        "qipp-services-relay": "latest",
+        "qipp-services-resource": "latest",
+        "qipp-services-route": "latest",
+        "qipp-services-semaphore": "latest",
+        "qipp-services-session": "latest",
+        "qipp-services-template": "latest",
+        "qipp-services-utils": "latest",
+        "qipp-services-uuid": "latest",
+        "qiprofile": "latest"
+    }
+}

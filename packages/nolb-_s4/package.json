@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_s4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@s454813660/leotools": "latest",
+        "@s4ff0/serg": "latest",
+        "@s4nt14go/ddb": "latest",
+        "@s4nt14go/pkg1": "latest",
+        "@s4p/autojs-replace-inrt": "latest",
+        "@s4p/eslint-config": "latest",
+        "@s4p/kugou-lrc": "latest",
+        "@s4p/music-api": "latest",
+        "@s4p/nest-nmdb": "latest",
+        "@s4p/nmdb": "latest",
+        "@s4p/redux-tool": "latest",
+        "@s4p/sdb": "latest",
+        "@s4p/tcb-login": "latest",
+        "@s4pod/common": "latest",
+        "@s4ticketing/common": "latest",
+        "@s4tk/compression": "latest",
+        "@s4tk/encoding": "latest",
+        "@s4tk/extraction": "latest",
+        "@s4tk/hashing": "latest",
+        "@s4tk/images": "latest",
+        "@s4tk/models": "latest",
+        "@s4tk/plugin-bufferfromfile": "latest",
+        "@s4tk/tunables": "latest",
+        "@s4tk/utils": "latest",
+        "@s4tk/xml-dom": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-zhb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zhb-api": "latest",
+        "zhb-common-utils": "latest",
+        "zhb-component": "latest",
+        "zhb-lib": "latest",
+        "zhb-npm": "latest",
+        "zhb-npm-01": "latest",
+        "zhb-plugins": "latest",
+        "zhb-react-icon": "latest",
+        "zhb-react-npm": "latest",
+        "zhb-tools": "latest",
+        "zhb-ui": "latest",
+        "zhb-vue-icon": "latest",
+        "zhb_001": "latest",
+        "zhb_helloTest": "latest",
+        "zhbhun-semantic-release-demo": "latest",
+        "zhbus": "latest"
+    }
+}

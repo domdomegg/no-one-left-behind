@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-jif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jif": "latest",
+        "jif-custom-form": "latest",
+        "jif-dashboard": "latest",
+        "jifarillas-auth0": "latest",
+        "jifashi-publicip": "latest",
+        "jifdb": "latest",
+        "jiff": "latest",
+        "jiff-mpc": "latest",
+        "jifflertablaeu": "latest",
+        "jiffy": "latest",
+        "jiffy-cli": "latest",
+        "jiffy-editor": "latest",
+        "jiffy-route-builder": "latest",
+        "jiffy-time": "latest",
+        "jiffybox": "latest",
+        "jiffylube-resume": "latest",
+        "jifix": "latest",
+        "jift-cli": "latest",
+        "jify": "latest"
+    }
+}

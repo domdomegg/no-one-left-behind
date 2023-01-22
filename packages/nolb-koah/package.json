@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-koah",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "koahi-jijijingyiyi-11.19": "latest",
+        "koahub": "latest",
+        "koahub-body-res": "latest",
+        "koahub-cli": "latest",
+        "koahub-guard": "latest",
+        "koahub-handlebars": "latest",
+        "koahub-loader": "latest",
+        "koahub-router": "latest",
+        "koahub-skip": "latest",
+        "koahub-wechat": "latest",
+        "koahub-xml-body": "latest",
+        "koahub-yilianyun": "latest",
+        "koahubjs": "latest"
+    }
+}

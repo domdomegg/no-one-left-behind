@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-frak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "frak": "latest",
+        "frak-js": "latest",
+        "frak-slang": "latest",
+        "frakas": "latest",
+        "frakjs": "latest",
+        "frakt-client": "latest",
+        "frakt-launchpd-library": "latest",
+        "fraktal": "latest",
+        "fraktionalizer-client-library": "latest",
+        "fraktur": "latest",
+        "fraktur.css": "latest",
+        "frakture": "latest",
+        "frakture-accounts": "latest",
+        "frakture-objects": "latest",
+        "frakture-react-reports": "latest",
+        "frakture-utility": "latest",
+        "frakture-workerbots": "latest"
+    }
+}

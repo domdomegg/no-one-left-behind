@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_myx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@myx-cli/core": "latest",
+        "@myx-cli/utils": "latest",
+        "@myxplor/agent-detection": "latest",
+        "@myxplor/eslint-config-base": "latest",
+        "@myxplor/eslint-config-react": "latest",
+        "@myxplor/forms": "latest",
+        "@myxplor/icons": "latest",
+        "@myxplor/notifications-redux": "latest",
+        "@myxplor/payload-helpers": "latest",
+        "@myxplor/scroll-to-top": "latest",
+        "@myxplor/shared": "latest",
+        "@myxplor/stardust": "latest",
+        "@myxplor/tokens": "latest",
+        "@myxplor/ui": "latest",
+        "@myxtra/authentication-react": "latest",
+        "@myxtra/authentication-web": "latest",
+        "@myxtra/eslint-config-react": "latest",
+        "@myxtra/postcss-config": "latest",
+        "@myxtra/shared": "latest",
+        "@myxtra/stylelint-config": "latest",
+        "@myxtra/ui-react": "latest",
+        "@myxujingyuan/rollupts": "latest"
+    }
+}

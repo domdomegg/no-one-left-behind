@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-hubot-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hubot-zabbix": "latest",
+        "hubot-zabbix-ack-plugin": "latest",
+        "hubot-zabbix-maintanance": "latest",
+        "hubot-zabbix-notifier": "latest",
+        "hubot-zabuton": "latest",
+        "hubot-zalgo": "latest",
+        "hubot-zatsudan": "latest",
+        "hubot-zd-releases": "latest",
+        "hubot-zendesk": "latest",
+        "hubot-zendesk-enhanced": "latest",
+        "hubot-zenoss": "latest",
+        "hubot-zerocater": "latest",
+        "hubot-zerocater-lunch": "latest",
+        "hubot-zesty": "latest",
+        "hubot-zet": "latest",
+        "hubot-zhihu": "latest",
+        "hubot-zhihu-daily": "latest",
+        "hubot-zmachine": "latest",
+        "hubot-zmq": "latest",
+        "hubot-zmq-adapter": "latest",
+        "hubot-zoi": "latest",
+        "hubot-zulip": "latest",
+        "hubot-zundoko": "latest"
+    }
+}

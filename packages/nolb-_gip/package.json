@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_gip",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gip-recia/color-palette-picker": "latest",
+        "@gip-recia/content-grid": "latest",
+        "@gip-recia/esco-content-menu": "latest",
+        "@gip-recia/esco-content-menu-lit": "latest",
+        "@gip-recia/esup-publisher-webcomponents-utils": "latest",
+        "@gip-recia/evaluator": "latest",
+        "@gip-recia/extended-uportal-header": "latest",
+        "@gip-recia/eyebrow-user-info": "latest",
+        "@gip-recia/eyebrow-user-info-lit": "latest",
+        "@gip-recia/eyebrow-user-infos": "latest",
+        "@gip-recia/js-tree": "latest",
+        "@gip-recia/menu-cantine": "latest",
+        "@gip-recia/subject-infos": "latest",
+        "@gip-recia/subject-search-button": "latest",
+        "@gipfelbuch/angular-api": "latest",
+        "@giphy/js-analytics": "latest",
+        "@giphy/js-brand": "latest",
+        "@giphy/js-components": "latest",
+        "@giphy/js-fetch-api": "latest",
+        "@giphy/js-types": "latest",
+        "@giphy/js-util": "latest",
+        "@giphy/moat-loader": "latest",
+        "@giphy/react-components": "latest",
+        "@giphy/react-native-sdk": "latest",
+        "@gipi-sistemas/itss-ng": "latest",
+        "@gipphe/eslint-config-haskellish": "latest"
+    }
+}

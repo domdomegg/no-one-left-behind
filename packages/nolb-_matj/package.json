@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_matj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@matjp/dvi-decode": "latest",
+        "@matjp/jweb": "latest",
+        "@matjs_/hull": "latest",
+        "@matjung/hello-node": "latest"
+    }
+}

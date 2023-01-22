@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_prz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@przemek12311/randomid-generator": "latest",
+        "@przemo41/randomid-generator": "latest",
+        "@przemodeveloper/randomid-generator": "latest",
+        "@przemuh/mocha-junit-reporter": "latest",
+        "@przemuh/mozaik-ui": "latest",
+        "@przemuh/redux-form": "latest",
+        "@przemuh/storybook-design-system": "latest",
+        "@przemyslaw-zan/ckeditor5-test-package-2": "latest",
+        "@przemyslawkowalczyk/randomid-generator": "latest",
+        "@przemyslawwalczak/nest-tx-core": "latest",
+        "@przemyslawwalczak/nest-tx-typeorm": "latest",
+        "@przemyslawwalczak/swiper": "latest",
+        "@przemyslawwalczak/typeorm": "latest",
+        "@przemyslawzalewski/babel-eslint": "latest",
+        "@przemyslawzalewski/node_modules": "latest",
+        "@przemyslawzalewski/test-node_modules": "latest",
+        "@przlbakery/przlbakery-sdk": "latest"
+    }
+}

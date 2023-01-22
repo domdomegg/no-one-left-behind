@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-sc2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sc2": "latest",
+        "sc2-client": "latest",
+        "sc2-convertbalancedata": "latest",
+        "sc2-sdk": "latest",
+        "sc2-sdk-test": "latest",
+        "sc2-unit-api": "latest",
+        "sc2api": "latest",
+        "sc2cj": "latest",
+        "sc2kparser": "latest",
+        "sc2ranks": "latest"
+    }
+}

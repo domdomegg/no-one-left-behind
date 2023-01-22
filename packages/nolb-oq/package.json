@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-oq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "oq": "latest",
+        "oq-color-name-decimal": "latest",
+        "oq-color-name-hex": "latest",
+        "oq-formatted-string": "latest",
+        "oq-is-arrayish": "latest",
+        "oq-mapper": "latest",
+        "oq-packages": "latest",
+        "oq-time-zone": "latest",
+        "oqa": "latest",
+        "oqb": "latest",
+        "oqcrs2": "latest",
+        "oqi-node": "latest",
+        "oqichain": "latest",
+        "oql": "latest",
+        "oql-lib": "latest",
+        "oql2": "latest",
+        "oqo": "latest",
+        "oqs-q": "latest",
+        "oqsagcjwylizkkeu": "latest",
+        "oqt-library": "latest",
+        "oqt-library-new": "latest",
+        "oqt-library1": "latest",
+        "oqton-react-scripts": "latest",
+        "oquery": "latest"
+    }
+}

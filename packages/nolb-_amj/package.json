@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_amj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@amjed-ali-k/react-jwt-auth": "latest",
+        "@amjr/amjrcomponents": "latest",
+        "@amjr/library-test": "latest",
+        "@amjs/ajax-adapter": "latest",
+        "@amjs/ajax-service": "latest",
+        "@amjs/ajax-url": "latest",
+        "@amjs/api-openapi-reader": "latest",
+        "@amjs/api-parser": "latest",
+        "@amjs/create-index": "latest",
+        "@amjs/create-readme": "latest",
+        "@amjs/data-types": "latest",
+        "@amjs/factory": "latest",
+        "@amjs/file-resolver": "latest",
+        "@amjs/logger": "latest",
+        "@amjs/react-tools": "latest",
+        "@amjs/templater": "latest",
+        "@amjs/utils": "latest",
+        "@amjs/utils-fs": "latest",
+        "@amjs/utils-object": "latest",
+        "@amjs/utils-string": "latest",
+        "@amjs/uuid": "latest",
+        "@amjs/vue-tools": "latest",
+        "@amjs/vue-utils": "latest"
+    }
+}

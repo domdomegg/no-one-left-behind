@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_dof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dofamintest/common": "latest",
+        "@dofiltra/tailwind": "latest",
+        "@dofiltra/yoo": "latest",
+        "@dofiltra/youtube": "latest",
+        "@doflo/flow-api-nodejs": "latest",
+        "@doflo/flow-api-react": "latest",
+        "@doflo/flow-data-interface-tools": "latest",
+        "@doflo/flow-fern-tools": "latest",
+        "@doflo/flow-interfaces": "latest",
+        "@doforever/id-generator": "latest",
+        "@dofu/config": "latest",
+        "@dofu/infra": "latest",
+        "@dofu/rest": "latest",
+        "@dofu/test": "latest",
+        "@dofy/emojidb": "latest",
+        "@dofy/kb2gio": "latest"
+    }
+}

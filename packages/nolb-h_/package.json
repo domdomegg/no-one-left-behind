@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-h_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "h.js": "latest",
+        "h.time-tools": "latest",
+        "h.w.j.devcamp-js-folder": "latest",
+        "h_b_zhi": "latest",
+        "h_charts": "latest",
+        "h_code-package": "latest",
+        "h_day01": "latest",
+        "h_endings": "latest",
+        "h_fetch": "latest",
+        "h_g_t": "latest",
+        "h_js_util": "latest",
+        "h_money": "latest",
+        "h_testpack_demo": "latest",
+        "h_ui": "latest",
+        "h_ui_anona": "latest",
+        "h_ui_beta": "latest",
+        "h_ui_ie9": "latest",
+        "h_ui_o45": "latest",
+        "h_ui_ois": "latest",
+        "h_utils": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_testm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@testm8434/simple-peer": "latest",
+        "@testmace/angular-tree-component": "latest",
+        "@testmace/cli": "latest",
+        "@testmail.app/graphql-request": "latest",
+        "@testmain/address-encoder": "latest",
+        "@testmain/dnssec-oracle-anchors": "latest",
+        "@testmain/ens": "latest",
+        "@testmain/test-utils": "latest",
+        "@testmarktest/common": "latest",
+        "@testmatic/core": "latest",
+        "@testmatic/web": "latest",
+        "@testmd/common": "latest",
+        "@testmo/testmo-api": "latest",
+        "@testmo/testmo-cli": "latest"
+    }
+}

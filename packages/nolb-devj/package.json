@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-devj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "devjar": "latest",
+        "devjet": "latest",
+        "devjet-auth-ui-pages": "latest",
+        "devjet-cloudflare-analytics": "latest",
+        "devjet-contentlayer-mdx-blog": "latest",
+        "devjet-newsletter-with-revue": "latest",
+        "devjet-page-progressbar": "latest",
+        "devjet-protected-routes": "latest",
+        "devjet-react": "latest",
+        "devjet-supabase-auth": "latest",
+        "devjklg-log-terminal": "latest",
+        "devjs-http-status": "latest",
+        "devjs-particles": "latest",
+        "devjs7-components": "latest"
+    }
+}

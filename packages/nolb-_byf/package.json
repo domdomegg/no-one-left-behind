@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_byf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@byfade/eslint-config": "latest",
+        "@byffel/chasperli-box": "latest",
+        "@byfin/fin-pi-api-js": "latest",
+        "@byfin/node-red-contrib-binance": "latest",
+        "@byfow/mickaworld": "latest"
+    }
+}

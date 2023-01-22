@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_ro4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ro4z/react-native-animated-ellipsis": "latest",
+        "@ro4z/react-native-banner-carousel": "latest",
+        "@ro4z/react-native-system-time": "latest",
+        "@ro4z/react-native-youtube": "latest",
+        "@ro4z/react-native-youtube-iframe": "latest"
+    }
+}

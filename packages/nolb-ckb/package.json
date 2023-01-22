@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-ckb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ckb-cache-js": "latest",
+        "ckb-colour-palette": "latest",
+        "ckb-hd-wallet": "latest",
+        "ckb-js-footer": "latest",
+        "ckb-js-toolkit": "latest",
+        "ckb-js-toolkit-contrib": "latest",
+        "ckb-lumos-indexer": "latest",
+        "ckb-standalone-debugger": "latest",
+        "ckb-transaction-dumper": "latest",
+        "ckbdsyj": "latest",
+        "ckbox": "latest",
+        "ckbrowser": "latest",
+        "ckbtestlib": "latest"
+    }
+}

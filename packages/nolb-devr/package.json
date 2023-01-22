@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-devr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "devr": "latest",
+        "devrant": "latest",
+        "devrant-api": "latest",
+        "devrant-bot": "latest",
+        "devrant-cli": "latest",
+        "devrant-lite": "latest",
+        "devrant-new": "latest",
+        "devraykim": "latest",
+        "devrchancay": "latest",
+        "devready": "latest",
+        "devreload": "latest",
+        "devrep": "latest",
+        "devreplay": "latest",
+        "devreplay-server": "latest",
+        "devrepo-templates": "latest",
+        "devrise-git-zsh-plugin": "latest",
+        "devro": "latest",
+        "devroad-data": "latest",
+        "devrobot_npm": "latest",
+        "devrobot_npm_backend": "latest",
+        "devrobot_npm_mobile": "latest",
+        "devrobot_npm_redux": "latest",
+        "devrobot_npm_server": "latest",
+        "devrobot_npm_utilidades": "latest",
+        "devrobot_npm_web": "latest",
+        "devrouter": "latest",
+        "devroxy": "latest",
+        "devrsi0n-lighthouse": "latest"
+    }
+}

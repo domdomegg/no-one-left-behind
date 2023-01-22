@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-aup",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aup": "latest",
+        "aupair": "latest",
+        "aupair-api": "latest",
+        "aupair-cli": "latest",
+        "auph": "latest",
+        "auploader": "latest",
+        "aupr": "latest",
+        "auprecel": "latest",
+        "auprico-auth-angular": "latest",
+        "auprico-auth-ui": "latest",
+        "aupup-ui": "latest"
+    }
+}

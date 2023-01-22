@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-pat-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pat-cli": "latest",
+        "pat-common": "latest",
+        "pat-content-mirror": "latest",
+        "pat-design-alpha": "latest",
+        "pat-design-system": "latest",
+        "pat-display-time": "latest",
+        "pat-doclock": "latest",
+        "pat-github-example": "latest",
+        "pat-helpers": "latest",
+        "pat-init": "latest",
+        "pat-mat": "latest",
+        "pat-resourcepolling": "latest",
+        "pat-sajax": "latest",
+        "pat-shared-components": "latest",
+        "pat-shopping-cart": "latest",
+        "pat-tree": "latest",
+        "pat-ui": "latest",
+        "pat-ui-test": "latest",
+        "pat-upload": "latest"
+    }
+}

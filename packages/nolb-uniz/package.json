@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-uniz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "unizen-dex-aggregator": "latest",
+        "unizend-color-logger": "latest",
+        "unizend-localbtc": "latest",
+        "unizin-lib": "latest",
+        "unizin-react-select": "latest",
+        "unizon-widget": "latest",
+        "unizone-password-verify": "latest",
+        "unizone-web-api-sign": "latest",
+        "unizone-web-open-api-options": "latest",
+        "unizone_report_demo": "latest",
+        "unizoom": "latest"
+    }
+}

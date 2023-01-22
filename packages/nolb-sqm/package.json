@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-sqm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sqm-chathere": "latest",
+        "sqmicro-commons": "latest",
+        "sqmicro-connection": "latest",
+        "sqmicro-driver-fs": "latest",
+        "sqmicro-driver-hdfs": "latest",
+        "sqmicro-driver-pg": "latest",
+        "sqmicro-driver-vertica": "latest",
+        "sqmicro-http-service": "latest",
+        "sqmicro-queue": "latest",
+        "sqmicro-streams": "latest",
+        "sqml": "latest"
+    }
+}

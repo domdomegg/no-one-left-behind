@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-multia",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "multiaddr": "latest",
+        "multiaddr-to-stupid-string": "latest",
+        "multiaddr-to-uri": "latest",
+        "multiaddr-to-url": "latest",
+        "multiagent": "latest",
+        "multiapp-api": "latest",
+        "multiappacitive": "latest",
+        "multiar.ch": "latest",
+        "multiarity": "latest",
+        "multiarr": "latest",
+        "multiarr_sort_by_index": "latest",
+        "multiarraysort": "latest",
+        "multiary": "latest",
+        "multiasset": "latest",
+        "multiautocomplete": "latest"
+    }
+}

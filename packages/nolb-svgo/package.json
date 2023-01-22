@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-svgo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svgo": "latest",
+        "svgo-add-viewbox": "latest",
+        "svgo-autocrop": "latest",
+        "svgo-browser": "latest",
+        "svgo-compress-image": "latest",
+        "svgo-config": "latest",
+        "svgo-diff": "latest",
+        "svgo-icon": "latest",
+        "svgo-icons": "latest",
+        "svgo-inline-loader": "latest",
+        "svgo-lite": "latest",
+        "svgo-loader": "latest",
+        "svgo-plugin-add-classes-to-colors": "latest",
+        "svgo-plugin-css-modules": "latest",
+        "svgo-plugin-unify-ids": "latest",
+        "svgo-ruby": "latest",
+        "svgo-sync": "latest",
+        "svgo-unique-id": "latest",
+        "svgo-viewbox": "latest",
+        "svgo_export": "latest",
+        "svgoban": "latest",
+        "svgod": "latest",
+        "svgofmml": "latest",
+        "svgogo": "latest",
+        "svgood": "latest",
+        "svgox-loader": "latest"
+    }
+}

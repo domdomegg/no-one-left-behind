@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_atf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@atfarm/connected-react-router": "latest",
+        "@atfarm/utm-persister": "latest",
+        "@atffe/atfui": "latest",
+        "@atfotc/scripture-utils": "latest",
+        "@atfui/atfui": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_yuj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yujeongjeon/a": "latest",
+        "@yujeongjeon/b": "latest",
+        "@yujin321/request": "latest",
+        "@yujinakayama/apple-music": "latest",
+        "@yujindong/test-package": "latest",
+        "@yujindong/tpl-loader": "latest",
+        "@yujindong/validate": "latest",
+        "@yujinghan/react-native-spring-scrollview": "latest",
+        "@yujinpan/common-modules": "latest",
+        "@yujonglee/codegen-cli": "latest",
+        "@yujonglee/mdn-rust-wasm": "latest"
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-timb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "timba-js": "latest",
+        "timber": "latest",
+        "timber-console": "latest",
+        "timber-container": "latest",
+        "timber-eslint": "latest",
+        "timber-fn": "latest",
+        "timber-frame": "latest",
+        "timber-js": "latest",
+        "timber-logger": "latest",
+        "timber-ui": "latest",
+        "timber.yang": "latest",
+        "timbercss": "latest",
+        "timberhitch": "latest",
+        "timbers": "latest",
+        "timberwolf": "latest",
+        "timberyard": "latest",
+        "timbits": "latest",
+        "timbl": "latest",
+        "timble-reactive-form": "latest",
+        "timbles": "latest",
+        "timbo-prompts": "latest",
+        "timbot-next-css": "latest",
+        "timbot2": "latest",
+        "timbr": "latest",
+        "timbre": "latest"
+    }
+}

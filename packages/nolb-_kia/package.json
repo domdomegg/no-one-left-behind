@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_kia",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kiaa/video-thumbnail": "latest",
+        "@kialam/pi-is-pi": "latest",
+        "@kiali/k-charted-pf3": "latest",
+        "@kiali/k-charted-pf4": "latest",
+        "@kiali/kiali-ui": "latest",
+        "@kiamboteinc/kscdn": "latest",
+        "@kiamboteinc/ksupdate": "latest",
+        "@kiamcoo/bootstrap-backend": "latest",
+        "@kianalysix/common": "latest",
+        "@kianelc/fluentsql": "latest"
+    }
+}

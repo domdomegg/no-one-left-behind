@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_sef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sefailyasoz/react-carousel": "latest",
+        "@sefaria/react-native-htmlview": "latest",
+        "@sefaria/search": "latest",
+        "@sefas/simple": "latest",
+        "@sefas/simple2": "latest",
+        "@sefasungur/padder": "latest",
+        "@sefasungur/random-coordinate-generator": "latest",
+        "@sefasungur/simplenodejs": "latest",
+        "@sefinek/discord-modals": "latest",
+        "@sefinek/random-animals": "latest",
+        "@sefinek/random-emoji": "latest",
+        "@sefinek/randombytes": "latest",
+        "@sefininio/nodered-ha-utils": "latest",
+        "@sefirosweb/react-crud": "latest"
+    }
+}

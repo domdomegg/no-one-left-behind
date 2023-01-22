@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_fontl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fontlab/constants": "latest",
+        "@fontlab/enum-scope": "latest",
+        "@fontlab/enum-side": "latest",
+        "@fontlab/group": "latest",
+        "@fontlab/kerning-class": "latest",
+        "@fontlab/kerning-pairs": "latest",
+        "@fontlab/latin": "latest",
+        "@fontlab/master": "latest",
+        "@fontlab/metric": "latest",
+        "@fontlab/metrics": "latest",
+        "@fontlab/pheno": "latest",
+        "@fontlab/scripts": "latest"
+    }
+}

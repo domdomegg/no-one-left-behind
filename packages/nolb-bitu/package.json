@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-bitu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bitu-test-sdk": "latest",
+        "bituan-kline": "latest",
+        "bitum": "latest",
+        "bitumen": "latest",
+        "bitunloader": "latest",
+        "bituriparser": "latest",
+        "bitutils": "latest",
+        "bitutilsofnode": "latest",
+        "bitutilsofweb": "latest"
+    }
+}

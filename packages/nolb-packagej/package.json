@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-packagej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "packagejenishtypescript": "latest",
+        "packagejibstut": "latest",
+        "packagejs": "latest",
+        "packagejson": "latest",
+        "packagejson-alphabetically": "latest",
+        "packagejson-demo": "latest",
+        "packagejson-diff": "latest",
+        "packagejson-generator": "latest",
+        "packagejson-loader": "latest",
+        "packagejson2npmcmd": "latest",
+        "packagejsondata": "latest",
+        "packagejsonexample": "latest",
+        "packagejsonkeyfetch": "latest",
+        "packagejsontest": "latest"
+    }
+}

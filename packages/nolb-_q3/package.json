@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_q3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@q3-technology/design-system-q3": "latest",
+        "@q33357/cellevolution-sdk": "latest",
+        "@q3log/discord": "latest",
+        "@q3log/parser": "latest",
+        "@q3log/pretty": "latest",
+        "@q3log/ra3-summary": "latest",
+        "@q3log/types": "latest"
+    }
+}

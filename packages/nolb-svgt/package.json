@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-svgt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svgt-literal": "latest",
+        "svgtiler": "latest",
+        "svgtoavg-cli": "latest",
+        "svgtocss": "latest",
+        "svgtocssicons": "latest",
+        "svgtodatauri": "latest",
+        "svgtofont": "latest",
+        "svgtofont-webpack-plugin": "latest",
+        "svgtofont4wqfix": "latest",
+        "svgtofontplus": "latest",
+        "svgtoicon": "latest",
+        "svgtopng": "latest",
+        "svgtovue-cli": "latest",
+        "svgtracer": "latest",
+        "svgtree": "latest",
+        "svgts": "latest",
+        "svgttf": "latest",
+        "svgtvi-example-icons": "latest"
+    }
+}

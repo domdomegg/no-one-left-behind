@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-medo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "medo": "latest",
+        "medoapi": "latest",
+        "medoc": "latest",
+        "medocollector": "latest",
+        "medom": "latest",
+        "medomodules": "latest",
+        "medoms": "latest",
+        "medoo": "latest",
+        "medoo.js": "latest",
+        "medooze-audio-codecs": "latest",
+        "medooze-media-server": "latest",
+        "medooze-media-server-client": "latest",
+        "medooze-rtmp-server": "latest",
+        "medooze-rtsp-server": "latest",
+        "medooze-video-codecs": "latest"
+    }
+}

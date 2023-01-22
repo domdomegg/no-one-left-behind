@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-pdr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pdr-aui": "latest",
+        "pdr-mf-core-cobranza-lib": "latest",
+        "pdr-presentation": "latest",
+        "pdr-ts-inputon": "latest",
+        "pdr_111": "latest",
+        "pdr_112": "latest",
+        "pdr_113": "latest",
+        "pdrc-housekeeping": "latest",
+        "pdrjs": "latest",
+        "pdrone": "latest",
+        "pdrone-low-level": "latest"
+    }
+}

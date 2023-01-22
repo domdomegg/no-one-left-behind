@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-vue-p5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-p5": "latest",
+        "vue-p5-component": "latest",
+        "vue-p5-play": "latest"
+    }
+}

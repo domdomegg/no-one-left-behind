@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-node-c-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-c-analyzer": "latest",
+        "node-c-c-b": "latest",
+        "node-c-c-c": "latest",
+        "node-c-lexer": "latest",
+        "node-c-parser": "latest",
+        "node-c-struct": "latest",
+        "node-c-tape": "latest"
+    }
+}

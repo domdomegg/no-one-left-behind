@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-node-s",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-node-s3": "latest",
+        "@zalastax/nolb-node-sa": "latest",
+        "@zalastax/nolb-node-sb": "latest",
+        "@zalastax/nolb-node-sc": "latest",
+        "@zalastax/nolb-node-sd": "latest",
+        "@zalastax/nolb-node-se": "latest",
+        "@zalastax/nolb-node-sf": "latest",
+        "@zalastax/nolb-node-sg": "latest",
+        "@zalastax/nolb-node-sh": "latest",
+        "@zalastax/nolb-node-si": "latest",
+        "@zalastax/nolb-node-sj": "latest",
+        "@zalastax/nolb-node-sk": "latest",
+        "@zalastax/nolb-node-sl": "latest",
+        "@zalastax/nolb-node-sm": "latest",
+        "@zalastax/nolb-node-sn": "latest",
+        "@zalastax/nolb-node-so": "latest",
+        "@zalastax/nolb-node-sp": "latest",
+        "@zalastax/nolb-node-sq": "latest",
+        "@zalastax/nolb-node-sr": "latest",
+        "@zalastax/nolb-node-ss": "latest",
+        "@zalastax/nolb-node-st": "latest",
+        "@zalastax/nolb-node-su": "latest",
+        "@zalastax/nolb-node-sv": "latest",
+        "@zalastax/nolb-node-sw": "latest",
+        "@zalastax/nolb-node-sx": "latest",
+        "@zalastax/nolb-node-sy": "latest"
+    }
+}

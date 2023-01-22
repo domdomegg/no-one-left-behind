@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-ness",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ness": "latest",
+        "ness-canvas": "latest",
+        "ness-less": "latest",
+        "ness-tailwind": "latest",
+        "ness-template-default": "latest",
+        "ness-template-typescript": "latest",
+        "ness-tool": "latest",
+        "ness-ui": "latest",
+        "ness_react_app_nadeem": "latest",
+        "nessa": "latest",
+        "nessajs": "latest",
+        "nessapp": "latest",
+        "nessclient": "latest",
+        "nessdb": "latest",
+        "nessdev": "latest",
+        "nessie": "latest",
+        "nessie-nodejs-sdk": "latest",
+        "nessie-ui": "latest",
+        "nessim-btesh": "latest",
+        "nession": "latest",
+        "nesslab-reader-api": "latest",
+        "nesssssssss": "latest",
+        "nessus-api-client": "latest",
+        "nessus-api-helper": "latest",
+        "nessus-ui": "latest",
+        "nessy": "latest",
+        "nessy-palindrome": "latest"
+    }
+}

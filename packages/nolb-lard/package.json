@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-lard",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lard": "latest",
+        "lard-codepipeline-custom-action": "latest",
+        "lard-codepipeline-lambda-aliaser": "latest",
+        "lard-codepipeline-lambda-versioner": "latest",
+        "lard-lambda-handler": "latest",
+        "lard-ui": "latest",
+        "larder": "latest",
+        "lardi-trans-api": "latest",
+        "lardr": "latest"
+    }
+}

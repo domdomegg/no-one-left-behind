@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_ti-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ti-engine/core": "latest",
+        "@ti-engine/tester": "latest",
+        "@ti-fe/cli": "latest",
+        "@ti-fe/create-app": "latest",
+        "@ti-fe/docs": "latest",
+        "@ti-fe/eslint-config": "latest",
+        "@ti-fe/prettier-config": "latest",
+        "@ti-fe/site": "latest",
+        "@ti-gecko/react-calendar-timeline": "latest",
+        "@ti-gecko/tiloc-ckeditor5": "latest",
+        "@ti-pa-to/forms-form-controller": "latest",
+        "@ti-pa-to/ui-clock": "latest",
+        "@ti-pa-to/ui-floatbox": "latest",
+        "@ti-pa-to/ui-icon": "latest",
+        "@ti-pa-to/ui-item": "latest",
+        "@ti-pa-to/ui-styles": "latest",
+        "@ti-platform/aide": "latest",
+        "@ti-platform/aide-build-tools": "latest",
+        "@ti-platform/aide-quasar": "latest",
+        "@ti-platform/aide-vue": "latest",
+        "@ti-platform/aide-vueuse": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-so2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "so2-admin-client": "latest",
+        "so2-client-admin": "latest",
+        "so2proyecto2": "latest"
+    }
+}

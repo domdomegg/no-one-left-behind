@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-twix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "twix": "latest",
+        "twix-catbuffer-typescript": "latest",
+        "twix-openapi-typescript-fetch-client": "latest",
+        "twix-rodcope1": "latest",
+        "twix-sdk": "latest",
+        "twixly-extension": "latest",
+        "twixly-extension-sdk": "latest",
+        "twixt": "latest",
+        "twixt-chain": "latest",
+        "twixt-class": "latest",
+        "twixt-click": "latest",
+        "twixt-document": "latest",
+        "twixt-event-target": "latest",
+        "twixt-handle": "latest",
+        "twixt-mutant": "latest",
+        "twixt-mutation": "latest",
+        "twixt-mutation-event": "latest",
+        "twixt-select": "latest",
+        "twixt-submit": "latest",
+        "twixt-watch": "latest",
+        "twixt-watcher": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-emo-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emo-cli": "latest",
+        "emo-db": "latest",
+        "emo-diff-cover": "latest",
+        "emo-duxinshu": "latest",
+        "emo-eco": "latest",
+        "emo-gen": "latest",
+        "emo-itheima-tools": "latest",
+        "emo-ji": "latest",
+        "emo-jiaosheshu": "latest",
+        "emo-rating-react": "latest",
+        "emo-shidian": "latest",
+        "emo-smile": "latest",
+        "emo-table": "latest",
+        "emo-test1": "latest",
+        "emo-ui": "latest",
+        "emo-zz": "latest"
+    }
+}

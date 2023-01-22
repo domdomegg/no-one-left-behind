@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-glz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "glz-cli": "latest",
+        "glz-nice-cli": "latest",
+        "glzc-common-libs": "latest",
+        "glzc-sy-libs": "latest",
+        "glzh-components": "latest",
+        "glzjintest1": "latest"
+    }
+}

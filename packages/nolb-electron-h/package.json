@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-electron-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "electron-handlebars": "latest",
+        "electron-happy-ipc": "latest",
+        "electron-har": "latest",
+        "electron-hbs": "latest",
+        "electron-header": "latest",
+        "electron-heapdump": "latest",
+        "electron-helpers": "latest",
+        "electron-hid-test": "latest",
+        "electron-hid-toy": "latest",
+        "electron-hmr": "latest",
+        "electron-holochain": "latest",
+        "electron-home-cloud": "latest",
+        "electron-hostile": "latest",
+        "electron-hot": "latest",
+        "electron-hot-loader": "latest",
+        "electron-hot-reload": "latest",
+        "electron-hot-updata": "latest",
+        "electron-hotkey": "latest",
+        "electron-hotkey-menu": "latest",
+        "electron-html-to": "latest",
+        "electron-http": "latest",
+        "electron-http-mitm-proxy": "latest",
+        "electron-http-similar": "latest",
+        "electron-httpdns": "latest",
+        "electron-httpdns-tmp": "latest",
+        "electron-hunspell": "latest",
+        "electron-hyperlinks-to-browser": "latest"
+    }
+}

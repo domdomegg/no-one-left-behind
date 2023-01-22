@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-feo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "feo": "latest",
+        "feo-css": "latest",
+        "feoblog-client": "latest",
+        "feodorov_m06_03": "latest",
+        "feogo-image-zoom-viewer": "latest",
+        "feok-lib": "latest",
+        "feonix-js-api": "latest",
+        "feonix-store": "latest",
+        "feoooo-dialog": "latest",
+        "feorex-test1": "latest",
+        "feorex-test2": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-ember-cli-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ember-cli-war-packager": "latest",
+        "ember-cli-wat": "latest",
+        "ember-cli-wat-001hc": "latest",
+        "ember-cli-wat-002": "latest",
+        "ember-cli-wavesurfer-js-shim": "latest",
+        "ember-cli-waxpoetic": "latest",
+        "ember-cli-weather-icons": "latest",
+        "ember-cli-web-components": "latest",
+        "ember-cli-web-workers": "latest",
+        "ember-cli-webcomponents-bundler": "latest",
+        "ember-cli-webfont": "latest",
+        "ember-cli-webfontloader": "latest",
+        "ember-cli-webgl": "latest",
+        "ember-cli-webpack-imports": "latest",
+        "ember-cli-webpack-packager": "latest",
+        "ember-cli-websocket-rails": "latest",
+        "ember-cli-weinre": "latest",
+        "ember-cli-what-input": "latest",
+        "ember-cli-what-what": "latest",
+        "ember-cli-whirl": "latest",
+        "ember-cli-windows": "latest",
+        "ember-cli-windows-addon": "latest",
+        "ember-cli-with-relative-path": "latest",
+        "ember-cli-wizard": "latest",
+        "ember-cli-wordpress": "latest",
+        "ember-cli-words": "latest",
+        "ember-cli-workbox": "latest",
+        "ember-cli-wp": "latest"
+    }
+}

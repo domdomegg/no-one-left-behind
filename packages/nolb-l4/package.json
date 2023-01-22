@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-l4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "l4": "latest",
+        "l4-stencil-tutorial": "latest",
+        "l4-stenciljs-yt-tutorial": "latest",
+        "l42-cli": "latest",
+        "l451lib": "latest",
+        "l4bz": "latest",
+        "l4gc": "latest",
+        "l4gd": "latest",
+        "l4ge": "latest",
+        "l4gh": "latest",
+        "l4ghello": "latest",
+        "l4gj": "latest",
+        "l4go": "latest",
+        "l4n": "latest",
+        "l4n-common": "latest",
+        "l4n-provider": "latest",
+        "l4n-provider-csgo": "latest",
+        "l4n-provider-l4d2": "latest",
+        "l4n-provider-reflexarena": "latest",
+        "l4n-query": "latest",
+        "l4n-server": "latest",
+        "l4n-server-providerlink": "latest",
+        "l4n-server-voice-ts3": "latest",
+        "l4xus": "latest",
+        "l4xus-intro": "latest"
+    }
+}

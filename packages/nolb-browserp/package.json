@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-browserp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "browserProxy": "latest",
+        "browserplatform-build": "latest",
+        "browserpot": "latest",
+        "browserpot-client": "latest",
+        "browserpot-kit": "latest",
+        "browserprint": "latest",
+        "browserprint-es": "latest"
+    }
+}

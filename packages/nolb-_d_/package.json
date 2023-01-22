@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_d_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@d.blizen/datepicker-nash-travel": "latest",
+        "@d.horiyama/yaml_schema": "latest",
+        "@d.lukyanov/react-filters-provider": "latest",
+        "@d.morozov/grc-ui": "latest",
+        "@d.morozov/ui": "latest",
+        "@d.mushkov/redux-saga-oauth": "latest",
+        "@d.radjenovic/npm-test-add": "latest",
+        "@d.ratzinger/angular-datagrid": "latest",
+        "@d.ratzinger/angular-datagrid-updated": "latest",
+        "@d.reitzner/responsive-background-image": "latest",
+        "@d.reitzner/vite-pnpapi-workaround": "latest",
+        "@d.sadilo/node_cleaner": "latest",
+        "@d.shmaliuk/git-bump-cli": "latest",
+        "@d_hristov/get-value": "latest",
+        "@d_ivanov/tiny": "latest",
+        "@d_lepahin/react-datetime-picker": "latest",
+        "@d_ttang/hello-wasm": "latest"
+    }
+}

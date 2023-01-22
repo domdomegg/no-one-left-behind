@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-typef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-typefa": "latest",
+        "@zalastax/nolb-typefe": "latest",
+        "@zalastax/nolb-typeff": "latest",
+        "@zalastax/nolb-typefi": "latest",
+        "@zalastax/nolb-typefl": "latest",
+        "@zalastax/nolb-typefo": "latest",
+        "@zalastax/nolb-typefp": "latest",
+        "@zalastax/nolb-typefr": "latest",
+        "@zalastax/nolb-typefs": "latest",
+        "@zalastax/nolb-typefu": "latest",
+        "@zalastax/nolb-typefx": "latest",
+        "@zalastax/nolb-typefy": "latest"
+    }
+}

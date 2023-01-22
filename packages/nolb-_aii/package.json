@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_aii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aiiasoft/aiia-automation-workflow": "latest",
+        "@aiiasoft/aiia-json-schema": "latest",
+        "@aiiasoft/angular-dynamic-router": "latest",
+        "@aiiasoft/ngx-container": "latest",
+        "@aiiasoft/ngx-dynamic-router": "latest",
+        "@aiidyc/tools": "latest",
+        "@aiir/lambda-proxy": "latest",
+        "@aiir/php-lambda": "latest",
+        "@aiir/podcast-pingback-receiver": "latest",
+        "@aiiua/npm-test-aiiua": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-kuy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "kuy": "latest",
+        "kuyabot": "latest",
+        "kuyabot-command": "latest",
+        "kuyabot-http": "latest",
+        "kuyabot-logger": "latest",
+        "kuyabot-rawcommand": "latest",
+        "kuyabot-sqlite": "latest",
+        "kuyabot-status": "latest",
+        "kuyan-ui": "latest",
+        "kuyin-webpack-plugins": "latest",
+        "kuyu": "latest",
+        "kuyuitbux": "latest",
+        "kuyun-ui": "latest"
+    }
+}

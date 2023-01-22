@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-calo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "calo": "latest",
+        "calo-pdfer": "latest",
+        "calo001-platzom": "latest",
+        "calo10": "latest",
+        "calor": "latest",
+        "calorie": "latest",
+        "calories-burnt": "latest",
+        "calotescu": "latest",
+        "calou-textalk": "latest"
+    }
+}

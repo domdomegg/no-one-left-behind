@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-typese",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typesearch": "latest",
+        "typesearch-cli": "latest",
+        "typeself": "latest",
+        "typesense": "latest",
+        "typesense-docsearch-css": "latest",
+        "typesense-docsearch-react": "latest",
+        "typesense-docsearch.js": "latest",
+        "typesense-instantsearch-adapter": "latest",
+        "typesense-mongodb": "latest",
+        "typesense-sitemap": "latest",
+        "typesense_mjs_test": "latest",
+        "typeser": "latest",
+        "typeserializer": "latest",
+        "typeset": "latest",
+        "typeset-brunch": "latest",
+        "typeset.css": "latest",
+        "typesetbot": "latest",
+        "typesetbot-bin": "latest",
+        "typesettable": "latest",
+        "typesetter": "latest",
+        "typesetter.js": "latest",
+        "typesetters-son": "latest",
+        "typesettin-style-guide": "latest",
+        "typesettings": "latest",
+        "typesettings-js": "latest"
+    }
+}

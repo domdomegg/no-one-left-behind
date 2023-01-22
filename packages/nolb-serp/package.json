@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-serp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "serp": "latest",
+        "serp-base": "latest",
+        "serp-extended": "latest",
+        "serp-helper": "latest",
+        "serp-keyword-statistics": "latest",
+        "serp-parser": "latest",
+        "serp-preview": "latest",
+        "serp-rescraper": "latest",
+        "serp-rest": "latest",
+        "serp-results": "latest",
+        "serpa": "latest",
+        "serpapi": "latest",
+        "serpens": "latest",
+        "serpent": "latest",
+        "serpent-coder": "latest",
+        "serpent_cipher": "latest",
+        "serpentapi": "latest",
+        "serpentine": "latest",
+        "serpentity": "latest",
+        "serpentity-contrib": "latest",
+        "serphperless": "latest",
+        "serpstat-api-3": "latest",
+        "serpstat-icons": "latest",
+        "serpstat-index-search-form": "latest",
+        "serpy": "latest"
+    }
+}

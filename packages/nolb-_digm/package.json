@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_digm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@digma/instrumentation-express": "latest",
+        "@digma/opentelemetry-exporter-aggregate": "latest",
+        "@digma/otel-js-instrumentation": "latest"
+    }
+}

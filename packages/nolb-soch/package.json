@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-soch",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sochain": "latest",
+        "sochain-adapter": "latest",
+        "sochajs": "latest",
+        "sochelper": "latest",
+        "sochi": "latest",
+        "sochi-lib": "latest"
+    }
+}

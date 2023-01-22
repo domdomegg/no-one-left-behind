@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-recd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "recd": "latest",
+        "recd-cli": "latest",
+        "recdal": "latest",
+        "recdal-testing-build": "latest",
+        "recdi-cli": "latest",
+        "recdirreader": "latest",
+        "recdo": "latest"
+    }
+}

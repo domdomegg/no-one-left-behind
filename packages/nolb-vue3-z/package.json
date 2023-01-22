@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-vue3-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue3-z-ui": "latest",
+        "vue3-zb-cli": "latest",
+        "vue3-zdy-sign": "latest",
+        "vue3-zlt-ui": "latest",
+        "vue3-zoom": "latest",
+        "vue3-ztree": "latest",
+        "vue3-zujian": "latest"
+    }
+}

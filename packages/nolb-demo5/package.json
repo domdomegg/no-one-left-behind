@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-demo5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "demo5": "latest",
+        "demo5-example-block": "latest",
+        "demo5-example-component": "latest",
+        "demo5-example-scaffold": "latest",
+        "demo5-test-component1": "latest",
+        "demo5-weather": "latest",
+        "demo503": "latest",
+        "demo539": "latest",
+        "demo550": "latest",
+        "demo5_bellyster": "latest",
+        "demo5_zhangweiwei": "latest",
+        "demo5lib": "latest"
+    }
+}

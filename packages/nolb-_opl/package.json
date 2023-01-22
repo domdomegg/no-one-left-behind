@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_opl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@oplabs/http-proxy": "latest",
+        "@oplaner4/smart-sticky": "latest",
+        "@oplayer/ad": "latest",
+        "@oplayer/core": "latest",
+        "@oplayer/danmaku": "latest",
+        "@oplayer/danmuku": "latest",
+        "@oplayer/dash": "latest",
+        "@oplayer/hls": "latest",
+        "@oplayer/mpegts": "latest",
+        "@oplayer/react": "latest",
+        "@oplayer/shaka": "latest",
+        "@oplayer/thumbnails-tool": "latest",
+        "@oplayer/torrent": "latest",
+        "@oplayer/ui": "latest",
+        "@ople/faunadb": "latest",
+        "@ople/faunadb-api": "latest",
+        "@ople/faunadb-cli": "latest",
+        "@opliko/semantic-release-github": "latest",
+        "@opllama.js/data-structs": "latest",
+        "@opllama.js/ds": "latest",
+        "@opllama.js/validator": "latest",
+        "@opllama2/services": "latest",
+        "@opllama2/ui": "latest",
+        "@oplog/data-grid": "latest",
+        "@oplog/express": "latest",
+        "@oplog/file-uploader": "latest",
+        "@oplog/resource-redux": "latest"
+    }
+}

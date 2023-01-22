@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-mets",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "metservice-synoptic-codes": "latest",
+        "metsky-test-client": "latest",
+        "metslesliens": "latest",
+        "metsoui": "latest",
+        "metstrike-base64": "latest",
+        "metstrike-diff-sequence": "latest",
+        "metstrike-ejson": "latest",
+        "metstrike-geojson-utils": "latest",
+        "metstrike-id-map": "latest",
+        "metstrike-minimongo": "latest",
+        "metstrike-mongo-id": "latest",
+        "metstrike-npm-shim": "latest",
+        "metstrike-npm-tinytest": "latest",
+        "metstrike-ordered-dict": "latest",
+        "metstrike-random": "latest",
+        "metstrike-reactive-dict": "latest",
+        "metstrike-reactive-var": "latest",
+        "metstrike-tracker": "latest"
+    }
+}

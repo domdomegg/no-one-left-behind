@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-uip",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "uip": "latest",
+        "uip-design-system": "latest",
+        "uipaas": "latest",
+        "uipaas-create": "latest",
+        "uipack": "latest",
+        "uipack-idus": "latest",
+        "uipack-react": "latest",
+        "uipacker": "latest",
+        "uipacktestkit": "latest",
+        "uipanel": "latest",
+        "uipart": "latest",
+        "uipath-orchestrator": "latest",
+        "uipath-orchestrator-api": "latest",
+        "uipath-orchestrator-api-module": "latest",
+        "uipath-orchestrator-api-node": "latest",
+        "uipath-orchestrator-beta": "latest",
+        "uipath-webhooks": "latest",
+        "uipipes": "latest",
+        "uiplay": "latest",
+        "uiplaybook": "latest",
+        "uiplus_sublyme": "latest",
+        "uipress": "latest",
+        "uiprgl": "latest",
+        "uiprompt": "latest",
+        "uipx-webpack-plugin": "latest"
+    }
+}

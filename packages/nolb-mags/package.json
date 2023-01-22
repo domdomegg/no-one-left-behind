@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-mags",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mags-modules": "latest",
+        "magsdk": "latest",
+        "magsdk-config-enhancements": "latest",
+        "magsdk-core": "latest",
+        "magsearch": "latest",
+        "magshimim": "latest",
+        "magsmidi": "latest",
+        "magspodtsru": "latest",
+        "magsposdtsru": "latest"
+    }
+}

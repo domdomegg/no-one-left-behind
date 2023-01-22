@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-bab-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bab-bem-utils": "latest",
+        "bab-cli": "latest",
+        "bab-client-cache": "latest",
+        "bab-cypress-utils": "latest",
+        "bab-date-time": "latest",
+        "bab-elements": "latest",
+        "bab-event-bus": "latest",
+        "bab-fitch": "latest",
+        "bab-intl": "latest",
+        "bab-style-system": "latest",
+        "bab-theme": "latest"
+    }
+}

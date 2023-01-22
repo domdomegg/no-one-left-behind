@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_fung",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fungible-systems/capsize": "latest",
+        "@fungible-systems/eslint-config": "latest",
+        "@fungible-systems/jotai": "latest",
+        "@fungible-systems/native-module-test": "latest",
+        "@fungible-systems/noble-secp256k1": "latest",
+        "@fungible-systems/node-libs-expo": "latest",
+        "@fungible-systems/react-native-expo-crypto": "latest",
+        "@fungible-systems/rich-markdown-editor": "latest",
+        "@fungible-systems/sip-12": "latest",
+        "@fungible-systems/webcrypto-expo": "latest",
+        "@fungible-systems/zone-file": "latest",
+        "@fungibless/wallet-module": "latest",
+        "@fungifi/spore": "latest",
+        "@fungifi/token": "latest",
+        "@fungyproof/eth-nft": "latest",
+        "@fungyproof/nft-resolver": "latest",
+        "@fungyproof/storage": "latest",
+        "@fungyproof/store": "latest",
+        "@fungyproof/utils": "latest",
+        "@fungyproof/validate": "latest",
+        "@fungyproof/validation": "latest"
+    }
+}

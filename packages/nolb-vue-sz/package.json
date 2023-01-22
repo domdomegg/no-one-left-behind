@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-vue-sz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-szp-calendar": "latest",
+        "vue-szp-ctripteam": "latest",
+        "vue-szp-header": "latest",
+        "vue-szp-mail-choose": "latest",
+        "vue-szp-nav-left": "latest",
+        "vue-szp-paging": "latest",
+        "vue-szyh-iview": "latest",
+        "vue-szyh-viewdesign": "latest"
+    }
+}

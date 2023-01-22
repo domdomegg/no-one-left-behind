@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-mu2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mu2": "latest",
+        "mu2-updated": "latest",
+        "mu2.toast": "latest",
+        "mu2.toaster": "latest",
+        "mu2.validate": "latest",
+        "mu2express": "latest"
+    }
+}

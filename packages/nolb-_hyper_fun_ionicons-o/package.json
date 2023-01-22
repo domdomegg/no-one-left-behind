@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_ionicons-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/ionicons-open": "latest",
+        "@hyper.fun/ionicons-open-outline": "latest",
+        "@hyper.fun/ionicons-open-sharp": "latest",
+        "@hyper.fun/ionicons-options": "latest",
+        "@hyper.fun/ionicons-options-outline": "latest",
+        "@hyper.fun/ionicons-options-sharp": "latest"
+    }
+}

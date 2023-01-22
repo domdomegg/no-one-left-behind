@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_hev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hevi/hello_wasw": "latest",
+        "@heviir/async-request": "latest",
+        "@heviir/dequery": "latest",
+        "@heviir/fastify-auth": "latest",
+        "@heviir/fastify-errors": "latest",
+        "@heviir/fastify-exit-handler": "latest",
+        "@heviir/fastify-pg": "latest",
+        "@heviir/http-errors": "latest",
+        "@heviir/pg-template-string": "latest",
+        "@heviir/service-config": "latest",
+        "@hevv1/project-base-structure": "latest",
+        "@hevv1/project-setup-webpack": "latest",
+        "@hevv1/react-base-structure": "latest"
+    }
+}

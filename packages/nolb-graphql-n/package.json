@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-graphql-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graphql-nats": "latest",
+        "graphql-nats-subscriptions": "latest",
+        "graphql-needle": "latest",
+        "graphql-next": "latest",
+        "graphql-nexus": "latest",
+        "graphql-no-alias": "latest",
+        "graphql-no-batched-queries": "latest",
+        "graphql-node": "latest",
+        "graphql-node-jobs": "latest",
+        "graphql-node-version": "latest",
+        "graphql-nodejs-client": "latest",
+        "graphql-norm": "latest",
+        "graphql-norm-patch": "latest",
+        "graphql-norm-stale": "latest",
+        "graphql-normalizer": "latest",
+        "graphql-normalizr": "latest",
+        "graphql-notify-errors": "latest",
+        "graphql-now": "latest",
+        "graphql-now-builder": "latest",
+        "graphql-nullable": "latest"
+    }
+}

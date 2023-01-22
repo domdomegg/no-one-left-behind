@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-gld",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gld-api-cache": "latest",
+        "gld-bpmn-test": "latest",
+        "gld-cli": "latest",
+        "gld-date-picker": "latest",
+        "gld-designer": "latest",
+        "gld-dialog": "latest",
+        "gld-dynamic-routing": "latest",
+        "gld-model": "latest",
+        "gld-node-card": "latest",
+        "gld-select": "latest",
+        "gld-select-njh": "latest",
+        "gld-ui": "latest",
+        "gld1535": "latest",
+        "gld15455": "latest",
+        "gld_wework": "latest",
+        "gld_wework_pc": "latest",
+        "gld_wework_vue3": "latest",
+        "gldandvue": "latest",
+        "gldate": "latest"
+    }
+}

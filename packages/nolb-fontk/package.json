@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-fontk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fontkiko": "latest",
+        "fontkit": "latest",
+        "fontkit-browserified": "latest",
+        "fontkit-cachekerning": "latest",
+        "fontkit-fork-inv": "latest",
+        "fontkit-ignore-invalid-fonts": "latest",
+        "fontkit-lite": "latest",
+        "fontkit-next": "latest",
+        "fontkit-rs": "latest",
+        "fontkit-web": "latest"
+    }
+}

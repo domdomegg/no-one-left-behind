@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_typese",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@typeservice/core": "latest",
+        "@typeservice/decorator": "latest",
+        "@typeservice/dubbo": "latest",
+        "@typeservice/exception": "latest",
+        "@typeservice/http": "latest",
+        "@typeservice/koa": "latest",
+        "@typeservice/message": "latest",
+        "@typeservice/process": "latest",
+        "@typeservice/radix": "latest",
+        "@typeservice/radox": "latest",
+        "@typeservice/socket.io": "latest",
+        "@typeservice/socket.io-client": "latest",
+        "@typeservice/tcc": "latest",
+        "@typeservice/test": "latest",
+        "@typeservice/wsmicro": "latest",
+        "@typeservice/zookeeper": "latest"
+    }
+}

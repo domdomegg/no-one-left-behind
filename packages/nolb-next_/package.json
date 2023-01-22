@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-next_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "next.crud": "latest",
+        "next.io": "latest",
+        "next.js": "latest",
+        "next.js-redux-helper": "latest",
+        "next.vue.com": "latest",
+        "next_components_library": "latest",
+        "next_data_protect": "latest",
+        "next_in_sequence": "latest",
+        "next_monday": "latest",
+        "next_permutation": "latest",
+        "next_vision": "latest"
+    }
+}

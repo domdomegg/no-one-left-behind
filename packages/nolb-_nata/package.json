@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_nata",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nata_r10/platzi-mediaplayer": "latest",
+        "@natac13/mongoose-dataloader": "latest",
+        "@natahouse/cli": "latest",
+        "@natahouse/components": "latest",
+        "@natahouse/eslint-config": "latest",
+        "@natahouse/eslint-config-react": "latest",
+        "@natahouse/react-ellipsis-with-tooltip": "latest",
+        "@natalia.li/react-native-nested-list": "latest",
+        "@nataliacs/soundcloud-auth-parse": "latest",
+        "@nataliafonseca/eslint-cli": "latest",
+        "@nataliafonseca/eslint-config": "latest",
+        "@nataliajagiello/nospace": "latest",
+        "@nataliajagiello/nospace-react": "latest",
+        "@nataliajagiello/react-notifications": "latest",
+        "@nataliama/lotide": "latest",
+        "@natalidavid/lotide": "latest",
+        "@nataliejka/id-generator": "latest",
+        "@nataliescottdavidson/npm-foo-pkg": "latest",
+        "@nataliesokolova/lotide": "latest",
+        "@natalya_myunster/ckeditor5-custom-build": "latest",
+        "@natalya_myunster/react-native-html-text": "latest",
+        "@natalynanda/nhp": "latest",
+        "@natanalel/lazylist": "latest",
+        "@natanbarbosa2/smashapi": "latest",
+        "@natanffs/vercel-python-wsgi": "latest",
+        "@natankamusher/custom-logger-nest": "latest",
+        "@natanytzhaki/hello": "latest",
+        "@natapolekha/test": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_scd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@scderox/ikea-name-generator": "latest",
+        "@scdev/declarative-markdown": "latest",
+        "@scdev/decorate-request-response": "latest",
+        "@scdev/fine": "latest",
+        "@scdev/github-languages-colors": "latest",
+        "@scdev/is-async-function": "latest",
+        "@scdevelopers/api-utils": "latest",
+        "@scdevelopers/logistics-utils": "latest",
+        "@scdevelopers/web-components": "latest",
+        "@scdf/pouchdb-adapter-indexeddb": "latest",
+        "@scdf/transitions": "latest",
+        "@scds/eslint-config": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_sns",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@snsdomains/connect": "latest",
+        "@snsdomains/idl": "latest",
+        "@snsdomains/js": "latest",
+        "@snsl/angular2-text-mask": "latest",
+        "@snsl/ng-select": "latest",
+        "@snsl/text-mask-addons": "latest",
+        "@snsl/text-mask-core": "latest",
+        "@snsocial/sncommon": "latest",
+        "@snspinn/react-windrose-chart": "latest",
+        "@snsw-public/dvs-validation": "latest",
+        "@snsw/biz-js-client": "latest",
+        "@snsw/business-profile-widget": "latest",
+        "@snsw/dvs-validation": "latest",
+        "@snsw/eslint-plugin-var": "latest",
+        "@snsw/tuo-js-client": "latest",
+        "@snsw/tuo-js-client-draft": "latest",
+        "@snsw/var-nswpoint-angular": "latest",
+        "@snsw/var-rebates-e2e-lib": "latest",
+        "@snsw/var-rebates-test-lib": "latest",
+        "@snsw/var-rebates-ui-lib": "latest"
+    }
+}

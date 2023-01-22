@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-react-gn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-gnani-speech": "latest",
+        "react-gnr": "latest",
+        "react-gnu-cron": "latest"
+    }
+}

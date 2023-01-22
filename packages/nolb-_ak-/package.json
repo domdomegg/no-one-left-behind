@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_ak-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ak-ch/state-machine": "latest",
+        "@ak-clown/core": "latest",
+        "@ak-clown/get-npm-info": "latest",
+        "@ak-clown/log": "latest",
+        "@ak-clown/utils": "latest",
+        "@ak-fooddelivery/common": "latest",
+        "@ak-test/common": "latest",
+        "@ak-ticketing/common": "latest",
+        "@ak-tickets/common": "latest"
+    }
+}

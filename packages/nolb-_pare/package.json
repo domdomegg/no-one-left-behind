@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_pare",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pareext/cli": "latest",
+        "@pareext/cli-service": "latest",
+        "@pareext/common": "latest",
+        "@pareext/micro": "latest",
+        "@parellin/geohash": "latest",
+        "@parellin/lightmap": "latest",
+        "@parempi/couchbase-lite": "latest",
+        "@parente/jupyterlab-quickopen": "latest",
+        "@parente/jupyterlab_xkcd": "latest",
+        "@parentlab/answers": "latest",
+        "@parern/pare-native-wechat-lib": "latest",
+        "@parern/react-native-wechat": "latest",
+        "@pareshkrc/common": "latest",
+        "@pareto-engineering/assets": "latest",
+        "@pareto-engineering/bem": "latest",
+        "@pareto-engineering/design-system": "latest",
+        "@pareto-engineering/design-system-addon-customer-dashboard": "latest",
+        "@pareto-engineering/design-system-addon-site": "latest",
+        "@pareto-engineering/design-system-addon-triage": "latest",
+        "@pareto-engineering/generator-front": "latest",
+        "@pareto-engineering/styles": "latest"
+    }
+}

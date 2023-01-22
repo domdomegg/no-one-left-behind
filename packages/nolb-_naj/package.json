@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_naj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@naj-marketplace/contracts": "latest",
+        "@najasenter/common": "latest",
+        "@najathi/flaaw-ui": "latest",
+        "@najathi/flaaw-web": "latest",
+        "@najbacoin/commons": "latest",
+        "@najbacoin/instagram-private-api": "latest",
+        "@najibfarah/lotide": "latest",
+        "@najibmm/lotide": "latest",
+        "@najinuki/zoomcharts": "latest",
+        "@najmul-islam/fancy-button": "latest",
+        "@najnpm/lotide": "latest"
+    }
+}

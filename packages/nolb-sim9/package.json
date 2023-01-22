@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-sim9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sim900": "latest",
+        "sim900-updated": "latest",
+        "sim900js": "latest",
+        "sim900serialport": "latest"
+    }
+}

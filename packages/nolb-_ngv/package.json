@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_ngv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ngvip/analytics": "latest",
+        "@ngvip/common-form": "latest",
+        "@ngvip/common-table": "latest",
+        "@ngvip/local-storage-communicator": "latest",
+        "@ngvip/service": "latest",
+        "@ngvip/ui": "latest",
+        "@ngvslab/ngvs-mat-select": "latest",
+        "@ngvslabs/ngx-mat-modal": "latest",
+        "@ngvslabs/ngx-mat-select-searchable": "latest",
+        "@ngvslabs/ngx-tiny-store": "latest",
+        "@ngvtickets/common": "latest"
+    }
+}

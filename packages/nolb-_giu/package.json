@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_giu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@giuband/pitchfork": "latest",
+        "@giubatt/auto-ponto": "latest",
+        "@giuem/builder": "latest",
+        "@giuem/egg-kue": "latest",
+        "@giuem/eslint-config": "latest",
+        "@giuem/ga-proxy": "latest",
+        "@giuem/tiny-cache": "latest",
+        "@giuem/worker": "latest",
+        "@giulianaolmos/mediaplayer": "latest",
+        "@giuliandrimba/dom-ready": "latest",
+        "@giuliandrimba/noise": "latest",
+        "@giuliandrimba/parse-html": "latest",
+        "@giulico/cli": "latest",
+        "@giulico/scripts": "latest",
+        "@giulico/utils": "latest",
+        "@gius.co/collection": "latest",
+        "@gius.co/combinator": "latest",
+        "@giuseppecampanelli/medium-api": "latest",
+        "@giuseppemoi/holidater": "latest",
+        "@giustinow/space-remover": "latest",
+        "@giusto/ink-router": "latest",
+        "@giusto/ink-select-input": "latest",
+        "@giustozzi/platzimediaplayer": "latest"
+    }
+}

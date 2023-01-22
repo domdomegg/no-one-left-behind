@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-t7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "t7": "latest",
+        "t7-acme-list-component": "latest",
+        "t7-bi-lsd-tool": "latest",
+        "t7-component-button": "latest",
+        "t7-component-hello-world": "latest",
+        "t7-precompiler": "latest",
+        "t7-react-kendo": "latest",
+        "t77777": "latest",
+        "t7e": "latest",
+        "t7n-express-res-extension": "latest",
+        "t7n-localhost": "latest",
+        "t7n-mongoose-plugins": "latest"
+    }
+}

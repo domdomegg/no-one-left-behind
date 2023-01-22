@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_aux",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aux4/dispatcher.js": "latest",
+        "@aux4/use-handler": "latest",
+        "@auxapp/aux-player": "latest",
+        "@auxcalibur/test-npm": "latest",
+        "@auxcode/auxta": "latest",
+        "@auxfix/aux_math": "latest",
+        "@auxilin/common-logger": "latest",
+        "@auxilin/email-service": "latest",
+        "@auxilin/eslint-config": "latest",
+        "@auxilin/node-mongo": "latest",
+        "@auxilium/datalynk-api": "latest",
+        "@auxilium/socket-client": "latest",
+        "@auxo.dev/fp": "latest",
+        "@auxo.dev/gateway": "latest",
+        "@auxo.dev/lib": "latest",
+        "@auxo.dev/mediatr": "latest",
+        "@auxo.dev/rp": "latest",
+        "@auxo.dev/ui": "latest",
+        "@auxo.lib/fp": "latest",
+        "@auxo.lib/rp": "latest",
+        "@auxy/libs": "latest",
+        "@auxy/models": "latest"
+    }
+}

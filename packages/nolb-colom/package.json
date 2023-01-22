@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-colom",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "colomb": "latest",
+        "colombia": "latest",
+        "colombia-holiday": "latest",
+        "colombia-holidays": "latest",
+        "colombia-holidays-gcg": "latest",
+        "colombia-validators": "latest",
+        "colombian-geet": "latest",
+        "colombian-holidays": "latest",
+        "colombo": "latest"
+    }
+}

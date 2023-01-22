@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-twd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "twd-components": "latest",
+        "twd97-to-latlng": "latest",
+        "twdakumfbrvesgyp": "latest",
+        "twdemo": "latest",
+        "twdemo-nodejs": "latest",
+        "twdemojs": "latest",
+        "twdl": "latest",
+        "twdne.js": "latest",
+        "twdown": "latest",
+        "twds": "latest",
+        "twdt-cli": "latest"
+    }
+}

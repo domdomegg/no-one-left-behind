@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-phq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "phq-1": "latest",
+        "phq-form-engine": "latest",
+        "phq-groundfloor-react-ui": "latest",
+        "phq-groundfloor-react-ui-za4": "latest",
+        "phq-report": "latest",
+        "phq-utility": "latest",
+        "phq-utility-test": "latest",
+        "phql": "latest"
+    }
+}

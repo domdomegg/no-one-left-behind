@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_caro",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@caro73/platzimediaplayer": "latest",
+        "@carocad/hugsql": "latest",
+        "@carol-cli/cli": "latest",
+        "@carol-cli/utils": "latest",
+        "@carol02/xue-test": "latest",
+        "@carol0412/test_npm": "latest",
+        "@carolahn/test-lib": "latest",
+        "@carolgmonteiro/md-links": "latest",
+        "@carolhcheung/lotide": "latest",
+        "@carolina.js/auth": "latest",
+        "@carolina.js/core": "latest",
+        "@carolina.js/extras": "latest",
+        "@carolina.js/generator": "latest",
+        "@carolineverpoorten/holidates": "latest",
+        "@carolineverpoorten/holidates2.0": "latest",
+        "@carols10cents/foo": "latest",
+        "@caron/caron": "latest",
+        "@caronise/lotide": "latest",
+        "@caronsale/landing-page-webflow-scripts": "latest",
+        "@carotadream/hello-wasm": "latest",
+        "@caroundsky/el-dialog-service": "latest",
+        "@caroundsky/el-plus-dialog-service": "latest",
+        "@caroundsky/utils": "latest",
+        "@carousel_emo/carousel_emo": "latest"
+    }
+}

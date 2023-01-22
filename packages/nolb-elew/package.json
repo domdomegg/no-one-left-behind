@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-elew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "elewctron": "latest",
+        "eleweb-ui": "latest",
+        "elewis-app-message-dto": "latest",
+        "elewis-audit-data": "latest",
+        "elewis-common-security": "latest",
+        "elewis-country-dto": "latest",
+        "elewis-currencies-dto": "latest",
+        "elewis-currency-dto": "latest",
+        "elewis-currency-dtos": "latest",
+        "elewis-document-dto": "latest",
+        "elewis-docuument-dto": "latest",
+        "elewis-dto": "latest",
+        "elewis-nestjs-dto": "latest",
+        "elewis-nestjs-events": "latest",
+        "elewis-nestjs-logging": "latest",
+        "elewis-nestjs-middleware": "latest",
+        "elewis-nestjs-security": "latest",
+        "elewis-nestjs-workflow": "latest",
+        "elewis-pdf": "latest",
+        "elewis-reference-currency-dto": "latest",
+        "elewis-ui-common": "latest",
+        "elewis-utils": "latest",
+        "elewsx-ui": "latest"
+    }
+}

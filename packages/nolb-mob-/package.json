@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-mob-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mob-adapter": "latest",
+        "mob-app-ui": "latest",
+        "mob-calarea": "latest",
+        "mob-calendar": "latest",
+        "mob-cli": "latest",
+        "mob-console": "latest",
+        "mob-cordova-plugin-telerik-imagepicker": "latest",
+        "mob-date-selector": "latest",
+        "mob-eureka-clientjs": "latest",
+        "mob-http-response": "latest",
+        "mob-login-module": "latest",
+        "mob-logs": "latest",
+        "mob-module": "latest",
+        "mob-multi-picker": "latest",
+        "mob-oauth-middleware": "latest",
+        "mob-phone-number-validation-tr": "latest",
+        "mob-profile": "latest",
+        "mob-scroller": "latest",
+        "mob-spy": "latest",
+        "mob-template-ng": "latest",
+        "mob-vue-ui": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-htmld",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htmldatetimetounix": "latest",
+        "htmldec": "latest",
+        "htmldeps": "latest",
+        "htmldiff": "latest",
+        "htmldiff-angular": "latest",
+        "htmldiff-cmd": "latest",
+        "htmldiff-js": "latest",
+        "htmldiff-js-compat": "latest",
+        "htmldiff-js-ie11": "latest",
+        "htmldiffer": "latest",
+        "htmldirt": "latest",
+        "htmldissect": "latest",
+        "htmldoc-ext": "latest",
+        "htmldocparser": "latest",
+        "htmldom": "latest",
+        "htmldom2": "latest",
+        "htmldown": "latest"
+    }
+}

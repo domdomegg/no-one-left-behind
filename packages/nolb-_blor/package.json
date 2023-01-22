@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_blor",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@blorp/aundra-app": "latest",
+        "@blorp/blorp-test": "latest",
+        "@blorp/example": "latest"
+    }
+}

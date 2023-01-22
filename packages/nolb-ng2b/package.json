@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-ng2b",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ng2b": "latest",
+        "ng2b-sidebar": "latest",
+        "ng2b-table": "latest",
+        "ng2baseproject": "latest",
+        "ng2bln-count-pipe": "latest",
+        "ng2bln-filter-pipe": "latest",
+        "ng2bln-in-place-textbox": "latest",
+        "ng2bln-sort-by-attribute-pipe": "latest",
+        "ng2bln-unique-values-pipe": "latest",
+        "ng2bs4": "latest",
+        "ng2bynikesh": "latest"
+    }
+}

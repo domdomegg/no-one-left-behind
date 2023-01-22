@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-afu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "afu": "latest",
+        "afu-api-test": "latest",
+        "afu-back-http": "latest",
+        "afu-calculator": "latest",
+        "afu-compare-folder": "latest",
+        "afu-date-format": "latest",
+        "afu-dev-cli": "latest",
+        "afu-file-reader": "latest",
+        "afu-http": "latest",
+        "afu-http-one": "latest",
+        "afu-mysql": "latest",
+        "afu-panel": "latest",
+        "afu-read-dir": "latest",
+        "afu-resize": "latest",
+        "afu-socket": "latest",
+        "afu-type-check": "latest",
+        "afu-xhtml": "latest",
+        "afubasicjs": "latest",
+        "afucher": "latest",
+        "afufile": "latest",
+        "afunc": "latest",
+        "afunk": "latest",
+        "afurlan-first-package": "latest"
+    }
+}

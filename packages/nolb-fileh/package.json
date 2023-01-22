@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-fileh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "filehandler": "latest",
+        "filehandler.static": "latest",
+        "filehash": "latest",
+        "fileheader": "latest",
+        "filehelper": "latest",
+        "filehoist": "latest",
+        "filehook-sharp": "latest",
+        "filehose": "latest",
+        "filehost": "latest",
+        "filehost-meta": "latest",
+        "filehound": "latest"
+    }
+}

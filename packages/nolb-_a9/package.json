@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_a9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@a962464495/yxs_cli": "latest",
+        "@a993576769/openapi-codegen": "latest",
+        "@a9g/plop-generator-react-atomic-component": "latest"
+    }
+}

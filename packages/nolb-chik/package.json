@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-chik",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chika": "latest",
+        "chika-component": "latest",
+        "chikago": "latest",
+        "chiken": "latest",
+        "chiki": "latest",
+        "chikn-meta": "latest",
+        "chiko": "latest",
+        "chikoo": "latest",
+        "chikusho": "latest"
+    }
+}

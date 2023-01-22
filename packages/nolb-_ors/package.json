@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_ors",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@orschweitzer/git-clone-package": "latest",
+        "@orschweitzer/promises": "latest",
+        "@orschweitzer/slugger": "latest",
+        "@orseki/gcloud-sample": "latest",
+        "@orseki_team/lib1": "latest",
+        "@orseki_team/lib3": "latest",
+        "@orseki_team/lib4": "latest",
+        "@orseki_team/lib5": "latest",
+        "@orseki_team/lib7": "latest",
+        "@orshazam/hello-wasm": "latest",
+        "@orshih/rn-foreground-service": "latest",
+        "@orsi/betical": "latest",
+        "@orsi/code-x": "latest",
+        "@orso/asdf": "latest",
+        "@orso/corsonode-auth": "latest",
+        "@orsteg/react-animated-progress": "latest",
+        "@orsteg/react-timeline": "latest",
+        "@orsum/orsum-library": "latest",
+        "@orsum/orsum-uikit": "latest",
+        "@orsum/user5-uikit": "latest",
+        "@orsunmigbare/react-native-cached-image": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-graphq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-graphql": "latest",
+        "@zalastax/nolb-graphqa": "latest",
+        "@zalastax/nolb-graphqc": "latest",
+        "@zalastax/nolb-graphqe": "latest",
+        "@zalastax/nolb-graphqm": "latest",
+        "@zalastax/nolb-graphqo": "latest",
+        "@zalastax/nolb-graphqu": "latest"
+    }
+}

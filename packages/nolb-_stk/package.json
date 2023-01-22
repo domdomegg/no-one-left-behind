@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_stk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stkao05/layout-grid": "latest",
+        "@stkao05/liveblock-redux-devtool": "latest",
+        "@stkb/rewrap": "latest",
+        "@stkevintan/parrot": "latest",
+        "@stkevintan/vercel-python": "latest",
+        "@stkterry/react-reanim": "latest"
+    }
+}

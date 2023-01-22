@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-cordova-p",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-cordova-pl": "latest",
+        "@zalastax/nolb-cordova-pa": "latest",
+        "@zalastax/nolb-cordova-pd": "latest",
+        "@zalastax/nolb-cordova-pe": "latest",
+        "@zalastax/nolb-cordova-pg": "latest",
+        "@zalastax/nolb-cordova-ph": "latest",
+        "@zalastax/nolb-cordova-pk": "latest",
+        "@zalastax/nolb-cordova-po": "latest",
+        "@zalastax/nolb-cordova-pp": "latest",
+        "@zalastax/nolb-cordova-pr": "latest",
+        "@zalastax/nolb-cordova-pu": "latest"
+    }
+}

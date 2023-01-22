@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-codez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "codez": "latest",
+        "codez-yixiao163": "latest",
+        "codezen": "latest",
+        "codezero-javascript-form": "latest",
+        "codezero-jquery-slider": "latest",
+        "codezero-mapify": "latest",
+        "codezign": "latest",
+        "codezist": "latest",
+        "codezone-form-validation-package": "latest",
+        "codezz": "latest"
+    }
+}

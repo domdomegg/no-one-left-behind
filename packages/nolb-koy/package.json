@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-koy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "koy": "latest",
+        "koy-devcamp-js-footer": "latest",
+        "koyeb-api": "latest",
+        "koyeb-api-client": "latest",
+        "koyeb.js": "latest",
+        "koyla": "latest",
+        "koylu-vampir-design": "latest",
+        "koyo": "latest",
+        "koyo-vue3-composition-api": "latest",
+        "koyomi": "latest",
+        "koyote": "latest"
+    }
+}

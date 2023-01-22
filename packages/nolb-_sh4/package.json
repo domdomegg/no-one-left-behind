@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_sh4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sh4/components": "latest",
+        "@sh4/hooks": "latest",
+        "@sh4444dow/maniaplanet-style-js-parser": "latest",
+        "@sh4dow/monolog": "latest",
+        "@sh4hids/gatsby-theme-open-sourcerer": "latest",
+        "@sh4hids/react-scripts": "latest",
+        "@sh4na/jszip-cli": "latest",
+        "@sh4na/semantic-release-git": "latest"
+    }
+}

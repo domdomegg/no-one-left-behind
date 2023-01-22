@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-samt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "samtec-device-connect": "latest",
+        "samtech-lib": "latest",
+        "samtechz-testbase": "latest",
+        "samtemplategenerator": "latest",
+        "samtest-cli": "latest",
+        "samtest1": "latest",
+        "samtestapptonpm": "latest",
+        "samtestbutton": "latest",
+        "samtliapp": "latest",
+        "samtoday--material-ui": "latest",
+        "samtsc": "latest"
+    }
+}

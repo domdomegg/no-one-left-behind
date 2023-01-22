@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-modm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "modm": "latest",
+        "modm-ckeditor5": "latest",
+        "modmail-announcer": "latest",
+        "modmail.djs": "latest",
+        "modmail.js": "latest",
+        "modmailbot-formatter": "latest",
+        "modmailbot-plugins-setnick": "latest",
+        "modmailtest": "latest",
+        "modman": "latest",
+        "modmastei2-lib": "latest",
+        "modmod": "latest",
+        "modmomodels": "latest",
+        "modmonitor": "latest"
+    }
+}

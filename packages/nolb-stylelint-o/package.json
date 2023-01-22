@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-stylelint-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylelint-only": "latest",
+        "stylelint-order": "latest",
+        "stylelint-order-config-csscomb": "latest",
+        "stylelint-order-config-standard": "latest",
+        "stylelint-order-config-yandex": "latest",
+        "stylelint-order-config-zen": "latest",
+        "stylelint-order-htmlacademy": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-creata",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "creata": "latest",
+        "creatable": "latest",
+        "creatable-js": "latest",
+        "creatartis-base": "latest",
+        "creatary": "latest",
+        "creatary-sdk": "latest",
+        "creatatwo": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_toh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tohere-cli-dev/core": "latest",
+        "@tohere-cli-dev/utils": "latest",
+        "@tohere-cli/cli": "latest",
+        "@tohere1-cli/core": "latest",
+        "@tohere1-cli/utils": "latest",
+        "@tohere1/imooc-test": "latest",
+        "@tohmn/menu": "latest",
+        "@tohru/chopin": "latest",
+        "@tohru/chopin-connector": "latest",
+        "@tohru/gm": "latest",
+        "@tohsaka/subtitles": "latest",
+        "@tohsaka/torrent": "latest",
+        "@tohsaka/types": "latest",
+        "@tohsig/npm-test": "latest",
+        "@tohticket/common": "latest"
+    }
+}

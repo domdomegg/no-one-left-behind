@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-runc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "runc": "latest",
+        "runcalendar1095": "latest",
+        "runcards": "latest",
+        "runcatching": "latest",
+        "runcatha-resume": "latest",
+        "runchain-cordova-plugin-baidu-location": "latest",
+        "runchain-cordova-plugin-log2file": "latest",
+        "runchain-cordova-plugin-security": "latest",
+        "runcheck": "latest",
+        "runci": "latest",
+        "runcl": "latest",
+        "runcloudjs": "latest",
+        "runcmd": "latest",
+        "runco": "latest",
+        "runcode-config": "latest",
+        "runcoinup": "latest",
+        "runconcept31102016": "latest",
+        "runconfig-generator": "latest",
+        "runcord": "latest",
+        "runcs": "latest",
+        "runcss": "latest",
+        "runction": "latest",
+        "runcws": "latest",
+        "runcy-grid": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_awo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@awolf81/gatsby-theme-addthis": "latest",
+        "@awolf81/gatsby-theme-mdx": "latest",
+        "@awolf81/gatsby-theme-scrollycoding": "latest",
+        "@awolinski/cordova-plugin-firebase-config": "latest",
+        "@awolyniec/mm-util": "latest",
+        "@awongiw/ui-library": "latest",
+        "@awongpro/lotide": "latest",
+        "@awongpro/lotide2": "latest",
+        "@awoojing-cli-dev/core": "latest",
+        "@awoojing-cli-dev/utils": "latest",
+        "@awootaiwan/cupid-sdk-js": "latest",
+        "@awootaiwan/nununi-sdk-js": "latest",
+        "@awoss/web": "latest",
+        "@awoyotoyin/ts-graphql-yoga-express-starter": "latest"
+    }
+}

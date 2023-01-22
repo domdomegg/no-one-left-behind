@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-illustr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "illustra": "latest",
+        "illustrate": "latest",
+        "illustration": "latest",
+        "illustration-animation-system": "latest",
+        "illustrator": "latest",
+        "illustrator-point-coordinate-exporter": "latest",
+        "illustrator-point-exporter": "latest",
+        "illustrator.css": "latest",
+        "illustrator.js": "latest",
+        "illustriws": "latest"
+    }
+}

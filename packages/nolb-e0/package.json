@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-e0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "e0": "latest",
+        "e01": "latest",
+        "e04-ken-cryptocoin": "latest",
+        "e04-kencrypto-lucasbrasil": "latest",
+        "e04-kencrypto-service": "latest",
+        "e06widu-axios": "latest",
+        "e06widu-simple-component-library": "latest",
+        "e0_package": "latest",
+        "e0ipso": "latest",
+        "e0ui": "latest"
+    }
+}

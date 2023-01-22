@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-webpar",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "WebParrot": "latest",
+        "webparagon": "latest",
+        "webparsy": "latest",
+        "webpart": "latest",
+        "webpart-cli": "latest",
+        "webpart4pack1": "latest",
+        "webparts-communication": "latest",
+        "webparts-frame-lib": "latest",
+        "webparts-shared": "latest",
+        "webparts-shared-client": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_esi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@esign/json-fetcher": "latest",
+        "@esilva2902/angular-data-grid": "latest",
+        "@esilva2902/dk-grid-angular": "latest",
+        "@esindger/gantt": "latest",
+        "@esindger/grammy-i18n": "latest",
+        "@esindger/telegraf-i18n": "latest",
+        "@esinx/node-querybuilder": "latest",
+        "@esiur/iui": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_myi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@myicon/svgs": "latest",
+        "@myimages/cli": "latest",
+        "@myimages/compress": "latest",
+        "@myimages/get-npm-info": "latest",
+        "@myimages/log": "latest",
+        "@myin/auth-client": "latest",
+        "@myin/aws-cdk": "latest",
+        "@myin/aws-utils": "latest",
+        "@myin/cli": "latest",
+        "@myin/nx-builder": "latest",
+        "@myin/utils": "latest",
+        "@myinterview/component-library": "latest",
+        "@myinterview/myinterview-widget": "latest",
+        "@myinterview/widget-react": "latest",
+        "@myisaak/rust-webpack-template": "latest"
+    }
+}

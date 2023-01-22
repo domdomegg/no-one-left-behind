@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-cryo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cryo": "latest",
+        "cryo-ui": "latest",
+        "cryoforms": "latest",
+        "cryogen": "latest",
+        "cryoiq-components": "latest",
+        "cryoiq-framework": "latest",
+        "cryojs": "latest",
+        "cryolib": "latest",
+        "cryolite": "latest",
+        "cryon": "latest",
+        "cryonax": "latest",
+        "cryonic": "latest",
+        "cryostasis": "latest",
+        "cryostore": "latest",
+        "cryosui": "latest",
+        "cryotokens": "latest"
+    }
+}

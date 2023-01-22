@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-usew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "usewaitforelements": "latest",
+        "usewalter-shared-mobile": "latest",
+        "useware": "latest",
+        "useware-context": "latest",
+        "useweb3rd": "latest",
+        "usewebsocketio": "latest",
+        "usewhat": "latest",
+        "usewhy": "latest",
+        "usework": "latest",
+        "usewxlocalstorage": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-react-cor",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-cordova-boilerplate": "latest",
+        "react-cordova-detect-offline": "latest",
+        "react-core": "latest",
+        "react-core-common": "latest",
+        "react-core-components": "latest",
+        "react-core-decorators": "latest",
+        "react-core-dom": "latest",
+        "react-core-form": "latest",
+        "react-core-form-designer": "latest",
+        "react-core-image-upload": "latest",
+        "react-core-loading-spinner": "latest",
+        "react-core-ui": "latest",
+        "react-core-utils": "latest",
+        "react-core-yeti": "latest",
+        "react-corelibs": "latest",
+        "react-coreui-component": "latest",
+        "react-cornea": "latest",
+        "react-corner-ribbon": "latest",
+        "react-cornerstone": "latest",
+        "react-cornerstone-viewport": "latest",
+        "react-cornerstone-viewport-custom": "latest",
+        "react-cornerstone-viewport-drbrain": "latest",
+        "react-cornerstone-viewport-hooks": "latest",
+        "react-cornerstone-viewport-hooks-mobile": "latest",
+        "react-corni-slider": "latest",
+        "react-coroutine": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-aia",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aia": "latest",
+        "aia-ckeditor": "latest",
+        "aia-dds-test": "latest",
+        "aia-lib": "latest",
+        "aia-msyghenu-cli": "latest",
+        "aia-react-native-idfa": "latest",
+        "aia-stream": "latest",
+        "aia21aia": "latest",
+        "aia21aia611": "latest",
+        "aiab-product-card": "latest",
+        "aiactiv-sdk-react-native": "latest",
+        "aiagain-ui": "latest",
+        "aiai": "latest",
+        "aiaiaiaiaiai": "latest",
+        "aiap-local-validator": "latest",
+        "aiapp": "latest",
+        "aias": "latest",
+        "aiascs-blockchain": "latest",
+        "aiava": "latest",
+        "aiava-hot-trigger": "latest",
+        "aiava-speech-to-text": "latest",
+        "aiava-text-to-speech": "latest",
+        "aiazks-frame-print": "latest"
+    }
+}

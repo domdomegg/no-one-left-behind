@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_danz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@danzen/createjs": "latest",
+        "@danzen/simple": "latest",
+        "@danzong/webpack-test-library-demo": "latest",
+        "@danzy/cairo-playground-webapp": "latest",
+        "@danzy/commons-js-libs": "latest",
+        "@danzy/starkware-crypto-utils": "latest",
+        "@danzzze/word-scrapper": "latest"
+    }
+}

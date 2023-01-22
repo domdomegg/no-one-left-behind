@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-fira",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fira": "latest",
+        "fira-sans-cyrillic": "latest",
+        "firacode": "latest",
+        "firacode-xq": "latest",
+        "firalibrary": "latest",
+        "firanydoor": "latest",
+        "firanydoor-gy": "latest",
+        "firas-test-package": "latest",
+        "firas1": "latest",
+        "firattestlibrary": "latest"
+    }
+}

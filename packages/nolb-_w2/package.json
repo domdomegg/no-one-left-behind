@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_w2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@w2-yamaguchi/gatsby-plugin-google-adsense": "latest",
+        "@w2-yamaguchi/npm-test-pkg": "latest",
+        "@w20/w20": "latest",
+        "@w20/w20-bootstrap-2": "latest",
+        "@w20/w20-bootstrap-3": "latest",
+        "@w20/w20-business-theme": "latest",
+        "@w20/w20-components": "latest",
+        "@w20/w20-dataviz": "latest",
+        "@w20/w20-extras": "latest",
+        "@w20/w20-material": "latest",
+        "@w20/w20-material-theme": "latest",
+        "@w20/w20-simple-theme": "latest",
+        "@w21/rfx": "latest",
+        "@w2s2k/apigen-cli": "latest",
+        "@w2solutions/prettier-config": "latest",
+        "@w2solutions/react-ezauth": "latest",
+        "@w2solutions/react-hooks": "latest",
+        "@w2solutions/use-yup": "latest",
+        "@w2wds/core": "latest",
+        "@w2wds/react": "latest",
+        "@w2wds/vue": "latest",
+        "@w2xi/utils.js": "latest"
+    }
+}

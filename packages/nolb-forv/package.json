@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-forv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "forval": "latest",
+        "forver": "latest",
+        "forviz-csv-importer": "latest",
+        "forviz-thaiidcard-renderer": "latest",
+        "forviz-ui": "latest",
+        "forvo": "latest"
+    }
+}

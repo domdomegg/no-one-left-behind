@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-lod-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lod-anki": "latest",
+        "lod-audio": "latest",
+        "lod-components": "latest",
+        "lod-extract": "latest",
+        "lod-lib": "latest",
+        "lod-lite": "latest",
+        "lod-mail-app": "latest",
+        "lod-opendata": "latest",
+        "lod-terrain": "latest"
+    }
+}

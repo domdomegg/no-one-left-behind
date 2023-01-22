@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-githubt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "GitHubTrending": "latest",
+        "githubtes": "latest",
+        "githubtimeline": "latest",
+        "githubtoken-test": "latest",
+        "githubtopcontributors": "latest",
+        "githubtopcontributors_module": "latest",
+        "githubtst-slack-reminder": "latest"
+    }
+}

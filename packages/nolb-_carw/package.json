@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_carw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@carwashconnect/cwc-aws-wrapper-js": "latest",
+        "@carwashconnect/cwc-core-js": "latest",
+        "@carwashconnect/moneris-node": "latest"
+    }
+}

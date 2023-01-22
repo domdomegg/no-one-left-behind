@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-codey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "codey": "latest",
+        "codey-aaryan": "latest",
+        "codey-agent-alpha": "latest",
+        "codey_ui": "latest",
+        "codeyanz-helloword-publish-demo": "latest",
+        "codeyiyi-frontend-controller": "latest",
+        "codeyiyi-frontend-core": "latest",
+        "codeyiyi-frontend-widget": "latest",
+        "codeyiyi-utils": "latest",
+        "codeyou": "latest",
+        "codeyourdreams": "latest"
+    }
+}

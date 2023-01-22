@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-knu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "knub": "latest",
+        "knub-command-manager": "latest",
+        "knube-deploy": "latest",
+        "knuckjs": "latest",
+        "knuckle": "latest",
+        "knucklebone": "latest",
+        "knuckles": "latest",
+        "knucklesjs": "latest",
+        "knuddels-developer": "latest",
+        "knuddels-local": "latest",
+        "knuff": "latest",
+        "knum": "latest",
+        "knuql": "latest",
+        "knusperli": "latest",
+        "knut": "latest",
+        "knuth": "latest",
+        "knuth-morris-pratt": "latest",
+        "knuth-shuffle-seeded": "latest"
+    }
+}

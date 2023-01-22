@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-seno",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "seno": "latest",
+        "seno-dashboard-satellite": "latest",
+        "seno-encryptor": "latest",
+        "seno-ldi": "latest",
+        "seno-logger": "latest",
+        "seno-make": "latest",
+        "senogulp": "latest",
+        "senomas-auth": "latest",
+        "senomas-micro-lib": "latest",
+        "senomas-micro-sql-lib": "latest",
+        "senomas-repo": "latest",
+        "senorflor": "latest",
+        "senos": "latest",
+        "senosoi": "latest",
+        "senovee": "latest",
+        "senovee-ast": "latest",
+        "senovlab6": "latest",
+        "senovtlab6": "latest"
+    }
+}

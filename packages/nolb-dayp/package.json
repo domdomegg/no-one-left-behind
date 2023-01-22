@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-dayp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "daypack": "latest",
+        "daypack-canned-data": "latest",
+        "daypack-configuration": "latest",
+        "daypack-date": "latest",
+        "daypack-event-emitter": "latest",
+        "daypack-pricing": "latest",
+        "daypack-timeout": "latest",
+        "daypack-translate": "latest",
+        "daypaio-commit": "latest",
+        "dayparting": "latest",
+        "dayparworld": "latest",
+        "daypicker": "latest",
+        "daypickr": "latest",
+        "daypilot-pro-angular": "latest",
+        "daypilot-pro-javascript": "latest",
+        "daypilot-pro-react": "latest",
+        "daypilot-pro-vue": "latest",
+        "dayplan": "latest",
+        "daypop-search-box": "latest"
+    }
+}

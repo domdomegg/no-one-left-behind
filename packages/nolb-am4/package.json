@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-am4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "am43-ctrl": "latest",
+        "am4charts-labelbullet-overlap-buster": "latest",
+        "am4j": "latest"
+    }
+}

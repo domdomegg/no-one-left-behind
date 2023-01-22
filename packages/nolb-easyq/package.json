@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-easyq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "easyq": "latest",
+        "easyqb": "latest",
+        "easyql": "latest",
+        "easyqrcode-react-native": "latest",
+        "easyqrcodejs": "latest",
+        "easyqrcodejs-arm": "latest",
+        "easyqrcodejs-nodejs": "latest",
+        "easyquest": "latest",
+        "easyquick": "latest",
+        "easyquotes": "latest"
+    }
+}

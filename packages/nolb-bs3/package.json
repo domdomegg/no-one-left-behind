@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-bs3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bs3-breakpoint": "latest",
+        "bs3-card": "latest",
+        "bs3-flexgrid-scss": "latest",
+        "bs3-table": "latest",
+        "bs32": "latest",
+        "bs3starter": "latest"
+    }
+}

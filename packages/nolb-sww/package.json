@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-sww",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sww-ajax": "latest",
+        "sww-cli": "latest",
+        "sww-layout": "latest",
+        "sww-template": "latest",
+        "sww-test": "latest",
+        "sww-zk2": "latest",
+        "sww2019": "latest",
+        "swwrap": "latest",
+        "swwwt-test-0220": "latest"
+    }
+}

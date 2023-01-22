@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_comf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@comfort-order/dry": "latest",
+        "@comfortcooker/all": "latest",
+        "@comfortcooker/auth": "latest",
+        "@comfortcooker/core": "latest",
+        "@comfortcooker/daos": "latest",
+        "@comfortcooker/firebase": "latest",
+        "@comfortcooker/kafka": "latest",
+        "@comfortcooker/logging": "latest",
+        "@comfortdelgro/compass-icons": "latest",
+        "@comfortdelgro/design-system": "latest",
+        "@comfortdelgro/eslint-config": "latest",
+        "@comfortdelgro/prettier-config": "latest",
+        "@comfortdelgro/react-compass": "latest",
+        "@comfortdelgro/react-workbench": "latest",
+        "@comfy/redux-selectors": "latest"
+    }
+}

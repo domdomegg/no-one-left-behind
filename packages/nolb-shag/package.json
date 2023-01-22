@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-shag",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shag-course": "latest",
+        "shagent_npm_public_test": "latest",
+        "shaggyer-cmps": "latest",
+        "shagit": "latest",
+        "shagou-element-components": "latest",
+        "shagou-ui": "latest",
+        "shagua-heike-huang": "latest",
+        "shagua-heike-lan": "latest",
+        "shagua-heike-lv": "latest",
+        "shagua-heike-vol1": "latest",
+        "shagua-heike-vol2": "latest"
+    }
+}

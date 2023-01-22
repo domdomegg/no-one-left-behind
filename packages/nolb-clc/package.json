@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-clc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clc": "latest",
+        "clc-eu": "latest",
+        "clc-js": "latest",
+        "clc-node-sdk": "latest",
+        "clc-test": "latest",
+        "clc-test-lib": "latest",
+        "clc-tools": "latest",
+        "clc-ui": "latest",
+        "clc-wallboard-experimental": "latest",
+        "clcfs": "latest",
+        "clchart": "latest",
+        "clck": "latest",
+        "clck-func": "latest",
+        "clckh": "latest",
+        "clcl": "latest",
+        "clclc": "latest",
+        "clclean": "latest",
+        "clcm": "latest",
+        "clcn": "latest",
+        "clcolorful": "latest",
+        "clcone": "latest",
+        "clcontrols": "latest",
+        "clcos-pro-layout": "latest",
+        "clct": "latest",
+        "clctr": "latest",
+        "clcutil": "latest",
+        "clcweather": "latest"
+    }
+}

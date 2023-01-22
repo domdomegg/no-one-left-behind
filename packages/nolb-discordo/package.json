@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-discordo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discordo": "latest",
+        "discordo.js": "latest",
+        "discordocooli": "latest",
+        "discordoo": "latest",
+        "discordouth3": "latest"
+    }
+}

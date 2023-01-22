@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-spn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "spn": "latest",
+        "spn-auth-token": "latest",
+        "spn-push-package": "latest",
+        "spn-utility": "latest",
+        "spnd-payments": "latest",
+        "spnforce": "latest",
+        "spnn": "latest",
+        "spnnr": "latest",
+        "spnpm": "latest",
+        "spnr": "latest",
+        "spnsp-react-scripts": "latest"
+    }
+}

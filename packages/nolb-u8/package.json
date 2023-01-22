@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-u8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "u8": "latest",
+        "u8-mqtt": "latest",
+        "u8-mqtt-packet": "latest",
+        "u8-utils": "latest",
+        "u8-view": "latest",
+        "u8.13520521413": "latest",
+        "u8a": "latest",
+        "u8array": "latest",
+        "u8c-bee": "latest",
+        "u8c-common-component": "latest",
+        "u8c-component-library": "latest",
+        "u8c-components": "latest",
+        "u8c-loading": "latest",
+        "u8c-react-component-library": "latest",
+        "u8cbuilder-cli": "latest",
+        "u8pine": "latest",
+        "u8resource": "latest"
+    }
+}

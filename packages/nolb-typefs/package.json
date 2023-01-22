@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-typefs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typefs": "latest",
+        "typefs-http-driver": "latest",
+        "typefs-registry": "latest",
+        "typefs-s3-driver": "latest"
+    }
+}

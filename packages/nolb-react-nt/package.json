@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-react-nt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-ntc": "latest",
+        "react-ntfy": "latest",
+        "react-nti": "latest",
+        "react-ntive-video-fullscreen": "latest"
+    }
+}

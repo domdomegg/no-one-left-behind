@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-adz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "adz": "latest",
+        "adz-nicole": "latest",
+        "adz-pdf-export": "latest",
+        "adzan": "latest",
+        "adze": "latest",
+        "adze-transport-cloudwatch-logs": "latest",
+        "adzgtest": "latest",
+        "adzgui666": "latest",
+        "adzhna": "latest",
+        "adzone": "latest",
+        "adzonem": "latest",
+        "adzsm-egg": "latest"
+    }
+}

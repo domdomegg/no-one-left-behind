@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-monp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "monpack": "latest",
+        "monpar": "latest",
+        "monpay-miniapp": "latest",
+        "monploy": "latest",
+        "monploy-agent": "latest",
+        "monpo": "latest",
+        "monpoly-package-manager": "latest",
+        "monpoly-test-package": "latest",
+        "monpoly-test-package-dependency": "latest",
+        "monpress-generator": "latest",
+        "monproc": "latest",
+        "monpy": "latest",
+        "monpy-config": "latest",
+        "monpy-db": "latest",
+        "monpy-router": "latest",
+        "monpy-util": "latest"
+    }
+}

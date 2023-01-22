@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-aws-f",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aws-fanout": "latest",
+        "aws-feature-toggle": "latest",
+        "aws-featureroll": "latest",
+        "aws-featureroll-parser": "latest",
+        "aws-fed-deployment": "latest",
+        "aws-federated-login": "latest",
+        "aws-fetch-file-and-store-in-s3": "latest",
+        "aws-file-upload": "latest",
+        "aws-flare": "latest",
+        "aws-fluro-nuxt": "latest",
+        "aws-folder-upload": "latest",
+        "aws-form-urlencoded": "latest",
+        "aws-foundation": "latest",
+        "aws-fsbp": "latest",
+        "aws-functions": "latest"
+    }
+}

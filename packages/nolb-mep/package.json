@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-mep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mep": "latest",
+        "mep-instant": "latest",
+        "mep-instant-core": "latest",
+        "mep-tools": "latest",
+        "mep-tools.base-spacing": "latest",
+        "mep-utilities.weight": "latest",
+        "mep-widget-localizer": "latest",
+        "mep_game_management_ios": "latest",
+        "mepack": "latest",
+        "mepack-cli": "latest",
+        "mepcocalc": "latest",
+        "meper": "latest",
+        "mephedrone": "latest",
+        "mephisto": "latest",
+        "mephisto-review": "latest",
+        "mephisto-review-hook": "latest",
+        "mephisto-task": "latest",
+        "mephisto-task-compiler": "latest",
+        "mephisto-worker-addons": "latest",
+        "mephisto-worker-experience": "latest",
+        "mephisto-worker-feedback": "latest",
+        "mephistowa-react-infinite": "latest",
+        "mephotos": "latest",
+        "mepiu-js-footer": "latest",
+        "mepjow": "latest",
+        "meplayer": "latest",
+        "meploy": "latest",
+        "mepplugin": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-smd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smd": "latest",
+        "smd-config": "latest",
+        "smd-labeler": "latest",
+        "smd-nock-vcr-recorder": "latest",
+        "smd-nock-vcr-recorder-mocha": "latest",
+        "smd-node": "latest",
+        "smd-otp-ui": "latest",
+        "smd-rollingsticks": "latest",
+        "smd-rollingsticks-test": "latest",
+        "smd-timepicker": "latest",
+        "smd-toast": "latest",
+        "smd_popup": "latest",
+        "smd_tabs": "latest",
+        "smdatetimerangepicker": "latest",
+        "smdbox": "latest",
+        "smddds": "latest",
+        "smditor": "latest",
+        "smdmitry-utxo-lib": "latest",
+        "smds1112": "latest",
+        "smdx-cli": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-randa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "randa": "latest",
+        "randable": "latest",
+        "randal": "latest",
+        "randall": "latest",
+        "randall-howard": "latest",
+        "randalthor-dropboxapi": "latest",
+        "randalthor-r6statsapi": "latest",
+        "randamkey": "latest",
+        "randamnumber": "latest",
+        "randamu": "latest",
+        "randanimal": "latest",
+        "randao-cli": "latest",
+        "randarray": "latest"
+    }
+}

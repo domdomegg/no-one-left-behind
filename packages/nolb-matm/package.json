@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-matm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "matman": "latest",
+        "matman-cli": "latest",
+        "matman-core": "latest",
+        "matman-crawler": "latest",
+        "matman-e2e": "latest",
+        "matman-e2e-test": "latest",
+        "matman-mock": "latest",
+        "matman-mocker-demo-user-info": "latest",
+        "matman-report": "latest",
+        "matman-runner-nightmare": "latest",
+        "matman-runner-puppeteer": "latest",
+        "matman-tool-e2e": "latest",
+        "matmuleme-frame-print": "latest",
+        "matmult": "latest"
+    }
+}

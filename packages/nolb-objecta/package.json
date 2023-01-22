@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-objecta",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "objecta": "latest",
+        "objectable": "latest",
+        "objectable-dom": "latest",
+        "objectapi": "latest",
+        "objectarray": "latest",
+        "objectarray-pullarray": "latest",
+        "objectarray-pullmap": "latest",
+        "objectarray-pullset": "latest",
+        "objectarray-sort": "latest",
+        "objectarrayindexof": "latest",
+        "objectassign": "latest"
+    }
+}

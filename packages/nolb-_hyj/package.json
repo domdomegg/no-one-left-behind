@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_hyj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyjiacan/eltable-wrapper": "latest",
+        "@hyjiacan/vue-datepicker": "latest",
+        "@hyjiacan/vue-ellipsis": "latest",
+        "@hyjiacan/vue-kit": "latest",
+        "@hyjiacan/vue-router-mod": "latest",
+        "@hyjiacan/vue-slideout": "latest",
+        "@hyjiacan/wet": "latest",
+        "@hyjiacan/xlsxio": "latest",
+        "@hyjin123/lotide": "latest",
+        "@hyjs/utils": "latest"
+    }
+}

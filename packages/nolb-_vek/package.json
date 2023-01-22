@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_vek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vek25/cp-ui": "latest",
+        "@vek25/ui": "latest",
+        "@vekann/common": "latest",
+        "@vekann/smt-common": "latest",
+        "@veko/cli": "latest",
+        "@veko/veko": "latest",
+        "@veko/veko-core": "latest",
+        "@veko/veko-loader": "latest",
+        "@veko/veko-script": "latest"
+    }
+}

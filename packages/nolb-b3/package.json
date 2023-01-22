@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-b3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "b3": "latest",
+        "b3-chart": "latest",
+        "b3-curious-contracts": "latest",
+        "b3-search": "latest",
+        "b3-strace-parser": "latest",
+        "b30-moviefy": "latest",
+        "b31": "latest",
+        "b32": "latest",
+        "b32tohex": "latest",
+        "b32x": "latest",
+        "b36": "latest",
+        "b360-config": "latest",
+        "b39zz": "latest",
+        "b3api": "latest",
+        "b3b": "latest",
+        "b3cli": "latest",
+        "b3coind-rpc": "latest",
+        "b3djs": "latest",
+        "b3lajar-npm-library": "latest",
+        "b3ll3o-shared-module": "latest",
+        "b3m": "latest",
+        "b3n_2cli-tools": "latest",
+        "b3nd": "latest",
+        "b3none-tempusdominus-bootstrap-4": "latest",
+        "b3s": "latest",
+        "b3tch-payment-lib": "latest",
+        "b3trace": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_cheq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cheq-pay/tokenlists": "latest",
+        "@cheq.ai/cheq-middlewares": "latest",
+        "@cheqd/auth0-service": "latest",
+        "@cheqd/credential-service": "latest",
+        "@cheqd/did-provider-cheqd": "latest",
+        "@cheqd/did-registrar": "latest",
+        "@cheqd/market-monitoring": "latest",
+        "@cheqd/sdk": "latest",
+        "@cheqd/secret-box-service": "latest",
+        "@cheqd/ts-proto": "latest",
+        "@cheqd/veramo-credential-ld": "latest",
+        "@cheqd/veramo-utils": "latest",
+        "@cheqd/wallet": "latest",
+        "@cheqd/wallet-frontend-elements": "latest"
+    }
+}

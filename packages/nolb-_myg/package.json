@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_myg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mygento/create-app": "latest",
+        "@mygento/eslint-config": "latest",
+        "@mygento/frontend-native": "latest",
+        "@mygento/gen": "latest",
+        "@mygento/stylelint-config": "latest",
+        "@mygento/workplace": "latest",
+        "@myget/test-npm": "latest",
+        "@mygg29/node-red-contrib-selenium-wd2": "latest",
+        "@mygg29/node-red-contrib-selenium-wd2-test": "latest",
+        "@myglam/assets-webpack-plugin": "latest",
+        "@mygo/common": "latest",
+        "@mygodcorp/baseui": "latest",
+        "@mygodcorp/components": "latest",
+        "@mygodcorp/input": "latest",
+        "@mygodcorp/slices": "latest",
+        "@mygodcorp/text": "latest",
+        "@mygodcorp/themes": "latest",
+        "@mygooder/react-slick": "latest",
+        "@mygradev/mygravue": "latest",
+        "@mygrigio/keyboards": "latest"
+    }
+}

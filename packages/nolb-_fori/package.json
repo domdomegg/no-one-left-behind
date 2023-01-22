@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_fori",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@foriba/foriba-cli": "latest",
+        "@forim/oauth": "latest",
+        "@forim/user": "latest",
+        "@foris-master/ngx-rest-admin": "latest",
+        "@foris/avocado-ui": "latest",
+        "@forisen/react-native-forisen-base": "latest",
+        "@forivall/bunyan-pretty": "latest",
+        "@forivall/decorator": "latest",
+        "@forivall/dotenv-cli": "latest",
+        "@forivall/dynamic-cdn-webpack-plugin": "latest",
+        "@forivall/fetch-test-server": "latest",
+        "@forivall/husky": "latest",
+        "@forivall/npm-lockfile": "latest",
+        "@forivall/promise-memoize": "latest",
+        "@forivall/raml-mockup": "latest",
+        "@forivall/wyt": "latest"
+    }
+}

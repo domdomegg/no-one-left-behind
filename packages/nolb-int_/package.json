@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-int_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "int.engine": "latest",
+        "int_add": "latest",
+        "int_affirm_sfra": "latest",
+        "int_id_manager_for_better_sqlite3": "latest",
+        "int_klaviyo": "latest"
+    }
+}

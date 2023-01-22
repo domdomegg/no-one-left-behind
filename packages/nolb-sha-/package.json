@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-sha-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sha-1": "latest",
+        "sha-256": "latest",
+        "sha-256-js": "latest",
+        "sha-anything": "latest",
+        "sha-bang": "latest",
+        "sha-cli": "latest",
+        "sha-design-starter": "latest",
+        "sha-el-design": "latest",
+        "sha-generator": "latest",
+        "sha-kit": "latest",
+        "sha-lite": "latest",
+        "sha-logger": "latest",
+        "sha-obj": "latest",
+        "sha-random-number-generator": "latest",
+        "sha-react-scripts": "latest",
+        "sha-regex": "latest",
+        "sha-storage": "latest",
+        "sha-store": "latest",
+        "sha-stream": "latest",
+        "sha-test": "latest",
+        "sha-theme": "latest",
+        "sha-tokens": "latest"
+    }
+}

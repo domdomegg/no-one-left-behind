@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-mest",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mest": "latest",
+        "mest-test": "latest",
+        "mest-test-lib": "latest",
+        "mestate": "latest",
+        "mestisukses": "latest",
+        "mesto": "latest",
+        "mesto-auth": "latest",
+        "mesto-core": "latest",
+        "mesto-http-basic-auth": "latest",
+        "mesto-http-hub": "latest",
+        "mesto-http-server": "latest",
+        "mesto-mongo": "latest",
+        "mesto-mongo-auth": "latest",
+        "mesto-rabbit": "latest",
+        "mesto-rabbit-hub": "latest",
+        "mesto-validate": "latest"
+    }
+}

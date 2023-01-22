@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-basa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "basa-basa": "latest",
+        "basa-client": "latest",
+        "basad": "latest",
+        "basal": "latest",
+        "basal-solutions-widget": "latest",
+        "basalplatten": "latest",
+        "basalt": "latest",
+        "basap": "latest",
+        "basara": "latest",
+        "basarat": "latest",
+        "basarat-text-buffer": "latest",
+        "basaricons": "latest"
+    }
+}

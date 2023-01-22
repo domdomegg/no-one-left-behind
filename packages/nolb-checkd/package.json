@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-checkd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "checkdata": "latest",
+        "checkdatatypes": "latest",
+        "checkdate": "latest",
+        "checkday": "latest",
+        "checkdependencya": "latest",
+        "checkdependencyb": "latest",
+        "checkdependencyc": "latest",
+        "checkdeps": "latest",
+        "checkdig": "latest",
+        "checkdigit-calculator": "latest",
+        "checkdir": "latest",
+        "checkdns": "latest",
+        "checkdnsbyname": "latest",
+        "checkdnsjson": "latest",
+        "checkdocs": "latest",
+        "checkdotenv": "latest",
+        "checkdown": "latest",
+        "checkduration": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-both",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "both": "latest",
+        "both-js": "latest",
+        "both-render": "latest",
+        "both-require": "latest",
+        "both-slide-component": "latest",
+        "both-sse": "latest",
+        "both.io": "latest",
+        "bothan": "latest",
+        "bothan-api": "latest",
+        "bothello-base": "latest",
+        "bothello-cli": "latest",
+        "bothello-constructors": "latest",
+        "bothello-helloworld": "latest",
+        "bother": "latest",
+        "bothforage": "latest",
+        "bothub": "latest",
+        "bothub-development": "latest",
+        "bothub-version-manager": "latest"
+    }
+}

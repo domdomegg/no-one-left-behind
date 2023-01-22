@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_naa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@naanace/my-test-package": "latest",
+        "@naandalist/is-odd": "latest",
+        "@naandalist/tiny": "latest",
+        "@naanil/scheduler": "latest",
+        "@naanlang/naan": "latest",
+        "@naanlang/naanide": "latest",
+        "@naari3/myfeed-linter": "latest",
+        "@naari3/osmosfeed": "latest",
+        "@naari3/react-crossword-ja": "latest",
+        "@naartti/react-localize-redux": "latest",
+        "@naavi/editor": "latest"
+    }
+}

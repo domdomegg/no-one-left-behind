@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_frz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@frzkn/hyper-sdk-react": "latest",
+        "@frzr/collection": "latest",
+        "@frzr/inherit": "latest",
+        "@frzr/keypath": "latest",
+        "@frzr/list": "latest",
+        "@frzr/prefix": "latest",
+        "@frzr/transition": "latest",
+        "@frzr/view": "latest",
+        "@frzr/viewcollection": "latest",
+        "@frzr/viewlist": "latest"
+    }
+}

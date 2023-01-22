@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-vero",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vero": "latest",
+        "vero-api": "latest",
+        "vero-client-config": "latest",
+        "vero-client-lib": "latest",
+        "vero-components": "latest",
+        "vero-expres": "latest",
+        "vero-package": "latest",
+        "vero-promise": "latest",
+        "verobega-md-links": "latest",
+        "veroexpress": "latest",
+        "verona": "latest",
+        "veronezi-samples-common-ui": "latest",
+        "veronica": "latest",
+        "veronica-common": "latest",
+        "veronica-x": "latest",
+        "veronika_ulyanchik_server": "latest",
+        "veroprosentti": "latest",
+        "veros": "latest",
+        "veros-demo": "latest",
+        "verovio": "latest",
+        "verovio-dev": "latest",
+        "verovio-humdrum": "latest",
+        "verovioscoreeditor": "latest",
+        "verox": "latest",
+        "veroxio": "latest"
+    }
+}

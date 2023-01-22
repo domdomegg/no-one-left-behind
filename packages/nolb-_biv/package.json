@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_biv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bivarcs/cssm": "latest",
+        "@bivarcs/emitter": "latest",
+        "@bivarcs/extension": "latest",
+        "@bivarcs/json2node": "latest",
+        "@bivarcs/mt-event": "latest",
+        "@bivektor/theme-assets": "latest"
+    }
+}

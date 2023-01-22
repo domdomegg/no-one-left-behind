@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-vue-cp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cplayer": "latest",
+        "vue-cplugin": "latest",
+        "vue-cpnt-2": "latest",
+        "vue-cpnt-3": "latest",
+        "vue-cprogress-bar": "latest",
+        "vue-cpu": "latest"
+    }
+}

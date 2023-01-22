@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-webpay",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "webpay": "latest",
+        "webpay-bahamta": "latest",
+        "webpay-by": "latest",
+        "webpay-nodejs": "latest",
+        "webpay-nodejs-ionix": "latest",
+        "webpay-nodejs-updated-soap": "latest",
+        "webpay-purejs": "latest",
+        "webpay-webservice-api": "latest",
+        "webpay-webserviceAPI": "latest",
+        "webpayments": "latest"
+    }
+}

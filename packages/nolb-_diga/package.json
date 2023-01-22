@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_diga",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@digabi/answer-annotation": "latest",
+        "@digabi/eslint-config": "latest",
+        "@digabi/exam-engine-cli": "latest",
+        "@digabi/exam-engine-core": "latest",
+        "@digabi/exam-engine-exams": "latest",
+        "@digabi/exam-engine-generator": "latest",
+        "@digabi/exam-engine-mastering": "latest",
+        "@digabi/exam-engine-rendering": "latest",
+        "@digabi/maps": "latest",
+        "@digabi/mathquill": "latest",
+        "@digabi/noto-sans": "latest",
+        "@digaus/file-server": "latest",
+        "@digaus/wifi": "latest",
+        "@digaverse/aframe-resonance-audio-component": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-gaj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gaj": "latest",
+        "gaja": "latest",
+        "gaja-utility": "latest",
+        "gajago-icons": "latest",
+        "gajira-cli": "latest",
+        "gajse": "latest",
+        "gajse-filetext": "latest",
+        "gaju-dates": "latest",
+        "gajula-test-package": "latest",
+        "gajus": "latest"
+    }
+}

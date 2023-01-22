@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-cks",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cks": "latest",
+        "cks-api": "latest",
+        "cks-button": "latest",
+        "cks-core": "latest",
+        "cks-input": "latest",
+        "cks-label": "latest",
+        "cks-login-form": "latest",
+        "cks-message": "latest",
+        "cks-private-pdfjs-dist": "latest",
+        "cks-sdk": "latest",
+        "cks-validation": "latest",
+        "cks-webpack-config": "latest",
+        "ckserver": "latest",
+        "cksform": "latest",
+        "ckshiyiadd": "latest",
+        "cksource-samples-framework": "latest",
+        "cksteppe": "latest",
+        "ckstore": "latest",
+        "ckstyle": "latest",
+        "ckstyle-autoprefixer": "latest",
+        "ckstyle-less": "latest",
+        "ckstyle-serve": "latest",
+        "cksum": "latest",
+        "ckswain9": "latest"
+    }
+}

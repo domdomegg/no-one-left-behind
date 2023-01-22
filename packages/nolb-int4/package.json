@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-int4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "int4.js": "latest",
+        "int4js-common": "latest",
+        "int4js-light": "latest",
+        "int4js-light-abi": "latest",
+        "int4js-light-filter": "latest",
+        "int4js-light-format": "latest",
+        "int4js-light-query": "latest",
+        "int4js-light-schema": "latest",
+        "int4js-light-util": "latest",
+        "int4js-tx": "latest",
+        "int4js-util": "latest",
+        "int4js-wallet": "latest"
+    }
+}

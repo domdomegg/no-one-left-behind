@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-workc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "workcamp-ui": "latest",
+        "workcell-avue-form-design": "latest",
+        "workchat": "latest",
+        "workclass-front-end-template": "latest",
+        "workcode": "latest",
+        "workcopy-cli-test": "latest"
+    }
+}

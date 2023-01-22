@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_lix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lixi-js/test": "latest",
+        "@lixi-ui/test": "latest",
+        "@lixianbin1/toolbox": "latest",
+        "@lixiaofan-cli-dev/core": "latest",
+        "@lixiaofan-cli-dev/utils": "latest",
+        "@lixiaomai/tiny": "latest",
+        "@lixiaopan/diy-echarts-lxp621": "latest",
+        "@lixiaopan/diy-echarts-set": "latest",
+        "@lixiaoqian/react-image-card": "latest",
+        "@lixiaoyu1/pig-ui": "latest",
+        "@lixibox.com/mbc-constants": "latest",
+        "@lixibox/react-on-screen": "latest",
+        "@liximomo/react-virtual-scroller": "latest",
+        "@lixinli/theme": "latest",
+        "@lixinli/utils": "latest",
+        "@lixpng-test/native-js": "latest",
+        "@lixpng-test/react-components": "latest",
+        "@lixuanxian/react-keyed-file-browser": "latest",
+        "@lixuanxian/tedious": "latest",
+        "@lixuc/jsmpeg": "latest",
+        "@lixuezhi/cli": "latest",
+        "@lixuezhi/config-vue": "latest",
+        "@lixuezhi/test": "latest",
+        "@lixun009/demo-ui": "latest",
+        "@lixun009/sun-ui": "latest"
+    }
+}

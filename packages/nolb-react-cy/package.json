@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-react-cy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-cy-dev-utils": "latest",
+        "react-cy-scripts": "latest",
+        "react-cyber-elements": "latest",
+        "react-cyberpunk": "latest",
+        "react-cycle": "latest",
+        "react-cycle-connect": "latest",
+        "react-cyclic-roll": "latest",
+        "react-cyp-test": "latest",
+        "react-cypher-text-loop": "latest",
+        "react-cyptt-test-cyptt": "latest",
+        "react-cytoscape": "latest",
+        "react-cytoscape-tools": "latest",
+        "react-cytoscapejs": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-helle",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "helle": "latest",
+        "helle_npm_demo": "latest",
+        "hellenic-post-track": "latest",
+        "hellenic-web-components": "latest",
+        "hellewhile": "latest"
+    }
+}

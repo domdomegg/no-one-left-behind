@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_siu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@siubeng/bili-downloader": "latest",
+        "@siuc/lotide": "latest",
+        "@siujs/builtin-build": "latest",
+        "@siujs/builtin-deps": "latest",
+        "@siujs/builtin-githooks": "latest",
+        "@siujs/builtin-publish": "latest",
+        "@siujs/cli": "latest",
+        "@siujs/cli-init": "latest",
+        "@siujs/core": "latest",
+        "@siujs/plugin-build-es": "latest",
+        "@siujs/plugin-jssdk": "latest",
+        "@siujs/utils": "latest",
+        "@siulch/mediaplayer": "latest",
+        "@siuxco/react.components": "latest"
+    }
+}

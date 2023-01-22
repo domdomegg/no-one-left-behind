@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-marka",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "marka": "latest",
+        "marka-js": "latest",
+        "markab-template": "latest",
+        "markable": "latest",
+        "markactionsapi": "latest",
+        "markade": "latest",
+        "markade-server": "latest",
+        "markademic": "latest",
+        "markado": "latest",
+        "markalive": "latest",
+        "markalldown": "latest",
+        "markalytics": "latest",
+        "markand-calci": "latest",
+        "markane": "latest",
+        "markanos-test-react": "latest",
+        "markanvisning-better-fs": "latest",
+        "markapi": "latest",
+        "markapp": "latest",
+        "markari": "latest",
+        "markarian": "latest",
+        "markarth": "latest",
+        "markassin": "latest"
+    }
+}

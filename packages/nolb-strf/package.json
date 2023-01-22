@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-strf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "strf": "latest",
+        "strfile": "latest",
+        "strfileabc": "latest",
+        "strfix": "latest",
+        "strfmt": "latest",
+        "strformat": "latest",
+        "strftime": "latest",
+        "strftime-component": "latest",
+        "strftime-js": "latest",
+        "strfun": "latest",
+        "strfy": "latest"
+    }
+}

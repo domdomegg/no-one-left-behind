@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_cloud9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cloud9c/taro": "latest",
+        "@cloud9music/angular-material-event-calendar": "latest",
+        "@cloud9nb/lotide": "latest",
+        "@cloud9trader/websocket-api-client": "latest"
+    }
+}

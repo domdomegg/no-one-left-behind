@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-aws-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aws-has-region": "latest",
+        "aws-health": "latest",
+        "aws-helper": "latest",
+        "aws-helpers": "latest",
+        "aws-helpers-hlf-node-parameterstorekvs": "latest",
+        "aws-helpers-hlf-node-secretsmanagerkvs": "latest",
+        "aws-hmac": "latest",
+        "aws-hole-puncher": "latest",
+        "aws-hooks": "latest",
+        "aws-http": "latest",
+        "aws-http-api-gateway": "latest",
+        "aws-http-auth": "latest"
+    }
+}

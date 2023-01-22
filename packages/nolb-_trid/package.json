@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_trid",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tride/gojek-handler": "latest",
+        "@tride/grab-handler": "latest",
+        "@tride/uber-handler": "latest",
+        "@trident-professional-services/ui": "latest",
+        "@tridentui/react": "latest",
+        "@tridge/react-native-gifted-chat": "latest",
+        "@tridie2000/reset-firebase-emulators-js": "latest",
+        "@tridify/babylonjs-utilities": "latest",
+        "@tridify/viewer-core": "latest",
+        "@tridnguyen/auth": "latest",
+        "@tridnguyen/config": "latest",
+        "@tridnguyen/date-tz": "latest",
+        "@tridnguyen/fastify-server": "latest",
+        "@tridnguyen/firestore": "latest",
+        "@tridnguyen/money": "latest",
+        "@tridnguyen/sendmail": "latest",
+        "@tridnguyen/slugify": "latest",
+        "@tridnguyen/usd-formatter": "latest",
+        "@tridnguyen/version": "latest",
+        "@tridoc/frontend": "latest",
+        "@tridu33/hello-wasm": "latest",
+        "@tridyme/aec": "latest",
+        "@tridyme/react-components": "latest"
+    }
+}

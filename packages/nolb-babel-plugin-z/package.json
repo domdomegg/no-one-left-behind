@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-babel-plugin-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-plugin-zbox-intl": "latest",
+        "babel-plugin-zdom-jsx": "latest",
+        "babel-plugin-zent": "latest",
+        "babel-plugin-zent-replace": "latest",
+        "babel-plugin-zoom-react-ui": "latest",
+        "babel-plugin-zqnbconsole": "latest",
+        "babel-plugin-zstyle": "latest"
+    }
+}

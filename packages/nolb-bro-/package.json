@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-bro-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bro-cli": "latest",
+        "bro-easing": "latest",
+        "bro-fs": "latest",
+        "bro-http": "latest",
+        "bro-http-fetch": "latest",
+        "bro-http-proxy": "latest",
+        "bro-ids": "latest",
+        "bro-jq": "latest",
+        "bro-js": "latest",
+        "bro-lib-demo": "latest",
+        "bro-lnd": "latest",
+        "bro-resolve": "latest",
+        "bro-size": "latest",
+        "bro-stache": "latest",
+        "bro-stache-loader": "latest",
+        "bro-team-ui": "latest",
+        "bro-tools": "latest",
+        "bro-touch": "latest",
+        "bro-ts": "latest",
+        "bro-ui": "latest"
+    }
+}

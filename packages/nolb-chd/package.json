@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-chd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chd": "latest",
+        "chd-components": "latest",
+        "chd-node": "latest",
+        "chd-session-mgt": "latest",
+        "chdemo_tinymce": "latest",
+        "chdir": "latest",
+        "chdir-promise": "latest",
+        "chdl": "latest",
+        "chdown": "latest",
+        "chdown-workers": "latest"
+    }
+}

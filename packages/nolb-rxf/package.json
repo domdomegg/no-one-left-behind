@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-rxf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rxf-rewrite": "latest",
+        "rxf_management": "latest",
+        "rxf_max-001": "latest",
+        "rxfangpacks": "latest",
+        "rxfb": "latest",
+        "rxfe": "latest",
+        "rxfeedback": "latest",
+        "rxfeedback-react": "latest",
+        "rxfeign": "latest",
+        "rxfiddle": "latest",
+        "rxfile-write": "latest",
+        "rxfire": "latest",
+        "rxfire-admin": "latest",
+        "rxfire-kaladivo": "latest",
+        "rxfire-todos": "latest",
+        "rxfirebase": "latest",
+        "rxfirestorm": "latest",
+        "rxfirstmodule": "latest",
+        "rxflow": "latest",
+        "rxflux": "latest",
+        "rxfm": "latest",
+        "rxfn": "latest",
+        "rxfork": "latest",
+        "rxform": "latest",
+        "rxfusion": "latest",
+        "rxfusion-pi": "latest",
+        "rxfusion-udoo": "latest"
+    }
+}

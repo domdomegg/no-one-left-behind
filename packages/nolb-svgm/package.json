@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-svgm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svgm": "latest",
+        "svgmap": "latest",
+        "svgmap-next": "latest",
+        "svgmaster": "latest",
+        "svgmate": "latest",
+        "svgmha": "latest",
+        "svgmill": "latest",
+        "svgmin": "latest",
+        "svgmini": "latest",
+        "svgmodule": "latest",
+        "svgmodules": "latest",
+        "svgmoji": "latest",
+        "svgmorph.js": "latest",
+        "svgmule": "latest"
+    }
+}

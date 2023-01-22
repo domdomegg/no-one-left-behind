@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-diss",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "diss": "latest",
+        "diss-weex": "latest",
+        "diss.js": "latest",
+        "dissect": "latest",
+        "dissect-error": "latest",
+        "dissector": "latest",
+        "dissemination": "latest",
+        "dissertation-ui-commons": "latest",
+        "dissimulare": "latest",
+        "disskey": "latest",
+        "dissmatch": "latest",
+        "dissociator": "latest",
+        "dissolve": "latest",
+        "dissolve-chunks": "latest",
+        "dissolve-generator": "latest",
+        "dissolve-transition": "latest",
+        "dissonance": "latest",
+        "dissonance.js": "latest",
+        "dissp": "latest",
+        "disstreamchat-utils": "latest"
+    }
+}

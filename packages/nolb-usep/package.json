@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-usep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "usepages": "latest",
+        "usepages-blocks": "latest",
+        "usepages-blocks-basic": "latest",
+        "usepages-render-blocks": "latest",
+        "usepagevisible": "latest",
+        "usepaginatecollection": "latest",
+        "usepanbao": "latest",
+        "usepanel": "latest",
+        "usepanels.com": "latest",
+        "usepaper": "latest",
+        "useparams": "latest",
+        "usephrases": "latest",
+        "usepicker": "latest",
+        "useplyr": "latest",
+        "usepositionning": "latest",
+        "usepowereffect": "latest",
+        "usepromiser": "latest",
+        "usepromises": "latest",
+        "usepromisevalue": "latest",
+        "useproxy": "latest",
+        "usepublished": "latest",
+        "usepubsub": "latest",
+        "usepwastate": "latest",
+        "usepython": "latest"
+    }
+}

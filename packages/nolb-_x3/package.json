@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_x3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@x3-cli-dev/clean": "latest",
+        "@x3-cli-dev/cli": "latest",
+        "@x3-cli-dev/command": "latest",
+        "@x3-cli-dev/config": "latest",
+        "@x3-cli-dev/exec": "latest",
+        "@x3-cli-dev/init": "latest",
+        "@x3-cli-dev/install": "latest",
+        "@x3-cli-dev/log": "latest",
+        "@x3-cli-dev/npm": "latest",
+        "@x3-cli-dev/package": "latest",
+        "@x3-cli-dev/proxy": "latest",
+        "@x3-cli-dev/publish": "latest",
+        "@x3-cli-dev/request": "latest",
+        "@x3-cli-dev/svn": "latest",
+        "@x3-cli-dev/utils": "latest",
+        "@x3-cli-dev/x3-ng-template": "latest",
+        "@x32323/tools": "latest",
+        "@x3m/make-flat-array": "latest",
+        "@x3nz/bsfmessagequeue": "latest",
+        "@x3platform/x-js": "latest",
+        "@x3platform/xmorb": "latest",
+        "@x3r5e/component-styles": "latest",
+        "@x3r5e/design-tokens": "latest",
+        "@x3r5e/global-web-styles": "latest",
+        "@x3r5e/icons": "latest",
+        "@x3r5e/react-components": "latest",
+        "@x3ro/test": "latest"
+    }
+}

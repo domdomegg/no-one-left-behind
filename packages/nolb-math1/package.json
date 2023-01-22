@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-math1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "Math1105": "latest",
+        "math1": "latest",
+        "math10086": "latest",
+        "math123": "latest",
+        "math1234": "latest",
+        "math123456789": "latest",
+        "math123654": "latest",
+        "math1_example": "latest",
+        "math1_gb22290694": "latest"
+    }
+}

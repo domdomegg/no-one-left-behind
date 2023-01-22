@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-ally",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ally": "latest",
+        "ally-auth0": "latest",
+        "ally-cli": "latest",
+        "ally-http-request": "latest",
+        "ally-instagram-driver": "latest",
+        "ally-invest": "latest",
+        "ally-invest-api": "latest",
+        "ally-logger": "latest",
+        "ally-microsoft-driver": "latest",
+        "ally-start-work-api": "latest",
+        "ally-start-work-branch-verify": "latest",
+        "ally-start-work-workflow": "latest",
+        "ally-tiktok-driver": "latest",
+        "ally-transport-front": "latest",
+        "ally-ui": "latest",
+        "ally-zoom": "latest",
+        "ally.js": "latest",
+        "ally_balance": "latest",
+        "allydev": "latest",
+        "allyfe": "latest",
+        "allyn": "latest",
+        "allyong-test-cli": "latest",
+        "allyong-test-cli-utils": "latest",
+        "allyourbase64": "latest",
+        "allypi": "latest",
+        "allyproviders": "latest",
+        "allystack": "latest"
+    }
+}

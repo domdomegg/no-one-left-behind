@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-acn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "acn": "latest",
+        "acn-apply-by-code": "latest",
+        "acn-code-now": "latest",
+        "acn-cordova-plugin-app-info": "latest",
+        "acn-form": "latest",
+        "acn-ms-dashboard": "latest",
+        "acn_child": "latest",
+        "acn_cli": "latest",
+        "acna-liturgy": "latest",
+        "acne": "latest",
+        "acnf-agro-danfe": "latest",
+        "acnh-db-json": "latest",
+        "acnh-images": "latest",
+        "acnh-items": "latest",
+        "acnhmsgbox": "latest",
+        "acnjsformatter": "latest",
+        "acnodb": "latest",
+        "acnonline-aws-utils": "latest",
+        "acnow-webapp": "latest",
+        "acnpgrv": "latest",
+        "acns-quickstart": "latest",
+        "acns-quickstart-cst": "latest",
+        "acns_suiteman": "latest",
+        "acnsy": "latest",
+        "acnumbers": "latest"
+    }
+}

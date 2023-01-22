@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-che-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "che-cli": "latest",
+        "che-cypress-tests": "latest",
+        "che-endpoint-viewer": "latest",
+        "che-kung": "latest",
+        "che-project-cloner": "latest",
+        "che-react-number-easing": "latest",
+        "che-react-number-easing-currency": "latest",
+        "che-redux-form": "latest",
+        "che-ssh-tool": "latest",
+        "che-terminal-connector": "latest",
+        "che-theia-activity-tracker": "latest",
+        "che-theia-plugin": "latest",
+        "che-theia-ssh-extension": "latest",
+        "che-ui": "latest"
+    }
+}

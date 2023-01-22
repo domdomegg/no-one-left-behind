@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-panb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "panbeichuan-cli": "latest",
+        "panbhag-alleup": "latest",
+        "panbm-npm-demo": "latest",
+        "panbmnpm": "latest",
+        "panboren-uis": "latest",
+        "panbuyi": "latest"
+    }
+}

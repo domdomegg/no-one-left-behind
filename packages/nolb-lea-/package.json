@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-lea-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lea-components": "latest",
+        "lea-h5-editor": "latest",
+        "lea-ui": "latest",
+        "lea-ui-zhou": "latest"
+    }
+}

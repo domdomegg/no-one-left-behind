@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_reax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reaxi/events": "latest",
+        "@reaxi/node-detect-runtime": "latest",
+        "@reaxi/plugin-system": "latest",
+        "@reaxi/promises": "latest",
+        "@reaxio/button": "latest",
+        "@reaxio/formatdateepoch": "latest",
+        "@reaxio/modal": "latest"
+    }
+}

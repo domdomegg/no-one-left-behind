@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_mare",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mareel/core": "latest",
+        "@marek.lints/vanilla-box": "latest",
+        "@marekdano/streak-counter": "latest",
+        "@marekdano/use-quote": "latest",
+        "@marekknows/my-component": "latest",
+        "@mareklesko/update-service-worker": "latest",
+        "@mareklesko/watch-ng-libraries": "latest",
+        "@marekp995/pv-node-smb2": "latest",
+        "@mareksokol/ccxt": "latest",
+        "@marekstancik/ngx-monaco-editor": "latest",
+        "@marekstancik/textract": "latest",
+        "@marekstracar/axios-cache-adapter": "latest",
+        "@marekus/reactidsk": "latest",
+        "@marenaud/react-timeline-range-slider": "latest",
+        "@mareoraft/docdash": "latest",
+        "@mareweb/node-module-package-demo": "latest"
+    }
+}

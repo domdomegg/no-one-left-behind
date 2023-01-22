@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_tabler-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/tabler-umbrella": "latest",
+        "@hyper.fun/tabler-underline": "latest",
+        "@hyper.fun/tabler-unlink": "latest",
+        "@hyper.fun/tabler-upload": "latest",
+        "@hyper.fun/tabler-urgent": "latest",
+        "@hyper.fun/tabler-usb": "latest",
+        "@hyper.fun/tabler-user": "latest",
+        "@hyper.fun/tabler-user-check": "latest",
+        "@hyper.fun/tabler-user-circle": "latest",
+        "@hyper.fun/tabler-user-exclamation": "latest",
+        "@hyper.fun/tabler-user-minus": "latest",
+        "@hyper.fun/tabler-user-off": "latest",
+        "@hyper.fun/tabler-user-plus": "latest",
+        "@hyper.fun/tabler-user-search": "latest",
+        "@hyper.fun/tabler-user-x": "latest",
+        "@hyper.fun/tabler-users": "latest"
+    }
+}

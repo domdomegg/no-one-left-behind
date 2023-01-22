@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-quid",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "quid": "latest",
+        "quidax-node": "latest",
+        "quidditch": "latest",
+        "quiddity-agent": "latest",
+        "quidjs": "latest",
+        "quidlib": "latest",
+        "quidphp-browser": "latest",
+        "quidphp-javascript": "latest",
+        "quidphp-navigation": "latest",
+        "quidprofollow": "latest",
+        "quidproquo": "latest",
+        "quidproquo-actionprocessor-awslambda": "latest",
+        "quidproquo-actionprocessor-node": "latest",
+        "quidproquo-core": "latest",
+        "quidproquo-deploy-awscdk": "latest",
+        "quidproquo-deploy-webpack": "latest",
+        "quidproquo-tsconfig": "latest",
+        "quidproquo-webserver": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-simpl-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simpl-chat": "latest",
+        "simpl-cli": "latest",
+        "simpl-css": "latest",
+        "simpl-factory": "latest",
+        "simpl-grid": "latest",
+        "simpl-path-chart": "latest",
+        "simpl-react": "latest",
+        "simpl-react-lib": "latest",
+        "simpl-schema": "latest",
+        "simpl-schema-enhancements": "latest",
+        "simpl-schema-jk": "latest",
+        "simpl-schema-mockdoc": "latest",
+        "simpl-schema-to-redux-form": "latest",
+        "simpl-search-bar": "latest",
+        "simpl-to-graphql-schema": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-vite-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vite-open": "latest",
+        "vite-openapi": "latest",
+        "vite-oss-plugin": "latest",
+        "vite-output": "latest"
+    }
+}

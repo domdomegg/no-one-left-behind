@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-nativef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nativefier": "latest",
+        "nativefier-bvc": "latest",
+        "nativefier-cn": "latest",
+        "nativefier-fork-davej": "latest",
+        "nativefier-next": "latest",
+        "nativefier-tools": "latest",
+        "nativefier-willyb321": "latest",
+        "nativefirebase": "latest",
+        "nativefs": "latest"
+    }
+}

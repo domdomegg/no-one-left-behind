@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-serd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "serdarkarakas-random-number-generator": "latest",
+        "serdes": "latest",
+        "serdica-shared": "latest",
+        "serdima-smr": "latest",
+        "serdimoa-smr": "latest",
+        "serdivan": "latest",
+        "serdnest": "latest",
+        "serdoo-chatbot": "latest",
+        "serdoor": "latest"
+    }
+}

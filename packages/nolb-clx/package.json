@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-clx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clx-h5psd": "latest",
+        "clx_test_npm": "latest",
+        "clxmoudlenpm01": "latest",
+        "clxtest": "latest",
+        "clxui": "latest",
+        "clxx": "latest"
+    }
+}

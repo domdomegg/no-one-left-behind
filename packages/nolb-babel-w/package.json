@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-babel-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-walk": "latest",
+        "babel-watch": "latest",
+        "babel-watch-extra": "latest",
+        "babel-watch-patched": "latest",
+        "babel-webpack-lib-example": "latest",
+        "babel-webpack-package-boilerplate": "latest",
+        "babel-webpack-test": "latest",
+        "babel-webpack-vuejs-sqljs-boilderplate": "latest",
+        "babel-webpack2-kit": "latest",
+        "babel-worker-brunch": "latest"
+    }
+}

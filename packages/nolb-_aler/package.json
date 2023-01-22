@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_aler",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aler974291/vue-print": "latest",
+        "@aler974291/vue-table-export": "latest",
+        "@alerce/component-library": "latest",
+        "@alerce/components": "latest",
+        "@alerce/http-client": "latest",
+        "@alergeek-ventures/eslint-config": "latest",
+        "@alertbox/docsify-footer": "latest",
+        "@alertlogic/aims": "latest",
+        "@alertlogic/al-aws-collector-js": "latest",
+        "@alertlogic/al-azure-collector-js": "latest",
+        "@alertlogic/al-collector-js": "latest",
+        "@alertlogic/client": "latest",
+        "@alertlogic/credentials": "latest",
+        "@alertlogic/environments": "latest",
+        "@alertlogic/paws-collector": "latest",
+        "@alertlogic/session": "latest",
+        "@alertlogic/subscriptions": "latest",
+        "@alertor/standard-version-updater-deb-control": "latest",
+        "@aleryontickets/common": "latest"
+    }
+}

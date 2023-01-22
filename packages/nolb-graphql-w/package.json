@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-graphql-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graphql-wasm-parser": "latest",
+        "graphql-weaver": "latest",
+        "graphql-web": "latest",
+        "graphql-web-hook": "latest",
+        "graphql-web-lib": "latest",
+        "graphql-web-lite": "latest",
+        "graphql-webpack-loader": "latest",
+        "graphql-websocket": "latest",
+        "graphql-webtransport": "latest",
+        "graphql-with-auth": "latest",
+        "graphql-with-inputunion": "latest",
+        "graphql-wordpress-rest-api": "latest",
+        "graphql-workers": "latest",
+        "graphql-workspace-authorizer-transformer": "latest",
+        "graphql-wrapper": "latest",
+        "graphql-ws": "latest",
+        "graphql-ws-client": "latest",
+        "graphql-wt": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-gry",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gry": "latest",
+        "gry-antd-braft-editor": "latest",
+        "gry-array": "latest",
+        "gry-login": "latest",
+        "gry-ns": "latest",
+        "gry-yy-ns": "latest",
+        "gry_test": "latest",
+        "gry_vue": "latest",
+        "gry_webpack_pro": "latest",
+        "gryadka": "latest",
+        "grybovsky-react-big-calendar": "latest",
+        "gryd": "latest",
+        "gryd-cli": "latest",
+        "gryd-docs": "latest",
+        "gryd-project": "latest",
+        "gryd-validator": "latest",
+        "gryffin": "latest",
+        "gryfter": "latest",
+        "grymare-input": "latest",
+        "grymca_fitstyle": "latest",
+        "gryn": "latest",
+        "gryp": "latest",
+        "grypher": "latest",
+        "gryphon": "latest",
+        "gryphonjs": "latest",
+        "grytcyna-lib": "latest",
+        "gryte": "latest"
+    }
+}

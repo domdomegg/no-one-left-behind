@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-oso",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "oso": "latest",
+        "oso-cloud": "latest",
+        "osobni_web_2022": "latest",
+        "osocket": "latest",
+        "osocket-web": "latest",
+        "osocna-ui": "latest",
+        "osolog": "latest",
+        "osom": "latest",
+        "osom-cli": "latest",
+        "osome-kit": "latest",
+        "oson.annotation.js.test": "latest",
+        "oson.js": "latest"
+    }
+}

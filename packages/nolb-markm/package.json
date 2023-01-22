@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-markm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "markm-ui": "latest",
+        "markmac": "latest",
+        "markmaid": "latest",
+        "markmail": "latest",
+        "markmail-js": "latest",
+        "markmap": "latest",
+        "markmap-autoloader": "latest",
+        "markmap-cli": "latest",
+        "markmap-common": "latest",
+        "markmap-lib": "latest",
+        "markmap-lib2": "latest",
+        "markmap-toolbar": "latest",
+        "markmap-view": "latest",
+        "markmarcelo-react-scripts": "latest",
+        "markmark": "latest",
+        "markmd": "latest",
+        "markme": "latest",
+        "markme-leancloud": "latest",
+        "markmodule1": "latest",
+        "markmon": "latest",
+        "markmunkacsi": "latest",
+        "markmurray": "latest",
+        "markmurray-learnnode": "latest"
+    }
+}

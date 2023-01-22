@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_sow",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sowaret/redux-websocket-middleware": "latest",
+        "@sowatech/auth": "latest",
+        "@sowatech/eslint-plugin": "latest",
+        "@sowatech/shared": "latest",
+        "@sowatech/webapiservices": "latest",
+        "@sowell/quasar-app-extension-auth": "latest",
+        "@sowell/quasar-app-extension-rxdb": "latest",
+        "@sowhatdoido/babel-plugin-named-asset-import": "latest",
+        "@sowhatdoido/babel-preset-react-app": "latest",
+        "@sowhatdoido/confusing-browser-globals": "latest",
+        "@sowhatdoido/create-react-app": "latest",
+        "@sowhatdoido/eslint-config-react-app": "latest",
+        "@sowhatdoido/react-app-rewire-eslint": "latest",
+        "@sowhatdoido/react-app-rewired": "latest",
+        "@sowhatdoido/react-dev-utils": "latest",
+        "@sowhatdoido/react-error-overlay": "latest",
+        "@sowhatdoido/react-scripts": "latest",
+        "@sowia/memcached": "latest",
+        "@sowiso/formulaeditor": "latest",
+        "@sowjanyamaisagoni/lotide": "latest",
+        "@sown/brand": "latest"
+    }
+}

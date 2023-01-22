@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-disj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "disject-server": "latest",
+        "disjoin": "latest",
+        "disjoiner": "latest",
+        "disjoint": "latest",
+        "disjoint-range": "latest",
+        "disjoint-set": "latest",
+        "disjoint-set-ds": "latest",
+        "disjoint-set-reason": "latest",
+        "disjoint-sets": "latest",
+        "disjointset": "latest",
+        "disjord": "latest",
+        "disjs-logger": "latest",
+        "disjs-util": "latest"
+    }
+}

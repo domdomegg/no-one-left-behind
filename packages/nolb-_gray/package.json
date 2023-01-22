@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_gray",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@grayarrow/core-utils": "latest",
+        "@graydient/generator-graydient": "latest",
+        "@graydigital/storybook": "latest",
+        "@grayfox/react-seed-cli": "latest",
+        "@grayfox/tsmonad": "latest",
+        "@graylog/sawmill-sd": "latest",
+        "@graylog/tsconfig": "latest",
+        "@graymatter/react-css": "latest",
+        "@graynorton/prpl-server": "latest",
+        "@grayson-ds/foundation": "latest",
+        "@grayson-ds/react": "latest",
+        "@grayson-ds/scss": "latest",
+        "@graysonlee/lotide": "latest",
+        "@grayspec/hello-wasm": "latest",
+        "@graytonio/ha-cli": "latest",
+        "@graywolfai/esbuild-register": "latest",
+        "@graywolfai/firebase-express-jwt": "latest",
+        "@graywolfai/react-heroicons": "latest",
+        "@graywolfai/react-tiniest-router": "latest",
+        "@graywolfai/rest-ts": "latest",
+        "@graywolfai/rest-ts-axios": "latest",
+        "@graywolfai/rest-ts-express": "latest"
+    }
+}

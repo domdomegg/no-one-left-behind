@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_woz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wozardlozard/caniuse-api": "latest",
+        "@wozardlozard/colorthief": "latest",
+        "@wozardlozard/discord.js": "latest",
+        "@wozardlozard/discordjs-v12": "latest",
+        "@wozardlozard/prism-media": "latest",
+        "@wozardlozard/quantize": "latest",
+        "@wozien/demo-cli": "latest",
+        "@wozien/g-time": "latest",
+        "@wozien/kun-ui": "latest",
+        "@wozien/module-a": "latest",
+        "@wozien/module-b": "latest",
+        "@wozien/vue-image-preview": "latest",
+        "@wozien/vue-scrollbar": "latest",
+        "@wozjs/kiva-cli": "latest",
+        "@wozjs/kiva-import-analyzer-plugin": "latest",
+        "@wozjs/kiva-markdown-loader": "latest",
+        "@wozjs/kiva-ui": "latest",
+        "@wozniakdominik/common-gateway": "latest",
+        "@wozniakdominik/gateway-common": "latest",
+        "@woznial/gridsome-plugin-imagify": "latest"
+    }
+}

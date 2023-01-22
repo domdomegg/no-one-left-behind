@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-prok",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "prok": "latest",
+        "prok-queue": "latest",
+        "prok-wait": "latest",
+        "prokom-library": "latest",
+        "prokom-react-components": "latest",
+        "prokop_supermodule_1979_rz": "latest",
+        "prokopsimek-package-a": "latest",
+        "prokopsimek-package-b": "latest",
+        "prokopsimek-package-core": "latest",
+        "prokrutchik": "latest",
+        "proksi": "latest",
+        "prokure-cookie-proxy": "latest",
+        "prokure-react-data-grid": "latest",
+        "prokure-react-data-grid-addons": "latest",
+        "prokure-react-lazyload": "latest",
+        "prokure_blueprint": "latest",
+        "prokure_blueprint_table": "latest",
+        "prokure_notify": "latest"
+    }
+}

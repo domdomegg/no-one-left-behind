@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_kip",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kip-cli-dev/core": "latest",
+        "@kip-cli-dev/utils": "latest",
+        "@kipall/we-ui": "latest",
+        "@kiper-technology/papertrail-logger": "latest",
+        "@kipling/chpter": "latest",
+        "@kipling/tiny": "latest",
+        "@kipper/base": "latest",
+        "@kipper/cli": "latest",
+        "@kipper/core": "latest",
+        "@kipper/target-js": "latest",
+        "@kipper/target-ts": "latest",
+        "@kipper/web": "latest",
+        "@kippie-bv/nuxt-facebook-pixel": "latest",
+        "@kippie-bv/nuxt-hotjar": "latest",
+        "@kippie/shopware-pwa": "latest",
+        "@kippie/shopware-pwa-ecommerce": "latest",
+        "@kippsaude/components": "latest",
+        "@kipras/sudoers": "latest",
+        "@kipstest/components.ui.actionbutton": "latest",
+        "@kipstest/components.ui.inputwithaddon": "latest",
+        "@kipstest/components.ui.modal": "latest",
+        "@kipstest/components.ui.search": "latest",
+        "@kipz/oak": "latest"
+    }
+}

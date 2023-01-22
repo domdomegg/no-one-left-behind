@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_y0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@y0c/react-datepicker": "latest",
+        "@y0n1/use-state-safely": "latest",
+        "@y0x54a/base64url-node": "latest",
+        "@y0x54a/bunda": "latest",
+        "@y0x54a/hi-npm": "latest",
+        "@y0x54a/oid-node": "latest",
+        "@y0za/boxy": "latest"
+    }
+}

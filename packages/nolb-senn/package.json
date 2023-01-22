@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-senn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "senn-devcamp-js-footer": "latest",
+        "senna": "latest",
+        "sennda-toten": "latest",
+        "sennep-utils": "latest",
+        "senno-test": "latest"
+    }
+}

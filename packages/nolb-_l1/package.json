@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_l1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@l1/b3": "latest",
+        "@l1/fn": "latest",
+        "@l10nmonster/tmexchange": "latest",
+        "@l170/blog": "latest",
+        "@l170/gm": "latest",
+        "@l1b3r/nova": "latest",
+        "@l1go/analytics": "latest",
+        "@l1go/api-graphql": "latest",
+        "@l1go/bpmn-engine": "latest",
+        "@l1go/console-core": "latest",
+        "@l1go/console-dashboard": "latest",
+        "@l1go/db-typeorm": "latest",
+        "@l1go/orm-export": "latest",
+        "@l1go/qiniu": "latest",
+        "@l1go/system-permission": "latest",
+        "@l1go/wx-core": "latest",
+        "@l1go/wxmp-core": "latest",
+        "@l1lly/royalroadl-api": "latest",
+        "@l1n3x/leact": "latest",
+        "@l1nyanm1ng/react-picture-viewer": "latest",
+        "@l1shen/block-api": "latest",
+        "@l1shen/monaco-languageclient": "latest",
+        "@l1shen/pdf-plugin": "latest",
+        "@l1shen/vscode": "latest",
+        "@l1tr05/react-svg-radar-chart": "latest",
+        "@l1tr05/react-to-pdf": "latest"
+    }
+}

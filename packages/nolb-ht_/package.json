@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-ht_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ht_1824_1": "latest",
+        "ht_npm_first": "latest",
+        "ht_queuer": "latest",
+        "ht_server": "latest",
+        "ht_state-api": "latest",
+        "ht_swap_sdk": "latest",
+        "ht_template": "latest"
+    }
+}

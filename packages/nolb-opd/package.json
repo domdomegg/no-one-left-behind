@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-opd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "opd-animator": "latest",
+        "opd-content": "latest",
+        "opd-datagrid": "latest",
+        "opd-hello-world": "latest",
+        "opd-ng-lib-app": "latest",
+        "opd-notify": "latest",
+        "opd-sdk": "latest",
+        "opd-validate": "latest",
+        "opdehy": "latest",
+        "opdf": "latest",
+        "opdf-scrollview": "latest",
+        "opdf-selection": "latest",
+        "opdf-terxtlayer": "latest",
+        "opdir": "latest",
+        "opdoc": "latest",
+        "opdracht": "latest",
+        "opdracht3": "latest",
+        "opds": "latest",
+        "opds-browser": "latest",
+        "opds-extra": "latest",
+        "opds-feed-parser": "latest",
+        "opds-generator": "latest",
+        "opds-js": "latest",
+        "opds-parser": "latest",
+        "opds-parser2": "latest",
+        "opds-test-header": "latest",
+        "opds-web-client": "latest",
+        "opdt": "latest"
+    }
+}

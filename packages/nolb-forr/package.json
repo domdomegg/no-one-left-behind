@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-forr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "forrer": "latest",
+        "forrest": "latest",
+        "forrest-components": "latest",
+        "forrest-run": "latest",
+        "forrestgump.domain": "latest",
+        "forrestgump.users": "latest",
+        "forrestgump.web": "latest",
+        "forrily-flowchart": "latest",
+        "forrilycn-helloworld": "latest",
+        "forro": "latest",
+        "forro-lib": "latest",
+        "forrobert": "latest",
+        "forrst": "latest",
+        "forrst-api": "latest",
+        "forrun": "latest"
+    }
+}

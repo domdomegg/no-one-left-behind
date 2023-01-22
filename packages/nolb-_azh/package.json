@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_azh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@azhang_cc/ng-bullet-forked": "latest",
+        "@azhar360/grid": "latest",
+        "@azhar360/password": "latest",
+        "@azharul/tiny": "latest",
+        "@azhder/commonist": "latest",
+        "@azhder/enver": "latest",
+        "@azhder/eslint-config-azder": "latest",
+        "@azhder/explano": "latest",
+        "@azhder/globale": "latest",
+        "@azhder/nfun": "latest",
+        "@azhder/object-nav": "latest",
+        "@azhder/pingman": "latest",
+        "@azhder/taglog": "latest",
+        "@azhena/exportexcel": "latest",
+        "@azhou/basemodel": "latest",
+        "@azhou/mysql-wrapper": "latest",
+        "@azhro/card": "latest",
+        "@azhro/holidates": "latest",
+        "@azhu-cli-dev/core": "latest",
+        "@azhu-cli-dev/utils": "latest",
+        "@azhui-lowcode-cli-dev/core": "latest",
+        "@azhui-lowcode-cli-dev/format-path": "latest",
+        "@azhui-lowcode-cli-dev/init": "latest",
+        "@azhui-lowcode-cli-dev/utils": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-quir",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "quirc": "latest",
+        "quirc-js": "latest",
+        "quirc-wasm-emcc": "latest",
+        "quirc-wasm-module": "latest",
+        "quirc-wasm-module2": "latest",
+        "quire": "latest",
+        "quirematrix": "latest",
+        "quirk": "latest",
+        "quirkbot": "latest",
+        "quirkbot-arduino-builder": "latest",
+        "quirkbot-arduino-hardware": "latest",
+        "quirkbot-arduino-library": "latest",
+        "quirkbot-avr-gcc": "latest",
+        "quirkbot-chrome-app": "latest",
+        "quirkbot-code-static": "latest",
+        "quirkbot-compiler": "latest",
+        "quirkbot-data-api": "latest",
+        "quirkbot-midi-interface": "latest",
+        "quirkbot-self-test": "latest",
+        "quirks": "latest",
+        "quirky": "latest",
+        "quirons-broker": "latest",
+        "quirons-jodit": "latest",
+        "quirrel": "latest",
+        "quirrell": "latest",
+        "quirrell-test": "latest"
+    }
+}

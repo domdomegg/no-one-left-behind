@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-multin",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "multination": "latest",
+        "multines": "latest",
+        "multinet": "latest",
+        "multinet-components": "latest",
+        "multinodejs": "latest",
+        "multinodes": "latest",
+        "multinomial": "latest",
+        "multinomial-hmm": "latest",
+        "multinomial-ln": "latest",
+        "multinomial-pmf": "latest",
+        "multinovum": "latest",
+        "multinuxt": "latest"
+    }
+}

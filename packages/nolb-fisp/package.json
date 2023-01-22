@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-fisp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fisp-command-init": "latest",
+        "fisp-command-install": "latest",
+        "fisp-disk": "latest",
+        "fisp-parser-rem": "latest",
+        "fisp-postprocessor-require-async": "latest",
+        "fisp-prepackager-concat": "latest",
+        "fisp-widget": "latest",
+        "fispack": "latest",
+        "fispatch": "latest"
+    }
+}

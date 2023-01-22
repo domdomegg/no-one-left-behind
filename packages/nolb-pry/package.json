@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-pry",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pry": "latest",
+        "prybar": "latest",
+        "pryesh-lion-lib": "latest",
+        "pryid": "latest",
+        "pryishjs": "latest",
+        "pryjs": "latest",
+        "pryma-sort": "latest",
+        "prymaid_666": "latest",
+        "pryme": "latest",
+        "prymeui": "latest",
+        "prynt": "latest",
+        "pryo": "latest",
+        "prys-toast-library": "latest",
+        "prysm": "latest",
+        "prysma": "latest",
+        "prysma-docker": "latest",
+        "prysmalight": "latest",
+        "prysmex-docfy-ember": "latest",
+        "prysmex-fastboot-s3-downloader": "latest",
+        "prysmex-fastboot-s3-notifier": "latest",
+        "pryv": "latest"
+    }
+}

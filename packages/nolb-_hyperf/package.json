@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_hyperf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyperfiddle/remark-generic-extensions": "latest",
+        "@hyperflame1/database": "latest",
+        "@hyperflow/hyperflow": "latest",
+        "@hyperflow/job-executor": "latest",
+        "@hyperflow/logger": "latest",
+        "@hyperflow/plugin": "latest",
+        "@hyperflow/standalone-autoscaler-plugin": "latest",
+        "@hyperflow/tools": "latest",
+        "@hyperflow/types": "latest",
+        "@hyperfocus/bytelength": "latest",
+        "@hyperfocus/jumbohasher": "latest",
+        "@hyperfocus/oneliner": "latest",
+        "@hyperfov/link-previews": "latest",
+        "@hyperfun/component": "latest",
+        "@hyperfun/dom": "latest",
+        "@hyperfun/router": "latest",
+        "@hyperfun/run": "latest",
+        "@hyperfxtech/ui": "latest"
+    }
+}

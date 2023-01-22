@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_flt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@flt-cli/template-egg-api": "latest",
+        "@flt-cli/template-vue-component": "latest",
+        "@flt-cli/template-vue-element-admin": "latest",
+        "@flt-cli/template-vue2": "latest",
+        "@flt-cli/template-vue2-custom": "latest",
+        "@fltechnics/eslint-config": "latest",
+        "@fltfx/lotide": "latest",
+        "@fltickets/common": "latest",
+        "@fltri/eslint-config": "latest",
+        "@fltri/eslint-plugin-local-rules": "latest",
+        "@fltwk/grunt-po2mo": "latest",
+        "@fltx.net/color-picker": "latest"
+    }
+}

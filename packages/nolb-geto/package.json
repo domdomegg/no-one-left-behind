@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-geto",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "geto": "latest",
+        "getobject": "latest",
+        "getoccurencesintext": "latest",
+        "getoffset": "latest",
+        "getoken": "latest",
+        "getone-cli": "latest",
+        "getone-tools": "latest",
+        "getonline": "latest",
+        "getopnam": "latest",
+        "getopt": "latest",
+        "getopt-c": "latest",
+        "getopt-long": "latest",
+        "getopt.jsx": "latest",
+        "getoptie": "latest",
+        "getopts": "latest",
+        "getopts-compat": "latest",
+        "getoraddkey-simple": "latest",
+        "getorelse": "latest",
+        "getorset": "latest",
+        "getorset-anything": "latest",
+        "getos": "latest",
+        "getos-cli": "latest",
+        "getoslocalescrossplatform": "latest",
+        "getown": "latest"
+    }
+}

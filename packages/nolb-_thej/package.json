@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_thej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@thejacobdev/binit": "latest",
+        "@thejairana/linkdownload": "latest",
+        "@thejay/number-formatter": "latest",
+        "@thejayvee/lotide": "latest",
+        "@thejlifex/ngx-scroll-spy": "latest",
+        "@thejohnfreeman/await-observable": "latest",
+        "@thejohnfreeman/copy-dependencies": "latest",
+        "@thejohnfreeman/generator-python": "latest",
+        "@thejohnfreeman/joplin-plugin": "latest",
+        "@thejohnfreeman/loadable": "latest",
+        "@thejohnfreeman/lolex": "latest",
+        "@thejohnfreeman/observer": "latest",
+        "@thejohnfreeman/react-bootstrap": "latest",
+        "@thejohnfreeman/react-forms": "latest",
+        "@thejohnfreeman/react-forms-kendo": "latest",
+        "@thejonan/as-sys": "latest",
+        "@thejones/common-ui": "latest",
+        "@thejones/react-common-components": "latest",
+        "@thejones/react-hook-test": "latest",
+        "@thejonnyr/head-start": "latest"
+    }
+}

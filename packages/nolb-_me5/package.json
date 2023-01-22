@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_me5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@me5on/albega": "latest",
+        "@me5on/classicist": "latest",
+        "@me5on/crayon": "latest",
+        "@me5on/create": "latest",
+        "@me5on/dv": "latest",
+        "@me5on/fn": "latest",
+        "@me5on/is": "latest",
+        "@me5on/martis": "latest",
+        "@me5on/ob": "latest",
+        "@me5on/rebus": "latest",
+        "@me5on/to": "latest"
+    }
+}

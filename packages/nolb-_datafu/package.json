@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_datafu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datafund/consent-generator": "latest",
+        "@datafund/consent-viewer": "latest",
+        "@datafund/consents-summary": "latest",
+        "@datafund/data-receipt": "latest"
+    }
+}

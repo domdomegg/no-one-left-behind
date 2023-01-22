@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-rollup-l",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rollup-la": "latest",
+        "rollup-leaflet-example": "latest",
+        "rollup-learn": "latest",
+        "rollup-legacy": "latest",
+        "rollup-lib-cli": "latest",
+        "rollup-lib-template": "latest",
+        "rollup-lib-test": "latest",
+        "rollup-library": "latest",
+        "rollup-library-base": "latest",
+        "rollup-library-demo": "latest",
+        "rollup-library-template": "latest",
+        "rollup-library-tut": "latest",
+        "rollup-library-tut-babel": "latest",
+        "rollup-library_hezhen": "latest",
+        "rollup-license-plugin": "latest",
+        "rollup-load-plugins": "latest",
+        "rollup-loader": "latest"
+    }
+}

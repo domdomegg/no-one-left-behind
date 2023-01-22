@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-serverd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "serverdata_shop_123": "latest",
+        "serverdate": "latest",
+        "serverdebug-proxy": "latest",
+        "serverdednet": "latest",
+        "serverdemotest": "latest",
+        "serverdeploy": "latest",
+        "serverdev-api": "latest",
+        "serverdials": "latest",
+        "serverdom": "latest"
+    }
+}

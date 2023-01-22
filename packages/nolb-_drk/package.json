@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_drk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@drk.w.jhnsn/react-datepicker": "latest",
+        "@drk4/utilities": "latest",
+        "@drkerilo/poc-scss-lincs-colloc": "latest",
+        "@drkforums/discord-sso-drk": "latest",
+        "@drklonk/ckeditor5-build-classic-with-code-block": "latest"
+    }
+}

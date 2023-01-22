@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_react2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@react2rx/bootstrap": "latest",
+        "@react2rx/core": "latest",
+        "@react2rx/persistence": "latest",
+        "@react2rx/request": "latest",
+        "@react2rx/router": "latest",
+        "@react2svelte/image-gallery": "latest",
+        "@react2svelte/swipable": "latest",
+        "@react2svelte/swipeable": "latest",
+        "@react2vanilla/r2v-lib": "latest"
+    }
+}

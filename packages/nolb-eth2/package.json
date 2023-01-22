@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-eth2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eth2": "latest",
+        "eth2-js": "latest",
+        "eth2-keystore-js": "latest",
+        "eth2-wallet-js": "latest",
+        "eth2fa": "latest"
+    }
+}

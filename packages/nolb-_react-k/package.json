@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_react-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@react-keycloak-fork/core": "latest",
+        "@react-keycloak-fork/ssr": "latest",
+        "@react-keycloak-fork/web": "latest",
+        "@react-keycloak/core": "latest",
+        "@react-keycloak/keycloak-ts": "latest",
+        "@react-keycloak/native": "latest",
+        "@react-keycloak/nextjs": "latest",
+        "@react-keycloak/razzle": "latest",
+        "@react-keycloak/ssr": "latest",
+        "@react-keycloak/web": "latest",
+        "@react-kit/auth": "latest",
+        "@react-kit/http": "latest",
+        "@react-kit/util": "latest",
+        "@react-kits/base": "latest",
+        "@react-kits/common": "latest",
+        "@react-kits/dom": "latest",
+        "@react-kits/redux": "latest",
+        "@react-konfirm/sample": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-z9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "z9": "latest",
+        "z91-capacitor-plugin": "latest",
+        "z94262_lodash": "latest",
+        "z99": "latest",
+        "z9math_example": "latest"
+    }
+}

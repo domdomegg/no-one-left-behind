@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-taj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "taj": "latest",
+        "taja": "latest",
+        "tajigon": "latest",
+        "tajiri-mpesa-express": "latest",
+        "tajiri-mpesa-oauth": "latest",
+        "tajiri-mpesa-password": "latest",
+        "tajiri-mpesa-time": "latest",
+        "tajiri-print": "latest",
+        "tajm": "latest",
+        "tajne-1": "latest",
+        "tajnur-test": "latest",
+        "tajpouria-circuit-breaker": "latest",
+        "tajpouria-mss-utils": "latest",
+        "tajsggvhsmh": "latest",
+        "tajweed": "latest",
+        "tajweed-ts": "latest"
+    }
+}

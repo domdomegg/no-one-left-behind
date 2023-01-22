@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-quae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "quaesitor": "latest",
+        "quaesitor-cli": "latest",
+        "quaesitor-web": "latest",
+        "quaestercore-lib": "latest",
+        "quaestor": "latest",
+        "quaestor-lib": "latest",
+        "quaestoraddressgenerator": "latest"
+    }
+}

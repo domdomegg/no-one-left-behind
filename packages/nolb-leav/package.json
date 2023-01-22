@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-leav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "leave": "latest",
+        "leave-a-message": "latest",
+        "leave-comment-cf": "latest",
+        "leave-confirm": "latest",
+        "leave-days-calculator": "latest",
+        "leave-me-alone": "latest",
+        "leave-tests": "latest",
+        "leavehomesafehk-qr-decoder": "latest",
+        "leaven": "latest",
+        "leaves": "latest",
+        "leaves-core": "latest",
+        "leavexchat-bot": "latest",
+        "leaving-scratch-permanently": "latest",
+        "leaving-users-lightbox": "latest"
+    }
+}

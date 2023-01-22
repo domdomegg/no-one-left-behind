@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-frn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "frn": "latest",
+        "frn-api-client": "latest",
+        "frn-cli": "latest",
+        "frn6710-taskmgr": "latest",
+        "frnd": "latest",
+        "frnpm": "latest",
+        "frnpx-cataster": "latest",
+        "frnpx-catasto": "latest",
+        "frnpx-risikodice": "latest",
+        "frnpx-rolldice": "latest",
+        "frnt": "latest",
+        "frnteste": "latest",
+        "frntnd": "latest",
+        "frntnd-boilerplate": "latest",
+        "frntnd-cacher": "latest",
+        "frntnd-class-with-plugins": "latest",
+        "frntnd-communicator": "latest",
+        "frntnd-framework": "latest",
+        "frntnd-paginator": "latest",
+        "frntnd-promise-util": "latest",
+        "frntnd-repository": "latest",
+        "frntnd-route-flow": "latest",
+        "frntnd-route-util": "latest",
+        "frntnd-router": "latest",
+        "frntnd-subset": "latest",
+        "frntnd-view": "latest",
+        "frntndr": "latest"
+    }
+}

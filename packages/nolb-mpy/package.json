@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-mpy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mpy": "latest",
+        "mpy-test-20170223": "latest",
+        "mpya-digital": "latest",
+        "mpyk": "latest",
+        "mpyqjs": "latest"
+    }
+}

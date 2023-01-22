@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-rn-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rn-yandex-appmetrica": "latest",
+        "rn-yandex-metrica": "latest",
+        "rn-yandex-metrics": "latest",
+        "rn-yandexnavi-signature": "latest",
+        "rn-yangga-app-ads": "latest",
+        "rn-yookassa": "latest",
+        "rn-youtube": "latest",
+        "rn-youtube-android": "latest",
+        "rn-youtube-embed": "latest",
+        "rn-youtube-iframe": "latest",
+        "rn-ysb": "latest",
+        "rn-ysui": "latest",
+        "rn-yunpeng-alipay": "latest"
+    }
+}

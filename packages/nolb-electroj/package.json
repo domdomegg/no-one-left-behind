@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-electroj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "electroj": "latest",
+        "electrojector": "latest",
+        "electrojet-scripts": "latest",
+        "electrojn": "latest",
+        "electrojs": "latest"
+    }
+}

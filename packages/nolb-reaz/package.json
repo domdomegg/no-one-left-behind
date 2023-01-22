@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-reaz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reazon": "latest",
+        "reazy": "latest",
+        "reazy-auth": "latest",
+        "reazy-auth-jwt": "latest",
+        "reazy-cli": "latest",
+        "reazy-http": "latest",
+        "reazy-native-auth-facebook": "latest",
+        "reazy-native-config": "latest",
+        "reazy-native-router-actions": "latest",
+        "reazy-setup-helper": "latest",
+        "reazy-web-config": "latest"
+    }
+}

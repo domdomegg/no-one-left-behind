@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_aif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aife/aife-scripts": "latest",
+        "@aife/create-aife-app": "latest",
+        "@aifedespaix/fdp-api-libs": "latest",
+        "@aifedespaix/fdp-api-models": "latest",
+        "@aifei/aifei": "latest",
+        "@aifeipeng/eslint-config-myconfig": "latest",
+        "@aifeipeng/prettier-config": "latest",
+        "@aiffel-dev/react-data-grid": "latest",
+        "@aifirst/aifirst-api": "latest",
+        "@aifirst/dingtalk-api": "latest",
+        "@aifirst/project-ask-publish-client": "latest",
+        "@aifirst/resource-center-publish-client": "latest",
+        "@aifirst/resource-publish": "latest",
+        "@aifirst/resources-center-publish-server": "latest",
+        "@aifirst/server-side-core": "latest",
+        "@aifirst/test": "latest",
+        "@aifirst/xiaozhongkao-three": "latest",
+        "@aiflow/core": "latest",
+        "@aiflow/mast": "latest",
+        "@aiflow/microservice-gateway": "latest"
+    }
+}

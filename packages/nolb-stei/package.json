@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-stei",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "steiger": "latest",
+        "steijehillewaert": "latest",
+        "stein": "latest",
+        "stein-core": "latest",
+        "stein-expedite": "latest",
+        "stein-fetch": "latest",
+        "stein-js-client": "latest",
+        "stein-orm": "latest",
+        "stein-orm-http": "latest",
+        "stein-orm-migrations": "latest",
+        "stein-orm-rest": "latest",
+        "stein-orm-sql": "latest",
+        "stein-orm-store-sql": "latest",
+        "stein-orm-tests": "latest",
+        "stein-plugin-console": "latest",
+        "stein-test": "latest",
+        "stein-test2": "latest",
+        "stein_math_example": "latest",
+        "steiner": "latest",
+        "steiner-cli": "latest",
+        "steinhart-hart": "latest",
+        "steinhaus-johnson-trotter": "latest",
+        "steinmetz": "latest",
+        "steins": "latest",
+        "steinsgate": "latest",
+        "steinway": "latest",
+        "steitus": "latest"
+    }
+}

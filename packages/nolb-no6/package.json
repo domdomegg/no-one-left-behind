@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-no6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "no6-app-oauth": "latest",
+        "no6-app-watcher": "latest",
+        "no6-bodyparser": "latest",
+        "no6-grpc-server": "latest",
+        "no6-http": "latest",
+        "no6-jov": "latest",
+        "no6-log": "latest",
+        "no6-mongo": "latest",
+        "no6-redis": "latest",
+        "no6-requesthasher": "latest",
+        "no6-route": "latest",
+        "no6-server": "latest",
+        "no6-socketio": "latest",
+        "no6-utils": "latest",
+        "no6-wsserver": "latest"
+    }
+}

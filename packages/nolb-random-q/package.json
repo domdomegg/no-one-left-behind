@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-random-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "random-qoutes-generator": "latest",
+        "random-qq-number": "latest",
+        "random-questions": "latest",
+        "random-quiroz": "latest",
+        "random-quote": "latest",
+        "random-quote-colors": "latest",
+        "random-quote-generator": "latest",
+        "random-quotes": "latest",
+        "random-quotes-js": "latest",
+        "random-quotes-nico": "latest",
+        "random-quotes-trans": "latest"
+    }
+}

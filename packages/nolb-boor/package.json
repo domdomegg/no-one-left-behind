@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-boor",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "boor": "latest",
+        "boorests": "latest",
+        "boorium": "latest",
+        "booru": "latest",
+        "booru-data": "latest",
+        "booru-fetcher": "latest",
+        "booru-getter": "latest",
+        "booru-xterm256": "latest",
+        "boorujs": "latest",
+        "boorutagparser-server": "latest",
+        "booruwrapperapi": "latest"
+    }
+}

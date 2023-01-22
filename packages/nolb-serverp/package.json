@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-serverp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "serverpack": "latest",
+        "serverpakage": "latest",
+        "serverpilot": "latest",
+        "serverpost": "latest",
+        "serverpractice": "latest",
+        "serverpreconfigured": "latest",
+        "serverproject": "latest",
+        "serverproto": "latest",
+        "serverpubsub": "latest",
+        "serverpush-linker": "latest"
+    }
+}

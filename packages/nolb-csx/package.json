@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-csx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "csx": "latest",
+        "csx-csv2json": "latest",
+        "csx-loader": "latest",
+        "csx-native-echarts": "latest",
+        "csx-react-native": "latest",
+        "csx-test-package-npm": "latest",
+        "csx-ui": "latest",
+        "csx-utils": "latest",
+        "csxcom": "latest",
+        "csxdbao": "latest",
+        "csxiaoyao-test": "latest",
+        "csxs": "latest",
+        "csxshyxshyxshy": "latest",
+        "csxwordcloud": "latest"
+    }
+}

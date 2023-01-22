@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_maxa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@maxaggedon/exceljs": "latest",
+        "@maxaggedon/react-avatar-editor": "latest",
+        "@maxaggedon/react-color": "latest",
+        "@maxaggedon/react-native-calendars": "latest",
+        "@maxaltena/eslint-config-maxaltena": "latest",
+        "@maxam2017/mdx-mermaid": "latest",
+        "@maxam2017/news-cli": "latest",
+        "@maxam2017/react-lib-template": "latest",
+        "@maxanjo512/ngx-auth-firebaseui": "latest"
+    }
+}

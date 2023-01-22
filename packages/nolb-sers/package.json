@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-sers",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sersa.api": "latest",
+        "serserge": "latest",
+        "serswef3": "latest"
+    }
+}

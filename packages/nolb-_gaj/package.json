@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_gaj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gajaguar/future-value": "latest",
+        "@gajapathy/node": "latest",
+        "@gajdorg/common": "latest",
+        "@gajduk/mendixmodelsdk": "latest",
+        "@gajduk/mendixplatformsdk": "latest",
+        "@gajendhiranm/custom-button": "latest",
+        "@gajendhiranm/github-package-demo": "latest",
+        "@gajendhiranm/my-lib": "latest",
+        "@gajendhiranm/widgets-library": "latest",
+        "@gajendra93/request-multiple-urls": "latest",
+        "@gajjufoji/common": "latest",
+        "@gajus/babel-plugin-graphql-tag": "latest"
+    }
+}

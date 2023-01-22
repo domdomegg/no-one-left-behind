@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_akq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@akqa-denmark/eslint-config-akqa-dk": "latest",
+        "@akqa-denmark/image-config-webpack-plugin": "latest",
+        "@akqa-denmark/js-config-webpack-plugin": "latest",
+        "@akqa-denmark/scss-config-webpack-plugin": "latest",
+        "@akqa-frontline/asset-config-webpack-plugin": "latest",
+        "@akqa-frontline/eslint-config-frontline": "latest",
+        "@akqa-frontline/font-config-webpack-plugin": "latest",
+        "@akqa-frontline/generate-injection-html-webpack-plugin": "latest",
+        "@akqa-frontline/generator-frontline": "latest",
+        "@akqa-frontline/image-config-webpack-plugin": "latest",
+        "@akqa-frontline/js-config-webpack-plugin": "latest",
+        "@akqa-frontline/scss-config-webpack-plugin": "latest",
+        "@akqa-frontline/stylelint-config-frontline": "latest",
+        "@akqa-frontline/webpack-config": "latest",
+        "@akqa/eslint-config-akqa": "latest",
+        "@akqa_denmark/cb-sdk": "latest",
+        "@akqa_denmark/cb-ui": "latest",
+        "@akqa_denmark/gatsby-source-carlsberg-headless": "latest"
+    }
+}

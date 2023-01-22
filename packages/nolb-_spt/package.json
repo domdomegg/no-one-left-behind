@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_spt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@spt/abcde": "latest",
+        "@spteck/react-controls": "latest",
+        "@spticketing/common": "latest",
+        "@sptickets/common": "latest",
+        "@sptikitix/common": "latest",
+        "@sptruz/color-name": "latest",
+        "@sptruz/convert": "latest",
+        "@sptruz/mix": "latest",
+        "@sptruz/parse": "latest",
+        "@spts/aws-lambda": "latest",
+        "@spts/date-time": "latest"
+    }
+}

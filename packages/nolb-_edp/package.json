@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_edp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@edp-aif/common-api": "latest",
+        "@edp-aif/runtime-api": "latest",
+        "@edp-bif/common-api": "latest",
+        "@edp-bif/runtime-api": "latest",
+        "@edpaget/kongfig": "latest",
+        "@edpaget/react-router": "latest",
+        "@edpi/next-router-scroll": "latest",
+        "@edpi/react-math-view": "latest",
+        "@edpi/react-scroll-position": "latest",
+        "@edpinfo-mim/actul-xlsx-parser-js": "latest",
+        "@edpinfo-mim/actul-xml-parser-js": "latest",
+        "@edpuzzle/react-scripts": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_vem",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vembarrajan/modular_css": "latest",
+        "@vemessage/webform-plugin": "latest",
+        "@vemlavaraloucagamers/awesome-consolelog": "latest",
+        "@vemlavaraloucagamers/md-log-manager": "latest",
+        "@vemlavaraloucagamers/test-publish": "latest",
+        "@vemlavaraloucagamers/vg-countdown": "latest",
+        "@vemlavaraloucagamers/vg-credit-card": "latest",
+        "@vemlavaraloucagamers/vg-delete-button": "latest",
+        "@vemlavaraloucagamers/vg-gradient-text": "latest",
+        "@vemo/cli": "latest",
+        "@vemo/koa-views": "latest",
+        "@vempedir/bundles": "latest",
+        "@vempedir/core": "latest",
+        "@vemup/common": "latest",
+        "@vemuruadi/node-lib-ts": "latest"
+    }
+}

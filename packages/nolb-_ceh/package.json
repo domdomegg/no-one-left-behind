@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_ceh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ceh/base": "latest",
+        "@cehappdev/ceh-view": "latest",
+        "@cehappdev/ceh-view-builder": "latest",
+        "@cehappdev/ceh-view-calendar": "latest",
+        "@cehappdev/ceh-view-code": "latest",
+        "@cehappdev/ceh-view-core": "latest",
+        "@cehappdev/ceh-view-core-builder": "latest",
+        "@cehappdev/ceh-view-leaflet": "latest",
+        "@cehappdev/ceh-view-markdown": "latest",
+        "@cehappdev/ceh-view-plotly": "latest",
+        "@cehappdev/ceh-view-upload": "latest",
+        "@cehlers88/ceutils": "latest"
+    }
+}

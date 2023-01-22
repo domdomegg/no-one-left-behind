@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_vak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vakeo/lunar": "latest",
+        "@vakhramoff/angular-utils": "latest",
+        "@vakhramoff/test-lib": "latest",
+        "@vaki/base-proj": "latest"
+    }
+}

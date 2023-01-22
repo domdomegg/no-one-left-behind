@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_icc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@icc-chessclub/icc-auth": "latest",
+        "@icc-dev/icc-log-service": "latest",
+        "@icc453/credential": "latest",
+        "@icc453/event": "latest",
+        "@icc453/logger": "latest",
+        "@iccir919/first": "latest",
+        "@icco/pino-stackdriver-serializers": "latest",
+        "@icco/react-common": "latest",
+        "@iccswap/core": "latest",
+        "@iccswap/default-token-list": "latest",
+        "@iccswap/lib": "latest",
+        "@iccswap/periphery": "latest",
+        "@iccswap/sdk": "latest",
+        "@iccswap/token-lists": "latest",
+        "@iccswap/v2-core": "latest",
+        "@iccswap/v2-periphery": "latest",
+        "@iccube/webfontloader": "latest"
+    }
+}

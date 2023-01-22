@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-clop",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clop": "latest",
+        "clopay-alerts-badges": "latest",
+        "clopay-angular-components": "latest",
+        "clopay-badges": "latest",
+        "clopay-badges-angular-9": "latest",
+        "clopay-buttons": "latest",
+        "clopay-buttons-angular-9": "latest",
+        "clopay-header": "latest",
+        "clopay-header-8": "latest",
+        "clopay-header-angular": "latest",
+        "clopay-header-angular-9": "latest",
+        "clopay-header-library": "latest",
+        "clopay-inputs": "latest",
+        "clopay-inputs-angular-9": "latest",
+        "clopay-library": "latest",
+        "clopay-loader": "latest",
+        "clopay-reusable-components": "latest",
+        "clopay-step-navigation": "latest",
+        "clopay-table": "latest",
+        "clopos-test": "latest",
+        "clopos.builder": "latest",
+        "clopy": "latest"
+    }
+}

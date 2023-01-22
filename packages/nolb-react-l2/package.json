@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-react-l2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-l20n": "latest",
+        "react-l20n-es5": "latest",
+        "react-l20n-u": "latest"
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-unib",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "unibabel": "latest",
+        "unibeautify": "latest",
+        "unibeautify-beautifier": "latest",
+        "unibeautify-cli": "latest",
+        "unibet_package": "latest",
+        "unibit": "latest",
+        "unibit-adapter": "latest",
+        "unibit-js": "latest",
+        "uniblock": "latest",
+        "uniblocks": "latest",
+        "unibomb": "latest",
+        "unibot": "latest",
+        "unibot-auth-module-bis": "latest",
+        "unibot-authmodule": "latest",
+        "unibot-logmodule": "latest",
+        "unibot4r": "latest",
+        "unibox": "latest",
+        "unibox-dashboard": "latest",
+        "unibrow": "latest",
+        "unibuild": "latest",
+        "unibuild-uikit": "latest",
+        "unibundle": "latest"
+    }
+}

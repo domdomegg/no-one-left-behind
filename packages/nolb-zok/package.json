@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-zok",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zok": "latest",
+        "zoka": "latest",
+        "zokeniter": "latest",
+        "zoko": "latest",
+        "zokogen": "latest",
+        "zokor": "latest",
+        "zokor-vorlon": "latest",
+        "zokrates-js": "latest",
+        "zokrates-js-node": "latest",
+        "zokrates-js-scrypt": "latest",
+        "zokrates-pycryptojs": "latest",
+        "zokrates-tools": "latest",
+        "zoku": "latest",
+        "zoku-fi": "latest",
+        "zokudb": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_ici",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ici-kustom/kustom-components": "latest",
+        "@icij/confluence-dump-explorer": "latest",
+        "@icij/datashare-plugin-ga": "latest",
+        "@icij/datashare-plugin-sentence-case": "latest",
+        "@icij/datashare-plugin-site-alert": "latest",
+        "@icij/datashare-plugin-text-paginator": "latest",
+        "@icij/murmur": "latest",
+        "@icij/sao-datashare-plugin": "latest",
+        "@icijiy/lotide": "latest",
+        "@icircle/angular-auto-focus": "latest",
+        "@icircle/ngprogress": "latest",
+        "@icired-atenllado/component-menu": "latest",
+        "@icired-atenllado/components-lib": "latest",
+        "@icired-atenllado/gif-component": "latest",
+        "@icired-atenllado/menu-component": "latest"
+    }
+}

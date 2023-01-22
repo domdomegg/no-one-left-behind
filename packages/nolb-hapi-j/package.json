@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-hapi-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hapi-jackrabbit": "latest",
+        "hapi-jaeger": "latest",
+        "hapi-jfu": "latest",
+        "hapi-job-queue": "latest",
+        "hapi-joi-common-schema": "latest",
+        "hapi-joi-decorators": "latest",
+        "hapi-joi-details-to-object": "latest",
+        "hapi-joi-express": "latest",
+        "hapi-joi-password": "latest",
+        "hapi-joi-to-schema-swagger": "latest",
+        "hapi-joi-to-swagger": "latest",
+        "hapi-joier": "latest",
+        "hapi-jolocom": "latest",
+        "hapi-jolocom-plugin": "latest",
+        "hapi-jot": "latest",
+        "hapi-jsend": "latest",
+        "hapi-json-schema": "latest",
+        "hapi-json-view": "latest",
+        "hapi-jsonapi": "latest",
+        "hapi-jsonwebtoken": "latest",
+        "hapi-jwt": "latest",
+        "hapi-jwt-auth": "latest",
+        "hapi-jwt-azure-ad": "latest",
+        "hapi-jwt-couch": "latest",
+        "hapi-jwt-couch-lib": "latest",
+        "hapi-jwt-token": "latest"
+    }
+}

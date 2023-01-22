@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-uih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "uih": "latest",
+        "uih-1024games": "latest",
+        "uih-design": "latest",
+        "uih-fenix-ui": "latest",
+        "uih-fixed-ui-test": "latest",
+        "uih-st-ui": "latest",
+        "uih-ued-games": "latest",
+        "uih-uicon": "latest",
+        "uih-uicon-vue2": "latest",
+        "uih-uicon-vue3": "latest",
+        "uih-zero": "latest",
+        "uihxw43536": "latest",
+        "uihzz-design": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-pins",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pins": "latest",
+        "pins-clamav": "latest",
+        "pins-google-tag-manager": "latest",
+        "pins-mime-validation": "latest",
+        "pins-notify": "latest",
+        "pins-sso": "latest",
+        "pins-views": "latest",
+        "pinscher": "latest",
+        "pinseeker": "latest",
+        "pinsel": "latest",
+        "pinsel-vto": "latest",
+        "pinset": "latest",
+        "pinsfw.d": "latest",
+        "pinsjs": "latest",
+        "pinsodoku": "latest",
+        "pinst": "latest",
+        "pinst-lite": "latest",
+        "pinstall": "latest",
+        "pinster": "latest",
+        "pinstock": "latest",
+        "pinstock-player": "latest",
+        "pinstream": "latest",
+        "pinstripe": "latest"
+    }
+}

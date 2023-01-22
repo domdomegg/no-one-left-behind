@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_cie",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cieb/enjoyhint": "latest",
+        "@ciebit/carousel": "latest",
+        "@ciebit/hermes": "latest",
+        "@ciekals11/angular-google-tag-manager": "latest",
+        "@cielblog/react-horizontal-timeline": "latest",
+        "@cielo-finance/component-library": "latest",
+        "@cieloazul310/canvasmap": "latest",
+        "@cieloazul310/gatsby-theme-aoi": "latest",
+        "@cieloazul310/gatsby-theme-aoi-blog": "latest",
+        "@cieloazul310/gatsby-theme-aoi-blog-cli": "latest",
+        "@cieloazul310/gatsby-theme-aoi-blog-components": "latest",
+        "@cieloazul310/gatsby-theme-aoi-blog-core": "latest",
+        "@cieloazul310/gatsby-theme-aoi-blog-templates": "latest",
+        "@cieloazul310/gatsby-theme-aoi-blog-utils": "latest",
+        "@cieloazul310/gatsby-theme-aoi-components": "latest",
+        "@cieloazul310/gatsby-theme-aoi-layout": "latest",
+        "@cieloazul310/gatsby-theme-aoi-top-layout": "latest",
+        "@cieloazul310/gatsby-theme-aoi-utils": "latest",
+        "@cieloazul310/mono-one": "latest",
+        "@cieloazul310/mono-two": "latest",
+        "@cieloazul310/ol-gsi-vt": "latest",
+        "@cieloazul310/ol-gsi-vt-style": "latest",
+        "@cieloazul310/ol-gsi-vt-style-utils": "latest",
+        "@cieloazul310/population-calculator": "latest",
+        "@cieloazul310/vt-style-aoi": "latest",
+        "@cience-apps/nylas-components-composer": "latest",
+        "@ciesielskico/home-assistant-rxjs": "latest",
+        "@cieslar-ticketing-common/common": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_ha8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ha8rt/alert": "latest",
+        "@ha8rt/bulk.write": "latest",
+        "@ha8rt/deep.map": "latest",
+        "@ha8rt/http.service": "latest",
+        "@ha8rt/icon": "latest",
+        "@ha8rt/modal": "latest",
+        "@ha8rt/mongo.server": "latest",
+        "@ha8rt/navbar": "latest",
+        "@ha8rt/select": "latest",
+        "@ha8rt/table": "latest"
+    }
+}

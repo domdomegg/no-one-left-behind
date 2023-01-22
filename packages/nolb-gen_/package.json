@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-gen_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gen.min.js": "latest",
+        "gen_bitmap": "latest",
+        "gen_const": "latest",
+        "gen_device_id": "latest",
+        "gen_diff": "latest",
+        "gen_enum": "latest",
+        "gen_htmlfiles": "latest",
+        "gen_ipt": "latest",
+        "gen_rand_value": "latest",
+        "gen_unique_username": "latest"
+    }
+}

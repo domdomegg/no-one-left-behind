@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-netd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "netdata-collectors-landscape": "latest",
+        "netdata-ui": "latest",
+        "netdb": "latest",
+        "netdde": "latest",
+        "netdeal-node-js-sdk": "latest",
+        "netdiag": "latest",
+        "netdiscover-node": "latest",
+        "netdna": "latest",
+        "netdoc": "latest",
+        "netdown": "latest",
+        "netdragon": "latest"
+    }
+}

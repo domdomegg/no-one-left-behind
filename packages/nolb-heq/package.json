@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-heq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "heq": "latest",
+        "heq-client": "latest",
+        "heq-client-dev": "latest",
+        "heq-dev": "latest",
+        "heq-migrate": "latest",
+        "heq-server": "latest",
+        "heq-store": "latest",
+        "heqds-field-node": "latest",
+        "heqdx": "latest",
+        "heqetlabs": "latest",
+        "heqi-sum": "latest",
+        "hequan": "latest",
+        "hequelize": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-babel-preset-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-preset-qcloud-qws-node-transform": "latest",
+        "babel-preset-qjsx": "latest",
+        "babel-preset-qreact": "latest",
+        "babel-preset-qrn": "latest",
+        "babel-preset-qrn-iconfont": "latest",
+        "babel-preset-qs-react-app": "latest",
+        "babel-preset-qsoft-react-app": "latest",
+        "babel-preset-quad": "latest",
+        "babel-preset-que-babel": "latest"
+    }
+}

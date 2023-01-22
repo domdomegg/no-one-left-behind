@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_si1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@si14/si-application-events": "latest",
+        "@si14/si-atsamd-configpin": "latest",
+        "@si14/si-atsamd-encoder": "latest",
+        "@si14/si-atsamd-i2c": "latest",
+        "@si14/si-atsamd-safeboot": "latest",
+        "@si14/si-atsamd-usbd": "latest",
+        "@si14/si-atsamd11c14a": "latest",
+        "@si14/si-generic-timer": "latest",
+        "@si14/si-systick-timer": "latest",
+        "@si14/si-usbd": "latest",
+        "@si14/silicon": "latest"
+    }
+}

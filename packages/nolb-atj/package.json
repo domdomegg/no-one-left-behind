@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-atj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "atj": "latest",
+        "atj-react-modal-dialog": "latest",
+        "atj-react-scrollbar": "latest",
+        "atjingjing-math": "latest",
+        "atjoelpark_frame-print": "latest",
+        "atjs": "latest",
+        "atjst": "latest"
+    }
+}

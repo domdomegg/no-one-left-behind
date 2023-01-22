@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_gi_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gi.ts/cli": "latest",
+        "@gi.ts/generator-html": "latest",
+        "@gi.ts/lib": "latest",
+        "@gi.ts/node-loader": "latest",
+        "@gi.ts/parser": "latest",
+        "@gi/raider": "latest"
+    }
+}

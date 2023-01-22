@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_hyz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyzeng202211/calc-lib": "latest",
+        "@hyzzz/eslint-config-hyzzz": "latest",
+        "@hyz~/custom": "latest"
+    }
+}

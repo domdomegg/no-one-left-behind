@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-wa_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wa.builder3": "latest",
+        "wa.component": "latest",
+        "wa.component.builder": "latest",
+        "wa.component.shading": "latest",
+        "wa.component.validator": "latest",
+        "wa.validator2": "latest",
+        "wa_bot_ws": "latest",
+        "wa_postregistration": "latest",
+        "wa_react_redux_api": "latest",
+        "wa_tree-select": "latest",
+        "wa_vuecli": "latest"
+    }
+}

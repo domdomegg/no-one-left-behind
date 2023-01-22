@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-bote",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "boteasy-dom": "latest",
+        "boteco": "latest",
+        "botee": "latest",
+        "botelho-button": "latest",
+        "botella-project1": "latest",
+        "botella-project2": "latest",
+        "botella-project3": "latest",
+        "botello": "latest",
+        "botengine-sdk": "latest",
+        "botengine-telegramapi": "latest",
+        "boter": "latest",
+        "boter-cli": "latest",
+        "boter-core": "latest",
+        "botex": "latest"
+    }
+}

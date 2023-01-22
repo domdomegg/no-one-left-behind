@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-fr_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fr._46cl.focus": "latest",
+        "fr.dpfr.wpmemoryenhancer": "latest",
+        "fr.inria.tactility": "latest",
+        "fr.jeanf.com.unity.xr.interaction.toolkit": "latest",
+        "fr.jeanf.core": "latest",
+        "fr.jeanf.vr.player": "latest",
+        "fr.papam.cordova.nfc.emv": "latest",
+        "fr_arithmetic_zeng": "latest",
+        "fr_calc": "latest"
+    }
+}

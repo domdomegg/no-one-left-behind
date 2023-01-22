@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-slv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "slv": "latest",
+        "slv-azure-graph": "latest",
+        "slv-file-upload": "latest",
+        "slv-mapbox-gl-shaders": "latest",
+        "slv-textconv": "latest",
+        "slv-utils": "latest",
+        "slview": "latest",
+        "slvote": "latest"
+    }
+}

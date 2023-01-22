@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-backk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "backk": "latest",
+        "backk-cli": "latest",
+        "backk-frontend-utils": "latest",
+        "backkick": "latest"
+    }
+}

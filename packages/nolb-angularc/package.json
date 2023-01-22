@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-angularc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "angularCubicColorPicker": "latest",
+        "angularcalculatorlibrary": "latest",
+        "angularcli": "latest",
+        "angularcli-file-drag-drop": "latest",
+        "angularcli-patched-cryptiles": "latest",
+        "angularcli-star-rating": "latest",
+        "angularcode": "latest",
+        "angularcommonlib": "latest",
+        "angularcontext": "latest",
+        "angularcorechart": "latest",
+        "angularcountdown": "latest",
+        "angularcui": "latest"
+    }
+}

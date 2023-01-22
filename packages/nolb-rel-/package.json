@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-rel-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rel-cli": "latest",
+        "rel-ebb": "latest",
+        "rel-enc": "latest",
+        "rel-events": "latest",
+        "rel-import": "latest",
+        "rel-message": "latest",
+        "rel-parser": "latest",
+        "rel-payment": "latest",
+        "rel-send": "latest",
+        "rel-svg-path": "latest",
+        "rel-systemutil": "latest",
+        "rel-time-format": "latest",
+        "rel-to-abs": "latest",
+        "rel-to-abs-path": "latest"
+    }
+}

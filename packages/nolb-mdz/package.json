@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-mdz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mdz": "latest",
+        "mdz-database": "latest",
+        "mdz-enum": "latest",
+        "mdz-lib": "latest",
+        "mdz-plugin": "latest",
+        "mdz-utils": "latest",
+        "mdz-vant-react-native": "latest",
+        "mdz5-ile": "latest",
+        "mdzlh-loader": "latest",
+        "mdzy-plugin-tinymce": "latest",
+        "mdzy-ui": "latest",
+        "mdzz": "latest",
+        "mdzz-apimanager": "latest",
+        "mdzz-manager": "latest",
+        "mdzz-ui": "latest"
+    }
+}

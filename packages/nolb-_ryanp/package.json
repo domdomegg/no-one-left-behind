@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_ryanp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryanpiv/core-styles": "latest",
+        "@ryanpotternz/css-reset": "latest",
+        "@ryanpotternz/sc5-theme": "latest",
+        "@ryanpotternz/scroll-spy": "latest",
+        "@ryanpromax/eslint-config": "latest",
+        "@ryanpromax/vite-plugin-transfer-mpa": "latest"
+    }
+}

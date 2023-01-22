@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_aws",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-_aws-": "latest",
+        "@zalastax/nolb-_aws_": "latest",
+        "@zalastax/nolb-_awsa": "latest",
+        "@zalastax/nolb-_awsl": "latest",
+        "@zalastax/nolb-_awsm": "latest",
+        "@zalastax/nolb-_awso": "latest",
+        "@zalastax/nolb-_awsp": "latest",
+        "@zalastax/nolb-_awss": "latest",
+        "@zalastax/nolb-_awsu": "latest",
+        "@zalastax/nolb-_awsx": "latest"
+    }
+}

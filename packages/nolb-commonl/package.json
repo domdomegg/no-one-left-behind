@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-commonl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "commonlang": "latest",
+        "commonlibraries": "latest",
+        "commonlibsap": "latest",
+        "commonliu": "latest",
+        "commonlog-bunyan": "latest",
+        "commonlog-gas": "latest",
+        "commonlog-kb": "latest",
+        "commonlog-ppbp": "latest",
+        "commonly": "latest",
+        "commonly-decorators": "latest",
+        "commonly-scripts": "latest",
+        "commonly-used": "latest",
+        "commonly-used-js-functions": "latest",
+        "commonly-used-methods": "latest",
+        "commonly-utils": "latest",
+        "commonly-vue-ui": "latest",
+        "commonly.typescript": "latest"
+    }
+}

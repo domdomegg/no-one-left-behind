@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_blow",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@blowback/contextify": "latest",
+        "@blowback/plugin-hooks": "latest",
+        "@blowltd/app": "latest",
+        "@blowltd/firestore": "latest",
+        "@blowstack/ceneo-xml-generator": "latest",
+        "@blowstack/ckeditor-nuxt": "latest",
+        "@blowstack/ckeditor5-full-free-build": "latest"
+    }
+}

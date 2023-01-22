@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-seme",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "seme": "latest",
+        "semele": "latest",
+        "semen": "latest",
+        "sementic-release": "latest",
+        "sementic-versioning-demo-2": "latest",
+        "semesta-builder-lib": "latest",
+        "semester-sort": "latest",
+        "semeteor": "latest",
+        "semethid": "latest",
+        "semeval2017_task7": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-cdh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cdh-1001": "latest",
+        "cdh-1002": "latest",
+        "cdh-1003": "latest",
+        "cdh-1220-demo": "latest",
+        "cdh-egret-libs": "latest",
+        "cdh_0410_test": "latest",
+        "cdh_521": "latest",
+        "cdh_consumer_services": "latest",
+        "cdh_demo_5.24": "latest",
+        "cdh_phnumvalidator": "latest",
+        "cdh_vue_may": "latest",
+        "cdhandler": "latest",
+        "cdhg-product-card": "latest",
+        "cdhhed": "latest",
+        "cdhservice": "latest"
+    }
+}

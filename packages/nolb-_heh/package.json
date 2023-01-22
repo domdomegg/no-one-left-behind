@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_heh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hehaonan/device-detection": "latest",
+        "@hehe.x/eslint-config": "latest",
+        "@hehe.x/prettier": "latest",
+        "@hehe1111/ts-axios": "latest",
+        "@hehedadida/mynpmpkg": "latest",
+        "@hehehai/d2-crud": "latest",
+        "@hehehai/html-to-image": "latest",
+        "@hehehai/srange": "latest",
+        "@hehehai/use": "latest",
+        "@hehehai/utils": "latest",
+        "@heht/cesiumlib": "latest",
+        "@hehtickets/common": "latest",
+        "@hehu/nacos": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-eax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eaxios": "latest",
+        "eaxm": "latest",
+        "eaxm-liu": "latest",
+        "eaxm1-l": "latest"
+    }
+}

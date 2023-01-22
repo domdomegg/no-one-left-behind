@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-vue-cle",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-clean-gtm": "latest",
+        "vue-clear-on-disable": "latest",
+        "vue-clear-swiper": "latest",
+        "vue-clearcss": "latest",
+        "vue-cleave": "latest",
+        "vue-cleave-component": "latest",
+        "vue-cleave-directive": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-uro",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "urob": "latest",
+        "urobo": "latest",
+        "uroboros": "latest",
+        "uroki": "latest",
+        "uromastyx": "latest",
+        "uron": "latest",
+        "uron-cli": "latest",
+        "uros": "latest",
+        "urout": "latest",
+        "uroute": "latest",
+        "urouter": "latest"
+    }
+}

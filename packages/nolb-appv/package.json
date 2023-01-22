@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-appv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "appv": "latest",
+        "appverse-chalkboard": "latest",
+        "appverse-doctor": "latest",
+        "appverse-generator-commons": "latest",
+        "appversion": "latest",
+        "appversion-mgr": "latest",
+        "appveyor": "latest",
+        "appveyor-build-by-commit": "latest",
+        "appveyor-js-client": "latest",
+        "appveyor-logs": "latest",
+        "appveyor-mocha": "latest",
+        "appveyor-runner": "latest",
+        "appveyor-status": "latest",
+        "appveyor-swagger": "latest",
+        "appveyor-watch": "latest",
+        "appview": "latest",
+        "appvue-idw": "latest",
+        "appvuze": "latest"
+    }
+}

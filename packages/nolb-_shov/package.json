@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_shov",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shovel-plus/cli": "latest",
+        "@shovel-plus/eslint-config": "latest",
+        "@shovelandsandbox/artemis": "latest",
+        "@shovelandsandbox/humanid": "latest",
+        "@shovelandsandbox/rn-camera-roll-picker": "latest",
+        "@shoveller/a": "latest",
+        "@shoveller/b": "latest",
+        "@shoveller/copy-package": "latest",
+        "@shoveller/eslint-config": "latest",
+        "@shoveller/eslint-config-react": "latest",
+        "@shoveller/eslint-config-vue": "latest",
+        "@shoveller/prettier-config": "latest",
+        "@shoveller/sample": "latest",
+        "@shovon-choudhury/ckeditor5-build-standard": "latest",
+        "@shovonchoudhury/ckeditor5-build-standard": "latest"
+    }
+}

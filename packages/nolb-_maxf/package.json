@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_maxf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@maxfield/casl2-language": "latest",
+        "@maxfield/casl2-lint": "latest",
+        "@maxfield/imgur": "latest",
+        "@maxfield/java-parser": "latest",
+        "@maxfield/kamakura-language-server": "latest",
+        "@maxfield/kamakura-plugin-protocol": "latest",
+        "@maxfield/line-galmoji-converter": "latest",
+        "@maxfield/node-casl2": "latest",
+        "@maxfield/node-casl2-comet2-common": "latest",
+        "@maxfield/node-casl2-comet2-core-common": "latest",
+        "@maxfield/node-casl2-core": "latest",
+        "@maxfield/node-casl2-language-server": "latest",
+        "@maxfield/node-comet2": "latest",
+        "@maxfield/node-comet2-core": "latest",
+        "@maxfield/npm-module-example": "latest",
+        "@maxfield/react-treebeard": "latest",
+        "@maxfield/review-backend-frontend-common": "latest",
+        "@maxfield/review-common": "latest",
+        "@maxfield/rp-viewer": "latest",
+        "@maxfield/vscode-color-theme-template": "latest",
+        "@maxfieldegaj/power-user": "latest",
+        "@maxflex/v-number": "latest",
+        "@maxflowo2/pancake-swap-core": "latest"
+    }
+}

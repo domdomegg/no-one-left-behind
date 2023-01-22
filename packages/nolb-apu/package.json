@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-apu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "apu": "latest",
+        "apubg-sdk": "latest",
+        "apud-firebase-utils": "latest",
+        "apuem": "latest",
+        "apugv": "latest",
+        "apui": "latest",
+        "apul_react_editor": "latest",
+        "apulis-image-gallery": "latest",
+        "apulll_react_editor": "latest",
+        "apullrefresh": "latest",
+        "apuntes": "latest",
+        "apuntesjs": "latest",
+        "apurv-frame-print": "latest",
+        "apurva_calc": "latest",
+        "apurva_calculator": "latest",
+        "apurva_first_package": "latest",
+        "apurva_package": "latest",
+        "apurvg-test": "latest",
+        "apush": "latest",
+        "apusic-app-cli": "latest",
+        "apusic-echarts": "latest",
+        "apusic-ui": "latest",
+        "apusjs-log": "latest",
+        "apuspayments": "latest"
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_yae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yaeda/md2html": "latest",
+        "@yaef/core": "latest",
+        "@yaef/http": "latest",
+        "@yaegassy/coc-ansible": "latest",
+        "@yaegassy/coc-blade-snippets": "latest",
+        "@yaegassy/coc-intelephense": "latest",
+        "@yaegassy/coc-marksman": "latest",
+        "@yaegassy/coc-nginx": "latest",
+        "@yaegassy/coc-phpstan": "latest",
+        "@yaegassy/coc-pylsp": "latest",
+        "@yaegassy/coc-pysen": "latest",
+        "@yaegassy/coc-ruff": "latest",
+        "@yaegassy/coc-tailwindcss3": "latest",
+        "@yaegassy/coc-vitest": "latest",
+        "@yaegassy/coc-volar": "latest",
+        "@yaegassy/coc-volar-tools": "latest",
+        "@yaegassy/npm-sandbox": "latest",
+        "@yaeledri/use-alert": "latest",
+        "@yaelt/slugger": "latest",
+        "@yaencontre/connected-react-router": "latest",
+        "@yaencontre/loadable-babel-plugin": "latest",
+        "@yaencontre/loadable-component": "latest",
+        "@yaencontre/loadable-server": "latest",
+        "@yaencontre/loadable-webpack-plugin": "latest",
+        "@yaencontre/redux-first-history": "latest"
+    }
+}

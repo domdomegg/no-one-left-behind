@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-webpack-5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "webpack-5": "latest",
+        "webpack-5-chain": "latest",
+        "webpack-5-react-scripts": "latest",
+        "webpack-5-react-scripts-hot-reload": "latest",
+        "webpack-5-react-scripts-sandbox": "latest",
+        "webpack-500": "latest"
+    }
+}

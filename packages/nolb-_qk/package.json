@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_qk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@qk-cli-dev/core": "latest",
+        "@qk-cli-dev/log": "latest",
+        "@qk-cli-dev/utils": "latest",
+        "@qk/socket-hello": "latest",
+        "@qkc/textbus": "latest",
+        "@qkeditor/editor": "latest",
+        "@qkgame/skeleton-cli": "latest",
+        "@qkk/cdk-core": "latest",
+        "@qkk/cdk-patterns": "latest",
+        "@qkrwldnjsdl1/lotide": "latest",
+        "@qkuns/pkg1": "latest",
+        "@qkuns/pkg2": "latest"
+    }
+}

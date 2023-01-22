@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-modul-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "modul-14": "latest",
+        "modul-comet-client": "latest",
+        "modul-components": "latest",
+        "modul-front-dev-tools": "latest",
+        "modul-helpers": "latest",
+        "modul-joel-1": "latest",
+        "modul-lib": "latest",
+        "modul-melih.js": "latest",
+        "modul-paketim": "latest",
+        "modul-signalr-client": "latest",
+        "modul-ui": "latest",
+        "modul-ui-router": "latest",
+        "modul-vitalii": "latest"
+    }
+}

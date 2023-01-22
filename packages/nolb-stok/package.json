@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-stok",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stok": "latest",
+        "stok-config": "latest",
+        "stoke": "latest",
+        "stoke-react-scripts": "latest",
+        "stoke-toolbelt": "latest",
+        "stoked": "latest",
+        "stokenjs": "latest",
+        "stokin": "latest",
+        "stokr-components-library": "latest",
+        "stokr-server": "latest",
+        "stokrotka": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-react-native-mq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-mqclient": "latest",
+        "react-native-mqq": "latest",
+        "react-native-mqtt": "latest",
+        "react-native-mqtt-angelos3lex": "latest",
+        "react-native-mqtt-chat": "latest",
+        "react-native-mqtt-cli": "latest",
+        "react-native-mqtt-client": "latest",
+        "react-native-mqtt-csl": "latest",
+        "react-native-mqtt-js": "latest",
+        "react-native-mqtt-light": "latest",
+        "react-native-mqtt-new": "latest",
+        "react-native-mqtts": "latest"
+    }
+}

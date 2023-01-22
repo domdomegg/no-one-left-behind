@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_d5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@d521bb85/to-query-string": "latest",
+        "@d5avard/fill-with-dash": "latest",
+        "@d5mi/node-red-contrib-data-extraction": "latest",
+        "@d5mi/node-red-contrib-object-detection": "latest",
+        "@d5render/cli": "latest",
+        "@d5render/schedule": "latest",
+        "@d5render/upload": "latest",
+        "@d5render/web-deploy": "latest",
+        "@d5sketch/cli": "latest",
+        "@d5sketch/meta": "latest",
+        "@d5sketch/request": "latest"
+    }
+}

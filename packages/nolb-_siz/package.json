@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_siz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sizata/anchortag": "latest",
+        "@sizata/avish": "latest",
+        "@sizata/redirector": "latest",
+        "@sizata/tablib": "latest",
+        "@size-limit/dual-publish": "latest",
+        "@size-limit/esbuild": "latest",
+        "@size-limit/file": "latest",
+        "@size-limit/preset-app": "latest",
+        "@size-limit/preset-big-lib": "latest",
+        "@size-limit/preset-small-lib": "latest",
+        "@size-limit/time": "latest",
+        "@size-limit/webpack": "latest",
+        "@size-limit/webpack-css": "latest",
+        "@size-limit/webpack-why": "latest",
+        "@sizeko/awslambda-builder": "latest",
+        "@sizeko/awslambda-interface": "latest",
+        "@sizex/alipay": "latest",
+        "@sizexx/alipay": "latest",
+        "@sizhi/client": "latest",
+        "@sizhi/domain": "latest",
+        "@sizwe/react-formation": "latest",
+        "@sizzle/remote-config": "latest",
+        "@sizzlesway22/tiny": "latest"
+    }
+}

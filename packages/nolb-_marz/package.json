@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_marz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@marzahn-dev/ngrx-xs": "latest",
+        "@marzeq/awaitinput": "latest",
+        "@marziehkazemi/firsttry": "latest",
+        "@marzki/extensions": "latest",
+        "@marzzelo/windir": "latest"
+    }
+}

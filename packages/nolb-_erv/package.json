@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_erv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ervandra/eslint-config": "latest",
+        "@ervandra/prettier-config": "latest",
+        "@ervandra/react-setstate": "latest",
+        "@ervandra/use-setstate": "latest",
+        "@ervasive-lerna-tutorial/core": "latest",
+        "@ervinpm/passjs-gen": "latest",
+        "@ervorocks/commons": "latest"
+    }
+}

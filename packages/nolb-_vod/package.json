@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_vod",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vodea/vodea-ui": "latest",
+        "@voderl/medium-zoom": "latest",
+        "@vodori/chatter": "latest",
+        "@vodyani/apollo-client": "latest",
+        "@vodyani/ark": "latest",
+        "@vodyani/class-decorator": "latest",
+        "@vodyani/cli": "latest",
+        "@vodyani/core": "latest",
+        "@vodyani/coverage-report": "latest",
+        "@vodyani/dust": "latest",
+        "@vodyani/eslint-config": "latest",
+        "@vodyani/http-client": "latest",
+        "@vodyani/kafka-node-adapter": "latest",
+        "@vodyani/redis-adapter": "latest",
+        "@vodyani/request-adapter": "latest",
+        "@vodyani/semantic-release": "latest",
+        "@vodyani/sequelize-adapter": "latest",
+        "@vodyani/swagger": "latest",
+        "@vodyani/transformer": "latest",
+        "@vodyani/utils": "latest",
+        "@vodyani/validator": "latest",
+        "@vodyani/winston": "latest"
+    }
+}

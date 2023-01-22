@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_extra-r",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@extra-random/middle-square": "latest",
+        "@extra-random/middle-square-32": "latest",
+        "@extra-random/middle-square-32.min": "latest",
+        "@extra-random/middle-square-weyl-sequence": "latest",
+        "@extra-random/middle-square-weyl-sequence.min": "latest",
+        "@extra-random/middle-square.min": "latest",
+        "@extra-random/middle-square32": "latest",
+        "@extra-random/middle-square32.min": "latest",
+        "@extra-random/tiny-mt-32": "latest",
+        "@extra-random/tiny-mt-32.min": "latest",
+        "@extra-random/tiny-mt-64": "latest",
+        "@extra-random/tiny-mt-64.min": "latest",
+        "@extra-random/tiny-mt32": "latest",
+        "@extra-random/tiny-mt32.min": "latest",
+        "@extra-random/tiny-mt64": "latest",
+        "@extra-random/tiny-mt64.min": "latest",
+        "@extra-random/xorshift-add-32": "latest",
+        "@extra-random/xorshift-add-32.min": "latest",
+        "@extra-random/xorshift-add32": "latest",
+        "@extra-random/xorshift-add32.min": "latest",
+        "@extra-regexp/escape": "latest",
+        "@extra-regexp/escape.min": "latest",
+        "@extra-regexp/is": "latest",
+        "@extra-regexp/is.min": "latest",
+        "@extra-regexp/unescape": "latest",
+        "@extra-regexp/unescape.min": "latest"
+    }
+}

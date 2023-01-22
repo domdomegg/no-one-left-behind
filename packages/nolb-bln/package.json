@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-bln",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bln-ops-blueprint-library": "latest",
+        "bln-squrl-tool": "latest",
+        "bln_player": "latest",
+        "blnc": "latest",
+        "blncd": "latest",
+        "blnpm": "latest",
+        "blns": "latest",
+        "blnyzyjk": "latest",
+        "blnyzyjk-qynksln": "latest"
+    }
+}

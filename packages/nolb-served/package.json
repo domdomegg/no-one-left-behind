@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-served",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "served": "latest",
+        "served-hot": "latest",
+        "servedata": "latest",
+        "servedir": "latest",
+        "servedjs": "latest",
+        "servedjs-geo": "latest",
+        "servedjs-test": "latest",
+        "servedown": "latest"
+    }
+}

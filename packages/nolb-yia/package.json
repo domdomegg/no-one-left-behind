@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-yia",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yia": "latest",
+        "yiaa": "latest",
+        "yiaaa": "latest",
+        "yiai": "latest",
+        "yiai-cli": "latest",
+        "yiajax": "latest",
+        "yiakobluetoothprinter": "latest",
+        "yian": "latest",
+        "yian-yz": "latest",
+        "yian3": "latest",
+        "yiandevtools": "latest",
+        "yiata-oidc": "latest",
+        "yiauto": "latest",
+        "yiauto-project-rule": "latest",
+        "yiautos": "latest",
+        "yiautos-casher": "latest",
+        "yiautos-cashier": "latest",
+        "yiautos-commons-ts-web": "latest",
+        "yiautos-im": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_phl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@phl/vdrag": "latest",
+        "@phlax/react-checkbox-table": "latest",
+        "@phlax/react-scroller": "latest",
+        "@phltickets/common": "latest",
+        "@phlur/gatsby-plugin-s3": "latest"
+    }
+}

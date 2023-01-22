@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_types_rg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@types/rgb-hex": "latest",
+        "@types/rgb2hex": "latest",
+        "@types/rgrove__parse-xml": "latest"
+    }
+}

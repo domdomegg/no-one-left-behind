@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_gr4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gr4vy/embed": "latest",
+        "@gr4vy/embed-react": "latest",
+        "@gr4vy/node": "latest",
+        "@gr4vy/poutine-react": "latest",
+        "@gr4vy/poutine-react-icons": "latest",
+        "@gr4vy/poutine-tokens": "latest",
+        "@gr4vy/secure-fields": "latest",
+        "@gr4vy/secure-fields-react": "latest"
+    }
+}

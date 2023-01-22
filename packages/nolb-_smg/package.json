@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_smg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@smg-automotive/api-client-pkg": "latest",
+        "@smg-automotive/auth": "latest",
+        "@smg-automotive/components": "latest",
+        "@smg-automotive/configuration": "latest",
+        "@smg-automotive/cookie-consent-pkg": "latest",
+        "@smg-automotive/eslint-config": "latest",
+        "@smg-automotive/example": "latest",
+        "@smg-automotive/i18n-pkg": "latest",
+        "@smg-automotive/next-page-bundlesize": "latest",
+        "@smg-automotive/phrase-pkg": "latest",
+        "@smgv/accordion-wc": "latest",
+        "@smgv/boilerplate": "latest",
+        "@smgv/native": "latest",
+        "@smgv/rc": "latest",
+        "@smgv/reactnativerc": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-trk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "trk": "latest",
+        "trk-crypt-module": "latest",
+        "trk-ga-react-scripts": "latest",
+        "trk-log": "latest",
+        "trk-logger": "latest",
+        "trk_datatables": "latest",
+        "trkker": "latest",
+        "trkl": "latest",
+        "trkpaket": "latest"
+    }
+}

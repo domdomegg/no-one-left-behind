@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_vop",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vop/embed": "latest",
+        "@vopdoo/ims": "latest",
+        "@vope/foreignobject": "latest",
+        "@vope/library": "latest",
+        "@vope/scss": "latest",
+        "@vope/template": "latest",
+        "@vope/template-node": "latest",
+        "@voplus/antd": "latest"
+    }
+}

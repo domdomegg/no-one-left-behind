@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_ni2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ni2khanna/emoji-mart": "latest",
+        "@ni2khanna/oas3-tools": "latest",
+        "@ni2khanna/plyr-react": "latest",
+        "@ni2khanna/react-simple-auth": "latest"
+    }
+}

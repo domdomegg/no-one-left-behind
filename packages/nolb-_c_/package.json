@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_c_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@c.auth/admin-tools-azure": "latest",
+        "@c.auth/admin-tools-data": "latest",
+        "@c.auth/admin-tools-jira": "latest",
+        "@c.auth/admin-tools-mui": "latest",
+        "@c.auth/admin-tools-utils": "latest",
+        "@c.auth/finance-data": "latest",
+        "@c.i/create-mvp-repo": "latest",
+        "@c.p/reactify": "latest",
+        "@c.ramsden/cr_test_shared_module": "latest",
+        "@c.ss/core": "latest",
+        "@c_kai/cli": "latest",
+        "@c_kai/parameter": "latest",
+        "@c_kai/pg-helper": "latest",
+        "@c_kai/scheduler": "latest",
+        "@c_marv/react-time-input-polyfill": "latest",
+        "@c_ogoo/tslint-config-og": "latest",
+        "@c_ogoo/tslint-rules": "latest"
+    }
+}

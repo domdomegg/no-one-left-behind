@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_forw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@forwaard/first": "latest",
+        "@forward-distribution/bridget": "latest",
+        "@forward-protocol/ui-icons": "latest",
+        "@forward-protocol/uikit": "latest",
+        "@forward-software/react-auth": "latest",
+        "@forward-software/react-native-flags-kit": "latest",
+        "@forward-software/react-native-toolbox": "latest",
+        "@forward-steady/exception": "latest",
+        "@forwardx/shared": "latest"
+    }
+}

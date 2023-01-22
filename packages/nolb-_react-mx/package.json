@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_react-mx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@react-mx/client": "latest",
+        "@react-mx/core": "latest",
+        "@react-mx/parser": "latest",
+        "@react-mx/preview": "latest",
+        "@react-mx/server": "latest",
+        "@react-mx/webpack-plugin": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-rn-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rn-x-toast": "latest",
+        "rn-x509-decoder": "latest",
+        "rn-xend-bridge": "latest",
+        "rn-xiaobu-utils": "latest",
+        "rn-xmpp": "latest",
+        "rn-xpager": "latest",
+        "rn-xu-video-player": "latest"
+    }
+}

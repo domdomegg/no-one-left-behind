@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_funi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@funidata/ngx-fudis": "latest",
+        "@funidea/funidealogtest": "latest",
+        "@funinps/dom-mark": "latest",
+        "@funish/bundle": "latest",
+        "@funish/css": "latest",
+        "@funish/eslint-config": "latest",
+        "@funish/eslint-config-stencil": "latest",
+        "@funish/eslint-config-vue": "latest",
+        "@funish/githooks": "latest",
+        "@funish/statico": "latest",
+        "@funish/stylelint-config": "latest",
+        "@funit/react-native-calendar-picker-kr": "latest"
+    }
+}

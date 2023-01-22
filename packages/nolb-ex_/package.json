@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-ex_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ex.dll": "latest",
+        "ex.min.js": "latest",
+        "ex.promise": "latest",
+        "ex_cmd_bin": "latest",
+        "ex_d2": "latest",
+        "ex_module": "latest",
+        "ex_nodejs": "latest",
+        "ex_qmy": "latest",
+        "ex_sync": "latest"
+    }
+}

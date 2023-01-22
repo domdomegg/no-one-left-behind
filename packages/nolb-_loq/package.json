@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_loq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@loqate/eslint-config-omura": "latest",
+        "@loqo71la/react-web-icons": "latest",
+        "@loquat/char": "latest",
+        "@loquat/combinators": "latest",
+        "@loquat/core": "latest",
+        "@loquat/expr": "latest",
+        "@loquat/framework": "latest",
+        "@loquat/monad": "latest",
+        "@loquat/prim": "latest",
+        "@loquat/qo": "latest",
+        "@loquat/simple": "latest",
+        "@loquat/testutil": "latest",
+        "@loquat/token": "latest",
+        "@loque/immutable-helpers": "latest",
+        "@loque/react-gui": "latest",
+        "@loque/server-tools": "latest",
+        "@loquiry/vue-record-audio": "latest",
+        "@loquiz/web-components": "latest"
+    }
+}

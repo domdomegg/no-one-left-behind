@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-pasc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pasc-scui": "latest",
+        "pascal": "latest",
+        "pascal-case": "latest",
+        "pascal-deacronym": "latest",
+        "pascal-interpreter": "latest",
+        "pascal-korn-test": "latest",
+        "pascal-number": "latest",
+        "pascal-plugin": "latest",
+        "pascal-react-native-bouncy-checkbox": "latest",
+        "pascal-rn-t1": "latest",
+        "pascal-triangle": "latest",
+        "pascal-utils": "latest",
+        "pascal982-rn-module-first": "latest",
+        "pascalabcnet-lsp": "latest",
+        "pascalcase": "latest",
+        "pascalcase-keys": "latest",
+        "pascalcase-keys-object": "latest",
+        "pascalcoin": "latest",
+        "pascalize": "latest",
+        "pascalize.lispcase": "latest",
+        "pascals-frontend-stuff": "latest",
+        "pascals-triangle": "latest",
+        "pascals-triangle-ts": "latest",
+        "pascalweiland": "latest",
+        "pasciak-module-words": "latest",
+        "pasciak-module-words-usage": "latest",
+        "pascua": "latest",
+        "pascualm4-frame-print": "latest"
+    }
+}

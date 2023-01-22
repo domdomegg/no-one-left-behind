@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-upb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "upb": "latest",
+        "upb-cli": "latest",
+        "upb-funnel-graph": "latest",
+        "upback": "latest",
+        "upbag": "latest",
+        "upbao": "latest",
+        "upbar": "latest",
+        "upbase": "latest",
+        "upbc": "latest",
+        "upbeat": "latest",
+        "upbeat-dashboard": "latest",
+        "upbeat-health": "latest",
+        "upbeat-server": "latest",
+        "upbeatradio": "latest",
+        "upbian": "latest",
+        "upbin": "latest",
+        "upbit": "latest",
+        "upbit-api": "latest",
+        "upbit-api-node": "latest",
+        "upbit-client": "latest",
+        "upbit-js": "latest",
+        "upbit-telegram-alarm": "latest",
+        "upbit.socket": "latest",
+        "upbit.trade": "latest",
+        "upbond-node-auth": "latest",
+        "upboyu": "latest"
+    }
+}

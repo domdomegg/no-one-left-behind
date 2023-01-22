@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-frt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "frt": "latest",
+        "frt-mth-editor": "latest",
+        "frt-mth-webcomponents": "latest",
+        "frtavarescalc": "latest",
+        "frtc": "latest",
+        "frte-ng-datepicker": "latest",
+        "frtgh": "latest",
+        "frtlibauth": "latest",
+        "frtrie": "latest",
+        "frtuikit": "latest",
+        "frtz": "latest",
+        "frtz-core": "latest"
+    }
+}

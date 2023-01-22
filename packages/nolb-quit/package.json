@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-quit",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "quit": "latest",
+        "quit-save": "latest",
+        "quitdeletemytestcli": "latest",
+        "quite": "latest",
+        "quite-egg": "latest",
+        "quite-possibly": "latest",
+        "quite-server-hq": "latest",
+        "quite-source-server-hq": "latest",
+        "quite-tasks": "latest",
+        "quite-ui-nuxt": "latest",
+        "quite-update": "latest",
+        "quite_rpg": "latest",
+        "quite_small_talk_with_hexlet": "latest",
+        "quiter-angular": "latest",
+        "quiter-angular-lib": "latest",
+        "quiteui": "latest",
+        "quitnodepg": "latest",
+        "quito": "latest",
+        "quittance": "latest",
+        "quitter": "latest",
+        "quitters": "latest",
+        "quitx-activities": "latest"
+    }
+}

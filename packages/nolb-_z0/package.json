@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_z0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@z00274070/tinyui": "latest",
+        "@z0al/ql": "latest",
+        "@z0ff/hello-wasm": "latest",
+        "@z0l1dk3k/util": "latest",
+        "@z0mbie42/agm-core": "latest",
+        "@z0mt3c/clean-html": "latest",
+        "@z0mt3c/currency-formatter": "latest",
+        "@z0mt3c/hapi-auth-cookie": "latest",
+        "@z0mt3c/metalsmith-permalinks": "latest",
+        "@z0mt3c/method-cache": "latest",
+        "@z0mt3c/racehub-io-f1-telemetry-client": "latest",
+        "@z0mt3c/require-dir": "latest",
+        "@z0y1-test/test01": "latest"
+    }
+}

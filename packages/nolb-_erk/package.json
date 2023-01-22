@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_erk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@erkanarslan/turkish-inflection": "latest",
+        "@erkanegesenli/lotide": "latest",
+        "@erkansivas35/basic-validate": "latest",
+        "@erkansivas35/test": "latest",
+        "@erkelost/axios-ext": "latest",
+        "@erkelost/axios-ext-cache": "latest",
+        "@erkelost/axios-ext-cancel-repeat": "latest",
+        "@erkelost/axios-ext-log": "latest",
+        "@erkelost/axios-ext-preset": "latest",
+        "@erkelost/axios-ext-response-wrap": "latest",
+        "@erkelost/axios-ext-retry": "latest",
+        "@erkelost/axios-ext-utils": "latest",
+        "@erkelost/colorpicker": "latest",
+        "@erkelost/layout": "latest",
+        "@erkelost/statistic": "latest",
+        "@erkelost/utils": "latest",
+        "@erkenes/simple-collapse": "latest",
+        "@erkez/react-gettext-parser": "latest",
+        "@erkiame/chatwidget": "latest",
+        "@erkkah/nomnomd": "latest",
+        "@erkobridee/helpers": "latest",
+        "@erkobridee/react-lifecycle-hooks": "latest",
+        "@erkobridee/ts-definitions-common": "latest",
+        "@erkoware/init-core": "latest",
+        "@erksmaas/angular-plotly.js": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_antr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@antr/purse": "latest",
+        "@antra/create-react-cli": "latest",
+        "@antra/my-lib": "latest",
+        "@antra/react-boilerplate": "latest",
+        "@antran-public/design-system-button": "latest",
+        "@antran-public/design-system-core": "latest",
+        "@antran-public/design-system-input": "latest",
+        "@antree/cquery": "latest",
+        "@antrikshsaini/tree-npm": "latest",
+        "@antriver/eslint-config-antriver": "latest",
+        "@antron3000/c2c-swap-sdk": "latest",
+        "@antron3000/pancakeswap-uikit": "latest",
+        "@antron3000/u-exchange-sdk": "latest",
+        "@antron3000/u-exchange-uikit": "latest"
+    }
+}

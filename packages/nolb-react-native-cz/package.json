@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-react-native-cz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-cz-alertview": "latest",
+        "react-native-cz-alipay-calendar": "latest",
+        "react-native-cz-button": "latest",
+        "react-native-cz-calendar": "latest",
+        "react-native-cz-common-modal": "latest",
+        "react-native-cz-flatlist": "latest",
+        "react-native-cz-image-placeholder": "latest",
+        "react-native-cz-inputtext": "latest",
+        "react-native-cz-loading": "latest",
+        "react-native-cz-navigationview": "latest",
+        "react-native-cz-pack-element": "latest",
+        "react-native-cz-panel": "latest",
+        "react-native-cz-permission": "latest",
+        "react-native-cz-reddot": "latest",
+        "react-native-cz-scroll-tab": "latest",
+        "react-native-cz-toast": "latest",
+        "react-native-czb": "latest",
+        "react-native-czb-element": "latest",
+        "react-native-czb-video": "latest"
+    }
+}

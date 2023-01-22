@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-redp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "redp": "latest",
+        "redpack": "latest",
+        "redpack-util": "latest",
+        "redpack4weixin": "latest",
+        "redpacket-core": "latest",
+        "redpackets": "latest",
+        "redpad": "latest",
+        "redpanda": "latest",
+        "redpanda-odm": "latest",
+        "redpantry": "latest",
+        "redpay": "latest",
+        "redpen-validator-easy-to-read-japanese-document": "latest",
+        "redpill-rain": "latest",
+        "redpm": "latest",
+        "redpoint-cloud-trace": "latest",
+        "redpoint-swagger-client-patched": "latest",
+        "redpoll": "latest",
+        "redpop": "latest",
+        "redport": "latest",
+        "redporturismo": "latest",
+        "redprint": "latest",
+        "redprojectuikit": "latest",
+        "redpython": "latest"
+    }
+}

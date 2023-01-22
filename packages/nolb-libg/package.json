@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-libg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "libgcm": "latest",
+        "libgdx-aseprite": "latest",
+        "libgen": "latest",
+        "libgen-downloader": "latest",
+        "libgen-uploader": "latest",
+        "libgenaro": "latest",
+        "libgenesis": "latest",
+        "libgeom": "latest",
+        "libgfi": "latest",
+        "libgif": "latest",
+        "libgif-extended": "latest",
+        "libgit": "latest",
+        "libgit2": "latest",
+        "libgit2-log-utils": "latest",
+        "libgit2.js": "latest",
+        "libgo": "latest",
+        "libgovno": "latest",
+        "libgql": "latest",
+        "libgrabber": "latest",
+        "libgraph": "latest",
+        "libgrin-crypto": "latest",
+        "libgsy": "latest",
+        "libgtop": "latest",
+        "libgu": "latest"
+    }
+}

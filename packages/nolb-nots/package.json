@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-nots",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nots": "latest",
+        "nots-core-types": "latest",
+        "nots.js": "latest",
+        "notshell": "latest",
+        "notsofast": "latest",
+        "notsolazyloader": "latest",
+        "notsolegacybireport": "latest",
+        "notsolegacyconfig": "latest",
+        "notsolegacytracking": "latest",
+        "notspl-token-bonding": "latest",
+        "notspl-token-collective": "latest",
+        "notspl-utils": "latest",
+        "notstrata": "latest",
+        "notstratareact": "latest",
+        "notsupermodule": "latest",
+        "notsupermodulee": "latest",
+        "notsupermoduleee": "latest",
+        "notsupermoduleesiarhei": "latest"
+    }
+}

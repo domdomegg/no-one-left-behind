@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_kex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kexi/uiflow": "latest",
+        "@kexiaojun/tools": "latest",
+        "@kexnorr/ckeditor": "latest",
+        "@kexperiments/reuse": "latest",
+        "@kexpress/commander": "latest",
+        "@kexpress/core": "latest",
+        "@kexpress/data": "latest",
+        "@kexpress/form-rule-engine": "latest",
+        "@kexpress/job": "latest",
+        "@kexpress/js-bridge-api": "latest",
+        "@kexpress/kexpress": "latest",
+        "@kexpress/kexpress-commander": "latest",
+        "@kexpress/kexpress-job": "latest",
+        "@kexpress/kexpress-mqtt": "latest",
+        "@kexpress/kexpress-passport": "latest",
+        "@kexpress/kexpress-rpc": "latest",
+        "@kexpress/kexpress-serialize": "latest",
+        "@kexpress/kexpress-swagger": "latest",
+        "@kexpress/kore": "latest",
+        "@kexpress/loader": "latest",
+        "@kexpress/mqtt": "latest",
+        "@kexpress/rpc": "latest",
+        "@kexpress/sequelize": "latest",
+        "@kexpress/serialize": "latest",
+        "@kexpress/store-sequelize": "latest",
+        "@kexpress/swagger": "latest",
+        "@kexpress/web": "latest"
+    }
+}

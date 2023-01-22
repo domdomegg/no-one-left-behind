@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-ng-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ng-x": "latest",
+        "ng-x-components": "latest",
+        "ng-x.admin": "latest",
+        "ng-xalui": "latest",
+        "ng-xdesign-test": "latest",
+        "ng-xenophilous": "latest",
+        "ng-xfinity": "latest",
+        "ng-xhr-promisify": "latest",
+        "ng-xlf-translate": "latest",
+        "ng-xlf-translator": "latest",
+        "ng-xlsx-style": "latest",
+        "ng-xmas": "latest",
+        "ng-xml-viewer": "latest",
+        "ng-xoonit-simple-alert": "latest",
+        "ng-xotb": "latest",
+        "ng-xotb-tmp": "latest",
+        "ng-xray": "latest",
+        "ng-xscrollable": "latest",
+        "ng-xscroller": "latest",
+        "ng-xslt": "latest",
+        "ng-xslx": "latest",
+        "ng-xterm": "latest",
+        "ng-xterm-re": "latest",
+        "ng-xtm-search": "latest"
+    }
+}

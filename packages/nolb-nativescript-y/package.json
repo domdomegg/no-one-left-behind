@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-nativescript-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nativescript-ylprogressbar": "latest",
+        "nativescript-yoga-lib": "latest",
+        "nativescript-yolo": "latest",
+        "nativescript-yourplugin": "latest",
+        "nativescript-youtube-parser": "latest",
+        "nativescript-youtubeplayer": "latest",
+        "nativescript-youtubeplayer-inline": "latest",
+        "nativescript-youtubest": "latest"
+    }
+}

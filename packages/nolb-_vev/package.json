@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_vev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vev/cli": "latest",
+        "@vev/react": "latest",
+        "@vev/silke": "latest",
+        "@vev/utils": "latest",
+        "@veva/builder": "latest",
+        "@veva/compiler": "latest",
+        "@veva/core-app": "latest",
+        "@veva/core-builder": "latest",
+        "@veva/core-hmr-client": "latest",
+        "@veva/core-hmr-client-preact": "latest",
+        "@veva/core-hmr-client-svelte": "latest",
+        "@veva/core-server": "latest",
+        "@veva/eslint-config": "latest",
+        "@veva/prettier-config": "latest",
+        "@veva/utils": "latest",
+        "@veva/webpack": "latest",
+        "@vevampire/vue-ui": "latest",
+        "@vevo/babel-config-vevo": "latest",
+        "@vevo/eslint-config-vevo": "latest",
+        "@vevox/util-common": "latest",
+        "@vevox/util-event": "latest",
+        "@vevox/util-net": "latest",
+        "@vevox/util-types": "latest",
+        "@vevoxdigital/vx-util": "latest"
+    }
+}

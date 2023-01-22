@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-serverless-i",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "serverless-iam-helper": "latest",
+        "serverless-iam-role-log-remove": "latest",
+        "serverless-iam-roles-per-function": "latest",
+        "serverless-iam-test-helper": "latest",
+        "serverless-iamroles": "latest",
+        "serverless-ide-vscode": "latest",
+        "serverless-idempotency-helper": "latest",
+        "serverless-idobata-webhook": "latest",
+        "serverless-ignore": "latest",
+        "serverless-iiif": "latest",
+        "serverless-image-resizer": "latest",
+        "serverless-images": "latest",
+        "serverless-import-apigateway": "latest",
+        "serverless-import-config-plugin": "latest",
+        "serverless-import-swagger": "latest",
+        "serverless-in-app-purchase-validator": "latest",
+        "serverless-infrastructure": "latest",
+        "serverless-ini-env": "latest",
+        "serverless-injection-plugin": "latest",
+        "serverless-instana-wrapper": "latest",
+        "serverless-introspect": "latest",
+        "serverless-inversify-util": "latest",
+        "serverless-iopipe-layers": "latest",
+        "serverless-iot-aws": "latest",
+        "serverless-iot-local": "latest",
+        "serverless-iot-mqtt": "latest",
+        "serverless-iot-offline": "latest",
+        "serverless-iwhalecloud": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-ins-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ins-array-list": "latest",
+        "ins-cli": "latest",
+        "ins-cockroach": "latest",
+        "ins-component": "latest",
+        "ins-components": "latest",
+        "ins-demo-ui": "latest",
+        "ins-design": "latest",
+        "ins-echarts": "latest",
+        "ins-goo-vision": "latest",
+        "ins-keep": "latest",
+        "ins-logger": "latest",
+        "ins-model": "latest",
+        "ins-pdf-utils-2": "latest",
+        "ins-pdf-utils-test": "latest",
+        "ins-pdf-utils-wasm": "latest",
+        "ins-policies": "latest",
+        "ins-saver": "latest",
+        "ins-ssh": "latest",
+        "ins-template": "latest",
+        "ins-tools-packaging": "latest",
+        "ins-ui": "latest",
+        "ins-ui-vue3": "latest",
+        "ins-vue-baidu-map": "latest"
+    }
+}

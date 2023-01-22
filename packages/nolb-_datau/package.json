@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_datau",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dataui/crud": "latest",
+        "@dataui/crud-request": "latest",
+        "@dataui/crud-typeorm": "latest",
+        "@dataui/crud-util": "latest",
+        "@dataunion.app/react-annotate": "latest",
+        "@dataunion/authentication": "latest",
+        "@dataunion/react-annotate": "latest",
+        "@dataunion/react-canvas-draw": "latest",
+        "@dataunion/react-material-workspace-layout": "latest",
+        "@dataunions/client": "latest",
+        "@dataunions/config": "latest",
+        "@dataunions/contracts": "latest",
+        "@dataunions/default-join-server": "latest",
+        "@dataunions/dev-config": "latest",
+        "@dataunions/eslint-config": "latest",
+        "@dataunions/join-server": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-cask",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cask": "latest",
+        "cask-datavoyager": "latest",
+        "cask-grid": "latest",
+        "casker": "latest",
+        "casket": "latest",
+        "casket.js": "latest"
+    }
+}

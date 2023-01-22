@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-exz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "exz-component-button": "latest",
+        "exz-component-confirmation": "latest",
+        "exz-component-uilib": "latest",
+        "exz-confirmation-box": "latest",
+        "exz-list-box": "latest",
+        "exzample-ng6-lib": "latest",
+        "exzect-api": "latest",
+        "exzyle-aparatus": "latest",
+        "exzyle-demotivational": "latest"
+    }
+}

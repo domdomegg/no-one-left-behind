@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_dign",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dignative/element": "latest",
+        "@dignitary/interfaces": "latest",
+        "@dignite-ng/theme-basic": "latest"
+    }
+}

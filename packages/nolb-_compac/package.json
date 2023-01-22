@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_compac",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@compacks/common": "latest",
+        "@compactjs/assign": "latest",
+        "@compactjs/cap": "latest",
+        "@compactjs/chatscroll": "latest",
+        "@compactjs/clipboard": "latest",
+        "@compactjs/limit": "latest",
+        "@compactjs/parse-time": "latest",
+        "@compactjs/random": "latest",
+        "@compactjs/remap": "latest",
+        "@compactjs/shuffle": "latest",
+        "@compactjs/uea": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_vaz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vazeev/ckeditor5-build-mentions-only": "latest",
+        "@vazgentigranich/parlor-broccoli-rollup": "latest",
+        "@vazgentigranich/parlor-emberfire": "latest",
+        "@vazgentigranich/parlor-glimmer-application-pipeline": "latest",
+        "@vazgentigranich/react-beautiful-dnd": "latest",
+        "@vaziliybober/brain-games": "latest",
+        "@vaziliybober/gendiff": "latest",
+        "@vaziliybober/include-typescript-declarations": "latest",
+        "@vaziliybober/operlib": "latest",
+        "@vazra/invoice-table": "latest"
+    }
+}

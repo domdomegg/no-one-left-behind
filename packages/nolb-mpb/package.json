@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-mpb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mpb": "latest",
+        "mpbasic": "latest",
+        "mpbehavior": "latest",
+        "mpbh": "latest",
+        "mpbuild": "latest",
+        "mpbuild-cli": "latest",
+        "mpbuilder": "latest"
+    }
+}

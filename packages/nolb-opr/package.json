@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-opr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "opr-core": "latest",
+        "opr-core-testutil": "latest",
+        "opr-devtools": "latest",
+        "opr-google-cloud": "latest",
+        "opr-models": "latest",
+        "opr-sql-database": "latest",
+        "opr-ui": "latest",
+        "opra": "latest",
+        "opra-compiler": "latest",
+        "opra-erikfrisk": "latest",
+        "oprah": "latest",
+        "oprater-ui-modules": "latest",
+        "opration": "latest",
+        "oprecord-player": "latest",
+        "opres": "latest",
+        "opress": "latest",
+        "opresults": "latest",
+        "opreturn": "latest",
+        "oprf": "latest",
+        "oprime-montage": "latest",
+        "oprinter": "latest",
+        "oproba": "latest",
+        "oprop": "latest",
+        "oproudnikov": "latest",
+        "oproxy": "latest",
+        "oproxypac": "latest"
+    }
+}

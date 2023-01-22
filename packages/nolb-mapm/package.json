@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-mapm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mapmagic-gl": "latest",
+        "mapmaker": "latest",
+        "mapmaking-online": "latest",
+        "mapmanager": "latest",
+        "mapmany": "latest",
+        "mapmap": "latest",
+        "mapme": "latest",
+        "mapmeld-html2canvas": "latest",
+        "mapmeld-react-component-export-image": "latest",
+        "mapmerge": "latest",
+        "mapmgr": "latest",
+        "mapmodule": "latest",
+        "mapmoize": "latest",
+        "mapmyindia-direction-widget-react-native": "latest",
+        "mapmyindia-geofence-widget-react-native": "latest",
+        "mapmyindia-intouch-react-native-sdk": "latest",
+        "mapmyindia-map-cordova-ionic-beta": "latest",
+        "mapmyindia-map-react-native-beta": "latest",
+        "mapmyindia-nearby-record-finder-react-native": "latest",
+        "mapmyindia-nearby-widget-react-native": "latest",
+        "mapmyindia-polyline": "latest",
+        "mapmyindia-react": "latest",
+        "mapmyindia-react-polyline": "latest",
+        "mapmyindia-restapi-cordova-ionic-beta": "latest",
+        "mapmyindia-restapi-react-native-beta": "latest",
+        "mapmyindia-sdk-nodejs": "latest",
+        "mapmyindia-search-widgets-react-native": "latest",
+        "mapmyview": "latest"
+    }
+}

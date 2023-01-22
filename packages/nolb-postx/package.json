@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-postx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "postxml": "latest",
+        "postxml-amp": "latest",
+        "postxml-beml": "latest",
+        "postxml-custom-tags": "latest",
+        "postxml-icon": "latest",
+        "postxml-image-size": "latest",
+        "postxml-imgalt": "latest",
+        "postxml-import": "latest",
+        "postxml-import-styles": "latest",
+        "postxml-loader": "latest",
+        "postxml-markdown": "latest",
+        "postxml-ng-valid": "latest",
+        "postxml-pack-alanev": "latest",
+        "postxml-placeholder": "latest",
+        "postxml-postcss": "latest",
+        "postxml-remove": "latest",
+        "postxml-repeat": "latest",
+        "postxml-wrap": "latest"
+    }
+}

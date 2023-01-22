@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-c6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "c6": "latest",
+        "c6-cli": "latest",
+        "c6-zf": "latest",
+        "c64-alfred": "latest",
+        "c64jasm": "latest",
+        "c6e": "latest",
+        "c6lipboady": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-karb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "karbid": "latest",
+        "karbon": "latest",
+        "karbon-components": "latest",
+        "karbon-fe-utils": "latest",
+        "karbon-test-component": "latest",
+        "karbon-ui": "latest",
+        "karbonit": "latest",
+        "karbook-ui-library": "latest",
+        "karboom": "latest"
+    }
+}

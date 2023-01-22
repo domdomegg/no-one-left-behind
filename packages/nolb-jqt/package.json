@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-jqt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jqTreeGridWithPagination": "latest",
+        "jqt": "latest",
+        "jqtable": "latest",
+        "jqtempl-loader": "latest",
+        "jqtimespace": "latest",
+        "jqtjs_app_build": "latest",
+        "jqtmpl-compiler": "latest",
+        "jqtools": "latest",
+        "jqtpl": "latest",
+        "jqtpl-dsx": "latest",
+        "jqtree": "latest",
+        "jqtree-select": "latest",
+        "jqts": "latest",
+        "jqturnpage": "latest"
+    }
+}

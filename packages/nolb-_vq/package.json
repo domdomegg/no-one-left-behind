@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_vq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vqh.cmd/test-01": "latest",
+        "@vqiqi/vue-paystack2": "latest",
+        "@vqq/exp-validator": "latest",
+        "@vqs/vqs-app": "latest",
+        "@vqs/vqs-calendar": "latest",
+        "@vqs/vqs-cloud": "latest",
+        "@vqs/vqs-funnel": "latest",
+        "@vqs/vqs-reminder": "latest",
+        "@vqs/vqs-tasks": "latest",
+        "@vqs/vqs-tickets": "latest",
+        "@vqs/vqs-vouchers": "latest",
+        "@vquelque/shamir_bip39": "latest"
+    }
+}

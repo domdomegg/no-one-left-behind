@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-chj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chj": "latest",
+        "chj-cli": "latest",
+        "chj-cli-lego-component": "latest",
+        "chj-cli-template-vue-element-admin": "latest",
+        "chj-cli-template-vue2": "latest",
+        "chj-ip-tool": "latest",
+        "chj-lib": "latest",
+        "chj-myp": "latest",
+        "chj-springboot-skeleton": "latest",
+        "chj2": "latest",
+        "chj3": "latest",
+        "chj_test_server": "latest",
+        "chjmodule_self": "latest",
+        "chjs": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-onv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "onvalid": "latest",
+        "onvalidation": "latest",
+        "onvia281": "latest",
+        "onvianew28": "latest",
+        "onview": "latest",
+        "onvif": "latest",
+        "onvif-cli": "latest",
+        "onvif-descriptor-loader": "latest",
+        "onvif-fork": "latest",
+        "onvif-nvt": "latest",
+        "onvif-nvt-ts": "latest",
+        "onvif-probe-rx": "latest",
+        "onvif-promise": "latest",
+        "onvif-ptz-cli": "latest",
+        "onvif-rx": "latest",
+        "onvif-rx-angular": "latest",
+        "onvif-snapshot": "latest",
+        "onvifhawk": "latest",
+        "onviousegulp": "latest",
+        "onvoard-act-utils": "latest"
+    }
+}

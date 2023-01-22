@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_deo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@deomitrus/blessed": "latest",
+        "@deomitrus/hyperapp-redux-devtools": "latest",
+        "@deondigital/api-client": "latest",
+        "@deondigital/firetruck": "latest",
+        "@deondigital/node-api-client": "latest",
+        "@deondigital/react-scripts": "latest",
+        "@deondigital/sic": "latest",
+        "@deondigital/web-api-client": "latest",
+        "@deonis/ndb": "latest",
+        "@deonleer/lotide": "latest",
+        "@deono/react-native-sensors-sampler": "latest",
+        "@deor/my-plugin": "latest",
+        "@deora_vipul/auth0-schematic": "latest",
+        "@deovita-app/common": "latest",
+        "@deoxys-1/md-to-site": "latest",
+        "@deoxys/knex-backend": "latest",
+        "@deoxys/repository": "latest"
+    }
+}

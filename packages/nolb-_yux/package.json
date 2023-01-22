@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_yux",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yuxiaosen/momentjs": "latest",
+        "@yuxiaosen/tools": "latest",
+        "@yuxichina/devops-cli": "latest",
+        "@yuxichina/vue-scroller": "latest",
+        "@yuxincheng73/picker": "latest",
+        "@yuxincheng73/picker2": "latest",
+        "@yuxincheng73/rc-picker": "latest",
+        "@yuxinqi/redaxios": "latest",
+        "@yuxinqi/vuetify-music-player": "latest",
+        "@yuxiuli/yuxiuli_npm_test": "latest",
+        "@yuxuan-zheng/hooks": "latest",
+        "@yuxuan-zheng/react-components": "latest",
+        "@yuxuan-zheng/react-infinite-scroll": "latest",
+        "@yuxuan-zheng/xuan-common": "latest",
+        "@yuxxeun/yt-demo": "latest"
+    }
+}

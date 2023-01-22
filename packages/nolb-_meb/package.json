@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_meb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mebank/fcm-push": "latest",
+        "@mebank/tracker": "latest",
+        "@mebbigfrontend/ts-cli": "latest",
+        "@mebble/grpc-hello-client": "latest",
+        "@meberem/react-simple-auth-openid-provider": "latest",
+        "@mebius-cli/core": "latest",
+        "@mebius-cli/template-react18": "latest",
+        "@mebius-cli/template-vue2": "latest",
+        "@mebius-cli/utils": "latest",
+        "@mebtte/react-image-viewer": "latest",
+        "@mebtte/react-lrc": "latest",
+        "@mebtte/react-media-session": "latest",
+        "@meby98/ckeditor5-custom-build": "latest"
+    }
+}

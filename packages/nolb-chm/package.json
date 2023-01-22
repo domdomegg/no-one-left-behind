@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-chm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chm-manual": "latest",
+        "chm-strtime": "latest",
+        "chm-ui": "latest",
+        "chm-wke-package": "latest",
+        "chm123--": "latest",
+        "chm_web_designer": "latest",
+        "chmail": "latest",
+        "chmex-ui": "latest",
+        "chmits-commons-ui": "latest",
+        "chmod": "latest",
+        "chmod-checkbox": "latest",
+        "chmod-plus": "latest",
+        "chmod-style-permissions": "latest",
+        "chmod-webpack-plugin": "latest",
+        "chmod2": "latest",
+        "chmod777-assistant": "latest",
+        "chmode": "latest",
+        "chmodr": "latest",
+        "chmodrp": "latest",
+        "chmodule": "latest",
+        "chmodx": "latest",
+        "chmpkcallout": "latest",
+        "chmpx": "latest",
+        "chmtool": "latest"
+    }
+}

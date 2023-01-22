@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_alifd_te",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alifd/template-next-single-page": "latest",
+        "@alifd/template-next-single-page-a11y": "latest",
+        "@alifd/template-next-single-page-rtl": "latest",
+        "@alifd/test-block-block": "latest",
+        "@alifd/text-block2-block": "latest"
+    }
+}

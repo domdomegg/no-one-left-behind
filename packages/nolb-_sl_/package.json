@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_sl_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sl_puller/components": "latest",
+        "@sl_puller/constants": "latest",
+        "@sl_puller/containers": "latest",
+        "@sl_puller/core": "latest",
+        "@sl_puller/hooks": "latest",
+        "@sl_puller/utils": "latest"
+    }
+}

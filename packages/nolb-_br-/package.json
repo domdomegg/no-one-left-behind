@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_br-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@br-ignite-ui/docs": "latest",
+        "@br-ignite-ui/react": "latest",
+        "@br-ignite-ui/tokens": "latest",
+        "@br-im-fe/br-im-demo1": "latest",
+        "@br-js/node-cosmosdb": "latest",
+        "@br-sauced/astro-angular": "latest",
+        "@br-sauced/design-system": "latest"
+    }
+}

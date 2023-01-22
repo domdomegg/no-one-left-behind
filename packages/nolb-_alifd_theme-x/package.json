@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_alifd_theme-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alifd/theme-x": "latest",
+        "@alifd/theme-x777": "latest",
+        "@alifd/theme-xcore-dark": "latest",
+        "@alifd/theme-xfn11": "latest",
+        "@alifd/theme-xfvip": "latest",
+        "@alifd/theme-xg-admin-search": "latest",
+        "@alifd/theme-xh": "latest",
+        "@alifd/theme-xiaoer": "latest",
+        "@alifd/theme-xiaohulu": "latest",
+        "@alifd/theme-xiaoqiang": "latest",
+        "@alifd/theme-xingchuan-1": "latest",
+        "@alifd/theme-xmy": "latest",
+        "@alifd/theme-xp-lowcode": "latest",
+        "@alifd/theme-xpeng": "latest",
+        "@alifd/theme-xpm": "latest",
+        "@alifd/theme-xspace": "latest",
+        "@alifd/theme-xtbdi-jw-web": "latest",
+        "@alifd/theme-xtw": "latest",
+        "@alifd/theme-xu": "latest",
+        "@alifd/theme-xunmatest01": "latest",
+        "@alifd/theme-xy": "latest",
+        "@alifd/theme-xylink": "latest",
+        "@alifd/theme-xz": "latest"
+    }
+}

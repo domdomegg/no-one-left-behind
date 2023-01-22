@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-panw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "panw-blox": "latest",
+        "panwd": "latest",
+        "panwen": "latest",
+        "panwen-server": "latest",
+        "panwen345": "latest",
+        "panwenbag": "latest",
+        "panwj-add-str": "latest",
+        "panwj-cli-lib": "latest",
+        "panwj-cli-test": "latest",
+        "panwj-webpack4": "latest"
+    }
+}

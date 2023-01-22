@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-genc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "genc": "latest",
+        "gencall": "latest",
+        "gencase": "latest",
+        "gencay": "latest",
+        "gencc": "latest",
+        "gench": "latest",
+        "gencli-ceshi": "latest",
+        "gencls": "latest",
+        "genco": "latest",
+        "genco-cli": "latest",
+        "gencode": "latest",
+        "gencodes": "latest",
+        "gencodings": "latest",
+        "gencom": "latest",
+        "genconf-firefox-lockedprefs-pmb": "latest",
+        "gencord": "latest",
+        "gencore": "latest",
+        "gencov": "latest",
+        "gencryption": "latest",
+        "gencryption-affine": "latest",
+        "gencryption-caesar": "latest",
+        "gencryption-vigenere": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_webh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@webhare/dompack-carrousel": "latest",
+        "@webhare/dompack-carrousel-slideshow": "latest",
+        "@webhare/dompack-justifiedcontentgrid": "latest",
+        "@webharmony/web-imageslider": "latest",
+        "@webharmony/web-lazy-img": "latest",
+        "@webhipster-tech/react-image": "latest",
+        "@webhipster-tech/react-window-size": "latest",
+        "@webhonar/vue-cedarmaps": "latest",
+        "@webhooks-io/butler-aws": "latest",
+        "@webhooksite/cli": "latest",
+        "@webhookwizard/cli": "latest",
+        "@webhostingcoop/gatsby-theme-whc": "latest",
+        "@webhostingcoop/gatsby-theme-whc-dev": "latest",
+        "@webhotelier/prettier-config": "latest",
+        "@webhotelier/webpack-fast-refresh": "latest"
+    }
+}

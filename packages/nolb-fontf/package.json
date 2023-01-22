@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-fontf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fontface-loader": "latest",
+        "fontface-preloader": "latest",
+        "fontface-source-sans-pro": "latest",
+        "fontface-styled-components": "latest",
+        "fontfacegen": "latest",
+        "fontfacegen-webpack-plugin": "latest",
+        "fontfaceobserver": "latest",
+        "fontfaceobserver-es": "latest",
+        "fontfaceonload": "latest",
+        "fontfamous": "latest",
+        "fontfast": "latest",
+        "fontfeatures": "latest",
+        "fontfill": "latest",
+        "fontforge": "latest",
+        "fontforger": "latest",
+        "fontformat": "latest"
+    }
+}

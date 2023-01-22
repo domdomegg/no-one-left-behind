@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-mongoe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mongoe": "latest",
+        "mongoed": "latest",
+        "mongoelast": "latest",
+        "mongoelastic": "latest",
+        "mongoengine": "latest",
+        "mongoesindexer": "latest",
+        "mongoexec.js": "latest",
+        "mongoexport-wrapper": "latest",
+        "mongoexpressgen": "latest",
+        "mongoeye": "latest"
+    }
+}

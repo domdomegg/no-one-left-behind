@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-swq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "swq": "latest",
+        "swq-data-contracts": "latest",
+        "swql2cypher": "latest",
+        "swquaynor-frame-print": "latest"
+    }
+}

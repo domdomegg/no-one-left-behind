@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-microk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "microk": "latest",
+        "microkern": "latest",
+        "microkernel": "latest",
+        "microkernel-artificial-inteligency": "latest",
+        "microkernel-demo-module": "latest",
+        "microkernel-ext-cls": "latest",
+        "microkernel-ext-co": "latest",
+        "microkernel-ext-debug": "latest",
+        "microkernel-mod-alasql": "latest",
+        "microkernel-mod-cluster": "latest",
+        "microkernel-mod-config": "latest",
+        "microkernel-mod-ctx": "latest",
+        "microkernel-mod-daemon": "latest",
+        "microkernel-mod-geoip": "latest",
+        "microkernel-mod-graphqlio": "latest",
+        "microkernel-mod-hapi": "latest",
+        "microkernel-mod-logger": "latest",
+        "microkernel-mod-options": "latest",
+        "microkernel-mod-sequelize": "latest",
+        "microkernel-mod-shutdown": "latest",
+        "microkernel-mod-title": "latest",
+        "microkid": "latest",
+        "microkit": "latest"
+    }
+}

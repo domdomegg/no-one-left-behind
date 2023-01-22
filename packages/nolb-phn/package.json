@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-phn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "phn-validator": "latest",
+        "phnodelayer": "latest",
+        "phnq-client": "latest",
+        "phnq-lib": "latest",
+        "phnq-message": "latest",
+        "phnq_core": "latest",
+        "phnq_ejs": "latest",
+        "phnq_lastfm": "latest",
+        "phnq_log": "latest",
+        "phnq_widgets": "latest",
+        "phnumchecker": "latest"
+    }
+}

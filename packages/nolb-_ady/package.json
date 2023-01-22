@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_ady",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@adyen/adyen-document-viewer": "latest",
+        "@adyen/adyen-web": "latest",
+        "@adyen/api-library": "latest",
+        "@adyen/react-native": "latest"
+    }
+}

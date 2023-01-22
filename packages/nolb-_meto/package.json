@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_meto",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@metocean/timelord": "latest",
+        "@metoceanapi/wxtiles-deckgl": "latest",
+        "@metoceanapi/wxtiles-gl": "latest",
+        "@metoceanapi/wxtiles-leaflet": "latest",
+        "@metoceanapi/wxtiles-mapbox-gl": "latest",
+        "@metoceanapi/wxtiles-mbox": "latest",
+        "@metocherry/chip-dom": "latest",
+        "@metocherry/chip-one": "latest",
+        "@metocherry/chip-ui": "latest",
+        "@metocherry/chip-utils": "latest",
+        "@metocherry/eslint-config-joy": "latest",
+        "@metocherry/flow-ui": "latest",
+        "@metocherry/flow-utils": "latest",
+        "@metocherry/joy-ui": "latest",
+        "@metocherry/joy-utils": "latest",
+        "@metomic/alias-core": "latest",
+        "@metomic/alias-react": "latest",
+        "@metomic/react": "latest",
+        "@metonym/sapper": "latest",
+        "@metonym/unistore": "latest",
+        "@metooidk/osjs-minecraft-application": "latest"
+    }
+}

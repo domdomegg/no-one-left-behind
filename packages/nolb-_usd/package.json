@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_usd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@usdevices/common": "latest",
+        "@usdlayer/burner-plugin": "latest",
+        "@usdlayer/widget": "latest",
+        "@usdocker/elastic": "latest",
+        "@usdocker/lemp": "latest",
+        "@usdocker/memcached": "latest",
+        "@usdocker/mongodb": "latest",
+        "@usdocker/mssql": "latest",
+        "@usdocker/mysql": "latest",
+        "@usdocker/oracle-xe": "latest",
+        "@usdocker/postgres": "latest",
+        "@usdocker/redis": "latest",
+        "@usdocker/usdocker": "latest",
+        "@usdocker/wordpress": "latest",
+        "@usds.gov/questionable": "latest",
+        "@usds.gov/questionable-core": "latest",
+        "@usds.gov/questionable-mocks": "latest",
+        "@usds.gov/questionable-react-component": "latest",
+        "@usds.gov/ssa-eligibility": "latest",
+        "@usdtcloud/block": "latest",
+        "@usdtcloud/helper": "latest",
+        "@usdtcloud/mysql": "latest",
+        "@usdtcloud/validate": "latest",
+        "@usdticketing/common": "latest"
+    }
+}

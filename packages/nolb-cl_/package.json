@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-cl_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cl.i-psinner": "latest",
+        "cl.southernforge.utils": "latest",
+        "cl_modules": "latest",
+        "cl_newutil_self": "latest",
+        "cl_sensorsdata": "latest",
+        "cl_tools2.0": "latest",
+        "cl_util_demo": "latest",
+        "cl_util_t": "latest",
+        "cl_vtools": "latest"
+    }
+}

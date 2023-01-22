@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_yub",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yub04/antd": "latest",
+        "@yubeio/apollo-absinthe-graphql-upload": "latest",
+        "@yuberto/nx-semantic-release": "latest",
+        "@yubin.fu/angular-gantt": "latest",
+        "@yubing744/move-js": "latest",
+        "@yubing744/starcoin": "latest",
+        "@yubisaki/plugin-utils": "latest",
+        "@yubisaki/vuepress-plugin-blog": "latest",
+        "@yubisaki/vuepress-plugin-pagination": "latest"
+    }
+}

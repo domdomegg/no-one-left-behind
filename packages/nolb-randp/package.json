@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-randp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "randpass": "latest",
+        "randpassgen": "latest",
+        "randpassgen2": "latest",
+        "randpersonxyz": "latest",
+        "randpic": "latest",
+        "randpic-imghost": "latest",
+        "randpix": "latest",
+        "randport": "latest",
+        "randpw": "latest"
+    }
+}

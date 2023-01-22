@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-react-pg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-pg": "latest",
+        "react-pg-ex1": "latest",
+        "react-pgn-viewer": "latest",
+        "react-pgql": "latest",
+        "react-pgr": "latest"
+    }
+}

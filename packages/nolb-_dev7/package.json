@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_dev7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dev7ch/lom-windows": "latest",
+        "@dev7ch/vue-lom-window": "latest",
+        "@dev7ch/vuetify-jsonschema-form": "latest",
+        "@dev7ch/wepublish-api": "latest",
+        "@dev7ch/wepublish-api-db-mongodb": "latest",
+        "@dev7ch/wepublish-editor": "latest"
+    }
+}

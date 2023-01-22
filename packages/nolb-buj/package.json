@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-buj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "buj": "latest",
+        "bujiang-npm": "latest",
+        "bujiangwude": "latest",
+        "buju-celue": "latest",
+        "bujv": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-js-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "js-yaml": "latest",
+        "js-yaml-bespoken": "latest",
+        "js-yaml-chase-esm": "latest",
+        "js-yaml-chatdaddy": "latest",
+        "js-yaml-cli": "latest",
+        "js-yaml-cloudformation-schema": "latest",
+        "js-yaml-disallow-comments": "latest",
+        "js-yaml-import": "latest",
+        "js-yaml-js-types": "latest",
+        "js-yaml-lite": "latest",
+        "js-yaml-loader": "latest",
+        "js-yaml-pack": "latest",
+        "js-yaml-parser": "latest",
+        "js-yaml-promise": "latest",
+        "js-yaml-ramzes": "latest",
+        "js-yaml-schema-cfn": "latest",
+        "js-yaml-source-map": "latest",
+        "js-yaml-type-data": "latest",
+        "js-yaml-type-include": "latest",
+        "js-yaml-type-ts": "latest",
+        "js-yaml-type-ts-module": "latest",
+        "js-yaml.bin": "latest",
+        "js-year-calendar": "latest",
+        "js-youtube-id": "latest",
+        "js-yummy": "latest",
+        "js-yunqu-utils-test": "latest",
+        "js-yvhjkjnkklkkl": "latest"
+    }
+}

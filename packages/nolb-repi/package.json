@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-repi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "repick": "latest",
+        "repick-core": "latest",
+        "repick-react": "latest",
+        "repileux": "latest",
+        "repimo": "latest",
+        "repin": "latest",
+        "reping": "latest",
+        "repinned": "latest",
+        "repipe": "latest",
+        "repiper": "latest",
+        "repiq": "latest",
+        "repit": "latest"
+    }
+}

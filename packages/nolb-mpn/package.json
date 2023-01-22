@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-mpn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mpn": "latest",
+        "mpn-4-1": "latest",
+        "mpn-lookup": "latest",
+        "mpn-ng-zorrrro-asd-test": "latest",
+        "mpn-on": "latest",
+        "mpn.cli": "latest",
+        "mpn2module": "latest",
+        "mpnats": "latest",
+        "mpnext": "latest",
+        "mpnode-cache": "latest",
+        "mpnpm": "latest",
+        "mpnrepo": "latest",
+        "mpns": "latest",
+        "mpntest": "latest"
+    }
+}

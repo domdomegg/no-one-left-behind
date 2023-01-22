@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-mico",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mico": "latest",
+        "mico-cli": "latest",
+        "mico-cli-beta": "latest",
+        "mico-db": "latest",
+        "mico-spinner": "latest",
+        "mico-store": "latest",
+        "mico-ui": "latest",
+        "mico-ui-poc": "latest",
+        "mico-vant": "latest",
+        "mico-web-peoject-npm": "latest",
+        "micoac": "latest",
+        "micodc": "latest",
+        "micodec": "latest",
+        "micon": "latest",
+        "miconfig": "latest",
+        "micons": "latest",
+        "micooc": "latest",
+        "micoocypress": "latest",
+        "micorriza-dom": "latest",
+        "micorriza-karma-jasmine": "latest",
+        "micorriza-pure": "latest",
+        "micorriza-switch": "latest",
+        "micox": "latest"
+    }
+}

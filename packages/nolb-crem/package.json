@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-crem",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "crem": "latest",
+        "crem-lib": "latest",
+        "crema": "latest",
+        "crema-react-ui": "latest",
+        "crema-sdk": "latest",
+        "cremav2-sdk": "latest",
+        "creme": "latest",
+        "cremma": "latest",
+        "cremona": "latest"
+    }
+}

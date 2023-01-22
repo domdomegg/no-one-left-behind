@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-ckr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ckr": "latest",
+        "ckr-css": "latest",
+        "ckret": "latest",
+        "ckron": "latest",
+        "ckryo-iview": "latest",
+        "ckryo-npm1": "latest",
+        "ckryo_iview": "latest"
+    }
+}

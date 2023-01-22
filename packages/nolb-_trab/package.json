@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_trab",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trabee/ui": "latest",
+        "@trabian/banking-graphql-mock-schema": "latest",
+        "@trabian/banking-graphql-types": "latest",
+        "@trabian/gatsby-transformer-rich-text": "latest",
+        "@trabian/glia-bridge": "latest",
+        "@trabian/normalizr-immutable": "latest",
+        "@trabian/react-native-pdf-view": "latest",
+        "@trabian/storybook": "latest",
+        "@trabpukcip/godsmack": "latest",
+        "@trabpukcip/inject": "latest"
+    }
+}

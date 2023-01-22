@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-esx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "esx": "latest",
+        "esx-bower": "latest",
+        "esx-bundle": "latest",
+        "esx-cli": "latest",
+        "esx-optimize": "latest",
+        "esx-rs": "latest",
+        "esx-rs-http": "latest",
+        "esx-rs-server": "latest",
+        "esx-str-zz": "latest",
+        "esx-transpile": "latest",
+        "esx-ts-server-bridge": "latest",
+        "esx.js": "latest",
+        "esx99-p-v1": "latest",
+        "esxdoc": "latest",
+        "esxi-login-bruteforce": "latest",
+        "esxparse": "latest",
+        "esxtoken": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_l2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@l2-technology/sensei-client": "latest",
+        "@l2en/eslint-config-eslint": "latest",
+        "@l2en/eslint-config-l2en-eslint": "latest",
+        "@l2studio/iqdb-api": "latest",
+        "@l2studio/minecraft-ping": "latest",
+        "@l2studio/nhentai-api": "latest",
+        "@l2studio/nhentai-tags": "latest",
+        "@l2studio/picacomic-api": "latest"
+    }
+}

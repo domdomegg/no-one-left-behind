@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-stof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stof": "latest",
+        "stof-minigames": "latest",
+        "stofa-ui": "latest",
+        "stofstik-coffee-project": "latest",
+        "stofstik-email-verification": "latest",
+        "stofstik_censorify": "latest"
+    }
+}

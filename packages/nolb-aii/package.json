@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-aii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aii-taurus": "latest",
+        "aiiis-plus": "latest",
+        "aiimage-vue": "latest",
+        "aiirh-basic": "latest",
+        "aiislove": "latest",
+        "aiit-vcli": "latest",
+        "aiit_sdk": "latest"
+    }
+}

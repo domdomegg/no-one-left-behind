@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_weu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@weue/button": "latest",
+        "@weue/flex": "latest",
+        "@weue/navbar": "latest",
+        "@weue/theme": "latest",
+        "@weus/antd-tools": "latest",
+        "@weus/babel-plugin-named-asset-import": "latest",
+        "@weus/babel-preset-react-app": "latest",
+        "@weus/confusing-browser-globals": "latest",
+        "@weus/create-react-app": "latest",
+        "@weus/eslint-config-react-app": "latest",
+        "@weus/imagemin-jpeg-recompress": "latest",
+        "@weus/imagemin-jpegtran": "latest",
+        "@weus/imagemin-optipng": "latest",
+        "@weus/imagemin-pngquant": "latest",
+        "@weus/jpeg-recompress-bin": "latest",
+        "@weus/jpegtran-bin": "latest",
+        "@weus/pngquant-bin": "latest",
+        "@weus/react-dev-utils": "latest",
+        "@weus/react-error-overlay": "latest",
+        "@weus/react-scripts": "latest"
+    }
+}

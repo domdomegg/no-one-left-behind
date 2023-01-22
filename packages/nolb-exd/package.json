@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-exd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "exd-vcomponent-base": "latest",
+        "exd-vcomponent-business": "latest",
+        "exd-vcomponent-customization": "latest",
+        "exd-vcomponent-lib": "latest",
+        "exd-vcomponent-visualization": "latest",
+        "exdat": "latest",
+        "exdata-taxonomy-misc-felidae": "latest",
+        "exdataana": "latest",
+        "exdate": "latest",
+        "exdatetime": "latest",
+        "exdb": "latest",
+        "exdb-google-sheet": "latest",
+        "exdee": "latest",
+        "exdent": "latest",
+        "exdi": "latest",
+        "exdir-ts": "latest",
+        "exdis": "latest",
+        "exdockerbuild": "latest",
+        "exdom": "latest",
+        "exdown": "latest",
+        "exdrupal": "latest",
+        "exdump": "latest"
+    }
+}

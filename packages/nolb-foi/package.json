@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-foi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "foi": "latest",
+        "foi-lang": "latest",
+        "foi-library": "latest",
+        "foia": "latest",
+        "foia-db": "latest",
+        "foibles": "latest",
+        "foid": "latest",
+        "foie": "latest",
+        "foil": "latest",
+        "foilkoil": "latest",
+        "foist": "latest",
+        "foit": "latest",
+        "foizzomnichainnftfetcher": "latest"
+    }
+}

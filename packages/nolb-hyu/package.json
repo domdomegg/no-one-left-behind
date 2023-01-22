@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-hyu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hyu": "latest",
+        "hyu-utilities": "latest",
+        "hyue-test": "latest",
+        "hyui": "latest",
+        "hyui-core": "latest",
+        "hyui2": "latest",
+        "hyun-ui": "latest",
+        "hyun_publish_test": "latest",
+        "hyungoo": "latest",
+        "hyunji-link-checker": "latest",
+        "hyunmindev-promise": "latest",
+        "hyuns-api-v2-client": "latest",
+        "hyunsu-map": "latest"
+    }
+}

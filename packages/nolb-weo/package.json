@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-weo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "weo": "latest",
+        "weo-error-codes": "latest",
+        "weo-http-proxy": "latest",
+        "weo-redux-logger": "latest",
+        "weogeoapi": "latest",
+        "weoil-element-ui": "latest",
+        "weoil-uni-simple-router-fix": "latest",
+        "weoil-web-rules": "latest",
+        "weokstudy": "latest",
+        "weolopez": "latest",
+        "weopenbro-test": "latest",
+        "weoptions": "latest"
+    }
+}

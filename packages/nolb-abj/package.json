@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-abj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "abj": "latest",
+        "abjad": "latest",
+        "abjad-calc": "latest",
+        "abject": "latest",
+        "abjiukiu": "latest",
+        "abjjj": "latest",
+        "abjork-frame-print": "latest",
+        "abjs": "latest",
+        "abjure": "latest"
+    }
+}

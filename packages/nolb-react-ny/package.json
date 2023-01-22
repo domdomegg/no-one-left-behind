@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-ny",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-nya-style": "latest",
+        "react-nyan": "latest",
+        "react-nyan-flappy": "latest",
+        "react-nyan-stroller": "latest",
+        "react-nyc-choropleth": "latest",
+        "react-nylon": "latest",
+        "react-nymph": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_fif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fifekinex/randomid-generator": "latest",
+        "@fifi98/next-redux": "latest",
+        "@fifteen/design-system-vue": "latest",
+        "@fifteenmania/wasm-hello": "latest",
+        "@fifthbeat/design-system": "latest",
+        "@fifthsage/react-amplitude": "latest",
+        "@fifthturtle/jambalaya-util": "latest",
+        "@fiftoine/loopback-sdk-builder": "latest",
+        "@fifty-5/ui": "latest",
+        "@fiftyfivetech/get-template": "latest",
+        "@fiftyone511/app": "latest",
+        "@fiftyone511/fiftyone": "latest",
+        "@fiftyone511/flashlight": "latest",
+        "@fiftyone511/looker": "latest",
+        "@fiftyone511/prettier-config": "latest",
+        "@fiftyone511/utilities": "latest"
+    }
+}

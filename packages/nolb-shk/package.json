@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-shk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shk": "latest",
+        "shk-cli": "latest",
+        "shk-component": "latest",
+        "shk-framework-core": "latest",
+        "shk-jsplumb": "latest",
+        "shk-lib": "latest",
+        "shk-ng-breadcrumb": "latest",
+        "shk-ng-pagination": "latest",
+        "shk-palindrome": "latest",
+        "shk-test-lib": "latest",
+        "shkframework": "latest",
+        "shkhaider2015": "latest",
+        "shkj-nbatis": "latest",
+        "shkmr-debugger": "latest",
+        "shkmr-tg": "latest",
+        "shkmr-vk": "latest",
+        "shkmzzh": "latest",
+        "shkodunishka": "latest",
+        "shkumesi": "latest",
+        "shkx": "latest"
+    }
+}

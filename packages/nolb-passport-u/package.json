@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-passport-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "passport-u2f": "latest",
+        "passport-uashib": "latest",
+        "passport-uber": "latest",
+        "passport-uber-v2": "latest",
+        "passport-ubersmith": "latest",
+        "passport-ubuntu": "latest",
+        "passport-ucoz": "latest",
+        "passport-ufshib": "latest",
+        "passport-uicshib": "latest",
+        "passport-ukr": "latest",
+        "passport-ultraauth": "latest",
+        "passport-umd-cas": "latest",
+        "passport-underarmour": "latest",
+        "passport-unichar": "latest",
+        "passport-unik-imap": "latest",
+        "passport-unilogin": "latest",
+        "passport-unique-token": "latest",
+        "passport-universal-auth": "latest",
+        "passport-unsplash": "latest",
+        "passport-untappd": "latest",
+        "passport-url": "latest",
+        "passport-urlship": "latest",
+        "passport-userapp": "latest",
+        "passport-username": "latest",
+        "passport-uservoice": "latest",
+        "passport-ustream": "latest",
+        "passport-utils": "latest",
+        "passport-uwshib": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_tyd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tydi56/npm-test-project": "latest",
+        "@tydic-group/base-components": "latest",
+        "@tydic-group/block-components": "latest",
+        "@tydic-group/cms-components": "latest",
+        "@tydic-group/component-base": "latest",
+        "@tydic-group/component-block": "latest",
+        "@tydic-group/component-mobile": "latest",
+        "@tydic-group/component-template": "latest",
+        "@tydic-group/component-wechat": "latest",
+        "@tydic-group/plugin-regular-check": "latest",
+        "@tydic-group/plugin-service": "latest",
+        "@tydic-group/plugin-theme-custom": "latest",
+        "@tydic-group/plugin-util": "latest",
+        "@tydic-group/plugin-vue-filter": "latest",
+        "@tydic-group/shop-components": "latest",
+        "@tydic-group/template-components": "latest",
+        "@tydic-group/tydic-cli": "latest",
+        "@tydoc/extractor": "latest",
+        "@tyduptyler13/glslify-loader": "latest"
+    }
+}

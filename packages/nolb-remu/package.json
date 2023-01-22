@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-remu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "remu": "latest",
+        "remui": "latest",
+        "remuire": "latest",
+        "remult": "latest",
+        "remult-react-admin": "latest",
+        "remultiform": "latest",
+        "remun-dfds-npm-test": "latest",
+        "remunit": "latest",
+        "remus": "latest",
+        "remusjs": "latest",
+        "remutable": "latest",
+        "remutate": "latest",
+        "remux": "latest",
+        "remux-core": "latest",
+        "remux-extension": "latest",
+        "remux-preview": "latest",
+        "remuxme": "latest"
+    }
+}

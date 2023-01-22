@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-fontm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fontmachine": "latest",
+        "fontmake": "latest",
+        "fontmanager-ll": "latest",
+        "fontmanager-redux": "latest",
+        "fontmanager-zh": "latest",
+        "fontmetrics": "latest",
+        "fontmin": "latest",
+        "fontmin-concat": "latest",
+        "fontmin-dump": "latest",
+        "fontmin-esm": "latest",
+        "fontmin-extract": "latest",
+        "fontmin-fork": "latest",
+        "fontmin-loader": "latest",
+        "fontmin-spider": "latest",
+        "fontmin-ttf2svgs": "latest",
+        "fontmin-typeface": "latest",
+        "fontmin-wawoff2": "latest",
+        "fontmin-webpack": "latest",
+        "fontmin-webpack-plugin": "latest",
+        "fontmirror": "latest"
+    }
+}

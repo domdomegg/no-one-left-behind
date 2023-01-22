@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_da-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@da-baas/common-front-node": "latest",
+        "@da-huo/koala-design": "latest",
+        "@da-mkay/ng-builder-electron": "latest",
+        "@da-mkay/ng-builder-typescript": "latest",
+        "@da-nae/holidates": "latest",
+        "@da-ui/button": "latest",
+        "@da-ui/card": "latest",
+        "@da-ui/dacard": "latest"
+    }
+}

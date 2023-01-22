@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-emy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emy": "latest",
+        "emy-create-app-typescript": "latest",
+        "emybank": "latest",
+        "emyll": "latest",
+        "emylson-test-lib": "latest",
+        "emysql": "latest",
+        "emyuyan": "latest",
+        "emyw-virtual-list": "latest"
+    }
+}

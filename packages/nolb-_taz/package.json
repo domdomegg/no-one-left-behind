@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_taz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@taze-editor/core": "latest",
+        "@taze-editor/plugin-basic-marks": "latest",
+        "@taze-editor/plugin-paragraph": "latest",
+        "@taze-editor/plugin-search": "latest",
+        "@taze-editor/plugins": "latest",
+        "@taze-editor/taze": "latest",
+        "@taze-editor/taze-core": "latest",
+        "@taze-editor/taze-plugin-basic-elements": "latest",
+        "@taze-editor/taze-plugin-basic-marks": "latest",
+        "@taze-editor/taze-plugin-exit-break": "latest",
+        "@taze-editor/taze-plugin-node-id": "latest",
+        "@taze-editor/taze-plugin-reset-node": "latest",
+        "@taze-editor/taze-plugin-search-highlight": "latest",
+        "@taze-editor/taze-ui-balloon-toolbar": "latest",
+        "@tazitinov/test-npm-package": "latest",
+        "@tazor-dev/sdk": "latest",
+        "@tazor-dev/tazor-toolkit": "latest"
+    }
+}

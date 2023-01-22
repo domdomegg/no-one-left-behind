@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-zhai",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zhai": "latest",
+        "zhai-cli": "latest",
+        "zhai-cli-lib": "latest",
+        "zhai-common-table": "latest",
+        "zhai-ui": "latest",
+        "zhaihaohuiweb": "latest",
+        "zhaihaohuiweb02": "latest",
+        "zhaihuoxing": "latest",
+        "zhaimengfei1234": "latest",
+        "zhain": "latest",
+        "zhaipengchaotest": "latest",
+        "zhairen-yuehui-zhinan": "latest",
+        "zhaishuai-ui": "latest",
+        "zhaishuaipeng": "latest",
+        "zhaitianye_textnode": "latest",
+        "zhaixiang___demo": "latest"
+    }
+}

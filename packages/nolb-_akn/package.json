@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_akn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@akna/gaia-ui": "latest",
+        "@aknakos/resizable-div": "latest",
+        "@aknakos/sveltekit-danfojs": "latest",
+        "@aknakos/sveltekit-danfojs-table": "latest",
+        "@aknakos/sveltekit-plotly": "latest",
+        "@aknakos/sveltekit-resizable-div": "latest",
+        "@aknakos/sveltekit-tree-hierarchy": "latest",
+        "@aknight0/electron-winstaller": "latest"
+    }
+}

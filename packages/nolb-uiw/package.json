@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-uiw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "uiw": "latest",
+        "uiw-admin": "latest",
+        "uiw-iconfont": "latest",
+        "uiw-input-number": "latest",
+        "uiw-react-monacoeditor-v2": "latest",
+        "uiw4nk3r": "latest",
+        "uiw4nk3r1": "latest",
+        "uiw4nker": "latest",
+        "uiwarden": "latest",
+        "uiwc": "latest",
+        "uiwebpacktool": "latest",
+        "uiwheel-0-1": "latest",
+        "uiwidgets": "latest",
+        "uiwiwidget": "latest",
+        "uiwjs": "latest",
+        "uiwone": "latest",
+        "uiworkqueue": "latest",
+        "uiworkspace": "latest",
+        "uiwu": "latest"
+    }
+}

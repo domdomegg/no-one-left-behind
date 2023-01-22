@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-htf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htf-519q": "latest",
+        "htf-520": "latest",
+        "htf-cli": "latest",
+        "htf-test": "latest",
+        "htf-tools": "latest",
+        "htf-viewer": "latest",
+        "htf-vue-cli": "latest",
+        "htf_518": "latest",
+        "htfds": "latest",
+        "htfe": "latest",
+        "htfe-uni": "latest",
+        "htfilter": "latest",
+        "htfloml": "latest",
+        "htflow": "latest",
+        "htform": "latest",
+        "htfs": "latest",
+        "htfso": "latest"
+    }
+}

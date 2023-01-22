@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_sok",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sok-js/sok": "latest",
+        "@sokaina/mediaplayer": "latest",
+        "@sokaina/mediaplayer-platzi": "latest",
+        "@sokardys/check-env": "latest",
+        "@sokartema/gitbook-plugin-example": "latest",
+        "@soker90/finper-models": "latest",
+        "@soker90/finper-types": "latest",
+        "@soker90/react-mui-table": "latest",
+        "@soketi/echo-server": "latest",
+        "@soketi/pws": "latest",
+        "@soketi/soketi": "latest",
+        "@soketi/soketi-js": "latest",
+        "@sokhadze/alert": "latest",
+        "@sokhadze/payze-js": "latest",
+        "@sokheng/test-c4k": "latest",
+        "@sokiche/reset.css": "latest",
+        "@sokigofreddie/mui-rte": "latest",
+        "@sokkuri/api": "latest",
+        "@sokkuri/common": "latest",
+        "@sokkuri/eslint-config": "latest",
+        "@sokol.biba/kafkaclient": "latest",
+        "@sokolabs/graphql-fields-list": "latest",
+        "@sokratis/passport-linkedin-oauth2": "latest"
+    }
+}

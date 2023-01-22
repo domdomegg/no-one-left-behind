@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-react-native-sd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-sdaf-test": "latest",
+        "react-native-sdj-widgets": "latest",
+        "react-native-sdk": "latest",
+        "react-native-sdk-3": "latest",
+        "react-native-sdk-android-jaalee": "latest",
+        "react-native-sdk-appsflyer": "latest",
+        "react-native-sdk-card-payment": "latest",
+        "react-native-sdk-demo": "latest",
+        "react-native-sdk-hashing": "latest",
+        "react-native-sdk-install": "latest",
+        "react-native-sdk-iuviprofiler": "latest",
+        "react-native-sdk-iuviprofiler-dev": "latest",
+        "react-native-sdk-library": "latest",
+        "react-native-sdk-payment": "latest",
+        "react-native-sdk-share": "latest",
+        "react-native-sdk-test": "latest",
+        "react-native-sdks": "latest",
+        "react-native-sdkx": "latest",
+        "react-native-sdr": "latest",
+        "react-native-sdui": "latest",
+        "react-native-sdwebimage": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-nodb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodb": "latest",
+        "nodb-accounts": "latest",
+        "nodb-js": "latest",
+        "nodber": "latest",
+        "nodbg": "latest",
+        "nodbot": "latest",
+        "nodbox": "latest",
+        "nodbstore": "latest",
+        "nodbstore-fs": "latest",
+        "nodbstore-gist": "latest",
+        "nodbsync": "latest",
+        "nodbus": "latest",
+        "nodbus-plus": "latest"
+    }
+}

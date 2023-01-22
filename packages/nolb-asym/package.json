@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-asym",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "asyma": "latest",
+        "asymc": "latest",
+        "asymetrical-connections-dectect": "latest",
+        "asymmetric": "latest",
+        "asymmetric-crypto": "latest",
+        "asymmetric-diffie-hellman": "latest",
+        "asymmetric-encryption": "latest",
+        "asymmetric-io-mutex": "latest",
+        "asymmetrical-signing": "latest",
+        "asymp": "latest",
+        "asymptotic-analyzer": "latest",
+        "asymsecurefile": "latest",
+        "asymtotp": "latest"
+    }
+}

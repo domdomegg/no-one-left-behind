@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-feh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "feh": "latest",
+        "feh-battles": "latest",
+        "feh_tool": "latest",
+        "fehelper-format-url": "latest",
+        "fehelper-json-diff-vue": "latest",
+        "fehint": "latest",
+        "fehipe-module-example": "latest",
+        "fehipe-npm-module-example": "latest",
+        "fehlerfabrik-api": "latest"
+    }
+}

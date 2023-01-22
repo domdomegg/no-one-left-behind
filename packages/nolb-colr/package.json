@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-colr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "colr": "latest",
+        "colr-convert": "latest",
+        "colresizable": "latest",
+        "colresizable-egis": "latest",
+        "colresizable-nodeps": "latest",
+        "colresize": "latest",
+        "colrizr": "latest",
+        "colro-name": "latest",
+        "colrow": "latest",
+        "colrs": "latest",
+        "colrz": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-meds",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "meds": "latest",
+        "medseek-config": "latest",
+        "medseek-util-microservices": "latest",
+        "medsinc-ai-treepredict": "latest",
+        "medsupp-quoter": "latest",
+        "medsurf-draw": "latest"
+    }
+}

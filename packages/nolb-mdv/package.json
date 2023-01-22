@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-mdv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mdv": "latest",
+        "mdv-dynamic-form": "latest",
+        "mdv-lib": "latest",
+        "mdv-lines": "latest",
+        "mdv-loader": "latest",
+        "mdv-workflow-client-types": "latest",
+        "mdv10": "latest",
+        "mdva-cli": "latest",
+        "mdvariables": "latest",
+        "mdvars": "latest",
+        "mdview": "latest",
+        "mdview-react": "latest",
+        "mdviewer": "latest",
+        "mdviewernorth": "latest",
+        "mdviewerofchen": "latest",
+        "mdviewers": "latest",
+        "mdvl-map": "latest",
+        "mdvue": "latest",
+        "mdvueify": "latest",
+        "mdvui": "latest"
+    }
+}

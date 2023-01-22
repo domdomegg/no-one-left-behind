@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-http-i",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "http-i18n": "latest",
+        "http-ie-helper": "latest",
+        "http-image-size": "latest",
+        "http-image-size-promise": "latest",
+        "http-import": "latest",
+        "http-incoming": "latest",
+        "http-infer": "latest",
+        "http-info": "latest",
+        "http-insert-select-update-delete": "latest",
+        "http-inspector": "latest",
+        "http-inspector-ui": "latest",
+        "http-instance": "latest",
+        "http-instance-request": "latest",
+        "http-intercept": "latest",
+        "http-interceptor": "latest",
+        "http-interceptors": "latest",
+        "http-interfaces": "latest",
+        "http-iterator": "latest"
+    }
+}

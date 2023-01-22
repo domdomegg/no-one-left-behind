@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_fa-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fa-fa/lidar-template": "latest",
+        "@fa-repo/base-react": "latest",
+        "@fa-repo/chrome-extension-utils": "latest",
+        "@fa-repo/create-shard-docs": "latest",
+        "@fa-repo/js-utils": "latest",
+        "@fa-repo/mobile-dev-environment": "latest",
+        "@fa-repo/react-components": "latest",
+        "@fa-repo/shard-docs": "latest",
+        "@fa-repo/undo-redo": "latest",
+        "@fa-talent/project-base": "latest",
+        "@fa-ticketing/common": "latest"
+    }
+}

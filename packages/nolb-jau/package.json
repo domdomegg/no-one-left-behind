@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-jau",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jau": "latest",
+        "jaudu": "latest",
+        "jaul": "latest",
+        "jaume-bresco-test-component": "latest",
+        "jaune": "latest",
+        "jaune-engine": "latest",
+        "jaune-env": "latest",
+        "jaune-fs": "latest",
+        "jaune-tasks": "latest",
+        "jaune-util": "latest",
+        "jaune-web": "latest",
+        "jaunt": "latest",
+        "jaunter": "latest",
+        "jaunty": "latest",
+        "jaunty-sg": "latest",
+        "jaunty-ssl": "latest",
+        "jaup": "latest",
+        "jaus": "latest",
+        "jausby-nodejs1": "latest",
+        "jauth": "latest",
+        "jautocalc": "latest",
+        "jautochecklist": "latest"
+    }
+}

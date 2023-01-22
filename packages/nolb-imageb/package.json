@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-imageb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "imagebase64-regex": "latest",
+        "imagebc": "latest",
+        "imageboss-js": "latest",
+        "imagebox": "latest",
+        "imagebox-js": "latest",
+        "imagebox-rm": "latest",
+        "imageboy": "latest",
+        "imagebuddy": "latest",
+        "imagebuffer": "latest"
+    }
+}

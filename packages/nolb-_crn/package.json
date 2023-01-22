@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_crn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@crnaidu15/publish1": "latest",
+        "@crnk/angular-ngrx": "latest",
+        "@crnvl96/eslint-config": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-aih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aih": "latest",
+        "aih-codegen": "latest",
+        "aih-dynamodb": "latest",
+        "aih-graphql-playground-html": "latest",
+        "aih-graphql-playground-middleware-lambda": "latest",
+        "aih5-vue": "latest",
+        "aihaikuan74": "latest",
+        "aihao": "latest",
+        "aihara-world": "latest",
+        "aihara-world2": "latest",
+        "aihowes": "latest",
+        "aihtml": "latest",
+        "aihub": "latest"
+    }
+}

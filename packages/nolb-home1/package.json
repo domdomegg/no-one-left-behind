@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-home1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "home1": "latest",
+        "home10": "latest",
+        "home1710a": "latest",
+        "home1710as": "latest"
+    }
+}

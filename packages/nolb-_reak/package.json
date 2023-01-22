@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_reak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reaktivate/socket-transport": "latest",
+        "@reaktivo/apollo-server-cloud-functions": "latest",
+        "@reaktivo/async-flow": "latest",
+        "@reaktivo/babel-plugin-rkx": "latest",
+        "@reaktivo/convert-to-property-controls": "latest",
+        "@reaktivo/declare": "latest",
+        "@reaktivo/nano-graphql-server": "latest",
+        "@reaktivo/react-component": "latest",
+        "@reaktivo/rq": "latest",
+        "@reaktivo/spy-on-prop-types": "latest",
+        "@reaktor-education/sanity-export-diff": "latest",
+        "@reaktor-internal/authorization-client": "latest",
+        "@reaktor/express-gauth": "latest",
+        "@reaktor/react-native-skeleton-content": "latest",
+        "@reaktor/react-pikaday-component": "latest"
+    }
+}

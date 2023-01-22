@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-vids",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vids": "latest",
+        "vids-plus-ads": "latest",
+        "vidshow": "latest",
+        "vidsnjkvnf": "latest",
+        "vidsrv-upload": "latest",
+        "vidstack": "latest",
+        "vidstige91-frame-print": "latest",
+        "vidstreaming-scraper": "latest",
+        "vidstreaming-scrapper": "latest"
+    }
+}

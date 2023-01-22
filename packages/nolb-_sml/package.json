@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_sml",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@smlab/eslint-config": "latest",
+        "@smlab/smlab-csm-simple-design-system": "latest",
+        "@smlab/smlab-default-simple-design-system": "latest",
+        "@smlab/smlab-eslint-config": "latest",
+        "@smlab/smlab-test-core": "latest",
+        "@smldev/cd": "latest"
+    }
+}

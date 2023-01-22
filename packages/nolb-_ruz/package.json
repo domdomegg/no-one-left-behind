@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_ruz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ruzz/apollo-assets": "latest",
+        "@ruzz/graphql-directive-auth": "latest",
+        "@ruzz/graphql-directive-constraint": "latest",
+        "@ruzz/graphql-service-client": "latest",
+        "@ruzz/mercurio-service-logger": "latest",
+        "@ruzz/service-logger": "latest",
+        "@ruzz/service-utils": "latest"
+    }
+}

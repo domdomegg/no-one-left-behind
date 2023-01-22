@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-sdt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sdt": "latest",
+        "sdt-cli": "latest",
+        "sdt-component": "latest",
+        "sdt-lib": "latest",
+        "sdt-react-form": "latest",
+        "sdt-spin": "latest",
+        "sdt3": "latest",
+        "sdtc": "latest",
+        "sdtest2020": "latest",
+        "sdtest20202": "latest",
+        "sdtestpackage": "latest",
+        "sdtr": "latest",
+        "sdtree": "latest",
+        "sdtyn-core": "latest"
+    }
+}

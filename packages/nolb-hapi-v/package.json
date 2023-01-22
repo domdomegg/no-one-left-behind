@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-hapi-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hapi-v20-oauth2-server-plugin": "latest",
+        "hapi-validation-question": "latest",
+        "hapi-vary-accept": "latest",
+        "hapi-version": "latest",
+        "hapi-version-prereq": "latest",
+        "hapi-version-route": "latest",
+        "hapi-version-status": "latest",
+        "hapi-versioning": "latest",
+        "hapi-versions": "latest",
+        "hapi-video": "latest",
+        "hapi-video-admin": "latest",
+        "hapi-video-encoder": "latest",
+        "hapi-view-context": "latest",
+        "hapi-view-models": "latest",
+        "hapi-views": "latest",
+        "hapi-views-react": "latest",
+        "hapi-viper": "latest",
+        "hapi-viper-mongoose": "latest",
+        "hapi-vkminiapps-auth": "latest",
+        "hapi-vtree": "latest",
+        "hapi-vue": "latest"
+    }
+}

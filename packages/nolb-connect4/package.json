@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-connect4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "connect4": "latest",
+        "connect4-ai": "latest",
+        "connect4-api": "latest",
+        "connect4-bot": "latest",
+        "connect4-check-win": "latest",
+        "connect4-checker": "latest",
+        "connect4-discord": "latest",
+        "connect4-engine": "latest",
+        "connect4-lib": "latest",
+        "connect4-web": "latest"
+    }
+}

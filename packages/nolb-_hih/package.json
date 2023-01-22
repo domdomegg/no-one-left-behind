@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_hih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hihaiulibs/common": "latest",
+        "@hiherto-elements/assert": "latest",
+        "@hiherto-elements/diff": "latest",
+        "@hiherto-elements/esi": "latest",
+        "@hiherto-elements/game-of-life": "latest",
+        "@hiherto-elements/gherkin": "latest",
+        "@hiherto-elements/natural": "latest",
+        "@hiherto-elements/punycode": "latest",
+        "@hiherto-elements/querystring": "latest",
+        "@hiherto-elements/test": "latest",
+        "@hiherto-elements/url": "latest",
+        "@hihihera/color": "latest",
+        "@hihihera/shared": "latest"
+    }
+}

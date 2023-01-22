@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-pi2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pi2c-rest-api": "latest",
+        "pi2c-serial": "latest",
+        "pi2homeseer": "latest",
+        "pi2mqtt": "latest"
+    }
+}

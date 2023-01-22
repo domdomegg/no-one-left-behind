@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-compou",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "CompoundSignal": "latest",
+        "compound": "latest",
+        "compound-binary-file-js": "latest",
+        "compound-calc": "latest",
+        "compound-callback-subtree": "latest",
+        "compound-cheng": "latest",
+        "compound-drag-and-drop": "latest",
+        "compound-ex4": "latest",
+        "compound-finance-cli": "latest",
+        "compound-graph": "latest",
+        "compound-interest-calc": "latest",
+        "compound-open-oracle": "latest",
+        "compound-parser": "latest",
+        "compound-pooling": "latest",
+        "compound-protocol-kakapo911": "latest",
+        "compound-signal": "latest",
+        "compound-sort": "latest",
+        "compound-subject": "latest",
+        "compound-util": "latest",
+        "compound-word": "latest",
+        "compound_fix": "latest",
+        "compounder-lib": "latest",
+        "compounding": "latest",
+        "compoundjs": "latest",
+        "compoundjs-device-detective": "latest",
+        "compoundjs-ex4-sequelize": "latest",
+        "compounds": "latest"
+    }
+}

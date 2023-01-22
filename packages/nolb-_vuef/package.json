@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_vuef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vuefire/email-auth": "latest",
+        "@vuefire/vuefire": "latest",
+        "@vueform/multiselect": "latest",
+        "@vueform/slider": "latest",
+        "@vueform/toggle": "latest",
+        "@vueform/vueform": "latest",
+        "@vuefront/checkout-app": "latest",
+        "@vuefront/cli": "latest",
+        "@vuefront/opencart-theme": "latest",
+        "@vuefront/theme-opencart": "latest",
+        "@vuefront/theme-wordpress": "latest",
+        "@vuefront/wordpress-theme": "latest"
+    }
+}

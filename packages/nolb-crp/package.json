@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-crp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "crp": "latest",
+        "crp-account-client": "latest",
+        "crp-dev-utils": "latest",
+        "crp-genetic": "latest",
+        "crp-job-client": "latest",
+        "crp-las-vegas-progress-tracker": "latest",
+        "crp-raytracer": "latest",
+        "crp-reagenzglas": "latest",
+        "crp-stream-client": "latest",
+        "crp-ui": "latest",
+        "crp-website-client": "latest",
+        "crpa-http-ajax": "latest",
+        "crpack": "latest",
+        "crpackage": "latest",
+        "crpc": "latest",
+        "crpcg-yqcloud-front-boot": "latest",
+        "crpcg-yqcloud-utils": "latest",
+        "crpdf": "latest",
+        "crpdo": "latest",
+        "crpm": "latest",
+        "crpml": "latest",
+        "crpw-ui-kit": "latest",
+        "crpyto": "latest",
+        "crpyto-js": "latest",
+        "crpyto.random": "latest"
+    }
+}

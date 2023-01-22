@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-scr_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "scr_buttons": "latest",
+        "scr_qzh_11as": "latest",
+        "scr_qzh_cli": "latest",
+        "scr_qzh_lists": "latest"
+    }
+}

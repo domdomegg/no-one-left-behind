@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-utk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "utk": "latest",
+        "utkal": "latest",
+        "utkal-frame-print": "latest",
+        "utkarsh-mymath": "latest",
+        "utkarsh_random_number_generator": "latest",
+        "utkarsha-karade-uk": "latest",
+        "utkarsha-package-demo910": "latest",
+        "utkarshmodule": "latest",
+        "utkds-framework-mat": "latest",
+        "utksds-framework": "latest"
+    }
+}

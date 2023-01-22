@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_thb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@thblt-thlgn/call-me-thread": "latest",
+        "@thblt-thlgn/omdb": "latest",
+        "@thbs41/osu-client": "latest",
+        "@thbs41/osu-http": "latest",
+        "@thbx/eslint-config-typescript": "latest",
+        "@thbx/prettier-config": "latest",
+        "@thbx/tsconfig": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_cix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cixjs/cli": "latest",
+        "@cixjs/create": "latest",
+        "@cixjs/create-temp": "latest"
+    }
+}

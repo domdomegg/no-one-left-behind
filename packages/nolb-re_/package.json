@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-re_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "re.bowl": "latest",
+        "re.d.react-motion": "latest",
+        "re.d.react-router-transition": "latest",
+        "re.js": "latest",
+        "re.order": "latest",
+        "re.places.js": "latest",
+        "re__gao": "latest",
+        "re_demo01": "latest",
+        "re_dominator": "latest",
+        "re_expand": "latest",
+        "re_kao_wmy": "latest"
+    }
+}

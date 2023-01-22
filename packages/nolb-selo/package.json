@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-selo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "selo": "latest",
+        "selog": "latest",
+        "seloin": "latest",
+        "seloin-npm-publish-test": "latest",
+        "selous": "latest"
+    }
+}

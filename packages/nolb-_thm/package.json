@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_thm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@thm-common/error": "latest",
+        "@thmarinho/testing": "latest",
+        "@thmarx/headless-js": "latest",
+        "@thmon/addition": "latest",
+        "@thmoon/templates": "latest",
+        "@thmsdmcrt_/libraf": "latest",
+        "@thmtickets/common": "latest"
+    }
+}

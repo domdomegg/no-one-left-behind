@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-sef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sef": "latest",
+        "sefa-vue-npm-test-2": "latest",
+        "seface-kit": "latest",
+        "sefaemrahoglu-npm-test": "latest",
+        "sefaemrahoglu-perf-analytics": "latest",
+        "sefas-my-card": "latest",
+        "sefaz-communicator": "latest",
+        "sefaz-mocked-service": "latest",
+        "seff-hworld": "latest",
+        "seffkfio": "latest",
+        "sefgr4156": "latest",
+        "sefi": "latest",
+        "sefind": "latest",
+        "sefinpmtest": "latest",
+        "sefira-vue-ui": "latest",
+        "sefl-config": "latest",
+        "sefl-config-script": "latest",
+        "sefmail": "latest",
+        "sefon": "latest",
+        "sefon-gl-chart-line": "latest",
+        "sefon_errortips": "latest",
+        "sefon_errtooltip": "latest",
+        "sefws": "latest"
+    }
+}

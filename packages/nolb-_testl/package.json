@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_testl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@testla/screenplay": "latest",
+        "@testla/screenplay-playwright": "latest",
+        "@testlio/cli": "latest",
+        "@testlio/cloudsearch-query-builder": "latest",
+        "@testlio/eslint-config-services": "latest",
+        "@testlio/eslint-config-testlio-frontend": "latest",
+        "@testlwc/test-lwc-19": "latest"
+    }
+}

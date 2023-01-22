@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_codek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@codekage/model-generator": "latest",
+        "@codekalimi/kalimi_stripe": "latest",
+        "@codekeyz/ng-atmbank": "latest",
+        "@codekilo/nmea0183-iec61121-450-server": "latest",
+        "@codekilo/regexp-jexl-reader": "latest",
+        "@codekilo/signalk-cloud-transport": "latest",
+        "@codekilo/signalk-iso19848": "latest",
+        "@codekilo/signalk-modbus-client": "latest",
+        "@codekilo/signalk-notify": "latest",
+        "@codekilo/signalk-trigger-event": "latest",
+        "@codekilo/signalk-twilio-notifications": "latest",
+        "@codekin/deoxy-component-library": "latest",
+        "@codekraft-studio/react-justified-layout": "latest",
+        "@codekraft-studio/vue-animated": "latest",
+        "@codekraft-studio/vue-autoscroll": "latest",
+        "@codekraft-studio/vue-calendar": "latest",
+        "@codekraft-studio/vue-context-menu": "latest",
+        "@codekraft-studio/vue-convert-units": "latest",
+        "@codekraft-studio/vue-google-map": "latest",
+        "@codekraft-studio/vue-lodash": "latest",
+        "@codekraft-studio/vue-record": "latest",
+        "@codekraft-studio/vue-speech": "latest"
+    }
+}

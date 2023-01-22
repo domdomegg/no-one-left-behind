@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-evp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "evp": "latest",
+        "evp-channel-ecp": "latest",
+        "evp-mat-video": "latest",
+        "evp_bytestokey": "latest",
+        "evproxy": "latest"
+    }
+}

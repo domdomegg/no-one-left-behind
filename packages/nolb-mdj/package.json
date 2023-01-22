@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-mdj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mdj": "latest",
+        "mdj-h5-vue-ani": "latest",
+        "mdj-react-bigbutton": "latest",
+        "mdj57": "latest",
+        "mdj_ui": "latest",
+        "mdjavadoc": "latest",
+        "mdjavadoc-api": "latest",
+        "mdjfs-face-api": "latest",
+        "mdjotter": "latest",
+        "mdjotter-api": "latest",
+        "mdjs": "latest",
+        "mdjs.editor": "latest",
+        "mdjson": "latest",
+        "mdjson-schemas": "latest",
+        "mdjsx": "latest",
+        "mdjsx-loader": "latest"
+    }
+}

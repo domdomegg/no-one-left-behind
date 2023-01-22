@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-epy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "epy": "latest",
+        "epy-components": "latest",
+        "epy-scss": "latest",
+        "epy-styles": "latest",
+        "epyc": "latest",
+        "epyc-basic-auth": "latest",
+        "epyc-oauth": "latest",
+        "epysa-bulma": "latest",
+        "epysa-data": "latest",
+        "epysa-upload": "latest",
+        "epyt": "latest"
+    }
+}

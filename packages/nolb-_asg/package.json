@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_asg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@asgardeo/auth-angular": "latest",
+        "@asgardeo/auth-express": "latest",
+        "@asgardeo/auth-js": "latest",
+        "@asgardeo/auth-node": "latest",
+        "@asgardeo/auth-react": "latest",
+        "@asgardeo/auth-spa": "latest",
+        "@asgardeo/token-exchange-plugin": "latest",
+        "@asgardex-clients/binance": "latest",
+        "@asgardex-clients/core": "latest",
+        "@asgardio/oidc-js": "latest",
+        "@asgarrrr/ecoledirecteapi": "latest",
+        "@asgerf/dts-tree-sitter": "latest",
+        "@asgerf/strongcli": "latest",
+        "@asgernielsen/authentication": "latest",
+        "@asgernielsen/password-authentication": "latest",
+        "@asgernielsen/web-audio": "latest",
+        "@asgernielsen/web-image": "latest",
+        "@asgettickets/common": "latest",
+        "@asghaier/location-did-resolver": "latest",
+        "@asgrandom/common": "latest",
+        "@asgtickets/common": "latest"
+    }
+}

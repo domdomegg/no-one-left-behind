@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-zhl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zhl-antv": "latest",
+        "zhl-api-test": "latest",
+        "zhl-checkutil": "latest",
+        "zhl-design-vue": "latest",
+        "zhl-epubjs": "latest",
+        "zhl-kityminder": "latest",
+        "zhl-react-util": "latest",
+        "zhl-tool": "latest",
+        "zhl-vue-cli": "latest",
+        "zhl-wisdom-cli": "latest",
+        "zhl1323": "latest",
+        "zhlib-test": "latest",
+        "zhlint": "latest",
+        "zhljen-awesome-nodejs-module": "latest",
+        "zhlog": "latest",
+        "zhlsdk": "latest",
+        "zhlserver": "latest",
+        "zhlsum": "latest",
+        "zhlt-axios": "latest",
+        "zhlt-utils": "latest",
+        "zhlt-vue-loading": "latest",
+        "zhlx-vui": "latest"
+    }
+}

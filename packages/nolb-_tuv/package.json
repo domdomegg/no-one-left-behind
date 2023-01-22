@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_tuv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tuval/cg": "latest",
+        "@tuval/components-buttons": "latest",
+        "@tuval/components-calendars": "latest",
+        "@tuval/components-charts": "latest",
+        "@tuval/components-codeeditor": "latest",
+        "@tuval/components-compression": "latest",
+        "@tuval/components-core": "latest",
+        "@tuval/components-data": "latest",
+        "@tuval/components-diagram": "latest",
+        "@tuval/components-dropdowns": "latest",
+        "@tuval/components-excelexport": "latest",
+        "@tuval/components-filemanager": "latest",
+        "@tuval/components-fileutils": "latest",
+        "@tuval/components-grids": "latest",
+        "@tuval/components-inputs": "latest",
+        "@tuval/components-layouts": "latest",
+        "@tuval/components-lists": "latest",
+        "@tuval/components-navigations": "latest",
+        "@tuval/components-pdfexport": "latest",
+        "@tuval/components-popups": "latest",
+        "@tuval/components-query-builder": "latest",
+        "@tuval/components-splitbuttons": "latest",
+        "@tuval/components-spreadsheet": "latest",
+        "@tuval/components-svgbase": "latest",
+        "@tuval/core": "latest",
+        "@tuval/forms": "latest",
+        "@tuval/graphics": "latest",
+        "@tuvm/simple-math": "latest"
+    }
+}

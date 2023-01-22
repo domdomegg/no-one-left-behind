@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_aly",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alya-mirror/asm-analog-clock-addon": "latest",
+        "@alya-mirror/asm-dasboard-addon": "latest",
+        "@alya-mirror/asm-date-time": "latest",
+        "@alya-mirror/asm-google-images-addon": "latest",
+        "@alya-mirror/asm-youtube-addon": "latest",
+        "@alyen/hello-wasm": "latest",
+        "@alyen/hello-wasm-sample": "latest",
+        "@alyle/angular-prerender": "latest",
+        "@alyle/ui": "latest",
+        "@alym/dialogsystem": "latest",
+        "@alym/gmap": "latest",
+        "@alyonka9905/cwp-22-1": "latest",
+        "@alyrik/react-city-weather-report-widget": "latest",
+        "@alysoncp/lotide": "latest",
+        "@alyssalrd/lotide": "latest",
+        "@alyssonggs/portal-events-sdk": "latest",
+        "@alyx/vue-moonscape": "latest",
+        "@alyxsqrd/poppinss-utils": "latest",
+        "@alyzenpublic/craco": "latest",
+        "@alyzenpublic/react-keyed-file-browser": "latest"
+    }
+}

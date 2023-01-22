@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-dym",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dym": "latest",
+        "dym-newapps": "latest",
+        "dym-ui": "latest",
+        "dym_updater_app": "latest",
+        "dym_utile_test": "latest",
+        "dyma-lib-5": "latest",
+        "dyma-lib-alteis-fquinio": "latest",
+        "dyma-lib3": "latest",
+        "dymamic-form-graphql": "latest",
+        "dymanic-rule-runner": "latest",
+        "dyme": "latest",
+        "dymension": "latest",
+        "dymin-node-study": "latest",
+        "dymo": "latest",
+        "dymo-cli": "latest",
+        "dymo-connect": "latest",
+        "dymo-core": "latest",
+        "dymo-generator": "latest",
+        "dymo-js-sdk": "latest",
+        "dymo-player": "latest",
+        "dymo-scale": "latest",
+        "dymock": "latest",
+        "dymojs": "latest"
+    }
+}

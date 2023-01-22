@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-sth",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sth": "latest",
+        "sth-cli": "latest",
+        "sth-good-dagre-foad": "latest",
+        "sth-qrcode": "latest",
+        "sth-react-audio-recorder": "latest",
+        "sth-test-cli": "latest",
+        "sth-ts": "latest",
+        "sthcli-one": "latest",
+        "sthe-print": "latest",
+        "sthelper": "latest",
+        "stheme": "latest",
+        "sthemer": "latest",
+        "sthima-native": "latest",
+        "sthjs": "latest",
+        "sthjs-wrapper": "latest",
+        "sthl": "latest",
+        "stho-game-engine": "latest",
+        "sthore": "latest",
+        "sthq-last-map": "latest",
+        "sthq-map": "latest",
+        "sthree": "latest",
+        "sthree-js": "latest",
+        "sthree-sandbox": "latest",
+        "stht-frame-print": "latest",
+        "sthua": "latest",
+        "sthwrong": "latest"
+    }
+}

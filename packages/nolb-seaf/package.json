@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-seaf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "seafile": "latest",
+        "seafile-api": "latest",
+        "seafile-js": "latest",
+        "seafile-js-song": "latest",
+        "seafile-ui": "latest",
+        "seafish-http-proxy-meteor": "latest",
+        "seafish-kue": "latest",
+        "seafoam": "latest",
+        "seafox": "latest",
+        "seafret": "latest"
+    }
+}

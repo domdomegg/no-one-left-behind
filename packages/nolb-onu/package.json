@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-onu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "onu-ui": "latest",
+        "onucss": "latest",
+        "onudeleteque": "latest",
+        "onug-csnf": "latest",
+        "onui": "latest",
+        "onuii-time-table": "latest",
+        "onuix": "latest",
+        "onuobjhelperclass": "latest",
+        "onur": "latest",
+        "onur.js": "latest",
+        "onurdeneme5734": "latest",
+        "onurix-plugin-notification": "latest",
+        "onurravli": "latest",
+        "onurs-testing-module": "latest",
+        "onus": "latest",
+        "onus-content": "latest",
+        "onus-elements": "latest",
+        "onus-loader": "latest",
+        "onus-meta": "latest",
+        "onus-router": "latest",
+        "onus-style": "latest",
+        "onus-translate": "latest"
+    }
+}

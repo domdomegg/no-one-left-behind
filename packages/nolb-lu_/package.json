@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-lu_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lu.js": "latest",
+        "lu.tool": "latest",
+        "lu__ban": "latest",
+        "lu_api_documentation_template": "latest",
+        "lu_ban": "latest",
+        "lu_liang": "latest"
+    }
+}

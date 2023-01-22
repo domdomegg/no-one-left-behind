@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-xiv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "xiv": "latest",
+        "xiv-aws-sdk": "latest",
+        "xiv-azure-sdk": "latest",
+        "xiv-character-cards": "latest",
+        "xiv-companion-js": "latest",
+        "xiv-core-sdk": "latest",
+        "xiv-gcp-sdk": "latest",
+        "xiv-js-sdk": "latest",
+        "xiv-packet": "latest",
+        "xiv-sdk": "latest",
+        "xivapi-js": "latest",
+        "xivcord": "latest",
+        "xive": "latest",
+        "xively": "latest",
+        "xively-kinesis-bridge": "latest",
+        "xivic-angular-editor-ngx-color-picker": "latest",
+        "xiviews": "latest",
+        "xivistudios": "latest"
+    }
+}

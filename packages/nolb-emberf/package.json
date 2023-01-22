@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-emberf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emberfied-components": "latest",
+        "emberfire": "latest",
+        "emberfire-account": "latest",
+        "emberfire-chat": "latest",
+        "emberfire-exp": "latest",
+        "emberfire-phone": "latest",
+        "emberfire-phone-cordova": "latest",
+        "emberfire-utils": "latest",
+        "emberforts": "latest"
+    }
+}

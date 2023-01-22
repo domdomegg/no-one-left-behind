@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-tsy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tsy": "latest",
+        "tsy-client-shared": "latest",
+        "tsy-colors-project": "latest",
+        "tsy_num_1": "latest",
+        "tsy_num_2": "latest",
+        "tsy_shopeelize": "latest",
+        "tsy_sum_1": "latest",
+        "tsy_sum_2": "latest",
+        "tsy_sum_3": "latest",
+        "tsy_sum_5": "latest",
+        "tsy_sum_8": "latest",
+        "tsy_sum_99": "latest",
+        "tsy_tools_1": "latest",
+        "tsyjpne": "latest",
+        "tsync": "latest",
+        "tsyringe": "latest",
+        "tsyringe-react": "latest",
+        "tsyringex": "latest",
+        "tsys": "latest",
+        "tsys-compo": "latest",
+        "tsys-connector-prodio": "latest",
+        "tsys-ng-libcom-pqit-eaker": "latest",
+        "tsyvue": "latest"
+    }
+}

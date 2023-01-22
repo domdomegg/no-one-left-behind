@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_nej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nejcm/configs": "latest",
+        "@nejcm/docz-theme-extended": "latest",
+        "@nejcm/js-helpers": "latest",
+        "@nejcm/js-library-boilerplate": "latest",
+        "@nejcm/react-boilerplate": "latest",
+        "@nejcm/react-image": "latest",
+        "@nejcm/react-image-emotion": "latest",
+        "@nejcm/react-skeleton": "latest",
+        "@nejcm/react-skeleton-emotion": "latest",
+        "@nejcm/react-socks": "latest",
+        "@nejcm/react-use": "latest",
+        "@nejcm/react-utility-components": "latest",
+        "@nejcm/rollup-plugin-size-snapshot-vite": "latest",
+        "@nejlyg/expo-mixpanel-analytics": "latest",
+        "@nejlyg/expo-mixpanel-analytics-gian": "latest"
+    }
+}

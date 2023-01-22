@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-hexo-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hexo-jagaimotomato-blog-comment": "latest",
+        "hexo-jquery": "latest",
+        "hexo-jsharkc-live2d": "latest",
+        "hexo-juicy-link-preview": "latest",
+        "hexo-jupyter-notebook": "latest",
+        "hexo-jwt": "latest"
+    }
+}

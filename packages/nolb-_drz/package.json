@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_drz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@drzewo/abstract": "latest",
+        "@drzewo/context": "latest",
+        "@drzewo/hierarchy-message-bus": "latest",
+        "@drzewo/koa": "latest",
+        "@drzewo/promise": "latest",
+        "@drzewo/react": "latest",
+        "@drzewo/render": "latest",
+        "@drzewo/slot": "latest",
+        "@drzewo/widget": "latest",
+        "@drzioner/helpers": "latest",
+        "@drzioner/nestjs-paginate": "latest"
+    }
+}

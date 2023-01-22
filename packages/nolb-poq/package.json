@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-poq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "poq": "latest",
+        "poq-elements": "latest",
+        "poq-http": "latest",
+        "poq-typo": "latest",
+        "poquito": "latest",
+        "poquito-mongodb": "latest",
+        "poquito-rabbitmq": "latest",
+        "poquito-restful": "latest"
+    }
+}

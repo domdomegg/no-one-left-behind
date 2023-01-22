@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-worka",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "worka": "latest",
+        "workable": "latest",
+        "workable-components": "latest",
+        "workable-node": "latest",
+        "workadmin": "latest",
+        "workadventure-map-starter-kit": "latest",
+        "workadventure-weather-night-plugin": "latest",
+        "workaholic": "latest",
+        "workaholic-cli": "latest",
+        "workaholic-js": "latest",
+        "workai-design-blocks": "latest",
+        "workaja-base64": "latest",
+        "workamajig": "latest",
+        "workaround": "latest",
+        "workaround-database": "latest",
+        "workarr": "latest",
+        "workativ-assistant-on-prem-agent": "latest",
+        "workativ-automate-on-prem-connect": "latest",
+        "workativ-iam-client": "latest"
+    }
+}

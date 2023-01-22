@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-filw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "filway-cli-components": "latest",
+        "filway-cli-section-plugin": "latest",
+        "filway-cli-template-custom-vue3": "latest",
+        "filway-cli-template-evajs-start": "latest",
+        "filway-cli-template-lego-components": "latest",
+        "filway-cli-template-page-custom": "latest",
+        "filway-cli-template-page-vue3": "latest",
+        "filway-cli-template-section-vue": "latest",
+        "filway-cli-template-threejs-start": "latest",
+        "filway-cli-template-vue-element-admin": "latest",
+        "filway-cli-template-vue3": "latest",
+        "filway-cli-template-vue3-ts": "latest",
+        "filway-lego-components": "latest"
+    }
+}

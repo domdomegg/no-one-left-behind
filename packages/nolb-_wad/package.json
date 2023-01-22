@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_wad",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wadackel/sandbox-changesets-bar": "latest",
+        "@wadackel/sandbox-changesets-foo": "latest",
+        "@wadahkode/memories": "latest",
+        "@wadahkode/password-hash": "latest",
+        "@wadahkode/server": "latest",
+        "@wade-cli-dev/core": "latest",
+        "@wade-cli-dev/exec": "latest",
+        "@wade-cli-dev/format-path": "latest",
+        "@wade-cli-dev/get-npm-info": "latest",
+        "@wade-cli-dev/init": "latest",
+        "@wade-cli-dev/log": "latest",
+        "@wade-cli-dev/package": "latest",
+        "@wade-cli-dev/utils": "latest",
+        "@wadehrarshpreet/nbform": "latest",
+        "@wadehrarshpreet/react-loading-skeleton": "latest",
+        "@wadejensen/webpack-bundle-analyzer": "latest",
+        "@wademason/ofx": "latest",
+        "@wadewegner/mocli": "latest",
+        "@wadiwaw/wadiwaw-core": "latest",
+        "@wadiwaw/wadiwaw-snippet": "latest",
+        "@wadk/ad-grid": "latest",
+        "@wadk/components": "latest",
+        "@wadk/core": "latest",
+        "@wadk/icons": "latest",
+        "@wado/lit-store": "latest",
+        "@wadowski/react-hook-use-fetch": "latest"
+    }
+}

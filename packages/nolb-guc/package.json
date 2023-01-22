@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-guc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "guc": "latest",
+        "guc-client": "latest",
+        "gucci": "latest",
+        "gucci-gang": "latest",
+        "guccigetter": "latest",
+        "guccimaticaninator": "latest",
+        "guccojs": "latest",
+        "guchen-test-pkg": "latest",
+        "guchenyang": "latest",
+        "gucj-test-test": "latest",
+        "gucun": "latest",
+        "gucx-alfred-gitlab": "latest",
+        "gucx-alfred-npm": "latest",
+        "gucx-alfred-shortlink": "latest"
+    }
+}

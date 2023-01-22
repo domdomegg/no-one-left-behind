@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-cuf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cuf": "latest",
+        "cuf-babel": "latest",
+        "cuf-know-options": "latest",
+        "cuffeo": "latest",
+        "cuffer-xor": "latest",
+        "cufflink": "latest",
+        "cuffs": "latest"
+    }
+}

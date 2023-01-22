@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-axp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "axp-base": "latest",
+        "axp-mongoose-helper": "latest",
+        "axp-server": "latest",
+        "axp-shared-scripts": "latest",
+        "axp-ts": "latest",
+        "axp-utility-belt": "latest",
+        "axperience": "latest",
+        "axperror_wrapper": "latest",
+        "axpert-monitor": "latest",
+        "axproninjatestdemo": "latest"
+    }
+}

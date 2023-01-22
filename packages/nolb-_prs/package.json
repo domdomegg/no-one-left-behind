@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_prs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@prsanti/lotide": "latest",
+        "@prscx/react-native-richtext": "latest",
+        "@prscx/react-native-whats-new": "latest",
+        "@prsm/arc": "latest",
+        "@prsm/arcdb": "latest",
+        "@prsm/db": "latest",
+        "@prsm/duplex": "latest",
+        "@prsm/grove": "latest",
+        "@prsm/ids": "latest",
+        "@prsm/keepalive-ws": "latest",
+        "@prsm/server": "latest",
+        "@prstbenorg/common": "latest"
+    }
+}

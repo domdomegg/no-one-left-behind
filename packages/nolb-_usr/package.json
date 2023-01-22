@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_usr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@usr-dmo/my-lib": "latest",
+        "@usr-dmo/tingg-ui-crypto-utility": "latest",
+        "@usr42/mercury-parser": "latest",
+        "@usrmx/gatsby-usrmx-theme": "latest"
+    }
+}

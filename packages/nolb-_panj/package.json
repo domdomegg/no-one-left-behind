@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_panj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@panjialinset/example-block": "latest",
+        "@panjiesw/react-live": "latest",
+        "@panjoh/nx-cache-management": "latest",
+        "@panjoh/state-machine": "latest"
+    }
+}

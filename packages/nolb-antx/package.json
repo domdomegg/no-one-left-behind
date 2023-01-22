@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-antx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "antx": "latest",
+        "antx-cli": "latest",
+        "antx-parser": "latest",
+        "antx110": "latest"
+    }
+}

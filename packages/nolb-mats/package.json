@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-mats",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mats": "latest",
+        "mats_example": "latest",
+        "matsample": "latest",
+        "matscow": "latest",
+        "matscript": "latest",
+        "matshel-silly": "latest",
+        "matskui": "latest",
+        "matsnbelts-job-scheduler": "latest",
+        "matssocket": "latest",
+        "matstrap": "latest",
+        "matsu": "latest",
+        "matsumgraph": "latest",
+        "matsuri-hooks": "latest",
+        "matsuri-ui": "latest",
+        "matsvei_balakhonau": "latest",
+        "matsy": "latest",
+        "matsy-src": "latest",
+        "matszoo": "latest"
+    }
+}

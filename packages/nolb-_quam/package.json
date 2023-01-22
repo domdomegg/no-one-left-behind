@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_quam",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@quame/custom-auth-library": "latest",
+        "@quame/signup-library": "latest",
+        "@quamo/sdk": "latest",
+        "@quamolit/phlox-utils": "latest",
+        "@quamolit/quatrefoil-utils": "latest",
+        "@quamolit/touch-control": "latest"
+    }
+}

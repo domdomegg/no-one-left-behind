@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_datafire_z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datafire/zalando": "latest",
+        "@datafire/zappiti": "latest",
+        "@datafire/zenoti": "latest",
+        "@datafire/zoom_us": "latest",
+        "@datafire/zoomconnect": "latest",
+        "@datafire/zuora": "latest"
+    }
+}

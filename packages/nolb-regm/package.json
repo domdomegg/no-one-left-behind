@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-regm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "regmatch": "latest",
+        "regme-gulp-concat": "latest",
+        "regme-gulp-rev-dist-clean": "latest",
+        "regme-masked-input": "latest",
+        "regme-vuetify": "latest",
+        "regme-vuetify-loader": "latest",
+        "regmon": "latest"
+    }
+}

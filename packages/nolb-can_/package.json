@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-can_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "can.base-bc": "latest",
+        "can.base-components": "latest",
+        "can.base-utils": "latest",
+        "can.crm-bc": "latest",
+        "can.crm-components": "latest",
+        "can.crm-utils": "latest",
+        "can.eslint-config": "latest",
+        "can.js": "latest",
+        "can.medical-appt-bc": "latest",
+        "can.medical-appt-components": "latest",
+        "can.medical-appt-utils": "latest",
+        "can.mobile-bc": "latest",
+        "can.mobile-components": "latest",
+        "can.mobile-utils": "latest",
+        "can.pc-bc": "latest",
+        "can.pc-components": "latest",
+        "can.pc-utils": "latest",
+        "can.wxapp-bc": "latest",
+        "can.wxapp-utils": "latest",
+        "can.you.create": "latest",
+        "can_api": "latest",
+        "can_signals": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-emoji_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emoji.css": "latest",
+        "emoji.js": "latest",
+        "emoji.json": "latest",
+        "emoji.module": "latest",
+        "emoji_encoding_decoding": "latest",
+        "emoji_generator_byboshan": "latest",
+        "emoji_letters": "latest",
+        "emoji_name_code_maker_funky": "latest",
+        "emoji_npm_test_bird_mm": "latest",
+        "emoji_to_term": "latest"
+    }
+}

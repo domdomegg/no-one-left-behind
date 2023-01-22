@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_funt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@funteam/config": "latest",
+        "@funteam/frontend-core": "latest",
+        "@funteam/libs": "latest",
+        "@funteam/locale": "latest",
+        "@funteam/redux-saga-manager": "latest",
+        "@funtiwe/udpserver": "latest",
+        "@funtiwe/utils": "latest",
+        "@funtuan/cli": "latest",
+        "@funtuan/utils": "latest",
+        "@funty/funty-canvas": "latest"
+    }
+}

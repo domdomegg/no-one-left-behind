@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_wam",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wammy19/check-dups": "latest",
+        "@wammy19/delete-lines": "latest",
+        "@wammy19/gen-cli-temp": "latest",
+        "@wammy19/invert-renum": "latest",
+        "@wammy19/p5gen": "latest",
+        "@wammy19/pdb-renum": "latest",
+        "@wammy19/sep-pdbs": "latest",
+        "@wamoio/common": "latest",
+        "@wamongo/cli": "latest",
+        "@wamongo/interfaces": "latest",
+        "@wamongo/server": "latest",
+        "@wamongo/web-client": "latest",
+        "@wamoyo/http-server": "latest",
+        "@wamp/thruway.ts": "latest",
+        "@wamtickets/common": "latest"
+    }
+}

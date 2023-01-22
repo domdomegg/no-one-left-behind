@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_voj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vojbarz/ckeditor5-build-vat": "latest",
+        "@vojtaholik/gatsby-theme-simplecast": "latest",
+        "@vojtechlanka/vue-tags-input": "latest",
+        "@vojtechportes/environments": "latest",
+        "@vojtechportes/react-handlebars-renderer": "latest",
+        "@vojtechportes/react-jsx-parser": "latest",
+        "@vojtechportes/react-query-builder": "latest",
+        "@vojtechsimetka/bee-dashboard": "latest",
+        "@vojtechvidra/use-dark-mode": "latest",
+        "@vojto/capacitor-firebase-authentication": "latest"
+    }
+}

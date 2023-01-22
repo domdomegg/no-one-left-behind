@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_mye",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@myeasyfarm/geotiff": "latest",
+        "@myeasyfarm/leaflet-geotiff": "latest",
+        "@myeditorcool/codeeditor": "latest",
+        "@myeditorcool/doceditor": "latest",
+        "@myeditorcool/editors": "latest",
+        "@myeditorcool/ereditor": "latest",
+        "@myeditorcool/imageeditor": "latest",
+        "@myeditorcool/sheeteditor": "latest",
+        "@myeesan/npm-publish": "latest",
+        "@myelastic/indexer": "latest",
+        "@myena/advanced-select": "latest",
+        "@myena/filter-box": "latest",
+        "@myena/vue-table": "latest",
+        "@myena/vue-treeselect": "latest",
+        "@myenai/plugin-server-express": "latest",
+        "@myetherwallet/dai-plugin-mewconnect": "latest",
+        "@myetherwallet/eth-token-balance": "latest",
+        "@myetherwallet/eth2-keystore": "latest",
+        "@myetherwallet/mew-components": "latest",
+        "@myetherwallet/mewconnect-connector": "latest",
+        "@myetherwallet/mewconnect-web-client": "latest",
+        "@myeti/parcel-plugin-twig": "latest"
+    }
+}

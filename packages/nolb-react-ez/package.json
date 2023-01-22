@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-react-ez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-ez-bs-grid": "latest",
+        "react-ez-checkout": "latest",
+        "react-ez-dialog": "latest",
+        "react-ez-dropdown": "latest",
+        "react-ez-emoji": "latest",
+        "react-ez-modal": "latest",
+        "react-ez-panels": "latest",
+        "react-ez-select": "latest",
+        "react-ez-useform": "latest",
+        "react-ezglobalstate-hook": "latest",
+        "react-ezstore": "latest",
+        "react-ezy-form": "latest"
+    }
+}

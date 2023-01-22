@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-wxg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wxg": "latest",
+        "wxg-core": "latest",
+        "wxg-server": "latest",
+        "wxg-tools": "latest",
+        "wxg-weather": "latest",
+        "wxgame": "latest",
+        "wxgame.socket.io": "latest",
+        "wxgamecommon": "latest",
+        "wxgongzhonghao": "latest",
+        "wxgzh-getconfigobj": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-vue-mz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-mzc-button-group": "latest",
+        "vue-mzc-checkbox": "latest",
+        "vue-mzc-counter": "latest",
+        "vue-mzc-loading": "latest",
+        "vue-mzc-modal": "latest",
+        "vue-mzc-pagination": "latest",
+        "vue-mzc-price": "latest",
+        "vue-mzc-product-picture": "latest",
+        "vue-mzc-steps": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_bi-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bi-crm/api": "latest",
+        "@bi-crm/config": "latest",
+        "@bi-crm/gcloud": "latest",
+        "@bi-crm/logging": "latest",
+        "@bi-crm/services": "latest",
+        "@bi-crm/util": "latest",
+        "@bi-ie/irish-tax-calculator": "latest",
+        "@bi-tickets/common": "latest"
+    }
+}

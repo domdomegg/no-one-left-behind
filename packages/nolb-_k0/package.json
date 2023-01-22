@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_k0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@k03mad/change-node-version": "latest",
+        "@k03mad/cli-tools-lan": "latest",
+        "@k03mad/cli-tools-mikrotik": "latest",
+        "@k03mad/cli-tools-next": "latest",
+        "@k03mad/cli-tools-node": "latest",
+        "@k03mad/eslint-config": "latest",
+        "@k03mad/get-ip-info": "latest",
+        "@k03mad/mikrotik-pptp-hidemy-ip": "latest",
+        "@k03mad/mikrotik-tools": "latest",
+        "@k03mad/util": "latest",
+        "@k03mad/utils": "latest",
+        "@k04an/nigg-face": "latest",
+        "@k0michi/hash": "latest",
+        "@k0michi/hyperscript-jsx": "latest",
+        "@k0michi/isomorphic-dom": "latest",
+        "@k0michi/now": "latest",
+        "@k0michi/now-darwin-arm64": "latest",
+        "@k0michi/now-darwin-x64": "latest",
+        "@k0michi/now-linux-arm64-gnu": "latest",
+        "@k0michi/now-linux-x64-gnu": "latest",
+        "@k0michi/now-win32-arm64-msvc": "latest",
+        "@k0michi/now-win32-x64-msvc": "latest",
+        "@k0mmsussert0d/wordlesolver": "latest",
+        "@k0r0pt/jsam": "latest",
+        "@k0rdan/babel-plugin-dotenv-import": "latest"
+    }
+}

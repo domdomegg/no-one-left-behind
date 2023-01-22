@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-lita",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lita": "latest",
+        "lita-external": "latest",
+        "lita-loader": "latest",
+        "litangdingzhen-tools": "latest",
+        "litao-event-bus": "latest",
+        "litao-sjfx": "latest",
+        "litargs": "latest"
+    }
+}

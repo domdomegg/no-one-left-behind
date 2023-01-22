@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_erf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@erfan75/amplitudejs": "latest",
+        "@erfan75/match-media": "latest",
+        "@erfan75/myamplitudejs": "latest",
+        "@erfaneslami/material": "latest",
+        "@erfanium/swagger-tools": "latest",
+        "@erfanmim/hello-wasm": "latest",
+        "@erfffun/energiswap-default-token-list": "latest",
+        "@erfffun/energiswap-sdk": "latest",
+        "@erfffun/ui": "latest",
+        "@erfffun/utils": "latest"
+    }
+}

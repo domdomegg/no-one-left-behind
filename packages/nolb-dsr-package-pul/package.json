@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-dsr-package-pul",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dsr-package-pulks-polys-kylix-brook": "latest",
+        "dsr-package-pulmo-howdy-ewked-boink": "latest"
+    }
+}

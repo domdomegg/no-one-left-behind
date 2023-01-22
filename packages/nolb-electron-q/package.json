@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-electron-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "electron-qeda": "latest",
+        "electron-quark": "latest",
+        "electron-quick": "latest",
+        "electron-quick-gist": "latest",
+        "electron-quick-inspect": "latest",
+        "electron-quick-start": "latest"
+    }
+}

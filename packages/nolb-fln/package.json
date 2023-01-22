@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-fln",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fln-cache": "latest",
+        "fln-components": "latest",
+        "fln-espranza": "latest",
+        "fln-rest": "latest",
+        "fln-rest-client": "latest",
+        "fln-tools": "latest",
+        "fln-utilities": "latest",
+        "fln-vue-icon": "latest",
+        "fln-vue-language": "latest",
+        "fln-vue-router-monitor": "latest",
+        "fln-vuetify-message": "latest",
+        "flnf-jsvm": "latest",
+        "flnf-math-lexer": "latest"
+    }
+}

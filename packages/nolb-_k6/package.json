@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_k6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@k6-contrib/fields-azure": "latest",
+        "@k6-contrib/fields-bigint": "latest",
+        "@k6-contrib/fields-dimension": "latest",
+        "@k6-contrib/fields-encrypted": "latest",
+        "@k6-contrib/fields-s3": "latest",
+        "@k6-contrib/fields-s3-images": "latest",
+        "@k6-contrib/fields-weight": "latest",
+        "@k6-contrib/list-plugins": "latest",
+        "@k6-contrib/session": "latest",
+        "@k6js/admin-ui": "latest",
+        "@k6js/contrib-fields-azure": "latest",
+        "@k6js/contrib-fields-bigint": "latest",
+        "@k6js/contrib-fields-dimension": "latest",
+        "@k6js/contrib-fields-encrypted": "latest",
+        "@k6js/contrib-fields-s3": "latest",
+        "@k6js/contrib-fields-s3-images": "latest",
+        "@k6js/contrib-fields-weight": "latest",
+        "@k6js/contrib-list-plugins": "latest",
+        "@k6js/core": "latest",
+        "@k6js/ks-next": "latest",
+        "@k6js/ks-next-auth": "latest",
+        "@k6js/ks-next-fields-document": "latest",
+        "@k6t12n/exybox": "latest"
+    }
+}

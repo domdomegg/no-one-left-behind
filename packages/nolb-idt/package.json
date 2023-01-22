@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-idt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "idt": "latest",
+        "idt-api-sdk": "latest",
+        "idt-lg": "latest",
+        "idt-slack-goals": "latest",
+        "idtbeyond": "latest",
+        "idtbeyond-angular": "latest",
+        "idtc": "latest",
+        "idtekscreen": "latest",
+        "idtoken-verifier": "latest",
+        "idtree-sdk": "latest",
+        "idts": "latest",
+        "idtsc": "latest",
+        "idtstyle": "latest",
+        "idtutils": "latest"
+    }
+}

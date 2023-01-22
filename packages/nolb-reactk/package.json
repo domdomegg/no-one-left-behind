@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-reactk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reactk": "latest",
+        "reactkads-styled-inputs": "latest",
+        "reactkads-styled-landingpages": "latest",
+        "reactkendo": "latest",
+        "reactkiosk-updater": "latest",
+        "reactkit-table": "latest",
+        "reactkitjs": "latest",
+        "reactkpkg-dci": "latest",
+        "reactkptestapp": "latest",
+        "reactkyc": "latest"
+    }
+}

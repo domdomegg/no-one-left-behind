@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-snk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "snk": "latest",
+        "snk-088": "latest",
+        "snk-browser-helper-print": "latest",
+        "snk-easy-code": "latest",
+        "snk-rt-newvideo-pc": "latest",
+        "snk-rt-video-pc": "latest",
+        "snk-template-cli": "latest",
+        "snk088-napi": "latest",
+        "snke": "latest",
+        "snkh": "latest",
+        "snkkns": "latest",
+        "snkquiz": "latest",
+        "snksocket": "latest"
+    }
+}

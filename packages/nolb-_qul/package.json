@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_qul",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@qulix/stylelint-config-css": "latest",
+        "@qulix/stylelint-config-scss": "latest",
+        "@qulix/tslint-config-angular": "latest",
+        "@qulix/tslint-config-react": "latest",
+        "@qulix/tslint-config-rx": "latest",
+        "@qulix/tslint-config-typescript": "latest",
+        "@qulture/eslint-config-base": "latest"
+    }
+}

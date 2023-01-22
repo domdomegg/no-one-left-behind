@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-mato",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mato": "latest",
+        "matoh": "latest",
+        "matoh-cli": "latest",
+        "matoid": "latest",
+        "matomo": "latest",
+        "matomo-analytics-cloudflare-app": "latest",
+        "matomo-client": "latest",
+        "matomo-expo-client": "latest",
+        "matomo-form-tracker": "latest",
+        "matomo-ios": "latest",
+        "matomo-javascript-client": "latest",
+        "matomo-optout-nextjs": "latest",
+        "matomo-react-sdk": "latest",
+        "matomo-reporting-js": "latest",
+        "matomo-router5-plugin": "latest",
+        "matomo-tracker": "latest",
+        "matomo-tracker-bkli": "latest",
+        "matomo-tracker-react-native": "latest",
+        "matomo-ts": "latest",
+        "matomoswecharts": "latest",
+        "matomotypes": "latest",
+        "matondo-angular-lib": "latest",
+        "matoo-common": "latest",
+        "matools": "latest",
+        "matoran-alphabet": "latest",
+        "matos": "latest"
+    }
+}

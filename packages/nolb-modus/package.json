@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-modus",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "modus": "latest",
+        "modus-design": "latest",
+        "modus-indikativ-react": "latest",
+        "modus-ui": "latest",
+        "moduse": "latest",
+        "modusecho": "latest",
+        "modusecho1": "latest",
+        "modusechoswift": "latest",
+        "modusgin-sdk": "latest",
+        "modusifier": "latest",
+        "modusign-event": "latest",
+        "modusign-winston": "latest",
+        "modusign-worker": "latest"
+    }
+}

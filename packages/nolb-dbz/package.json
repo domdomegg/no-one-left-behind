@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-dbz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dbz": "latest",
+        "dbz-compsearch": "latest",
+        "dbz-flame-scripts": "latest",
+        "dbz-messages": "latest",
+        "dbz-names": "latest",
+        "dbzar": "latest",
+        "dbzchat": "latest",
+        "dbzq-mark": "latest",
+        "dbzz-manager": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-harn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "harness": "latest",
+        "harness-helm-plugin": "latest",
+        "harness-starter-template-2": "latest",
+        "harness-ui": "latest",
+        "harness-vue-bootstrap": "latest",
+        "harno-build": "latest",
+        "harno-kernel": "latest",
+        "harno-kernel-server": "latest",
+        "harno-kernel-web": "latest",
+        "harnocode": "latest",
+        "harnosoft-kernel": "latest",
+        "harnpm": "latest"
+    }
+}

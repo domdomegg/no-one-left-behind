@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-zia",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zia": "latest",
+        "zia-app": "latest",
+        "ziad-lib": "latest",
+        "ziad-ui": "latest",
+        "ziadeskgcapp": "latest",
+        "ziadtest": "latest",
+        "zian-mi-humidifier": "latest",
+        "ziaochina-antd": "latest",
+        "ziaochina-rc-calendar": "latest",
+        "ziaochina-rc-select": "latest",
+        "ziapfclient": "latest",
+        "ziapi": "latest",
+        "ziaskills-clientutils": "latest",
+        "ziaskillssdk": "latest",
+        "ziax-accordion": "latest",
+        "ziazan": "latest"
+    }
+}

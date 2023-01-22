@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_itd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@itdc/crypto": "latest",
+        "@itdekker/my-test-package": "latest",
+        "@itdevbookingtogo/ckeditor5-build-classic-custom": "latest",
+        "@itdevin/better-js": "latest",
+        "@itdog/object-util": "latest",
+        "@itdsntwork/react-jsx-parser": "latest"
+    }
+}

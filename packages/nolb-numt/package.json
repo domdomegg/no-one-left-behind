@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-numt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "numtable": "latest",
+        "numtext": "latest",
+        "numthai": "latest",
+        "numto": "latest",
+        "numtocyr": "latest",
+        "numtools": "latest",
+        "numtoround": "latest",
+        "numtostring": "latest",
+        "numtow": "latest",
+        "numtoword-cli": "latest",
+        "numtoword-indiancurrency": "latest",
+        "numtowordconverter": "latest",
+        "numtowords09": "latest",
+        "numtrafr": "latest",
+        "numty": "latest"
+    }
+}

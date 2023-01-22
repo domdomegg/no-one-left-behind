@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_paa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@paack-test/lib-a": "latest",
+        "@paag/button": "latest",
+        "@paahn/lotide": "latest",
+        "@paallaire/body-scroll": "latest",
+        "@paallaire/debug-breakpoint-scss": "latest",
+        "@paallaire/environment": "latest",
+        "@paallaire/gridvisualizer": "latest",
+        "@paantickets/common": "latest",
+        "@paapi/client": "latest",
+        "@paar-it-gmbh/acme-client": "latest",
+        "@paar-it-gmbh/bidirectional-map": "latest",
+        "@paar-it-gmbh/odata-query": "latest",
+        "@paar-it-gmbh/pm2-log-console": "latest",
+        "@paar-it-gmbh/pm2-syslog-logger": "latest",
+        "@paar-it-gmbh/soap": "latest",
+        "@paar-it-gmbh/source-map-support": "latest",
+        "@paar-it-gmbh/swagger-ui-express": "latest",
+        "@paar-it-gmbh/typeorm": "latest",
+        "@paar-it-gmbh/vue3-easy-data-table": "latest",
+        "@paar-it-gmbh/vuedraggable": "latest",
+        "@paaragon/ctg-cli": "latest",
+        "@paaragon/generator-microservice": "latest",
+        "@paaragon/ngx-table": "latest",
+        "@paarmin/lotide": "latest",
+        "@paarth/variant": "latest",
+        "@paas-test/cli": "latest",
+        "@paas/console.log": "latest",
+        "@paas/logger": "latest"
+    }
+}

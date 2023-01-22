@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_react-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@react-qml/breakpad": "latest",
+        "@react-qml/cli": "latest",
+        "@react-qml/keychain": "latest",
+        "@react-qml/qml-loader": "latest",
+        "@react-qooks/use-axios": "latest",
+        "@react-query-builder/antd": "latest",
+        "@react-query-builder/core": "latest",
+        "@react-query-builder/material-ui": "latest",
+        "@react-query-firebase/analytics": "latest",
+        "@react-query-firebase/auth": "latest",
+        "@react-query-firebase/database": "latest",
+        "@react-query-firebase/firestore": "latest",
+        "@react-query-firebase/functions": "latest",
+        "@react-querybuilder/antd": "latest",
+        "@react-querybuilder/bootstrap": "latest",
+        "@react-querybuilder/bulma": "latest",
+        "@react-querybuilder/chakra": "latest",
+        "@react-querybuilder/ctx": "latest",
+        "@react-querybuilder/dnd": "latest",
+        "@react-querybuilder/material": "latest",
+        "@react-querybuilder/ts": "latest",
+        "@react-qui/button": "latest",
+        "@react-qui/dialog": "latest",
+        "@react-qui/example": "latest",
+        "@react-qui/hoc": "latest",
+        "@react-qui/loader": "latest",
+        "@react-qui/toastr": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-colort",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "colortable": "latest",
+        "colortags": "latest",
+        "colortaker": "latest",
+        "colortape": "latest",
+        "colorterm": "latest",
+        "colortest": "latest",
+        "colorthief": "latest",
+        "colorthief-async": "latest",
+        "colorthief-with-memory-get-pixels": "latest",
+        "colorthief_dev123": "latest",
+        "colorthing": "latest",
+        "colortool": "latest",
+        "colortools": "latest",
+        "colortor": "latest",
+        "colortransistion": "latest",
+        "colortransition": "latest",
+        "colortranslator": "latest",
+        "colorts": "latest",
+        "colortv-receiver-sdk": "latest"
+    }
+}

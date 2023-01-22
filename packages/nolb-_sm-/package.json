@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_sm-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sm-cli/core": "latest",
+        "@sm-cli/init": "latest",
+        "@sm-cli/utils": "latest",
+        "@sm-components/button": "latest",
+        "@sm-components/checkbox": "latest",
+        "@sm-date/date-formatter": "latest",
+        "@sm-forks/github": "latest",
+        "@sm-hci/ng-video": "latest",
+        "@sm-iclient/iserver": "latest",
+        "@sm-iclient/monorepo": "latest",
+        "@sm-iclient/ol": "latest",
+        "@sm-monobrands/eslint-config": "latest",
+        "@sm-monobrands/express-redirect-first-page": "latest",
+        "@sm-monobrands/set-gtm": "latest",
+        "@sm-monobrands/stylelint-config": "latest",
+        "@sm-superset/superset-plugin-chart-hello-world": "latest",
+        "@sm-ticket-app/common": "latest",
+        "@sm-tickets/common": "latest"
+    }
+}

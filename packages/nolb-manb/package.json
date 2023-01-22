@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-manb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "manba": "latest",
+        "manbahacker_print_hello": "latest",
+        "manbearwiz": "latest",
+        "manbendra-react-native": "latest",
+        "manbo": "latest",
+        "manbo-collector": "latest",
+        "manbo-debugger": "latest",
+        "manbun": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_be_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@be/electron-sqlite3": "latest",
+        "@be/http-error": "latest",
+        "@be/http-service": "latest",
+        "@be/http-status": "latest",
+        "@be/json-store": "latest",
+        "@be/text-store": "latest",
+        "@be_charlatan/where-to-go": "latest"
+    }
+}

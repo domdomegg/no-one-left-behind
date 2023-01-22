@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-linz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "linz": "latest",
+        "linz-cli": "latest",
+        "linz-first-npm": "latest",
+        "linz-log-generator": "latest",
+        "linz-note": "latest",
+        "linz-track-js-sdk": "latest",
+        "linzai-react": "latest",
+        "linzbra-tools": "latest",
+        "linzef-project": "latest",
+        "linzhaohui": "latest",
+        "linzhiyingpac": "latest",
+        "linzhiyuan_testpackage": "latest",
+        "linzhw": "latest",
+        "linzi-bells-ui": "latest",
+        "linzi-node-todo": "latest",
+        "linzi-util": "latest",
+        "linzilearn-test": "latest",
+        "linzjs": "latest",
+        "linzr-ui": "latest",
+        "linzy": "latest",
+        "linzzy": "latest"
+    }
+}

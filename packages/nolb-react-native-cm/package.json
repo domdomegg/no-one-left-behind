@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-react-native-cm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-cm-custom-scrollview": "latest",
+        "react-native-cm-theme": "latest",
+        "react-native-cm-wechat-pay": "latest",
+        "react-native-cmbutton": "latest",
+        "react-native-cmd": "latest",
+        "react-native-cmmc": "latest",
+        "react-native-cmmc-microgear": "latest",
+        "react-native-cmmon-ui": "latest",
+        "react-native-cmnobjects": "latest",
+        "react-native-cmoponents": "latest",
+        "react-native-cmponents": "latest",
+        "react-native-cms-pages": "latest"
+    }
+}

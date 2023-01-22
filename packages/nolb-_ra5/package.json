@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_ra5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ra5/au": "latest",
+        "@ra5/preference": "latest",
+        "@ra5mus/eb-comscore": "latest",
+        "@ra5mus/eb-datastore": "latest"
+    }
+}

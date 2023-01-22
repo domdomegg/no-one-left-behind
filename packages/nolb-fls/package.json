@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-fls",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fls": "latest",
+        "fls-bemtree-from-html": "latest",
+        "fls-json-schema-editor": "latest",
+        "fls-micro-cli": "latest",
+        "fls-react-ui": "latest",
+        "fls0202": "latest",
+        "flsaba": "latest",
+        "flsafety": "latest",
+        "flsearch": "latest",
+        "flsh-cli": "latest",
+        "flstart": "latest",
+        "flstk": "latest"
+    }
+}

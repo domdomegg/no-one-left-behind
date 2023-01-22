@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-cal0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cal0": "latest",
+        "cal02": "latest",
+        "cal0514": "latest",
+        "cal0522": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_trit",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tritac/prettier-config": "latest",
+        "@tritan/bootstrap-extensions": "latest",
+        "@tritan/query-builder": "latest",
+        "@tritan/signature": "latest",
+        "@triton-labs/wonka": "latest",
+        "@triton-labs/wonka-cli": "latest",
+        "@tritondigitaldev/omny-player-sdk-js": "latest",
+        "@tritter/homebridge-samsung-tizen": "latest",
+        "@tritter/homebridge-shelly": "latest",
+        "@tritter/homebridge-vaillant-vrc9xx": "latest",
+        "@tritter/shellies": "latest",
+        "@tritum/pheo": "latest",
+        "@tritura/react-pdf": "latest",
+        "@tritura/react-pdf-types": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-modd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "modd": "latest",
+        "moddable-helper": "latest",
+        "moddash": "latest",
+        "moddd": "latest",
+        "modde1": "latest",
+        "moddel": "latest",
+        "moddemo": "latest",
+        "modder": "latest",
+        "moddl": "latest",
+        "moddl-firebase": "latest",
+        "moddl-layer": "latest",
+        "moddl-mongodb": "latest",
+        "moddle": "latest",
+        "moddle-bpmn": "latest",
+        "moddle-context-serializer": "latest",
+        "moddle-id": "latest",
+        "moddle-xmi": "latest",
+        "moddle-xml": "latest",
+        "moddls": "latest",
+        "moddo": "latest",
+        "moddy": "latest"
+    }
+}

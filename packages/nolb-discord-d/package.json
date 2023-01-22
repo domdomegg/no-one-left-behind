@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-discord-d",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discord-dashboard": "latest",
+        "discord-dashboard-package": "latest",
+        "discord-dashboard-pp-system": "latest",
+        "discord-database": "latest",
+        "discord-db": "latest",
+        "discord-dba": "latest",
+        "discord-dbls": "latest",
+        "discord-dbm": "latest",
+        "discord-decorated": "latest",
+        "discord-decorator": "latest",
+        "discord-decorators": "latest",
+        "discord-developers": "latest",
+        "discord-development": "latest",
+        "discord-devtools": "latest",
+        "discord-dj": "latest",
+        "discord-dm": "latest",
+        "discord-dm-chatbot": "latest",
+        "discord-dmsupport": "latest",
+        "discord-dnd-bot-base": "latest",
+        "discord-downloader": "latest",
+        "discord-drive": "latest",
+        "discord-drops": "latest",
+        "discord-dungeon": "latest",
+        "discord-dynamic-messages": "latest",
+        "discord-dynamic-music-bot-addon": "latest"
+    }
+}

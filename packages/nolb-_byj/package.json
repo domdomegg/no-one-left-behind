@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_byj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@byjackli/highlighter": "latest",
+        "@byjus-orders/tyrion-plugins": "latest",
+        "@byjustech/identity-js": "latest",
+        "@byjutech/identity-js": "latest"
+    }
+}

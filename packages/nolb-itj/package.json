@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-itj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "itjason-tools": "latest",
+        "itjian-tools": "latest",
+        "itjianyuan": "latest",
+        "itjoker": "latest",
+        "itjoyee-first-demo": "latest",
+        "itjs": "latest",
+        "itjuncalc": "latest"
+    }
+}

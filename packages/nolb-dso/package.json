@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-dso",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dso": "latest",
+        "dso-core-charts": "latest",
+        "dso-extension-kit": "latest",
+        "dso-nods": "latest",
+        "dso-toolkit": "latest",
+        "dso.js": "latest",
+        "dsocialjs": "latest",
+        "dsock": "latest",
+        "dsokal-eas-cli": "latest",
+        "dsokal-eas-json": "latest",
+        "dsokal-rudder-sdk-node": "latest",
+        "dson": "latest",
+        "dson-djs": "latest",
+        "dson-middleware": "latest",
+        "dson.js": "latest",
+        "dson.parser.js": "latest",
+        "dsonv1561": "latest",
+        "dsop-assets": "latest",
+        "dsounite": "latest",
+        "dsoup": "latest"
+    }
+}

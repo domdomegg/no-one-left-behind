@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-disf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "disfetch": "latest",
+        "disfigured": "latest",
+        "disfont": "latest",
+        "disforge.js": "latest",
+        "disforgelite.js": "latest",
+        "disform": "latest",
+        "disfunctional": "latest",
+        "disfus": "latest"
+    }
+}

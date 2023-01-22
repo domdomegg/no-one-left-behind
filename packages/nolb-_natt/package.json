@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_natt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@natterstefan/react-editor-js": "latest",
+        "@natterstefan/scripts": "latest",
+        "@natterstefan/toggl-api": "latest",
+        "@natthrock/test-package": "latest",
+        "@nattlivet/react-pully": "latest",
+        "@natto/react": "latest",
+        "@nattogo/ksqldb": "latest",
+        "@nattogo/nest-qualifier": "latest",
+        "@nattojs/eval": "latest",
+        "@nattou/components": "latest",
+        "@nattroj/b2": "latest",
+        "@nattwasm/npm-learn": "latest",
+        "@nattwasm/unpublish": "latest",
+        "@natty/sf-fennel": "latest"
+    }
+}

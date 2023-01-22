@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-readr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "readr": "latest",
+        "readr-comment": "latest",
+        "readr-talk-plugin-checkout-comment-count": "latest",
+        "readr-talk-plugin-comment-avatar": "latest",
+        "readr-talk-plugin-signin": "latest",
+        "readr-web-api": "latest",
+        "readrc": "latest"
+    }
+}

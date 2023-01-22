@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-express-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "express-zero-config": "latest",
+        "express-zetkin-auth": "latest",
+        "express-zeus": "latest",
+        "express-zguard": "latest",
+        "express-zip": "latest",
+        "express-zip-eka": "latest",
+        "express-zip-stream": "latest",
+        "express-zip-to-zone": "latest",
+        "express-zipkin": "latest",
+        "express-zipkin-instrumentation": "latest",
+        "express-zoa-server": "latest",
+        "express-zod-api": "latest",
+        "express-zod-openapi": "latest",
+        "express-zonejs-errors": "latest",
+        "express-zones": "latest",
+        "express-zuoye": "latest"
+    }
+}

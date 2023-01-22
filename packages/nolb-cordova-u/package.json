@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-cordova-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cordova-ubuntu": "latest",
+        "cordova-uglify": "latest",
+        "cordova-unique-device-id": "latest",
+        "cordova-unityads-sdk": "latest",
+        "cordova-universal-clipboard": "latest",
+        "cordova-universal-links-fix-plugin": "latest",
+        "cordova-universal-links-plugin": "latest",
+        "cordova-universal-links-plugin-deluxe": "latest",
+        "cordova-universal-links-plugin-excprotection": "latest",
+        "cordova-universal-links-plugin-fix": "latest",
+        "cordova-universal-links-plugin-fixed": "latest",
+        "cordova-universal-links-plugin-jd": "latest",
+        "cordova-universal-links-plugin-signosoft-fork": "latest",
+        "cordova-universal-links-plugin-v2": "latest",
+        "cordova-universal-links-pluginx": "latest",
+        "cordova-update-config": "latest",
+        "cordova-update-config-enhanced": "latest",
+        "cordova-updater": "latest",
+        "cordova-urovo-pda-plugin": "latest",
+        "cordova-usabilla": "latest",
+        "cordova-utils": "latest",
+        "cordova-uwp": "latest",
+        "cordova-uxcam": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-cordova-plugin_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cordova-plugin_apple_av-audio-session_get-input-data-sources": "latest",
+        "cordova-plugin_apple_av-audio-session_get-record-permission": "latest",
+        "cordova-plugin_apple_av-audio-session_request-record-permission": "latest",
+        "cordova-plugin_apple_sf-speech-recognizer_get-authorization-status": "latest",
+        "cordova-plugin_apple_sf-speech-recognizer_recognition-task-with-request": "latest",
+        "cordova-plugin_apple_sf-speech-recognizer_recognition-task_audio-buffer": "latest",
+        "cordova-plugin_apple_sf-speech-recognizer_request-authorization": "latest"
+    }
+}

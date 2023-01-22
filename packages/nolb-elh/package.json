@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-elh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "elh": "latest",
+        "elh-loader": "latest",
+        "elh-tooltip": "latest",
+        "elhalfoot": "latest",
+        "elham-components": "latest",
+        "elham-counter": "latest",
+        "elham-elements": "latest",
+        "elham-ngx-graph": "latest",
+        "elham-sharifia": "latest",
+        "elham-swiper": "latest"
+    }
+}

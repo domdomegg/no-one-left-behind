@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-jesz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jeszcze_jedna_biblioteka_testowa_tym_razem_mateusza_od_openstreetmap": "latest",
+        "jeszhang-tiny": "latest"
+    }
+}

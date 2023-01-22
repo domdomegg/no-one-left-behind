@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-grah",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graham": "latest",
+        "graham-fast": "latest",
+        "graham-scan": "latest",
+        "graham-scan-convex-hull": "latest",
+        "graham_scan": "latest",
+        "grahcis-ui-sdk": "latest"
+    }
+}

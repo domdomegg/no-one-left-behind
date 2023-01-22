@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-onm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "onm": "latest",
+        "onmarketer-app-novaon": "latest",
+        "onmarketer-sdk": "latest",
+        "onmatch": "latest",
+        "onmc_plat_cc_pubfun_dev": "latest",
+        "onmem-logger": "latest",
+        "onmeta": "latest",
+        "onmhfzteqydkxlrw": "latest",
+        "onmilliseconds": "latest",
+        "onml": "latest",
+        "onmnnm": "latest",
+        "onmnom": "latest",
+        "onmount": "latest",
+        "onmouse-cli": "latest",
+        "onmsg-log": "latest",
+        "onmsg-log-es6": "latest",
+        "onmsgcallback": "latest",
+        "onmyjs": "latest",
+        "onmymind": "latest"
+    }
+}

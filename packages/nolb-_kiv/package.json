@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_kiv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kiv-i.com/n8n-nodes-chatarchitect": "latest",
+        "@kiv-i.com/n8n-nodes-chatarchitect.com-for-whatsapp": "latest",
+        "@kiv-i.com/n8n-nodes-kivicom": "latest",
+        "@kiva/fingerprint-api-simulator": "latest",
+        "@kiva/kiva-protocol-ui-kit": "latest",
+        "@kiva/kv-components": "latest",
+        "@kiva/kv-tokens": "latest",
+        "@kiva/ssirius-react": "latest",
+        "@kiva/ssirius-standalone": "latest",
+        "@kivacrm/jsapi": "latest",
+        "@kivakiva/lotide": "latest",
+        "@kivibot/core": "latest",
+        "@kivixeletric/that-is": "latest",
+        "@kivulallo/ngx-treeview": "latest"
+    }
+}

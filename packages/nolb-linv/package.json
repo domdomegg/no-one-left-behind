@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-linv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "linv": "latest",
+        "linvail": "latest",
+        "linview": "latest",
+        "linview_test": "latest",
+        "linvo-api4-client": "latest",
+        "linvo-p2p-sync": "latest",
+        "linvo-scraper": "latest",
+        "linvodb": "latest",
+        "linvodb3": "latest"
+    }
+}

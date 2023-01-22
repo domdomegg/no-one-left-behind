@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_types_ri",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@types/rickshaw": "latest",
+        "@types/riderize__passport-strava-oauth2": "latest",
+        "@types/rifat__miio": "latest",
+        "@types/right-align": "latest",
+        "@types/righto": "latest",
+        "@types/rijndael-js": "latest",
+        "@types/rimraf": "latest",
+        "@types/ringbufferjs": "latest",
+        "@types/riot": "latest",
+        "@types/riot-api-nodejs": "latest",
+        "@types/riot-games-api": "latest",
+        "@types/riot-route": "latest",
+        "@types/riotcontrol": "latest",
+        "@types/riotjs": "latest",
+        "@types/ripemd160": "latest",
+        "@types/rison": "latest",
+        "@types/rivets": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-eslint-pa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslint-parallel": "latest",
+        "eslint-parallel-kiwi": "latest",
+        "eslint-parser": "latest",
+        "eslint-parser-mdast": "latest",
+        "eslint-path-formatter": "latest",
+        "eslint-path-formatter2": "latest"
+    }
+}

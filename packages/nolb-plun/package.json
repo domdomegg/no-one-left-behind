@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-plun",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "plunder": "latest",
+        "plunderbot": "latest",
+        "plundergames-javascript-utilities": "latest",
+        "plunetscrapper": "latest",
+        "plunge": "latest",
+        "plunger": "latest",
+        "plunger-binding": "latest",
+        "plunger-binding-linux-x64-gnu": "latest",
+        "plunger-tools": "latest",
+        "plungeth": "latest",
+        "plungintest": "latest",
+        "plungle-test": "latest",
+        "plunk": "latest",
+        "plunker-share": "latest",
+        "plunner": "latest",
+        "plunus": "latest"
+    }
+}

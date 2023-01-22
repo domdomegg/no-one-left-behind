@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-wann",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wanna": "latest",
+        "wanna-rest": "latest",
+        "wannabe": "latest",
+        "wannabook-eslint-config": "latest",
+        "wannado": "latest",
+        "wannago-api": "latest",
+        "wannancompile": "latest",
+        "wannancore": "latest",
+        "wannancore1": "latest",
+        "wannantraduction": "latest",
+        "wannasky-test": "latest",
+        "wannaswap-sdk": "latest",
+        "wanneng-yingli-beizeng-moshi": "latest",
+        "wanneng-zhuanqian-xilie-shuji": "latest",
+        "wannes": "latest",
+        "wanngsaditcast-wyal": "latest",
+        "wannianli": "latest"
+    }
+}

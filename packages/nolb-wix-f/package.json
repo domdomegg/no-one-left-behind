@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-wix-f",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wix-fed-scripts-kitchensink-project-temp-publish": "latest",
+        "wix-fed-scripts-kitchensink-temp-publish": "latest",
+        "wix-fetch": "latest",
+        "wix-fetch-utils": "latest",
+        "wix-file-sharing-client": "latest",
+        "wix-form-builder": "latest",
+        "wix-form-builder-api": "latest",
+        "wix-form-builder-core": "latest",
+        "wix-fullstory-loader": "latest",
+        "wix-fullstory-loader-old": "latest",
+        "wix-fun-app": "latest"
+    }
+}

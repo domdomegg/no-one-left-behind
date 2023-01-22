@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_dev4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dev4light/lezer-editor-common": "latest",
+        "@dev4ndy/markdown": "latest",
+        "@dev4vin/commons": "latest",
+        "@dev4vin/nest_api": "latest",
+        "@dev4vin/nest_auth": "latest",
+        "@dev4vin/nest_data": "latest"
+    }
+}

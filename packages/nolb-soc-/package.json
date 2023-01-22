@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-soc-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "soc-bff-runtime": "latest",
+        "soc-care-editor": "latest",
+        "soc-cohort-3": "latest",
+        "soc-common-npm": "latest",
+        "soc-components-ts": "latest",
+        "soc-core": "latest",
+        "soc-fa": "latest",
+        "soc-faker": "latest",
+        "soc-fortune-teller": "latest",
+        "soc-fortune-teller-jy": "latest",
+        "soc-frontend": "latest",
+        "soc-helper": "latest",
+        "soc-hik-sdk": "latest",
+        "soc-ivs-sdk": "latest",
+        "soc-med-lib": "latest",
+        "soc-redux": "latest",
+        "soc-sounds": "latest",
+        "soc-sql": "latest",
+        "soc-viewer": "latest"
+    }
+}

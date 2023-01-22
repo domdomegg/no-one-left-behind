@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-flo-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "flo-bezier3": "latest",
+        "flo-bind": "latest",
+        "flo-boolean": "latest",
+        "flo-components": "latest",
+        "flo-datetime": "latest",
+        "flo-draw": "latest",
+        "flo-gauss-quadrature": "latest",
+        "flo-graham-scan": "latest",
+        "flo-js": "latest",
+        "flo-lines-intersections": "latest",
+        "flo-ll-rb-tree": "latest",
+        "flo-map": "latest",
+        "flo-mat": "latest",
+        "flo-memoize": "latest",
+        "flo-morph": "latest",
+        "flo-navbar-module": "latest",
+        "flo-npm-lib": "latest",
+        "flo-numerical": "latest",
+        "flo-poly": "latest",
+        "flo-react": "latest",
+        "flo-test": "latest",
+        "flo-utils": "latest",
+        "flo-vector2d": "latest",
+        "flo-zebra-bt": "latest"
+    }
+}

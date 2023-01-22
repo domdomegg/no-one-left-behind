@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-stringy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stringy": "latest",
+        "stringy-java-properties": "latest",
+        "stringy.js": "latest",
+        "stringy_numbers": "latest",
+        "stringythingies": "latest",
+        "stringytime": "latest",
+        "stringywingy": "latest"
+    }
+}

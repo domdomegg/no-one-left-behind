@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-react-native-sr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-sr-kit": "latest",
+        "react-native-sr-pago-lib": "latest",
+        "react-native-sr-pago-library": "latest",
+        "react-native-srd-swipper": "latest",
+        "react-native-srikhelloworldanth": "latest",
+        "react-native-srs-video": "latest"
+    }
+}

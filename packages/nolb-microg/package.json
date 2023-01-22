@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-microg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "microgateway": "latest",
+        "microgateway-config": "latest",
+        "microgateway-core": "latest",
+        "microgateway-datastore": "latest",
+        "microgateway-edgeauth": "latest",
+        "microgateway-plugins": "latest",
+        "microgateway-util": "latest",
+        "microgear": "latest",
+        "microgear-react": "latest",
+        "microgears": "latest",
+        "microgen": "latest",
+        "microgen-binding": "latest",
+        "microgen-cli": "latest",
+        "microgen-client": "latest",
+        "microgen-cote": "latest",
+        "microgen-discover": "latest",
+        "microgen-mongoose": "latest",
+        "microgen-sequelize": "latest",
+        "microgen-v3-sdk": "latest",
+        "micrograd": "latest",
+        "microgram": "latest",
+        "microgrammar-explorer-sdm": "latest",
+        "microgrammar-gui": "latest",
+        "micrograph": "latest",
+        "micrographql-client": "latest",
+        "micrograss-oop": "latest"
+    }
+}

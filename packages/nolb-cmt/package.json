@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-cmt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cmt": "latest",
+        "cmt-cli": "latest",
+        "cmt-cordova-plugin-clipboard": "latest",
+        "cmt-cordova-plugin-webintent": "latest",
+        "cmt-metamask": "latest",
+        "cmt-molecules-header-test": "latest",
+        "cmt-require-loader": "latest",
+        "cmt2emt-webpack-plugin": "latest",
+        "cmtest": "latest",
+        "cmthash": "latest",
+        "cmtlog": "latest",
+        "cmtlog-cli": "latest",
+        "cmtmodule": "latest",
+        "cmtr": "latest",
+        "cmts-cli": "latest",
+        "cmtt-likely": "latest",
+        "cmtter-lib": "latest",
+        "cmtter-lib4": "latest",
+        "cmtter-vue-router": "latest",
+        "cmtutor": "latest",
+        "cmty": "latest"
+    }
+}

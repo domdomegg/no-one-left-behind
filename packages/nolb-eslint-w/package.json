@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-eslint-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslint-watch": "latest",
+        "eslint-watch-better": "latest",
+        "eslint-watchs": "latest",
+        "eslint-web": "latest",
+        "eslint-webgui-package": "latest",
+        "eslint-webpack": "latest",
+        "eslint-webpack-plugin": "latest",
+        "eslint-why": "latest",
+        "eslint-witsawa-react": "latest",
+        "eslint-worker": "latest",
+        "eslint-worker-brunch": "latest",
+        "eslint-wrapper-plugin": "latest",
+        "eslint-write-good-comments": "latest"
+    }
+}

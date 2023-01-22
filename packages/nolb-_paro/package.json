@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_paro",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@paro-paro/currency": "latest",
+        "@paro.io/base-icons": "latest",
+        "@paroi/express-edge": "latest",
+        "@paroi/media-engine": "latest",
+        "@paroi/nextcloud-node-client": "latest",
+        "@paros-ui/form-lib": "latest",
+        "@parotek/ng-extension": "latest",
+        "@parotek/ngx-auth-form": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_sao",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@saodd/learn-npm-public-saodd": "latest",
+        "@saoirse-zee/dictionary": "latest",
+        "@saoirse-zee/find-rhymes": "latest",
+        "@saooti/octopus-api": "latest",
+        "@saooti/octopus-sdk": "latest",
+        "@saooti/vue-pdf": "latest",
+        "@saorcode/postcode-utils": "latest",
+        "@saorg/decor": "latest",
+        "@saorsa/core": "latest",
+        "@saou/components": "latest",
+        "@saou/style": "latest",
+        "@saoussen_lighthouse/lotide": "latest"
+    }
+}

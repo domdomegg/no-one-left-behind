@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-servu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "servue": "latest",
+        "servuex": "latest",
+        "servular": "latest",
+        "servus": "latest",
+        "servus.js": "latest",
+        "servut": "latest",
+        "servux": "latest"
+    }
+}

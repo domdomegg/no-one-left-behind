@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_maxx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@maxx_bott/holidates": "latest",
+        "@maxxheth/wp-ajax-handler": "latest",
+        "@maxxxxxdlp/eslint-config": "latest",
+        "@maxxxxxdlp/eslint-config-react": "latest",
+        "@maxxxxxdlp/eslint-react-config": "latest",
+        "@maxxxxxdlp/prettier-config": "latest",
+        "@maxxxxxdlp/stylelint-config": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_funr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@funren/border-1px": "latest",
+        "@funren/fast-ui": "latest",
+        "@funren/reset.css": "latest",
+        "@funren/tool-func": "latest"
+    }
+}

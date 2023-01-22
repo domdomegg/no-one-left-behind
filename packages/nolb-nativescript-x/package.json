@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-nativescript-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nativescript-xml2js": "latest",
+        "nativescript-xmlobjects": "latest",
+        "nativescript-xmpp": "latest",
+        "nativescript-xmpp-client": "latest",
+        "nativescript-xz-ad-generation": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_w1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@w11k/angular-sticky-things": "latest",
+        "@w11k/diff-patch-sync": "latest",
+        "@w11k/eslint-config": "latest",
+        "@w11k/foss-transformer": "latest",
+        "@w11k/git-info": "latest",
+        "@w11k/ngx-componentdestroyed": "latest",
+        "@w11k/ngx-lifecycle-mixins": "latest",
+        "@w11k/ngx-present": "latest",
+        "@w11k/ngx-select": "latest",
+        "@w11k/plugin-chart-scatter": "latest",
+        "@w11k/plugin-chart-table-extended": "latest",
+        "@w11k/rx-ninja": "latest",
+        "@w11k/rx-utils": "latest",
+        "@w11k/ts-mixins": "latest",
+        "@w11k/tslint-presets": "latest",
+        "@w11k/tydux": "latest",
+        "@w11k/tydux-angular": "latest",
+        "@w11k/tydux-react": "latest",
+        "@w11k/w11k-select-ngx-adapter": "latest",
+        "@w11r/use-breakpoint": "latest",
+        "@w12/choppy": "latest",
+        "@w12/conventional-changelog": "latest",
+        "@w1n/eslint-config": "latest",
+        "@w1n/w1n_sanity": "latest"
+    }
+}

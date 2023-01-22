@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_hof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hof-game/calc-dmg": "latest",
+        "@hof-game/character": "latest",
+        "@hoff97/tensor-js": "latest",
+        "@hoffmanshf-ticketing/common": "latest",
+        "@hofjs/hofjs": "latest",
+        "@hofjs/hofjs-light": "latest",
+        "@hofjs/hofjs-router": "latest",
+        "@hoflish/react-native-ui-kit": "latest",
+        "@hofmmaxi/eslint-config": "latest",
+        "@hofstad/jelgue-wither-training": "latest",
+        "@hofstadter-io/sofa-api": "latest",
+        "@hofus/ng-dynamic-forms": "latest"
+    }
+}

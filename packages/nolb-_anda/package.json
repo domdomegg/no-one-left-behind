@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_anda",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@andaleeb/aws-api-gateway-client": "latest",
+        "@andaleeb/react-pdf-js": "latest",
+        "@andaleeb/waveform-playlist": "latest",
+        "@andalib/ngx-jalali-date-picker": "latest",
+        "@andalugeeks/andaluh": "latest",
+        "@andalusia/contactform": "latest",
+        "@andalusia/contactformtest": "latest",
+        "@andalusia/default_component": "latest",
+        "@andalusia_hossam/sharedcomponent": "latest",
+        "@andanipa/p-components": "latest",
+        "@andariotrueno/react-native-customsegmentedcontrol": "latest",
+        "@andarist/rollup-stream": "latest",
+        "@andarist/rtl-css-js": "latest",
+        "@andatoshiki/readme-box": "latest",
+        "@andatoshiki/toshiki-cdn": "latest",
+        "@andatoshiki/toshiki-proxypool-ui": "latest",
+        "@andatoshiki/yrm": "latest"
+    }
+}

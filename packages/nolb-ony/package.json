@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-ony",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ony": "latest",
+        "onyan": "latest",
+        "onyday-rikao": "latest",
+        "onymos-feature-share": "latest",
+        "onyms": "latest",
+        "onyuverse": "latest",
+        "onyva-oauth2": "latest",
+        "onyx": "latest",
+        "onyx-common": "latest",
+        "onyx-contracts": "latest",
+        "onyx-file-loader": "latest",
+        "onyx-finder": "latest",
+        "onyx-helper": "latest",
+        "onyx-keys": "latest",
+        "onyx-lang": "latest",
+        "onyx-m2-common": "latest",
+        "onyx-m2-react": "latest",
+        "onyx-navigation": "latest",
+        "onyx-node": "latest",
+        "onyx-server": "latest",
+        "onyx-services-kwivrr": "latest",
+        "onyx-toolbox": "latest",
+        "onyx-ui": "latest",
+        "onyxcli": "latest",
+        "onyxia-portal-ui": "latest",
+        "onyxia-ui": "latest",
+        "onyxlibrary": "latest",
+        "onyxprime": "latest"
+    }
+}

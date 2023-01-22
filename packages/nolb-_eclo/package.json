@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_eclo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@eclo/mode": "latest",
+        "@ecloudcn/ecloud-driver": "latest",
+        "@ecloudcn/ecloud-sdk": "latest",
+        "@ecloudtech/dc-table": "latest"
+    }
+}

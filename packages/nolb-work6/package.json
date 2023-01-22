@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-work6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "work6.23": "latest",
+        "work6promise-author-shanjiangwei": "latest"
+    }
+}

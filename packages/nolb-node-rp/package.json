@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-node-rp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-rpas-sdk": "latest",
+        "node-rpc": "latest",
+        "node-rpc-lite": "latest",
+        "node-rpc-redis": "latest",
+        "node-rpc-rsh": "latest",
+        "node-rpc-yourshares": "latest",
+        "node-rpclib": "latest",
+        "node-rpi-gpio-control": "latest",
+        "node-rpi-mfrc522": "latest",
+        "node-rpi-rgb-led-matrix": "latest",
+        "node-rpi-rgb-led-matrix-adafruit": "latest",
+        "node-rpi-si4703": "latest",
+        "node-rps": "latest"
+    }
+}

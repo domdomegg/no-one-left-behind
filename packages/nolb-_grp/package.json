@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_grp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@grp-toska/apina": "latest",
+        "@grpc-base-client/apm": "latest",
+        "@grpc-gen/grpc-web": "latest",
+        "@grpc-gen/protoc-gen-angular": "latest",
+        "@grpc-gen/protoc-gen-grpc-web": "latest",
+        "@grpc/grpc-js": "latest",
+        "@grpc/grpc-js-xds": "latest",
+        "@grpc/js-core": "latest",
+        "@grpc/proto-loader": "latest",
+        "@grpc/surface": "latest",
+        "@grpdramer/easy-ui": "latest",
+        "@grptx/node-redmine": "latest"
+    }
+}

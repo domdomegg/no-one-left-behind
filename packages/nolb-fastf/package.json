@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-fastf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fastfall": "latest",
+        "fastfall-ts": "latest",
+        "fastfargate": "latest",
+        "fastfeet-translation-errors": "latest",
+        "fastfeserver": "latest",
+        "fastfetch": "latest",
+        "fastfib": "latest",
+        "fastfib-demo": "latest",
+        "fastfib-demo-test": "latest",
+        "fastfile": "latest",
+        "fastfile-manager": "latest",
+        "fastfind": "latest",
+        "fastfire": "latest",
+        "fastfishmydrem": "latest",
+        "fastflux": "latest",
+        "fastfood": "latest",
+        "fastform-core": "latest",
+        "fastforward": "latest",
+        "fastframe": "latest",
+        "fastft-api-client": "latest",
+        "fastftp-server": "latest",
+        "fastfunctions": "latest",
+        "fastfurnitureapilayer": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-datx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "datx": "latest",
+        "datx-app": "latest",
+        "datx-jsonapi": "latest",
+        "datx-jsonapi-angular": "latest",
+        "datx-keyvalue": "latest",
+        "datx-network": "latest",
+        "datx-utils": "latest",
+        "datxjs-tx": "latest",
+        "datxweb": "latest",
+        "datxweb-core": "latest",
+        "datxweb-core-helpers": "latest",
+        "datxweb-core-method": "latest",
+        "datxweb-core-subscriptions": "latest",
+        "datxweb-datx": "latest",
+        "datxweb-datx-abi": "latest",
+        "datxweb-datx-accounts": "latest",
+        "datxweb-datx-admin": "latest",
+        "datxweb-datx-contract": "latest",
+        "datxweb-datx-debug": "latest",
+        "datxweb-datx-ens": "latest",
+        "datxweb-datx-iban": "latest",
+        "datxweb-datx-miner": "latest",
+        "datxweb-datx-personal": "latest",
+        "datxweb-datx-txpool": "latest",
+        "datxweb-net": "latest",
+        "datxweb-providers": "latest",
+        "datxweb-shh": "latest",
+        "datxweb-utils": "latest"
+    }
+}

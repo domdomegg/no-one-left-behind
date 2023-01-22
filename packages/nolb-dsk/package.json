@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-dsk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dsk": "latest",
+        "dsk-components-library": "latest",
+        "dsk-err": "latest",
+        "dsk-message": "latest",
+        "dsk-temp-file-upload": "latest",
+        "dskaf-23245": "latest",
+        "dskcore": "latest",
+        "dskcorenew": "latest",
+        "dskit": "latest",
+        "dsksdklfj": "latest",
+        "dskusuma-learn-create-npm-package": "latest",
+        "dsky-bootstrap": "latest",
+        "dsky-test-css-one": "latest"
+    }
+}

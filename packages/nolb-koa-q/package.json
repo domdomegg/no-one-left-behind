@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-koa-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "koa-qc-router": "latest",
+        "koa-qiniu": "latest",
+        "koa-qs": "latest",
+        "koa-qs-lru": "latest",
+        "koa-qs-plus": "latest",
+        "koa-queries": "latest",
+        "koa-query": "latest",
+        "koa-query-checker": "latest",
+        "koa-query-inspector": "latest",
+        "koa-query-parser": "latest",
+        "koa-query-pretty": "latest",
+        "koa-query-sorter": "latest",
+        "koa-querybody": "latest",
+        "koa-queryparams": "latest",
+        "koa-queryset": "latest",
+        "koa-querystring-strict": "latest",
+        "koa-queue": "latest",
+        "koa-quick-app": "latest",
+        "koa-quick-service": "latest",
+        "koa-quick-start": "latest",
+        "koa-qx-router": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-formk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "formk": "latest",
+        "formkeep.js": "latest",
+        "formkiq-client-sdk-javascript": "latest",
+        "formkit": "latest",
+        "formkit-addon-inertia": "latest",
+        "formkit-element": "latest",
+        "formkit-inertify": "latest",
+        "formkit-ionic": "latest",
+        "formkit-multistep": "latest",
+        "formkit-tinymce": "latest",
+        "formkitten": "latest",
+        "formkl": "latest",
+        "formkorev1": "latest"
+    }
+}

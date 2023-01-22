@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-fraz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "frazao-lib-course-node": "latest",
+        "fraze": "latest",
+        "frazix": "latest",
+        "frazy-parser": "latest"
+    }
+}

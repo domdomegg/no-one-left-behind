@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-k_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "K_Tasks": "latest",
+        "k.backbone.marionette": "latest",
+        "k.js": "latest",
+        "k.m.c": "latest",
+        "k.n.n": "latest",
+        "k.sparks": "latest",
+        "k_add": "latest",
+        "k_ajax": "latest",
+        "k_components_04": "latest",
+        "k_formatter": "latest",
+        "k_getui": "latest",
+        "k_kingsearch": "latest",
+        "k_module_one": "latest",
+        "k_nearest_neighbors": "latest",
+        "k_np": "latest",
+        "k_typeahead": "latest"
+    }
+}

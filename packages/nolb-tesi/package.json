@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-tesi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tesign": "latest",
+        "tesing-app": "latest",
+        "tesing_koch_scope": "latest",
+        "tesingenv": "latest",
+        "tesirattp-client": "latest",
+        "tesis-unal_dobregons": "latest"
+    }
+}

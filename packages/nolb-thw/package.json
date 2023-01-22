@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-thw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thw": "latest",
+        "thw-faucet-cli": "latest",
+        "thwack": "latest",
+        "thwart": "latest",
+        "thwaxios": "latest",
+        "thwcorbin-resume": "latest",
+        "thwlkj-nodetest": "latest",
+        "thwombly": "latest",
+        "thwomp.js": "latest"
+    }
+}

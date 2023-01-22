@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-post2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "post21": "latest",
+        "post26": "latest",
+        "post29": "latest",
+        "post2go-curl": "latest",
+        "post2go-curl-browser": "latest",
+        "post2go-express-jsonrpc": "latest",
+        "post2go-pg-query": "latest",
+        "post2me": "latest",
+        "post2slack": "latest",
+        "post2slack-cli": "latest",
+        "post2sse": "latest",
+        "post2swag": "latest"
+    }
+}

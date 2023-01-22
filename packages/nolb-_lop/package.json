@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_lop",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lopatnov/as-umd-module": "latest",
+        "@lopatnov/browser-tab-ipc": "latest",
+        "@lopatnov/callable": "latest",
+        "@lopatnov/express-reverse-proxy": "latest",
+        "@lopatnov/get-internal-type": "latest",
+        "@lopatnov/javascripttostring": "latest",
+        "@lopatnov/join": "latest",
+        "@lopatnov/make-iterable": "latest",
+        "@lopatnov/namespace": "latest",
+        "@lopatnov/rollup-plugin-uglify": "latest",
+        "@lopatnov/worker-from-string": "latest",
+        "@lopes-ui/docs": "latest",
+        "@lopes-ui/react": "latest",
+        "@lopes-ui/tokens": "latest",
+        "@lopezchr/synapse-viewer": "latest",
+        "@lopital-sdk/appointment": "latest",
+        "@lopital-sdk/doctor": "latest",
+        "@lopital-sdk/patient": "latest",
+        "@lopital-sdk/scheduler": "latest",
+        "@lopliok/svg-circle": "latest",
+        "@lopo/china-division-data": "latest",
+        "@lopo/eslint-config-lopo": "latest",
+        "@lopo/theme": "latest",
+        "@lopos/ng.core.extension": "latest",
+        "@lopos/ng.theme.shared": "latest",
+        "@lopos/theme-basic": "latest",
+        "@lopos/theme-shared": "latest"
+    }
+}

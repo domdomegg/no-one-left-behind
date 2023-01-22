@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-typeface-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typeface-yanone-kaffeesatz": "latest",
+        "typeface-yantramanav": "latest",
+        "typeface-yatra-one": "latest",
+        "typeface-yekan": "latest",
+        "typeface-yellowtail": "latest",
+        "typeface-yeon-sung": "latest",
+        "typeface-yeseva-one": "latest",
+        "typeface-yesteryear": "latest",
+        "typeface-youngserif": "latest",
+        "typeface-yrsa": "latest"
+    }
+}

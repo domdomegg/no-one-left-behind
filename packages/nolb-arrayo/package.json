@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-arrayo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "arrayobj_utils": "latest",
+        "arrayobjectsearch": "latest",
+        "arrayof": "latest",
+        "arrayofobjectsintersection": "latest",
+        "arrayone": "latest",
+        "arrayoperation": "latest",
+        "arrayoperations-yoss": "latest"
+    }
+}

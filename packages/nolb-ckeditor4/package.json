@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-ckeditor4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ckeditor4": "latest",
+        "ckeditor4-acadlog": "latest",
+        "ckeditor4-angular": "latest",
+        "ckeditor4-custom": "latest",
+        "ckeditor4-dev": "latest",
+        "ckeditor4-gec-build": "latest",
+        "ckeditor4-integrations-common": "latest",
+        "ckeditor4-nuget-release": "latest",
+        "ckeditor4-plugin-exportpdf": "latest",
+        "ckeditor4-plugin-speak2type": "latest",
+        "ckeditor4-plugin-spreadsheet": "latest",
+        "ckeditor4-react": "latest",
+        "ckeditor4-react-advanced": "latest",
+        "ckeditor4-react-fkit": "latest",
+        "ckeditor4-vue": "latest",
+        "ckeditor4-vue-color-v1": "latest",
+        "ckeditor4-vue-dara": "latest",
+        "ckeditor4-xlsys": "latest",
+        "ckeditor4.6.1-ek": "latest",
+        "ckeditor4.7.0-ek": "latest",
+        "ckeditor4_xinonix": "latest",
+        "ckeditor4full-vue": "latest"
+    }
+}

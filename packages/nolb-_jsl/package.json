@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_jsl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jslabs/react-forms": "latest",
+        "@jslabs/react-static": "latest",
+        "@jslamela/common": "latest",
+        "@jslib-book/anypath": "latest",
+        "@jslib-book/cli": "latest",
+        "@jslib-book/clone": "latest",
+        "@jslib-book/extend": "latest",
+        "@jslib-book/functional": "latest",
+        "@jslib-book/isequal": "latest",
+        "@jslib-book/type": "latest",
+        "@jslibrary/enumeration": "latest",
+        "@jslibrary/event-dispatcher": "latest",
+        "@jslint-org/jslint": "latest",
+        "@jsliushen-fe/v-ui": "latest",
+        "@jsliushen/v-ui": "latest",
+        "@jsliztickets/common": "latest",
+        "@jslovesyou/a-plugin": "latest",
+        "@jslovesyou/core": "latest",
+        "@jslq/chaos": "latest",
+        "@jslq/eslint-config": "latest",
+        "@jslq/vue-iframe-messager": "latest",
+        "@jslq/workist": "latest",
+        "@jslt/ui": "latest"
+    }
+}

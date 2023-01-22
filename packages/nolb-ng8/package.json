@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-ng8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ng8-apple-signin": "latest",
+        "ng8-breadcrumb": "latest",
+        "ng8-breadcrumbs": "latest",
+        "ng8-common-lib": "latest",
+        "ng8-connection": "latest",
+        "ng8-crop": "latest",
+        "ng8-data-table": "latest",
+        "ng8-datetime-picker": "latest",
+        "ng8-demo-library": "latest",
+        "ng8-dev-primeng": "latest",
+        "ng8-echarts-lib": "latest",
+        "ng8-example-library": "latest",
+        "ng8-floating-action-button": "latest",
+        "ng8-flow": "latest",
+        "ng8-google-chart": "latest",
+        "ng8-image-viewer": "latest",
+        "ng8-modal": "latest",
+        "ng8-monorepo": "latest",
+        "ng8-month-picker": "latest",
+        "ng8-o2-auth-fb": "latest",
+        "ng8-odometer": "latest",
+        "ng8-pick-datetime": "latest",
+        "ng8-select": "latest",
+        "ng8-social-login": "latest",
+        "ng8-summernote": "latest",
+        "ng8-tree": "latest",
+        "ng8-tree-diagram": "latest"
+    }
+}

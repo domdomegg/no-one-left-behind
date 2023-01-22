@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_icp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@icp-js/crypto": "latest",
+        "@icp-js/utils": "latest",
+        "@icp-js/web3": "latest",
+        "@icpbox/js-sdk": "latest",
+        "@icplatform/eslint-config": "latest",
+        "@icplatform/eslint-config-prettier": "latest",
+        "@icplatform/eslint-config-react": "latest",
+        "@icplatform/eslint-config-react-testing": "latest",
+        "@icplatform/eslint-config-typescript": "latest",
+        "@icplatform/eslint-config-typescript-next": "latest",
+        "@icplatform/prettier-config": "latest",
+        "@icpsr/ui-components": "latest",
+        "@icpsr1/uikit": "latest",
+        "@icpsr1/uikit-builder": "latest",
+        "@icpsr1/uikit-button": "latest"
+    }
+}

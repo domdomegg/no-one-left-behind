@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-jsonn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jsonn": "latest",
+        "jsonnet": "latest",
+        "jsonnet-astexplorer": "latest",
+        "jsonnet-cli": "latest",
+        "jsonnet-exec": "latest",
+        "jsonnet-js": "latest",
+        "jsonnet-json-loader": "latest",
+        "jsonnet-loader": "latest",
+        "jsonnet-node-loader": "latest",
+        "jsonni-cli": "latest",
+        "jsonnull-create-project": "latest",
+        "jsonnull-project-scripts": "latest",
+        "jsonnull-scripts": "latest",
+        "jsonnunit": "latest"
+    }
+}

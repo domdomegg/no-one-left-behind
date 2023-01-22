@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-semb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "semba-lib": "latest",
+        "sembcomponents": "latest",
+        "sembear": "latest",
+        "semblance": "latest",
+        "semblance-ui": "latest",
+        "semble": "latest",
+        "sembly": "latest",
+        "semboloji": "latest"
+    }
+}

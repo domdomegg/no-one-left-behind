@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-m7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "m7": "latest",
+        "m7-ajax": "latest",
+        "m7-audio-player": "latest",
+        "m7-discord.js": "latest",
+        "m7-github-card": "latest",
+        "m7-luis": "latest",
+        "m7-monitor": "latest",
+        "m78": "latest",
+        "m78-zzx-powerful": "latest"
+    }
+}

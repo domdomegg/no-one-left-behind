@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-prete",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pretemplater": "latest",
+        "pretend": "latest",
+        "pretend-cdn": "latest",
+        "pretend-next": "latest",
+        "pretend-platform": "latest",
+        "pretend-server": "latest",
+        "pretendard": "latest",
+        "pretendard-jp": "latest",
+        "pretendard-std": "latest",
+        "pretender": "latest",
+        "pretender-core": "latest",
+        "pretender-non-browser-environment": "latest",
+        "pretender-query-param-handler": "latest",
+        "pretendr": "latest",
+        "pretendre": "latest",
+        "pretense": "latest",
+        "pretest": "latest",
+        "pretext": "latest"
+    }
+}

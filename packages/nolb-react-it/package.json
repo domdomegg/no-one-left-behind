@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-react-it",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-italy-address-typeahead": "latest",
+        "react-itech-antd": "latest",
+        "react-item-box-input": "latest",
+        "react-item-list": "latest",
+        "react-item-ordering": "latest",
+        "react-item-select": "latest",
+        "react-item-switcher": "latest",
+        "react-items": "latest",
+        "react-items-and-choices": "latest",
+        "react-items-carousel": "latest",
+        "react-items-slider": "latest",
+        "react-iterable-track": "latest",
+        "react-iterative-table": "latest",
+        "react-iterators": "latest",
+        "react-itertools": "latest",
+        "react-itg-toaster": "latest",
+        "react-itinerary": "latest",
+        "react-itnt": "latest",
+        "react-itours-rangepicker": "latest",
+        "react-itra-dropdown": "latest",
+        "react-itra-sidenav": "latest",
+        "react-ittsu": "latest",
+        "react-itune-calendar": "latest",
+        "react-itune-date-picker": "latest",
+        "react-ityped": "latest"
+    }
+}

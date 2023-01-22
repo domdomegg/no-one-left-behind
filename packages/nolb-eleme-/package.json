@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-eleme-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eleme-api": "latest",
+        "eleme-area-selector": "latest",
+        "eleme-area-selector-plus": "latest",
+        "eleme-css-transform": "latest",
+        "eleme-dom-animator": "latest",
+        "eleme-mock-server": "latest",
+        "eleme-openapi-nodejs-sdk": "latest",
+        "eleme-openapi-sdk": "latest",
+        "eleme-pay-sdk": "latest",
+        "eleme-portal-static": "latest",
+        "eleme-ubt": "latest"
+    }
+}

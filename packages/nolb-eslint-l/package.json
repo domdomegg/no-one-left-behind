@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-eslint-l",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslint-language-server": "latest",
+        "eslint-lazy-load-rule": "latest",
+        "eslint-levabala-config": "latest",
+        "eslint-linter-browserify": "latest",
+        "eslint-loader": "latest",
+        "eslint-loader-fs-cache": "latest",
+        "eslint-lockdown": "latest",
+        "eslint-loft-rules": "latest",
+        "eslint-lsp": "latest"
+    }
+}

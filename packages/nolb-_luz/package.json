@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_luz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@luzat/listify": "latest",
+        "@luzer-bbt/test2": "latest",
+        "@luzfcb/spectral": "latest",
+        "@luzhongk/animate": "latest",
+        "@luzhongk/js-monitor": "latest",
+        "@luzhongk/kuan-vue": "latest",
+        "@luzhongk/node-ding": "latest",
+        "@luzhongk/node-feedback": "latest",
+        "@luzhongk/node-get": "latest",
+        "@luzhongk/node-logger": "latest",
+        "@luzhongk/node-mysql": "latest",
+        "@luzhongk/upload": "latest",
+        "@luzhongk/vue": "latest",
+        "@luzhongk/vue-debug": "latest",
+        "@luzhongk/vue-dialog": "latest",
+        "@luzhongk/vue-drawer": "latest",
+        "@luzhongk/vue-feedback": "latest",
+        "@luzhongk/vue-qrcode": "latest",
+        "@luzhongk/vue-request": "latest",
+        "@luzhongk/vue-shape": "latest",
+        "@luzhox/test-lib": "latest",
+        "@luzhuokun/my-plugin": "latest",
+        "@luzhuokun/test": "latest",
+        "@luzhuokun/tools": "latest",
+        "@luzhuokun/uploadfile-webpack-plugin": "latest",
+        "@luzmygaal/test": "latest",
+        "@luzzif/express-fs": "latest"
+    }
+}

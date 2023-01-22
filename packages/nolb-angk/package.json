@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-angk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "angka": "latest",
+        "angka-menjadi-terbilang": "latest",
+        "angka-terbilang": "latest",
+        "angkana-simple-package": "latest",
+        "angkeeditor": "latest",
+        "angkeeditorforvue": "latest",
+        "angkor": "latest",
+        "angkortemple": "latest",
+        "angkorwat": "latest"
+    }
+}

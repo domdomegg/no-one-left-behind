@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_no_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@no_idea/cli": "latest",
+        "@no_idea/eslint-config-basic": "latest",
+        "@no_idea/eslint-config-ts": "latest",
+        "@no_idea/eslint-config-vue": "latest",
+        "@no_idea/pinia-plugin-persistent": "latest",
+        "@no_idea/utils": "latest",
+        "@no_idea/wind-ui": "latest"
+    }
+}

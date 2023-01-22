@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-rxd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rxd-tools-v1.0": "latest",
+        "rxdable": "latest",
+        "rxdata": "latest",
+        "rxdatastore": "latest",
+        "rxdb": "latest",
+        "rxdb-adapter-localstorage": "latest",
+        "rxdb-core": "latest",
+        "rxdb-dump": "latest",
+        "rxdb-encryption": "latest",
+        "rxdb-full": "latest",
+        "rxdb-hooks": "latest",
+        "rxdb-plugin-proxy": "latest",
+        "rxdb-premium": "latest",
+        "rxdb-rx": "latest",
+        "rxdb-schema": "latest",
+        "rxdb-search": "latest",
+        "rxdb-util": "latest",
+        "rxdb-utils": "latest",
+        "rxdbi": "latest",
+        "rxdeep": "latest",
+        "rxdis": "latest",
+        "rxdiscord": "latest",
+        "rxdl-js": "latest",
+        "rxdux": "latest",
+        "rxdx": "latest"
+    }
+}

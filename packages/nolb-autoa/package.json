@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-autoa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "autoabi": "latest",
+        "autoaccess": "latest",
+        "autoaction": "latest",
+        "autoae": "latest",
+        "autoagent": "latest",
+        "autoai-js-sdk": "latest",
+        "autoaiview": "latest",
+        "autoajax": "latest",
+        "autoalign": "latest",
+        "autoamazing": "latest",
+        "autoanalytics": "latest",
+        "autoanchor": "latest",
+        "autoantwort-markdown-link-check": "latest",
+        "autoantwort-markdown-link-extractor": "latest",
+        "autoapi-webpack-plugin": "latest",
+        "autoapp": "latest",
+        "autoapply": "latest",
+        "autoapt": "latest",
+        "autoauth": "latest"
+    }
+}

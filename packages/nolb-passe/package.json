@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-passe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "passe": "latest",
+        "passec": "latest",
+        "passed": "latest",
+        "passed-time": "latest",
+        "passed_ui": "latest",
+        "passeiaqui": "latest",
+        "passeljs": "latest",
+        "passenc": "latest",
+        "passenger": "latest",
+        "passenger-car": "latest",
+        "passenger-seat": "latest",
+        "passenger-status-node": "latest",
+        "passepartout": "latest",
+        "passer": "latest",
+        "passer-analytics": "latest",
+        "passer-http": "latest",
+        "passer-storage": "latest",
+        "passeri": "latest",
+        "passerma-cli-test-lerna": "latest",
+        "passerror": "latest",
+        "passes-wcag": "latest"
+    }
+}

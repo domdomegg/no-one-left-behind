@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_ca-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ca-apm/native-metrics": "latest",
+        "@ca-cu-ucs/ucs-wc": "latest",
+        "@ca-plant-list/ca-plant-list": "latest",
+        "@ca-programa-house/arsty-components": "latest",
+        "@ca-programa-house/artsy-components": "latest",
+        "@ca-programa-house/artsy-types": "latest",
+        "@ca-programa-house/spark-components": "latest",
+        "@ca-programa-house/spark-types": "latest",
+        "@ca-ui/alert": "latest",
+        "@ca-ui/badge": "latest",
+        "@ca-ui/button": "latest",
+        "@ca-ui/globals": "latest"
+    }
+}

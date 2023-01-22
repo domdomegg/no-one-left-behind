@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-tray",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tray": "latest",
+        "tray-apk-install": "latest",
+        "tray-login": "latest",
+        "tray-theme": "latest",
+        "tray-theme2": "latest",
+        "tray-window-state-manager": "latest",
+        "tray-windows": "latest",
+        "tray-windows-js": "latest",
+        "tray.discord": "latest",
+        "trayballoon": "latest",
+        "trayicon": "latest",
+        "trayio-connector-sdk": "latest",
+        "traykov-opencommerce": "latest",
+        "traykov-sentry-lib": "latest",
+        "traypkg": "latest",
+        "trays": "latest"
+    }
+}

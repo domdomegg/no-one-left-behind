@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-react-native-af",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-af-brother-mobile-ads": "latest",
+        "react-native-af-test": "latest",
+        "react-native-af-video-player": "latest",
+        "react-native-af-video-player-custom": "latest",
+        "react-native-af-video-player-kolyde-clone": "latest",
+        "react-native-af-video-player-updated": "latest",
+        "react-native-affini-library": "latest",
+        "react-native-afrzoom": "latest"
+    }
+}

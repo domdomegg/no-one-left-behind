@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-passport-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "passport-validator": "latest",
+        "passport-venmo": "latest",
+        "passport-verify": "latest",
+        "passport-verify-non-matching": "latest",
+        "passport-veritone": "latest",
+        "passport-versionone": "latest",
+        "passport-verticalresponse": "latest",
+        "passport-videoask": "latest",
+        "passport-vimeo": "latest",
+        "passport-vimeo-oauth2": "latest",
+        "passport-vipps": "latest",
+        "passport-visualstudio": "latest",
+        "passport-vivokey": "latest",
+        "passport-vk": "latest",
+        "passport-vk-app": "latest",
+        "passport-vk-app-sign": "latest",
+        "passport-vk-strategy": "latest",
+        "passport-vkontakte": "latest",
+        "passport-vkontakte-iframe": "latest",
+        "passport-vkontakte-nest": "latest",
+        "passport-vkontakte-no-pkginfo": "latest",
+        "passport-vkontakte-token": "latest",
+        "passport-voice-it": "latest",
+        "passport-vso": "latest",
+        "passport-vso-custom": "latest",
+        "passport-vso-oauth": "latest"
+    }
+}

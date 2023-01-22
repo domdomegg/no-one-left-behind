@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-laa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "laa": "latest",
+        "laaa": "latest",
+        "laabr": "latest",
+        "laag": "latest",
+        "laakarihinta-react-formio": "latest",
+        "laamginghong-design": "latest",
+        "laamginghong-utils": "latest",
+        "laang": "latest",
+        "laaqmessages": "latest",
+        "laarc": "latest",
+        "laas": "latest",
+        "laas-admin-api": "latest",
+        "laas-setting": "latest",
+        "laaso": "latest",
+        "laat-readme-jest": "latest",
+        "laazy": "latest"
+    }
+}

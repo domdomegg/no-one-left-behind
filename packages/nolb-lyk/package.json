@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-lyk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "LykkeFramework": "latest",
+        "lyk": "latest",
+        "lyk-10": "latest",
+        "lyk-12": "latest",
+        "lyk-12.12": "latest",
+        "lyk-12.14": "latest",
+        "lyk-14": "latest",
+        "lyk-19": "latest",
+        "lyk-flow": "latest",
+        "lyk-flow-extension": "latest",
+        "lyk-gulp-pages": "latest",
+        "lyk-npm-test": "latest",
+        "lyk-tools": "latest",
+        "lyk-toutou": "latest",
+        "lyk990desktopdemo": "latest",
+        "lyk_demo_01": "latest",
+        "lyka-datepicker": "latest",
+        "lykdat": "latest",
+        "lykejs": "latest",
+        "lykke-log": "latest",
+        "lykke-log-webpack-plugin": "latest",
+        "lykke-react-components": "latest",
+        "lykke.js": "latest",
+        "lykkeframework": "latest",
+        "lyko-client-api-library": "latest"
+    }
+}

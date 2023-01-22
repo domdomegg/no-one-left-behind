@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_azl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@azleads/bancointer": "latest",
+        "@azleads/tiny-erp": "latest",
+        "@azleur/game-loop": "latest",
+        "@azleur/mat2": "latest",
+        "@azleur/mat3": "latest",
+        "@azleur/math-util": "latest",
+        "@azleur/random": "latest",
+        "@azleur/rect": "latest",
+        "@azleur/scaling-canvas": "latest",
+        "@azleur/stats": "latest",
+        "@azleur/transform": "latest",
+        "@azleur/vec2": "latest",
+        "@azleur/vec2-random": "latest",
+        "@azleur/vec3": "latest"
+    }
+}

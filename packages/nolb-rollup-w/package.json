@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-rollup-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rollup-wasm-pack-import": "latest",
+        "rollup-watch": "latest",
+        "rollup-watch-angular": "latest",
+        "rollup-watch-fix": "latest",
+        "rollup-web": "latest",
+        "rollup-webpack-loader": "latest",
+        "rollup-webworker-plugin": "latest",
+        "rollup-worker": "latest",
+        "rollup-wrapper": "latest"
+    }
+}

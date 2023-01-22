@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_ryanw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryanwalters/react-jw-player": "latest",
+        "@ryanwang520/vue-editor": "latest",
+        "@ryanwang520/vue-query": "latest",
+        "@ryanwang520/vue-tabs": "latest",
+        "@ryanwarner/cli": "latest",
+        "@ryanwarner/rw": "latest",
+        "@ryanwashburne/starter": "latest",
+        "@ryanwelcher/dynamic-block-template": "latest",
+        "@ryanwelcher/hello-block-template": "latest",
+        "@ryanwelcher/multiple-blocks-template": "latest",
+        "@ryanwelcher/scaffold-block": "latest",
+        "@ryanwersal/litra": "latest",
+        "@ryanwersal/litra-cli": "latest",
+        "@ryanwhite04/laverna": "latest",
+        "@ryanwhite04/mind": "latest",
+        "@ryanwhitman/delay.js": "latest",
+        "@ryanwilke/feather-css": "latest",
+        "@ryanwilldev/react-calendario": "latest"
+    }
+}

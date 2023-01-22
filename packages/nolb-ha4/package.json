@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-ha4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ha4us": "latest",
+        "ha4us-adapter.alexa": "latest",
+        "ha4us-adapter.events": "latest",
+        "ha4us-adapter.hm-rpc": "latest",
+        "ha4us-adapter.hue": "latest",
+        "ha4us-adapter.logic": "latest",
+        "ha4us-adapter.presence-ble": "latest",
+        "ha4us-adapter.rfid": "latest",
+        "ha4us-adapter.scheduler": "latest",
+        "ha4us-adapter.sonos": "latest",
+        "ha4us-base": "latest",
+        "ha4us-chafon": "latest",
+        "ha4us-elastichistory": "latest",
+        "ha4us-fritz": "latest",
+        "ha4us-gui": "latest",
+        "ha4us-harmony": "latest",
+        "ha4us-history": "latest",
+        "ha4us-hm": "latest",
+        "ha4us-hue": "latest",
+        "ha4us-landroid": "latest",
+        "ha4us-rest": "latest",
+        "ha4us-scripts": "latest",
+        "ha4us-server": "latest",
+        "ha4us-sonos": "latest",
+        "ha4us-telegram": "latest"
+    }
+}

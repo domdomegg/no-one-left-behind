@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-zhw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zhw": "latest",
+        "zhw-color-project": "latest",
+        "zhw-drag-tree-table": "latest",
+        "zhw-gulp": "latest",
+        "zhw-npm999": "latest",
+        "zhw-ui": "latest",
+        "zhw-vue": "latest",
+        "zhw999": "latest",
+        "zhweb-cli": "latest",
+        "zhwl-cli": "latest",
+        "zhwl-iview-area": "latest",
+        "zhwword": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_alew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alewachu/mediaplayer": "latest",
+        "@aleworm/bindings": "latest",
+        "@aleworm/connection-banner": "latest",
+        "@aleworm/hw-transport-node-hid": "latest",
+        "@aleworm/hw-transport-node-hid-noevents": "latest",
+        "@aleworm/node-hid": "latest",
+        "@aleworm/rimble-web3-components": "latest",
+        "@aleworm/svelte-skeleton-loader": "latest",
+        "@aleworm/usb": "latest",
+        "@aleworm/usb2": "latest",
+        "@aleworm/usb3": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-eslint-a",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslint-action": "latest",
+        "eslint-add": "latest",
+        "eslint-airbnb-react-prettier": "latest",
+        "eslint-airbnb-react-typescript": "latest",
+        "eslint-all-rules": "latest",
+        "eslint-and-prettier-config": "latest",
+        "eslint-array-spacing": "latest",
+        "eslint-ast": "latest",
+        "eslint-ast-traverser": "latest",
+        "eslint-ast-utils": "latest",
+        "eslint-audio-formatter": "latest",
+        "eslint-auto-config": "latest",
+        "eslint-auto-fix": "latest",
+        "eslint-auto-gen-config": "latest",
+        "eslint-ava-rule-tester": "latest"
+    }
+}

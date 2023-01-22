@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-tyb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tyb": "latest",
+        "tyb-advanced-searchbox": "latest",
+        "tyb-express-cassandra": "latest",
+        "tyb-npm-test": "latest",
+        "tyb-project": "latest",
+        "tyb-systemjs": "latest",
+        "tybalt": "latest",
+        "tyber-framework": "latest",
+        "tyble": "latest",
+        "tyblox.js": "latest",
+        "tybobo19030": "latest",
+        "tyboost": "latest",
+        "tybrowser-func-wrapper": "latest",
+        "tybrowser-jstype": "latest",
+        "tybrowser-lighthouse": "latest",
+        "tybrowser-util": "latest",
+        "tybrs-lighthouse": "latest",
+        "tybscri": "latest",
+        "tybscri-react-editor": "latest",
+        "tybtest": "latest"
+    }
+}

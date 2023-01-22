@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-ckeditor_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ckeditor.collapsable": "latest",
+        "ckeditor_classic_baloon": "latest",
+        "ckeditor_custom_balloon_swae": "latest",
+        "ckeditor_custom_sale": "latest",
+        "ckeditor_imageuploader": "latest",
+        "ckeditor_lineheight": "latest",
+        "ckeditor_primicias": "latest",
+        "ckeditor_primicias_adapter_upload": "latest",
+        "ckeditor_v4": "latest",
+        "ckeditor_wave": "latest",
+        "ckeditor_youtube": "latest"
+    }
+}

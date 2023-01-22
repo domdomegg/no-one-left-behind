@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-svj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svj": "latest",
+        "svjimmy": "latest",
+        "svjs": "latest",
+        "svjs-app": "latest",
+        "svjs-audio": "latest",
+        "svjs-grid": "latest",
+        "svjs-i18n": "latest",
+        "svjs-icon": "latest",
+        "svjs-message-broker": "latest",
+        "svjs-observe": "latest",
+        "svjs-svg": "latest",
+        "svjs-test": "latest",
+        "svjs-util": "latest",
+        "svjs-utils": "latest",
+        "svjsl": "latest"
+    }
+}

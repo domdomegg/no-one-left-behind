@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-type2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "type2": "latest",
+        "type2-charstring": "latest",
+        "type2docfx": "latest",
+        "type2js": "latest",
+        "type2lua": "latest"
+    }
+}

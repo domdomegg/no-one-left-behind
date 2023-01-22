@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_jsy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jsy-cli-dev/core": "latest",
+        "@jsy-cli-dev/utils": "latest",
+        "@jsy-lang/nodejs": "latest",
+        "@jsylka/blues": "latest",
+        "@jsynth/core": "latest",
+        "@jsyspk/jgrid": "latest",
+        "@jsyzqt/q-rpc": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-react-native-mj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-mjcore": "latest",
+        "react-native-mjdunion": "latest",
+        "react-native-mjpeg": "latest",
+        "react-native-mjpeg-player": "latest",
+        "react-native-mjpush": "latest",
+        "react-native-mjrefresh": "latest",
+        "react-native-mjrefresh-ios": "latest",
+        "react-native-mjrefresh-lower": "latest",
+        "react-native-mjrefresh-xys": "latest",
+        "react-native-mjverification": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_crs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@crshnburn/hexyz": "latest",
+        "@crshnburn/judo": "latest",
+        "@crshoverride/react-cli": "latest",
+        "@crsincca/xrd-data-provider-module": "latest",
+        "@crsincca/xrd-dispatch-module": "latest",
+        "@crsincca/xrd-graph-module": "latest",
+        "@crsincca/xrd-load-file-module": "latest",
+        "@crsincca/xrd-main-gui-module": "latest",
+        "@crsincca/xrd-main-menu-module": "latest",
+        "@crspradlin/channelsjs": "latest",
+        "@crster9600/crster-html": "latest",
+        "@crstn/neos-cli": "latest",
+        "@crstn/redirect": "latest",
+        "@crswll/air": "latest"
+    }
+}

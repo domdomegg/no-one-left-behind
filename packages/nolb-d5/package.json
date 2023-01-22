@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-d5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "d5": "latest",
+        "d5-boots": "latest",
+        "d5-test-cli": "latest",
+        "d55-ui": "latest",
+        "d5bdd59k": "latest",
+        "d5c-code": "latest",
+        "d5c-dll-lib": "latest",
+        "d5c-el-style": "latest",
+        "d5c-el-ui": "latest",
+        "d5c-electron-sdk": "latest",
+        "d5c-im-ts": "latest",
+        "d5c-label-code": "latest",
+        "d5e-core-lib": "latest",
+        "d5ly": "latest"
+    }
+}

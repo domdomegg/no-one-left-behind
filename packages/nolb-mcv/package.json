@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-mcv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mcv": "latest",
+        "mcv-angular-package": "latest",
+        "mcv-elastic-lib": "latest",
+        "mcv_business_card": "latest",
+        "mcversions": "latest",
+        "mcvue": "latest"
+    }
+}

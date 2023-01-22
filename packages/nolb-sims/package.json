@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-sims",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sims": "latest",
+        "sims-cli": "latest",
+        "sims-photo-album-list": "latest",
+        "sims-photo-album-parser": "latest",
+        "sims-photo-album-watcher": "latest",
+        "sims-tool": "latest",
+        "sims-tools": "latest",
+        "simsala": "latest",
+        "simsalabim-design": "latest",
+        "simscript": "latest",
+        "simsekapi": "latest",
+        "simserver": "latest",
+        "simsim-ui": "latest",
+        "simsimi": "latest",
+        "simskoy": "latest",
+        "simsl": "latest",
+        "simsnewtest": "latest",
+        "simson-cli": "latest",
+        "simspark": "latest",
+        "simsplipy": "latest",
+        "simstate": "latest",
+        "simstate-i18n": "latest",
+        "simsun": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-dayu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dayu": "latest",
+        "dayu-component": "latest",
+        "dayu-themes": "latest",
+        "dayu02": "latest",
+        "dayu_ui": "latest",
+        "dayuan-captcha": "latest",
+        "dayuanlian.com": "latest",
+        "dayuanlian.concc": "latest",
+        "dayuanzhong": "latest",
+        "dayujs": "latest",
+        "dayum": "latest",
+        "dayundebao": "latest",
+        "dayuntilxmas": "latest",
+        "dayusms": "latest",
+        "dayutil": "latest",
+        "dayuuui": "latest"
+    }
+}

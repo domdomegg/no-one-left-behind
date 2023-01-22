@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_reacte",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reacted/img-viewer": "latest",
+        "@reacted/use-file-select": "latest",
+        "@reacted/use-file-upload": "latest",
+        "@reacted/use-pop-layer": "latest",
+        "@reacted/use-width-overflow": "latest",
+        "@reactend/express": "latest",
+        "@reactesm/expr-eval": "latest",
+        "@reactesm/react": "latest",
+        "@reactesm/react-dom": "latest"
+    }
+}

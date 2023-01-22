@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_material-icon-sd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/material-icon-sd-card-alert-filled": "latest",
+        "@hyper.fun/material-icon-sd-card-alert-outlined": "latest",
+        "@hyper.fun/material-icon-sd-card-alert-round": "latest",
+        "@hyper.fun/material-icon-sd-card-alert-sharp": "latest",
+        "@hyper.fun/material-icon-sd-card-alert-twotone": "latest",
+        "@hyper.fun/material-icon-sd-card-filled": "latest",
+        "@hyper.fun/material-icon-sd-card-outlined": "latest",
+        "@hyper.fun/material-icon-sd-card-round": "latest",
+        "@hyper.fun/material-icon-sd-card-sharp": "latest",
+        "@hyper.fun/material-icon-sd-card-twotone": "latest",
+        "@hyper.fun/material-icon-sd-filled": "latest",
+        "@hyper.fun/material-icon-sd-outlined": "latest",
+        "@hyper.fun/material-icon-sd-round": "latest",
+        "@hyper.fun/material-icon-sd-sharp": "latest",
+        "@hyper.fun/material-icon-sd-storage-filled": "latest",
+        "@hyper.fun/material-icon-sd-storage-outlined": "latest",
+        "@hyper.fun/material-icon-sd-storage-round": "latest",
+        "@hyper.fun/material-icon-sd-storage-sharp": "latest",
+        "@hyper.fun/material-icon-sd-storage-twotone": "latest",
+        "@hyper.fun/material-icon-sd-twotone": "latest"
+    }
+}

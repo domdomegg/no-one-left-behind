@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_cloudw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cloudwalk-inc/brlc-contracts": "latest",
+        "@cloudwalker/create-web-app": "latest",
+        "@cloudwalker/dom-utils": "latest",
+        "@cloudwalker/eslint-config": "latest",
+        "@cloudwalker/prettier-config": "latest",
+        "@cloudwalker/react-inspect": "latest",
+        "@cloudwalker/react-navs": "latest",
+        "@cloudwalker/react-scripts": "latest",
+        "@cloudwalker/react-tabs-handler": "latest",
+        "@cloudwalker/react-utils": "latest",
+        "@cloudwalker/react-web-scrolllock": "latest",
+        "@cloudwalker/ts-utils": "latest",
+        "@cloudway/cloudwatch-logger": "latest",
+        "@cloudwell/debounce": "latest",
+        "@cloudwell/simple-dialog": "latest",
+        "@cloudwell/simple-theme": "latest",
+        "@cloudwise-fe/chart-panel": "latest",
+        "@cloudwise-fe/chart-panel-new": "latest",
+        "@cloudws/js-client-api": "latest",
+        "@cloudws/node-api": "latest"
+    }
+}

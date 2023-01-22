@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-lii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lii-ui": "latest",
+        "liibb": "latest",
+        "liiittlefox-dialog-modal": "latest",
+        "liike": "latest",
+        "liil": "latest",
+        "liim": "latest",
+        "liinktemplates": "latest",
+        "liion-lib-d3k": "latest",
+        "liis-viis-riis": "latest",
+        "liitejss": "latest",
+        "liiz": "latest"
+    }
+}

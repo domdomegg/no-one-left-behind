@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-uiv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "uiv": "latest",
+        "uiv-custom": "latest",
+        "uiv2": "latest",
+        "uiv_fixed": "latest",
+        "uiview": "latest",
+        "uiviewbridge": "latest",
+        "uivjs": "latest",
+        "uivm": "latest"
+    }
+}

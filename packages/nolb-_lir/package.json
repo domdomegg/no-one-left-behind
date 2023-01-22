@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_lir",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lir0sis/math": "latest",
+        "@liradb2000/babel-plugin-transform-globals": "latest",
+        "@liradb2000/markdown-it-katex": "latest",
+        "@liradb2000/markdown-it-mermaid": "latest",
+        "@liradb2000/markdown-it-toc-done-right": "latest",
+        "@liradb2000/systemjs": "latest",
+        "@liradb2000/zstd-codec": "latest",
+        "@liranbri/oidc-middleware": "latest",
+        "@lirando/slugger": "latest",
+        "@lirantal/typeform-client": "latest",
+        "@lirazamir/script-test": "latest",
+        "@lirengao/democomposer": "latest",
+        "@lirica/deduce": "latest",
+        "@liriliri/lsla": "latest",
+        "@lirimkrosa/rn-nodeify": "latest",
+        "@lirio-express/http": "latest",
+        "@liripeng/vue-audio-player": "latest",
+        "@lirl-cn/v2c": "latest",
+        "@lirl-cn/v2ctest": "latest",
+        "@lirns/custom-page": "latest",
+        "@lironeld/test-ts": "latest",
+        "@lironeld/v-test": "latest",
+        "@lirx/core": "latest",
+        "@lirx/rxjs-bridge": "latest",
+        "@liryc/yaml-config": "latest"
+    }
+}

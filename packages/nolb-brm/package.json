@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-brm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brm": "latest",
+        "brm-api": "latest",
+        "brmasker": "latest",
+        "brmasker-ionic": "latest",
+        "brmasker-ionic-3": "latest",
+        "brmasker-ionic-3-plus": "latest",
+        "brmasker4": "latest",
+        "brmbrtest": "latest",
+        "brmdb-cli": "latest",
+        "brmm": "latest",
+        "brmn-js": "latest",
+        "brms": "latest",
+        "brms-linter": "latest",
+        "brms-pirate": "latest",
+        "brmslint": "latest"
+    }
+}

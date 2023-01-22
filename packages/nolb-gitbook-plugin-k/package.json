@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-gitbook-plugin-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gitbook-plugin-kakuyomu-formatter": "latest",
+        "gitbook-plugin-karah-toc": "latest",
+        "gitbook-plugin-katex": "latest",
+        "gitbook-plugin-katex-custom": "latest",
+        "gitbook-plugin-katex-dev": "latest",
+        "gitbook-plugin-katex-full": "latest",
+        "gitbook-plugin-katex-gf": "latest",
+        "gitbook-plugin-katex-new": "latest",
+        "gitbook-plugin-katex-ng": "latest",
+        "gitbook-plugin-katex-plus": "latest",
+        "gitbook-plugin-katex-pp": "latest",
+        "gitbook-plugin-katex-pro": "latest",
+        "gitbook-plugin-katex-walle": "latest",
+        "gitbook-plugin-katex2": "latest",
+        "gitbook-plugin-kathondvla-theme-faq": "latest",
+        "gitbook-plugin-keyvault": "latest",
+        "gitbook-plugin-klipse": "latest",
+        "gitbook-plugin-ksyun-docs": "latest"
+    }
+}

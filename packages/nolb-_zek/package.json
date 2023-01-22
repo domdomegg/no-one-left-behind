@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_zek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zeke/clipboard": "latest",
+        "@zeke/github-actions-test": "latest",
+        "@zeke/package-postinstall-test": "latest",
+        "@zeke/pubbles": "latest",
+        "@zeke/scopey": "latest",
+        "@zekemostov/staking-payouts": "latest",
+        "@zekfad/bitbyte": "latest",
+        "@zekfad/bitbytearray": "latest",
+        "@zekfad/eslint-config": "latest",
+        "@zekker6/slack-gitlab-mr-reminder": "latest",
+        "@zeklouis/iut-encrypt": "latest",
+        "@zeklouis/react-video-seek-slider": "latest",
+        "@zekneer/packb": "latest",
+        "@zekneer/packc": "latest",
+        "@zekneer/test-dist-tag": "latest",
+        "@zekro/react-highlight": "latest",
+        "@zekula/common": "latest",
+        "@zekula/express-common-validations": "latest",
+        "@zekumoru-dev/knights-travails": "latest",
+        "@zekumoru-dev/linked-list": "latest",
+        "@zekumoru-dev/merge-sort": "latest",
+        "@zekumoru-dev/queue": "latest",
+        "@zekumoru-dev/svg-loader": "latest"
+    }
+}

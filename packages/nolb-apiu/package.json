@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-apiu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "apiu": "latest",
+        "apium": "latest",
+        "apium-cal": "latest",
+        "apiunit": "latest",
+        "apiup": "latest",
+        "apiurl": "latest",
+        "apius": "latest"
+    }
+}

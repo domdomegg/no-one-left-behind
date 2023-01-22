@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-zhh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zhh": "latest",
+        "zhh-cli": "latest",
+        "zhh-component-test": "latest",
+        "zhh-react-scripts": "latest",
+        "zhh-yd-plugin": "latest",
+        "zhhh-cli": "latest",
+        "zhhl-h5player99": "latest"
+    }
+}

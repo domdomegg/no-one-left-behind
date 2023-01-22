@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-lightg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lightgallery": "latest",
+        "lightgallery-embed.js": "latest",
+        "lightgallery-vue": "latest",
+        "lightgallery.esm.js": "latest",
+        "lightgallery.js": "latest",
+        "lightgbm-doc-zh": "latest",
+        "lightgl.js": "latest"
+    }
+}

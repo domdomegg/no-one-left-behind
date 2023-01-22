@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_chay",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chayafer/angular-editor": "latest",
+        "@chayanba/firstmodules": "latest",
+        "@chayanba/myinput": "latest",
+        "@chaykin-nikita/package-json-processor": "latest",
+        "@chaykin7/nexus-ui-components": "latest",
+        "@chaykin7/nexus-ui-components-test": "latest",
+        "@chaykin7/test-lib": "latest",
+        "@chayns-components/core": "latest",
+        "@chayns-scripts/babel-preset": "latest",
+        "@chayns-scripts/eslint-config": "latest",
+        "@chayns-toolkit/babel-preset": "latest",
+        "@chayns-toolkit/eslint-config": "latest",
+        "@chayns-toolkit/utilities": "latest",
+        "@chayns/colors": "latest",
+        "@chayns/react-audio-editor": "latest"
+    }
+}

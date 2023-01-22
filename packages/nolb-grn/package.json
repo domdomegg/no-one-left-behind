@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-grn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grn": "latest",
+        "grn-cli": "latest",
+        "grn-skipper-gridfs": "latest",
+        "grn_for_eua": "latest",
+        "grn_for_eua_students_only": "latest",
+        "grn_ui": "latest",
+        "grnai-vis-phenotypes": "latest",
+        "grneua": "latest",
+        "grnhse": "latest",
+        "grnidfry": "latest",
+        "grnn": "latest",
+        "grnsight": "latest",
+        "grnt-co3trib-watch": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-servl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "servler": "latest",
+        "servless": "latest",
+        "servlet": "latest",
+        "servletcontext": "latest",
+        "servletjs": "latest",
+        "servlets.js": "latest",
+        "servlette": "latest",
+        "servlr": "latest",
+        "servly": "latest",
+        "servly-azure": "latest"
+    }
+}

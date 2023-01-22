@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_nop",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nop-app/nuxt-nop": "latest",
+        "@nop-app/vue-nop": "latest",
+        "@nopain1210/react-ui": "latest",
+        "@nopasswordlogin/react-nopasswordlogin": "latest",
+        "@nopasswordlogin/react-passwordless": "latest",
+        "@nopcommerce/backend": "latest",
+        "@nopcommerce/frontend": "latest",
+        "@nopes/eslint-nestjs": "latest",
+        "@nopes/prettier": "latest",
+        "@nopomo/core": "latest",
+        "@nopomo/mkdb": "latest",
+        "@nopow_link/portable": "latest",
+        "@noppanuvat/ckeditor5-build-custom": "latest",
+        "@nopr3d/rx-vue-next": "latest",
+        "@nopr3d/vue-next-rx": "latest",
+        "@noprgr/cwp22-1": "latest",
+        "@noprotocol/np-cli": "latest",
+        "@noprotocol/np-form": "latest",
+        "@nopser/com.nopser.search.elasticsearch": "latest",
+        "@nopu/bigint-json": "latest",
+        "@nopu/vanilla-ui": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_fluentui-emoji-woo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/fluentui-emoji-wood-color": "latest",
+        "@hyper.fun/fluentui-emoji-wood-flat": "latest",
+        "@hyper.fun/fluentui-emoji-wood-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-woozy-face-color": "latest",
+        "@hyper.fun/fluentui-emoji-woozy-face-flat": "latest",
+        "@hyper.fun/fluentui-emoji-woozy-face-high-contrast": "latest"
+    }
+}

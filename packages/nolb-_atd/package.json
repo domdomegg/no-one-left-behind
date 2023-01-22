@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_atd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@atd285/my-test-package": "latest",
+        "@atdatom/atomcli": "latest",
+        "@atdbio/chemical-formula": "latest",
+        "@atdrago/logflare-transport-core": "latest",
+        "@atdrago/pino-logflare": "latest",
+        "@atduarte/eslint-config": "latest",
+        "@atdyer/graph-js": "latest"
+    }
+}

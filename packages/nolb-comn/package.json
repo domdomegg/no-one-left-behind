@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-comn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "comn": "latest",
+        "comnader": "latest",
+        "comner": "latest",
+        "comnic-npm-lesson-ohmatsu": "latest",
+        "comnori-react-scripts": "latest",
+        "comnpm": "latest",
+        "comnpmjs": "latest"
+    }
+}

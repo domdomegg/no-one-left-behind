@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-sailo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sailon": "latest",
+        "sailor": "latest",
+        "sailor-cli": "latest",
+        "sailor-errorify": "latest",
+        "sailor-icons": "latest",
+        "sailor-module-authentication": "latest",
+        "sailor-module-blueprints": "latest",
+        "sailor-module-crontab": "latest",
+        "sailor-module-group": "latest",
+        "sailor-module-i18n": "latest",
+        "sailor-module-imgur": "latest",
+        "sailor-module-lastfm": "latest",
+        "sailor-module-mailchimp": "latest",
+        "sailor-module-mandrill": "latest",
+        "sailor-module-message": "latest",
+        "sailor-module-response": "latest",
+        "sailor-module-user": "latest",
+        "sailor-module-validator": "latest",
+        "sailor-scripts": "latest",
+        "sailor-translate": "latest",
+        "sailor-validator": "latest",
+        "sailorcontext": "latest",
+        "sailorjs": "latest",
+        "sailors": "latest"
+    }
+}

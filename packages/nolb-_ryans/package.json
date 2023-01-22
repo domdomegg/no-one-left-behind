@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_ryans",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryanshaug/doctor": "latest",
+        "@ryanshaug/gl-controls": "latest",
+        "@ryanshaug/globallistings-test-components": "latest",
+        "@ryanshaug/globallistings-test-social-widgets": "latest",
+        "@ryanshaug/globallistings-test-stamp-duty-calculator": "latest",
+        "@ryansmith94/moodle-plugin-release": "latest",
+        "@ryansolid/s-js": "latest",
+        "@ryansonshine/commitizen": "latest",
+        "@ryansonshine/cz-conventional-changelog": "latest",
+        "@ryansteil/sketch": "latest"
+    }
+}

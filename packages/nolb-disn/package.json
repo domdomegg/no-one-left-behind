@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-disn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "disnext": "latest",
+        "disney-parks-calendar": "latest",
+        "disney-ui": "latest",
+        "disney.js": "latest",
+        "disneyland": "latest",
+        "disnine.js": "latest",
+        "disnod": "latest",
+        "disnode": "latest",
+        "disnode-extra": "latest",
+        "disnode-lang": "latest",
+        "disnode-lite": "latest",
+        "disnode-logger": "latest",
+        "disnode-manager": "latest",
+        "disnode-spotify-manager": "latest",
+        "disnotify": "latest",
+        "disnut-theme": "latest"
+    }
+}

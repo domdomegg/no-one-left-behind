@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-rn-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rn-kakao": "latest",
+        "rn-kakao-links": "latest",
+        "rn-kakao-login": "latest",
+        "rn-kakao-login-namdq": "latest",
+        "rn-kakao-map": "latest",
+        "rn-karuselli": "latest",
+        "rn-keyboard": "latest",
+        "rn-keyboard-avoider": "latest",
+        "rn-keyboard-aware-tab-view": "latest",
+        "rn-keyboard-sticky-view": "latest",
+        "rn-kits": "latest",
+        "rn-kline-he": "latest",
+        "rn-koro-lib": "latest",
+        "rn-kplay-native-toast-library-0.0.1": "latest",
+        "rn-kyc-client-dev": "latest"
+    }
+}

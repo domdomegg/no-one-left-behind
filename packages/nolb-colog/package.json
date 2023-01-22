@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-colog",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "colog": "latest",
+        "colog-node": "latest",
+        "cologger": "latest",
+        "cologne-drone": "latest",
+        "cologne-phonetic": "latest",
+        "cologrinchis": "latest",
+        "cology": "latest"
+    }
+}

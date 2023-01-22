@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-wxf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wxf": "latest",
+        "wxf-cli": "latest",
+        "wxf-loading": "latest",
+        "wxf-npm-day01": "latest",
+        "wxf-npm-demo": "latest",
+        "wxf-ui": "latest",
+        "wxf_2016_yonyo111u": "latest",
+        "wxf_2016_yonyou": "latest",
+        "wxf_node_2017": "latest",
+        "wxfcreate-project-cli": "latest",
+        "wxfe-ytian": "latest",
+        "wxfed-portal": "latest",
+        "wxfei-test-one": "latest",
+        "wxfinalplugin": "latest"
+    }
+}

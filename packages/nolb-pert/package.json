@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-pert",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pert": "latest",
+        "pert-estimate": "latest",
+        "pertain": "latest",
+        "pertestimate": "latest",
+        "perth": "latest",
+        "perthblank": "latest",
+        "perthfp": "latest",
+        "perthite": "latest",
+        "perthite-2": "latest",
+        "perturb": "latest",
+        "pertyid": "latest"
+    }
+}

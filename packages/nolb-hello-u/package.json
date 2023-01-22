@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-hello-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hello-ui": "latest",
+        "hello-ui-icon": "latest",
+        "hello-ui-package": "latest",
+        "hello-umax": "latest",
+        "hello-umesh": "latest",
+        "hello-uniapp": "latest",
+        "hello-unicom-extension": "latest",
+        "hello-useless": "latest",
+        "hello-ushio": "latest",
+        "hello-util": "latest",
+        "hello-utils": "latest"
+    }
+}

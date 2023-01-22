@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-createc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "createClass": "latest",
+        "createcard": "latest",
+        "createcarousel": "latest",
+        "createcert-mac": "latest",
+        "createcertificatep12": "latest",
+        "createclass": "latest",
+        "createclock": "latest",
+        "createcomp": "latest",
+        "createcpn": "latest",
+        "createcsn": "latest",
+        "createcss": "latest",
+        "createcsvforcognitoimport": "latest",
+        "createcsvfrom": "latest"
+    }
+}

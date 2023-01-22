@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_piw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@piwe2004/draggable": "latest",
+        "@piwikpro/next-piwik-pro": "latest",
+        "@piwikpro/ngx-piwik-pro": "latest",
+        "@piwikpro/pwa-piwik-pro": "latest",
+        "@piwikpro/react-native-piwik-pro-sdk": "latest",
+        "@piwikpro/react-piwik-pro": "latest",
+        "@piworks/angular-bootstrap-toggle-switch": "latest",
+        "@piworks/angular-daterangepicker": "latest",
+        "@piworks/font-ubuntu": "latest",
+        "@piworks/jquery-extendext": "latest",
+        "@piworks/jquery-resizable-dom": "latest",
+        "@piworks/pi-select": "latest"
+    }
+}

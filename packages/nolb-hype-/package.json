@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-hype-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hype-api": "latest",
+        "hype-chat-widget": "latest",
+        "hype-cli": "latest",
+        "hype-dracula": "latest",
+        "hype-fuse": "latest",
+        "hype-market": "latest",
+        "hype-metrics": "latest",
+        "hype-modul": "latest",
+        "hype-script": "latest",
+        "hype-server": "latest",
+        "hype-step-form": "latest",
+        "hype-title": "latest",
+        "hype-type": "latest",
+        "hype-widget": "latest"
+    }
+}

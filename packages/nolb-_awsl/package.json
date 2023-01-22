@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_awsl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@awslabs-community-fork/dynamodb-auto-marshaller": "latest",
+        "@awslabs-community-fork/dynamodb-batch-iterator": "latest",
+        "@awslabs-community-fork/dynamodb-data-mapper": "latest",
+        "@awslabs-community-fork/dynamodb-data-mapper-annotations": "latest",
+        "@awslabs-community-fork/dynamodb-data-marshaller": "latest",
+        "@awslabs-community-fork/dynamodb-expressions": "latest",
+        "@awslabs-community-fork/dynamodb-query-iterator": "latest",
+        "@awslv/aws-cdk-organizer": "latest",
+        "@awslv/cdk-organizer-core": "latest",
+        "@awslv/cdktf-organizer": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-jix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jix": "latest",
+        "jix-toast-library": "latest",
+        "jixi": "latest",
+        "jixia": "latest",
+        "jixian-huashu-gaojiban": "latest",
+        "jixiang255_angular_components": "latest",
+        "jixiaoyu": "latest",
+        "jixin": "latest",
+        "jixinrui": "latest",
+        "jixinrui-cidain": "latest",
+        "jixiu-campaign": "latest",
+        "jixiu.campaignapis.angular2": "latest",
+        "jixiu.campaignapis.jquery": "latest",
+        "jixiu.cli": "latest",
+        "jixiu.identityserver": "latest",
+        "jixiu.identityserver.angular2": "latest",
+        "jixiu.identityserver.jquery": "latest",
+        "jixiu.jweixin": "latest",
+        "jixiu.openapis.jquery": "latest",
+        "jixiu.openapis.jquery_oidc": "latest",
+        "jixiu.payment.jquery": "latest",
+        "jixiu.wx": "latest",
+        "jixiucloud": "latest",
+        "jixixi": "latest",
+        "jixmaooc": "latest",
+        "jixuyu-gne": "latest"
+    }
+}

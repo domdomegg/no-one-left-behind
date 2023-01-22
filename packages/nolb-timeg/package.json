@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-timeg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "timegap": "latest",
+        "timegate": "latest",
+        "timegear": "latest",
+        "timeget": "latest",
+        "timegiver": "latest",
+        "timeglass-3d": "latest",
+        "timegrab": "latest",
+        "timegrify": "latest"
+    }
+}

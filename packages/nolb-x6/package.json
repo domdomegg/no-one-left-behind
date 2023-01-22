@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-x6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "x6": "latest",
+        "x6-angular-shape-next": "latest",
+        "x6-ceshi": "latest",
+        "x6-editor-fra": "latest",
+        "x6-editor-rtzh": "latest",
+        "x6-editor-vue": "latest",
+        "x6-flow-editor": "latest",
+        "x6-react-components": "latest",
+        "x6-react-shape": "latest",
+        "x6-vue3-components": "latest",
+        "x64": "latest",
+        "x64.min.js": "latest",
+        "x64js": "latest",
+        "x64vs32x-ckeditor5-build-classic": "latest",
+        "x64vs32x-semantic-release-docker-builder": "latest",
+        "x64vs32x-semantic-release-docker-publish": "latest",
+        "x64vs32x-semantic-release-docker-tag-push": "latest",
+        "x690": "latest",
+        "x690-io": "latest",
+        "x6_scada": "latest",
+        "x6r": "latest"
+    }
+}

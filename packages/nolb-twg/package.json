@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-twg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "twg-frontend-scaffolding": "latest",
+        "twg-react-tools": "latest",
+        "twg-styleguide": "latest",
+        "twgdh": "latest",
+        "twgeojson": "latest",
+        "twghkylpuxzioefn": "latest",
+        "twgl-base.js": "latest",
+        "twgl-canvas": "latest",
+        "twgl.js": "latest",
+        "twgl_cc": "latest",
+        "twgx-scaffolding": "latest"
+    }
+}

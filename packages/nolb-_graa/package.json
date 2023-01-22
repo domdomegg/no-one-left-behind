@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_graa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@graal-types/adventure-text-minimessage": "latest",
+        "@graal-types/essentialsx": "latest",
+        "@graal-types/essentialsx-antibuild": "latest",
+        "@graal-types/essentialsx-discord": "latest",
+        "@graal-types/essentialsx-protect": "latest",
+        "@graal-types/java-16": "latest",
+        "@graal-types/lands-api": "latest",
+        "@graal-types/luckperms": "latest",
+        "@graal-types/oraxen": "latest",
+        "@graal-types/paper-1.18": "latest",
+        "@graal-types/paper-1.19": "latest",
+        "@graal-types/placeholder-api": "latest",
+        "@graal-types/protocollib": "latest",
+        "@graal-types/vault": "latest",
+        "@graal-types/worldedit": "latest",
+        "@graal-types/worldguard": "latest",
+        "@graangh/type": "latest",
+        "@graasp/apps-query-client": "latest",
+        "@graasp/chatbox": "latest",
+        "@graasp/cli": "latest",
+        "@graasp/epub": "latest",
+        "@graasp/moodle": "latest",
+        "@graasp/query-client": "latest",
+        "@graasp/sdk": "latest",
+        "@graasp/test": "latest",
+        "@graasp/translations": "latest",
+        "@graasp/ui": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-simr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simr": "latest",
+        "simran": "latest",
+        "simran-button": "latest",
+        "simran-hello": "latest",
+        "simran-inputboxx": "latest",
+        "simran-operations": "latest",
+        "simred": "latest",
+        "simred-deku": "latest",
+        "simred-dev-tools": "latest",
+        "simred-react-router": "latest",
+        "simreq": "latest",
+        "simres": "latest",
+        "simrun": "latest",
+        "simry": "latest"
+    }
+}

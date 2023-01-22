@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-arq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "arq": "latest",
+        "arq-calculator": "latest",
+        "arq-js": "latest",
+        "arq-mf-weblib": "latest",
+        "arqam": "latest",
+        "arqe": "latest",
+        "arqile": "latest",
+        "arql-ops": "latest",
+        "arqo": "latest",
+        "arqs-components": "latest",
+        "arque": "latest",
+        "arquebus": "latest",
+        "arquero": "latest",
+        "arquero-arrow": "latest",
+        "arquero-worker": "latest",
+        "arquery-frame-print": "latest",
+        "arquery-npm-playbook": "latest",
+        "arquitectura-de-software-consoleapp": "latest",
+        "arquitetura": "latest",
+        "arquitetura-mobile": "latest",
+        "arquivo": "latest",
+        "arquletia": "latest"
+    }
+}

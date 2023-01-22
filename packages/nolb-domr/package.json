@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-domr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "domr": "latest",
+        "domr-a": "latest",
+        "domr-alpha": "latest",
+        "domr-b": "latest",
+        "domr-c": "latest",
+        "domr-framework": "latest",
+        "domr-router": "latest",
+        "domr-test-alpha": "latest",
+        "domrazaku": "latest",
+        "domreadify": "latest",
+        "domready": "latest",
+        "domready-loaded": "latest",
+        "domrec": "latest",
+        "domrec-core": "latest",
+        "domrec-playwright": "latest",
+        "domrec-puppeteer": "latest",
+        "domrefs": "latest",
+        "domreka": "latest",
+        "domrend": "latest",
+        "domrf-ui": "latest",
+        "domrobot-client": "latest",
+        "domru": "latest"
+    }
+}

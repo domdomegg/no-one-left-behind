@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-calm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "calm": "latest",
+        "calm-base": "latest",
+        "calm-harbin": "latest",
+        "calm-lake": "latest",
+        "calm.js": "latest",
+        "calmapi": "latest",
+        "calmcard": "latest",
+        "calmdown": "latest",
+        "calmelib": "latest",
+        "calming": "latest",
+        "calminha": "latest",
+        "calmly": "latest",
+        "calmo.js": "latest",
+        "calmonmodule": "latest",
+        "calmquist.static-server": "latest",
+        "calmsen-test": "latest",
+        "calmsoul": "latest",
+        "calmx": "latest"
+    }
+}

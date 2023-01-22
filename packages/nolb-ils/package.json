@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-ils",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ils-33": "latest",
+        "ils-ui": "latest",
+        "ilse": "latest",
+        "ilse-langnar-notebook": "latest",
+        "ilsjs": "latest",
+        "ilsp-ng2-grid": "latest"
+    }
+}

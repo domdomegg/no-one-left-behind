@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-es3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "es3-compatible-webpack-plugin": "latest",
+        "es3-ext": "latest",
+        "es3-harmony-webpack-plugin": "latest",
+        "es3-observ": "latest",
+        "es3-safe-recast": "latest",
+        "es3ify": "latest",
+        "es3ify-loader": "latest",
+        "es3ify-mw": "latest",
+        "es3ify-mw-webpack-plugin": "latest",
+        "es3ify-safe": "latest",
+        "es3ify-trans-loader": "latest",
+        "es3ify-webpack-plugin": "latest",
+        "es3ify-webpack-plugin-fix": "latest",
+        "es3ify-webpack-plugin-v2": "latest"
+    }
+}

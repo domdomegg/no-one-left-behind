@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-gc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-gc": "latest",
+        "react-gc-maps-api": "latest",
+        "react-gcaptcha": "latest",
+        "react-gcbarcode": "latest",
+        "react-gchart-offline": "latest",
+        "react-gcode-viewer": "latest",
+        "react-gcolor-picker": "latest"
+    }
+}

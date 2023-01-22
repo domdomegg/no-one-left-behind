@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-dyne",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dyne": "latest",
+        "dyne-commons": "latest",
+        "dyne-engine": "latest",
+        "dyne-tmp": "latest",
+        "dynect": "latest",
+        "dynect-api": "latest",
+        "dynectemail": "latest",
+        "dynector": "latest",
+        "dynein": "latest",
+        "dyneinsle": "latest",
+        "dynel-core": "latest",
+        "dynel-data": "latest",
+        "dynel-oauth-client": "latest",
+        "dynel-rest-client": "latest",
+        "dynel-ui": "latest",
+        "dynenv": "latest",
+        "dynexpnj": "latest"
+    }
+}

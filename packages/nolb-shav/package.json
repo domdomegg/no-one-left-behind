@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-shav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "Shave": "latest",
+        "shavaluator": "latest",
+        "shavano": "latest",
+        "shave": "latest",
+        "shave-it": "latest",
+        "shave-template": "latest",
+        "shavecss-ui": "latest",
+        "shaved-ice": "latest",
+        "shaven": "latest",
+        "shaver": "latest",
+        "shaverp3-frame-print": "latest",
+        "shavesink": "latest",
+        "shavette": "latest"
+    }
+}

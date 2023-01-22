@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-vue-cn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cnm-swiper": "latest",
+        "vue-cnname-avatar": "latest",
+        "vue-cnode": "latest",
+        "vue-cnzz-analytics": "latest"
+    }
+}

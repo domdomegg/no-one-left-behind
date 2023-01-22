@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-data7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "data7": "latest",
+        "data7-pix": "latest",
+        "data7-pix-h": "latest",
+        "data7.15": "latest"
+    }
+}

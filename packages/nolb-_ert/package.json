@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_ert",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ert78gb/angular-2-dropdown-multiselect": "latest",
+        "@ert78gb/async-init": "latest",
+        "@ert78gb/aws-ses-localstack-test": "latest",
+        "@ert78gb/fastify-google-cloud-run-options": "latest",
+        "@ert78gb/git-utils": "latest",
+        "@ert78gb/jasmine-ts": "latest",
+        "@ert78gb/ngx-select-ex": "latest",
+        "@ert78gb/pino-google-cloud-run-options": "latest",
+        "@ertanakpinaroglu/react-first-lib": "latest",
+        "@ertantcalc/tscalc-mqtt": "latest",
+        "@erthinking/eslint-config": "latest",
+        "@erthinking/eslint-config-basic": "latest",
+        "@erthinking/eslint-config-prettier": "latest",
+        "@erthinking/eslint-config-ts": "latest",
+        "@erthinking/eslint-config-vue": "latest",
+        "@erthinking/prettier-config": "latest",
+        "@erthinking/tsconfig": "latest",
+        "@erticket/common-pac": "latest",
+        "@erticketing/common": "latest",
+        "@ertickets/common": "latest",
+        "@ertnext/admin-api-client": "latest",
+        "@ertrade/js-utm-extractor": "latest",
+        "@ertravi/txio-view-react": "latest",
+        "@ertrzyiks/graph-utils": "latest",
+        "@ertrzyiks/sentry-fullstory-integration": "latest"
+    }
+}

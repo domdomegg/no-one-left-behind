@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-react-ii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-iifc": "latest",
+        "react-iife": "latest",
+        "react-iii-message-modal": "latest",
+        "react-iii-validator": "latest",
+        "react-iiif-image": "latest",
+        "react-iiif-image-viewer": "latest",
+        "react-iiif-media-player": "latest",
+        "react-iiif-vault": "latest",
+        "react-iiif-viewer": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-sols",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "solsa": "latest",
+        "solscan-healthcheck": "latest",
+        "solselector": "latest",
+        "solsnap": "latest",
+        "solsnap3": "latest",
+        "solsnap_dex": "latest",
+        "solsnap_dex_test": "latest",
+        "solsnap_yasir": "latest",
+        "solsort": "latest",
+        "solsort-util": "latest",
+        "solsp": "latest",
+        "solspecdown": "latest",
+        "solstake": "latest",
+        "solstar": "latest",
+        "solstat": "latest",
+        "solstice": "latest",
+        "solstices-and-equinoxes": "latest",
+        "solstruct": "latest",
+        "solstyle": "latest",
+        "solsys-react-scripts": "latest"
+    }
+}

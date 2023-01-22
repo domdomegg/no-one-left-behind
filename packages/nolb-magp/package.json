@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-magp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "MagpieUI": "latest",
+        "magpie": "latest",
+        "magpie-base": "latest",
+        "magpie-bridge": "latest",
+        "magpie-draw": "latest",
+        "magpie-js-sdk": "latest",
+        "magpie-miniapp": "latest",
+        "magpie-modules": "latest",
+        "magpie-node": "latest",
+        "magpie-node-sdk": "latest",
+        "magpie-shared": "latest",
+        "magpie_cli": "latest",
+        "magpiee-vue": "latest"
+    }
+}

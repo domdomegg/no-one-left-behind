@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-taf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "taf": "latest",
+        "taf-parser": "latest",
+        "taf-three-dimensional-view": "latest",
+        "tafa-hb": "latest",
+        "tafa-misc-util": "latest",
+        "tafel": "latest",
+        "taff": "latest",
+        "taff.io": "latest",
+        "taffa": "latest",
+        "taffy": "latest",
+        "taffy-break": "latest",
+        "taffy-coustom-ui": "latest",
+        "taffy-react": "latest",
+        "taffy-typescript-client": "latest",
+        "taffydb": "latest",
+        "taffydb-75lb": "latest",
+        "taffydb-es": "latest",
+        "taffydb-jsdoc": "latest",
+        "taffydb-reboot": "latest",
+        "taffydocs": "latest",
+        "taffyw-tools": "latest",
+        "tafgeet": "latest",
+        "tafgeetjs": "latest",
+        "tafl": "latest",
+        "tafp": "latest",
+        "tafqit": "latest",
+        "taft": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_fag",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@faga/packtool": "latest",
+        "@fagenorn/puppeteer-extra-plugin-recaptcha": "latest",
+        "@fagforbundet/bootstrap-theme": "latest",
+        "@fagforbundet/components": "latest",
+        "@fagforbundet/css": "latest",
+        "@fagforbundet/ff-sass": "latest",
+        "@fagforbundet/svgs": "latest",
+        "@fagnerlima/ng-mask": "latest",
+        "@fagnermeds/hello-world-package": "latest",
+        "@fagnersales/cm-js": "latest",
+        "@fagnerweb-ignite-ui/docs": "latest",
+        "@fagnerweb-ignite-ui/react": "latest",
+        "@fagnerweb-ignite-ui/tokens": "latest"
+    }
+}

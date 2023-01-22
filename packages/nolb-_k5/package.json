@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_k5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@k5cjs/forms": "latest",
+        "@k5cjs/rxjs": "latest",
+        "@k5cjs/scroll": "latest",
+        "@k5cjs/select": "latest",
+        "@k5cjs/selection-model": "latest",
+        "@k5cjs/tables": "latest"
+    }
+}

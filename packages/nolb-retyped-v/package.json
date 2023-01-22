@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-retyped-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "retyped-valerie-tsd-ambient": "latest",
+        "retyped-validator-tsd-ambient": "latest",
+        "retyped-vec3-tsd-ambient": "latest",
+        "retyped-vega-tsd-ambient": "latest",
+        "retyped-velocity-animate-tsd-ambient": "latest",
+        "retyped-verror-tsd-ambient": "latest",
+        "retyped-vex-js-tsd-ambient": "latest",
+        "retyped-vexflow-tsd-ambient": "latest",
+        "retyped-victor-tsd-ambient": "latest",
+        "retyped-videojs-tsd-ambient": "latest",
+        "retyped-viewporter-tsd-ambient": "latest",
+        "retyped-vimeo-tsd-ambient": "latest",
+        "retyped-vinyl-buffer-tsd-ambient": "latest",
+        "retyped-vinyl-fs-tsd-ambient": "latest",
+        "retyped-vinyl-paths-tsd-ambient": "latest",
+        "retyped-vinyl-source-stream-tsd-ambient": "latest",
+        "retyped-vinyl-tsd-ambient": "latest",
+        "retyped-virtual-dom-tsd-ambient": "latest",
+        "retyped-vortex-web-client-tsd-ambient": "latest",
+        "retyped-voximplant-websdk-tsd-ambient": "latest",
+        "retyped-vso-node-api-tsd-ambient": "latest",
+        "retyped-vue-router-tsd-ambient": "latest",
+        "retyped-vue-tsd-ambient": "latest"
+    }
+}

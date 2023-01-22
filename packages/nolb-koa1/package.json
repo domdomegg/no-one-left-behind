@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-koa1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "koa1": "latest",
+        "koa1-conditional-get": "latest",
+        "koa1-cors": "latest",
+        "koa1-error": "latest",
+        "koa1-etag": "latest",
+        "koa1-json-mask": "latest",
+        "koa1-safe-redirect": "latest",
+        "koa1-server-timing": "latest",
+        "koa1-wrapmiddleware": "latest"
+    }
+}

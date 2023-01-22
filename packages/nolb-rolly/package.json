@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-rolly",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rolly": "latest",
+        "rolly-retry": "latest",
+        "rolly-smooth.js": "latest",
+        "rolly.db": "latest",
+        "rolly.js": "latest",
+        "rollynx": "latest",
+        "rollyoose": "latest",
+        "rollypolly": "latest",
+        "rollyreply": "latest"
+    }
+}

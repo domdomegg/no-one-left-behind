@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-qmuzik-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qmuzik-unfinishedproductstostore": "latest",
+        "qmuzik-unfinishedproductstostore-shared": "latest",
+        "qmuzik-uniquestockidentifier": "latest",
+        "qmuzik-uniquestockidentifier-shared": "latest",
+        "qmuzik-unitofmeasure": "latest",
+        "qmuzik-unitofmeasure-shared": "latest",
+        "qmuzik-unplannedissuerequisition": "latest",
+        "qmuzik-unplannedissuerequisition-shared": "latest",
+        "qmuzik-updateservicesetting": "latest",
+        "qmuzik-updateservicesetting-shared": "latest",
+        "qmuzik-user": "latest",
+        "qmuzik-user-shared": "latest",
+        "qmuzik-userobjecttype": "latest",
+        "qmuzik-userobjecttype-shared": "latest",
+        "qmuzik-usersettings": "latest",
+        "qmuzik-usersettings-shared": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-cs5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cs546-mongo": "latest",
+        "cs5463": "latest",
+        "cs554grader": "latest",
+        "cs558-assignment-uploader": "latest",
+        "cs558-db": "latest",
+        "cs558-grader": "latest",
+        "cs558-grading-server": "latest",
+        "cs558-submission-grader": "latest",
+        "cs558-submission-handler": "latest",
+        "cs558hw1": "latest"
+    }
+}

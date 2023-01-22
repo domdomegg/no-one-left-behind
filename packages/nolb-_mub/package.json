@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_mub",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@muban/eslint-config": "latest",
+        "@muban/hooks": "latest",
+        "@muban/muban": "latest",
+        "@muban/skeleton": "latest",
+        "@muban/storybook": "latest",
+        "@muban/storybook-addon-source": "latest",
+        "@muban/template": "latest",
+        "@muban/test-utils": "latest",
+        "@muban/testing-library": "latest",
+        "@mubarak/common-module": "latest",
+        "@mubarak/mart-lib": "latest",
+        "@mubarak/shop-common": "latest",
+        "@mubasharauth/common": "latest",
+        "@mubashershahzad/memi": "latest",
+        "@mubasshar009/tiny": "latest",
+        "@mubble/browser": "latest",
+        "@mubble/core": "latest",
+        "@mubble/server": "latest",
+        "@mubicon/api": "latest",
+        "@mubicon/api-ar": "latest",
+        "@mubicon/api-client": "latest"
+    }
+}

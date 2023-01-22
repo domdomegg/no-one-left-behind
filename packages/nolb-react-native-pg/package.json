@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-native-pg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-pg-react-native-sdk": "latest",
+        "react-native-pg-sdk_cashfree": "latest",
+        "react-native-pg-swiper": "latest",
+        "react-native-pgp": "latest",
+        "react-native-pgyer": "latest",
+        "react-native-pgyer-bridge": "latest",
+        "react-native-pgyer-sdk": "latest"
+    }
+}

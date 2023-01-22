@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-htmlr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htmlr": "latest",
+        "htmlrapier": "latest",
+        "htmlrapier-compile": "latest",
+        "htmlrapier.accesstoken": "latest",
+        "htmlrapier.appmenu": "latest",
+        "htmlrapier.bootstrap": "latest",
+        "htmlrapier.bootstrap.datetime": "latest",
+        "htmlrapier.form.bootstrap3": "latest",
+        "htmlrapier.form.bootstrap4": "latest",
+        "htmlrapier.halcyon": "latest",
+        "htmlrapier.halcyon-explorer": "latest",
+        "htmlrapier.json-editor": "latest",
+        "htmlrapier.relogin": "latest",
+        "htmlrapier.roleclient": "latest",
+        "htmlrapier.sidebar": "latest",
+        "htmlrapier.swagger-js": "latest",
+        "htmlrapier.treemenu": "latest",
+        "htmlrapier.widgets": "latest",
+        "htmlremove": "latest",
+        "htmlreport4jest": "latest",
+        "htmlrun": "latest"
+    }
+}

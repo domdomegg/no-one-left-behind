@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-cmz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cmz": "latest",
+        "cmz-bin-cli": "latest",
+        "cmz-components": "latest",
+        "cmz-demo-test-1": "latest",
+        "cmz-demo1": "latest",
+        "cmz-vue-plugin": "latest",
+        "cmz-webpack-numbers": "latest",
+        "cmzn": "latest",
+        "cmztest": "latest",
+        "cmzy_check_version": "latest"
+    }
+}

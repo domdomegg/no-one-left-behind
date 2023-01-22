@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_uy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@uyamazak/fastify-hc-pages": "latest",
+        "@uyamazak/fastify-hc-pages-plugin": "latest",
+        "@uyaribrahim/date-range-picker": "latest",
+        "@uyghur.io/test": "latest",
+        "@uyghur.io/test2": "latest",
+        "@uykalkan/g": "latest",
+        "@uynguyen505/react-native-apple-authentication": "latest",
+        "@uynguyen505/react-native-wheel-picker": "latest",
+        "@uyouii/rustboyadvance-wasm": "latest",
+        "@uyu-vue/core": "latest",
+        "@uyu-vue/pagination": "latest",
+        "@uyu-vue/table": "latest",
+        "@uyu423/pinpoint-node-agent": "latest",
+        "@uyum/markdown-it-translit": "latest",
+        "@uyuuynn-cli/core": "latest",
+        "@uyuuynn-cli/utils": "latest"
+    }
+}

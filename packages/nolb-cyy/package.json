@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-cyy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cyy": "latest",
+        "cyy-cli": "latest",
+        "cyy-cli-test": "latest",
+        "cyy-component-act": "latest",
+        "cyy-npm": "latest",
+        "cyy-npm-demo": "latest",
+        "cyy-npm-learn": "latest",
+        "cyy-test-toast": "latest",
+        "cyy-tool": "latest",
+        "cyy-ui": "latest",
+        "cyy-webpack-test": "latest",
+        "cyypher": "latest",
+        "cyytest": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-qut",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qut": "latest",
+        "qutaccess": "latest",
+        "qute": "latest",
+        "qute-bookshelf-repository": "latest",
+        "qute-cli": "latest",
+        "qute-cli-core": "latest",
+        "qute-cli-util": "latest",
+        "qute-d": "latest",
+        "qute-packages": "latest",
+        "qute-project-templates": "latest",
+        "qute-scaffold": "latest",
+        "qute-scaffold-helper": "latest",
+        "qute-scaffold-templates": "latest",
+        "quteapi": "latest",
+        "qutee_api": "latest",
+        "qutejs": "latest",
+        "quti": "latest",
+        "qutie": "latest",
+        "qutility": "latest",
+        "qutils": "latest",
+        "qutilz": "latest",
+        "quture-app": "latest",
+        "quture-bootstrap": "latest",
+        "quture-config": "latest",
+        "quture-database": "latest",
+        "quture-plugin": "latest",
+        "quty": "latest"
+    }
+}

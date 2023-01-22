@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-sc1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sc1": "latest",
+        "sc1-client": "latest",
+        "sc111111": "latest",
+        "sc136": "latest",
+        "sc19maina": "latest"
+    }
+}

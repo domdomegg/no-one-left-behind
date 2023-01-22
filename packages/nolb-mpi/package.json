@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-mpi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mpi": "latest",
+        "mpi-jsdoc": "latest",
+        "mpi-node": "latest",
+        "mpi-node-cli": "latest",
+        "mpi-s7": "latest",
+        "mpiantella-house": "latest",
+        "mpiantella-living-room": "latest",
+        "mpib-brightcove": "latest",
+        "mpib-spider": "latest",
+        "mpill": "latest",
+        "mpilot": "latest",
+        "mpilot-ui": "latest",
+        "mping": "latest",
+        "mpit-utils": "latest"
+    }
+}

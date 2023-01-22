@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-snq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "snq": "latest",
+        "snq-rollup-tracker": "latest",
+        "snq-tracker": "latest",
+        "snqureshi-resume": "latest"
+    }
+}

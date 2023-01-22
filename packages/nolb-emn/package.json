@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-emn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emn": "latest",
+        "emn_auth": "latest",
+        "emnav": "latest",
+        "emnida": "latest",
+        "emnity-github-example": "latest",
+        "emnorst": "latest",
+        "emnutt": "latest",
+        "emnuvem-auth": "latest"
+    }
+}

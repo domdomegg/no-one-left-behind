@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_zhz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zhz-cli/core": "latest",
+        "@zhz-cli/utils": "latest",
+        "@zhzq/aalib-copy": "latest",
+        "@zhzq/gif-frames": "latest",
+        "@zhzq/simple-audio-player": "latest",
+        "@zhzq/textlint-rule-half-width-arabic-numerals": "latest"
+    }
+}

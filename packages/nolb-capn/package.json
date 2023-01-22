@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-capn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "capn": "latest",
+        "capn-log": "latest",
+        "capn-regex": "latest",
+        "capnode": "latest",
+        "capnp": "latest",
+        "capnp-jcm": "latest",
+        "capnp-js": "latest",
+        "capnp-js-plugin": "latest",
+        "capnp-js-plugin-dust": "latest",
+        "capnp-json": "latest",
+        "capnp-package-test": "latest",
+        "capnp-split": "latest",
+        "capnp-stream": "latest",
+        "capnp-ts": "latest",
+        "capnpc-js": "latest",
+        "capnpc-stdout": "latest",
+        "capnpc-ts": "latest",
+        "capnpid": "latest",
+        "capnpmp": "latest"
+    }
+}

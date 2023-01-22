@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-net4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "net4-platform": "latest",
+        "net4j": "latest",
+        "net4j-exception-plugin": "latest",
+        "net4j-formatter-plugin": "latest",
+        "net4j-loading-plugin": "latest",
+        "net4j-log-plugin": "latest",
+        "net4j-success-plugin": "latest",
+        "net4j-throttle-plugin": "latest",
+        "net4js": "latest",
+        "net4u-smart-banner": "latest",
+        "net4uonline": "latest"
+    }
+}

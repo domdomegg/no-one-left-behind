@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-nexti",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nexti-bff-types": "latest",
+        "nexti-lib-datatable": "latest",
+        "nexti-lib-enterprise": "latest",
+        "nexti-lib-modal": "latest",
+        "nexti-lib-scan": "latest",
+        "nexti-lib-users": "latest",
+        "nexti-map": "latest",
+        "nexti-placeholder-row": "latest",
+        "nexti-test-lib": "latest",
+        "nextick": "latest",
+        "nexticons": "latest",
+        "nexticons-react": "latest",
+        "nextify": "latest",
+        "nextil": "latest",
+        "nextimer": "latest",
+        "nexting-queue": "latest",
+        "nextinline": "latest",
+        "nextion": "latest",
+        "nextion-instructionset": "latest",
+        "nextistack": "latest",
+        "nextit-history-appender": "latest",
+        "nextit-initialization-gethistory": "latest",
+        "nextit-module-window": "latest",
+        "nextive-components": "latest"
+    }
+}

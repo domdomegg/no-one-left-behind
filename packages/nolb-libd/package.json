@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-libd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "libd-super-package": "latest",
+        "libdb": "latest",
+        "libdelabe": "latest",
+        "libdeltajs": "latest",
+        "libdemo-mccree": "latest",
+        "libdenolint": "latest",
+        "libdgg": "latest",
+        "libdil": "latest",
+        "libdir-binlinks-cfg-linker-pmb": "latest",
+        "libdivecomputerjs": "latest",
+        "libdns": "latest",
+        "libdocker": "latest",
+        "libdom": "latest",
+        "libdom-http": "latest",
+        "libdom-ui": "latest",
+        "libdoorman": "latest",
+        "libdot": "latest",
+        "libdragon": "latest",
+        "libdragonbones": "latest",
+        "libdsm": "latest",
+        "libdsp": "latest",
+        "libdtrace": "latest",
+        "libdummy": "latest",
+        "libdvbtee_parser": "latest",
+        "libdvd": "latest",
+        "libdx": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_fr0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fr0st/color": "latest",
+        "@fr0st/core": "latest",
+        "@fr0st/datetime": "latest",
+        "@fr0st/numberformatter": "latest",
+        "@fr0st/query": "latest",
+        "@fr0stf0x/jest-sonar": "latest",
+        "@fr0stf0x/mup-aws-beanstalk": "latest",
+        "@fr0stmourne/swagger-typescript-api": "latest",
+        "@fr0xty/prettier-config": "latest"
+    }
+}

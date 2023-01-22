@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-mysc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mysc-ui-commons": "latest",
+        "myscaf_cli": "latest",
+        "myscaffold": "latest",
+        "myschema-generator": "latest",
+        "myschema2": "latest",
+        "myschemtest": "latest",
+        "myscorecard": "latest",
+        "myscores": "latest",
+        "myscout-ui-commons": "latest",
+        "myscrimbutton": "latest",
+        "myscript": "latest",
+        "myscript-angular": "latest",
+        "myscript-common-element": "latest",
+        "myscript-js": "latest",
+        "myscript-math-web": "latest",
+        "myscript-text-web": "latest",
+        "myscriptjs": "latest"
+    }
+}

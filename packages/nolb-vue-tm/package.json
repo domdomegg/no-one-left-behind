@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-vue-tm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-tmenu": "latest",
+        "vue-tmn-tabs": "latest",
+        "vue-tmove": "latest",
+        "vue-tmp-cli": "latest",
+        "vue-tmpl-cli": "latest",
+        "vue-tmx": "latest"
+    }
+}

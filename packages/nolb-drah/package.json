@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-drah",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "drah-client": "latest",
+        "drah-figma": "latest",
+        "drah-server": "latest",
+        "drah-shared": "latest",
+        "drahem": "latest",
+        "drahovdb": "latest",
+        "draht": "latest"
+    }
+}

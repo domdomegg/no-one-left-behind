@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_openfor",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@openforge/capacitor-game-services": "latest",
+        "@openforge/dozn-plugin": "latest",
+        "@openforge/lazy-img": "latest",
+        "@openforge/ngx-voyage-svg": "latest",
+        "@openfork/preact": "latest",
+        "@openformation/gpm": "latest",
+        "@openformation/logto-remix": "latest",
+        "@openfort-sdk/common": "latest",
+        "@openfort-sdk/scw": "latest",
+        "@openfort-sdk/sdk": "latest",
+        "@openfort-sdk/web3auth": "latest",
+        "@openfortravel/front": "latest",
+        "@openfortravel/shared": "latest"
+    }
+}

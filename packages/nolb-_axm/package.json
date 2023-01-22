@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_axm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@axmad386/input": "latest",
+        "@axmine/axios": "latest",
+        "@axmine/helper": "latest",
+        "@axmit/antd-helpers": "latest",
+        "@axmit/antd4-helpers": "latest",
+        "@axmit/axios-patch-jwt": "latest",
+        "@axmit/class-logger": "latest",
+        "@axmit/create-express-app": "latest",
+        "@axmit/error-helper": "latest",
+        "@axmit/express-core": "latest",
+        "@axmit/express-core-gulp": "latest",
+        "@axmit/express-core-helpers": "latest",
+        "@axmit/express-core-mongodb": "latest",
+        "@axmit/flow-helper": "latest",
+        "@axmit/investment-analytics-common": "latest",
+        "@axmit/investment-analytics-models": "latest",
+        "@axmit/investment-analytics-types": "latest",
+        "@axmit/jexcel": "latest",
+        "@axmit/node-logger": "latest",
+        "@axmit/redux-communications": "latest",
+        "@axmit/s2q-api": "latest",
+        "@axmit/transport": "latest",
+        "@axmit/universal-storage": "latest",
+        "@axmztickets/common": "latest"
+    }
+}

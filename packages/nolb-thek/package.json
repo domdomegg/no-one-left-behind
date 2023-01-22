@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-thek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thekdar": "latest",
+        "thekdar-ui": "latest",
+        "thekindy": "latest",
+        "theking-gentleman-bruceli": "latest",
+        "theking-gli": "latest",
+        "thekingdoc": "latest",
+        "thekingoftomato": "latest",
+        "thekit": "latest",
+        "thekla": "latest",
+        "thekla-core": "latest",
+        "theknot-ui-footer": "latest"
+    }
+}

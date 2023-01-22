@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_qu-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@qu-beyond/sockets-for-cordova": "latest",
+        "@qu-beyond/vue-json-schema-form-generator": "latest"
+    }
+}

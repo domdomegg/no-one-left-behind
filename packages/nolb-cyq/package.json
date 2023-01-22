@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-cyq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cyq": "latest",
+        "cyq-cli-components": "latest",
+        "cyq-cli-template-cutom-vue3": "latest",
+        "cyq-cli-template-vue3": "latest",
+        "cyq-comp-test-1": "latest",
+        "cyq-datetest": "latest",
+        "cyq-exceltest": "latest",
+        "cyq-qstest": "latest",
+        "cyq-test": "latest",
+        "cyq-ui": "latest",
+        "cyq-ui3": "latest",
+        "cyq-uuu": "latest",
+        "cyq1903": "latest",
+        "cyq1903b": "latest",
+        "cyqdanmu": "latest",
+        "cyqiu-ui2": "latest",
+        "cyqs_comps": "latest",
+        "cyquest-assets": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-ru_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ru.coba.cobawifi": "latest",
+        "ru.coon": "latest",
+        "ru.coon.command": "latest",
+        "ru.coon.report": "latest",
+        "ru.coon.uielement": "latest",
+        "ru.mxxn.di": "latest",
+        "ru.mxxn.investing": "latest",
+        "ru.rostel": "latest",
+        "ru.testing": "latest",
+        "ru_node_pkg": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-react-native-aj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-aj": "latest",
+        "react-native-ajax": "latest",
+        "react-native-ajui": "latest"
+    }
+}

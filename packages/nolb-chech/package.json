@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-chech",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cheche-utils": "latest",
+        "checheza-core": "latest",
+        "chechita_09-random-messages": "latest"
+    }
+}

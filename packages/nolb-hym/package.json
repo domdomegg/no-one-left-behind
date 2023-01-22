@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-hym",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hym": "latest",
+        "hym-react-cli": "latest",
+        "hym-script": "latest",
+        "hym_china_hym": "latest",
+        "hym_huyanming": "latest",
+        "hymake-cli": "latest",
+        "hymapgl-test": "latest",
+        "hymark": "latest",
+        "hymity": "latest",
+        "hymm-oss-upload": "latest",
+        "hymn": "latest",
+        "hymn-composer": "latest",
+        "hymn-core": "latest",
+        "hymn-di": "latest",
+        "hymn-test": "latest",
+        "hymn-tools": "latest",
+        "hymobile": "latest",
+        "hymore-http-server": "latest",
+        "hymson1.0": "latest",
+        "hymui-cli": "latest"
+    }
+}

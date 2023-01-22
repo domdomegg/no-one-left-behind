@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-bep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bep": "latest",
+        "bep15": "latest",
+        "bep20-generator": "latest",
+        "bep20_trans_token": "latest",
+        "bep44-storage": "latest",
+        "bep53-range": "latest",
+        "bep9-metadata-dl": "latest",
+        "bepacked": "latest",
+        "bepackt": "latest",
+        "bepaint": "latest",
+        "bephztivxlwmgksk": "latest",
+        "bepis": "latest",
+        "bepo": "latest",
+        "bepo-handsome-button": "latest",
+        "bepos-rule": "latest",
+        "bepp": "latest",
+        "beppe": "latest",
+        "bepro-customicon-generator": "latest",
+        "bepro-design-system-4-final": "latest",
+        "bepro-js": "latest",
+        "bepro-js-v1": "latest",
+        "bepro-native-video": "latest",
+        "beprofiler": "latest",
+        "beptune": "latest"
+    }
+}

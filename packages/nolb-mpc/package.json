@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-mpc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mpc": "latest",
+        "mpc-cli": "latest",
+        "mpc-control": "latest",
+        "mpc-controller": "latest",
+        "mpc-hc-control": "latest",
+        "mpc-ipc": "latest",
+        "mpc-js": "latest",
+        "mpc-js-core": "latest",
+        "mpc-js-web": "latest",
+        "mpc-npm-dir": "latest",
+        "mpca-form-field-values": "latest",
+        "mpca-react-form-builder": "latest",
+        "mpcaas": "latest",
+        "mpcamerautilwithstop": "latest",
+        "mpcd-ui": "latest",
+        "mpclia": "latest",
+        "mpcnpmupload": "latest",
+        "mpcomp-demo1": "latest",
+        "mpcpp": "latest",
+        "mpcsecure": "latest",
+        "mpcsnap": "latest",
+        "mpctouch": "latest"
+    }
+}

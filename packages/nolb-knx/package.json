@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-knx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "knx-components": "latest",
+        "knx-datapoints": "latest",
+        "knx-dpt": "latest",
+        "knx-dpt-parser": "latest",
+        "knx-dpts-baos": "latest",
+        "knx-ets-utils": "latest",
+        "knx-ip": "latest",
+        "knx-listener": "latest",
+        "knx-mqtt-bridge": "latest",
+        "knx-process-designer": "latest",
+        "knx-progress-bar": "latest",
+        "knx.js": "latest",
+        "knx_common_component": "latest",
+        "knxcloud-create-lowcode": "latest",
+        "knxfloat": "latest",
+        "knxnetjs": "latest",
+        "knxtodo": "latest",
+        "knxultimate": "latest",
+        "knxultimate-api": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_datah",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datahaven/dhcloud-services": "latest",
+        "@datahaven/uikit": "latest",
+        "@datahex/escpos-xml": "latest",
+        "@datahex/models": "latest",
+        "@datahex/socket-client": "latest",
+        "@datahjelpen/statisk": "latest",
+        "@datahome/arc": "latest",
+        "@datahook/trigger": "latest",
+        "@datahu/client": "latest",
+        "@datahu/component": "latest",
+        "@datahu/component-base": "latest",
+        "@datahu/core": "latest",
+        "@datahu/datasource": "latest",
+        "@datahu/designer": "latest",
+        "@datahub/dashboard": "latest"
+    }
+}

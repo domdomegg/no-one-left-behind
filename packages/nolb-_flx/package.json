@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_flx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@flxaco/base": "latest",
+        "@flxaco/button": "latest",
+        "@flxaco/buttons": "latest",
+        "@flxaco/card": "latest",
+        "@flxaco/constants": "latest",
+        "@flxaco/footer": "latest",
+        "@flxaco/header": "latest",
+        "@flxaco/logo": "latest",
+        "@flxaco/post": "latest",
+        "@flxaco/profile": "latest",
+        "@flxaco/tag": "latest",
+        "@flxng/circle-timer": "latest",
+        "@flxng/code-show": "latest",
+        "@flxng/common": "latest",
+        "@flxng/loader": "latest",
+        "@flxng/mentions": "latest",
+        "@flxng/paginator": "latest",
+        "@flxng/treetable": "latest",
+        "@flxp/phantom-html2pdf": "latest",
+        "@flxwu/profiler": "latest",
+        "@flxxyz-foundation/js": "latest"
+    }
+}

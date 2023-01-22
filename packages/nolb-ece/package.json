@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-ece",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ece": "latest",
+        "ece-damage": "latest",
+        "ece-design-days": "latest",
+        "ece-frontend": "latest",
+        "ece-geometry": "latest",
+        "ece-stats": "latest",
+        "ece-status": "latest",
+        "ece-turnbased": "latest",
+        "ece-units": "latest",
+        "ece-utils": "latest",
+        "ece461test": "latest",
+        "ece505project": "latest",
+        "ecef-projector": "latest",
+        "ecej-js-lib": "latest",
+        "ecej-sensors-sdk": "latest",
+        "ecelue": "latest",
+        "ecency-surfer": "latest",
+        "eceqoq": "latest",
+        "ecesoc-style": "latest"
+    }
+}

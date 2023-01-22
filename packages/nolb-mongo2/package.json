@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-mongo2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mongo2api": "latest",
+        "mongo2crate": "latest",
+        "mongo2csv": "latest",
+        "mongo2dyn": "latest",
+        "mongo2elastic": "latest",
+        "mongo2influx": "latest",
+        "mongo2mongo": "latest",
+        "mongo2mysql": "latest",
+        "mongo2rest": "latest",
+        "mongo2sql": "latest"
+    }
+}

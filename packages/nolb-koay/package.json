@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-koay",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "koay": "latest",
+        "koay-body": "latest",
+        "koay-cli": "latest",
+        "koay-res": "latest",
+        "koay-router": "latest",
+        "koay-stylus": "latest",
+        "koay-template": "latest",
+        "koay-ua": "latest",
+        "koaylogge": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-rxt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rxt": "latest",
+        "rxt-runtime": "latest",
+        "rxt-webapp": "latest",
+        "rxtable-library": "latest",
+        "rxtask": "latest",
+        "rxtestrunner": "latest",
+        "rxtext": "latest",
+        "rxthinking-ai-platform-common": "latest",
+        "rxthinking-style-components": "latest",
+        "rxthinking-vue-common": "latest",
+        "rxtify": "latest",
+        "rxtm": "latest",
+        "rxtore": "latest",
+        "rxtrace": "latest",
+        "rxts": "latest",
+        "rxtween": "latest",
+        "rxtxrx": "latest"
+    }
+}

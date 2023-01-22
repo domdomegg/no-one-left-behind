@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-cm6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cm6-graphql": "latest",
+        "cm6-monarch": "latest",
+        "cm6-theme-basic-dark": "latest",
+        "cm6-theme-basic-light": "latest",
+        "cm6-theme-gruvbox-dark": "latest",
+        "cm6-theme-gruvbox-light": "latest",
+        "cm6-theme-material-dark": "latest",
+        "cm6-theme-nord": "latest",
+        "cm6-theme-solarized-dark": "latest",
+        "cm6-theme-solarized-light": "latest"
+    }
+}

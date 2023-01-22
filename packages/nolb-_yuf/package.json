@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_yuf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yuforium/activity-streams": "latest",
+        "@yuforium/activity-streams-validator": "latest",
+        "@yuforium/http-signature": "latest",
+        "@yufuzu/shipbattle-board": "latest",
+        "@yufuzu/shipbattle-generator": "latest",
+        "@yufuzu/shipbattle-generator-2": "latest"
+    }
+}

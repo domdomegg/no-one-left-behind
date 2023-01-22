@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_datafire_ad",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datafire/adafruit": "latest",
+        "@datafire/adobe_aem": "latest",
+        "@datafire/adyen_accountservice": "latest",
+        "@datafire/adyen_binlookupservice": "latest",
+        "@datafire/adyen_checkoutservice": "latest",
+        "@datafire/adyen_checkoututilityservice": "latest",
+        "@datafire/adyen_fundservice": "latest",
+        "@datafire/adyen_hopservice": "latest",
+        "@datafire/adyen_marketpaynotificationservice": "latest",
+        "@datafire/adyen_notificationconfigurationservice": "latest",
+        "@datafire/adyen_paymentservice": "latest",
+        "@datafire/adyen_payoutservice": "latest",
+        "@datafire/adyen_recurringservice": "latest",
+        "@datafire/adyen_testcardservice": "latest"
+    }
+}

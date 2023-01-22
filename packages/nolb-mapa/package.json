@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-mapa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mapa": "latest",
+        "mapa-brasil": "latest",
+        "mapa-brasil-react": "latest",
+        "mapa-mundi": "latest",
+        "mapacultural-database": "latest",
+        "mapake": "latest",
+        "mapam": "latest",
+        "mapangzi": "latest",
+        "mapapi1-jiangchuncheng123": "latest",
+        "mapargs": "latest",
+        "mapargs2": "latest",
+        "maparham-frame-print": "latest",
+        "maparr1606a": "latest",
+        "maparraytoobject": "latest",
+        "mapas": "latest",
+        "mapasteca-web": "latest",
+        "mapath-uploadfile": "latest",
+        "mapator": "latest"
+    }
+}

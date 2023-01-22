@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_ngb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ngbasics/eslint-plugin": "latest",
+        "@ngbasics/polling": "latest",
+        "@ngbasics/theme-selector": "latest",
+        "@ngbat/robin-ui": "latest",
+        "@ngbites/reactive-enum": "latest",
+        "@ngbits/ngbits": "latest",
+        "@ngbmodule/material-carousel": "latest",
+        "@ngbrown/bunyan-seq": "latest",
+        "@ngbrown/react-redux-form": "latest",
+        "@ngbrown/seq-logging": "latest",
+        "@ngbs/rxjs": "latest"
+    }
+}

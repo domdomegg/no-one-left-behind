@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-skl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "skl": "latest",
+        "skl-css-and-components": "latest",
+        "skl-mp-utils": "latest",
+        "skl-npm-test-project": "latest",
+        "skl_test": "latest",
+        "sklad": "latest",
+        "sklad2": "latest",
+        "sklampt-tichu-npm": "latest",
+        "skldr-course-base": "latest",
+        "skldr-crs-math": "latest",
+        "skldr-db": "latest",
+        "skldr-parse-course": "latest",
+        "sklearn-doc-zh": "latest",
+        "sklein-test-npm": "latest",
+        "sklib": "latest",
+        "sklibrary": "latest",
+        "sklog": "latest",
+        "sklonenie": "latest",
+        "sklonyator": "latest",
+        "skltn": "latest"
+    }
+}

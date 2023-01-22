@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-pll",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pll": "latest",
+        "pll-01-max": "latest",
+        "pll-cli": "latest",
+        "pllanes-frame-print": "latest",
+        "pllh-map-cli": "latest",
+        "pllibrary": "latest"
+    }
+}

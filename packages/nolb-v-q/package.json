@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-v-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "v-qr": "latest",
+        "v-qr-code-next": "latest",
+        "v-qrcode": "latest",
+        "v-qrcode-image": "latest",
+        "v-qrious": "latest",
+        "v-qriously": "latest",
+        "v-quantity-box": "latest",
+        "v-query": "latest",
+        "v-query-data-table": "latest",
+        "v-query-table-v2": "latest",
+        "v-question-editor-library-v8": "latest",
+        "v-quill": "latest",
+        "v-quill-editor": "latest"
+    }
+}

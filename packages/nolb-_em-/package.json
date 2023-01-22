@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_em-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@em-cli/core": "latest",
+        "@em-cli/create-app": "latest",
+        "@em-cli/ee": "latest",
+        "@em-cli/em-cli": "latest",
+        "@em-cli/em-plugin-build": "latest",
+        "@em-cli/em-plugin-create": "latest",
+        "@em-cli/em-plugin-debug": "latest",
+        "@em-cli/em-plugin-deploy": "latest",
+        "@em-cli/em-plugin-dev": "latest",
+        "@em-cli/em-plugin-github": "latest",
+        "@em-cli/em-plugin-init": "latest",
+        "@em-cli/em-plugin-link": "latest",
+        "@em-cli/em-plugin-renderer": "latest",
+        "@em-cli/em-plugin-template": "latest",
+        "@em-cli/em-plugin-yuque": "latest",
+        "@em-cli/shared": "latest",
+        "@em-helper/array": "latest",
+        "@em-helper/core": "latest",
+        "@em-helper/object": "latest",
+        "@em-helper/type": "latest",
+        "@em-polymer/google-apis": "latest",
+        "@em-polymer/google-map": "latest",
+        "@em-polymer/space-satmap": "latest",
+        "@em-presets/babel": "latest"
+    }
+}

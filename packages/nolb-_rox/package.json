@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_rox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@roxaser/package": "latest",
+        "@roxi/plugin-mdsvex": "latest",
+        "@roxi/plugin-postcss": "latest",
+        "@roxi/routify": "latest",
+        "@roxi/routify-test": "latest",
+        "@roxi/ssr": "latest",
+        "@roxie/client": "latest",
+        "@roxie/components": "latest",
+        "@roxie/core": "latest",
+        "@roxie/server": "latest",
+        "@roxie/ui": "latest",
+        "@roxon3000/text-similarity": "latest",
+        "@roxroy/workshopper": "latest",
+        "@roxy-dev1/cli": "latest",
+        "@roxy-dev1/core": "latest",
+        "@roxyclub/rmeta-uikit": "latest",
+        "@roxyclub/roxyswap-core": "latest",
+        "@roxyclub/roxyswap-core2": "latest",
+        "@roxyclub/sdk": "latest",
+        "@roxyclub/uikit": "latest",
+        "@roxza/snow.js": "latest"
+    }
+}

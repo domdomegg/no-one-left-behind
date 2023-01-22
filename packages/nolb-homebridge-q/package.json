@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-homebridge-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "homebridge-qbus-ctl-platform": "latest",
+        "homebridge-qingping-air-monitor": "latest",
+        "homebridge-qingping-airmonitor-cgs1": "latest",
+        "homebridge-qmotion": "latest",
+        "homebridge-qnap-qvrpro": "latest",
+        "homebridge-qolsys": "latest",
+        "homebridge-qsesame": "latest",
+        "homebridge-quietcool": "latest"
+    }
+}

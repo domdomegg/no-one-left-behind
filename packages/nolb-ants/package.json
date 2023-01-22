@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-ants",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ants": "latest",
+        "ants-email-template-editor": "latest",
+        "ants-polish": "latest",
+        "ants-protocol-sdk": "latest",
+        "ants-sdk": "latest",
+        "ants-test": "latest",
+        "ants-test-lib": "latest",
+        "ants.chart": "latest",
+        "ants.components": "latest",
+        "antsand-styles": "latest",
+        "antscalculation1": "latest",
+        "antsim": "latest",
+        "antsjs": "latest",
+        "antsoo": "latest",
+        "antsoo_ui": "latest",
+        "antsoo_ui_403": "latest",
+        "antsort": "latest",
+        "antstyle": "latest",
+        "antsui": "latest",
+        "antsupova.dp": "latest",
+        "antswap-uikit": "latest",
+        "antsword": "latest",
+        "antsy": "latest"
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-natr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "natra": "latest",
+        "natrenakres-frame-print": "latest",
+        "natrium": "latest",
+        "natrium-browser": "latest",
+        "natrium-lib": "latest",
+        "natrium-ng": "latest",
+        "natrix-icons": "latest",
+        "natron": "latest",
+        "natron-api": "latest",
+        "natron-app": "latest",
+        "natron-args-parser": "latest",
+        "natron-cli": "latest",
+        "natron-core": "latest",
+        "natron-debug": "latest",
+        "natron-hrtime-format": "latest",
+        "natron-logging": "latest",
+        "natron-plugin": "latest",
+        "natron-registry": "latest",
+        "natron-transpiler": "latest",
+        "natron-util": "latest",
+        "natron-vinyl": "latest",
+        "natron-watch": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-cal_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cal.js": "latest",
+        "cal_admd": "latest",
+        "cal_area_of_a_circle": "latest",
+        "cal_area_of_a_circle_rad": "latest",
+        "cal_huazai": "latest",
+        "cal_itcast": "latest",
+        "cal_mod_1": "latest",
+        "cal_rd": "latest",
+        "cal_sq_area": "latest",
+        "cal_sqrt_math": "latest",
+        "cal_test11": "latest",
+        "cal_test12": "latest",
+        "cal_test13": "latest",
+        "cal_waheed": "latest",
+        "cal_xys": "latest"
+    }
+}

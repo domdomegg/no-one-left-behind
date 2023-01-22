@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-matht",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "MathTest1": "latest",
+        "mathtastic": "latest",
+        "mathtest": "latest",
+        "mathtestlib": "latest",
+        "mathtokenizer": "latest",
+        "mathtolatex": "latest",
+        "mathtool": "latest",
+        "mathtree-client": "latest",
+        "mathtype-ckeditor5-build-strapi-wysiwyg": "latest",
+        "mathtype-ckeditor5-less": "latest",
+        "mathtype-html-integration-devkit-less": "latest",
+        "mathtype-js-lib": "latest",
+        "mathtype-strapi-plugin-ckeditor5": "latest"
+    }
+}

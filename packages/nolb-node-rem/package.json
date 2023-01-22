@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-node-rem",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-rem": "latest",
+        "node-remap": "latest",
+        "node-reminders": "latest",
+        "node-remote": "latest",
+        "node-remote-api": "latest",
+        "node-remote-api-netflix": "latest",
+        "node-remote-api-youtube": "latest",
+        "node-remote-base64": "latest",
+        "node-remote-console": "latest",
+        "node-remote-control": "latest",
+        "node-remote-debugger": "latest",
+        "node-remote-deploy": "latest",
+        "node-remote-file-save": "latest",
+        "node-remote-jsonrpc": "latest",
+        "node-remote-plot": "latest",
+        "node-remote-pprof": "latest",
+        "node-remote-repl": "latest",
+        "node-remote-two": "latest",
+        "node-remove": "latest",
+        "node-remove-files-directory": "latest",
+        "node-remove-polyfill": "latest"
+    }
+}

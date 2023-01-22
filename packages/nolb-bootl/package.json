@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-bootl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bootlace": "latest",
+        "bootlaterus": "latest",
+        "bootleg": "latest",
+        "bootleg-app": "latest",
+        "bootleg-app-contracts": "latest",
+        "bootleg-hl": "latest",
+        "bootleg-tokens": "latest",
+        "bootler-app": "latest",
+        "bootlight": "latest",
+        "bootlint": "latest",
+        "bootlint-customization": "latest",
+        "bootlint-gui": "latest",
+        "bootlint-server": "latest",
+        "bootlint-teamcity": "latest",
+        "bootloader": "latest",
+        "bootloader-js": "latest",
+        "bootlstap": "latest"
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_guz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@guzh/auth": "latest",
+        "@guzh/core": "latest",
+        "@guzh/tsconfig": "latest",
+        "@guzh/ui": "latest",
+        "@guzhongren/hello-wasm": "latest",
+        "@guzmanlab/wireframecss": "latest",
+        "@guznrdni/auth": "latest",
+        "@guzo/modal": "latest",
+        "@guzo/pubsubhub": "latest",
+        "@guzzj/clappr-context-menu-plugin": "latest",
+        "@guzzj/clappr-core": "latest",
+        "@guzzj/clappr-level-selector-plugin": "latest",
+        "@guzzj/clappr-nerd-stats": "latest",
+        "@guzzj/clappr-pip-plugin": "latest",
+        "@guzzj/clappr-player": "latest",
+        "@guzzj/clappr-plugins": "latest",
+        "@guzzj/clappr-queue-plugin": "latest",
+        "@guzzj/clappr-stats-plugin": "latest",
+        "@guzzj/clappr-thumbnails-plugin": "latest",
+        "@guzzj/clappr-youtube-playback": "latest",
+        "@guzzj/dash-shaka-playback": "latest",
+        "@guzzj/hlsjs-playback": "latest",
+        "@guzzj/intl-tel-input": "latest",
+        "@guzzj/level-selector": "latest",
+        "@guzzj/stats-plugin": "latest"
+    }
+}

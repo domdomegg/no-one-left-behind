@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-cols",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cols": "latest",
+        "cols-customization": "latest",
+        "cols-from-array": "latest",
+        "cols-to-json": "latest",
+        "colsen-test-package": "latest",
+        "colsole": "latest",
+        "colstonjs": "latest"
+    }
+}

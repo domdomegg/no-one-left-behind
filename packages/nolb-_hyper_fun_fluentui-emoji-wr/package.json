@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_fluentui-emoji-wr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/fluentui-emoji-wrapped-gift-color": "latest",
+        "@hyper.fun/fluentui-emoji-wrapped-gift-flat": "latest",
+        "@hyper.fun/fluentui-emoji-wrapped-gift-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-wrench-color": "latest",
+        "@hyper.fun/fluentui-emoji-wrench-flat": "latest",
+        "@hyper.fun/fluentui-emoji-wrench-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-writing-hand-color-dark": "latest",
+        "@hyper.fun/fluentui-emoji-writing-hand-color-default": "latest",
+        "@hyper.fun/fluentui-emoji-writing-hand-color-light": "latest",
+        "@hyper.fun/fluentui-emoji-writing-hand-color-medium": "latest",
+        "@hyper.fun/fluentui-emoji-writing-hand-color-medium-dark": "latest",
+        "@hyper.fun/fluentui-emoji-writing-hand-color-medium-light": "latest",
+        "@hyper.fun/fluentui-emoji-writing-hand-flat-dark": "latest",
+        "@hyper.fun/fluentui-emoji-writing-hand-flat-default": "latest",
+        "@hyper.fun/fluentui-emoji-writing-hand-flat-light": "latest",
+        "@hyper.fun/fluentui-emoji-writing-hand-flat-medium": "latest",
+        "@hyper.fun/fluentui-emoji-writing-hand-flat-medium-dark": "latest",
+        "@hyper.fun/fluentui-emoji-writing-hand-flat-medium-light": "latest",
+        "@hyper.fun/fluentui-emoji-writing-hand-high-contrast-default": "latest"
+    }
+}

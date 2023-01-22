@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-dem",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dem": "latest",
+        "@zalastax/nolb-demo": "latest",
+        "@zalastax/nolb-dem-": "latest",
+        "@zalastax/nolb-dem1": "latest",
+        "@zalastax/nolb-dem2": "latest",
+        "@zalastax/nolb-dem_": "latest",
+        "@zalastax/nolb-dema": "latest",
+        "@zalastax/nolb-demb": "latest",
+        "@zalastax/nolb-demd": "latest",
+        "@zalastax/nolb-deme": "latest",
+        "@zalastax/nolb-demh": "latest",
+        "@zalastax/nolb-demi": "latest",
+        "@zalastax/nolb-demk": "latest",
+        "@zalastax/nolb-demm": "latest",
+        "@zalastax/nolb-demn": "latest",
+        "@zalastax/nolb-demp": "latest",
+        "@zalastax/nolb-demr": "latest",
+        "@zalastax/nolb-dems": "latest",
+        "@zalastax/nolb-demt": "latest",
+        "@zalastax/nolb-demu": "latest",
+        "@zalastax/nolb-demy": "latest"
+    }
+}

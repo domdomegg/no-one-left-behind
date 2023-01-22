@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_unj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@unjavascripter/meetup-api": "latest",
+        "@unjsio/rollup-plugin-dts": "latest",
+        "@unjuanable/canvue": "latest",
+        "@unjuanable/iconfont": "latest",
+        "@unjuanable/jokes": "latest",
+        "@unjuanable/storage": "latest",
+        "@unjuanable/viper": "latest",
+        "@unjuanable/vui": "latest"
+    }
+}

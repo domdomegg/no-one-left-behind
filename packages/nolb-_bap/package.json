@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_bap",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bapana/react-sidebar": "latest",
+        "@bapi.js/fastify": "latest",
+        "@bapp-open/react-scripts": "latest",
+        "@bapp/api-client": "latest",
+        "@bapp/device-connectivity": "latest",
+        "@bappo/inter-device-detox": "latest",
+        "@bappo/migration-cli": "latest",
+        "@bappo/scripts": "latest",
+        "@bappo/svg": "latest",
+        "@bapquad/camel": "latest",
+        "@bapquad/carem": "latest",
+        "@bapquad/element5": "latest",
+        "@baptiste-martinet/yokai-engine": "latest",
+        "@baptisteindev/lib-test2": "latest",
+        "@bapus-ticketing-app/common": "latest"
+    }
+}

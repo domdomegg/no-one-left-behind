@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_cr-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cr-common/package-1": "latest",
+        "@cr-common/package-2": "latest",
+        "@cr-ste-justine/configs": "latest",
+        "@cr-ste-justine/functional-utils": "latest",
+        "@cr-ste-justine/jwt": "latest",
+        "@cr-tickets/common": "latest",
+        "@cr-ui/docs": "latest",
+        "@cr-ui/react": "latest",
+        "@cr-ui/tokens": "latest"
+    }
+}

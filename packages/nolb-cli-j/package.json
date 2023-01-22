@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-cli-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cli-jbook": "latest",
+        "cli-jbook-theta": "latest",
+        "cli-jira": "latest",
+        "cli-job": "latest",
+        "cli-jokes": "latest",
+        "cli-journal": "latest",
+        "cli-js": "latest",
+        "cli-js-boilerplate": "latest",
+        "cli-js-game": "latest",
+        "cli-js-note": "latest",
+        "cli-js-quiz-game": "latest",
+        "cli-jsbook": "latest",
+        "cli-jsnotebook": "latest",
+        "cli-json": "latest",
+        "cli-json-edit": "latest",
+        "cli-json-parser": "latest",
+        "cli-jsx": "latest",
+        "cli-juggle": "latest"
+    }
+}

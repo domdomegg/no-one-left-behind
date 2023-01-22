@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-fireq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fireql": "latest",
+        "fireque": "latest",
+        "firequery": "latest",
+        "firequeue": "latest",
+        "firequick.db": "latest",
+        "firequiz": "latest",
+        "firequiz-azzouz": "latest",
+        "firequiz-demo": "latest",
+        "firequiz_jon": "latest",
+        "firequiztest123": "latest"
+    }
+}

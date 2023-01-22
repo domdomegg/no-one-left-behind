@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-statf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "statful-aws-collector": "latest",
+        "statful-browser-plugin": "latest",
+        "statful-client": "latest",
+        "statful-client-javascript": "latest",
+        "statful-collector-aws": "latest",
+        "statful-middleware-express": "latest",
+        "statful-middleware-koa": "latest",
+        "statful-relay": "latest",
+        "statful-traffic-splitter": "latest"
+    }
+}

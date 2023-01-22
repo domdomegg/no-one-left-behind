@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-cout",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cout": "latest",
+        "coutdown": "latest",
+        "couth": "latest",
+        "couto-rn-template-typescript": "latest",
+        "coutries-states": "latest",
+        "coutts": "latest",
+        "couture": "latest",
+        "couturier": "latest"
+    }
+}

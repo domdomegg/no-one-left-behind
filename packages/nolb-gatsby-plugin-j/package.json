@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-gatsby-plugin-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gatsby-plugin-jam-comments": "latest",
+        "gatsby-plugin-jarvis": "latest",
+        "gatsby-plugin-js-fallback": "latest",
+        "gatsby-plugin-json": "latest",
+        "gatsby-plugin-json-output": "latest",
+        "gatsby-plugin-json-output-multi-feed": "latest",
+        "gatsby-plugin-json-pages": "latest",
+        "gatsby-plugin-json-remark": "latest",
+        "gatsby-plugin-jss": "latest",
+        "gatsby-plugin-jsxstyle": "latest",
+        "gatsby-plugin-just-comments": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_grapp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@grappa-xyz/sdk-js": "latest",
+        "@grappa-xyz/sdk-node": "latest",
+        "@grappa/api": "latest",
+        "@grappa/auth0": "latest",
+        "@grappa/mongodb": "latest",
+        "@grappa/type-date": "latest",
+        "@grappa/type-json": "latest",
+        "@grappafinance/grappa-contracts": "latest"
+    }
+}

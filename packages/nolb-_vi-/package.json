@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_vi-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vi-help/clients-contracts": "latest",
+        "@vi-help/clients-operators": "latest",
+        "@vi-help/email-contracts": "latest",
+        "@vi-help/integration-contracts": "latest",
+        "@vi-help/operators-contracts": "latest",
+        "@vi-help/paymants-contracts": "latest",
+        "@vi-help/sites-contracts": "latest",
+        "@vi-help/statistic-contracts": "latest"
+    }
+}

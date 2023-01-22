@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-cde",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cde": "latest",
+        "cde-gateway": "latest",
+        "cde-jsfooter": "latest",
+        "cde-query-browser": "latest",
+        "cde-text-diff": "latest",
+        "cde-toolbelt": "latest",
+        "cdebug": "latest",
+        "cdecode": "latest",
+        "cdefine": "latest",
+        "cdefs": "latest",
+        "cdeio": "latest",
+        "cdek-api": "latest",
+        "cdek-sdk": "latest",
+        "cdelorme-watch": "latest",
+        "cdenv": "latest",
+        "cdeops": "latest",
+        "cdep": "latest",
+        "cdeps": "latest",
+        "cdesign": "latest",
+        "cdesk": "latest",
+        "cdev": "latest",
+        "cdevhub.carousel": "latest",
+        "cdevs-ui": "latest"
+    }
+}

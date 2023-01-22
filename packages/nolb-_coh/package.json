@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_coh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cohacks/fxjs": "latest",
+        "@cohalz/cdk-fluentd-log-driver": "latest",
+        "@cohalz/cirrocumulus": "latest",
+        "@cohenerickson/quick.db-map": "latest",
+        "@cohensive/select-core": "latest",
+        "@cohensive/select-vue-2": "latest",
+        "@cohensive/select-vue-3": "latest",
+        "@coherence-fin/sdk": "latest",
+        "@coherence-finance/next-auth": "latest",
+        "@coherence-finance/sdk": "latest",
+        "@coherentglobal/data-integration-lib": "latest",
+        "@coherentglobal/spark-execute-sdk": "latest",
+        "@coherentglobal/wasm-runner": "latest",
+        "@cohesic/react-icons": "latest",
+        "@cohey0727/hello-wasm": "latest",
+        "@cohlint/logicmonitor": "latest",
+        "@coho-ai/coho": "latest",
+        "@cohook/core": "latest",
+        "@cohook/preact": "latest",
+        "@cohook/react": "latest",
+        "@cohook/solid-js": "latest",
+        "@cohook/vue3": "latest",
+        "@cohubinc/blueprint": "latest",
+        "@cohubinc/cohub-ui": "latest",
+        "@cohubinc/cohub-utils": "latest",
+        "@cohubinc/react-select": "latest"
+    }
+}

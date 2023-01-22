@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_ngw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ngweb/gitlab-cmd": "latest",
+        "@ngweb/testiwhale": "latest",
+        "@ngworker/lumberjack": "latest",
+        "@ngworker/lumberjack-applicationinsights-driver": "latest",
+        "@ngworker/lumberjack-firestore-driver": "latest",
+        "@ngworker/router-component-store": "latest",
+        "@ngworker/spectacular": "latest"
+    }
+}

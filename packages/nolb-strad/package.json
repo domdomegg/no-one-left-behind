@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-strad",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "strada-pogoda": "latest",
+        "straddle": "latest",
+        "strading-aes-flow": "latest",
+        "stradivario-gapi": "latest",
+        "stradum": "latest",
+        "stradum-test": "latest"
+    }
+}

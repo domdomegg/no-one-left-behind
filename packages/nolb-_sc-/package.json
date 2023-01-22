@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_sc-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sc-cli-dev/core": "latest",
+        "@sc-cli-dev/utils": "latest",
+        "@sc-cli/ddns": "latest",
+        "@sc-cli/grm": "latest",
+        "@sc-cli/init-spec": "latest",
+        "@sc-code/image-filter": "latest",
+        "@sc-com/eslint-config": "latest",
+        "@sc-components/avatar": "latest",
+        "@sc-components/button": "latest",
+        "@sc-components/shared": "latest",
+        "@sc-danieldecsi/gatsby-source-prismic": "latest",
+        "@sc-design/bar": "latest",
+        "@sc-design/foo": "latest",
+        "@sc-design/hooks": "latest",
+        "@sc-jc/ng-symblcrowd": "latest",
+        "@sc-sabre/greeting": "latest",
+        "@sc-tickets/common": "latest",
+        "@sc-voice/scv-static": "latest",
+        "@sc-way/config-prettier": "latest",
+        "@sc-web/css-common": "latest"
+    }
+}

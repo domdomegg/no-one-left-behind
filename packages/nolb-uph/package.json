@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-uph",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "uphere": "latest",
+        "uphold": "latest",
+        "uphold-authorization-code-oauth": "latest",
+        "uphold-authorization-code-oauth-sample": "latest",
+        "uphold-client-credentials-oauth": "latest",
+        "uphold-client-credentials-oauth-sample": "latest",
+        "uphold-pat": "latest",
+        "uphold-pat-sample": "latest",
+        "uphold-scripts": "latest",
+        "uphold-sdk-node": "latest",
+        "uphold-transaction": "latest",
+        "uphold-transaction-sample": "latest",
+        "upholdsdk": "latest",
+        "uphone-parser": "latest",
+        "uphook": "latest",
+        "uphover": "latest",
+        "uphykwxtsmiqfzga": "latest",
+        "uphysics": "latest"
+    }
+}

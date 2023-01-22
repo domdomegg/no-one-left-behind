@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-web4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "Web4.0": "latest",
+        "web4": "latest",
+        "web4-deploy": "latest",
+        "web4-near": "latest",
+        "web4-oasis-api": "latest",
+        "web4-static-hosting": "latest",
+        "web4.27": "latest",
+        "web44": "latest",
+        "web44-liyujie": "latest",
+        "web444": "latest",
+        "web44_hbr": "latest",
+        "web4b": "latest",
+        "web4bch": "latest",
+        "web4bchwallet": "latest",
+        "web4j": "latest",
+        "web4js": "latest",
+        "web4s": "latest",
+        "web4ts": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-mpj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mpj": "latest",
+        "mpj-cli": "latest",
+        "mpj-cmc": "latest",
+        "mpj-log-adapter": "latest",
+        "mpjql-cli": "latest",
+        "mpjs-my-framework": "latest",
+        "mpjsdeepcopy": "latest"
+    }
+}

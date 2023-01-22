@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_fot",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fot/fisher_node_ui": "latest",
+        "@fot/globalstorage": "latest",
+        "@fot/restclient": "latest",
+        "@fothoncode/zip-downloader": "latest",
+        "@fotic/micro-angular9": "latest",
+        "@fotic/micro-base": "latest",
+        "@fotic/micro-jsp": "latest",
+        "@fotic/micro-react16": "latest",
+        "@fotic/micro-trust-contract": "latest",
+        "@fotic/micro-trust-project": "latest",
+        "@fotic/micro-vue2": "latest",
+        "@fotic/micro-vue3": "latest",
+        "@fotickets/common": "latest",
+        "@fotihose/button": "latest",
+        "@fotihose/fih-button": "latest",
+        "@fotihose/icon-input": "latest",
+        "@fotihose/loading-indicator": "latest",
+        "@fotihose/tooltip": "latest",
+        "@foto-andreas/leaflet-control-textinput": "latest",
+        "@foto-andreas/leaflet-gpx": "latest",
+        "@foton_informatica/foton-data-table": "latest",
+        "@foton_informatica/ftn-data-table": "latest",
+        "@foton_informatica/ftn-loading": "latest",
+        "@fotoncompany/sort-object": "latest",
+        "@fotoware/future": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-google-e",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "google-easy-login": "latest",
+        "google-elevation-api": "latest",
+        "google-engine-search-scraper": "latest",
+        "google-err": "latest",
+        "google-events": "latest",
+        "google-excel": "latest",
+        "google-extension-cli-poor": "latest",
+        "google-extension-translate-azure-voice": "latest"
+    }
+}

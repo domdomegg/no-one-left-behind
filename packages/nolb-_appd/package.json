@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_appd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@appdevshop/push-service-client": "latest",
+        "@appdirect/sfb-theme-classic": "latest",
+        "@appdirect/sfb-theme-components": "latest",
+        "@appdirect/sfb-theme-plaza": "latest",
+        "@appdirect/sfb-toolkit": "latest",
+        "@appdirect/storefront-utils": "latest",
+        "@appdirect/universal-header": "latest",
+        "@appdom/appdom": "latest",
+        "@appdoone/datepicker": "latest",
+        "@appdrift/cli": "latest",
+        "@appdrift/core": "latest",
+        "@appdrift/navigation": "latest",
+        "@appdrift/services": "latest",
+        "@appdrift/ts": "latest",
+        "@appdynamics/react-native-agent": "latest"
+    }
+}

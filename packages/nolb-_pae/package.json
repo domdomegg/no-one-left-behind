@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_pae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@paeljo/wegplus-tailwind-preset": "latest",
+        "@paescuj/concurrently": "latest",
+        "@paescuj/defaults-deep-ts": "latest",
+        "@paescuj/extensions-sdk": "latest",
+        "@paescuj/mkdist": "latest",
+        "@paescuj/remark-behead": "latest",
+        "@paescuj/remark-github": "latest",
+        "@paescuj/shared": "latest",
+        "@paescuj/unbuild": "latest"
+    }
+}

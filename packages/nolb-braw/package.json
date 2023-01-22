@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-braw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "braw-file-downloader": "latest",
+        "braw-msg": "latest",
+        "brawl": "latest",
+        "brawl-api": "latest",
+        "brawl-api-wrapper": "latest",
+        "brawl-stars-api": "latest",
+        "brawl-stars-club-tracker": "latest",
+        "brawl.js": "latest",
+        "brawlapi.js": "latest",
+        "brawlbio.js": "latest",
+        "brawldata.js": "latest",
+        "brawler-api": "latest",
+        "brawlhalla-replay-reader": "latest",
+        "brawlhalla-swz": "latest",
+        "brawlhalla.js": "latest",
+        "brawlify": "latest",
+        "brawlperk.js": "latest",
+        "brawlstars": "latest",
+        "brawlstars-api-nodejs": "latest",
+        "brawlstars-api.js": "latest",
+        "brawlstars-box": "latest",
+        "brawlstars-wrapper": "latest",
+        "brawlstars.js": "latest",
+        "brawlstats": "latest",
+        "brawny": "latest",
+        "brawts": "latest"
+    }
+}

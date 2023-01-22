@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_ecle",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@eclectic-coding/html-gulp-boilerplate": "latest",
+        "@eclecticjohny/chrome-react-dev-tools": "latest",
+        "@eclecticjohny/chrome-redux-dev-tools": "latest",
+        "@eclecticjohny/cmder": "latest",
+        "@eclecticjohny/code-fonts": "latest",
+        "@eclecticjohny/crathreeeject": "latest",
+        "@eclecticjohny/deadpool": "latest",
+        "@eclecticjohny/hyper": "latest",
+        "@eclecticjohny/insomnia": "latest",
+        "@eclecticjohny/node": "latest",
+        "@eclecticjohny/posh-git": "latest",
+        "@eclecticjohny/powerlinefonts": "latest",
+        "@eclecticjohny/test-cra": "latest",
+        "@eclecticjohny/test-crathree": "latest",
+        "@eclecticjohny/vscode": "latest",
+        "@eclecticjohny/vscode-extensions": "latest"
+    }
+}

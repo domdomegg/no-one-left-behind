@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_semr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@semrel-extra/demo-msr-cicd-pkg-a": "latest",
+        "@semrel-extra/demo-msr-cicd-pkg-aa": "latest",
+        "@semrel-extra/demo-msr-cicd-pkg-b": "latest",
+        "@semrel-extra/demo-msr-cicd-pkg-bb": "latest",
+        "@semrel-extra/demo-msr-cicd-pkg-c": "latest",
+        "@semrel-extra/demo-msr-cicd-pkg-cc": "latest",
+        "@semrel-extra/demo-msr-cicd-pkg-d": "latest",
+        "@semrel-extra/demo-msr-cicd-pkg-e": "latest",
+        "@semrel-extra/npm": "latest",
+        "@semrel-extra/topo": "latest",
+        "@semrel-extra/zxbr-test-a": "latest",
+        "@semrel-extra/zxbr-test-b": "latest",
+        "@semrel-extra/zxbr-test-c": "latest",
+        "@semrel-extra/zxbr-test-d": "latest",
+        "@semrel/cli": "latest",
+        "@semrush/purr": "latest"
+    }
+}

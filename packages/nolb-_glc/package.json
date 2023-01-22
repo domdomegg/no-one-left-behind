@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_glc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@glcap-forks/typegraphql-nestjs": "latest",
+        "@glcarlos/espree-logging-module-lochdeve": "latest",
+        "@glcode/cli": "latest",
+        "@glcode/simulator": "latest",
+        "@glcode/vue-builder": "latest",
+        "@glcode/vue-gui": "latest"
+    }
+}

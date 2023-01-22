@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-ccp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ccPagination": "latest",
+        "ccp": "latest",
+        "ccp-client-site": "latest",
+        "ccp-jspm-github": "latest",
+        "ccp-lib": "latest",
+        "ccp-widget-module": "latest",
+        "ccp2p": "latest",
+        "ccp_pres_lib": "latest",
+        "ccp_rest_sdk_node": "latest",
+        "ccpa-jurisdiction-sdk": "latest",
+        "ccpa-string-builder": "latest",
+        "ccpa-subs-helper": "latest",
+        "ccparallax": "latest",
+        "ccparticle": "latest",
+        "ccpawa": "latest",
+        "ccpay.js": "latest",
+        "ccphysics": "latest",
+        "ccplatzom": "latest",
+        "ccplie": "latest",
+        "ccpluginx": "latest",
+        "ccpp-common-ui1": "latest",
+        "ccpp-ui": "latest",
+        "ccppackage": "latest",
+        "ccprice": "latest",
+        "ccprogress": "latest"
+    }
+}

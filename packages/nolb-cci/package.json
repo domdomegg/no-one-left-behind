@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-cci",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cci": "latest",
+        "cci-auth": "latest",
+        "cci-core-lib": "latest",
+        "cci-maintainer": "latest",
+        "cci-pingu": "latest",
+        "cci-status": "latest",
+        "cci.botcanvas.library": "latest",
+        "cci.web.core": "latest",
+        "ccic-csui": "latest",
+        "ccigraph": "latest",
+        "ccimage": "latest",
+        "ccimg": "latest",
+        "ccimg-test": "latest",
+        "ccinfo": "latest",
+        "ccinput": "latest",
+        "ccint-services-response-builders": "latest",
+        "ccio": "latest",
+        "ccip": "latest",
+        "ccis": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-react-nc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-nc": "latest",
+        "react-nc-beta": "latest",
+        "react-nc-redux-beta": "latest",
+        "react-ncaa-data": "latest"
+    }
+}

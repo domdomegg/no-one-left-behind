@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-styx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "styx": "latest",
+        "styx-cli": "latest",
+        "styx-client": "latest",
+        "styx.js": "latest",
+        "styxz-katabasis": "latest"
+    }
+}

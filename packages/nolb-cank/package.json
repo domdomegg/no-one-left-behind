@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-cank",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "canknow": "latest",
+        "canknow-admin-core": "latest",
+        "canknow-cli": "latest",
+        "canknow-component-core": "latest",
+        "canknow-core": "latest",
+        "canknow-data-view": "latest",
+        "canknow-icon": "latest",
+        "canknow-icons": "latest",
+        "canknow-infrasturcture": "latest",
+        "canknow-l-map": "latest",
+        "canknow-ui": "latest",
+        "canknow-ui-core": "latest"
+    }
+}

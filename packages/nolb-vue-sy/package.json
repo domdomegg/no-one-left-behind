@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-vue-sy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-sy-admin": "latest",
+        "vue-sydbase": "latest",
+        "vue-symfony-bundle": "latest",
+        "vue-symfony-form": "latest",
+        "vue-sync": "latest",
+        "vue-sync-data": "latest",
+        "vue-sync-form": "latest",
+        "vue-sync-location": "latest",
+        "vue-sync-props": "latest",
+        "vue-sync-query": "latest",
+        "vue-sync-query-mixin": "latest",
+        "vue-sync-router": "latest",
+        "vue-sync-server": "latest",
+        "vue-sync-size": "latest",
+        "vue-sync-state": "latest",
+        "vue-syncers-feathers": "latest",
+        "vue-syntax": "latest",
+        "vue-syntax-highlight": "latest",
+        "vue-synth": "latest",
+        "vue-sys": "latest",
+        "vue-sys-super": "latest",
+        "vue-systable": "latest",
+        "vue-system": "latest",
+        "vue-system-authority": "latest",
+        "vue-system-greenet": "latest",
+        "vue-system-template": "latest",
+        "vue-system-ui": "latest"
+    }
+}

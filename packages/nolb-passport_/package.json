@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-passport_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "passport.share.to.io": "latest",
+        "passport.socket.io": "latest",
+        "passport.socketcluster": "latest",
+        "passport.socketio": "latest",
+        "passport_eloqua": "latest"
+    }
+}

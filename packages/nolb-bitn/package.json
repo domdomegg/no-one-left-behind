@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-bitn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bitnacle": "latest",
+        "bitnacle-express": "latest",
+        "bitnacle-helpers": "latest",
+        "bitnacle-io": "latest",
+        "bitname": "latest",
+        "bitnami-helpers": "latest",
+        "bitnation-panthalassa": "latest",
+        "bitnet": "latest",
+        "bitnet-checkout-core": "latest",
+        "bitnob": "latest",
+        "bitnob-react-native": "latest",
+        "bitnodes": "latest",
+        "bitnow-cli": "latest",
+        "bitnum-xuper-sdk": "latest",
+        "bitnz": "latest"
+    }
+}

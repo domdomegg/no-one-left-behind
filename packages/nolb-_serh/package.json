@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_serh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@serh/vue-roundslider": "latest",
+        "@serh/vue-soundmanager": "latest",
+        "@serh11p/jest-webextension-mock": "latest",
+        "@serh11p/tailwindcss-alpha": "latest",
+        "@serhii-yakymuk/react-scripts": "latest",
+        "@serhii_sapiannyk/random-generator": "latest",
+        "@serhiiperesunko/rrslider": "latest"
+    }
+}

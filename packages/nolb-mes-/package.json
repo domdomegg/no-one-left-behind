@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-mes-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mes-alioss": "latest",
+        "mes-api-definitions": "latest",
+        "mes-babel-plugin-intl": "latest",
+        "mes-bah": "latest",
+        "mes-configuration-service": "latest",
+        "mes-core": "latest",
+        "mes-luadoc": "latest",
+        "mes-my-color-project": "latest",
+        "mes-plugin-file-transfer": "latest",
+        "mes-r-montesp": "latest",
+        "mes-sdk-js": "latest",
+        "mes-test": "latest",
+        "mes-ui-element": "latest",
+        "mes-ui-test": "latest",
+        "mes-utils": "latest"
+    }
+}

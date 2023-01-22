@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_sws",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sws-computersysteme/simple-odata-mongodb": "latest",
+        "@sws2apps/github-gcloud-cli": "latest",
+        "@sws2apps/react-sw-helper": "latest",
+        "@sws2apps/vite-plugin-package-version": "latest",
+        "@swsdk/apphub": "latest",
+        "@swsdk/bitwarden": "latest",
+        "@swsdk/codacy": "latest",
+        "@swsdk/common": "latest",
+        "@swsdk/connector": "latest",
+        "@swsdk/core": "latest",
+        "@swsdk/docker": "latest",
+        "@swsdk/github": "latest",
+        "@swsdk/plugin-auth": "latest",
+        "@swsdk/plugin-config": "latest",
+        "@swsdk/plugin-connector": "latest",
+        "@swsdk/plugin-integration": "latest",
+        "@swsdk/plugin-integrations": "latest",
+        "@swsdk/plugin-scaffold": "latest",
+        "@swsdk/plugin-task": "latest",
+        "@swsdk/plugin-turbine": "latest",
+        "@swsdk/turbine": "latest",
+        "@swstechno/api": "latest",
+        "@swstickets/common": "latest"
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_azo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@azoft/md2": "latest",
+        "@azondo/api": "latest",
+        "@azondo/api-old": "latest",
+        "@azondo/ui": "latest",
+        "@azondo/utils": "latest",
+        "@azora/animations": "latest",
+        "@azora/azora": "latest",
+        "@azora/common": "latest",
+        "@azora/core": "latest",
+        "@azora/form": "latest",
+        "@azora/joi": "latest",
+        "@azora/ng-zora": "latest",
+        "@azora/ngx-schematics": "latest",
+        "@azora/prism": "latest",
+        "@azora/ui": "latest",
+        "@azora/utility": "latest",
+        "@azoraqua/env": "latest",
+        "@azoraqua/jwt-cli": "latest",
+        "@azoraqua/react-hooks": "latest",
+        "@azotlikid/hello-wasm": "latest",
+        "@azoyalabs/cosmos-core": "latest",
+        "@azoyalabs/fns-js": "latest"
+    }
+}

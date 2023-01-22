@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-koh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "koh": "latest",
+        "koh-product-card": "latest",
+        "koh-tvjs-xp": "latest",
+        "koha.js": "latest",
+        "koha_library": "latest",
+        "koha_library_beta": "latest",
+        "kohai": "latest",
+        "kohaku-first-umd": "latest",
+        "kohana-cli": "latest",
+        "kohandlers": "latest",
+        "kohapi": "latest",
+        "kohei": "latest",
+        "koheitech-lib": "latest",
+        "kohila": "latest",
+        "kohl": "latest",
+        "kohls-ui": "latest",
+        "kohnev84": "latest",
+        "koho-api-helper": "latest",
+        "koho-base-components": "latest",
+        "koho-extension": "latest",
+        "koho-webster": "latest",
+        "koho-webster-1": "latest",
+        "kohonen": "latest",
+        "kohonen-net": "latest",
+        "kohr": "latest",
+        "kohut": "latest"
+    }
+}

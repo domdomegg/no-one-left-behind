@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_metm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@metmirr/hydra-cli": "latest",
+        "@metmirr/hydra-indexer": "latest",
+        "@metmirr/mini-sdk": "latest",
+        "@metmirr/warthog": "latest"
+    }
+}

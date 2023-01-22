@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_v8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@v8187/config-eslint": "latest",
+        "@v8187/config-jest": "latest",
+        "@v8187/config-prettier": "latest",
+        "@v8187/native-bottom-tabs": "latest",
+        "@v8187/native-styles": "latest",
+        "@v8187/rs-mock": "latest",
+        "@v8187/rs-utils": "latest",
+        "@v8187/utils": "latest",
+        "@v8ch/granary": "latest",
+        "@v8ch/laravel-auth-spa": "latest",
+        "@v8ch/model-decorators": "latest",
+        "@v8dev/common": "latest",
+        "@v8os/social-share-button-js": "latest",
+        "@v8tenko/phtml": "latest",
+        "@v8tenko/utils": "latest",
+        "@v8tenko/vdom": "latest",
+        "@v8tenko/vite-plugin-phtml": "latest"
+    }
+}

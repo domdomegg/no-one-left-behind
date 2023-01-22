@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_reo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reobservable/core": "latest",
+        "@reobservable/examples": "latest",
+        "@reol/web": "latest",
+        "@reon-solutions/input": "latest",
+        "@reon-solutions/react-checkbox": "latest",
+        "@reon-solutions/test": "latest",
+        "@reonomy/react-confetti-explosion": "latest",
+        "@reonomy/reactive-hooks": "latest",
+        "@reonomy/styles": "latest",
+        "@reorbit/core": "latest",
+        "@reorbit/immer": "latest",
+        "@reorbit/react": "latest",
+        "@reorbit/redux": "latest",
+        "@reorbit/redux-devtools": "latest",
+        "@reorx/webpack-ext-reloader": "latest"
+    }
+}

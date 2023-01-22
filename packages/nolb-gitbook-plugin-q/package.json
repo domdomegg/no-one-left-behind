@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-gitbook-plugin-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gitbook-plugin-qrcode": "latest",
+        "gitbook-plugin-qt-opendoc": "latest",
+        "gitbook-plugin-quiz": "latest",
+        "gitbook-plugin-quizzes": "latest"
+    }
+}

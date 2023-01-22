@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_typeb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@typebear/node": "latest",
+        "@typebot.io/create-docusaurus-openapi": "latest",
+        "@typebot.io/docusaurus-plugin-openapi": "latest",
+        "@typebot.io/docusaurus-plugin-proxy": "latest",
+        "@typebot.io/docusaurus-preset-openapi": "latest",
+        "@typebot.io/docusaurus-template-openapi": "latest",
+        "@typebot.io/docusaurus-theme-openapi": "latest",
+        "@typebot.io/js": "latest",
+        "@typebot/core": "latest",
+        "@typebytes/ngx-template-streams": "latest"
+    }
+}

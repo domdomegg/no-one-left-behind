@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-geog",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "geogen-raub": "latest",
+        "geogig": "latest",
+        "geogig-js": "latest",
+        "geoglobe-cli": "latest",
+        "geoglows": "latest",
+        "geoglyphs": "latest",
+        "geografis": "latest",
+        "geograph": "latest",
+        "geographer": "latest",
+        "geographer-data": "latest",
+        "geographer-js": "latest",
+        "geographic-center": "latest",
+        "geographic-coordinate-converter": "latest",
+        "geographic-item-search": "latest",
+        "geographic-math": "latest",
+        "geographic-tools": "latest",
+        "geographical-aspect-ratio": "latest",
+        "geographiclib": "latest",
+        "geographiclib-dms": "latest",
+        "geographiclib-geodesic": "latest",
+        "geographos": "latest",
+        "geography": "latest",
+        "geogrid.js": "latest",
+        "geogrids": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-disl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dislib": "latest",
+        "dislink.js": "latest",
+        "dislip": "latest",
+        "dislocator": "latest",
+        "dislog": "latest",
+        "dislogg": "latest",
+        "dislogger": "latest",
+        "dislord-rm": "latest",
+        "dislord-rr": "latest"
+    }
+}

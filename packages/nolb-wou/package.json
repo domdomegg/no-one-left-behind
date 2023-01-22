@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-wou",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wou": "latest",
+        "woua-matrimony-sdk": "latest",
+        "woua-onboard": "latest",
+        "woua_sdk": "latest",
+        "woua_sdk1": "latest",
+        "woua_sdk2": "latest",
+        "wouadb": "latest",
+        "wouamath": "latest",
+        "wouamath1": "latest",
+        "wouaz-project": "latest",
+        "wouga-auto-complete": "latest",
+        "woui": "latest",
+        "woui-cli": "latest",
+        "woui-mobile": "latest",
+        "woui-wo-cli": "latest",
+        "would": "latest",
+        "would-you-rather-anime": "latest",
+        "wouldupay": "latest",
+        "wouldyourather": "latest",
+        "wound": "latest",
+        "wourland-api": "latest",
+        "woutbruin-test": "latest",
+        "wouter": "latest",
+        "wouter-preact": "latest",
+        "wouter-redux": "latest",
+        "wouter-umd": "latest",
+        "wouwou": "latest"
+    }
+}

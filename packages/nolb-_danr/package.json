@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_danr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@danreeves/helper-bot": "latest",
+        "@danrnascimento-test/teste_npm": "latest",
+        "@danrojas7/platzi-mediaplayer": "latest",
+        "@danroshko/feature-toggle": "latest",
+        "@danroshko/feature-toggle-transpiler": "latest",
+        "@danroshko/influxdb-node": "latest",
+        "@danroshko/koa-cache": "latest",
+        "@danroshko/slack-bot": "latest"
+    }
+}

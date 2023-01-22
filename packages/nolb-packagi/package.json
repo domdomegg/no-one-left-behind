@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-packagi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "packagifire": "latest",
+        "packagify": "latest",
+        "packagify-html": "latest",
+        "packaging-app": "latest",
+        "packaging-bag": "latest",
+        "packaging-cli": "latest",
+        "packaging-function": "latest",
+        "packaging-mdurco": "latest",
+        "packaging-node": "latest",
+        "packaging-nodes": "latest",
+        "packaging-options-pick-first-expo-config-plugin": "latest",
+        "packaging-plug-in": "latest",
+        "packaging-scripts": "latest",
+        "packaging-service": "latest",
+        "packaging-test": "latest",
+        "packaging-test-pack": "latest",
+        "packaging-ui": "latest",
+        "packaging_zr": "latest",
+        "packagingaxios": "latest",
+        "packagingjs": "latest",
+        "packagingjs-cli": "latest",
+        "packagings-nodes": "latest",
+        "packagist": "latest",
+        "packagist-api-client": "latest",
+        "packagist-package-lookup": "latest",
+        "packagize": "latest"
+    }
+}

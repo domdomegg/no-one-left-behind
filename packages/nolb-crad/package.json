@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-crad",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "crad.js": "latest",
+        "cradaddy": "latest",
+        "cradio": "latest",
+        "cradle": "latest",
+        "cradle-auditify": "latest",
+        "cradle-client": "latest",
+        "cradle-file-emitter": "latest",
+        "cradle-fixed": "latest",
+        "cradle-init": "latest",
+        "cradle-mj-fork": "latest",
+        "cradle-nconf": "latest",
+        "cradle-pouchdb-server": "latest",
+        "cradle-proxy": "latest",
+        "cradle-template-emitter": "latest",
+        "cradle-url": "latest",
+        "cradle_security": "latest",
+        "cradleblock-netlify-cms-widget-ckeditor": "latest",
+        "cradova": "latest"
+    }
+}

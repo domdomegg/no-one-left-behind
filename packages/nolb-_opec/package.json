@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_opec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@opecgame/erela": "latest",
+        "@opecgame/randomname-thai": "latest",
+        "@opecgame/twapi": "latest"
+    }
+}

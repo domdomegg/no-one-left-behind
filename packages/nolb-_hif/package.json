@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_hif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hifaraz/frite": "latest",
+        "@hife/browser-md5-file": "latest",
+        "@hife/cat-mobile": "latest",
+        "@hife/catui": "latest",
+        "@hife/node-zookeeper-client": "latest",
+        "@hife/rich-editor": "latest",
+        "@hife/uploader": "latest",
+        "@hife/utils": "latest",
+        "@hifed/babel-preset": "latest",
+        "@hifed/eslint-config": "latest",
+        "@hifed/leo": "latest",
+        "@hifed/stylelint-config": "latest",
+        "@hifed/taro-cli": "latest",
+        "@hifed/tiga": "latest",
+        "@hifed/utils": "latest",
+        "@hifi/amm": "latest",
+        "@hifi/dsproxy-call-decoder": "latest",
+        "@hifi/flash-swap": "latest",
+        "@hifi/protocol": "latest",
+        "@hifi/proxy-target": "latest",
+        "@hifi/react-tos-modal": "latest",
+        "@hifox/nativescript-apple-sign-in": "latest",
+        "@hifumi/ui": "latest",
+        "@hifumi/util": "latest"
+    }
+}

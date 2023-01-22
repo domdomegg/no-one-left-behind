@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_goy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@goy/eslint-config-standard": "latest",
+        "@goy/eslint-config-vue": "latest",
+        "@goy/module-main": "latest",
+        "@goy/module-side": "latest",
+        "@goy/module-sub": "latest",
+        "@goy/stylelint-config-goy": "latest",
+        "@goy/utils": "latest",
+        "@goy/vuepress-plugin-svg-icons": "latest",
+        "@goya_yellow/date-only": "latest",
+        "@goya_yellow/linqlike-ts": "latest",
+        "@goyaro/fiber": "latest",
+        "@goyaro/iridescence": "latest",
+        "@goyun/goyun": "latest"
+    }
+}

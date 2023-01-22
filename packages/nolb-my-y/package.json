@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-my-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "my-yaml-config": "latest",
+        "my-yang": "latest",
+        "my-yang-pagenation": "latest",
+        "my-yaozu": "latest",
+        "my-yarn-test": "latest",
+        "my-yf-test-user": "latest",
+        "my-yigexbb": "latest",
+        "my-yl-ui": "latest",
+        "my-you-test-cli": "latest",
+        "my-your-utils": "latest",
+        "my-yqhomematerials1": "latest",
+        "my-yqhomematerials2": "latest",
+        "my-yqhomematerials3": "latest",
+        "my-yqhomematerials4": "latest",
+        "my-yqmaterials": "latest",
+        "my-yuzee-lib": "latest",
+        "my-yyy": "latest"
+    }
+}

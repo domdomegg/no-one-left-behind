@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-passl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "passlang": "latest",
+        "passlawl": "latest",
+        "passlawl.js": "latest",
+        "passless": "latest",
+        "passlib": "latest",
+        "passlibrary-t": "latest",
+        "passlink": "latest",
+        "passlink-server": "latest",
+        "passlint": "latest",
+        "passlogin": "latest",
+        "passloss-001": "latest",
+        "passlot": "latest"
+    }
+}

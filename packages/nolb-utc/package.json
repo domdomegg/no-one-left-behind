@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-utc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "utc": "latest",
+        "utc-clock": "latest",
+        "utc-date": "latest",
+        "utc-date-class": "latest",
+        "utc-day-boundary": "latest",
+        "utc-local": "latest",
+        "utc-now": "latest",
+        "utc-offsets": "latest",
+        "utc-to-berlin": "latest",
+        "utc-to-indiantime": "latest",
+        "utc-to-local-time": "latest",
+        "utc-version": "latest",
+        "utc2local": "latest",
+        "utc2locale": "latest",
+        "utcconv": "latest",
+        "utclist": "latest",
+        "utcs": "latest",
+        "utcstring": "latest",
+        "utctolocal": "latest",
+        "utctorelative": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_alifd_theme-1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alifd/theme-1": "latest",
+        "@zalastax/nolb-_alifd_theme-10": "latest",
+        "@zalastax/nolb-_alifd_theme-11": "latest",
+        "@zalastax/nolb-_alifd_theme-12": "latest",
+        "@zalastax/nolb-_alifd_theme-13": "latest",
+        "@zalastax/nolb-_alifd_theme-14": "latest",
+        "@zalastax/nolb-_alifd_theme-15": "latest",
+        "@zalastax/nolb-_alifd_theme-16": "latest",
+        "@zalastax/nolb-_alifd_theme-17": "latest",
+        "@zalastax/nolb-_alifd_theme-18": "latest",
+        "@zalastax/nolb-_alifd_theme-19": "latest"
+    }
+}

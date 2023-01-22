@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_anta",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@antan/eventemitter": "latest",
+        "@antandrieux/hardhat-test-generator": "latest",
+        "@antarctica/bas-style-kit": "latest",
+        "@antarctica/bas-style-kit-pug-templates": "latest",
+        "@antares_boy/t-ui": "latest",
+        "@antaresque/dissonance": "latest",
+        "@antavo/api-async-client-node": "latest",
+        "@antavo/api-client-node": "latest",
+        "@antavo/api-signature-node": "latest",
+        "@antavo/microsite-sdk-node": "latest"
+    }
+}

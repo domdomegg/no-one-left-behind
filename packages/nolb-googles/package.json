@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-googles",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "GoogleService-NodeJs": "latest",
+        "googlesets": "latest",
+        "googlesheet-to-json": "latest",
+        "googlesheetcomment": "latest",
+        "googlesheets-reader": "latest",
+        "googlesheetsapi123": "latest",
+        "googlesheetstocommercetools": "latest",
+        "googlesheetstojson": "latest",
+        "googlesitekit": "latest",
+        "googlespell": "latest",
+        "googlesuggest": "latest",
+        "googlesynthesis": "latest"
+    }
+}

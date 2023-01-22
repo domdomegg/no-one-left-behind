@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_fluentui-emoji-mu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/fluentui-emoji-multiply-color": "latest",
+        "@hyper.fun/fluentui-emoji-multiply-flat": "latest",
+        "@hyper.fun/fluentui-emoji-multiply-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-mushroom-color": "latest",
+        "@hyper.fun/fluentui-emoji-mushroom-flat": "latest",
+        "@hyper.fun/fluentui-emoji-mushroom-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-musical-keyboard-color": "latest",
+        "@hyper.fun/fluentui-emoji-musical-keyboard-flat": "latest",
+        "@hyper.fun/fluentui-emoji-musical-keyboard-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-musical-note-color": "latest",
+        "@hyper.fun/fluentui-emoji-musical-note-flat": "latest",
+        "@hyper.fun/fluentui-emoji-musical-note-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-musical-notes-color": "latest",
+        "@hyper.fun/fluentui-emoji-musical-notes-flat": "latest",
+        "@hyper.fun/fluentui-emoji-musical-notes-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-musical-score-color": "latest",
+        "@hyper.fun/fluentui-emoji-musical-score-flat": "latest",
+        "@hyper.fun/fluentui-emoji-musical-score-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-muted-speaker-color": "latest",
+        "@hyper.fun/fluentui-emoji-muted-speaker-flat": "latest",
+        "@hyper.fun/fluentui-emoji-muted-speaker-high-contrast": "latest"
+    }
+}

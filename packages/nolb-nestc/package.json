@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-nestc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nestcheck": "latest",
+        "nestcloak": "latest",
+        "nestcord": "latest",
+        "nestcord.js": "latest",
+        "nestcore-boot": "latest"
+    }
+}

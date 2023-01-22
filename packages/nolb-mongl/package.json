@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-mongl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mongli": "latest",
+        "monglock": "latest",
+        "monglodb": "latest",
+        "monglow": "latest",
+        "mongly": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_alico",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aliconnect/font": "latest",
+        "@aliconnect/lib": "latest",
+        "@aliconnect/sdk": "latest",
+        "@alicornlabs/labs-design": "latest"
+    }
+}

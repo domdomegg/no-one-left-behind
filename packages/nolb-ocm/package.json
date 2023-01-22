@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-ocm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ocm": "latest",
+        "ocm-deployer": "latest",
+        "ocm-reader": "latest",
+        "ocm_mercurius_messenger": "latest",
+        "ocmapgen-client": "latest",
+        "ocml-amp": "latest",
+        "ocmodal": "latest",
+        "ocms": "latest",
+        "ocms-gp-client": "latest",
+        "ocms-octokit": "latest",
+        "ocms-promotion": "latest",
+        "ocms-testlib1": "latest",
+        "ocms-testlib2": "latest",
+        "ocms-testlib3": "latest",
+        "ocms-testlibrary": "latest"
+    }
+}

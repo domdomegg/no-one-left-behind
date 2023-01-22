@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_pek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@peker/eslint-config": "latest",
+        "@pekevski/typeorm": "latest",
+        "@pekkariv-udemy-ticketing/common": "latest",
+        "@peko858/eslint-config": "latest",
+        "@pekosog/node-mongo-seeds": "latest",
+        "@pektin/client": "latest",
+        "@pektin/config": "latest",
+        "@pektin/declare-fs": "latest",
+        "@pektin/dns-zonefile": "latest",
+        "@pektin/global-registrar": "latest",
+        "@pektin/js-fs": "latest",
+        "@pektin/mailcow-client": "latest",
+        "@pektin/toluol-wasm": "latest",
+        "@pektin/toluol-wasm-bundler": "latest",
+        "@pektin/toluol-wasm-nodejs": "latest",
+        "@pektin/toluol-wasm-web": "latest",
+        "@pekui/pekui-core": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-gll",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gll": "latest",
+        "gll-cli": "latest",
+        "gll-dumi-coomponent": "latest",
+        "gll-dumi2": "latest",
+        "gll-gll": "latest",
+        "gllue": "latest",
+        "gllue-plugin-sdk": "latest",
+        "gllue10": "latest",
+        "gllue8": "latest"
+    }
+}

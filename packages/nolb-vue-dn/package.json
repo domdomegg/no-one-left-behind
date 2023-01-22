@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-vue-dn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-dnd": "latest",
+        "vue-dnd-hoc": "latest",
+        "vue-dnd-kanban": "latest",
+        "vue-dnd-lx": "latest",
+        "vue-dnd-zone": "latest",
+        "vue-dnd2": "latest",
+        "vue-dndocs": "latest",
+        "vue-dndrop": "latest",
+        "vue-dndrop-3": "latest",
+        "vue-dni": "latest",
+        "vue-dnr": "latest",
+        "vue-dns-form-generator": "latest",
+        "vue-dns-record-validation": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-flom",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "flom": "latest",
+        "flomio_cordova_plugin": "latest",
+        "flomo": "latest",
+        "flomo-api-helper": "latest",
+        "flomo-cli": "latest",
+        "flomo-terminal": "latest"
+    }
+}

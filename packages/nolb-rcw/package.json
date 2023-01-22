@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-rcw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rcw": "latest",
+        "rcw-components": "latest",
+        "rcw-npm-test": "latest",
+        "rcw-staticserver": "latest",
+        "rcw2034": "latest",
+        "rcwasm": "latest",
+        "rcwe": "latest"
+    }
+}

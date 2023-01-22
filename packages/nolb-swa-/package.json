@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-swa-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "swa-auth": "latest",
+        "swa-cli": "latest",
+        "swa-logger": "latest",
+        "swa-middleware-logger": "latest",
+        "swa-persistence": "latest",
+        "swa-session": "latest",
+        "swa-sq": "latest",
+        "swa-token": "latest",
+        "swa-tracker": "latest",
+        "swa-utils": "latest"
+    }
+}

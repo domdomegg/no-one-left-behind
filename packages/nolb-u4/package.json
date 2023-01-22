@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-u4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "u4": "latest",
+        "u4.mobile.routing": "latest",
+        "u4_stencil-components": "latest",
+        "u4g-epsg": "latest",
+        "u4g-proj4": "latest",
+        "u4ia": "latest",
+        "u4pm-jaydata-dist": "latest",
+        "u4pm-jaydata-dynamic-metadata": "latest",
+        "u4pm-jaydata-odatajs": "latest",
+        "u4pm-jaydata-promise-handler": "latest",
+        "u4pm-jaysvcutil": "latest"
+    }
+}

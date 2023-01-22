@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_a5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@a501468940/banner": "latest",
+        "@a5601564/revogrid": "latest",
+        "@a565871779/mynpm": "latest",
+        "@a5iv7a/utils.phone": "latest",
+        "@a5sys/angular-tslint-rules": "latest",
+        "@a5ter/init": "latest",
+        "@a5x/cm": "latest"
+    }
+}

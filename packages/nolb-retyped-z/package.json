@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-retyped-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "retyped-z-schema-tsd-ambient": "latest",
+        "retyped-zepto-tsd-ambient": "latest",
+        "retyped-zeroclipboard-tsd-ambient": "latest",
+        "retyped-zip.js-tsd-ambient": "latest",
+        "retyped-zone.js-tsd-ambient": "latest",
+        "retyped-zynga-scroller-tsd-ambient": "latest"
+    }
+}

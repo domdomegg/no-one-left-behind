@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-nexs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nexshop-web-admin": "latest",
+        "nexshop-web-alert": "latest",
+        "nexshop-web-contents": "latest",
+        "nexshop-web-contents-mini-view": "latest",
+        "nexshop-web-device": "latest",
+        "nexshop-web-dialog": "latest",
+        "nexshop-web-dropdown": "latest",
+        "nexshop-web-elements": "latest",
+        "nexshop-web-navigation": "latest",
+        "nexshop-web-popup": "latest",
+        "nexshop-web-schedule": "latest",
+        "nexshop-web-screen": "latest",
+        "nexshop-web-search": "latest",
+        "nexshop-web-skeleton": "latest",
+        "nexshop-web-store": "latest",
+        "nexshop-web-tree-group": "latest",
+        "nexsis": "latest",
+        "nexsleeper": "latest",
+        "nexss": "latest",
+        "nexstate": "latest",
+        "nexstrive-components": "latest",
+        "nexsys": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_yug",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yugabytedb/pg": "latest",
+        "@yugabytedb/pg-pool": "latest",
+        "@yugam-ui/button": "latest",
+        "@yugam-ui/form-input": "latest",
+        "@yugam-ui/progressbar": "latest",
+        "@yugam-ui/progresscircle": "latest",
+        "@yugam-ui/progresspie": "latest",
+        "@yugam18/yug-lib": "latest",
+        "@yugamui/button": "latest",
+        "@yugamui/form-input": "latest",
+        "@yugamui/progressbar": "latest",
+        "@yugamui/progresscircle": "latest",
+        "@yugamui/progresspie": "latest",
+        "@yugarek/criteria": "latest",
+        "@yugasun/github-actions-starter": "latest",
+        "@yugasun/python-requirements": "latest",
+        "@yugasun/serverless-chatapp": "latest",
+        "@yuglaska/common": "latest",
+        "@yugutou/eslint-config": "latest"
+    }
+}

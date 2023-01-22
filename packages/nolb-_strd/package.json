@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_strd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@strdcoders/jackett-api": "latest",
+        "@strdr4605/jump2header": "latest",
+        "@strdr4605/mockingcase": "latest",
+        "@strdr4605/react-native-rename": "latest"
+    }
+}

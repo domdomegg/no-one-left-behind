@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-flan",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "flan": "latest",
+        "flanc": "latest",
+        "flandre": "latest",
+        "flaneur-geocoder": "latest",
+        "flaneur-mailjet-client": "latest",
+        "flaneur-social-location": "latest",
+        "flang": "latest",
+        "flange": "latest",
+        "flanger": "latest",
+        "flank": "latest",
+        "flank-react": "latest",
+        "flanks": "latest",
+        "flannel": "latest",
+        "flanswap-libs-sdk": "latest",
+        "flanswap-libs-uikit": "latest",
+        "flant-cli": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-rnr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rnr": "latest",
+        "rnr-constrained-route": "latest",
+        "rnr-slider": "latest",
+        "rnr-timeline": "latest",
+        "rnr_js_footer": "latest",
+        "rnrails": "latest",
+        "rnrecord": "latest",
+        "rnrestclient": "latest",
+        "rnrf-expo": "latest",
+        "rnrf-relay-renderer": "latest",
+        "rnrq": "latest"
+    }
+}

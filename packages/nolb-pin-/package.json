@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-pin-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pin-abi": "latest",
+        "pin-api": "latest",
+        "pin-block-generation": "latest",
+        "pin-cli": "latest",
+        "pin-code-react": "latest",
+        "pin-css-utils": "latest",
+        "pin-cushion": "latest",
+        "pin-defines": "latest",
+        "pin-dependencies": "latest",
+        "pin-dependencies-checker": "latest",
+        "pin-encryptor": "latest",
+        "pin-generator": "latest",
+        "pin-generator-1-cazaph": "latest",
+        "pin-github-action": "latest",
+        "pin-icons": "latest",
+        "pin-input": "latest",
+        "pin-input-react": "latest",
+        "pin-it": "latest",
+        "pin-it-node": "latest",
+        "pin-latest": "latest",
+        "pin-on-calendar": "latest",
+        "pin-subscriptions-node": "latest",
+        "pin-tailwind-ui": "latest",
+        "pin-ui": "latest"
+    }
+}

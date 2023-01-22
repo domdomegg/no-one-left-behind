@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-jqp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jqPaginator": "latest",
+        "jqPromise4node": "latest",
+        "jqp": "latest",
+        "jqpatch": "latest",
+        "jqplot": "latest",
+        "jqplot-exported": "latest",
+        "jqplot.cursor.js": "latest",
+        "jqplot.donutRenderer": "latest",
+        "jqplot.highlighter": "latest",
+        "jqpm": "latest",
+        "jqpm_server": "latest",
+        "jqpm_z": "latest",
+        "jqpropertygrid": "latest",
+        "jqpug": "latest"
+    }
+}

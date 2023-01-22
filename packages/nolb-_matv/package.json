@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_matv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@matveyneyman/react-nipple": "latest",
+        "@matveyneyman/react-split-pane": "latest",
+        "@matvp91/promise-scheduler": "latest",
+        "@matvp91/webrun": "latest"
+    }
+}

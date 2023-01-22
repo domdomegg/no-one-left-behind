@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_yuv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yuva1422/telegram.js": "latest",
+        "@yuvalbarzam/fe-course-slugger": "latest",
+        "@yuvaldolev/react-link-preview": "latest",
+        "@yuvalsam/random-color": "latest",
+        "@yuvarajv/ngx-google-places-autocomplete": "latest",
+        "@yuvi335/tiny": "latest",
+        "@yuvrajchaudhari/excalidraw": "latest"
+    }
+}

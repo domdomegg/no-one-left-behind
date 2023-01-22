@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-in_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "in.": "latest",
+        "in.actor.read": "latest",
+        "in.actor.shell": "latest",
+        "in.adapter.json": "latest",
+        "in.adapter.lines": "latest",
+        "in.byter.math": "latest",
+        "in.dbalan.foo": "latest",
+        "in.donpeter.testlib": "latest",
+        "in.echosense.aware": "latest",
+        "in.expander.dir": "latest",
+        "in.flurry.plugins.flurry": "latest",
+        "in.fusion": "latest",
+        "in.shell": "latest",
+        "in_array": "latest",
+        "in_jest": "latest",
+        "in_lane_api": "latest",
+        "in_math_operations": "latest",
+        "in_viewport": "latest"
+    }
+}

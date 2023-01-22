@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-diso",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "diso": "latest",
+        "diso.core": "latest",
+        "diso.jwt": "latest",
+        "diso.message": "latest",
+        "diso.router": "latest",
+        "diso.storage": "latest",
+        "diso.view": "latest",
+        "diso.view.video": "latest",
+        "disobot": "latest",
+        "disobot.js": "latest",
+        "disolve": "latest",
+        "disonance": "latest",
+        "disonance-js": "latest",
+        "disorder": "latest",
+        "disorder.js": "latest",
+        "disorganizearr": "latest",
+        "disorganized-test": "latest",
+        "disowen": "latest",
+        "disowen-npm": "latest"
+    }
+}

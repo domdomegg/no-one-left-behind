@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_wev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@weva/babel-plugin-transform-mina-exports": "latest",
+        "@weva/cli": "latest",
+        "@weva/eslint-config": "latest",
+        "@weva/prettier-config": "latest",
+        "@wever/jsx-plugin": "latest",
+        "@wever_liang/my-test-01": "latest",
+        "@wevertoonsilva/ng2-pdf-viewer": "latest",
+        "@wevisdemo/ui": "latest",
+        "@wevns/preprocess-webpack-loader": "latest",
+        "@wevops/ui": "latest"
+    }
+}

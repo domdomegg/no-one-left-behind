@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-nativescript-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nativescript-jailbreak-detector": "latest",
+        "nativescript-javascript-cli": "latest",
+        "nativescript-jiguang-push": "latest",
+        "nativescript-jitsi-meet": "latest",
+        "nativescript-joystick": "latest",
+        "nativescript-jpush": "latest",
+        "nativescript-jsx": "latest",
+        "nativescript-jumio": "latest",
+        "nativescript-jwplayer": "latest",
+        "nativescript-jwplayer-web": "latest"
+    }
+}

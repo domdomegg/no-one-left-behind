@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-calk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "calk": "latest",
+        "calkin-wilf": "latest",
+        "calky360-test": "latest"
+    }
+}

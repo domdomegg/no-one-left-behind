@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-sqk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sqk-so-handsome": "latest",
+        "sqkb-web-cli": "latest",
+        "sqkg": "latest"
+    }
+}

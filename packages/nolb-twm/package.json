@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-twm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "twm": "latest",
+        "twm-button": "latest",
+        "twm-ui": "latest",
+        "twm-weapp": "latest",
+        "twmarquee-sdk": "latest",
+        "twmodule": "latest",
+        "twmuic": "latest",
+        "twmw-ui1": "latest",
+        "twmw-ui10": "latest",
+        "twmw-ui11": "latest",
+        "twmw-ui4": "latest",
+        "twmw-ui6": "latest",
+        "twmw-ui7": "latest",
+        "twmw-ui8": "latest",
+        "twmw-ui9": "latest"
+    }
+}

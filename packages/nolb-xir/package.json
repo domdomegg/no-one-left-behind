@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-xir",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "xira_sql": "latest",
+        "xiratech-spinning-logo": "latest",
+        "xirc": "latest",
+        "xircus": "latest",
+        "xiren": "latest",
+        "xiren-hui": "latest",
+        "xirena-node": "latest",
+        "xirena-ts": "latest",
+        "xirion": "latest",
+        "xiro": "latest",
+        "xiro-animation": "latest",
+        "xiro-form": "latest",
+        "xiro-plugin-app": "latest",
+        "xirr": "latest",
+        "xirr-calculator": "latest",
+        "xirsys": "latest",
+        "xirsys-cortex": "latest",
+        "xirtam": "latest",
+        "xirtam--matrix-operations": "latest",
+        "xirui-dms": "latest",
+        "xiruilink-app": "latest",
+        "xirus-route": "latest"
+    }
+}

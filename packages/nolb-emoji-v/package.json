@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-emoji-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emoji-v": "latest",
+        "emoji-vertical-traffic-light": "latest",
+        "emoji-vhs": "latest",
+        "emoji-vibration-mode": "latest",
+        "emoji-video-camera": "latest",
+        "emoji-video-game": "latest",
+        "emoji-violin": "latest",
+        "emoji-virgo": "latest",
+        "emoji-volcano": "latest",
+        "emoji-volleyball": "latest",
+        "emoji-vote": "latest",
+        "emoji-vs": "latest",
+        "emoji-vue": "latest"
+    }
+}

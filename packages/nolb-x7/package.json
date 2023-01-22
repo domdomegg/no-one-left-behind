@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-x7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "x7": "latest",
+        "x7-lang-loader": "latest",
+        "x7-native-cli": "latest",
+        "x7-pkg": "latest",
+        "x73db": "latest",
+        "x7ian-demo-pkg": "latest",
+        "x7sy-ui": "latest"
+    }
+}

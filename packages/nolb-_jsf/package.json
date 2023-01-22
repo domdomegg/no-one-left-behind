@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_jsf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jsfeb26/urllib-sync": "latest",
+        "@jsfix/dependency-scanner": "latest",
+        "@jsfn/map": "latest",
+        "@jsfn/zip": "latest",
+        "@jsfreak/react-image": "latest",
+        "@jsfriends/mongodb-utils": "latest",
+        "@jsfriends/react-bootstrap-date-picker": "latest",
+        "@jsfsi-core/typescript-cross-platform": "latest",
+        "@jsfsi-core/typescript-nodejs": "latest",
+        "@jsftickets/common": "latest",
+        "@jsfx/dom-tree": "latest",
+        "@jsfx/effects": "latest",
+        "@jsfx/utils": "latest"
+    }
+}

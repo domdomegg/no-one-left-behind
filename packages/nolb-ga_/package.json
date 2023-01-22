@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-ga_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ga.fuquna.prefsgui": "latest",
+        "ga.fuquna.prefsgui.rapidgui": "latest",
+        "ga.fuquna.prefsgui.rosettaui": "latest",
+        "ga.fuquna.prefsguisyncformirror": "latest",
+        "ga.fuquna.rapidgui": "latest",
+        "ga.fuquna.rosettaui": "latest",
+        "ga.fuquna.rosettaui.uitoolkit": "latest",
+        "ga.fuquna.syncutilformirror": "latest",
+        "ga.fuquna.testnpmjs": "latest",
+        "ga.fuquna.testnpmjs.depend": "latest",
+        "ga.fuquna.testpublishingpackage": "latest",
+        "ga.fuquna.vatbaker": "latest",
+        "ga.fuquna_test.testpublishing": "latest",
+        "ga.fuquna_test.testpublishingpackage": "latest",
+        "ga.fuqunatest.testpublishingaccess": "latest",
+        "ga.js": "latest",
+        "ga_cookie_js_parser": "latest",
+        "ga_manager": "latest",
+        "ga_plugin_d": "latest",
+        "ga_plugin_dev": "latest"
+    }
+}

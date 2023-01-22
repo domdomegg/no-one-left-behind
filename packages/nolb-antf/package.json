@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-antf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "antFB": "latest",
+        "antFB-init": "latest",
+        "antFB-mobile": "latest",
+        "antFB-router-redux-ie8": "latest",
+        "antf": "latest",
+        "antf-ui": "latest",
+        "antf-ui-tester": "latest",
+        "antfarm": "latest",
+        "antfiles": "latest",
+        "antfin": "latest",
+        "antfin-sofa-node-antvip": "latest",
+        "antfin-sofa-node-dsr": "latest",
+        "antfire-toolbox": "latest",
+        "antfox": "latest",
+        "antfu": "latest"
+    }
+}

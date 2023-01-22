@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-react-native-ps",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-ps": "latest",
+        "react-native-psdk": "latest",
+        "react-native-pseudo": "latest",
+        "react-native-pseudo-localization": "latest",
+        "react-native-pspdfkit": "latest",
+        "react-native-pspdfkit-fillgi": "latest",
+        "react-native-pspdfkit1": "latest",
+        "react-native-pspdfkit2": "latest",
+        "react-native-pspdfkit3": "latest",
+        "react-native-pss": "latest"
+    }
+}

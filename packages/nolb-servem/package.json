@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-servem",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "servem": "latest",
+        "servemd": "latest",
+        "servemd-handler": "latest",
+        "serveme": "latest",
+        "serveme-fo-core": "latest",
+        "servemocks": "latest",
+        "servemode": "latest",
+        "servemon": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-snp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "snp": "latest",
+        "snp-api": "latest",
+        "snp-gulp-tasks": "latest",
+        "snp-test-package": "latest",
+        "snpack": "latest",
+        "snparse": "latest",
+        "snpdist": "latest",
+        "snphq-medium-editor": "latest",
+        "snphq-react-sortable-hoc": "latest",
+        "snpi": "latest",
+        "snpin-css-unitconversion": "latest",
+        "snpk": "latest",
+        "snpkg-snapi-elasticsearch-resolver-builder": "latest",
+        "snpm": "latest",
+        "snpm-tools": "latest",
+        "snpm-z": "latest",
+        "snpp": "latest",
+        "snpp-client": "latest"
+    }
+}

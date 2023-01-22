@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-slak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "slak": "latest",
+        "slak-listview": "latest",
+        "slak-menu": "latest",
+        "slak-programcomponent": "latest",
+        "slak_express": "latest",
+        "slake": "latest",
+        "slake-build-utils": "latest",
+        "slaklang": "latest",
+        "slakscript": "latest"
+    }
+}

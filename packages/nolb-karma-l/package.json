@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-karma-l",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "karma-lasso": "latest",
+        "karma-laxar": "latest",
+        "karma-lcreport": "latest",
+        "karma-leche": "latest",
+        "karma-led-reporter": "latest",
+        "karma-ledmeknow-reporter": "latest",
+        "karma-less-preprocessor": "latest",
+        "karma-lifx-reporter": "latest",
+        "karma-lintspell": "latest",
+        "karma-live-preprocessor": "latest",
+        "karma-livescript-preprocessor": "latest",
+        "karma-loadscripts-preprocessor": "latest",
+        "karma-loca": "latest",
+        "karma-local-wd-launcher": "latest",
+        "karma-lodash": "latest",
+        "karma-lodash-template-preprocessor": "latest",
+        "karma-log-reporter": "latest",
+        "karma-log-update-reporter": "latest",
+        "karma-logcapture-reporter": "latest",
+        "karma-longest-reporter": "latest",
+        "karma-loud": "latest",
+        "karma-luxon": "latest"
+    }
+}

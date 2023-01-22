@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-etho",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "etho": "latest",
+        "etho.js": "latest",
+        "ethoinfo-framework": "latest",
+        "etholow": "latest",
+        "ethomson": "latest",
+        "ethomson-test": "latest",
+        "ethomson-test-01": "latest",
+        "ethomson-test4": "latest",
+        "ethomson-test5": "latest",
+        "ethopia-waza": "latest",
+        "ethor": "latest",
+        "ethos": "latest",
+        "ethos-connect": "latest",
+        "ethos-connect-staging": "latest",
+        "ethos-connect-vue": "latest",
+        "ethos-connect-vue-beta": "latest",
+        "ethos-connect-vue-betax": "latest",
+        "ethos-design-system": "latest",
+        "ethos-js-client": "latest",
+        "ethos-react": "latest",
+        "ethos-react2": "latest",
+        "ethos-react2-ts": "latest",
+        "ethos-test-react-components": "latest",
+        "ethos-wallet": "latest",
+        "ethos-wallet-beta": "latest",
+        "ethos-wallet-beta-test": "latest",
+        "ethosx-popup": "latest",
+        "ethotp": "latest"
+    }
+}

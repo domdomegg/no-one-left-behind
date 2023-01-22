@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_chau",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chaucerbao/eslint-config": "latest",
+        "@chaucerbao/modal.js": "latest",
+        "@chaucerbao/reveal.js": "latest",
+        "@chaucerbao/shoebox": "latest",
+        "@chaucerbao/stow": "latest",
+        "@chaucerbao/stylelint-config": "latest",
+        "@chaucerbao/suplex": "latest",
+        "@chaucerbao/torn-utils": "latest",
+        "@chaucharian/console": "latest",
+        "@chauchuty/server-now": "latest",
+        "@chaudhryjunaid/express-bunyan-logger": "latest",
+        "@chaunceyau/react-components": "latest",
+        "@chaunguyen4392/tiny": "latest",
+        "@chaunnt/reactjs_buildpackageandnotify": "latest",
+        "@chaurka/transformers": "latest"
+    }
+}

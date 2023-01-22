@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-kif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "kif": "latest",
+        "kife-cli": "latest",
+        "kiffdb": "latest",
+        "kifka81": "latest",
+        "kifli": "latest",
+        "kifly.ts": "latest",
+        "kifly2": "latest",
+        "kifo": "latest",
+        "kiframe": "latest",
+        "kifshare": "latest",
+        "kifu": "latest",
+        "kifu-components": "latest",
+        "kifu-for-js": "latest",
+        "kifu-parser": "latest",
+        "kifu-viewer": "latest",
+        "kify": "latest"
+    }
+}

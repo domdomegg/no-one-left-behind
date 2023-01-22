@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-svl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svl": "latest",
+        "svl-admin-template": "latest",
+        "svl-design": "latest",
+        "svl-server": "latest",
+        "svl-tin-sql-formatter": "latest",
+        "svladiko": "latest",
+        "svless": "latest",
+        "svlint": "latest",
+        "svlinux": "latest",
+        "svlt-testing-library": "latest"
+    }
+}

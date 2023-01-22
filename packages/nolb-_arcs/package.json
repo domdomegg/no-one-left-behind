@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_arcs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@arcseniy/is-wds": "latest",
+        "@arcsine/active-win": "latest",
+        "@arcsine/glob": "latest",
+        "@arcsine/node-shell": "latest",
+        "@arcsine/nodesh": "latest",
+        "@arcsine/process-win": "latest",
+        "@arcsine/screen-recorder": "latest",
+        "@arcsine/win-info": "latest",
+        "@arcsoft/node-red-sshtools": "latest",
+        "@arcsubs/sdk-identity": "latest",
+        "@arcsubs/sdk-sales": "latest"
+    }
+}

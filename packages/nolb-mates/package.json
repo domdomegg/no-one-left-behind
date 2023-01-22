@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-mates",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mates-angular-library": "latest",
+        "mates-api-core": "latest",
+        "matescript": "latest",
+        "matestack-ui-bootstrap": "latest",
+        "matestack-ui-bootstrap-beta": "latest",
+        "matestack-ui-core": "latest",
+        "matestack-ui-vuejs": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-crel",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "crel": "latest",
+        "crel-es5": "latest",
+        "crel-esm": "latest",
+        "crelm": "latest",
+        "crelm-popup": "latest",
+        "crelmstat": "latest",
+        "crelns": "latest",
+        "crelt": "latest"
+    }
+}

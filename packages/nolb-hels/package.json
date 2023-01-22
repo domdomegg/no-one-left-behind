@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-hels",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "helsawaf_example": "latest",
+        "helschema": "latest",
+        "helscout": "latest",
+        "helsenorge-questionnaire-extensions-beta": "latest",
+        "helsinki": "latest"
+    }
+}

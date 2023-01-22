@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_v4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@v4fire/cli": "latest",
+        "@v4fire/client": "latest",
+        "@v4fire/config": "latest",
+        "@v4fire/core": "latest",
+        "@v4fire/design-system": "latest",
+        "@v4fire/linters": "latest",
+        "@v4fire/typescript-check": "latest",
+        "@v4jk4kvjax/mipush-rn": "latest",
+        "@v4le/firstvalemodule": "latest",
+        "@v4product/v4components": "latest"
+    }
+}

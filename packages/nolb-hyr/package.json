@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-hyr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hyr": "latest",
+        "hyr-sdk": "latest",
+        "hyraiq-tslint-custom-rules": "latest",
+        "hyral": "latest",
+        "hyral-avlisodraude": "latest",
+        "hyrax": "latest",
+        "hyrecar-react-scripts": "latest",
+        "hyresources": "latest",
+        "hyrest": "latest",
+        "hyrest-express": "latest",
+        "hyrest-mobx": "latest",
+        "hyrl-wangeditor": "latest",
+        "hyrmedia": "latest",
+        "hyrn": "latest",
+        "hyron": "latest",
+        "hyron-cli": "latest",
+        "hyrt": "latest",
+        "hyrule": "latest",
+        "hyrule-compendium": "latest",
+        "hyrule2d": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-b1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "b1": "latest",
+        "b1-massive-provider": "latest",
+        "b1-service-layer": "latest",
+        "b1-service-layer-yedker": "latest",
+        "b1-to-b0-convertor": "latest",
+        "b123": "latest",
+        "b12normalize": "latest",
+        "b14ckc0d3": "latest",
+        "b1605bbb": "latest",
+        "b1605bnsl": "latest",
+        "b1605nsl": "latest",
+        "b18": "latest",
+        "b1803": "latest",
+        "b1872554": "latest",
+        "b1902a20210610k": "latest",
+        "b1b.js": "latest",
+        "b1g-components-angular6": "latest",
+        "b1ncer-react-konva": "latest",
+        "b1ncer-react-pixi-fiber": "latest",
+        "b1ncer-react-slider": "latest",
+        "b1ncer-react-tag-input": "latest",
+        "b1nd-styled-components-util": "latest",
+        "b1njtimeline": "latest",
+        "b1nzy": "latest",
+        "b1t": "latest",
+        "b1x-ui-test": "latest",
+        "b1z3rr4": "latest"
+    }
+}

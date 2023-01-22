@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_mu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/mui-avatar": "latest",
+        "@hyper.fun/mui-badge": "latest",
+        "@hyper.fun/mui-button": "latest",
+        "@hyper.fun/mui-checkbox": "latest",
+        "@hyper.fun/mui-fab": "latest",
+        "@hyper.fun/mui-icon": "latest",
+        "@hyper.fun/mui-radio": "latest",
+        "@hyper.fun/mui-rating": "latest",
+        "@hyper.fun/mui-slider": "latest",
+        "@hyper.fun/mui-switch": "latest",
+        "@hyper.fun/mui-text-field": "latest"
+    }
+}

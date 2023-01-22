@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-pr_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pr.core": "latest",
+        "pr.frisby": "latest",
+        "pr.js": "latest",
+        "pr_bsu-1": "latest",
+        "pr_projectone": "latest",
+        "pr_test_seo-88": "latest",
+        "pr_validation_codecommit": "latest"
+    }
+}

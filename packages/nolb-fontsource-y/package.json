@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-fontsource-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fontsource-yakuhanjp": "latest",
+        "fontsource-yakuhanjps": "latest",
+        "fontsource-yakuhanmp": "latest",
+        "fontsource-yakuhanmps": "latest",
+        "fontsource-yakuhanrp": "latest",
+        "fontsource-yakuhanrps": "latest",
+        "fontsource-yanone-kaffeesatz": "latest",
+        "fontsource-yantramanav": "latest",
+        "fontsource-yatra-one": "latest",
+        "fontsource-yellowtail": "latest",
+        "fontsource-yeon-sung": "latest",
+        "fontsource-yeseva-one": "latest",
+        "fontsource-yesteryear": "latest",
+        "fontsource-yrsa": "latest"
+    }
+}

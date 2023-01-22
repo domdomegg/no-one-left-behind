@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_do5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@do5173/base-services-types": "latest",
+        "@do5173/exam-services-types": "latest",
+        "@do5173/gtr-services-types": "latest",
+        "@do5173/im-services-types": "latest",
+        "@do5173/redux-effect": "latest",
+        "@do5173/redux-effect-graphql": "latest"
+    }
+}

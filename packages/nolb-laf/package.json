@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-laf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "laf": "latest",
+        "laf-cli": "latest",
+        "laf-client-sdk": "latest",
+        "laf-db-query-wrapper": "latest",
+        "laf-hg": "latest",
+        "laf-http": "latest",
+        "laf-lib": "latest",
+        "laf-utils": "latest",
+        "lafayette": "latest",
+        "lafayette-preserve-mock": "latest",
+        "lafeiuniswap-sdk": "latest",
+        "lafetch": "latest",
+        "laffey": "latest",
+        "lafi": "latest",
+        "lafi-ui": "latest",
+        "lafite-count-down": "latest",
+        "lafite-demo": "latest",
+        "lafite-npm-demo": "latest",
+        "lafiteswap-sdk": "latest",
+        "laforce-dnd": "latest",
+        "laforge": "latest",
+        "laforge-sequelize": "latest",
+        "laftel": "latest",
+        "laftel.js": "latest",
+        "lafuente": "latest",
+        "lafy": "latest",
+        "lafzi.js": "latest"
+    }
+}

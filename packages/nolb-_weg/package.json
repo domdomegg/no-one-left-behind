@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_weg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wegenenverkeer/ng-kaart": "latest",
+        "@wegenenverkeer/ng-kaart-webcomponent": "latest",
+        "@wegener-it/uppy-plugin-lexmark": "latest",
+        "@weglot/cloudworker": "latest",
+        "@wegolook/joi-objectid": "latest",
+        "@wegolook/task-definitions": "latest",
+        "@wegotickets/common": "latest",
+        "@wegotpop/draft-js-export-html": "latest",
+        "@wegotpop/draft-js-export-markdown": "latest",
+        "@wegotpop/draft-js-import-element": "latest",
+        "@wegotpop/draft-js-import-html": "latest",
+        "@wegotpop/draft-js-import-markdown": "latest",
+        "@wegotpop/draft-js-utils": "latest",
+        "@wegotpop/draftjs-to-html": "latest",
+        "@wegotpop/styleguide": "latest",
+        "@wegotpop/synthetic-dom": "latest"
+    }
+}

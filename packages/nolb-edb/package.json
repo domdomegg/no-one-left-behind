@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-edb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "edb": "latest",
+        "edb-bs-extend": "latest",
+        "edb-console": "latest",
+        "edb-dom": "latest",
+        "edb-eslint-config-ts": "latest",
+        "edb-response": "latest",
+        "edb-sorteio": "latest",
+        "edbase32": "latest",
+        "edbcli": "latest",
+        "edbed": "latest",
+        "edbenote": "latest",
+        "edbl.js": "latest",
+        "edblinova_npm": "latest",
+        "edbms": "latest",
+        "edbot": "latest",
+        "edbotstudio": "latest",
+        "edbouce": "latest",
+        "edbyrnee-mat-schematics": "latest",
+        "edbyrnee-schematic-tools": "latest",
+        "edbyrnee-schematics-nestjs": "latest"
+    }
+}

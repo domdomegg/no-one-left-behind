@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-ui-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ui-nature": "latest",
+        "ui-navbar": "latest",
+        "ui-navigation": "latest",
+        "ui-navigation-bar": "latest",
+        "ui-navigator-service": "latest",
+        "ui-ncpc-react-native": "latest",
+        "ui-neu": "latest",
+        "ui-neumorphism": "latest",
+        "ui-new": "latest",
+        "ui-ng": "latest",
+        "ui-ng-app-commons": "latest",
+        "ui-ng2": "latest",
+        "ui-ngx-i18": "latest",
+        "ui-nice": "latest",
+        "ui-notification": "latest",
+        "ui-notifier": "latest",
+        "ui-notify": "latest",
+        "ui-npm": "latest",
+        "ui-nuclear-mobile": "latest",
+        "ui-number-input": "latest",
+        "ui-nxt": "latest"
+    }
+}

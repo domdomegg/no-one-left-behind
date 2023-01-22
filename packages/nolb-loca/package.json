@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-loca",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "loca": "latest",
+        "@zalastax/nolb-local": "latest",
+        "@zalastax/nolb-loca-": "latest",
+        "@zalastax/nolb-locac": "latest",
+        "@zalastax/nolb-locam": "latest",
+        "@zalastax/nolb-locan": "latest",
+        "@zalastax/nolb-locap": "latest",
+        "@zalastax/nolb-locas": "latest",
+        "@zalastax/nolb-locat": "latest",
+        "@zalastax/nolb-locav": "latest",
+        "@zalastax/nolb-locaw": "latest",
+        "@zalastax/nolb-locay": "latest"
+    }
+}

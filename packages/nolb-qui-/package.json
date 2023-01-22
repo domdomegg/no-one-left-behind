@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-qui-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qui-cli": "latest",
+        "qui-database": "latest",
+        "qui-gon": "latest",
+        "qui-lib": "latest",
+        "qui-npm-test": "latest",
+        "qui-sass": "latest",
+        "qui-theme-builder": "latest"
+    }
+}

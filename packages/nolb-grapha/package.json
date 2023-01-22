@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-grapha",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grapha": "latest",
+        "graphable": "latest",
+        "graphablejson": "latest",
+        "graphactor": "latest",
+        "graphael": "latest",
+        "graphagrid1": "latest",
+        "graphana": "latest",
+        "graphanalyticslib": "latest",
+        "graphand-hooks-tools": "latest",
+        "graphand-js": "latest",
+        "graphand-next": "latest",
+        "graphand-plugin-react": "latest",
+        "graphand-react": "latest",
+        "graphandchart": "latest",
+        "graphant": "latest",
+        "grapharea": "latest"
+    }
+}

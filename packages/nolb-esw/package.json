@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-esw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "esw": "latest",
+        "eswalk": "latest",
+        "eswalker": "latest",
+        "eswan-node-http-server": "latest",
+        "eswar-js": "latest",
+        "eswar-ts": "latest",
+        "eswargive": "latest",
+        "eswarorg-public": "latest",
+        "eswat2": "latest",
+        "eswat42": "latest",
+        "eswatch": "latest",
+        "eswaterline": "latest",
+        "esweb": "latest",
+        "eswhy": "latest",
+        "eswin": "latest",
+        "eswiss": "latest",
+        "eswp-core": "latest",
+        "eswp-core-api": "latest",
+        "eswrap": "latest"
+    }
+}

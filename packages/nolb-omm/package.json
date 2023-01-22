@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-omm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "omm": "latest",
+        "omm-frontend": "latest",
+        "omm-mapjc": "latest",
+        "omma": "latest",
+        "ommand-eixsts": "latest",
+        "ommethods": "latest",
+        "ommi-phone": "latest",
+        "omml2img": "latest",
+        "omml2mathml": "latest",
+        "ommmvalidator": "latest",
+        "ommmyjay-test-package": "latest",
+        "ommon": "latest",
+        "ommr": "latest",
+        "ommsraban": "latest"
+    }
+}

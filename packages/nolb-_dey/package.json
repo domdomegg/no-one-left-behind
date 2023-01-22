@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_dey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@deyan.d/chops": "latest",
+        "@deyojo7828/test": "latest",
+        "@deyojo7828/tiny": "latest",
+        "@deyoungjd/hapi-cron": "latest",
+        "@deyoungjd/hapi-rsmq-queues": "latest",
+        "@deyoungjd/prisma-joi-generator": "latest",
+        "@deyu/document": "latest",
+        "@deyvis17gy/atom-img": "latest",
+        "@deyzito/commom": "latest"
+    }
+}

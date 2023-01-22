@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-terb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "terb": "latest",
+        "terbilang": "latest",
+        "terbilang-js": "latest",
+        "terbilang-rupiah": "latest",
+        "terbilang-spelling": "latest",
+        "terbilang-ts": "latest",
+        "terbine-js-library": "latest",
+        "terbit": "latest",
+        "terbium": "latest",
+        "terbiumbot": "latest",
+        "terbo": "latest",
+        "terbo-express": "latest"
+    }
+}

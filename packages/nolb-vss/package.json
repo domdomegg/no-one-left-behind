@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-vss",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vss-auth": "latest",
+        "vss-dat-import": "latest",
+        "vss-monaco-editor": "latest",
+        "vss-npm-package-uploading-test": "latest",
+        "vss-sdk": "latest",
+        "vss-sdk-module": "latest",
+        "vss-ui": "latest",
+        "vss-ui-forked": "latest",
+        "vss-version": "latest",
+        "vss-web-extension-sdk": "latest",
+        "vssal-angular": "latest",
+        "vssample-package": "latest",
+        "vsserver": "latest",
+        "vssh-jsencrypt": "latest",
+        "vsshello": "latest",
+        "vssln-dependencies": "latest",
+        "vssln-parser": "latest",
+        "vssm": "latest",
+        "vssr": "latest",
+        "vssue": "latest",
+        "vssue-api-gitee": "latest",
+        "vssware": "latest",
+        "vsswhatsapp-node-api": "latest",
+        "vssztswapv2-sdk": "latest"
+    }
+}

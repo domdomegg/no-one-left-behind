@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-paro",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "paro": "latest",
+        "paro-design-system": "latest",
+        "paro-js": "latest",
+        "paro-modules": "latest",
+        "parody": "latest",
+        "parody-of-redux": "latest",
+        "paroflow": "latest",
+        "parola": "latest",
+        "parola-olusturucu": "latest",
+        "parole": "latest",
+        "paroller.js": "latest",
+        "parone-table": "latest",
+        "parookiejs": "latest",
+        "paroot-react": "latest",
+        "parovoz_first_supermodule": "latest"
+    }
+}

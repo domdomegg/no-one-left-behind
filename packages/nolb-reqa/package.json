@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-reqa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reqa": "latest",
+        "reqache": "latest",
+        "reqack": "latest",
+        "reqall": "latest",
+        "reqapi": "latest",
+        "reqapi-plugin-robot": "latest",
+        "reqauto": "latest"
+    }
+}

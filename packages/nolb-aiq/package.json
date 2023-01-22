@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-aiq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aiq": "latest",
+        "aiq-design-system": "latest",
+        "aiq-ui": "latest",
+        "aiqing-baoxian-miji": "latest",
+        "aiqing-buchucuo-sanliuji": "latest",
+        "aiqing-juexing-ditu": "latest",
+        "aiqing-quanzhanxing": "latest",
+        "aiqing-taluo-mofa-xince-zhanbushu": "latest",
+        "aiqing-yinmoulun": "latest",
+        "aiqing0342": "latest",
+        "aiqingde-xiyinli-faze": "latest",
+        "aiqingguangpu-aiqing-qizongzui": "latest",
+        "aiqingguangpu-jiulingtian-jingying-tuibian-jiaocai-shang": "latest",
+        "aiqingguangpu-jiulingtian-jingying-tuibian-jiaocai-xia": "latest",
+        "aiqingguangpu-liaotian-saocaozuo": "latest",
+        "aiqingguangpu-saocaozuo-daquan": "latest",
+        "aiqingtixi-nizhuanx-x5": "latest",
+        "aiqtimeseries": "latest",
+        "aiqua-a-plugin": "latest",
+        "aiqua-cordova-plugin": "latest",
+        "aiqua-ionic": "latest",
+        "aiqua-ionic-framework": "latest",
+        "aiquery-vue": "latest"
+    }
+}

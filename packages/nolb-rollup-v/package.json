@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-rollup-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rollup-vinyl-stream": "latest",
+        "rollup-vinyl-stream2": "latest",
+        "rollup-vue": "latest",
+        "rollup-vue-kevins": "latest",
+        "rollup-vue-plugins-tg-test": "latest",
+        "rollup-vue-qcj": "latest",
+        "rollup-vue-tong-liang": "latest",
+        "rollup-vue-ts": "latest",
+        "rollup-vue-ts-yjd": "latest",
+        "rollup-vue-ts-yjd222": "latest",
+        "rollup-vue-tss": "latest",
+        "rollup-vue3-xu": "latest",
+        "rollup-vuecomponent-test": "latest"
+    }
+}

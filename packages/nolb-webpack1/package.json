@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-webpack1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "webpack1": "latest",
+        "webpack1-april": "latest",
+        "webpack1234-replace-loader": "latest"
+    }
+}

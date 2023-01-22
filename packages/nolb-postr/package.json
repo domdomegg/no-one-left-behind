@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-postr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "postr": "latest",
+        "postr-facebook": "latest",
+        "postrace": "latest",
+        "postrchild-editor-base": "latest",
+        "postre": "latest",
+        "postreach": "latest",
+        "postredux": "latest",
+        "postrend": "latest",
+        "postrend-react": "latest",
+        "postrequire": "latest",
+        "postrest": "latest",
+        "postrestql": "latest",
+        "postroom": "latest",
+        "postrouter": "latest",
+        "postrx": "latest"
+    }
+}

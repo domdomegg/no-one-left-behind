@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_ryancavanaugh_v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryancavanaugh/valerie": "latest",
+        "@ryancavanaugh/validator": "latest",
+        "@ryancavanaugh/vec3": "latest",
+        "@ryancavanaugh/vega": "latest",
+        "@ryancavanaugh/velocity-animate": "latest",
+        "@ryancavanaugh/verror": "latest",
+        "@ryancavanaugh/vex-js": "latest",
+        "@ryancavanaugh/vexflow": "latest",
+        "@ryancavanaugh/victor": "latest",
+        "@ryancavanaugh/videojs": "latest",
+        "@ryancavanaugh/viewporter": "latest",
+        "@ryancavanaugh/vimeo": "latest",
+        "@ryancavanaugh/vinyl": "latest",
+        "@ryancavanaugh/vinyl-buffer": "latest",
+        "@ryancavanaugh/vinyl-fs": "latest",
+        "@ryancavanaugh/vinyl-paths": "latest",
+        "@ryancavanaugh/vinyl-source-stream": "latest",
+        "@ryancavanaugh/virtual-dom": "latest",
+        "@ryancavanaugh/vortex-web-client": "latest",
+        "@ryancavanaugh/voximplant-websdk": "latest",
+        "@ryancavanaugh/vso-node-api": "latest",
+        "@ryancavanaugh/vue": "latest",
+        "@ryancavanaugh/vue-resource": "latest",
+        "@ryancavanaugh/vue-router": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-rce",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rce": "latest",
+        "rce-align": "latest",
+        "rce-cli": "latest",
+        "rce-mdui": "latest",
+        "rce-pattern": "latest",
+        "rce-slider": "latest",
+        "rce-toggle-demo": "latest",
+        "rce-tooltip": "latest",
+        "rce-trigger": "latest",
+        "rce-webpack-loader": "latest",
+        "rce-with-plugins": "latest",
+        "rcedit": "latest",
+        "rcedit-wayvad": "latest",
+        "rcen": "latest",
+        "rcenodejs": "latest",
+        "rcep": "latest",
+        "rcesium": "latest",
+        "rcetoggle": "latest"
+    }
+}

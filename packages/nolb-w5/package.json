@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-w5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "w5": "latest",
+        "w5-bot": "latest",
+        "w5-bot-test": "latest",
+        "w5-scrapper": "latest",
+        "w5-textmaker": "latest",
+        "w5-ytl": "latest",
+        "w5cValidator": "latest",
+        "w5grid-rest-node": "latest",
+        "w5grid-xml-node": "latest",
+        "w5kit-cli": "latest",
+        "w5mf-types": "latest",
+        "w5mf-types-generate": "latest",
+        "w5mf-types-remote": "latest",
+        "w5mf-types-tools": "latest",
+        "w5mf-versions": "latest"
+    }
+}

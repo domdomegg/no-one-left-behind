@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-urs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "urs": "latest",
+        "urs_browser": "latest",
+        "urs_browser2": "latest",
+        "ursa": "latest",
+        "ursa-apis": "latest",
+        "ursa-gen": "latest",
+        "ursa-layout": "latest",
+        "ursa-lib": "latest",
+        "ursa-major": "latest",
+        "ursa-optional": "latest",
+        "ursa-purejs": "latest",
+        "ursa-purejs2020": "latest",
+        "ursa-react": "latest",
+        "ursa-ssl": "latest",
+        "ursa-sso": "latest",
+        "ursa-style": "latest",
+        "ursa-utils": "latest",
+        "ursa-wrapper": "latest",
+        "ursh": "latest",
+        "ursi": "latest",
+        "ursiform": "latest",
+        "ursula": "latest",
+        "ursuppe": "latest"
+    }
+}

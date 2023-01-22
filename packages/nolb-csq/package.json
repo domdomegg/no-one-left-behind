@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-csq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "csq": "latest",
+        "csq-component-first": "latest",
+        "csq-vue-multi-draggable": "latest",
+        "csq200407": "latest",
+        "csqc-composants-ui": "latest",
+        "csqd": "latest",
+        "csqgethtml2019": "latest",
+        "csql": "latest",
+        "csqlp": "latest",
+        "csquill-vue3": "latest"
+    }
+}

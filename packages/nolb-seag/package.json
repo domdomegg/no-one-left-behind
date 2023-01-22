@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-seag",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "seaged-material-theme": "latest",
+        "seagrass-cli": "latest",
+        "seagull": "latest",
+        "seagull-backend": "latest",
+        "seagull-client": "latest",
+        "seagull-lib": "latest",
+        "seagull_test": "latest",
+        "seagullmoon_test": "latest"
+    }
+}

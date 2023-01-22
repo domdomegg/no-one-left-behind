@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-nodebb-plugin-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodebb-plugin-katex": "latest",
+        "nodebb-plugin-katex-latest": "latest",
+        "nodebb-plugin-kitchen-sink": "latest",
+        "nodebb-plugin-knowledge-base": "latest",
+        "nodebb-plugin-knuddels": "latest"
+    }
+}

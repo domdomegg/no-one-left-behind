@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-monc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "monc": "latest",
+        "moncache-driver": "latest",
+        "moncash": "latest",
+        "monch": "latest",
+        "moncket": "latest",
+        "moncket-server": "latest",
+        "moncoin-crypto": "latest",
+        "moncoin-rpc": "latest",
+        "moncoin-utils": "latest",
+        "moncon": "latest",
+        "monconn": "latest",
+        "moncrud": "latest",
+        "moncrud-leo": "latest"
+    }
+}

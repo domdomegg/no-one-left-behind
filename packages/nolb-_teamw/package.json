@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_teamw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@teamwolfyta/prettier-config": "latest",
+        "@teamwolfyta/ts-config": "latest",
+        "@teamwork/autocomplete-core": "latest",
+        "@teamwork/autocomplete-editor-codemirror": "latest",
+        "@teamwork/autocomplete-editor-contenteditable": "latest",
+        "@teamwork/autocomplete-editor-text": "latest",
+        "@teamwork/autocomplete-ui-ko": "latest",
+        "@teamwork/autocomplete-ui-vue": "latest",
+        "@teamwork/emojione": "latest",
+        "@teamwork/eoslibrary": "latest",
+        "@teamwork/login-button": "latest",
+        "@teamwork/ot-rich-text": "latest",
+        "@teamwork/sharedb": "latest",
+        "@teamwork/sharedb-mingo-memory": "latest",
+        "@teamwork/sharedb-mongo": "latest",
+        "@teamwork/sharedb-redis-pubsub": "latest",
+        "@teamwork/vue-dropdown-directive": "latest",
+        "@teamwork/vue-svg-loader": "latest",
+        "@teamwork/websocket-json-stream": "latest"
+    }
+}

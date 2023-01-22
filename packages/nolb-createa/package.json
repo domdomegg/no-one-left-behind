@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-createa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "createa-procdx-cli": "latest",
+        "createactioncreator": "latest",
+        "createanalysis": "latest",
+        "createanddelete": "latest",
+        "createapollocacheupdatemock": "latest",
+        "createapp-wxy": "latest",
+        "createapp2016": "latest",
+        "createappguowei01": "latest",
+        "createasy-bot-beta": "latest"
+    }
+}

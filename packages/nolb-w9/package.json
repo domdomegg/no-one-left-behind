@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-w9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "w9": "latest",
+        "w9-bson": "latest",
+        "w9-bson-stream": "latest",
+        "w95cli": "latest"
+    }
+}

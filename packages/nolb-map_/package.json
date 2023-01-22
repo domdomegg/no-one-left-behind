@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-map_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "map.dll": "latest",
+        "map.gl": "latest",
+        "map.heightgraph": "latest",
+        "map.im.gl": "latest",
+        "map.jsx": "latest",
+        "map.local.hack": "latest",
+        "map.min.js": "latest",
+        "map.prototype.tojson": "latest",
+        "map.sass": "latest",
+        "map.stringify": "latest",
+        "map_codes": "latest",
+        "map_kit_timezone_api": "latest",
+        "map_select": "latest",
+        "map_test": "latest",
+        "map_test_lib": "latest",
+        "map_ui_jq": "latest",
+        "map_wrapper_react": "latest"
+    }
+}

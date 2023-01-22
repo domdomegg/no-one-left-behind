@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-loon",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "loon": "latest",
+        "loon-bulma-react": "latest",
+        "loon-data": "latest",
+        "loon-ui": "latest",
+        "loona": "latest",
+        "loona-ipsum-cli": "latest",
+        "loong": "latest",
+        "loong-component": "latest",
+        "loong-test": "latest",
+        "loong-totem-view": "latest",
+        "loong-totem-view-icons": "latest",
+        "loong-totem-view-theme": "latest",
+        "loong-ui": "latest",
+        "loong-util": "latest",
+        "loongshipsdk": "latest",
+        "loongson-electron": "latest",
+        "loongson-electron-dl": "latest",
+        "loongson-mips-electron-dl": "latest",
+        "loongtex-excalidraw": "latest",
+        "loonxi-ui": "latest",
+        "loonxi-vue-editor": "latest",
+        "loonxi-vue-tinymce": "latest",
+        "loony": "latest"
+    }
+}

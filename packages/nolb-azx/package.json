@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-azx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "azx": "latest",
+        "azx-cli-dev-template-vue-admin": "latest",
+        "azx-cli-dev-template-vue2": "latest",
+        "azxcv1": "latest",
+        "azxtable": "latest"
+    }
+}

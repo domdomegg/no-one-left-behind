@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_alix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alixasac/generate-alias": "latest",
+        "@alixasac/verify-session-token": "latest",
+        "@alixcaroline/pwn-check": "latest",
+        "@alixfachin/eslint-plugin-riotjs": "latest",
+        "@alixlahuec/latex-roam": "latest",
+        "@alixlahuec/zotero-roam": "latest",
+        "@alixpartners/ui-components": "latest",
+        "@alixpartners/ui-utils": "latest",
+        "@alixq/monads": "latest",
+        "@alixq/ticketing-common": "latest",
+        "@alixq/ts-as": "latest"
+    }
+}

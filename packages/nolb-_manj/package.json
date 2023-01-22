@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_manj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@manj1790/tiny": "latest",
+        "@manjiltamang/mongoose-util": "latest",
+        "@manjiz/react-native-swiper": "latest",
+        "@manjot/react-native-twilio-phone": "latest",
+        "@manjuragu/password-validator-library": "latest"
+    }
+}

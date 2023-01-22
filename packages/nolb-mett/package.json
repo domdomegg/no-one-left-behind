@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-mett",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mettalloids-gc": "latest",
+        "mettbox-imagebox": "latest",
+        "mettl-corporate-header": "latest",
+        "mettled_frontend_project": "latest",
+        "mettre": "latest",
+        "mettrr-component-library": "latest",
+        "mettrr-components": "latest",
+        "mettry-databasepackage": "latest"
+    }
+}

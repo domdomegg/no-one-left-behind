@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_unia",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@uniappxx-cli/core": "latest",
+        "@uniappxx-cli/utils": "latest",
+        "@uniarts/live2d": "latest",
+        "@uniarts/networks": "latest",
+        "@uniauth/express-middleware": "latest"
+    }
+}

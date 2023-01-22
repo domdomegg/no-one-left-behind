@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-poz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "poz": "latest",
+        "poz-cli": "latest",
+        "poz-react-toasts": "latest",
+        "poza": "latest",
+        "pozdrav-parka": "latest",
+        "pozdravi": "latest",
+        "pozhiloy-sender": "latest",
+        "pozi": "latest",
+        "pozi-app": "latest",
+        "poziomka": "latest",
+        "pozition.js": "latest",
+        "pozoljs": "latest",
+        "pozoqo-lib-pzq": "latest",
+        "pozyx": "latest"
+    }
+}

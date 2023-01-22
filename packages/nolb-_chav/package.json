@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_chav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chava/server": "latest",
+        "@chavesweb/plugin-utils": "latest",
+        "@chavesweb/vuepress-plugin-blog": "latest",
+        "@chavesweb/vuepress-plugin-pagination": "latest"
+    }
+}

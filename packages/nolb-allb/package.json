@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-allb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "allbadcards-human-readable-ids": "latest",
+        "allbases": "latest",
+        "allbets_shared": "latest",
+        "allbikes": "latest",
+        "allbirds-apis": "latest",
+        "allblue": "latest",
+        "allbluejs": "latest",
+        "allbook": "latest",
+        "allbot": "latest",
+        "allbower": "latest"
+    }
+}

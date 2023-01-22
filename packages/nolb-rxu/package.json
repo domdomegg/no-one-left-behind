@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-rxu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rxu": "latest",
+        "rxu-auto-cli": "latest",
+        "rxu-logger": "latest",
+        "rxui": "latest",
+        "rxui-example-core": "latest",
+        "rxui-gd": "latest",
+        "rxui-react": "latest",
+        "rxui-rx": "latest",
+        "rxuni": "latest"
+    }
+}

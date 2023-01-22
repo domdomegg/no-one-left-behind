@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-bm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-bm": "latest",
+        "react-bmalert": "latest",
+        "react-bmap": "latest",
+        "react-bmap-https": "latest",
+        "react-bmap-lite": "latest",
+        "react-bmapgl": "latest",
+        "react-bmaps": "latest"
+    }
+}

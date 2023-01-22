@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-supm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "supm": "latest",
+        "supmobile": "latest",
+        "supmod": "latest",
+        "supmodmy": "latest"
+    }
+}

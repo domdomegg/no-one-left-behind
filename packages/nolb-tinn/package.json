@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-tinn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tinn": "latest",
+        "tinnat-mailservices": "latest",
+        "tinnat-userserv": "latest",
+        "tinner": "latest",
+        "tinnfo": "latest",
+        "tinniest-npm-deploy": "latest",
+        "tinntinn": "latest",
+        "tinny": "latest",
+        "tinny-copy": "latest",
+        "tinny-vue-ui": "latest"
+    }
+}

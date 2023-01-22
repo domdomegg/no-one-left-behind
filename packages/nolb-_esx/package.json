@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_esx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@esx-next/client": "latest",
+        "@esx-next/server": "latest",
+        "@esx-rs/client": "latest",
+        "@esx-rs/core": "latest",
+        "@esx-rs/http": "latest",
+        "@esx-rs/router-koa": "latest",
+        "@esx-rs/server": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-pas-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pas-cordova": "latest",
+        "pas-docker": "latest",
+        "pas-php": "latest",
+        "pas-test": "latest",
+        "pas-v8-webapi": "latest",
+        "pas-v9-mysql-webapi": "latest",
+        "pas-v9-redux-client": "latest",
+        "pas-v9-rest-client": "latest",
+        "pas-v9-webapi": "latest",
+        "pas-web": "latest"
+    }
+}

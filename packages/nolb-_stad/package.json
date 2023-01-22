@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_stad",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stadigicomms/pattern-library": "latest",
+        "@stadium-ws/core": "latest",
+        "@stadium/contracts": "latest",
+        "@stadium/player-cards": "latest",
+        "@stadline/react-mtcaptcha": "latest",
+        "@stadline/react-vectormap": "latest",
+        "@stadline/resamania2-vectormap": "latest",
+        "@stadline/txc": "latest",
+        "@stadtkatalog/openinghours": "latest",
+        "@stadtkatalog/stadtkatalog": "latest",
+        "@stadtlandnetz/rollup-plugin-postprocess": "latest",
+        "@stadtmessungsamt-stuttgart/geoline.ol.js": "latest",
+        "@stadtteilliebe/react-cookie-consent": "latest",
+        "@stadtulm/leaflet-gbfs": "latest"
+    }
+}

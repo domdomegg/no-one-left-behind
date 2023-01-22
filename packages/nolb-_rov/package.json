@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_rov",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@rovast/api-recorder": "latest",
+        "@rovast/emmet.css": "latest",
+        "@rove-team/gitsheet": "latest",
+        "@rove-team/locale": "latest",
+        "@rove-team/requester": "latest",
+        "@rover-tools/cli": "latest",
+        "@rover-tools/engine": "latest",
+        "@rover656/react-native-simple-shadow-view": "latest",
+        "@rovercode/blockly": "latest",
+        "@roveroniandrea/htpl-cli": "latest",
+        "@roveroniandrea/mycli": "latest",
+        "@roversolutions/gotour-ui-kit": "latest",
+        "@roversolutions/irk-ui-kit": "latest",
+        "@roversolutionsco/irk-ui-kit": "latest",
+        "@rovit/feathers-cloudflare": "latest",
+        "@rovit/popper": "latest"
+    }
+}

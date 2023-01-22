@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-google-l",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "google-lang-accent-tta": "latest",
+        "google-libphonenumber": "latest",
+        "google-libphonenumber-2": "latest",
+        "google-library-chart": "latest",
+        "google-lighthouse-puppeteer": "latest",
+        "google-lighthouse-puppeteer-cli-dashboard": "latest",
+        "google-lite": "latest",
+        "google-local-guides-api": "latest",
+        "google-local-pubsub-cli": "latest",
+        "google-location-sharing": "latest",
+        "google-locations": "latest",
+        "google-locations-es6": "latest",
+        "google-login": "latest",
+        "google-login-for-reactjs": "latest",
+        "google-login-gsi": "latest",
+        "google-login-react": "latest",
+        "google-login-svelte": "latest",
+        "google-lyrics": "latest"
+    }
+}

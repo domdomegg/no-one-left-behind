@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_shak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shaka-time/nestjs-config": "latest",
+        "@shakacode/recompose": "latest",
+        "@shakacode/shakapacker": "latest",
+        "@shakacode/webpackr": "latest",
+        "@shakajs/nestjs-config": "latest",
+        "@shakediff/bundler-parcel": "latest",
+        "@shakediff/bundler-rollup": "latest",
+        "@shakediff/bundler-webpack": "latest",
+        "@shakesco/web": "latest",
+        "@shakespeare/common-utils": "latest",
+        "@shakeswap/uikit": "latest",
+        "@shaking/antd-css": "latest",
+        "@shaking/antd-less": "latest",
+        "@shakrmedia/editor-sdk": "latest",
+        "@shakrmedia/editor-sdk-types": "latest",
+        "@shaktals/openlogin-adapter": "latest",
+        "@shakthillc/components": "latest",
+        "@shaktickets/common": "latest",
+        "@shakuroinc/eslint-config-base": "latest",
+        "@shakuroinc/eslint-config-react": "latest",
+        "@shakuroinc/figma-extractor": "latest",
+        "@shakyshane/peregrine": "latest"
+    }
+}

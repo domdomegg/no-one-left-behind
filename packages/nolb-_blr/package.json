@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_blr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@blrandel/maas-ui": "latest",
+        "@blrandel/maas-ui-legacy": "latest",
+        "@blrandel/maas-ui-shared": "latest",
+        "@blrrt/armory-blrrtstrap": "latest",
+        "@blrrt/cordova-plugin-speech-recognition-ios": "latest",
+        "@blrrt/cordova-plugin-speech-recognition-ios-browser-polyfill": "latest"
+    }
+}

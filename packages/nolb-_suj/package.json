@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_suj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sujalchoudhari/neptune-js": "latest",
+        "@sujalgoel/lyrics-finder": "latest",
+        "@sujalgoel/quick-logs": "latest",
+        "@sujancse/tiny": "latest",
+        "@sujancse/tiny-test": "latest",
+        "@sujang/create-djs-bot": "latest",
+        "@sujatha-mallela/lotide": "latest",
+        "@sujaykumarh/docsify-plugin-footer": "latest",
+        "@sujaykumarh/docsify-plugin-title": "latest",
+        "@sujaykumarh/start": "latest",
+        "@sujayraaj/showme-what-yougot": "latest",
+        "@sujayraaj/showmewhatyougot": "latest",
+        "@sujen/blocks-editor": "latest",
+        "@sujian/eslint-config-basic": "latest",
+        "@sujian/eslint-config-prettier": "latest",
+        "@sujian/eslint-config-typescript": "latest",
+        "@sujian/eslint-config-vue2": "latest",
+        "@sujian/eslint-config-vue3": "latest",
+        "@sujian/eslint-config-vue3-ts": "latest",
+        "@sujian/stylelint-config": "latest",
+        "@sujian/tabs-switch": "latest",
+        "@sujian/utils": "latest",
+        "@sujit111/hello-1": "latest",
+        "@sujithz/vue-select": "latest",
+        "@sujitnpm/tiny": "latest",
+        "@sujonhossainbd/react-portal-modal": "latest"
+    }
+}

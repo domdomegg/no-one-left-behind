@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_tio",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tioagustian/ng-mat-datetimepicker": "latest",
+        "@tioagustian/ngx-material-timepicker": "latest",
+        "@tioagustian/whatsbot": "latest",
+        "@tiomovie/common": "latest",
+        "@tionkje/queuelib": "latest",
+        "@tiopkg/utils": "latest",
+        "@tiorubs/mailer": "latest",
+        "@tiorubs/navigation": "latest",
+        "@tiorubs/qmanager": "latest",
+        "@tiorubs/react-native-template": "latest",
+        "@tioticket/common": "latest",
+        "@tioticketing/common": "latest",
+        "@tiotix/common": "latest",
+        "@tiou/chessboardjs": "latest"
+    }
+}

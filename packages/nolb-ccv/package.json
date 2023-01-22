@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-ccv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ccv": "latest",
+        "ccv-cli": "latest",
+        "ccval": "latest",
+        "ccvcdgd1": "latest",
+        "ccvcp": "latest",
+        "ccvfj-react-test": "latest",
+        "ccvideoplayer": "latest",
+        "ccvideosection": "latest",
+        "ccviewui": "latest",
+        "ccvv-cache": "latest",
+        "ccvv-tools": "latest",
+        "ccvvvdi": "latest"
+    }
+}

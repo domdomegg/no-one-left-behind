@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-http-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "http-j": "latest",
+        "http-jquery": "latest",
+        "http-js": "latest",
+        "http-json": "latest",
+        "http-json-api-client": "latest",
+        "http-json-error-handler": "latest",
+        "http-json-errors": "latest",
+        "http-json-meta-protocol": "latest",
+        "http-json-proxy": "latest",
+        "http-json-request": "latest",
+        "http-json-response": "latest",
+        "http-jsonp": "latest",
+        "http-jsonrpc": "latest",
+        "http-jsonrpc-server": "latest",
+        "http-jyn-static": "latest"
+    }
+}

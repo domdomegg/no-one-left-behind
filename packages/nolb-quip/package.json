@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-quip",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "quip": "latest",
+        "quip-api-typescript": "latest",
+        "quip-apis": "latest",
+        "quip-apps-api": "latest",
+        "quip-apps-chevron": "latest",
+        "quip-apps-compat": "latest",
+        "quip-apps-handle-richtextbox-key-event-navigation": "latest",
+        "quip-apps-richtextbox-key-event-navigation": "latest",
+        "quip-apps-webpack-config": "latest",
+        "quip-cli": "latest",
+        "quip-export": "latest",
+        "quip-test-utils": "latest",
+        "quip.js": "latest",
+        "quiph-games": "latest",
+        "quiph-logo": "latest",
+        "quiplash-clone": "latest",
+        "quipodb": "latest",
+        "quipper-blackboard": "latest",
+        "quipper-blackboard-icons": "latest",
+        "quipper-ds": "latest",
+        "quips": "latest",
+        "quiptext": "latest",
+        "quipu": "latest",
+        "quipu-tools": "latest",
+        "quipu-util-front": "latest",
+        "quipuswap-sdk": "latest",
+        "quipuswap-v3-sdk": "latest"
+    }
+}

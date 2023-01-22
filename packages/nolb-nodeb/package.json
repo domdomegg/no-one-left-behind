@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-nodeb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodeb": "latest",
+        "@zalastax/nolb-nodebo": "latest",
+        "@zalastax/nolb-nodeba": "latest",
+        "@zalastax/nolb-nodeb-": "latest",
+        "@zalastax/nolb-nodebb": "latest",
+        "@zalastax/nolb-nodebc": "latest",
+        "@zalastax/nolb-nodebe": "latest",
+        "@zalastax/nolb-nodebh": "latest",
+        "@zalastax/nolb-nodebi": "latest",
+        "@zalastax/nolb-nodebj": "latest",
+        "@zalastax/nolb-nodebl": "latest",
+        "@zalastax/nolb-nodebm": "latest",
+        "@zalastax/nolb-nodebp": "latest",
+        "@zalastax/nolb-nodebr": "latest",
+        "@zalastax/nolb-nodebs": "latest",
+        "@zalastax/nolb-nodebu": "latest",
+        "@zalastax/nolb-nodeby": "latest"
+    }
+}

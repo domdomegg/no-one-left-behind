@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-react-ret",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-retailer-map": "latest",
+        "react-retain": "latest",
+        "react-retext": "latest",
+        "react-rethink-datepicker": "latest",
+        "react-rethinkable": "latest",
+        "react-rethinkdb": "latest",
+        "react-retina": "latest",
+        "react-retina-image": "latest",
+        "react-retina-image-dl": "latest",
+        "react-retina-renderer": "latest",
+        "react-retix": "latest",
+        "react-retool": "latest",
+        "react-retro-hit-counter": "latest",
+        "react-retrofit": "latest",
+        "react-return-frame": "latest",
+        "react-retux": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_scn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@scnale/hardhat-upgrades": "latest",
+        "@scnecmeteo/api.js": "latest",
+        "@scnetwork/api": "latest",
+        "@scnetwork/editorjs-parser": "latest",
+        "@scnetwork/paysafecard": "latest",
+        "@scnr/doppler-sync": "latest",
+        "@scnr/ssm-sync": "latest"
+    }
+}

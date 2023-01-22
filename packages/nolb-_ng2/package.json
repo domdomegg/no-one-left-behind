@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_ng2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ng2-chess/common": "latest",
+        "@ng2-dynamic-forms-zrp/core": "latest",
+        "@ng2-dynamic-forms-zrp/ui-ionic": "latest",
+        "@ng2-dynamic-forms/core": "latest",
+        "@ng2-dynamic-forms/ui-basic": "latest",
+        "@ng2-dynamic-forms/ui-bootstrap": "latest",
+        "@ng2-dynamic-forms/ui-foundation": "latest",
+        "@ng2-dynamic-forms/ui-ionic": "latest",
+        "@ng2-dynamic-forms/ui-kendo": "latest",
+        "@ng2-dynamic-forms/ui-material": "latest",
+        "@ng2-dynamic-forms/ui-ng-bootstrap": "latest",
+        "@ng2-dynamic-forms/ui-primeng": "latest",
+        "@ng2plus/web-storage": "latest",
+        "@ng2select/bootstrap": "latest",
+        "@ng2select/combo": "latest",
+        "@ng2select/core": "latest",
+        "@ng2select/jquery": "latest",
+        "@ng2v/ng2v-components": "latest"
+    }
+}

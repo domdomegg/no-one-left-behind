@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-moc-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "moc-better-sqlite3": "latest",
+        "moc-cli-create": "latest",
+        "moc-components": "latest",
+        "moc-core": "latest",
+        "moc-electron-forge-pluginwebpack": "latest",
+        "moc-electron-log": "latest",
+        "moc-mocui": "latest",
+        "moc-services": "latest",
+        "moc-sj": "latest",
+        "moc-sj2": "latest",
+        "moc-test": "latest",
+        "moc-test-lib": "latest",
+        "moc-tool": "latest",
+        "moc-ui": "latest",
+        "moc-utils": "latest",
+        "moc-zbq": "latest"
+    }
+}

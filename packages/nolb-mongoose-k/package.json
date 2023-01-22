@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-mongoose-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mongoose-key-dict": "latest",
+        "mongoose-keywordize": "latest",
+        "mongoose-keywords": "latest",
+        "mongoose-keywords-vi": "latest",
+        "mongoose-kit": "latest",
+        "mongoose-kue": "latest"
+    }
+}

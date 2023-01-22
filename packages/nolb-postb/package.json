@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-postb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "postback-parser": "latest",
+        "postbem": "latest",
+        "postbin": "latest",
+        "postboard": "latest",
+        "postboard-fs": "latest",
+        "postboard-memory": "latest",
+        "postboot": "latest",
+        "postbot": "latest",
+        "postbox": "latest",
+        "postboy": "latest",
+        "postbro": "latest",
+        "postbud": "latest",
+        "postbuild": "latest",
+        "postbus": "latest"
+    }
+}

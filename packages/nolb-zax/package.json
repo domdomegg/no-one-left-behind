@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-zax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zax": "latest",
+        "zax-cli": "latest",
+        "zax-compress": "latest",
+        "zax-cookie": "latest",
+        "zax-date": "latest",
+        "zax-device": "latest",
+        "zax-eventbus": "latest",
+        "zax-files": "latest",
+        "zax-package": "latest",
+        "zax-px2rem-loader": "latest",
+        "zax-skeleton": "latest",
+        "zax-url": "latest",
+        "zax-util": "latest",
+        "zax-xx": "latest",
+        "zax0zax": "latest",
+        "zaxes": "latest",
+        "zaxios": "latest",
+        "zaxis": "latest"
+    }
+}

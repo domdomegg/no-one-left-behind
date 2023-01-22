@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-streamo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "streamoftiles": "latest",
+        "streamon": "latest",
+        "streamone-font": "latest",
+        "streamone-react": "latest",
+        "streamone-sg": "latest",
+        "streamone-theme-default": "latest",
+        "streamonkey-player": "latest",
+        "streamory": "latest",
+        "streamout": "latest"
+    }
+}

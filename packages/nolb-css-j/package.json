@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-css-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "css-jojo": "latest",
+        "css-js": "latest",
+        "css-js-components": "latest",
+        "css-js-filter": "latest",
+        "css-js-loader": "latest",
+        "css-js-proxies": "latest",
+        "css-json-conversion": "latest",
+        "css-json-converter": "latest",
+        "css-jss": "latest",
+        "css-jss-loader": "latest"
+    }
+}

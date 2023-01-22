@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-axt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "axt": "latest",
+        "axt-design": "latest",
+        "axtend-types-bundle": "latest",
+        "axtest-ui": "latest",
+        "axthe": "latest",
+        "axtionscript": "latest",
+        "axtla-server": "latest",
+        "axtlive-test": "latest",
+        "axtlive-test-lib": "latest",
+        "axton": "latest",
+        "axton-cli-template-react": "latest",
+        "axton-cli-template-vue-element-admin": "latest",
+        "axton-cli-template-vue2": "latest",
+        "axton-cli-template-vue3": "latest",
+        "axton-cli-template-vue3-vite": "latest",
+        "axton-lib": "latest",
+        "axtone": "latest",
+        "axtool": "latest",
+        "axtools": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_coz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cozimacode/react-bot": "latest",
+        "@cozminu/hello-npm": "latest",
+        "@cozp/common": "latest",
+        "@cozy-blog/notion-client": "latest",
+        "@cozy-workflows/cli": "latest",
+        "@cozy/cli-tree": "latest",
+        "@cozy/codemods": "latest",
+        "@cozy/editor-core": "latest",
+        "@cozy/minilog": "latest",
+        "@cozy/repo-doctor": "latest",
+        "@cozzy/sqs-consumer": "latest",
+        "@cozzy/typescript-json-schema": "latest",
+        "@cozzy/webpack-hot-middleware": "latest"
+    }
+}

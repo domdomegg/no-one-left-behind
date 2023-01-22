@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_asb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@asbjorn/eslint-plugin-groq": "latest",
+        "@asbjornenge/hyperdraw": "latest",
+        "@asbjornenge/log-scraper": "latest",
+        "@asbjornenge/microbe": "latest",
+        "@asbjornenge/raistlin": "latest",
+        "@asbjornenge/react-style": "latest",
+        "@asbjornenge/react-svg": "latest",
+        "@asbjornenge/tzkt-api": "latest",
+        "@asbjornenge/zombie-swarm-cli": "latest",
+        "@asbjornenge/zombie-swarm-node": "latest"
+    }
+}

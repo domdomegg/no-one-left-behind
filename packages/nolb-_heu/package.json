@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_heu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@heun3344/gantt": "latest",
+        "@heunsig/hello-world": "latest",
+        "@heuristical/trackit": "latest",
+        "@heusalagroup/create-backend": "latest",
+        "@heusalagroup/create-command": "latest",
+        "@heusalagroup/create-ssr-server": "latest",
+        "@heusalagroup/hg": "latest",
+        "@heusalagroup/hgm": "latest",
+        "@heusalagroup/hgtest": "latest",
+        "@heuser/html_converter": "latest",
+        "@heusic0m/holiday": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-mathf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mathf": "latest",
+        "mathf-js": "latest",
+        "mathfix_playground": "latest",
+        "mathfn": "latest",
+        "mathfont": "latest",
+        "mathform": "latest",
+        "mathfunctions": "latest",
+        "mathfunctionsshubham": "latest",
+        "mathfwk_inigo": "latest",
+        "mathfyjs": "latest"
+    }
+}

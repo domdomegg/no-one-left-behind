@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-dyw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dyw-ai": "latest",
+        "dyw-cli": "latest",
+        "dyw-image-editor": "latest",
+        "dyw-normal-use-compontents": "latest",
+        "dyw-rcomponent-generator": "latest",
+        "dyw-ui": "latest",
+        "dywangeditor": "latest",
+        "dywapitchtrack": "latest",
+        "dywebpage": "latest",
+        "dyweek": "latest",
+        "dywire": "latest",
+        "dywl-web-service": "latest",
+        "dyws": "latest"
+    }
+}

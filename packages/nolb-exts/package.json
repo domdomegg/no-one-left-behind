@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-exts",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "extshvo": "latest",
+        "extsimpl.log": "latest",
+        "extslib": "latest",
+        "extsprintf": "latest",
+        "extstats-angular": "latest",
+        "extstats-angular-app": "latest",
+        "extstats-core": "latest",
+        "extstats-datatable": "latest",
+        "extstats-vega": "latest",
+        "extswf": "latest",
+        "extsync": "latest"
+    }
+}

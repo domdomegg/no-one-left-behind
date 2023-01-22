@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-winb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "winble": "latest",
+        "winboard": "latest",
+        "winbons-ui": "latest",
+        "winbot": "latest",
+        "winbox": "latest",
+        "winbox-react": "latest",
+        "winbridge-cli-lego-components": "latest",
+        "winbridge-cli-template-custom-vue3": "latest",
+        "winbridge-cli-template-ts-vue3": "latest",
+        "winbridge-cli-template-vue-element-admin": "latest",
+        "winbridge-cli-template-vue3": "latest"
+    }
+}

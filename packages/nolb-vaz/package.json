@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-vaz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vaz": "latest",
+        "vazco-proxy": "latest",
+        "vazco-scroll-pagination": "latest",
+        "vazcore-starwars-names": "latest",
+        "vazcore-w-common-buttons": "latest",
+        "vazcore-w-common-form-controls": "latest",
+        "vazcore-w-common-inputs": "latest",
+        "vaze": "latest",
+        "vazgarules": "latest",
+        "vazhaju-web-extensions": "latest",
+        "vazifa-npm": "latest",
+        "vazir-code-font": "latest",
+        "vazir-code-font-fork": "latest",
+        "vazir-font": "latest",
+        "vazirmatn": "latest",
+        "vazliwd-url": "latest",
+        "vazpack": "latest",
+        "vazzup-module-1": "latest"
+    }
+}

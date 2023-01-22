@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-ju-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ju-autocomplete-lib": "latest",
+        "ju-cli": "latest",
+        "ju-css": "latest",
+        "ju-global": "latest",
+        "ju-jpm": "latest",
+        "ju-npm": "latest"
+    }
+}

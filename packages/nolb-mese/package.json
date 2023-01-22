@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-mese",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mese": "latest",
+        "meseeks": "latest",
+        "meseji-types": "latest",
+        "meselect": "latest",
+        "mesenger_subscriber": "latest",
+        "meseret": "latest",
+        "meseret-utils": "latest",
+        "mesero": "latest",
+        "mesero-cli": "latest",
+        "meserver": "latest",
+        "meses": "latest",
+        "meses-dias-horas-minutos": "latest",
+        "meses-feed": "latest",
+        "meses-messaging": "latest"
+    }
+}

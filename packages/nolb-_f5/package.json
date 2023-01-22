@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_f5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@f5devcentral/atg-shared-utilities": "latest",
+        "@f5devcentral/atg-shared-utilities-dev": "latest",
+        "@f5devcentral/atg-storage": "latest",
+        "@f5devcentral/atg-storage-postgres": "latest",
+        "@f5devcentral/eslint-config-f5-atg": "latest",
+        "@f5devcentral/f5-cloud-libs": "latest",
+        "@f5devcentral/f5-cloud-libs-aws": "latest",
+        "@f5devcentral/f5-cloud-libs-azure": "latest",
+        "@f5devcentral/f5-cloud-libs-consul": "latest",
+        "@f5devcentral/f5-cloud-libs-gce": "latest",
+        "@f5devcentral/f5-cloud-libs-google": "latest",
+        "@f5devcentral/f5-cloud-libs-openstack": "latest",
+        "@f5devcentral/f5-fast-core": "latest",
+        "@f5devcentral/f5-teem": "latest",
+        "@f5devcentral/jsdoc2rst": "latest",
+        "@f5eng/mikronode": "latest",
+        "@f5io/csp": "latest",
+        "@f5io/jsonpath": "latest",
+        "@f5io/jsont": "latest",
+        "@f5io/machine": "latest",
+        "@f5io/pool": "latest",
+        "@f5networks/f5-cloud-libs": "latest",
+        "@f5solutions/translator": "latest"
+    }
+}

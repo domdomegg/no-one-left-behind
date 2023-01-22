@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_l6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@l6zt/bj-auth-base-layout": "latest",
+        "@l6zt/caputrue-mouser-select": "latest",
+        "@l6zt/cascade-select": "latest",
+        "@l6zt/ctable": "latest",
+        "@l6zt/cutils": "latest",
+        "@l6zt/flatselect": "latest",
+        "@l6zt/hours-select": "latest",
+        "@l6zt/previewsource": "latest",
+        "@l6zt/uploadbtn": "latest"
+    }
+}

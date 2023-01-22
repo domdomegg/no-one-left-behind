@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-youi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "youi": "latest",
+        "youi-cli": "latest",
+        "youi-docs": "latest",
+        "youi-project-graph": "latest",
+        "youi-react": "latest",
+        "youi-theme-bootstrap": "latest",
+        "youi-theme-documentation": "latest",
+        "youi-theme-material": "latest"
+    }
+}

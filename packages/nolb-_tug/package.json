@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_tug",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tugboatqa/gitbook-plugin-robots-txt": "latest",
+        "@tughril/swagger-ts-gen": "latest",
+        "@tugou/baimahu": "latest",
+        "@tugou/cache": "latest",
+        "@tugou/cli": "latest",
+        "@tugou/cli-plugin-cicd": "latest",
+        "@tugou/client": "latest",
+        "@tugou/cookie": "latest",
+        "@tugou/dingtalk": "latest",
+        "@tugou/midway": "latest",
+        "@tugou/sequelize": "latest",
+        "@tugou/session": "latest",
+        "@tugou/throw": "latest",
+        "@tugou/validate": "latest",
+        "@tugraz/font-source-sans-pro": "latest",
+        "@tugraz/web-components": "latest",
+        "@tugrul/async-replace": "latest",
+        "@tugrul/ffprobe": "latest",
+        "@tuguscript/ng-dropdown-search": "latest"
+    }
+}

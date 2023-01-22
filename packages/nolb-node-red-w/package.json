@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-node-red-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-w-dev": "latest",
+        "node-red-watson-api-lite": "latest",
+        "node-red-wdev-customfunctions": "latest",
+        "node-red-wdev-customfunctions-v2": "latest",
+        "node-red-wdev-database": "latest",
+        "node-red-wdev-domain": "latest",
+        "node-red-wdev-grapejs": "latest",
+        "node-red-wdev-ssl": "latest",
+        "node-red-wdev-virtualmachine": "latest",
+        "node-red-weaver": "latest",
+        "node-red-web-worldmap-indoor": "latest",
+        "node-red-widaq": "latest",
+        "node-red-wprojectapp-api-token": "latest",
+        "node-red-wprojectapp-db-config": "latest",
+        "node-red-wprojectapp-edit-status": "latest",
+        "node-red-wprojectapp-project-list": "latest",
+        "node-red-wprojectapp-project-user-info": "latest",
+        "node-red-wprojectapp-put-config": "latest",
+        "node-red-wprojectapp-task-list": "latest",
+        "node-red-wprojectapp-time-entry": "latest",
+        "node-red-wprojectapp-user-info": "latest"
+    }
+}

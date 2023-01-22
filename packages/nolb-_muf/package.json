@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_muf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mufan/capacitor-plugin-alipay": "latest",
+        "@mufan/capacitor-plugin-back-to-home": "latest",
+        "@mufan/capacitor-plugin-gesture": "latest",
+        "@mufan/capacitor-plugin-media": "latest",
+        "@mufan/capacitor-plugin-safe-area": "latest",
+        "@mufan/code": "latest",
+        "@mufan/code-boilerplates": "latest",
+        "@mufan/eslint-plugin": "latest",
+        "@mufengsm/ast_tree": "latest",
+        "@mufengsm/personal-component-set": "latest",
+        "@muffinfi/muffin-contracts": "latest",
+        "@muffinfi/muffin-sdk": "latest",
+        "@muffinista/goto-sleep": "latest",
+        "@muffinista/turbo": "latest",
+        "@muffinking-jpeg/wg-api-lib": "latest",
+        "@muffinswap-libs/uikit": "latest",
+        "@muffledmitosis/say-hello": "latest",
+        "@mufradmabni/webpconverter": "latest",
+        "@muft/dailyfns": "latest",
+        "@muft/dot": "latest"
+    }
+}

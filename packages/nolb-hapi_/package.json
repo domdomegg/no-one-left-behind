@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-hapi_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hapi.app": "latest",
+        "hapi.app.avatars": "latest",
+        "hapi.app.server": "latest",
+        "hapi.app.tools": "latest",
+        "hapi.assetsupload": "latest",
+        "hapi.server": "latest",
+        "hapi__accept": "latest",
+        "hapi__boom": "latest",
+        "hapi__code": "latest",
+        "hapi__cryptiles": "latest",
+        "hapi__hoek": "latest",
+        "hapi__iron": "latest",
+        "hapi__lab": "latest",
+        "hapi__todo": "latest",
+        "hapi__topo": "latest",
+        "hapi__wreck": "latest",
+        "hapi_hello_kraivit": "latest",
+        "hapi_imagemin": "latest",
+        "hapi_plugin_demo": "latest",
+        "hapi_primus_sessions": "latest",
+        "hapi_tool": "latest",
+        "hapi_welding": "latest",
+        "hapi_wrapper": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-iox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "iox": "latest",
+        "iox-masonry": "latest",
+        "ioxx": "latest"
+    }
+}

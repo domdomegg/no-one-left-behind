@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_maxc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@maxcbc/ui": "latest",
+        "@maxceem/react-tiny-popover": "latest",
+        "@maxchehab/clubhouse-to-ppf": "latest",
+        "@maxchehab/elastic-muto": "latest",
+        "@maxchehab/ts-loader": "latest",
+        "@maxcleme/eventsource": "latest",
+        "@maxcloud/http-client": "latest",
+        "@maxcoding/simpleslider": "latest",
+        "@maxcoin/bip21-max": "latest",
+        "@maxcom/react-native-libmedia": "latest",
+        "@maxcrofts/details-accordion-element": "latest",
+        "@maxcrofts/img-lightbox-element": "latest",
+        "@maxcrofts/query-selector-element": "latest"
+    }
+}

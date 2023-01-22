@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_hypert",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hypertegrity/node-red-contrib-k8s-helper": "latest",
+        "@hypertext.solutions/cosmos-db": "latest",
+        "@hypertext.solutions/simple-documentdb": "latest",
+        "@hypertext.solutions/simple-documentdb-client": "latest",
+        "@hypertheme-editor/chakra-ui": "latest",
+        "@hypertheme-editor/chakra-ui-colors": "latest",
+        "@hypertheme-editor/chakra-ui-core": "latest",
+        "@hypertheme-editor/chakra-ui-font-sizes": "latest",
+        "@hypertheme-editor/chakra-ui-theme": "latest",
+        "@hypertino/auth-service-api": "latest",
+        "@hypertool/cli": "latest",
+        "@hypertool/common": "latest",
+        "@hypertool/core": "latest",
+        "@hypertorrent/debug": "latest",
+        "@hypertorrent/manager": "latest",
+        "@hypertorrent/torrent": "latest",
+        "@hypertrace/nodejsagent": "latest",
+        "@hypertype/app": "latest",
+        "@hypertype/cli": "latest",
+        "@hypertype/core": "latest",
+        "@hypertype/domain": "latest",
+        "@hypertype/infr": "latest",
+        "@hypertype/infr-browser": "latest",
+        "@hypertype/infr-node": "latest",
+        "@hypertype/server": "latest",
+        "@hypertype/tools": "latest",
+        "@hypertype/ui": "latest"
+    }
+}

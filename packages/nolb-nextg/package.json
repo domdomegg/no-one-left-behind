@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-nextg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nextg": "latest",
+        "nextg-angular": "latest",
+        "nextg-error-component": "latest",
+        "nextgas": "latest",
+        "nextgeb-media-recorder": "latest",
+        "nextgen": "latest",
+        "nextgen-cli": "latest",
+        "nextgen-components": "latest",
+        "nextgen-components-react": "latest",
+        "nextgen-events": "latest",
+        "nextgen-item-engine-sdk": "latest",
+        "nextgen-media-recorder": "latest",
+        "nextgen-react-components": "latest",
+        "nextgen-week6": "latest",
+        "nextgenapi.js": "latest",
+        "nextgencode-capacitor-qrscan": "latest",
+        "nextgl": "latest",
+        "nextgo-sharepoint-common": "latest",
+        "nextgo-sharepoint-common-web": "latest",
+        "nextgodof": "latest",
+        "nextgrid": "latest"
+    }
+}

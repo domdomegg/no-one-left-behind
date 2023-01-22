@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-googlem",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "googlemap": "latest",
+        "googlemap-custom-marker-vue": "latest",
+        "googlemap-react": "latest",
+        "googlemaps": "latest",
+        "googlemaps-api-loder": "latest",
+        "googlemaps-datalayer-clusterer": "latest",
+        "googlemaps-js-api-stub": "latest",
+        "googlemaps-js-rich-marker": "latest",
+        "googlemaps-loader": "latest",
+        "googlemaps-points-clusterer": "latest",
+        "googlemaps-react-primitives": "latest",
+        "googlemaps-rich-marker-web": "latest",
+        "googlemaps-ts-rich-marker": "latest",
+        "googlemaps-utils": "latest",
+        "googlemaps-v3-utility-library": "latest",
+        "googlemaps-v3-utility-library-latest": "latest",
+        "googlemaps-vue3": "latest",
+        "googlemapstext": "latest",
+        "googlemapsutil": "latest",
+        "googlemapsutil-https": "latest",
+        "googleme": "latest",
+        "googlemusic": "latest",
+        "googlemusicapi": "latest",
+        "googlemutant": "latest"
+    }
+}

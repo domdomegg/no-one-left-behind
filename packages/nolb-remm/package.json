@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-remm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "remm": "latest",
+        "remme": "latest",
+        "remme-account": "latest",
+        "remme-api": "latest",
+        "remme-atomic-swap": "latest",
+        "remme-base-transaction-response": "latest",
+        "remme-batch": "latest",
+        "remme-blockchain-info": "latest",
+        "remme-certificate": "latest",
+        "remme-http-client": "latest",
+        "remme-keys": "latest",
+        "remme-node-management": "latest",
+        "remme-personal": "latest",
+        "remme-protobuf": "latest",
+        "remme-public-key-storage": "latest",
+        "remme-rest": "latest",
+        "remme-token": "latest",
+        "remme-transaction-service": "latest",
+        "remme-utils": "latest",
+        "remme-web-socket": "latest",
+        "remme-web-socket-events": "latest",
+        "remmi": "latest",
+        "remmy": "latest"
+    }
+}

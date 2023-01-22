@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_phob",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@phobase/client-core": "latest",
+        "@phobase/client-urql": "latest",
+        "@phobase/site": "latest",
+        "@phobase/site-config-core": "latest",
+        "@phobase/site-version-core": "latest",
+        "@phobase/solid-simple-dnd": "latest",
+        "@phobon/base": "latest",
+        "@phobon/grimoire": "latest",
+        "@phobon/hooks": "latest",
+        "@phobon/tokens": "latest"
+    }
+}

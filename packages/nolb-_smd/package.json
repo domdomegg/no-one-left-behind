@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_smd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@smda/eslint-config-smda": "latest",
+        "@smda/utils": "latest",
+        "@smdevel/micro-common": "latest",
+        "@smdn/charts": "latest",
+        "@smdn/core": "latest",
+        "@smdn/icons": "latest",
+        "@smdn/layouts": "latest",
+        "@smdn/shared": "latest",
+        "@smdn/tokens": "latest",
+        "@smds-ticketing/common": "latest",
+        "@smdv/localization": "latest"
+    }
+}

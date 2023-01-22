@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_grn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@grnarb/builder": "latest",
+        "@grnarb/button": "latest",
+        "@grnarb/card": "latest",
+        "@grncdr/dev-mode": "latest",
+        "@grncdr/eslint-plugin-react-hooks": "latest",
+        "@grncdr/mrujs": "latest",
+        "@grncdr/scope-test": "latest",
+        "@grncdr/set-object-path": "latest",
+        "@grndwork/api-client": "latest"
+    }
+}

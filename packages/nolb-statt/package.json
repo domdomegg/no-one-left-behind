@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-statt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "statter": "latest",
+        "stattic": "latest",
+        "stattic-mime": "latest",
+        "stattic-parseurl": "latest",
+        "stattic-pstat": "latest",
+        "statto": "latest",
+        "statto-backend": "latest",
+        "statto-backend-fs": "latest",
+        "statto-backend-leveldb": "latest",
+        "statto-backend-memory": "latest",
+        "statto-client": "latest",
+        "statto-merge": "latest",
+        "statto-process": "latest",
+        "statty": "latest",
+        "statty.js": "latest"
+    }
+}

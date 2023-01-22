@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_trive",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trive-digital/trive-magento2-javascript-sdk": "latest",
+        "@trivechain/triveasset-protocol": "latest",
+        "@trivechain/trivechaind-rpc": "latest",
+        "@trivechain/x16r-hash-js": "latest",
+        "@trivechain/x16rv2-hash-js": "latest",
+        "@triver-clubs/nats-common": "latest"
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_tuf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tuf-js/tuf": "latest",
+        "@tufail123/friday": "latest",
+        "@tufail123/kapoor": "latest",
+        "@tufailmirr/test-offline": "latest",
+        "@tufix/axios-hook": "latest",
+        "@tufix/charming-table": "latest",
+        "@tufix/dynamic-form": "latest",
+        "@tufix/react-components": "latest",
+        "@tufix/ui-components": "latest",
+        "@tufolin/gulptesttutu": "latest",
+        "@tuft/ejs-responder": "latest",
+        "@tuft/helmet-prehandler": "latest",
+        "@tuft/json-stringify": "latest",
+        "@tuft/utils": "latest",
+        "@tuft/view-responder": "latest",
+        "@tuft/worker-pool": "latest",
+        "@tufte-markdown/parser": "latest",
+        "@tufte-markdown/remark-figure-parser": "latest",
+        "@tufte-markdown/remark-figure-transformer": "latest",
+        "@tufte-markdown/remark-sidenotes": "latest",
+        "@tufte-markdown/remark-wrap-in-section": "latest",
+        "@tufuwd/my-test-package": "latest"
+    }
+}

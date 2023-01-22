@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-vuepa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vuepack": "latest",
+        "vuepack-guhaiye": "latest",
+        "vuepack-my": "latest",
+        "vuepackagesyh": "latest",
+        "vuepacks": "latest",
+        "vuepageyz": "latest",
+        "vuepagify": "latest",
+        "vueparser": "latest",
+        "vuepathmyui": "latest",
+        "vuepayboard": "latest",
+        "vuepays": "latest"
+    }
+}

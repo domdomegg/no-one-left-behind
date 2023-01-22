@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-react-dd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-dd": "latest",
+        "react-dd-menu": "latest",
+        "react-dd-menu-customized": "latest",
+        "react-dd-menu-portal": "latest",
+        "react-ddd": "latest",
+        "react-ddom": "latest",
+        "react-ddos-map": "latest",
+        "react-ddown": "latest",
+        "react-ddp": "latest"
+    }
+}

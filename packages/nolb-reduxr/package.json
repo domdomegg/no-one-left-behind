@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-reduxr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reduxr": "latest",
+        "reduxr-async": "latest",
+        "reduxr-mix": "latest",
+        "reduxr-obj-actions": "latest",
+        "reduxr-obj-reducer": "latest",
+        "reduxr-reducer-helpers": "latest",
+        "reduxr-scoped-reducer": "latest",
+        "reduxreducercreator": "latest",
+        "reduxredup": "latest",
+        "reduxrocket": "latest",
+        "reduxrouter": "latest"
+    }
+}

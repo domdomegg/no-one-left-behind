@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-foy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "foy": "latest",
+        "foyda": "latest",
+        "foyer": "latest",
+        "foyewy-style": "latest",
+        "foyez_rng": "latest",
+        "foyr_subscription_product": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_phoenix-l",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@phoenix-labs/jwt-service": "latest",
+        "@phoenix-labs/log-service": "latest",
+        "@phoenix-labs/mail-service": "latest",
+        "@phoenix-labs/queue-service": "latest",
+        "@phoenix-labs/web-service": "latest",
+        "@phoenix-labs/webhook-server": "latest"
+    }
+}

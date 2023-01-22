@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-ms_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ms.cryption": "latest",
+        "ms.datepicker-popup-multi-select": "latest",
+        "ms.dll": "latest",
+        "ms.jsll": "latest",
+        "ms.macro": "latest",
+        "ms.min.js": "latest",
+        "ms_clubs_bot": "latest",
+        "ms_code": "latest",
+        "ms_communication": "latest",
+        "ms_delay": "latest",
+        "ms_exam_test_package_new": "latest",
+        "ms_gis": "latest",
+        "ms_helper": "latest",
+        "ms_highered": "latest",
+        "ms_lll": "latest",
+        "ms_pro": "latest",
+        "ms_test_api": "latest",
+        "ms_textarea": "latest"
+    }
+}

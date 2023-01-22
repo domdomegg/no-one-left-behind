@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-cra-a",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cra-add-worker-loader": "latest",
+        "cra-akcode": "latest",
+        "cra-alias": "latest",
+        "cra-all-the-things": "latest",
+        "cra-am-cli": "latest",
+        "cra-antd": "latest",
+        "cra-antd-cli": "latest",
+        "cra-app-shuchengc": "latest",
+        "cra-append-service-worker": "latest",
+        "cra-append-sw": "latest"
+    }
+}

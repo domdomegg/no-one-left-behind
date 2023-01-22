@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-blc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "blc": "latest",
+        "blc-component-library": "latest",
+        "blcd-server": "latest",
+        "blcdn": "latest",
+        "blcf-connex": "latest",
+        "blcf-devkit": "latest",
+        "blcf-keystore": "latest",
+        "blcf-web3-ts": "latest",
+        "blch": "latest",
+        "blche": "latest",
+        "blcksbbth": "latest",
+        "blcktive": "latest",
+        "blcu": "latest"
+    }
+}

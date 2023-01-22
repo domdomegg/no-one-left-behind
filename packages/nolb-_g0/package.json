@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_g0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@g01-tecnologia/react-native-apk-update": "latest",
+        "@g01-tecnologia/react-native-pos-print-preview": "latest",
+        "@g01-tecnologia/react-native-pos-printer": "latest",
+        "@g01-tecnologia/react-native-proximity-screen": "latest",
+        "@g07cha/flexbox-react": "latest",
+        "@g0rk4/poc-wc": "latest",
+        "@g0t00/atom-languageclient": "latest",
+        "@g0t00/xrandr-evt": "latest",
+        "@g0tan/log4js": "latest"
+    }
+}

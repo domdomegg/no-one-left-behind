@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-atw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "atw": "latest",
+        "atweb": "latest",
+        "atweb-ufile": "latest",
+        "atween": "latest",
+        "atwells-resume": "latest",
+        "atwind-hello": "latest",
+        "atwo": "latest",
+        "atwood": "latest",
+        "atwork": "latest",
+        "atwrap": "latest"
+    }
+}

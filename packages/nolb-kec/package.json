@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-kec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "kec": "latest",
+        "kec-test": "latest",
+        "kecak-web-automation": "latest",
+        "kecap": "latest",
+        "kecasn": "latest",
+        "keccak": "latest",
+        "keccak-256-auth": "latest",
+        "keccak-hash": "latest",
+        "keccak-pure-js": "latest",
+        "keccak-wasm": "latest",
+        "keccak256": "latest",
+        "keccak256-amorph": "latest",
+        "keccakjs": "latest",
+        "keccakjs-browseronly": "latest",
+        "kecheng": "latest",
+        "keci": "latest",
+        "kecil": "latest",
+        "kecilincctvcompress": "latest",
+        "kecilincctvqlue": "latest",
+        "kecubung": "latest"
+    }
+}

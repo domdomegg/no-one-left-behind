@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-npo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "npo": "latest",
+        "npo-api-interceptor": "latest",
+        "npo-platform-ui": "latest",
+        "npoco": "latest",
+        "npoint": "latest",
+        "npolyakov": "latest",
+        "npomog": "latest",
+        "npool": "latest",
+        "npool-cli-v2": "latest",
+        "npool-cli-v3": "latest",
+        "npool-cli-v4": "latest",
+        "npop": "latest",
+        "npop-common-web": "latest",
+        "npop-frame-web": "latest",
+        "npop-oauth2-web": "latest",
+        "npoplayer": "latest",
+        "npos": "latest",
+        "npos-cli": "latest",
+        "npos-ocr": "latest",
+        "npos-tesseract": "latest",
+        "npower": "latest"
+    }
+}

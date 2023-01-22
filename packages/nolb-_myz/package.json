@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_myz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@myzaqwsx/wasmadd": "latest",
+        "@myzenkey/zenkey-sdk": "latest",
+        "@myzero1/z1-token-guard-client": "latest",
+        "@myzzh/zview": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-eventc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eventcache": "latest",
+        "eventcalendar": "latest",
+        "eventcalendarjs": "latest",
+        "eventcast": "latest",
+        "eventcat": "latest",
+        "eventcatalog-eda-generator": "latest",
+        "eventcatalog-project": "latest",
+        "eventcb": "latest",
+        "eventcenter": "latest",
+        "eventcenter-plus": "latest",
+        "eventcenter1": "latest",
+        "eventchain": "latest",
+        "eventcollector": "latest",
+        "eventcontainer": "latest",
+        "eventcontrol": "latest",
+        "eventcontroller": "latest",
+        "eventcron": "latest"
+    }
+}

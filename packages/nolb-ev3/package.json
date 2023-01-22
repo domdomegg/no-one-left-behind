@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-ev3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ev3": "latest",
+        "ev3-api": "latest",
+        "ev3-client": "latest",
+        "ev3-js-color-sensor": "latest",
+        "ev3-js-device": "latest",
+        "ev3-js-devices": "latest",
+        "ev3-js-ir-sensor": "latest",
+        "ev3-js-motor": "latest",
+        "ev3-js-touch-sensor": "latest",
+        "ev3-js-wait": "latest",
+        "ev3-judge": "latest",
+        "ev3-model": "latest",
+        "ev3-nodejs-bt": "latest",
+        "ev3-robot": "latest",
+        "ev3-server": "latest",
+        "ev3api-bin": "latest",
+        "ev3brickpi": "latest",
+        "ev3dev": "latest",
+        "ev3dev-lang": "latest",
+        "ev3js": "latest"
+    }
+}

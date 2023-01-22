@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_ionicons-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/ionicons-videocam": "latest",
+        "@hyper.fun/ionicons-videocam-off": "latest",
+        "@hyper.fun/ionicons-videocam-off-outline": "latest",
+        "@hyper.fun/ionicons-videocam-off-sharp": "latest",
+        "@hyper.fun/ionicons-videocam-outline": "latest",
+        "@hyper.fun/ionicons-videocam-sharp": "latest",
+        "@hyper.fun/ionicons-volume-high": "latest",
+        "@hyper.fun/ionicons-volume-high-outline": "latest",
+        "@hyper.fun/ionicons-volume-high-sharp": "latest",
+        "@hyper.fun/ionicons-volume-low": "latest",
+        "@hyper.fun/ionicons-volume-low-outline": "latest",
+        "@hyper.fun/ionicons-volume-low-sharp": "latest",
+        "@hyper.fun/ionicons-volume-medium": "latest",
+        "@hyper.fun/ionicons-volume-medium-outline": "latest",
+        "@hyper.fun/ionicons-volume-medium-sharp": "latest",
+        "@hyper.fun/ionicons-volume-mute": "latest",
+        "@hyper.fun/ionicons-volume-mute-outline": "latest",
+        "@hyper.fun/ionicons-volume-mute-sharp": "latest",
+        "@hyper.fun/ionicons-volume-off": "latest",
+        "@hyper.fun/ionicons-volume-off-outline": "latest",
+        "@hyper.fun/ionicons-volume-off-sharp": "latest"
+    }
+}

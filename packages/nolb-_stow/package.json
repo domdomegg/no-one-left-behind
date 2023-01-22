@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_stow",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stow/common": "latest",
+        "@stowklab/react-events-calender": "latest",
+        "@stowklab/react-ga": "latest",
+        "@stowklab/react-google-invisible-recaptcha": "latest",
+        "@stowklab/react-google-recaptcha-v3": "latest",
+        "@stowklabs/react-events-calender": "latest",
+        "@stowklabs/react-ga": "latest",
+        "@stowklabs/react-geosuggest": "latest",
+        "@stowklabs/react-google-invisible-recaptcha": "latest",
+        "@stowklabs/react-google-recaptcha-v3": "latest",
+        "@stowprotocol/brand": "latest",
+        "@stowprotocol/stow-addresses": "latest",
+        "@stowprotocol/stow-js": "latest",
+        "@stowprotocol/stow-js-script-tag": "latest",
+        "@stowprotocol/stow-smart-contracts": "latest",
+        "@stowprotocol/stow-token-contracts": "latest"
+    }
+}

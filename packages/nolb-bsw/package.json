@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-bsw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bsw": "latest",
+        "bsw-uniswap-v2-sdk": "latest",
+        "bswagger": "latest",
+        "bswap": "latest",
+        "bswap-wasm": "latest",
+        "bswap.js": "latest",
+        "bswauth": "latest",
+        "bswije-test-package": "latest",
+        "bswije-test-package2": "latest",
+        "bswr": "latest",
+        "bswzj": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-rsp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rsp": "latest",
+        "rsp-app-cli": "latest",
+        "rsp-cli": "latest",
+        "rsp-client": "latest",
+        "rsp-js": "latest",
+        "rsp-no-comma": "latest",
+        "rsp-validation": "latest",
+        "rsp2json": "latest",
+        "rspack": "latest",
+        "rspack-plugin-node-polyfill": "latest",
+        "rspamd-client": "latest",
+        "rspath": "latest",
+        "rspec-jojo": "latest",
+        "rspec-json-to-html": "latest",
+        "rspec-json-to-html2": "latest",
+        "rspec-report-analyzer": "latest",
+        "rspec-to-conclusion": "latest",
+        "rspine": "latest",
+        "rspkg": "latest",
+        "rspl-vue-autocomplete": "latest",
+        "rspnd": "latest",
+        "rspnd-component": "latest",
+        "rspress": "latest",
+        "rspv2": "latest"
+    }
+}

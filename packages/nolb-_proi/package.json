@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_proi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@proindex/entity": "latest",
+        "@proista/client": "latest",
+        "@proista/client-data": "latest",
+        "@proista/client-tools": "latest",
+        "@proista/client-ui-blockly": "latest",
+        "@proista/client-ui-material": "latest",
+        "@proista/server": "latest",
+        "@proista/server-core": "latest",
+        "@proista/server-storage": "latest"
+    }
+}

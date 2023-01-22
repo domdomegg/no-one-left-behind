@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-nativescript-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nativescript-zendesk": "latest",
+        "nativescript-zendesk-chat": "latest",
+        "nativescript-zendesk-chat-ui": "latest",
+        "nativescript-zendesk-monety": "latest",
+        "nativescript-zendesk-sdk": "latest",
+        "nativescript-zendesk-with-chat": "latest",
+        "nativescript-zeroconf": "latest",
+        "nativescript-zip": "latest",
+        "nativescript-zip2": "latest",
+        "nativescript-zxing": "latest",
+        "nativescript-zxing-compat": "latest"
+    }
+}

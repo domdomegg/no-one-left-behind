@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_lu-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lu-ban/core": "latest",
+        "@lu-development/gmwrapper": "latest",
+        "@lu-development/lucan": "latest",
+        "@lu-development/pi-xstate-auth": "latest",
+        "@lu-development/pi-xstate-fetch": "latest",
+        "@lu-development/psa": "latest",
+        "@lu-development/sfs-web-components": "latest",
+        "@lu-development/st-gen": "latest",
+        "@lu-development/ux-gdpr-consent": "latest",
+        "@lu-development/ux-mylu-patterns": "latest",
+        "@lu-development/ux-mylu-patterns-react": "latest",
+        "@lu-development/ux-patterns": "latest",
+        "@lu-development/ux-patterns-react": "latest",
+        "@lu-development/web-content-components": "latest",
+        "@lu-kk/js-utils": "latest",
+        "@lu-srackhall/test-npm": "latest",
+        "@lu-zen/novu-notification-center": "latest"
+    }
+}

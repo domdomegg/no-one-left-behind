@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-strv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "strv-components": "latest",
+        "strv-task-eslint": "latest",
+        "strve-js": "latest",
+        "strve-router": "latest",
+        "strview": "latest",
+        "strview-app": "latest",
+        "strview-cli": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_riq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@riqra/committer": "latest",
+        "@riqra/eslint-config-react": "latest",
+        "@riqra/feature-flags": "latest",
+        "@riqra/hierarchy-parser": "latest",
+        "@riqra/response-json": "latest",
+        "@riqra/riqra-cli": "latest",
+        "@riqra/riqra-icons": "latest",
+        "@riqra/truck": "latest",
+        "@riquely/lru-cache": "latest"
+    }
+}

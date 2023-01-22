@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-wiw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wiw": "latest",
+        "wiw-icons-test": "latest",
+        "wiw-vsopen": "latest",
+        "wiw-vsopen2": "latest",
+        "wiwi": "latest",
+        "wiwi-build": "latest",
+        "wiwi-init": "latest",
+        "wiwi-install": "latest",
+        "wiwi-server": "latest",
+        "wiwj-ccl": "latest",
+        "wiwo-ui-dropdown": "latest"
+    }
+}

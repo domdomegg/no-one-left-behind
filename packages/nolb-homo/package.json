@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-homo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "homo": "latest",
+        "homo-digitalis": "latest",
+        "homo-digitalis-curricula-service": "latest",
+        "homo-sapiens-time": "latest",
+        "homo_number": "latest",
+        "homogeneous-coordinates-visualisation": "latest",
+        "homogenius": "latest",
+        "homogenize": "latest",
+        "homoglyph": "latest",
+        "homoglyph-cli": "latest",
+        "homoglyph-finder": "latest",
+        "homoglyph-search": "latest",
+        "homoglyphs": "latest",
+        "homography": "latest",
+        "homolo-cli": "latest",
+        "homolo-datamodal": "latest",
+        "homology": "latest",
+        "homomaid": "latest",
+        "homomorphic-js": "latest",
+        "homomorphicjs": "latest",
+        "homon-intl-render": "latest",
+        "homonym-ja": "latest",
+        "homophonizer": "latest",
+        "homotopy": "latest"
+    }
+}

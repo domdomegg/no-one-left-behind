@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-binu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "binu": "latest",
+        "binus-anggrek": "latest",
+        "binusworld-frame-print": "latest",
+        "binutils": "latest",
+        "binutils-hiperf": "latest",
+        "binutils64": "latest"
+    }
+}

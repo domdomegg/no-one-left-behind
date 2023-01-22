@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-vez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vez": "latest",
+        "veza": "latest",
+        "vezajs": "latest",
+        "vezba5": "latest",
+        "vezbanje": "latest",
+        "vezgo-sdk-js": "latest",
+        "vezgtayswcknhlru": "latest",
+        "vezio-table": "latest",
+        "vezzita-js-module-test": "latest",
+        "vezzita-react-module-test": "latest"
+    }
+}

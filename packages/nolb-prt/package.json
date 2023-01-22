@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-prt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "prt": "latest",
+        "prt-cli": "latest",
+        "prt-client": "latest",
+        "prt-component": "latest",
+        "prt-draft-js": "latest",
+        "prtcls": "latest",
+        "prtest": "latest",
+        "prtetier": "latest",
+        "prtext": "latest",
+        "prtfl": "latest",
+        "prtfy": "latest",
+        "prtklbdg": "latest",
+        "prtklbdg-circuit": "latest",
+        "prtkresume": "latest",
+        "prtr-japan-map": "latest",
+        "prtrello": "latest",
+        "prtscr": "latest",
+        "prtt": "latest",
+        "prttty": "latest"
+    }
+}

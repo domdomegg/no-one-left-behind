@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-allp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "allparams": "latest",
+        "allpaths": "latest",
+        "allpay": "latest",
+        "allpay-aio": "latest",
+        "allpay-sdk": "latest",
+        "allpkg": "latest",
+        "allpoint": "latest",
+        "allprogrammers-react-native-dropdown-picker": "latest",
+        "allproject": "latest",
+        "allproxy": "latest"
+    }
+}

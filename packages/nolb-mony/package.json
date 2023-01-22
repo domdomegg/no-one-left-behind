@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-mony",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mony": "latest",
+        "mony-component": "latest",
+        "mony-date": "latest",
+        "mony-email": "latest",
+        "mony-export": "latest",
+        "mony-functions": "latest",
+        "mony-logger": "latest",
+        "mony-onescript": "latest",
+        "mony-permission": "latest",
+        "mony-pool": "latest",
+        "mony-service": "latest",
+        "monylsnpm-test": "latest",
+        "monyt": "latest"
+    }
+}

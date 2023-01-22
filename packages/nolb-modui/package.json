@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-modui",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "modui-base": "latest",
+        "modui-calendar-pane": "latest",
+        "modui-example-page": "latest",
+        "modui-field": "latest",
+        "modui-popup": "latest",
+        "modui-tabs": "latest"
+    }
+}

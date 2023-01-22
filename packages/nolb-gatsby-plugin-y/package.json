@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-gatsby-plugin-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gatsby-plugin-yaml-i18n": "latest",
+        "gatsby-plugin-yandex-metrica": "latest",
+        "gatsby-plugin-yandex-metrika": "latest",
+        "gatsby-plugin-yandex-s3-test": "latest",
+        "gatsby-plugin-yoast-sitemap": "latest",
+        "gatsby-plugin-yotpo-reviews-qa": "latest",
+        "gatsby-plugin-your-fonts": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-dsv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dsv": "latest",
+        "dsv-cli": "latest",
+        "dsv-dataset": "latest",
+        "dsv-delimiter-configurations": "latest",
+        "dsv-file-loader": "latest",
+        "dsv-loader": "latest",
+        "dsv-stream": "latest",
+        "dsv-to-json": "latest",
+        "dsv-to-objects": "latest",
+        "dsv_importer": "latest",
+        "dsvc": "latest",
+        "dsvdb": "latest",
+        "dsvdxxxsfwes": "latest",
+        "dsvfdvfdgff-swap": "latest",
+        "dsvp": "latest"
+    }
+}

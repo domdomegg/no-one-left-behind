@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-restq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "restq": "latest",
+        "restqborad": "latest",
+        "restql": "latest",
+        "restql-manager": "latest",
+        "restql-query-builder": "latest",
+        "restquest-logger": "latest",
+        "restqueue": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-rxn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rxn": "latest",
+        "rxn-grife": "latest",
+        "rxn-input": "latest",
+        "rxn-parser": "latest",
+        "rxn-renderer": "latest",
+        "rxn-units": "latest",
+        "rxn-wrapper": "latest",
+        "rxn_parser": "latest",
+        "rxnabc": "latest",
+        "rxnorm-js": "latest",
+        "rxnotifier": "latest",
+        "rxnotify": "latest",
+        "rxnt-kue": "latest",
+        "rxnt-node-logger": "latest"
+    }
+}

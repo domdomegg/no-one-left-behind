@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-ethp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ethp": "latest",
+        "ethpay": "latest",
+        "ethpay.core": "latest",
+        "ethpay.vue": "latest",
+        "ethpi": "latest",
+        "ethpilot": "latest",
+        "ethpkg": "latest",
+        "ethplorer-js": "latest",
+        "ethplorer-node": "latest",
+        "ethplorer.io": "latest",
+        "ethpm": "latest",
+        "ethpm-abi": "latest",
+        "ethpm-registry": "latest",
+        "ethpm-spec": "latest",
+        "ethpollo": "latest",
+        "ethpp": "latest",
+        "ethproof": "latest"
+    }
+}

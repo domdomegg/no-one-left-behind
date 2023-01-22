@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-ui-i",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ui-icon": "latest",
+        "ui-iconpicker": "latest",
+        "ui-icons": "latest",
+        "ui-ie8": "latest",
+        "ui-ilegra": "latest",
+        "ui-image": "latest",
+        "ui-image-input": "latest",
+        "ui-infra": "latest",
+        "ui-inline-input": "latest",
+        "ui-innopolis-kit": "latest",
+        "ui-input": "latest",
+        "ui-input-number": "latest",
+        "ui-input-number-form": "latest",
+        "ui-input-selector": "latest",
+        "ui-input-text": "latest",
+        "ui-input-text-form": "latest",
+        "ui-integration-tests": "latest",
+        "ui-interactions": "latest",
+        "ui-interface": "latest",
+        "ui-invoice": "latest",
+        "ui-invoice-card": "latest",
+        "ui-invoice-form": "latest",
+        "ui-io": "latest",
+        "ui-ionic-zrp": "latest",
+        "ui-item": "latest",
+        "ui-iterator": "latest",
+        "ui-its": "latest"
+    }
+}

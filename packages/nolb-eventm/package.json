@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-eventm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eventm": "latest",
+        "eventmachine": "latest",
+        "eventman": "latest",
+        "eventmanager": "latest",
+        "eventmanageruno": "latest",
+        "eventmap": "latest",
+        "eventmapjs": "latest",
+        "eventmaster": "latest",
+        "eventmaster_db_service": "latest",
+        "eventmit": "latest",
+        "eventmodel": "latest",
+        "eventmodule": "latest",
+        "eventmonger": "latest"
+    }
+}

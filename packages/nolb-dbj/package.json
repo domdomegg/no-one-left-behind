@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-dbj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dbj-api": "latest",
+        "dbj-api1": "latest",
+        "dbj-cli": "latest",
+        "dbj-et": "latest",
+        "dbj-jsbridge": "latest",
+        "dbj-magazine": "latest",
+        "dbj-magazine-cli": "latest",
+        "dbj-shared": "latest",
+        "dbj.cond": "latest",
+        "dbj.cond.comparators": "latest",
+        "dbjoin": "latest",
+        "dbjs": "latest",
+        "dbjs-dom": "latest",
+        "dbjs-domjs": "latest",
+        "dbjs-ext": "latest",
+        "dbjs-level": "latest",
+        "dbjs-mongo": "latest",
+        "dbjs-ms-sql": "latest",
+        "dbjs-persistence": "latest",
+        "dbjson": "latest",
+        "dbjsond": "latest",
+        "dbjuggle": "latest"
+    }
+}

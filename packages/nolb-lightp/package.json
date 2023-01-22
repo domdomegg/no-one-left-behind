@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-lightp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lightpack": "latest",
+        "lightpad-mk2": "latest",
+        "lightpage": "latest",
+        "lightpages": "latest",
+        "lightpages-cli": "latest",
+        "lightparty": "latest",
+        "lightpath": "latest",
+        "lightpick": "latest",
+        "lightpick-calendar": "latest",
+        "lightping-timelapse": "latest",
+        "lightping-tracker-reducers": "latest",
+        "lightpl": "latest",
+        "lightpost": "latest",
+        "lightpress": "latest",
+        "lightprof": "latest",
+        "lightpulse": "latest"
+    }
+}

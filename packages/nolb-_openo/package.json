@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_openo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@openocean.finance/api": "latest",
+        "@openocean.finance/limit-order": "latest",
+        "@openocean.finance/liquidity-sdk": "latest",
+        "@openocean.finance/openocean-sdk": "latest",
+        "@openocean.finance/wallet": "latest",
+        "@openocean/sdk": "latest",
+        "@openocean/uikit": "latest",
+        "@openopus/angular-pane-manager": "latest",
+        "@openorders.dao/orderbook-client-sdk-js": "latest",
+        "@openorders.dao/orderbook-shared": "latest",
+        "@openovate/babel-plugin-file-loader": "latest",
+        "@openovate/eventrpc": "latest",
+        "@openovate/express-router": "latest",
+        "@openovate/jsm": "latest",
+        "@openovate/socketio-router": "latest",
+        "@openovate/webpack-jailbreak": "latest",
+        "@openovate/webpack-react-router": "latest",
+        "@openovate/webpack-virtual-folders": "latest",
+        "@openowner/ng-tools": "latest",
+        "@openownership/bods-dagre": "latest"
+    }
+}

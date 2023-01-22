@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_p2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@p2-inc/js-sdk": "latest",
+        "@p2/charts": "latest",
+        "@p2/grid": "latest",
+        "@p2/startup": "latest",
+        "@p2/styles": "latest",
+        "@p2/ui": "latest",
+        "@p233/stylelint-config-scss": "latest",
+        "@p26e/harvest-npm": "latest",
+        "@p2m/react-native-audio": "latest",
+        "@p2m/react-native-echarts": "latest",
+        "@p2m/react-native-picker": "latest",
+        "@p2m/react-native-qrcode": "latest",
+        "@p2m/react-native-simple-webview": "latest",
+        "@p2m2/discovery": "latest",
+        "@p2olab/evaluation-interface": "latest",
+        "@p2olab/pimad-core": "latest",
+        "@p2olab/pimad-interface": "latest",
+        "@p2olab/pimad-types": "latest",
+        "@p2olab/polaris-interface": "latest",
+        "@p2p-comm/base": "latest",
+        "@p2pcommons/sdk-js": "latest",
+        "@p2pmodels/connect-round-robin": "latest",
+        "@p2pmodels/eth-manager": "latest",
+        "@p2pmoney-org/ethereum_core": "latest",
+        "@p2pmoney-org/ethereum_erc20": "latest",
+        "@p2pmoney-org/ethereum_erc721": "latest",
+        "@p2pmoney-org/ethereum_xtra_web": "latest",
+        "@p2q62ma1flz0/npm-art-test-123456789": "latest"
+    }
+}

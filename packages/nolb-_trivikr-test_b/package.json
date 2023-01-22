@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_trivikr-test_b",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trivikr-test/body-checksum-browser": "latest",
+        "@trivikr-test/body-checksum-browser-esm": "latest",
+        "@trivikr-test/body-checksum-browser-esm-wrapper": "latest",
+        "@trivikr-test/body-checksum-node": "latest",
+        "@trivikr-test/body-checksum-node-esm": "latest",
+        "@trivikr-test/body-checksum-node-esm-wrapper": "latest"
+    }
+}

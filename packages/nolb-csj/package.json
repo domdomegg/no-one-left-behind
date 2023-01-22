@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-csj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "csj": "latest",
+        "csj-001": "latest",
+        "csj-reactp": "latest",
+        "csj-web-tools": "latest",
+        "csj_1_npm_package": "latest",
+        "csjinfgit-pk1": "latest",
+        "csjs": "latest",
+        "csjs-extractify": "latest",
+        "csjs-inject": "latest",
+        "csjs-injectify": "latest",
+        "csjs-loader": "latest",
+        "csjs-native": "latest",
+        "csjs-styletron": "latest",
+        "csjs2": "latest",
+        "csjs2-inject": "latest",
+        "csjs2-injectify": "latest",
+        "csjsify-loader": "latest",
+        "csjt-cli": "latest",
+        "csjtly-wy-nav": "latest"
+    }
+}

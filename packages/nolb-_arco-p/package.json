@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_arco-p",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@arco-plugins/utils": "latest",
+        "@arco-plugins/vite-plugin-svgr": "latest",
+        "@arco-plugins/vite-react": "latest",
+        "@arco-plugins/vite-vue": "latest",
+        "@arco-plugins/webpack-react": "latest"
+    }
+}

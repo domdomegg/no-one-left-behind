@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-ember-3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ember-3d": "latest",
+        "ember-3d-folding-panel": "latest",
+        "ember-3d-nav": "latest",
+        "ember-3x-codemods": "latest"
+    }
+}

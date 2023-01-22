@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-vue-cd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cd-sidebar": "latest",
+        "vue-cdd-validator": "latest",
+        "vue-cdn": "latest",
+        "vue-cdn-template": "latest"
+    }
+}

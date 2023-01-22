@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_axl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@axl-cli/core": "latest",
+        "@axl-cli/utils": "latest",
+        "@axl_navas/mediaplayer": "latest",
+        "@axlair/jupyterlab_vim": "latest",
+        "@axldrago/response-builder": "latest",
+        "@axlejs/shared": "latest",
+        "@axlii/forever-timeout": "latest",
+        "@axljon/test-add-on": "latest",
+        "@axlyaguana11/random-messages": "latest"
+    }
+}

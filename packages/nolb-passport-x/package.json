@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-passport-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "passport-xao": "latest",
+        "passport-xapo": "latest",
+        "passport-xbox": "latest",
+        "passport-xero": "latest",
+        "passport-xero-oauth2": "latest",
+        "passport-xiaomi": "latest",
+        "passport-xindongfang": "latest",
+        "passport-xing": "latest",
+        "passport-xixifunlogin": "latest",
+        "passport-xmpp": "latest"
+    }
+}

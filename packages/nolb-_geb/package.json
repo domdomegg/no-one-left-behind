@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_geb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@geb/js": "latest",
+        "@gebbber/when-ready": "latest",
+        "@gebeto/apply-package-scope": "latest",
+        "@gebilaoyang/components_xk_yun": "latest",
+        "@gebittencourt/portinari-style-green": "latest",
+        "@gebittencourt/sdk-jsddd": "latest",
+        "@gebrait/server-api": "latest",
+        "@gebruederheitz/clicktrigger2": "latest",
+        "@gebruederheitz/consent-tools": "latest",
+        "@gebruederheitz/eloqua-form-styles": "latest",
+        "@gebruederheitz/htmodules": "latest",
+        "@gebruederheitz/plaintextlego": "latest",
+        "@gebruederheitz/postcss-pkg-version-to-stylesheet": "latest",
+        "@gebruederheitz/sticky-parameters": "latest",
+        "@gebruederheitz/wp-async-posts-loader": "latest",
+        "@gebruederheitz/wp-backup": "latest",
+        "@gebruederheitz/wp-block-collapsible": "latest",
+        "@gebruederheitz/wp-block-skeleton": "latest",
+        "@gebruederheitz/wp-block-slideshow": "latest",
+        "@gebruederheitz/wp-block-video-overlay": "latest",
+        "@gebruederheitz/wp-editor-components": "latest",
+        "@gebruederheitz/wp-frontend-utils": "latest",
+        "@gebsh/eslint-config": "latest",
+        "@gebsh/eslint-config-typescript": "latest",
+        "@gebsh/prettier-config": "latest"
+    }
+}

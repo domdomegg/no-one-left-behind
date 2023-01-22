@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-zib",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zib": "latest",
+        "zibal": "latest",
+        "zibal-demo-lib": "latest",
+        "zibal-platform": "latest",
+        "zibal-project": "latest",
+        "ziballib": "latest",
+        "zibalmodule": "latest",
+        "zibar": "latest",
+        "zibase": "latest",
+        "zibra": "latest"
+    }
+}

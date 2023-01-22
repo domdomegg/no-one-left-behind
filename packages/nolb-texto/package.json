@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-texto",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "texto": "latest",
+        "textobj-592": "latest",
+        "textobj2104": "latest",
+        "textobserver": "latest",
+        "textom": "latest",
+        "textom-link-node": "latest",
+        "texton": "latest",
+        "textool": "latest",
+        "textools": "latest",
+        "textops": "latest",
+        "textor": "latest",
+        "textor-cli": "latest",
+        "textor-core": "latest",
+        "textout": "latest",
+        "textoverlay": "latest"
+    }
+}

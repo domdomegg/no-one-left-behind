@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-devk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "devkeeper": "latest",
+        "devkeeper-docs": "latest",
+        "devkeeper-plugin-vuepress": "latest",
+        "devkeeper-typedoc": "latest",
+        "devker": "latest",
+        "devkeydet-greet": "latest",
+        "devkeydet-zip-test": "latest",
+        "devkit": "latest",
+        "devkit-chrome-extension": "latest",
+        "devkit-hc": "latest",
+        "devkit-js": "latest",
+        "devkit-logging": "latest",
+        "devkit-plugin-builder": "latest",
+        "devkit-spriter": "latest",
+        "devkit-timestep": "latest",
+        "devkit_cdn_replace": "latest",
+        "devkit_oss_cdn": "latest",
+        "devkube": "latest"
+    }
+}

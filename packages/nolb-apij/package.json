@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-apij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "apijs": "latest",
+        "apijs-admin": "latest",
+        "apijs-mongo": "latest",
+        "apijson-builder": "latest",
+        "apijson-builder-client": "latest"
+    }
+}

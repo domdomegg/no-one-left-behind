@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-mcu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mcu": "latest",
+        "mcu-mern-project": "latest",
+        "mcu-react-component6228": "latest",
+        "mcubed-admin": "latest",
+        "mcubed-lineup-insight-data": "latest",
+        "mcubed-lineup-insight-server": "latest",
+        "mcubed-persistence": "latest",
+        "mcucomm": "latest",
+        "mcui": "latest",
+        "mcui-ssr-test": "latest",
+        "mcui-theme-provider": "latest",
+        "mcui_vue": "latest",
+        "mcuiot-logger": "latest",
+        "mcuistore": "latest",
+        "mcuking-block": "latest",
+        "mcul": "latest",
+        "mcul-visualize-svg": "latest",
+        "mculogger": "latest",
+        "mcurl-js21-test-pckge": "latest",
+        "mcustc": "latest"
+    }
+}

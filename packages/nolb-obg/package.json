@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-obg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "obg-stencil-react": "latest",
+        "obg-test": "latest",
+        "obg.gulp.tools.sdk": "latest",
+        "obgen": "latest",
+        "obgh": "latest"
+    }
+}

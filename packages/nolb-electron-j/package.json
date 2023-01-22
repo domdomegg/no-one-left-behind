@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-electron-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "electron-jade": "latest",
+        "electron-jade-protocol": "latest",
+        "electron-jasmine": "latest",
+        "electron-java": "latest",
+        "electron-jitterbuffer": "latest",
+        "electron-johnny-five-led-example": "latest",
+        "electron-johnny-five-potentiometer-example": "latest",
+        "electron-johnny-five-sensor-example": "latest",
+        "electron-johnny-five-sensor-led-example": "latest",
+        "electron-johnny-five-sensor-log-example": "latest",
+        "electron-johnny-five-sensor-servo-example": "latest",
+        "electron-johnny-five-sensor-strobe-example": "latest",
+        "electron-johnny-five-servo-example": "latest",
+        "electron-johnny-five-switch-example": "latest",
+        "electron-json": "latest",
+        "electron-json-config": "latest",
+        "electron-json-settings-store": "latest",
+        "electron-json-storage": "latest",
+        "electron-json-storage-alt": "latest",
+        "electron-json-storage-sync": "latest",
+        "electron-jsx": "latest",
+        "electron-jsx-hotload": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-imy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "imy": "latest",
+        "imycode-test-wxs": "latest",
+        "imycode-ui": "latest",
+        "imyjwfather": "latest",
+        "imyoudaddy": "latest",
+        "imyourfather669": "latest",
+        "imyoyo-npm-test": "latest"
+    }
+}

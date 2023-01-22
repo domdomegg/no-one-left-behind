@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_jif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jifeline/core": "latest",
+        "@jifeline/customer-account": "latest",
+        "@jifeline/customer-connectors": "latest",
+        "@jifeline/customer-shared": "latest",
+        "@jifenn/enbrands-interaction-tools": "latest",
+        "@jifeon/crud": "latest",
+        "@jifeon/crud-request": "latest",
+        "@jifeon/crud-typeorm": "latest",
+        "@jifeon/goose-parser": "latest",
+        "@jifeon/http-proxy-rules": "latest",
+        "@jifeon/pgcodebase": "latest",
+        "@jifeon/sval": "latest",
+        "@jifeon/util": "latest",
+        "@jifeon/winston": "latest",
+        "@jiffylive/vue-j-editable": "latest",
+        "@jiffylive/vue-j-table": "latest"
+    }
+}

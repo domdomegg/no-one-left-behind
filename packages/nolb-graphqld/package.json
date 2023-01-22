@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-graphqld",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graphqldb-adapter": "latest",
+        "graphqldb-adapter-dynamodb": "latest",
+        "graphqldb-adapter-memory": "latest",
+        "graphqldb-cli": "latest",
+        "graphqldb-client": "latest",
+        "graphqldb-test-utils": "latest",
+        "graphqldb-types": "latest",
+        "graphqldoc": "latest",
+        "graphqldownloader": "latest"
+    }
+}

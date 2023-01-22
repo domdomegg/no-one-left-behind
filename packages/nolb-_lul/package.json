@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_lul",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lulea/http": "latest",
+        "@lulei/my-banner-demo": "latest",
+        "@luli1992/simplewebpack": "latest",
+        "@lulibrary/vue2-leaflet": "latest",
+        "@lulibuli/vue-cli-plugin-browser-extension": "latest",
+        "@lulibuli/webpack-ext-reloader": "latest",
+        "@lulina26/component-library": "latest",
+        "@lullabot/drainpipe-javascript": "latest",
+        "@lullabot/drainpipe-sass": "latest",
+        "@lullabot/gatsby-theme-adr": "latest",
+        "@lullabot/nightwatch-drupal-commands": "latest",
+        "@lullabot/storybook-drupal-addon": "latest",
+        "@lulltickets/common": "latest",
+        "@lulo/lulo-core": "latest",
+        "@lulofinance/eslint-config-lulo": "latest",
+        "@lulofinance/lulo-swap-lib": "latest",
+        "@lulofinance/uikit": "latest",
+        "@luluabdun/tiny": "latest",
+        "@luluhow/member": "latest",
+        "@lululemon/lll-design": "latest",
+        "@lulutheflaneur/npm-script-test": "latest"
+    }
+}

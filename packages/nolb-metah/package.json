@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-metah",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "metah": "latest",
+        "metahash": "latest",
+        "metahash-js": "latest",
+        "metahash-js2": "latest",
+        "metahead": "latest",
+        "metahelpers": "latest",
+        "metaheroes-hub-components": "latest",
+        "metahkg-css": "latest",
+        "metahkg-images": "latest",
+        "metahkg-server": "latest",
+        "metahkg-web": "latest",
+        "metahos": "latest",
+        "metahub": "latest",
+        "metahubjs": "latest",
+        "metahumans": "latest",
+        "metahydra_assets": "latest",
+        "metahype-swagger-vue-axios-generator": "latest",
+        "metahype-video-player-api": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-ccf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ccf": "latest",
+        "ccf-cli": "latest",
+        "ccf-forked-apickli": "latest",
+        "ccf-pkg-cli": "latest",
+        "ccf-test": "latest",
+        "ccfd": "latest",
+        "ccfe-demo-cli": "latest",
+        "ccfescaffold-webpack": "latest",
+        "ccfestage": "latest",
+        "ccfirstcode": "latest",
+        "ccfoxreactuilib": "latest",
+        "ccfoxuikit": "latest",
+        "ccframework": "latest",
+        "ccfs": "latest",
+        "ccftp": "latest",
+        "ccfuncsjs": "latest",
+        "ccfuncstst": "latest"
+    }
+}

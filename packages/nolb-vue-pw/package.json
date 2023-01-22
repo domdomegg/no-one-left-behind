@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-vue-pw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-pw-input": "latest",
+        "vue-pwa": "latest",
+        "vue-pwa-asset-generator": "latest",
+        "vue-pwa-install": "latest",
+        "vue-pwa-installer": "latest",
+        "vue-pwd": "latest",
+        "vue-pwd-input": "latest",
+        "vue-pwd-inputs": "latest",
+        "vue-pwd-keyboard": "latest"
+    }
+}

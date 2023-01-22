@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-htmlg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htmlgaga": "latest",
+        "htmlgamesdk": "latest",
+        "htmlgen": "latest",
+        "htmlgen-webpack-plugin": "latest",
+        "htmlgetty": "latest",
+        "htmlglue": "latest",
+        "htmlgoddess": "latest",
+        "htmlgoddess-webpack-plugin": "latest",
+        "htmlgrabr": "latest",
+        "htmlguard": "latest",
+        "htmlguyllc-jpack": "latest"
+    }
+}

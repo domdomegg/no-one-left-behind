@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_anb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@anb007/ahelper": "latest",
+        "@anb007/eslint-config-servyou": "latest",
+        "@anb0s/plantuml-encoder": "latest",
+        "@anb98/react-hooks": "latest",
+        "@anbacoor/uikit": "latest",
+        "@anbari/aws-sign": "latest",
+        "@anbcodes/api-to-functions": "latest",
+        "@anbcodes/asyncws": "latest",
+        "@anbcodes/asyncwstexting": "latest",
+        "@anbcodes/browser-ts": "latest",
+        "@anbcodes/client-side-planner": "latest",
+        "@anbcodes/intcodecomputer": "latest",
+        "@anbumadz007/check-null": "latest"
+    }
+}

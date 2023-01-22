@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_grd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@grd/debouncer": "latest",
+        "@grd/use-promise": "latest",
+        "@grdevdpkg/next-auth-strapi-core": "latest",
+        "@grdevdpkg/next-auth-strapi-local": "latest",
+        "@grdon/logger": "latest",
+        "@grdvsng/graphin_wasm": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_arco-te",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@arco-tech/bem": "latest",
+        "@arco-tech/changeset": "latest",
+        "@arco-tech/css-grid": "latest",
+        "@arco-tech/mithril-charts": "latest",
+        "@arco-tech/mithril-form": "latest",
+        "@arco-tech/mithril-router": "latest"
+    }
+}

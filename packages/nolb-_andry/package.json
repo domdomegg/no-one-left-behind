@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_andry",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@andry-tino/flowable": "latest",
+        "@andrydharmawan/ajc": "latest",
+        "@andrydharmawan/bgs-component": "latest",
+        "@andrydharmawan/component-react": "latest",
+        "@andrydharmawan/component-vue": "latest"
+    }
+}

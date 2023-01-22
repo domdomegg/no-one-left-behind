@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-cloud_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cloud.governance.newsdk": "latest",
+        "cloud.io": "latest",
+        "cloud.js": "latest",
+        "cloud.min.js": "latest",
+        "cloud_cv": "latest",
+        "cloud_dashboard": "latest",
+        "cloud_disk_icon": "latest",
+        "cloud_etl": "latest",
+        "cloud_fluoride": "latest",
+        "cloud_g": "latest",
+        "cloud_on_the_lamb": "latest",
+        "cloud_sml_api": "latest",
+        "cloud_storage_utils": "latest",
+        "cloud_top_chess_data": "latest",
+        "cloud_worx_threejs": "latest"
+    }
+}

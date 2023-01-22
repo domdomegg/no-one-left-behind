@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_dsr-rollback-ob",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dsr-rollback-obeys-amber-zeals-evite/dsr-package-public-obeys-amber-zeals-evite": "latest",
+        "@dsr-rollback-obeys-seric-deeds-harsh/dsr-package-public-obeys-seric-deeds-harsh": "latest"
+    }
+}

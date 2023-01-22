@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_me-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@me-hotel/ibuild": "latest",
+        "@me-hotel/iseeu": "latest",
+        "@me-hotel/xprice": "latest",
+        "@me-io/object-diff": "latest",
+        "@me-jamshidi/vue-loading": "latest",
+        "@me-jamshidi/vue-sessionstorage": "latest",
+        "@me-junaid2000/local-scope-package": "latest",
+        "@me-junaid2000/package": "latest",
+        "@me-ticket/common": "latest",
+        "@me-tool/eslint-prettier-config": "latest",
+        "@me-tool/eslint-prettier-ts-config": "latest"
+    }
+}

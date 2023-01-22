@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_mank",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mankal111/matrix-js": "latest",
+        "@mankeheaven/oss-publish": "latest",
+        "@mankibusiness/react-custom-roulette": "latest",
+        "@mankibusiness/react-dropzone-uploader": "latest",
+        "@mankin/expo-config-plugin-ble": "latest",
+        "@mankin/expo-config-plugin-jpush": "latest",
+        "@mankin/expo-mods-ble": "latest",
+        "@mankin/expo-mods-jpush": "latest",
+        "@mankins/svelte-adapter-express": "latest",
+        "@mankinskin/hello-wasm": "latest",
+        "@mankmantos/manktwine-cli": "latest",
+        "@mankubes-framework/pkg-endpoint": "latest",
+        "@mankubes-framework/pkg-environment": "latest",
+        "@mankubes-framework/pkg-i18n": "latest",
+        "@mankubes-framework/pkg-network": "latest",
+        "@mankubes-framework/pkg-schema": "latest"
+    }
+}

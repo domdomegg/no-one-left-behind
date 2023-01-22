@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-clv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clv": "latest",
+        "clv-advanced-table": "latest",
+        "clv-angular-boot": "latest",
+        "clv-angular-directives-utilities": "latest",
+        "clv-angular-pipes-utilities": "latest",
+        "clv-template": "latest",
+        "clv-ts-utils": "latest",
+        "clv1601m": "latest",
+        "clvm": "latest",
+        "clvm-lib": "latest",
+        "clvm_rs": "latest",
+        "clvm_tools": "latest",
+        "clvm_wasm": "latest",
+        "clvr": "latest",
+        "clvr-custom-aws-sdk": "latest",
+        "clvr-sustom-aws-sdk": "latest"
+    }
+}

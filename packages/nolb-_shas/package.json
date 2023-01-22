@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_shas",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shasderias/vuedraggable": "latest",
+        "@shashank.map/tiny": "latest",
+        "@shashank.shekhar/just-for-fun": "latest",
+        "@shashank.shekhar/learnit": "latest",
+        "@shashank8317/package-demo": "latest",
+        "@shashankkushwah/eslint-config": "latest",
+        "@shashankkushwah/prettier-config": "latest",
+        "@shashanktiwary/react-dnd-touch-backend": "latest",
+        "@shasharoman/amp": "latest",
+        "@shasharoman/fns": "latest",
+        "@shasharoman/hserver": "latest",
+        "@shasharoman/log": "latest",
+        "@shasharoman/ptree": "latest",
+        "@shasharoman/sok": "latest",
+        "@shasharoman/sql": "latest",
+        "@shashi5678/plugin-chart-status": "latest",
+        "@shashi61/lotide": "latest",
+        "@shashikalapatel/react-redux": "latest",
+        "@shashikhanal/deep-clone": "latest",
+        "@shashusmash/sample-lib": "latest",
+        "@shashvatshah/projectconfig": "latest",
+        "@shashwatmdas/card": "latest",
+        "@shastri9999/rn-material-textfield": "latest"
+    }
+}

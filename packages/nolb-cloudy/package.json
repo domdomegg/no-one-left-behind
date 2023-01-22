@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-cloudy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cloudy": "latest",
+        "cloudy-bosun": "latest",
+        "cloudy-cdk-lib": "latest",
+        "cloudy-db": "latest",
+        "cloudy-localsmith": "latest",
+        "cloudy-location": "latest",
+        "cloudy-node": "latest",
+        "cloudy-ubersmith": "latest",
+        "cloudy.djs": "latest",
+        "cloudybot": "latest",
+        "cloudyday": "latest",
+        "cloudydom": "latest"
+    }
+}

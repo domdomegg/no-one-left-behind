@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_poa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@poa/core": "latest",
+        "@poa/i18n": "latest",
+        "@poa/router": "latest",
+        "@poa/satcheljs": "latest",
+        "@poa/state": "latest",
+        "@poach/core": "latest",
+        "@poach/jest": "latest",
+        "@poach/jest-ts": "latest",
+        "@poach/react": "latest",
+        "@poach/react-ts": "latest",
+        "@poach/typescript": "latest",
+        "@poanet/solidity-flattener": "latest",
+        "@poanet/tokenbridge-bw-exchange": "latest",
+        "@poap-xyz/poap-logger": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-checku",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "checkup": "latest",
+        "checkup-formatter-pretty": "latest",
+        "checkup-plugin-ember": "latest",
+        "checkup-plugin-ember-octane": "latest",
+        "checkup-plugin-javascript": "latest",
+        "checkurl": "latest",
+        "checkus": "latest"
+    }
+}

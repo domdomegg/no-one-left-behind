@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_atp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@atp-autoteile/logger": "latest",
+        "@atpar/actus-solidity": "latest",
+        "@atpar/ap-contracts": "latest",
+        "@atpar/ap-helper": "latest",
+        "@atpar/ap.js": "latest",
+        "@atpar/protocol": "latest",
+        "@atpro/orm": "latest",
+        "@atpro/pg-orm": "latest",
+        "@atproto/api": "latest",
+        "@atproto/lexicon": "latest",
+        "@atproto/nsid": "latest",
+        "@atproto/xrpc": "latest"
+    }
+}

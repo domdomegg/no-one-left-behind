@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-chev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cheval": "latest",
+        "cheval-cli": "latest",
+        "chevent": "latest",
+        "chevere": "latest",
+        "chevereto": "latest",
+        "chevron": "latest",
+        "chevronjs": "latest",
+        "chevrotain": "latest",
+        "chevrotain-allstar": "latest",
+        "chevrotain-ebnf": "latest",
+        "chevrotain-rule-dsl": "latest"
+    }
+}

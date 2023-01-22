@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_drw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@drw-cli-dev/core": "latest",
+        "@drw-cli-dev/utils": "latest",
+        "@drw-dev/core": "latest",
+        "@drw-dev/test_cli": "latest",
+        "@drw-dev/utils": "latest",
+        "@drwade/cli": "latest",
+        "@drwade/feathers-arangodb": "latest"
+    }
+}

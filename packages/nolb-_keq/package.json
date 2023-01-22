@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_keq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@keqin/mp-echarts": "latest",
+        "@keqingrong/dom-utils": "latest",
+        "@keqingrong/fingerprint": "latest",
+        "@keqingrong/globals": "latest",
+        "@keqingrong/hooks": "latest",
+        "@keqingrong/http-client": "latest",
+        "@keqingrong/js-codemod": "latest",
+        "@keqingrong/math": "latest",
+        "@keqingrong/mock-server": "latest",
+        "@keqingrong/mock-shared": "latest",
+        "@keqingrong/npm-apis": "latest",
+        "@keqingrong/parse-json-recursively": "latest",
+        "@keqingrong/react-native-cli-apis": "latest",
+        "@keqingrong/system-fonts": "latest",
+        "@keqingrong/validator": "latest",
+        "@keqingrong/vm": "latest",
+        "@keqingrong/web-apis": "latest",
+        "@keqingthethundercat/lotide": "latest"
+    }
+}

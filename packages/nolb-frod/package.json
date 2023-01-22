@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-frod",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "frodo": "latest",
+        "frodo-cli": "latest",
+        "frodo-components": "latest",
+        "frodo-http-downloader": "latest",
+        "frodo-lazy-img": "latest",
+        "frodo-react-scripts": "latest",
+        "frodo-scout": "latest",
+        "frodo-sty-cli": "latest",
+        "frodo-ui": "latest",
+        "frodoio": "latest"
+    }
+}

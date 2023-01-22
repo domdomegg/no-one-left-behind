@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_t4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@t4cr-admin/hubot-rocketchat": "latest",
+        "@t4gad4/ckeditor5-build-decoupled-image-word": "latest",
+        "@t4gltd/gulp-registry": "latest",
+        "@t4kumi_js/react-run-input": "latest",
+        "@t4y3/fig": "latest",
+        "@t4y3/libraries-boilerplate": "latest"
+    }
+}

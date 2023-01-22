@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-checkp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "checkpac": "latest",
+        "checkpack": "latest",
+        "checkpackage": "latest",
+        "checkpackagejson": "latest",
+        "checkparam": "latest",
+        "checkpass": "latest",
+        "checkpassword": "latest",
+        "checkphone": "latest",
+        "checkphoneno": "latest",
+        "checkping": "latest",
+        "checkpoint": "latest",
+        "checkpoint-client": "latest",
+        "checkpoint-store": "latest",
+        "checkpoint-stream": "latest",
+        "checkpointjs": "latest",
+        "checkpoints": "latest",
+        "checkport": "latest",
+        "checkprime": "latest",
+        "checkpromise": "latest"
+    }
+}

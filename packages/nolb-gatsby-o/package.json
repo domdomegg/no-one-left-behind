@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-gatsby-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gatsby-omni-font-loader": "latest",
+        "gatsby-opinionated-starter": "latest",
+        "gatsby-optional-chaining": "latest",
+        "gatsby-over-scroll": "latest"
+    }
+}

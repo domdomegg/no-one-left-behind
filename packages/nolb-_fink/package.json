@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_fink",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fink/cli": "latest",
+        "@fink/jest": "latest",
+        "@fink/js-interop": "latest",
+        "@fink/larix": "latest",
+        "@fink/loxia": "latest",
+        "@fink/prattler": "latest",
+        "@fink/require-hook": "latest",
+        "@fink/rollup": "latest",
+        "@fink/snippet": "latest",
+        "@fink/std-lib": "latest",
+        "@finki70/shufflejs-react": "latest"
+    }
+}

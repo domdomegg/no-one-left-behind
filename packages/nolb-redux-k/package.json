@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-redux-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "redux-k": "latest",
+        "redux-kangking": "latest",
+        "redux-keen": "latest",
+        "redux-keep": "latest",
+        "redux-kefir": "latest",
+        "redux-kefir-1": "latest",
+        "redux-kernel": "latest",
+        "redux-keto": "latest",
+        "redux-key-listener": "latest",
+        "redux-keyable": "latest",
+        "redux-keyed-reducer": "latest",
+        "redux-keyed-reducer-immutable": "latest",
+        "redux-keystroke-history": "latest",
+        "redux-kit": "latest",
+        "redux-kits": "latest",
+        "redux-kittens": "latest",
+        "redux-knife-manager": "latest",
+        "redux-knob": "latest",
+        "redux-kv": "latest",
+        "redux-kv-store": "latest"
+    }
+}

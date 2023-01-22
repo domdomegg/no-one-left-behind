@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_alem",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alemaofluig/meu-modulo-compartilhado": "latest",
+        "@alemarra89/test-log": "latest",
+        "@alemarte/superionic": "latest",
+        "@alemartins/vuelibtest": "latest",
+        "@alemas/node-saludo": "latest",
+        "@alemas/saludo-random": "latest",
+        "@alemazzoli/croquet-proxy": "latest",
+        "@alemendieta017/mediaplayer": "latest",
+        "@alemesa/react-hooks": "latest",
+        "@alemesa/react-use-intersection-observer": "latest",
+        "@alemesa/react-use-window-size": "latest",
+        "@alemohamad/local-env-minifier": "latest",
+        "@alemsa_tickets/common": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-v-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "v-naive-admin": "latest",
+        "v-namespace": "latest",
+        "v-nav-bar": "latest",
+        "v-nepalidatepicker": "latest",
+        "v-nestable": "latest",
+        "v-network-graph": "latest",
+        "v-new-ui": "latest",
+        "v-nfa": "latest",
+        "v-ng2-semantic-ui": "latest",
+        "v-ng2-semantic-ui-v9": "latest",
+        "v-nimble-ui": "latest",
+        "v-node-htmldiff": "latest",
+        "v-notification": "latest",
+        "v-notifications": "latest",
+        "v-npm-practice": "latest",
+        "v-npm-test": "latest",
+        "v-num-input": "latest",
+        "v-number": "latest",
+        "v-number-counter": "latest",
+        "v-number-panel": "latest",
+        "v-number-stepper-seb": "latest",
+        "v-number-to-words": "latest",
+        "v-numbers": "latest",
+        "v-numeric": "latest"
+    }
+}

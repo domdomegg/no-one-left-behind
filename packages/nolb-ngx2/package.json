@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-ngx2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ngx2-bulma": "latest",
+        "ngx2-core": "latest",
+        "ngx2-credit-cards": "latest",
+        "ngx2-intl-tel-input": "latest",
+        "ngx2-pipes": "latest",
+        "ngx2-table-virtual-scroll": "latest",
+        "ngx2048": "latest"
+    }
+}

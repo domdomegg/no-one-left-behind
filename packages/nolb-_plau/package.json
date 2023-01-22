@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_plau",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@plaudesign/cart": "latest",
+        "@plaux/bee": "latest",
+        "@plaux/dict": "latest",
+        "@plaux/util": "latest",
+        "@plaux/utils": "latest"
+    }
+}

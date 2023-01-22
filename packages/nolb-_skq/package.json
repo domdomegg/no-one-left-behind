@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_skq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@skqist2205/common": "latest",
+        "@skqksh/cameraroll": "latest",
+        "@skqksh/caver-js": "latest",
+        "@skqksh/caver2": "latest",
+        "@skqksh/ozone.js": "latest",
+        "@skqksh/react-native-image-crop-tools": "latest",
+        "@skqksh/wallet-provider": "latest"
+    }
+}

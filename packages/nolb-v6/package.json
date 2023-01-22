@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-v6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "v6": "latest",
+        "v6-game-server": "latest",
+        "v6-machine": "latest",
+        "v6-server-core": "latest",
+        "v6-ws": "latest",
+        "v6.js": "latest",
+        "v6_preloadimg": "latest",
+        "v6_rf": "latest",
+        "v6dns": "latest",
+        "v6e": "latest",
+        "v6e-redux-form": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_panw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@panw3i/count-down": "latest",
+        "@panw3i/date-picker": "latest",
+        "@panw3i/do-later": "latest",
+        "@panw3i/emitter": "latest",
+        "@panw3i/event-bus": "latest",
+        "@panw3i/form-create": "latest",
+        "@panw3i/icons": "latest",
+        "@panw3i/img-view": "latest",
+        "@panw3i/iview": "latest",
+        "@panw3i/lazy": "latest",
+        "@panw3i/lazy-loading": "latest",
+        "@panw3i/node-command": "latest",
+        "@panw3i/save-in-local": "latest",
+        "@panw3i/time-picker": "latest",
+        "@panw3i/vue-components": "latest",
+        "@panw3i/vue-ctk-date-time-picker": "latest",
+        "@panw3i/vue-test": "latest",
+        "@panweiji/common": "latest",
+        "@panweiji/components": "latest",
+        "@panweiji/components-vue": "latest",
+        "@panweiji/core": "latest",
+        "@panweiji/util": "latest",
+        "@panweiji/utils": "latest",
+        "@panwj-cli/command": "latest",
+        "@panwj-cli/core": "latest",
+        "@panwj-cli/utils": "latest",
+        "@panwj/test-changelog": "latest"
+    }
+}

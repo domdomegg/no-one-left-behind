@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-ts6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ts6-core": "latest",
+        "ts6-main-sections": "latest",
+        "ts6-main-sections-beta": "latest",
+        "ts6-services": "latest",
+        "ts6-services-test": "latest",
+        "ts698": "latest",
+        "ts698-miniapp": "latest"
+    }
+}

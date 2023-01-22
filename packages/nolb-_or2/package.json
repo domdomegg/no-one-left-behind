@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_or2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@or2008/editor-link": "latest",
+        "@or2008/embed": "latest",
+        "@or2008/eth-tools": "latest"
+    }
+}

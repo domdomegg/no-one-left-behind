@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-async-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "async-q": "latest",
+        "async-qps-throttle": "latest",
+        "async-query-selector": "latest",
+        "async-queue": "latest",
+        "async-queue-adapter": "latest",
+        "async-queue-chain": "latest",
+        "async-queue-helper": "latest",
+        "async-queue-improved": "latest",
+        "async-queue-js": "latest",
+        "async-queue-manager": "latest",
+        "async-queue-processor": "latest",
+        "async-queue-progress": "latest",
+        "async-queue-promise": "latest",
+        "async-queue-stream": "latest",
+        "async-queueify": "latest",
+        "async-queues": "latest",
+        "async-queues-with-messaging": "latest"
+    }
+}

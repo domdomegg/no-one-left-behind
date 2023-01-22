@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_node_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@node_dev_php/js-encoding": "latest",
+        "@node_dev_php/useragent-js": "latest",
+        "@node_js/colors": "latest",
+        "@node_js/date": "latest",
+        "@node_js/http": "latest",
+        "@node_js/keyword-filter": "latest",
+        "@node_js/logger": "latest",
+        "@node_js/movedir": "latest",
+        "@node_js/progress": "latest",
+        "@node_js/rmdir": "latest",
+        "@node_js/unrar": "latest",
+        "@node_ms/common": "latest"
+    }
+}

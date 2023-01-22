@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_nez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nezam/firebase-chat-manager": "latest",
+        "@nezam/firebase-chat-ready-api": "latest",
+        "@nezam/graphql-react-express-boilerplate": "latest",
+        "@nezasa/common": "latest",
+        "@nezha2019/react-chat-widget": "latest",
+        "@nezi/cli": "latest",
+        "@neztore/rbx-verify": "latest",
+        "@nezuchan/cordis-brokers": "latest",
+        "@nezuchan/i18n": "latest",
+        "@nezuchan/kurasuta": "latest",
+        "@nezuchan/redis-collection": "latest",
+        "@nezukochann/nezchan-api": "latest",
+        "@nezuminetwork/kit": "latest",
+        "@nezuminetwork/ui99": "latest",
+        "@nezuminetwork/uikit": "latest",
+        "@nezuminetwork/uikitt": "latest",
+        "@nezumiswap99/ui": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-colm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "colm": "latest",
+        "colmado": "latest",
+        "colmcjf": "latest",
+        "colmeia-axios": "latest",
+        "colmeia-cordova-plugin-audioinput": "latest",
+        "colmeiacomponents": "latest",
+        "colmena-common": "latest",
+        "colmena-node-base": "latest",
+        "colmena-waveform-playlist": "latest"
+    }
+}

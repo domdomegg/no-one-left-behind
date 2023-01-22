@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-react-wr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-wrangler": "latest",
+        "react-wrap": "latest",
+        "react-wrap-balancer": "latest",
+        "react-wrap-children": "latest",
+        "react-wrap-display-name": "latest",
+        "react-wrap-request": "latest",
+        "react-wrap-webcomponent": "latest",
+        "react-wrap-with-context": "latest",
+        "react-wrapchildren": "latest",
+        "react-wrappable-fluid-grid": "latest",
+        "react-wrapped-grid-layout": "latest",
+        "react-wrapped-input": "latest",
+        "react-wrapper": "latest",
+        "react-wrapper-components": "latest",
+        "react-wrapper-dubai": "latest",
+        "react-wrapper-mapkitjs": "latest",
+        "react-wrapper-sdk": "latest",
+        "react-wrappers": "latest",
+        "react-wrappy": "latest",
+        "react-wrappy-text": "latest",
+        "react-wrench": "latest",
+        "react-write": "latest",
+        "react-write-file-test": "latest",
+        "react-writer": "latest",
+        "react-writing-effect": "latest",
+        "react-wrong": "latest"
+    }
+}

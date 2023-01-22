@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-r5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "r5": "latest",
+        "r5-ui": "latest",
+        "r53ddns": "latest",
+        "r5d4-frame-print": "latest",
+        "r5n": "latest"
+    }
+}

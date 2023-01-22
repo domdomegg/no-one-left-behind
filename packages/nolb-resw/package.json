@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-resw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reswap": "latest",
+        "resware": "latest",
+        "reswarm": "latest",
+        "reswipe": "latest",
+        "reswiper": "latest",
+        "reswitch": "latest",
+        "reswitcher": "latest",
+        "resword-test-package": "latest"
+    }
+}

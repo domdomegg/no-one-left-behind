@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_abw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@abw/badger": "latest",
+        "@abw/badger-database": "latest",
+        "@abw/badger-timestamp": "latest",
+        "@abw/badger-ui": "latest",
+        "@abw/badger-utils": "latest",
+        "@abw/react-context-generator": "latest",
+        "@abwhb/gatsby-theme-cara": "latest",
+        "@abwhop/rest_module": "latest"
+    }
+}

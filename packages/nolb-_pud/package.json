@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_pud",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pudding-joker-cli/command": "latest",
+        "@pudding-joker-cli/core": "latest",
+        "@pudding-joker-cli/exec": "latest",
+        "@pudding-joker-cli/format-path": "latest",
+        "@pudding-joker-cli/get-npm-info": "latest",
+        "@pudding-joker-cli/init": "latest",
+        "@pudding-joker-cli/log": "latest",
+        "@pudding-joker-cli/package": "latest",
+        "@pudding-joker-cli/utils": "latest",
+        "@pudelgulasch/random-numbers": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-evv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "evv": "latest",
+        "evv-cli": "latest",
+        "evv-platform": "latest",
+        "evv-platform-init": "latest",
+        "evv-start": "latest",
+        "evvax-ui": "latest",
+        "evve-react-cookies-policy": "latest",
+        "evvnt-submission-form-angular": "latest",
+        "evvshexbraingames": "latest",
+        "evvt-start": "latest"
+    }
+}

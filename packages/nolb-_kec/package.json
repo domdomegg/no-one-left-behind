@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_kec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kecha/vue3-component-library": "latest",
+        "@keckelt/ml-prov": "latest",
+        "@keckelt/tsne": "latest",
+        "@keco339/rabbitmq-client": "latest",
+        "@kecrily/eslint-config": "latest",
+        "@kecskesk/safari-ten-polyfills": "latest"
+    }
+}

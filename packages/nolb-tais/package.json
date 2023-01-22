@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-tais",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "taisei": "latest",
+        "taisha-tianshu": "latest",
+        "taishi8117-hwrld": "latest",
+        "taishicidemo": "latest",
+        "taishun": "latest",
+        "taisort": "latest",
+        "taisui-lunming-zhinan": "latest"
+    }
+}

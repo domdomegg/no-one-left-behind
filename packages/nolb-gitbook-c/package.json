@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-gitbook-c",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gitbook-cli": "latest",
+        "gitbook-commander": "latest",
+        "gitbook-comment": "latest",
+        "gitbook-completions": "latest",
+        "gitbook-convert": "latest",
+        "gitbook-core": "latest",
+        "gitbook-customize-header": "latest"
+    }
+}

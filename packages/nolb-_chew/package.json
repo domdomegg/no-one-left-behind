@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_chew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chewbank/argv-router": "latest",
+        "@chewbank/consoln": "latest",
+        "@chewbank/ecalculator": "latest",
+        "@chewbank/ioa": "latest",
+        "@chewbank/ioa-auth": "latest",
+        "@chewbank/ioa-config": "latest",
+        "@chewbank/ioa-koa": "latest",
+        "@chewbank/ioa-mmc": "latest",
+        "@chewbank/ioa-nats": "latest",
+        "@chewbank/ioa-oass": "latest",
+        "@chewbank/ioa-ormv": "latest",
+        "@chewbank/ioa-router": "latest",
+        "@chewbank/ioa-socket": "latest",
+        "@chewbank/jmr": "latest",
+        "@chewbank/jtf": "latest",
+        "@chewbank/lloader": "latest",
+        "@chewbank/nft": "latest",
+        "@chewbank/nwxpay": "latest",
+        "@chewbank/oass": "latest",
+        "@chewbank/ormv": "latest",
+        "@chewbank/typea": "latest",
+        "@chewhx/create-ts-playground": "latest",
+        "@chewhx/google-books": "latest",
+        "@chewhx/paynowqr": "latest",
+        "@chewhx/project-cli": "latest",
+        "@chewhx/use-todo": "latest"
+    }
+}

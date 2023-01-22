@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-babel-f",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-fast-presets": "latest",
+        "babel-fast-react": "latest",
+        "babel-fast-react-core": "latest",
+        "babel-fast-react-loader": "latest",
+        "babel-features": "latest",
+        "babel-file": "latest",
+        "babel-file-loader": "latest",
+        "babel-filenamespace": "latest",
+        "babel-fimba-plugin": "latest",
+        "babel-flatten-presets": "latest",
+        "babel-flow": "latest",
+        "babel-flow-identifiers": "latest",
+        "babel-flow-scope": "latest",
+        "babel-flow-types": "latest",
+        "babel-flow-webpack-plugin": "latest",
+        "babel-fly-helper": "latest",
+        "babel-focus": "latest",
+        "babel-for-path": "latest",
+        "babel-formatted-log": "latest",
+        "babel-free-variables": "latest",
+        "babel-front-end-ify": "latest",
+        "babel-fs": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-temp_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "temp.ts.basic": "latest",
+        "temp_02": "latest",
+        "temp_array_map_h5": "latest",
+        "temp_converter": "latest",
+        "temp_js_logger": "latest",
+        "temp_lion": "latest",
+        "temp_mail_otp_template": "latest",
+        "temp_map": "latest",
+        "temp_npm": "latest",
+        "temp_nsu-library": "latest",
+        "temp_proxy": "latest",
+        "temp_publish_test": "latest",
+        "temp_rsy": "latest",
+        "temp_test123": "latest"
+    }
+}

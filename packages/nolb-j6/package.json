@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-j6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "j6": "latest",
+        "j6-cms-core": "latest",
+        "j6-utils": "latest",
+        "j606888-npm-test": "latest",
+        "j6pack": "latest",
+        "j6t": "latest"
+    }
+}

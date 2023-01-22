@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-angular-2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "angular-2": "latest",
+        "angular-2-accordian": "latest",
+        "angular-2-braintree": "latest",
+        "angular-2-console-pipe": "latest",
+        "angular-2-data-table": "latest",
+        "angular-2-data-table-bootstrap4": "latest",
+        "angular-2-daterange-picker": "latest",
+        "angular-2-daterangepicker": "latest",
+        "angular-2-debugger-pipe": "latest",
+        "angular-2-dropdown": "latest",
+        "angular-2-dropdown-multiselect": "latest",
+        "angular-2-dropdown-multiselect-custom": "latest",
+        "angular-2-dropdown-multiselect-edited": "latest",
+        "angular-2-holderjs": "latest",
+        "angular-2-local-storage": "latest",
+        "angular-2-local-storage-encrypt": "latest",
+        "angular-2-local-storage-sec": "latest",
+        "angular-2-multiple-selection": "latest",
+        "angular-2-rails-starterkit": "latest",
+        "angular-2-redux": "latest",
+        "angular-2-test-dezza": "latest",
+        "angular-2mundos-cropperjs": "latest",
+        "angular-2mundos-dev-cropperjs": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-jest-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jest-namespace-imports-transformer": "latest",
+        "jest-native": "latest",
+        "jest-nest": "latest",
+        "jest-network-mock": "latest",
+        "jest-next-dynamic": "latest",
+        "jest-next-dynamic-ts": "latest",
+        "jest-ngredux-mock": "latest",
+        "jest-nock": "latest",
+        "jest-nock-back": "latest",
+        "jest-nock-record": "latest",
+        "jest-nock-vcr": "latest",
+        "jest-node-exports-resolver": "latest",
+        "jest-node-http": "latest",
+        "jest-node-localstorage-simple-mock": "latest",
+        "jest-nrwl-wrapper": "latest",
+        "jest-num-close-with": "latest",
+        "jest-number-formatter": "latest",
+        "jest-nunit-reporter": "latest",
+        "jest-nunjucks": "latest",
+        "jest-nyan-reporter": "latest",
+        "jest-nyancat-reporter": "latest"
+    }
+}

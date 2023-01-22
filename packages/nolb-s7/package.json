@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-s7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "s7": "latest",
+        "s7-chat-widget": "latest",
+        "s7-scl-gen": "latest",
+        "s700": "latest",
+        "s72-kibble": "latest",
+        "s7a-tools": "latest",
+        "s7airlines-chat-widget": "latest",
+        "s7client": "latest",
+        "s7client-ts": "latest",
+        "s7dzdggxm9v29ki2s1cykztjzveurn7o": "latest",
+        "s7reader": "latest",
+        "s7vplc": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_onm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@onmoon/eslint-config": "latest",
+        "@onmoon/pg-tx": "latest",
+        "@onmoon/prettier-config": "latest",
+        "@onmoon/react-sdk": "latest",
+        "@onmoon/tsconfigs": "latest",
+        "@onmuga/sdk": "latest"
+    }
+}

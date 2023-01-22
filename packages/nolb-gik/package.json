@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-gik",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gik": "latest",
+        "gik-config": "latest",
+        "gik-doc": "latest",
+        "gik-hub-frame-print": "latest",
+        "gik2jl-test": "latest",
+        "gike": "latest",
+        "giki": "latest",
+        "giki-cli": "latest",
+        "giki-helper": "latest"
+    }
+}

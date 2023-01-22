@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-guh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "guh": "latest",
+        "guh-core": "latest",
+        "guhaapi": "latest",
+        "guhao": "latest",
+        "guhao-ui": "latest",
+        "guheman": "latest",
+        "guhero-sfdx-helper": "latest",
+        "guheswap": "latest",
+        "guheswap-sdk": "latest",
+        "guhit": "latest",
+        "guhjyg": "latest",
+        "guhui_test_00": "latest"
+    }
+}

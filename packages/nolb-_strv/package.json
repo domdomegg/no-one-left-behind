@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_strv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@strv/commitlint-config": "latest",
+        "@strv/docs": "latest",
+        "@strv/eslint-config-base": "latest",
+        "@strv/eslint-config-graphql": "latest",
+        "@strv/eslint-config-javascript": "latest",
+        "@strv/eslint-config-mocha": "latest",
+        "@strv/eslint-config-node": "latest",
+        "@strv/eslint-config-react": "latest",
+        "@strv/eslint-config-react-native": "latest",
+        "@strv/eslint-config-typescript": "latest",
+        "@strv/gatsby-theme-core": "latest",
+        "@strv/heimdall": "latest",
+        "@strv/prettier-config": "latest",
+        "@strv/react-scripts": "latest",
+        "@strv/react-sliders": "latest",
+        "@strv/remark-config": "latest",
+        "@strv/stylelint-config-styled-components": "latest",
+        "@strv/textlint-rule-preset-strv": "latest"
+    }
+}

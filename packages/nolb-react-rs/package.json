@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-react-rs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-rs-creator": "latest",
+        "react-rs-effects": "latest",
+        "react-rs-icon": "latest",
+        "react-rsc": "latest",
+        "react-rsk-router": "latest",
+        "react-rss": "latest",
+        "react-rss-feed": "latest",
+        "react-rss-podcast-player": "latest"
+    }
+}

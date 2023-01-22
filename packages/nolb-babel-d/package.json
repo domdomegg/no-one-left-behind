@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-babel-d",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-d": "latest",
+        "babel-deco": "latest",
+        "babel-decorators-runtime": "latest",
+        "babel-dedentor": "latest",
+        "babel-default": "latest",
+        "babel-demo-plugin": "latest",
+        "babel-demo-tzy": "latest",
+        "babel-dependencies": "latest",
+        "babel-dependency-parser": "latest",
+        "babel-deps": "latest",
+        "babel-dev-server": "latest",
+        "babel-doctor": "latest",
+        "babel-dom-selector": "latest",
+        "babel-dop": "latest",
+        "babel-dts-generator": "latest"
+    }
+}

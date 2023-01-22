@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-hia",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hia": "latest",
+        "hia-common-css": "latest",
+        "hia-multilingual-vue-template": "latest",
+        "hiae-react-input-mask": "latest",
+        "hiahdi-12321": "latest",
+        "hialeah": "latest",
+        "hiaman": "latest",
+        "hiap": "latest",
+        "hiapp": "latest",
+        "hiasm-scheme": "latest",
+        "hiatmp-core": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-fasi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fasih-cli-calculator": "latest",
+        "fasih-guessing-game": "latest",
+        "fasih4444": "latest",
+        "fasioncode": "latest"
+    }
+}

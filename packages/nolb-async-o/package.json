@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-async-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "async-oauth-popup": "latest",
+        "async-object-context": "latest",
+        "async-objects": "latest",
+        "async-observable": "latest",
+        "async-ocrad": "latest",
+        "async-odoo-xmlrpc": "latest",
+        "async-off": "latest",
+        "async-olbou": "latest",
+        "async-on-exit": "latest",
+        "async-once": "latest",
+        "async-once-save": "latest",
+        "async-openssl": "latest",
+        "async-operation": "latest",
+        "async-operations": "latest",
+        "async-operations-transaction": "latest",
+        "async-ops": "latest",
+        "async-optics": "latest",
+        "async-optimization": "latest",
+        "async-option": "latest",
+        "async-optional": "latest",
+        "async-or": "latest",
+        "async-or-swim": "latest",
+        "async-order": "latest",
+        "async-os-utils": "latest",
+        "async-output-pool": "latest",
+        "async-oxigraph": "latest"
+    }
+}

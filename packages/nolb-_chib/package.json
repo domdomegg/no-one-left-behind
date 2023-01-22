@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_chib",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chibbs/hubspotapi": "latest",
+        "@chibicode/logchain": "latest",
+        "@chibicode/vscode-theme-generator": "latest",
+        "@chibikookie/antwar": "latest",
+        "@chibikookie/antwar-helpers": "latest",
+        "@chibikookie/antwar-interactive": "latest",
+        "@chibikookie/antwar-rss-plugin": "latest",
+        "@chibikookie/datachecker": "latest",
+        "@chibikookie/poulet": "latest",
+        "@chibikookie/styled-components": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-homet",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hometable": "latest",
+        "hometabs": "latest",
+        "hometabs-hci": "latest",
+        "hometest": "latest",
+        "hometest-test": "latest",
+        "hometown": "latest",
+        "hometown-components": "latest",
+        "hometown_cli": "latest",
+        "hometown_cpu": "latest",
+        "hometown_dir": "latest",
+        "hometree": "latest",
+        "hometutorpac": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_unv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@unveiler.io/react-native-client": "latest",
+        "@unvented/bytes": "latest",
+        "@unvented/delete": "latest",
+        "@unvented/empty": "latest",
+        "@unvented/files": "latest",
+        "@unvented/translate": "latest",
+        "@unvrse/react-composite": "latest",
+        "@unvt/charites": "latest",
+        "@unvt/itoma": "latest",
+        "@unvt/kata": "latest",
+        "@unvt/sprite-one": "latest"
+    }
+}

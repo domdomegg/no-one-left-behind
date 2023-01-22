@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-lyi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lyi": "latest",
+        "lyi-base": "latest",
+        "lyi-cli": "latest",
+        "lyi-dev": "latest",
+        "lyi-react-carousel": "latest",
+        "lyi-service-dev": "latest",
+        "lyi-utilities": "latest",
+        "lyiatp": "latest",
+        "lying": "latest",
+        "lying-cli": "latest",
+        "lyipin-assist": "latest",
+        "lyipin-vue-antd": "latest"
+    }
+}

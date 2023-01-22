@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_hiy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hiya-connect/auth": "latest",
+        "@hiya-connect/my-new-app": "latest",
+        "@hiya-doc/app": "latest",
+        "@hiya-toolkit/cli": "latest",
+        "@hiya-toolkit/monitor": "latest",
+        "@hiya-toolkit/utils": "latest",
+        "@hiya620/api-mock": "latest",
+        "@hiya620/ts-parser": "latest",
+        "@hiyurigi/nlp": "latest",
+        "@hiyurigi/simport": "latest"
+    }
+}

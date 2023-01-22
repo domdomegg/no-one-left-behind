@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_vuex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vuex-orm/axios": "latest",
+        "@vuex-orm/core": "latest",
+        "@vuex-orm/plugin-apollo": "latest",
+        "@vuex-orm/plugin-axios": "latest",
+        "@vuex-orm/plugin-change-flags": "latest",
+        "@vuex-orm/plugin-graphql": "latest",
+        "@vuex-orm/plugin-search": "latest",
+        "@vuex-orm/plugin-soft-delete": "latest",
+        "@vuex/koa-webpack": "latest",
+        "@vuexcellent/vuex": "latest",
+        "@vuexpert/ds-vue-2": "latest",
+        "@vuexpert/ds-vue-3": "latest",
+        "@vuexpert/vue-components": "latest",
+        "@vuextnd/core": "latest"
+    }
+}

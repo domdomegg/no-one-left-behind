@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_axs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@axsd-cli-dev/core": "latest",
+        "@axsd-cli-dev/utils": "latest",
+        "@axsemantics/ax-tutorials": "latest",
+        "@axsis/common": "latest",
+        "@axsis/sportfriends-common": "latest",
+        "@axswap/sdk": "latest",
+        "@axsy-dev/metro-bundler": "latest"
+    }
+}

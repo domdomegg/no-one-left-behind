@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-streame",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "streame-cookbook-ckeditor5": "latest",
+        "streamed": "latest",
+        "streamed-tcc-goodness": "latest",
+        "streamedcli": "latest",
+        "streamedemitter": "latest",
+        "streamedian": "latest",
+        "streamedian-umd": "latest",
+        "streamee": "latest",
+        "streamelements": "latest",
+        "streamelements-info": "latest",
+        "streamemitter": "latest",
+        "streamer": "latest",
+        "streamer-chatspot": "latest",
+        "streamer-client": "latest",
+        "streamer-express-lite": "latest",
+        "streamer-fs": "latest",
+        "streamer-market-dashboard": "latest",
+        "streamer.js": "latest",
+        "streamerbot": "latest",
+        "streamers": "latest",
+        "streamex": "latest"
+    }
+}

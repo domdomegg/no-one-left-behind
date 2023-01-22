@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-pue",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pue": "latest",
+        "pue-loader": "latest",
+        "pueblo": "latest",
+        "puer": "latest",
+        "puer-brain-game": "latest",
+        "puer-freemarker": "latest",
+        "puer-freemarker-cli": "latest",
+        "puer-mock": "latest",
+        "puer-proxy": "latest",
+        "puer-ui": "latest",
+        "puerh": "latest",
+        "puerro": "latest",
+        "puerro-test": "latest",
+        "pueue": "latest",
+        "puex": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-gatsby-plugin-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gatsby-plugin-web-font-loader": "latest",
+        "gatsby-plugin-web-monetization": "latest",
+        "gatsby-plugin-web-vitals": "latest",
+        "gatsby-plugin-webfont": "latest",
+        "gatsby-plugin-webfonts": "latest",
+        "gatsby-plugin-webmention": "latest",
+        "gatsby-plugin-webpack-bundle-analyser-v2": "latest",
+        "gatsby-plugin-webpack-bundle-analyzer": "latest",
+        "gatsby-plugin-webpack-entry": "latest",
+        "gatsby-plugin-webpack-size": "latest",
+        "gatsby-plugin-webpack-speed-measure": "latest",
+        "gatsby-plugin-well-known": "latest",
+        "gatsby-plugin-whatshelp": "latest",
+        "gatsby-plugin-why-did-you-render": "latest",
+        "gatsby-plugin-why-did-you-render-redux": "latest",
+        "gatsby-plugin-windicss": "latest",
+        "gatsby-plugin-wings": "latest",
+        "gatsby-plugin-wordpress": "latest",
+        "gatsby-plugin-wordpress-lightbox": "latest",
+        "gatsby-plugin-wordpress-parser": "latest",
+        "gatsby-plugin-wordpress-preview": "latest",
+        "gatsby-plugin-wordsby": "latest",
+        "gatsby-plugin-workbox": "latest",
+        "gatsby-plugin-workerize-loader": "latest",
+        "gatsby-plugin-wp-seo": "latest",
+        "gatsby-plugin-wpgraphql-seo": "latest",
+        "gatsby-plugin-wrap-pages": "latest",
+        "gatsby-plugin-wts": "latest"
+    }
+}

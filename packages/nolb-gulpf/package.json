@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-gulpf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gulpfile": "latest",
+        "gulpfile-boilerplate": "latest",
+        "gulpfile-cli": "latest",
+        "gulpfile-composer": "latest",
+        "gulpfile-config": "latest",
+        "gulpfile-django": "latest",
+        "gulpfile-generator": "latest",
+        "gulpfile-install": "latest",
+        "gulpfile-kopano-webapp-plugin": "latest",
+        "gulpfile-monadnock": "latest",
+        "gulpfile-ninecms": "latest",
+        "gulpfile-preset": "latest",
+        "gulpfile.basics": "latest",
+        "gulpfile.js": "latest",
+        "gulpfile.ts": "latest",
+        "gulpfile_paths": "latest",
+        "gulpfiles": "latest",
+        "gulpfllter": "latest",
+        "gulpforjorden": "latest",
+        "gulpfull": "latest"
+    }
+}

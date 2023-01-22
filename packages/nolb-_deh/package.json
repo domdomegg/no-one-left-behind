@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_deh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dehandecroos/hello-world": "latest",
+        "@dehimer/npmpublish": "latest",
+        "@dehimer/react-native-bubble-select": "latest",
+        "@dehimer/react-native-read-sms": "latest",
+        "@dehteam3/test": "latest",
+        "@dehui/common": "latest"
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-babel-preset-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-preset-u-scripts": "latest",
+        "babel-preset-udemy": "latest",
+        "babel-preset-udemy-website": "latest",
+        "babel-preset-ui5": "latest",
+        "babel-preset-ui5-next": "latest",
+        "babel-preset-ult-app": "latest",
+        "babel-preset-umeboshi": "latest",
+        "babel-preset-umeboshi-react": "latest",
+        "babel-preset-umi": "latest",
+        "babel-preset-unity": "latest",
+        "babel-preset-universal": "latest",
+        "babel-preset-universal-react-app": "latest",
+        "babel-preset-unminify": "latest",
+        "babel-preset-upcoming": "latest",
+        "babel-preset-updated": "latest",
+        "babel-preset-upmp": "latest",
+        "babel-preset-uptil": "latest",
+        "babel-preset-upts": "latest",
+        "babel-preset-urban": "latest",
+        "babel-preset-usecamo": "latest",
+        "babel-preset-ustccjw": "latest",
+        "babel-preset-uukit-app": "latest"
+    }
+}

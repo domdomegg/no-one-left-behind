@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_mew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mew-cli/command": "latest",
+        "@mew-cli/core": "latest",
+        "@mew-cli/exec": "latest",
+        "@mew-cli/format-path": "latest",
+        "@mew-cli/get-npm-info": "latest",
+        "@mew-cli/init": "latest",
+        "@mew-cli/log": "latest",
+        "@mew-cli/package": "latest",
+        "@mew-cli/request": "latest",
+        "@mew-cli/utils": "latest",
+        "@mewhit/maybe-async-ts": "latest",
+        "@mewhit/maybe-ts": "latest",
+        "@mewhit/remote-data-ts": "latest",
+        "@mewis/gatsby-plugin-incendium": "latest",
+        "@mewlab/logger": "latest",
+        "@mewo-js/compiler": "latest",
+        "@mewo-js/core": "latest",
+        "@mewui/core": "latest"
+    }
+}

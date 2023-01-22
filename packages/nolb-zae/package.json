@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-zae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zae": "latest",
+        "zaek": "latest",
+        "zaes-js": "latest",
+        "zaetomat": "latest",
+        "zaets-pobegaec": "latest"
+    }
+}

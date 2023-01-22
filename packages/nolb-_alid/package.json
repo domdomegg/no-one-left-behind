@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_alid",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alidatorjs/is-falsy": "latest",
+        "@alidatorjs/is-greater-than": "latest",
+        "@alidatorjs/is-less-than": "latest",
+        "@alidatorjs/is-truthy": "latest",
+        "@alidatorjs/validator": "latest",
+        "@alidev/text-select": "latest",
+        "@alidogu/datagrid": "latest",
+        "@alidogu/lib-test-vue": "latest",
+        "@alidogu/react-grid": "latest",
+        "@alidoustkani/richtext": "latest",
+        "@alidrus/vue-simple-inline-translation": "latest"
+    }
+}

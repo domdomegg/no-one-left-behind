@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-mods",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mods-server": "latest",
+        "mods-server-sdk": "latest",
+        "mods-server-sdk-simulator": "latest",
+        "mods-server-sdk-test": "latest",
+        "mods-toolkit-api": "latest",
+        "mods-toolkit-core": "latest",
+        "mods-toolkit-plugin-spfx": "latest",
+        "mods2require": "latest",
+        "modsdom-cli": "latest",
+        "modsdom-ui": "latest",
+        "modsearch": "latest",
+        "modsen-test-toast": "latest",
+        "modserv": "latest",
+        "modsfdkfsokfoksde": "latest",
+        "modsha": "latest",
+        "modshared": "latest",
+        "modshot": "latest",
+        "modsl": "latest",
+        "modslice": "latest",
+        "modstache": "latest",
+        "modster": "latest",
+        "modster-plugin-hello-world": "latest",
+        "modstrap": "latest",
+        "modsum-9874": "latest",
+        "modswitch": "latest",
+        "modsyncr": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-react-aj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-ajax": "latest",
+        "react-ajax-client": "latest",
+        "react-ajax-component": "latest",
+        "react-ajax-data-table-component": "latest",
+        "react-ajax-form": "latest",
+        "react-ajax-loader": "latest",
+        "react-ajax-manager": "latest",
+        "react-ajaxdemo": "latest",
+        "react-ajaxing": "latest",
+        "react-ajwah": "latest"
+    }
+}

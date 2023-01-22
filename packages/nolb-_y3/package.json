@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_y3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@y3k00000/after": "latest",
+        "@y3ticorp/authentication": "latest",
+        "@y3ticorp/authentication-dplus": "latest",
+        "@y3ticorp/pickkle": "latest"
+    }
+}

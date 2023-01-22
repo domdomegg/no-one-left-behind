@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-pacc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pacch-ck-build": "latest",
+        "pacch-ds-react": "latest",
+        "pacch-react-libary": "latest",
+        "pacch-react-pwr": "latest",
+        "pacchetto-prova": "latest",
+        "pacchetto_npm_corsi_online": "latest",
+        "pacchettone": "latest",
+        "pacchettostaticusers": "latest",
+        "pacchettostaticusersdemo": "latest",
+        "pacco": "latest",
+        "paccoind-rpc": "latest",
+        "paccurate": "latest"
+    }
+}

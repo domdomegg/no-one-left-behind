@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_datafire_l",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datafire/lambdatest": "latest",
+        "@datafire/landregistry_gov_uk_deed": "latest",
+        "@datafire/languagetool": "latest",
+        "@datafire/launchdarkly": "latest",
+        "@datafire/ldap": "latest",
+        "@datafire/learnifier": "latest",
+        "@datafire/letmc_basic_tier": "latest",
+        "@datafire/letmc_customer": "latest",
+        "@datafire/letmc_diary": "latest",
+        "@datafire/letmc_free_tier": "latest",
+        "@datafire/letmc_maintenance": "latest",
+        "@datafire/letmc_reporting": "latest",
+        "@datafire/likefolio": "latest",
+        "@datafire/link_fish": "latest",
+        "@datafire/linkedin": "latest",
+        "@datafire/linode": "latest",
+        "@datafire/listennotes": "latest",
+        "@datafire/logoraisr": "latest",
+        "@datafire/lotadata": "latest",
+        "@datafire/lucybot_docs": "latest",
+        "@datafire/lufthansa_partner": "latest",
+        "@datafire/lufthansa_public": "latest",
+        "@datafire/lumminary": "latest",
+        "@datafire/lyft": "latest"
+    }
+}

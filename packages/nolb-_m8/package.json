@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_m8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@m860/cerberus": "latest",
+        "@m860/cerberus-babel-plugin-transform": "latest",
+        "@m860/cerberus-cli": "latest",
+        "@m860/opsearch-drawing": "latest",
+        "@m860/react-async-component": "latest",
+        "@m860/react-docgen-markdown": "latest",
+        "@m860/react-mathjax3": "latest",
+        "@m860/react-skeleton": "latest",
+        "@m87wheeler/sc-reset": "latest",
+        "@m87wheeler/use-media-query": "latest",
+        "@m8a/nestjs-typegoose": "latest",
+        "@m8a/quasar-app-extension-apollo": "latest",
+        "@m8agency/cooper-firebase": "latest",
+        "@m8agency/cooper-users": "latest",
+        "@m8e/puppeter-browser": "latest",
+        "@m8e/scrape-gpv": "latest",
+        "@m8x/webp-loader": "latest"
+    }
+}

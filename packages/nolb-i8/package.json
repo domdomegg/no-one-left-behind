@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-i8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "i8": "latest",
+        "i8-icon": "latest",
+        "i8.ae": "latest",
+        "i81n": "latest",
+        "i87y9": "latest",
+        "i8n-auto": "latest",
+        "i8n-autoinsert": "latest",
+        "i8n-test": "latest",
+        "i8xs-selector": "latest",
+        "i8xscore": "latest"
+    }
+}

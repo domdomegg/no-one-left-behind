@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-markn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "markn": "latest",
+        "marknavi-mail-api-hapi": "latest",
+        "marknavi-typescript": "latest",
+        "markneo-frame-print": "latest",
+        "marknetic-lite-map": "latest",
+        "marknjoroge-frame-print": "latest",
+        "marknow": "latest"
+    }
+}

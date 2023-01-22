@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-extw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "extw": "latest",
+        "extwee": "latest",
+        "extwee-dom": "latest",
+        "extws-adapter-redis": "latest",
+        "extws-client": "latest",
+        "extws-driver-uws": "latest",
+        "extws-driver-ws": "latest",
+        "extws-server": "latest"
+    }
+}

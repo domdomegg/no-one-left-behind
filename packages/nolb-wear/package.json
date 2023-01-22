@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-wear",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wear": "latest",
+        "wear-glove": "latest",
+        "wearable-ble": "latest",
+        "wearable-contracts": "latest",
+        "wearable-ml-server": "latest",
+        "wearables": "latest",
+        "wearables-contracts": "latest",
+        "wearbuddy_common_js": "latest",
+        "weare-api": "latest",
+        "weare-phantomjs-html": "latest",
+        "weare-soap": "latest",
+        "weare-template-mt": "latest",
+        "wearepush-react-native-calendars": "latest",
+        "wearer": "latest",
+        "wearesho-preload-webpack-plugin": "latest",
+        "wearevox": "latest",
+        "wearevox_frontend_assets": "latest",
+        "wearher-cli-full": "latest",
+        "wearml": "latest",
+        "wearnes": "latest",
+        "wearth-jh": "latest",
+        "wearticle": "latest",
+        "weary": "latest"
+    }
+}

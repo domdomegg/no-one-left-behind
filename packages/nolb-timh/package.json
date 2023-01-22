@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-timh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "timh-dva-core": "latest",
+        "timhart-cw-frame-print": "latest",
+        "timhausweilers-resume": "latest",
+        "timhortons": "latest",
+        "timhutable": "latest",
+        "timhwang21-esformatter": "latest",
+        "timhwang21-gulp-esformatter": "latest",
+        "timhwang21-react-popover": "latest",
+        "timhwang21-redux-form": "latest"
+    }
+}

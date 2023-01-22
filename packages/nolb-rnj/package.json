@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-rnj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rnj": "latest",
+        "rnjav": "latest",
+        "rnjs": "latest",
+        "rnjs-admvue": "latest",
+        "rnjs-core": "latest",
+        "rnjs-editable": "latest",
+        "rnjs-flexible": "latest",
+        "rnjs-helper": "latest",
+        "rnjs-hooks": "latest",
+        "rnjs-swagger": "latest",
+        "rnjs-topology": "latest",
+        "rnjs-uniapp": "latest",
+        "rnjs-v1": "latest",
+        "rnjs-webapp": "latest",
+        "rnjs-webpack-plugin-deltestcode": "latest",
+        "rnjs-webpack-plugin-flexible": "latest",
+        "rnjs-webpack-plugin-nunjucks": "latest"
+    }
+}

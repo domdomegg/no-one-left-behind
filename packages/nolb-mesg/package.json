@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-mesg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mesg": "latest",
+        "mesg-cli": "latest",
+        "mesg-cli-test": "latest",
+        "mesg-js": "latest",
+        "mesg-pusher": "latest",
+        "mesglog": "latest"
+    }
+}

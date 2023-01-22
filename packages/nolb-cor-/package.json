@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-cor-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cor-auth-service": "latest",
+        "cor-environment-service": "latest",
+        "cor-lang": "latest",
+        "cor-state": "latest"
+    }
+}

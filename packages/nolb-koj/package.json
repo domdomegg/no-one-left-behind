@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-koj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "koj": "latest",
+        "koj-status": "latest",
+        "kojak": "latest",
+        "kojan-test": "latest",
+        "koji": "latest",
+        "koji-components-test-repo": "latest",
+        "koji-lang": "latest",
+        "koji-leaderboard-api": "latest",
+        "koji-module": "latest",
+        "koji-react-leaderboard": "latest",
+        "koji-tools": "latest",
+        "kojikoji0822": "latest",
+        "kojimation": "latest",
+        "kojin-cli": "latest",
+        "kojiro-image-generation": "latest",
+        "kojiro-test-package": "latest",
+        "kojirosaito": "latest",
+        "kojitake-ui": "latest",
+        "kojo": "latest",
+        "kojo-zil": "latest",
+        "kojp": "latest",
+        "kojs": "latest"
+    }
+}

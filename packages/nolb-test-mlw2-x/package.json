@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-test-mlw2-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "test-mlw2-xebec-duchy-canna-feyer": "latest",
+        "test-mlw2-xenon-jotas-scurs-hamal": "latest",
+        "test-mlw2-xylyl-train-early-strid": "latest",
+        "test-mlw2-xysti-befit": "latest"
+    }
+}

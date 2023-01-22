@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-vak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vak": "latest",
+        "vak-winter": "latest",
+        "vaka": "latest",
+        "vakavic": "latest",
+        "vake": "latest",
+        "vaki": "latest",
+        "vaki-epayco-node": "latest",
+        "vakil-telegram": "latest",
+        "vakinha": "latest",
+        "vakit": "latest",
+        "vakki": "latest",
+        "vakoo": "latest",
+        "vakt": "latest",
+        "vakt-components": "latest",
+        "vakt-components-test": "latest"
+    }
+}

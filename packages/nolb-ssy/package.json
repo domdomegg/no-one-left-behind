@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-ssy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ssy-cli": "latest",
+        "ssy-create-page": "latest",
+        "ssy-demo": "latest",
+        "ssy-example-block": "latest",
+        "ssy-lib": "latest",
+        "ssy-my-material": "latest",
+        "ssy-npm-component": "latest",
+        "ssy-poicc-ui-vite": "latest",
+        "ssy-publish": "latest",
+        "ssy-test-module": "latest",
+        "ssy-ui": "latest",
+        "ssy-ui-npm": "latest",
+        "ssy-ui-vite": "latest",
+        "ssy-ui-vite-flobby": "latest",
+        "ssy_text": "latest",
+        "ssy_uti": "latest",
+        "ssyk": "latest",
+        "ssyl-components": "latest",
+        "ssync": "latest",
+        "ssyt-mini-slider": "latest",
+        "ssyy-be-request": "latest",
+        "ssyy-button": "latest",
+        "ssyy-form": "latest",
+        "ssyy-formitem": "latest",
+        "ssyy-input": "latest",
+        "ssyy-steps": "latest",
+        "ssyy-tracker": "latest",
+        "ssyyxx": "latest"
+    }
+}

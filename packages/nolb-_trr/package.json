@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_trr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trrack/core": "latest",
+        "@trrack/redux": "latest",
+        "@trrxitte/traaittcash-crypto": "latest",
+        "@trrxitte/traaittcash-node-monitor": "latest",
+        "@trrxitte/traaittcash-rpc": "latest",
+        "@trrxitte/traaittcash-utils": "latest",
+        "@trrxitte/traaittcash-wallet-backend": "latest",
+        "@trrxitte/traaittplatform-rpc": "latest",
+        "@trrxitte/xtcashnetwork-ha": "latest"
+    }
+}

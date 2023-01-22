@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-canu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "canuck-js": "latest",
+        "canuse-pc": "latest",
+        "canuse-ui": "latest",
+        "canuse-web-library": "latest",
+        "canusefetchstream": "latest"
+    }
+}

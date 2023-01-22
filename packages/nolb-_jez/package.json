@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_jez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jezeropay/sdk-js": "latest",
+        "@jezmaghuyop/ngx-lazy-element": "latest",
+        "@jezzamondev/common": "latest",
+        "@jezzatlse/tiny": "latest",
+        "@jezzs2k/react-native-controlled-mentions": "latest"
+    }
+}

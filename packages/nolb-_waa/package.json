@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_waa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@waaark/luge": "latest",
+        "@waakeme_up/waakeme_up": "latest",
+        "@waakeme_up/waakeme_up-react-startup": "latest",
+        "@waakif/waakif-core": "latest",
+        "@waan/core": "latest",
+        "@waape/mongoose-float": "latest",
+        "@waapi/boilerplate-generator-node": "latest",
+        "@waapi/multiverse": "latest",
+        "@waasabi-ui/cta": "latest",
+        "@waasabi-ui/experience": "latest",
+        "@waasabi-ui/faq": "latest",
+        "@waasabi-ui/footer": "latest",
+        "@waasabi-ui/home-hero": "latest",
+        "@waasabi-ui/icon": "latest",
+        "@waasabi-ui/intro": "latest",
+        "@waasabi-ui/mapview": "latest",
+        "@waasabi-ui/masonry-gallery": "latest",
+        "@waasabi-ui/menu-cafe": "latest",
+        "@waasabi-ui/navbar-menu": "latest",
+        "@waasabi-ui/open-info": "latest",
+        "@waasabi-ui/parallax": "latest",
+        "@waasabi-ui/separator": "latest",
+        "@waasabi-ui/services": "latest",
+        "@waasabi-ui/testimonials": "latest",
+        "@waasabi-ui/waasabi-ui": "latest",
+        "@waavi/react-scripts": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-vue-cli-plugin-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cli-plugin-octopus-pro": "latest",
+        "vue-cli-plugin-odslogin": "latest",
+        "vue-cli-plugin-odsnavtest": "latest",
+        "vue-cli-plugin-oembed": "latest",
+        "vue-cli-plugin-onix-base": "latest",
+        "vue-cli-plugin-optimize": "latest",
+        "vue-cli-plugin-otodev-dospaces-deployer": "latest",
+        "vue-cli-plugin-otodev-ssh-deployer": "latest",
+        "vue-cli-plugin-oview": "latest"
+    }
+}

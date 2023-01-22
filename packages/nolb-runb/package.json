@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-runb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "runbaby": "latest",
+        "runbar": "latest",
+        "runbash": "latest",
+        "runbatch": "latest",
+        "runbc": "latest",
+        "runbg": "latest",
+        "runbir-ui": "latest",
+        "runbitman": "latest",
+        "runbook": "latest",
+        "runbox": "latest",
+        "runbox-mailparser": "latest",
+        "runbox-searchindex": "latest",
+        "runbox7lib": "latest",
+        "runbpm-bpmn-moddle": "latest",
+        "runbpm-js-properties-panel": "latest",
+        "runbx": "latest"
+    }
+}

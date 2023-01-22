@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-inw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "inw-file-uploader": "latest",
+        "inward": "latest",
+        "inward-infiniti-instore-server": "latest",
+        "inwasm": "latest",
+        "inweb-survey": "latest",
+        "inwentarz": "latest",
+        "inwerter": "latest",
+        "inwire-end": "latest",
+        "inwork": "latest",
+        "inwu-uikit": "latest",
+        "inwwt": "latest",
+        "inwx": "latest",
+        "inwx-apply": "latest"
+    }
+}

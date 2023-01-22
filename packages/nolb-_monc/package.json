@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_monc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@moncareyws/foundation-perfect-scrollbar": "latest",
+        "@moncareyws/foundation-select": "latest",
+        "@monceeef/expo-images-picker": "latest",
+        "@monceeef/react-daterange-picker": "latest",
+        "@monceeef/react-native-version-check-expo": "latest",
+        "@monchilin/countdown": "latest",
+        "@monchilin/react-native-dropdown": "latest",
+        "@monchilin/react-native-vertical-tabs": "latest"
+    }
+}

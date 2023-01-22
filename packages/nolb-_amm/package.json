@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_amm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@amm834/luhn": "latest",
+        "@ammadbaig10/vue-advance-search-box": "latest",
+        "@ammar.khalid/dialog-box": "latest",
+        "@ammar.khalid/dialog-box-2": "latest",
+        "@ammar.kusow/lotide": "latest",
+        "@ammarahmed/notifee-react-native": "latest",
+        "@ammarahmed/react-native-geckoview": "latest",
+        "@ammarahmed/react-native-sodium": "latest",
+        "@ammarali29/tiny": "latest",
+        "@ammarlakis/apierrors": "latest",
+        "@ammarrabie/ngx-translate-extract": "latest",
+        "@ammio/core": "latest",
+        "@ammio/platform-node": "latest",
+        "@ammogtickets/common": "latest",
+        "@ammora/ionic-cache": "latest",
+        "@ammora/ionic-common": "latest",
+        "@ammora/ionic-db": "latest",
+        "@ammora/ionic-http": "latest",
+        "@ammora/macos-vpn": "latest",
+        "@ammoti/image-reducer": "latest",
+        "@ammswap/core": "latest",
+        "@ammswap/sdk": "latest",
+        "@ammunition/core": "latest",
+        "@ammunition/log": "latest",
+        "@ammunition/sunflower": "latest"
+    }
+}

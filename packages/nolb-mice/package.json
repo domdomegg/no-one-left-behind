@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-mice",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mice": "latest",
+        "mice-city-data": "latest",
+        "mice-log": "latest",
+        "mice-params": "latest",
+        "mice-plug": "latest",
+        "mice.js": "latest",
+        "mice.trap": "latest",
+        "micelid__vue-lib-demo": "latest",
+        "micelius": "latest",
+        "micell": "latest",
+        "micellium": "latest",
+        "micenhat12": "latest",
+        "micepiece": "latest",
+        "miceroux": "latest",
+        "micex.api": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-retyped-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "retyped-yamljs-tsd-ambient": "latest",
+        "retyped-yandex-money-sdk-tsd-ambient": "latest",
+        "retyped-yargs-tsd-ambient": "latest",
+        "retyped-ydn-db-tsd-ambient": "latest",
+        "retyped-yeoman-generator-tsd-ambient": "latest",
+        "retyped-yosay-tsd-ambient": "latest",
+        "retyped-youtube-tsd-ambient": "latest",
+        "retyped-yui-tsd-ambient": "latest"
+    }
+}

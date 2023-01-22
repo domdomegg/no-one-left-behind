@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_fz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fz-pwc/test-a": "latest",
+        "@fz-pwc/test-b": "latest",
+        "@fz6m/eslint-plugin-sakina": "latest",
+        "@fz6m/skn": "latest",
+        "@fzak1/nestjs-redoc": "latest",
+        "@fzed51/react-input": "latest",
+        "@fzed51/react-ui": "latest",
+        "@fzed51/webpack-config": "latest",
+        "@fzjs-web-cli/core": "latest",
+        "@fzjs-web-cli/utils": "latest",
+        "@fzkhan19/datetime": "latest",
+        "@fzo/babel-preset-app": "latest",
+        "@fzo/eslint-config-app": "latest",
+        "@fzo/fzo-cli": "latest",
+        "@fzo/fzo-generator": "latest",
+        "@fzo/fzo-plugin-babel": "latest",
+        "@fzo/fzo-plugin-eslint": "latest",
+        "@fzo/fzo-server": "latest",
+        "@fzo/fzo-service": "latest",
+        "@fzo/fzo-utils": "latest",
+        "@fztgettix/common": "latest",
+        "@fztickets/common": "latest",
+        "@fzuxiefeng/cli": "latest",
+        "@fzuxiefeng/templates": "latest",
+        "@fzxs8/it-search1": "latest",
+        "@fzznk/form-tools": "latest",
+        "@fzznk/reusable-modals": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-moba",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "moba-matching": "latest",
+        "moba-test-component": "latest",
+        "mobact": "latest",
+        "mobagel-node-sdk": "latest",
+        "mobai-utils": "latest",
+        "mobaihehk": "latest",
+        "mobak-nodejs-xml": "latest",
+        "moban": "latest",
+        "moban-cli": "latest",
+        "moban-ui": "latest",
+        "mobanfabupublic": "latest",
+        "mobang": "latest",
+        "mobao-cordova-plugin-inappbrowser": "latest",
+        "mobase": "latest",
+        "mobauth": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-mark_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mark.js": "latest",
+        "mark.js-clone": "latest",
+        "mark.min.js": "latest",
+        "mark.ts": "latest",
+        "mark_cltdata": "latest",
+        "mark_logger": "latest",
+        "mark_parser": "latest",
+        "mark_toc": "latest",
+        "mark_vue_lib": "latest"
+    }
+}

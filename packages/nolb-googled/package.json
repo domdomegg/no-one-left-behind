@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-googled",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "GoogleDrive": "latest",
+        "googledaq": "latest",
+        "googlediff": "latest",
+        "googledoc": "latest",
+        "googledoc-to-json": "latest",
+        "googledocs": "latest",
+        "googledocs-to-html": "latest",
+        "googledocs2json": "latest",
+        "googledocsapi": "latest",
+        "googledrive": "latest",
+        "googledrive-i18n": "latest"
+    }
+}

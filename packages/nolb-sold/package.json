@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-sold",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sold": "latest",
+        "soldair-credstest1": "latest",
+        "soldair-fake": "latest",
+        "soldair-foo": "latest",
+        "soldair-https-test": "latest",
+        "soldair-jsla-leveltalk": "latest",
+        "soldair-publish-test": "latest",
+        "soldair-readme-test": "latest",
+        "soldair-test": "latest",
+        "soldair-test-package": "latest",
+        "soldair-testing-pub": "latest",
+        "soldair-testing-pub2": "latest",
+        "soldair-testing-pub3": "latest",
+        "soldair-testing-unscoped-pub": "latest",
+        "soldair-testpkg": "latest",
+        "soldair-validate-fixture": "latest",
+        "soldat-mocha-test-runner": "latest",
+        "soldat-select-list": "latest",
+        "soldemo": "latest",
+        "solder": "latest",
+        "solderdev-npm": "latest",
+        "solderwh": "latest",
+        "soldibox-sdk": "latest",
+        "soldier-npm": "latest",
+        "soldier-ui": "latest",
+        "soldoc": "latest",
+        "soldocgen": "latest",
+        "soldonii-types": "latest"
+    }
+}

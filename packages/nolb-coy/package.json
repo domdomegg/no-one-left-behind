@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-coy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "coy": "latest",
+        "coy-test-component-a": "latest",
+        "coy-test-component-b": "latest",
+        "coya": "latest",
+        "coya-arrow": "latest",
+        "coya-core": "latest",
+        "coya-editor-new": "latest",
+        "coya-experimental-ct-vue2": "latest",
+        "coya-json-editor": "latest",
+        "coya-store": "latest",
+        "coya-util": "latest",
+        "coya-vite-proj": "latest",
+        "coya-vue-component": "latest",
+        "coyles": "latest",
+        "coyno-test-data": "latest",
+        "coyno-transaction-processor": "latest",
+        "coyo-frontend-ngx": "latest",
+        "coyot.io": "latest",
+        "coyote": "latest",
+        "coyote-cli": "latest",
+        "coyote2": "latest",
+        "coyotejs": "latest"
+    }
+}

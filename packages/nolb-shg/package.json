@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-shg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shg": "latest",
+        "shg-cdb": "latest",
+        "shgame": "latest",
+        "shgbit-ali-sms-api": "latest",
+        "shgbit-wechat-enterprise-api": "latest",
+        "shgetfilelist": "latest",
+        "shgis": "latest",
+        "shgis-mapbox-gl-export": "latest",
+        "shglob": "latest",
+        "shgy_demo2": "latest"
+    }
+}

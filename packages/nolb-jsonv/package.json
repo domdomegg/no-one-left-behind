@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-jsonv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jsonv": "latest",
+        "jsonv-ddd": "latest",
+        "jsonval": "latest",
+        "jsonvalidate": "latest",
+        "jsonvalidation": "latest",
+        "jsonvalidator": "latest",
+        "jsonvalidator-cli": "latest",
+        "jsonvc": "latest",
+        "jsonve": "latest",
+        "jsonview": "latest",
+        "jsonview-vue": "latest",
+        "jsonvis": "latest",
+        "jsonvisio": "latest",
+        "jsonviz": "latest",
+        "jsonvm": "latest",
+        "jsonvoorhees": "latest"
+    }
+}

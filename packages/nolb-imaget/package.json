@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-imaget",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "imageTool": "latest",
+        "imagetemplate-web": "latest",
+        "imagethumbjs": "latest",
+        "imagetimeline-vuejs": "latest",
+        "imagetint": "latest",
+        "imagetob64": "latest",
+        "imagetocanvas": "latest",
+        "imagetools-core": "latest",
+        "imagetostring": "latest",
+        "imagetourl": "latest",
+        "imagetracer": "latest",
+        "imagetracerjs": "latest",
+        "imagetracerjs-g": "latest",
+        "imagetrail": "latest",
+        "imagetransfer": "latest",
+        "imagetrekk-draw-helper": "latest",
+        "imagetrekk-leaflet-draw": "latest",
+        "imagetune": "latest",
+        "imagetune-react": "latest",
+        "imagetype": "latest",
+        "imagetyperz-api": "latest",
+        "imagetyperz-api-client": "latest"
+    }
+}

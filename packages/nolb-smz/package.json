@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-smz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smz": "latest",
+        "smz-builder-webpack": "latest",
+        "smz-flash": "latest",
+        "smz-my-storybook-udc": "latest",
+        "smz-package-test": "latest",
+        "smz-sanitizer": "latest",
+        "smz-webpack-builder": "latest",
+        "smz111": "latest",
+        "smzdm": "latest",
+        "smzdm-checkin": "latest",
+        "smzdm-cli": "latest",
+        "smzdm-pic": "latest",
+        "smzdmplus": "latest"
+    }
+}

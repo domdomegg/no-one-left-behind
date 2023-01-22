@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_blv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@blv/react-native-tab-navigator": "latest",
+        "@blvming/designer": "latest",
+        "@blvz/cordova-icon": "latest",
+        "@blvz/cordova-splash": "latest"
+    }
+}

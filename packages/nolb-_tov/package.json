@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_tov",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tovade/discord-giveaways": "latest",
+        "@tovade/discord.js": "latest",
+        "@tovade/genius-lyrics": "latest",
+        "@tovarishfin/hardhat-yul": "latest",
+        "@tovaswap/uikit": "latest",
+        "@tovaswapsdk/sdk": "latest",
+        "@tovaswapui/uikit": "latest",
+        "@tovatest/sdk": "latest",
+        "@tovchain/cosms": "latest",
+        "@tovehydmark/emoji": "latest",
+        "@tover/eslint-config": "latest",
+        "@tover/tsconfig": "latest",
+        "@toverux/expresse": "latest",
+        "@toverux/ngsweetalert2": "latest",
+        "@toverux/ngx-sweetalert2": "latest",
+        "@tovicn/is": "latest",
+        "@tovicn/tool": "latest",
+        "@tovicn/vue-split-layout": "latest",
+        "@tovihung/ng-application-insights": "latest",
+        "@toviszsolt/npm-test-package": "latest",
+        "@tovoo/vue3-component": "latest",
+        "@tovuti/tovuti-web-components": "latest",
+        "@tovy/noblox.js": "latest"
+    }
+}

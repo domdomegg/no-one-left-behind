@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-vue3-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue3-wait": "latest",
+        "vue3-wangeditor": "latest",
+        "vue3-waterfall": "latest",
+        "vue3-waterfall-layout": "latest",
+        "vue3-waterfall-plugin": "latest",
+        "vue3-watermark": "latest",
+        "vue3-wave-audio-player": "latest",
+        "vue3-weather-type-map": "latest",
+        "vue3-web3modal": "latest",
+        "vue3-webcomponent-wrapper": "latest",
+        "vue3-webpack-pdf": "latest",
+        "vue3-webpack-template": "latest",
+        "vue3-wheel": "latest",
+        "vue3-wheel-oylx": "latest",
+        "vue3-wheel-ui-1": "latest",
+        "vue3-wheels": "latest",
+        "vue3-wheels-dist": "latest",
+        "vue3-whr-ripple-directive": "latest",
+        "vue3-widget-mondial-relay": "latest",
+        "vue3-win10": "latest",
+        "vue3-window-events": "latest",
+        "vue3-word-cloud": "latest",
+        "vue3-workflow": "latest",
+        "vue3-wp-components": "latest"
+    }
+}

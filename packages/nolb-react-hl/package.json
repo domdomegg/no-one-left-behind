@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-hl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-hlayer": "latest",
+        "react-hljs": "latest",
+        "react-hlm": "latest",
+        "react-hls": "latest",
+        "react-hls-player": "latest",
+        "react-hls-video": "latest",
+        "react-hlsjs": "latest"
+    }
+}

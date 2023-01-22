@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_he-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@he-cli/cli": "latest",
+        "@he-cli/command": "latest",
+        "@he-cli/common": "latest",
+        "@he-cli/exec": "latest",
+        "@he-cli/filehandler": "latest",
+        "@he-cli/get-npm-info": "latest",
+        "@he-cli/git": "latest",
+        "@he-cli/init": "latest",
+        "@he-cli/log": "latest",
+        "@he-cli/package": "latest",
+        "@he-cli/publish": "latest",
+        "@he-cli/spawn": "latest",
+        "@he-cli/spinner": "latest",
+        "@he-design/button": "latest",
+        "@he-design/styles": "latest",
+        "@he-tree/dnd-utils": "latest",
+        "@he-tree/tree-utils": "latest",
+        "@he-tree/vue": "latest",
+        "@he-tree/vue2": "latest",
+        "@he-tree/vue3": "latest",
+        "@he-yaowen/gitool": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-vue-clic",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-clicaptcha": "latest",
+        "vue-clicaptcha-data": "latest",
+        "vue-click": "latest",
+        "vue-click-away-listener": "latest",
+        "vue-click-big-img": "latest",
+        "vue-click-captcha": "latest",
+        "vue-click-debounce": "latest",
+        "vue-click-helper": "latest",
+        "vue-click-off": "latest",
+        "vue-click-outside": "latest",
+        "vue-click-outside-component": "latest",
+        "vue-click-outside-directive": "latest",
+        "vue-click-outside-element": "latest",
+        "vue-click-outside-extrame": "latest",
+        "vue-click-outside-hook": "latest",
+        "vue-click-outside-linhdanchu": "latest",
+        "vue-click-outside-of": "latest",
+        "vue-click-ripple": "latest",
+        "vue-click-ripples": "latest",
+        "vue-click-tigger": "latest",
+        "vue-click-to-edit": "latest",
+        "vue-clickaway": "latest",
+        "vue-clickaway2": "latest",
+        "vue-clickout": "latest",
+        "vue-clickout-handler": "latest",
+        "vue-clickoutside": "latest",
+        "vue-clickoutside-js": "latest",
+        "vue-clicky": "latest"
+    }
+}

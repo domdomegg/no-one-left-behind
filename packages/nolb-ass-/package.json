@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-ass-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ass-client": "latest",
+        "ass-compiler": "latest",
+        "ass-component": "latest",
+        "ass-ddd": "latest",
+        "ass-function": "latest",
+        "ass-game": "latest",
+        "ass-gradle": "latest",
+        "ass-guangfa-sdk": "latest",
+        "ass-js": "latest",
+        "ass-mcc": "latest",
+        "ass-mongoose": "latest",
+        "ass-parser": "latest",
+        "ass-renderer": "latest",
+        "ass-restyler": "latest",
+        "ass-serialize": "latest",
+        "ass-stringify": "latest",
+        "ass-styles": "latest",
+        "ass-to-srt": "latest",
+        "ass-to-vtt": "latest",
+        "ass-we-can": "latest"
+    }
+}

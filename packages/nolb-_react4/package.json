@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_react4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@react4tv/ima-ads-manager": "latest",
+        "@react4tv/middleware-network": "latest",
+        "@react4tv/proxy-polyfill": "latest",
+        "@react4tv/react-intersection-observer": "latest",
+        "@react4tv/react-safe-component": "latest",
+        "@react4tv/react-tv-control": "latest",
+        "@react4tv/react-tv-dimention": "latest",
+        "@react4tv/react-tv-fast-image": "latest",
+        "@react4tv/react-tv-virtual-view": "latest",
+        "@react4tv/smart-tv-platform": "latest",
+        "@react4tv/smart-tv-smooth-callback": "latest"
+    }
+}

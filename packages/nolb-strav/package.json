@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-strav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "strava": "latest",
+        "strava-activities-stream": "latest",
+        "strava-activity-types": "latest",
+        "strava-api": "latest",
+        "strava-api-handler": "latest",
+        "strava-bulk-edit": "latest",
+        "strava-client": "latest",
+        "strava-export": "latest",
+        "strava-export-all": "latest",
+        "strava-failables": "latest",
+        "strava-fetch": "latest",
+        "strava-geojson": "latest",
+        "strava-js": "latest",
+        "strava-leaderboard": "latest",
+        "strava-live-segments": "latest",
+        "strava-me": "latest",
+        "strava-minimal-api": "latest",
+        "strava-oauth2": "latest",
+        "strava-pr-efforts": "latest",
+        "strava-segment-efforts": "latest",
+        "strava-stats": "latest",
+        "strava-stats-wasm": "latest",
+        "strava-v3": "latest",
+        "strava-v3-cli-authenticator": "latest",
+        "stravacharts": "latest"
+    }
+}

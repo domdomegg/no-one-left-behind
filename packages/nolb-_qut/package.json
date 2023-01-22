@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_qut",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@qutejs/commons": "latest",
+        "@qutejs/compiler": "latest",
+        "@qutejs/create": "latest",
+        "@qutejs/dev": "latest",
+        "@qutejs/form": "latest",
+        "@qutejs/group": "latest",
+        "@qutejs/i18n": "latest",
+        "@qutejs/importer": "latest",
+        "@qutejs/material": "latest",
+        "@qutejs/modal": "latest",
+        "@qutejs/polyfill": "latest",
+        "@qutejs/popup": "latest",
+        "@qutejs/register": "latest",
+        "@qutejs/rollup-plugin-qute": "latest",
+        "@qutejs/router": "latest",
+        "@qutejs/runtime": "latest",
+        "@qutejs/spinner": "latest",
+        "@qutejs/spinner-2dots": "latest",
+        "@qutejs/spinner-ellipsis": "latest",
+        "@qutejs/test-utils": "latest",
+        "@qutejs/tooltip": "latest",
+        "@qutejs/types": "latest",
+        "@qutejs/ui": "latest",
+        "@qutejs/window": "latest",
+        "@qutils/barrett-rsa": "latest",
+        "@qutoutiao/qtt-oauth-sdk": "latest"
+    }
+}

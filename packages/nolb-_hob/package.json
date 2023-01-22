@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_hob",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hobbes7878/eslint-config": "latest",
+        "@hobbica98/google-translate-api": "latest",
+        "@hobbica98/translate-json": "latest",
+        "@hobbypack/smalldate": "latest",
+        "@hobbyquaker/hap-client": "latest",
+        "@hobbyquaker/hap-client-tool": "latest",
+        "@hobbyquaker/mqtt-connection": "latest",
+        "@hobbyquaker/mqtt-wrapper": "latest",
+        "@hobbytraceorg/azure-storage-browser": "latest",
+        "@hobee/canvas-grid": "latest",
+        "@hobei/muse": "latest",
+        "@hobiri/rollup-preset": "latest",
+        "@hobnail/result": "latest",
+        "@hobnail/webapp": "latest",
+        "@hobox/core": "latest",
+        "@hobox/plugin-react-use-box-state": "latest",
+        "@hobox/plugin-share-box": "latest",
+        "@hoboy/css": "latest"
+    }
+}

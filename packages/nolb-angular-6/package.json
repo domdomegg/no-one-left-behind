@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-angular-6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "angular-6-calendar-week-hours-view": "latest",
+        "angular-6-clipboard": "latest",
+        "angular-6-datatable": "latest",
+        "angular-6-datatable-cc": "latest",
+        "angular-6-datatable-sy": "latest",
+        "angular-6-social-login": "latest",
+        "angular-6-social-login-epsfork": "latest",
+        "angular-6-social-login-fixed": "latest",
+        "angular-6-social-login-temp": "latest",
+        "angular-6-social-login-v2": "latest",
+        "angular-6-social-login-vk-fixed": "latest",
+        "angular-6-social-login-with-first-name-last-name": "latest"
+    }
+}

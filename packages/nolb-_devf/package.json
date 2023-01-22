@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_devf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@devf/tough-cookie-redisstore": "latest",
+        "@devfcoaros/platzimediaplayer": "latest",
+        "@devfe/aui-core": "latest",
+        "@devfe/better.css": "latest",
+        "@devfe/joshua": "latest",
+        "@devfedorenko/ssm-static": "latest",
+        "@devfied/flashrepo": "latest",
+        "@devfile/api": "latest",
+        "@devfjd/jnotes": "latest",
+        "@devfjd/jnotes-local-api": "latest",
+        "@devfjd/jnotes-local-client": "latest",
+        "@devfjd/tickbay-common": "latest",
+        "@devflash/shared-shopmore-lib": "latest",
+        "@devfloydbr-ui/docs": "latest",
+        "@devfloydbr-ui/react": "latest",
+        "@devfloydbr-ui/tokens": "latest",
+        "@devfolioco/apply": "latest",
+        "@devfolioco/devfolio-helpers": "latest",
+        "@devfolioco/genesis": "latest",
+        "@devfolioco/helpers": "latest",
+        "@devfolioco/react-select": "latest",
+        "@devfolioco/source": "latest",
+        "@devforey/my-npm-package": "latest",
+        "@devforth/apkup": "latest",
+        "@devforth/quill-markdown-shortcuts": "latest",
+        "@devfreddy/fluffy-waffle": "latest",
+        "@devfromin/tremor-react": "latest",
+        "@devfs/msfs-nodejs": "latest"
+    }
+}

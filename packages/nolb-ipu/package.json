@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-ipu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ipu-cli": "latest",
+        "ipu-core-code": "latest",
+        "ipub": "latest",
+        "ipub-ui": "latest",
+        "ipub-ui-test": "latest",
+        "ipub-ui-vue": "latest",
+        "ipublish": "latest",
+        "ipubs-ui-vue": "latest",
+        "ipumsir": "latest",
+        "ipurchase-admin": "latest",
+        "ipurchase-setup": "latest",
+        "ipuresult-cli": "latest",
+        "ipushpull-js": "latest",
+        "ipushpull-vue-multiselect": "latest",
+        "iput": "latest",
+        "iputil": "latest",
+        "ipuz": "latest"
+    }
+}

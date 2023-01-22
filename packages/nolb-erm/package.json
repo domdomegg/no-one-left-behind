@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-erm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "erm": "latest",
+        "erm-design-tokens": "latest",
+        "erm-engagement-client": "latest",
+        "erm-js": "latest",
+        "erm-react-big-scheduler": "latest",
+        "erm2openapi": "latest",
+        "ermahrercen-serndin-nermahs": "latest",
+        "ermakoy-resume": "latest",
+        "ermchatclient": "latest",
+        "erml": "latest",
+        "ermock": "latest",
+        "ermod": "latest",
+        "ermrest-data-utils": "latest",
+        "ermrestjs": "latest"
+    }
+}

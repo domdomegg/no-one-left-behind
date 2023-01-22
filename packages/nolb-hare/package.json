@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-hare",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hare": "latest",
+        "hare-build": "latest",
+        "hare-niemeyer": "latest",
+        "harea": "latest",
+        "hareactive": "latest",
+        "haredis": "latest",
+        "haredis-tmp": "latest",
+        "haredisclient": "latest",
+        "haredo": "latest",
+        "harefa-sso-client": "latest",
+        "harel": "latest",
+        "harel-logger-ts": "latest",
+        "harel-rn-server-logger": "latest",
+        "harel-token-ts": "latest",
+        "harelkit": "latest",
+        "harelnahari-frame-print": "latest",
+        "harem": "latest",
+        "haremq": "latest",
+        "hareslint-config-taro": "latest",
+        "harexs-emitter": "latest",
+        "harexs-limit": "latest"
+    }
+}

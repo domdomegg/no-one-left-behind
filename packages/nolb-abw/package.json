@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-abw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "abw": "latest",
+        "abw-palindrome": "latest",
+        "abwa": "latest",
+        "abwa-gulp": "latest",
+        "abwcalculator": "latest",
+        "abwdoibawodbaoi": "latest",
+        "abwf-settings-components": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_luw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@luweibin/vue-ui": "latest",
+        "@luwenxull/danmaku": "latest",
+        "@luwenxull/desvg": "latest",
+        "@luwenxull/flowing": "latest",
+        "@luwenxull/force": "latest",
+        "@luwenxull/quadtree": "latest",
+        "@luwenxull/quick-scene": "latest",
+        "@luwenxull/readdir": "latest",
+        "@luwenxull/topo-three": "latest",
+        "@luwenxull/xvent": "latest",
+        "@luwes/disco": "latest",
+        "@luwes/hls-video-element": "latest",
+        "@luwes/little-vdom": "latest",
+        "@luwes/memo": "latest",
+        "@luwes/youtube-video-element": "latest",
+        "@luwol03/react-touchbar-electron": "latest",
+        "@luwuer/yunin-cli": "latest"
+    }
+}

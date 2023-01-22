@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-typescript-i",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typescript-i18n": "latest",
+        "typescript-ilogger": "latest",
+        "typescript-imba-plugin": "latest",
+        "typescript-imba-plugin-fork-for-dev": "latest",
+        "typescript-imgix-url-params": "latest",
+        "typescript-immutable": "latest",
+        "typescript-immutable-helper": "latest",
+        "typescript-immutable-replicator": "latest",
+        "typescript-immutable-utils": "latest",
+        "typescript-impatient": "latest",
+        "typescript-import-refactorer": "latest",
+        "typescript-import-refactoring-burguer": "latest",
+        "typescript-infer-types": "latest",
+        "typescript-inference": "latest",
+        "typescript-initializator": "latest",
+        "typescript-inject": "latest",
+        "typescript-injections": "latest",
+        "typescript-injector-lite": "latest",
+        "typescript-integration-test": "latest",
+        "typescript-interface-collision-issue-module-c": "latest",
+        "typescript-interface-generator": "latest",
+        "typescript-intl-cra": "latest",
+        "typescript-invertible-router": "latest",
+        "typescript-ioc": "latest",
+        "typescript-is": "latest",
+        "typescript-is-type": "latest"
+    }
+}

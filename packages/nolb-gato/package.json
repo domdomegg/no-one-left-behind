@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-gato",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gato": "latest",
+        "gatographite": "latest",
+        "gatojr": "latest",
+        "gatoo": "latest",
+        "gatool": "latest",
+        "gator": "latest",
+        "gator-admin": "latest",
+        "gator-api": "latest",
+        "gator-js": "latest",
+        "gator-lib22": "latest",
+        "gator-score": "latest",
+        "gators": "latest",
+        "gatos": "latest"
+    }
+}

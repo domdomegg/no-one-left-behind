@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_bly",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bly-th/css": "latest",
+        "@blyde/types": "latest",
+        "@blynx/component": "latest",
+        "@blynx/inject": "latest",
+        "@blynx/strict-types": "latest",
+        "@blynx/test": "latest"
+    }
+}

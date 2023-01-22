@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_awsp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@awspilot/cf-mock": "latest",
+        "@awspilot/cloudfront-mock": "latest",
+        "@awspilot/cw-mock": "latest",
+        "@awspilot/dynamodb": "latest",
+        "@awspilot/dynamodb-cli": "latest",
+        "@awspilot/dynamodb-mock": "latest",
+        "@awspilot/dynamodb-sql": "latest",
+        "@awspilot/dynamodb-sql-util": "latest",
+        "@awspilot/dynamodb-util": "latest",
+        "@awspilot/iam-mock": "latest",
+        "@awspilot/ractive-cloudformation-ui": "latest",
+        "@awspilot/ractive-dynamodb-json-editor": "latest",
+        "@awspilot/ractive-dynamodb-ui": "latest",
+        "@awspilot/ractive-lambda-ui": "latest",
+        "@awspilot/ractive-s3-ui": "latest",
+        "@awspilot/s3-mock": "latest"
+    }
+}

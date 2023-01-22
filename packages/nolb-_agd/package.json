@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_agd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@agderposten/environment-functions": "latest",
+        "@agderposten/environment-provider": "latest",
+        "@agderposten/fonts": "latest",
+        "@agderposten/header": "latest",
+        "@agderposten/loading-spinner": "latest",
+        "@agderposten/logo": "latest",
+        "@agderposten/next": "latest",
+        "@agderposten/organization-functions": "latest",
+        "@agderposten/organization-provider": "latest",
+        "@agderposten/user-button": "latest",
+        "@agderposten/user-functions": "latest",
+        "@agderposten/user-provider": "latest",
+        "@agdj/enqueteetrecette-ui": "latest",
+        "@agds/agds-doc-preset": "latest",
+        "@agds/babel-preset-base": "latest",
+        "@agds/cli-plugin-doc": "latest",
+        "@agds/eslint-config-js": "latest",
+        "@agds/eslint-config-jsdoc": "latest",
+        "@agds/gulp-config-preset": "latest",
+        "@agds/jest-config-node": "latest",
+        "@agds/jsdoc-plugin-ts": "latest",
+        "@agds/node-utils": "latest",
+        "@agds/ts-config-js": "latest"
+    }
+}

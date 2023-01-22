@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_stl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stlasalle/cdk-datadog-resources": "latest",
+        "@stlite/desktop": "latest",
+        "@stlite/desktop-cli": "latest",
+        "@stlite/kernel": "latest",
+        "@stlite/mountable": "latest",
+        "@stlmpp/control": "latest",
+        "@stlmpp/router": "latest",
+        "@stlmpp/store": "latest",
+        "@stlmpp/utils": "latest",
+        "@stlswing/database": "latest"
+    }
+}

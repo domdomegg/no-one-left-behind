@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_gaz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gazdagandras/express-sse": "latest",
+        "@gaze-anchor/core": "latest",
+        "@gaze-anchor/plugins": "latest",
+        "@gaze-anchor/shared": "latest",
+        "@gaze-anchor/shared-types": "latest",
+        "@gaze-anchor/shared-utils": "latest",
+        "@gaze-anchor/static": "latest",
+        "@gaze-anchor/tsconfig": "latest",
+        "@gaze-anchor/utils": "latest",
+        "@gazelleswap/sdk": "latest",
+        "@gazetisto/aws-sqs": "latest",
+        "@gazetisto/promised-https-request": "latest",
+        "@gazetisto/wordizer": "latest",
+        "@gazeus/backgammon-core": "latest",
+        "@gazi112/npmpakage": "latest",
+        "@gazi112/ssopackage-service-v1": "latest",
+        "@gazin-marketplace/marketplace-ui": "latest",
+        "@gazin-tech/safira-cli": "latest",
+        "@gazin.tech/gazin-ui": "latest",
+        "@gazizbek/react-native-background-geolocation": "latest",
+        "@gazmer-ecomm2/common": "latest",
+        "@gazs/msw-expect": "latest",
+        "@gazsiazasz/binance-api": "latest",
+        "@gazwai/prettier-config": "latest",
+        "@gazza7205/mexcli": "latest",
+        "@gazzati/eslint-config-node": "latest",
+        "@gazzer/globe": "latest",
+        "@gazzer/ui": "latest"
+    }
+}

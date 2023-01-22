@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-jsonh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jsonh": "latest",
+        "jsonhash": "latest",
+        "jsonhe-test-npm-publish": "latest",
+        "jsonhelper": "latest",
+        "jsonhero-js": "latest",
+        "jsonhide": "latest",
+        "jsonhook": "latest",
+        "jsonhtml": "latest",
+        "jsonhtmlfyer": "latest",
+        "jsonhtmlify": "latest"
+    }
+}

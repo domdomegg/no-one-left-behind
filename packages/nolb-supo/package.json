@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-supo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "supoertes": "latest",
+        "supoin-react-scripts": "latest",
+        "supoin-scanner-plugin": "latest",
+        "supoinscanner": "latest",
+        "suporka-carousal": "latest",
+        "suporka-observe": "latest",
+        "suporka-parcel-vue": "latest",
+        "suporka-vue-alert": "latest",
+        "suport": "latest",
+        "suportron2022": "latest",
+        "suportron3000": "latest",
+        "supos-ccws-cli": "latest",
+        "supos-ccws-scripts": "latest",
+        "supos-ccws-template": "latest",
+        "supos-temp": "latest"
+    }
+}

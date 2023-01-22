@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-syh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "syh": "latest",
+        "syh-bmap-vue": "latest",
+        "syh-fetch": "latest",
+        "syh-formate": "latest",
+        "syh-menu": "latest",
+        "syh-observer": "latest",
+        "syh-rul": "latest",
+        "syh-stat": "latest",
+        "syh-t-components": "latest",
+        "syh-test": "latest",
+        "syh-tool": "latest",
+        "syh-ui": "latest",
+        "syh6569": "latest",
+        "syhbyl": "latest",
+        "syhh-im": "latest",
+        "syhh-request": "latest",
+        "syhmy-ui": "latest",
+        "syhnba666": "latest",
+        "syhtrain1": "latest",
+        "syhz-cli": "latest",
+        "syhzjk": "latest",
+        "syhzrl-react-dynamic-form": "latest"
+    }
+}

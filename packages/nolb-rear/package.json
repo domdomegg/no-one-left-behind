@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-rear",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rear": "latest",
+        "rear-admiral": "latest",
+        "rear-cli": "latest",
+        "rear-core": "latest",
+        "rear-docs": "latest",
+        "rear-logger": "latest",
+        "rear-server-scripts": "latest",
+        "rear-service": "latest",
+        "rear-sql": "latest",
+        "rear-system-package": "latest",
+        "rear-window": "latest",
+        "rearch": "latest",
+        "rearg": "latest",
+        "reargs": "latest",
+        "reargs-cli": "latest",
+        "rearguard": "latest",
+        "reark-handler": "latest",
+        "rearkdown": "latest",
+        "rearm": "latest",
+        "rearmed-css": "latest",
+        "rearmed-js": "latest",
+        "rearrange": "latest",
+        "rearrange-arr": "latest",
+        "rearrange-word": "latest",
+        "rearticulate": "latest",
+        "rearview": "latest",
+        "rearyard-rn-bridge": "latest"
+    }
+}

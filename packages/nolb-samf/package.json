@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-samf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "samf-custom-ckeditor5-build-balloon": "latest",
+        "samf-custom-ckeditor5-build-classic": "latest",
+        "samf-custom-react-beautiful-dnd": "latest",
+        "samfec": "latest",
+        "samfic": "latest",
+        "samfilter": "latest",
+        "samfirm": "latest",
+        "samfisher": "latest",
+        "samflags": "latest",
+        "samflow": "latest",
+        "samflow-cli": "latest",
+        "samflow-sdk": "latest"
+    }
+}

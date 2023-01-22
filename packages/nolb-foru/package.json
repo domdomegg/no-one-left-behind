@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-foru",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "forum": "latest",
+        "forum-business-api": "latest",
+        "forum-component": "latest",
+        "forum-default": "latest",
+        "forum-grid": "latest",
+        "forum-library": "latest",
+        "forum-login": "latest",
+        "forum-richeditor": "latest",
+        "forum-uif": "latest",
+        "forum.jsera.net": "latest",
+        "forum.min.js": "latest",
+        "forum3": "latest",
+        "forumjs": "latest",
+        "forumlyapi.js": "latest",
+        "forumone-cli": "latest",
+        "forumone-libnaep": "latest",
+        "forumpe": "latest",
+        "forumpp": "latest",
+        "forums": "latest",
+        "forurl": "latest",
+        "forus": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_supo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@supojs/cli": "latest",
+        "@supojs/core": "latest",
+        "@supojs/repository-inmemory": "latest",
+        "@suporka/keybind": "latest",
+        "@suporka/mini-emitter": "latest",
+        "@suporka/storage": "latest"
+    }
+}

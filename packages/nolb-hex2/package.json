@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-hex2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hex2ascii": "latest",
+        "hex2bin": "latest",
+        "hex2dec": "latest",
+        "hex2decimal": "latest",
+        "hex2imagebase64": "latest",
+        "hex2name": "latest",
+        "hex2rgb": "latest",
+        "hex2rgb-conv": "latest",
+        "hex2rgb-plus": "latest",
+        "hex2rgb_ca": "latest",
+        "hex2rgba": "latest",
+        "hex2rgbcolor": "latest",
+        "hex2rgbval": "latest",
+        "hex2tailwind": "latest",
+        "hex2words": "latest",
+        "hex2xterm": "latest"
+    }
+}

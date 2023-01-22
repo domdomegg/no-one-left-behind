@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_pem",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pema/app": "latest",
+        "@pema/app-react": "latest",
+        "@pema/router": "latest",
+        "@pema/router-react": "latest",
+        "@pema/state": "latest",
+        "@pema/state-react": "latest",
+        "@pema/utils": "latest",
+        "@pembajak/react-native-agora-rawdata": "latest",
+        "@pembajak/react-native-countdown-component": "latest",
+        "@pembajak/react-native-easy-chat-ui": "latest",
+        "@pembajak/react-native-esme-ui-kit": "latest",
+        "@pembajak/react-native-inappbrowser-reborn": "latest",
+        "@pembajak/react-native-keyboard-avoiding-scroll-view": "latest",
+        "@pembajak/react-native-lrc": "latest",
+        "@pembajak/react-native-share-extension": "latest",
+        "@pembajak/react-native-slideable-calender": "latest",
+        "@pembajak/react-native-webview": "latest",
+        "@pembajak/redux-axios-middleware": "latest",
+        "@pembajak/rn-redux-axios-middleware": "latest",
+        "@pemeris/lite": "latest",
+        "@pemistahl/grex": "latest",
+        "@pemrouz/markdown-editor": "latest",
+        "@pemrouz/validate": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-yuo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yuo": "latest",
+        "yuobey": "latest",
+        "yuobey-us": "latest",
+        "yuolsoja": "latest",
+        "yuoshi-backend-adapter-julix": "latest",
+        "yuow": "latest"
+    }
+}

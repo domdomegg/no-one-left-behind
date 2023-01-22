@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_e9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@e965/8base-functions-types": "latest",
+        "@e9ine/eslint-config-node": "latest",
+        "@e9ine/eslint-config-vue": "latest",
+        "@e9ine/eslint-config-vue-style": "latest",
+        "@e9ine/vue-form-plugin": "latest",
+        "@e9ine/vue_components": "latest",
+        "@e9x/cloudflare": "latest",
+        "@e9x/discord.js-selfbot": "latest",
+        "@e9x/ipi": "latest",
+        "@e9x/ipi-databases": "latest",
+        "@e9x/simple-socks": "latest"
+    }
+}

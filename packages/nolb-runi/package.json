@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-runi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "runi": "latest",
+        "runic": "latest",
+        "runicjs": "latest",
+        "runick": "latest",
+        "runicode": "latest",
+        "runie": "latest",
+        "runify": "latest",
+        "runinchrome": "latest",
+        "runincontext": "latest",
+        "runing-monitor": "latest",
+        "runing-redis": "latest",
+        "runinterval": "latest",
+        "runio.js": "latest",
+        "runiq": "latest",
+        "runiq-vdom": "latest",
+        "runique-array": "latest",
+        "runit": "latest",
+        "runit-npmtest": "latest",
+        "runit-on-cli": "latest",
+        "runit-services-admin": "latest",
+        "runitwhenimdead": "latest"
+    }
+}

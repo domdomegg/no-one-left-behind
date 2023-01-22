@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-vok",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vok": "latest",
+        "voka": "latest",
+        "vokal-ng-api": "latest",
+        "vokaler": "latest",
+        "vokamrecom": "latest",
+        "vokativ": "latest",
+        "vokativ-js": "latest",
+        "voke": "latest",
+        "voker": "latest",
+        "voki": "latest",
+        "vokinloksar-test1": "latest"
+    }
+}

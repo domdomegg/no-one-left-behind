@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-duv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "duv": "latest",
+        "duv-api-util": "latest",
+        "duv-js-loader": "latest",
+        "duv-loader": "latest",
+        "duv-template-compiler": "latest",
+        "duval": "latest",
+        "duvancaicedo-basics": "latest",
+        "duverger": "latest",
+        "duvet": "latest",
+        "duvido.": "latest",
+        "duvjs": "latest"
+    }
+}

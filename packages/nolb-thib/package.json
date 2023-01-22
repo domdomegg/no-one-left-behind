@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-thib",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thibaud_s-dev-react-modal-custom": "latest",
+        "thibault": "latest",
+        "thibaut-adder": "latest",
+        "thibaut-qc-frame-print": "latest"
+    }
+}

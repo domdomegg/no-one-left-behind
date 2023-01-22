@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-sem-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sem-cli": "latest",
+        "sem-cost-loader": "latest",
+        "sem-cs": "latest",
+        "sem-lib": "latest",
+        "sem-oper": "latest",
+        "sem-play": "latest",
+        "sem-pracs": "latest",
+        "sem-rel": "latest",
+        "sem-rels": "latest",
+        "sem-var-jira-list-generator": "latest"
+    }
+}

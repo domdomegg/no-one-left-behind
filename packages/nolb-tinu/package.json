@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-tinu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tinu": "latest",
+        "tinufy": "latest",
+        "tinushah11": "latest",
+        "tinux": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_typer",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@typerpc/cli": "latest",
+        "@typerpc/config": "latest",
+        "@typerpc/dart-plugin-utils": "latest",
+        "@typerpc/dart-shelf": "latest",
+        "@typerpc/examples": "latest",
+        "@typerpc/go-chi": "latest",
+        "@typerpc/go-plugin-utils": "latest",
+        "@typerpc/go-resty": "latest",
+        "@typerpc/plugin": "latest",
+        "@typerpc/plugin-manager": "latest",
+        "@typerpc/plugin-utils": "latest",
+        "@typerpc/schema": "latest",
+        "@typerpc/test-utils": "latest",
+        "@typerpc/ts-axios": "latest",
+        "@typerpc/ts-fastify": "latest",
+        "@typerpc/ts-koa": "latest",
+        "@typerpc/ts-plugin-utils": "latest",
+        "@typerpc/types": "latest",
+        "@typertion/js": "latest"
+    }
+}

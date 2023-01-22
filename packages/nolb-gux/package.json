@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-gux",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gux": "latest",
+        "gux-fsm": "latest",
+        "guxdad": "latest",
+        "guxi-cover-womeiyitian": "latest",
+        "guxiaoge": "latest",
+        "guxiaojing": "latest",
+        "guxuechao98": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_hypi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hypi/cli": "latest",
+        "@hypi/hypi-client-nodejs": "latest",
+        "@hypixel.js/hypixel.js": "latest"
+    }
+}

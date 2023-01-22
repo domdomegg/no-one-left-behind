@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-jox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jox": "latest",
+        "jox-elementui": "latest",
+        "jox-wxapp": "latest",
+        "joxy": "latest"
+    }
+}

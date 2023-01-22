@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-cs1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cs1-forest-demo": "latest",
+        "cs1-game-engine": "latest",
+        "cs1-game-server": "latest",
+        "cs1-particles": "latest",
+        "cs1-render-order": "latest",
+        "cs1-stencil": "latest",
+        "cs101": "latest",
+        "cs123": "latest",
+        "cs123435454": "latest",
+        "cs142password": "latest",
+        "cs16": "latest",
+        "cs1905911145": "latest",
+        "cs1907review": "latest",
+        "cs193x-sheets": "latest"
+    }
+}

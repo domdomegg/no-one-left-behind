@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_reactn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reactnails/core": "latest",
+        "@reactnative020/react-native-country-picker-modal": "latest",
+        "@reactnimations/coalesce": "latest",
+        "@reactnimations/pipeline": "latest",
+        "@reactnimations/swirl": "latest",
+        "@reactnotebook/local-api": "latest",
+        "@reactnotebook/local-client": "latest"
+    }
+}

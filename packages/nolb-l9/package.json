@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-l9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "l9": "latest",
+        "l9-meetup": "latest",
+        "l9-meetup-2": "latest",
+        "l9m-test": "latest",
+        "l9m-test-lib": "latest",
+        "l9sa": "latest"
+    }
+}

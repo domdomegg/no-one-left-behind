@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-opn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "opn": "latest",
+        "opn-arn": "latest",
+        "opn-bg": "latest",
+        "opn-browser": "latest",
+        "opn-browser-webpack-plugin": "latest",
+        "opn-cli": "latest",
+        "opn-git": "latest",
+        "opn-pkg": "latest",
+        "opn-request": "latest",
+        "opn-shell": "latest",
+        "opn-url": "latest",
+        "opn-webpack-plugin": "latest",
+        "opndx": "latest",
+        "opnfv-promise": "latest",
+        "opni-elasticdump": "latest",
+        "opniz": "latest",
+        "opniz-cli": "latest",
+        "opniz-server": "latest",
+        "opnl": "latest",
+        "opnl-2.0": "latest",
+        "opnotiq": "latest",
+        "opnpm": "latest",
+        "opnr": "latest",
+        "opns-cli": "latest"
+    }
+}

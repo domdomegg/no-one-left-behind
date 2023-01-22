@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-docb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "docbankedit": "latest",
+        "docbase-js": "latest",
+        "docbase-pdf": "latest",
+        "docbat": "latest",
+        "docbench": "latest",
+        "docbind": "latest",
+        "docbits": "latest",
+        "docblock": "latest",
+        "docblock-parser": "latest",
+        "docblock-reader": "latest",
+        "docblox2md": "latest",
+        "docbone": "latest",
+        "docbook": "latest",
+        "docbox": "latest",
+        "docbrown": "latest",
+        "docbuild": "latest",
+        "docbuilder": "latest",
+        "docbytest": "latest",
+        "docbytest-ui": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-createj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "createjs": "latest",
+        "createjs-browserify": "latest",
+        "createjs-cmd": "latest",
+        "createjs-collection": "latest",
+        "createjs-combined": "latest",
+        "createjs-def": "latest",
+        "createjs-easeljs": "latest",
+        "createjs-elements": "latest",
+        "createjs-free-transform-tool": "latest",
+        "createjs-global": "latest",
+        "createjs-haxe": "latest",
+        "createjs-inspector": "latest",
+        "createjs-libs": "latest",
+        "createjs-module": "latest",
+        "createjs-npm": "latest",
+        "createjs-preloadjs": "latest",
+        "createjs-screen-adaptation": "latest",
+        "createjs-soundjs": "latest",
+        "createjs-spritesheet-generator": "latest",
+        "createjs-suite": "latest",
+        "createjs-tweaks": "latest",
+        "createjs-tweenjs": "latest",
+        "createjs-types": "latest",
+        "createjs_bin": "latest",
+        "createjson": "latest",
+        "createjsx": "latest"
+    }
+}

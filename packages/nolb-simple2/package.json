@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-simple2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simple2big": "latest",
+        "simple2canvas": "latest",
+        "simple2d": "latest",
+        "simple2d-geometry": "latest",
+        "simple2e": "latest",
+        "simple2fa": "latest",
+        "simple2k13": "latest",
+        "simple2ofx": "latest",
+        "simple2trad": "latest",
+        "simple2trad-loader": "latest",
+        "simple2waybinding": "latest"
+    }
+}

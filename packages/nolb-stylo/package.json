@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-stylo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylo": "latest",
+        "stylo-vscode": "latest",
+        "stylobate": "latest",
+        "stylobate-islands": "latest",
+        "stylobate-wireframe": "latest",
+        "stylobuild": "latest",
+        "stylog": "latest",
+        "stylogs": "latest",
+        "stylolisk": "latest",
+        "stylomatic": "latest",
+        "stylon": "latest",
+        "stylops": "latest",
+        "stylor": "latest",
+        "stylorama": "latest",
+        "styloramify": "latest",
+        "styloramify-loader": "latest",
+        "stylord": "latest",
+        "stylos": "latest"
+    }
+}

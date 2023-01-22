@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-paga",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "paga-business": "latest",
+        "paga-collect": "latest",
+        "paga-con-btc-ui": "latest",
+        "paga-connect": "latest",
+        "paga-merchant": "latest",
+        "pagadero-payments-js": "latest",
+        "pagalworld": "latest",
+        "pagan": "latest",
+        "paganate": "latest",
+        "paganjs": "latest",
+        "pagapi": "latest",
+        "pagaris": "latest",
+        "pagarme": "latest",
+        "pagarme-bifrost-js": "latest",
+        "pagarme-card-hash": "latest",
+        "pagarme-client": "latest",
+        "pagarme-connect": "latest",
+        "pagarme-js-type": "latest",
+        "pagarme-js-types": "latest",
+        "pagarme-ng-checkout": "latest",
+        "pagarme-ng-popover": "latest",
+        "pagarme-nodejs": "latest",
+        "pagarmejs": "latest",
+        "pagasa-archiver": "latest",
+        "pagasa-parser": "latest"
+    }
+}

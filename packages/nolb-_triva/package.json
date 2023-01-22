@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_triva",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trivago/parallel-webpack": "latest",
+        "@trivago/preact-hooks-testing-library": "latest",
+        "@trivago/prettier-plugin-sort-imports": "latest",
+        "@trivago/samsa": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_tud",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tuddman/gremlin-orm": "latest",
+        "@tudopz/model": "latest",
+        "@tudor.gala/ckeditor5-build-classic": "latest",
+        "@tudor.gala/ckeditor5-custom-build": "latest",
+        "@tudorbng/spinning-coin-effect": "latest",
+        "@tudorilisoi/strapi-provider-email-gmail-oauth2": "latest",
+        "@tudorilisoi/strapi-provider-email-nodemailer-smtp": "latest",
+        "@tudorilisoi/strapi-provider-email-socketlabs": "latest",
+        "@tudy/common": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_sn8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sn8/themify-icons": "latest",
+        "@sn8/vue-context-bootstrap": "latest",
+        "@sn8/vuedraggable": "latest",
+        "@sn8/vuex-undo-redo": "latest",
+        "@sn8z/pop-pop.css": "latest"
+    }
+}

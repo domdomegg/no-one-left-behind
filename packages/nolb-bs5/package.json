@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-bs5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bs5-input-count": "latest",
+        "bs5-lightbox": "latest",
+        "bs5-offcanvas-search": "latest",
+        "bs5-react-elements": "latest",
+        "bs5-superbox": "latest",
+        "bs5-toast": "latest",
+        "bs5-utils": "latest",
+        "bs58": "latest",
+        "bs58-rn": "latest",
+        "bs58audaxcheck": "latest",
+        "bs58caddr": "latest",
+        "bs58chcek": "latest",
+        "bs58check": "latest",
+        "bs58check-b4bcoin": "latest",
+        "bs58check-mc": "latest",
+        "bs58check-ts": "latest",
+        "bs58chek": "latest",
+        "bs58chekc": "latest",
+        "bs58grscheck": "latest",
+        "bs58smartcheck": "latest",
+        "bs58swiftcheck": "latest",
+        "bs5demo": "latest"
+    }
+}

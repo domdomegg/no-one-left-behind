@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-shv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shv-product-card": "latest",
+        "shva-npmjs-frame-print": "latest",
+        "shvets_gallery": "latest",
+        "shvidko": "latest",
+        "shvidko-redis": "latest",
+        "shvl": "latest",
+        "shvua": "latest"
+    }
+}

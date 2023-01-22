@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-minir",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "minir": "latest",
+        "miniraf": "latest",
+        "minireducer": "latest",
+        "minirefresh": "latest",
+        "minirem.css": "latest",
+        "minirepl": "latest",
+        "minireq": "latest",
+        "minirequest": "latest",
+        "minireset.css": "latest",
+        "minirocket": "latest",
+        "miniroll": "latest",
+        "miniroutes": "latest",
+        "minirox": "latest",
+        "minirpc": "latest",
+        "miniruler": "latest"
+    }
+}

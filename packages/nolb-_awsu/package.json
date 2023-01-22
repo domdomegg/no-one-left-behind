@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_awsu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@awsui/browser-test-tools": "latest",
+        "@awsui/collection-hooks": "latest",
+        "@awsui/components-react": "latest",
+        "@awsui/design-tokens": "latest",
+        "@awsui/documenter": "latest",
+        "@awsui/global-styles": "latest",
+        "@awsui/jest-preset": "latest",
+        "@awsui/test-utils-converter": "latest",
+        "@awsui/test-utils-core": "latest",
+        "@awsui/theming-build": "latest",
+        "@awsui/theming-runtime": "latest"
+    }
+}

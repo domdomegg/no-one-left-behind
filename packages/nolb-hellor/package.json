@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-hellor",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hellorahul": "latest",
+        "helloreactnative": "latest",
+        "helloregon": "latest",
+        "hellorenmm": "latest",
+        "helloriz": "latest",
+        "hellorn2": "latest",
+        "hellorn3": "latest",
+        "hellorourouli": "latest",
+        "hellortc": "latest",
+        "hellorustmodules": "latest"
+    }
+}

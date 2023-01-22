@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_pah",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pahans/react-htmltree": "latest",
+        "@pahlevani/pfm-axios-client": "latest",
+        "@pahlevani/pfm-js-client": "latest",
+        "@pahor167/hardhat-deploy": "latest",
+        "@pahud/aws-codebuild-patterns": "latest",
+        "@pahud/aws-fargate-cicd": "latest",
+        "@pahud/aws-serverless-patterns": "latest",
+        "@pahud/cdk-github-oidc": "latest",
+        "@pahud/cdktf-aws-ecs": "latest",
+        "@pahud/cdktf-aws-eks": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-htte",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htte": "latest",
+        "htte-cli": "latest",
+        "htte-client-echo": "latest",
+        "htte-client-grpc": "latest",
+        "htte-client-http": "latest",
+        "htte-context": "latest",
+        "htte-diff": "latest",
+        "htte-errors": "latest",
+        "htte-plugin-builtin": "latest",
+        "htte-query": "latest",
+        "htte-reporter-cli": "latest",
+        "htte-reporter-html": "latest",
+        "htte-resolve": "latest",
+        "htte-runner": "latest",
+        "htte-schema-validator": "latest",
+        "htte-session": "latest",
+        "htte-units": "latest",
+        "htte-utils": "latest",
+        "htteepee": "latest",
+        "httehiswap": "latest",
+        "httelnet": "latest"
+    }
+}

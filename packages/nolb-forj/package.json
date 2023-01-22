@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-forj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "forja": "latest",
+        "forjio-amqp-servicebus": "latest",
+        "forjio-orm-typeorm": "latest",
+        "forjs": "latest",
+        "forjs-components": "latest",
+        "forjuan": "latest"
+    }
+}

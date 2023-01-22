@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-seaq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "seaq": "latest",
+        "seaql": "latest",
+        "seaqlord_sdk": "latest",
+        "seaquel": "latest",
+        "seaquell": "latest",
+        "seaquest-cli": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-usy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "usy_initdata_asyncjobg01": "latest",
+        "usy_initdata_loaderg01": "latest",
+        "usy_initdata_test-runnerg01": "latest",
+        "usy_support_metamodelgeneratorg01": "latest",
+        "usymbol": "latest",
+        "usync": "latest",
+        "usyncit": "latest",
+        "usys-deploy": "latest"
+    }
+}

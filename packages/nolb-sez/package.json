@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-sez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sez": "latest",
+        "sezam": "latest",
+        "sezam-group-manager-client": "latest",
+        "sezam-shareds": "latest",
+        "sezin": "latest",
+        "seznam-cdn": "latest",
+        "sezocountry": "latest",
+        "sezong": "latest",
+        "sezong-platform-html": "latest",
+        "sezong-renderer-html-emphasis": "latest",
+        "sezong-rule-emphasis": "latest",
+        "sezy-design": "latest",
+        "sezzle-checkout-button": "latest",
+        "sezzle-js": "latest"
+    }
+}

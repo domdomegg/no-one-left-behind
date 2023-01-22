@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-randome",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "randome": "latest",
+        "randome-encode": "latest",
+        "randome-messages": "latest",
+        "randome_phone_uz": "latest",
+        "randomemoviename": "latest",
+        "randomer": "latest",
+        "randomer.js": "latest",
+        "randomes-messages-yh": "latest",
+        "randomescape": "latest",
+        "randomess-messages": "latest"
+    }
+}

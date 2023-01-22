@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_e1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@e1011/es-kit": "latest",
+        "@e10in/twitter-api-client": "latest",
+        "@e10in/videojs-record": "latest",
+        "@e11/angular": "latest",
+        "@e11/helpers": "latest",
+        "@e11/libraries": "latest",
+        "@e11/middy-middlewares": "latest",
+        "@e11community/envii": "latest",
+        "@e11community/function-deployer": "latest",
+        "@e11community/token-exporter": "latest",
+        "@e1corp/common": "latest",
+        "@e1sen-stein/event-emitter": "latest",
+        "@e1sen-stein/jquery": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-usen",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "usen": "latest",
+        "usenet-crawler-js-api": "latest",
+        "usenode-release": "latest",
+        "usenonce": "latest",
+        "usenpm": "latest",
+        "usent": "latest",
+        "usent-controls": "latest",
+        "usentry": "latest",
+        "usentry-cli": "latest"
+    }
+}

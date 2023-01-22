@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-dyns",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dynsampler": "latest",
+        "dynsdjs": "latest",
+        "dynsdjs-plugin-adblock": "latest",
+        "dynsdjs-plugin-api": "latest",
+        "dynsdjs-plugin-docker": "latest",
+        "dynsdjs-plugin-doh-dot": "latest",
+        "dynseg-util": "latest"
+    }
+}

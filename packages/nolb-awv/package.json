@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-awv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "awv": "latest",
+        "awv-api": "latest",
+        "awv.3": "latest",
+        "awv.3-next": "latest",
+        "awv3": "latest",
+        "awv3-icons": "latest",
+        "awv3-next": "latest",
+        "awv3-node": "latest",
+        "awv3-plugin-dimension": "latest",
+        "awv3-protocol": "latest",
+        "awv3-react": "latest"
+    }
+}

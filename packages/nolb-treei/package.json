@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-treei",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "treeify": "latest",
+        "treeify-book": "latest",
+        "treeify-cli": "latest",
+        "treeify-js": "latest",
+        "treeify-paths": "latest",
+        "treeing-cur-content": "latest",
+        "treeish": "latest",
+        "treeit": "latest",
+        "treeize": "latest"
+    }
+}

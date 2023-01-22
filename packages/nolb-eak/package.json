@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-eak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eak": "latest",
+        "eak-hello-world": "latest",
+        "eak_test": "latest",
+        "eak_test0": "latest",
+        "eaknoppanut": "latest",
+        "eaknoppnut": "latest",
+        "eakwell": "latest"
+    }
+}

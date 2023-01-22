@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-mapf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mapf": "latest",
+        "mapfile-ejs": "latest",
+        "mapfiles": "latest",
+        "mapfilter-db": "latest",
+        "mapfilter-server": "latest",
+        "mapfml12345": "latest",
+        "mapfre-components": "latest",
+        "mapfre-integrator": "latest",
+        "mapfs": "latest",
+        "mapfull": "latest",
+        "mapfuncs": "latest",
+        "mapfunction": "latest"
+    }
+}

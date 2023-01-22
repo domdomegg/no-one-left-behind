@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-browserm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "browserman": "latest",
+        "browserman-client": "latest",
+        "browserme": "latest",
+        "browsermob": "latest",
+        "browsermob-proxy": "latest",
+        "browsermob-proxy-api": "latest",
+        "browsermob-proxy-api-client": "latest",
+        "browsermob-proxy-client": "latest",
+        "browsermob-proxy-client-nodejs": "latest",
+        "browsermob-proxy-runner": "latest",
+        "browsermob-standalone": "latest",
+        "browsermodules": "latest",
+        "browsermon": "latest",
+        "browsermonkey": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-ds1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ds1054z-cap": "latest",
+        "ds1302": "latest",
+        "ds1337": "latest",
+        "ds1621": "latest",
+        "ds1820-temp": "latest",
+        "ds18b20": "latest",
+        "ds18b20-gpio-mock": "latest",
+        "ds18b20-raspi": "latest",
+        "ds18b20-raspi-typescript": "latest",
+        "ds18b20-temperature-reader": "latest",
+        "ds18x20": "latest",
+        "ds18x20-rest": "latest"
+    }
+}

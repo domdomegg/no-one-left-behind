@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_chw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chwafo/components_vue2": "latest",
+        "@chwangstudy/build_webpack": "latest",
+        "@chwangstudy/large-number": "latest",
+        "@chwaqarali6/formrenderer": "latest",
+        "@chwech/cli": "latest",
+        "@chwech/eslint-config": "latest",
+        "@chwech/inject-base-element-webpack-plugin": "latest",
+        "@chwech/utils": "latest",
+        "@chwingwong/zxcvbn": "latest",
+        "@chwq/hooks": "latest",
+        "@chwq/utils": "latest",
+        "@chwzr/cavoricons": "latest",
+        "@chwzr/cavoricons-react": "latest",
+        "@chwzr/jupyter-vje-extension": "latest"
+    }
+}

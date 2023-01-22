@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_gln",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gln-libs/eslint-plugins": "latest",
+        "@gln-libs/node-infrastructure": "latest",
+        "@gln-libs/templates": "latest",
+        "@glng/demo-npm-mc": "latest",
+        "@glng/gdemoaoo": "latest",
+        "@glnotebook/local-api": "latest",
+        "@glnotebook/local-client": "latest",
+        "@glns/eslint-config-basic": "latest",
+        "@glns/eslint-config-typescript": "latest",
+        "@glns/eslint-config-vue2": "latest",
+        "@glns/eslint-config-vue3": "latest"
+    }
+}

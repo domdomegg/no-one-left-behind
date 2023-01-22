@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-wev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wEventHandler": "latest",
+        "wev": "latest",
+        "weva-admin-messenger": "latest",
+        "weva-components": "latest",
+        "weva-messenger-web": "latest",
+        "weve": "latest",
+        "wevent": "latest",
+        "weverifycode": "latest",
+        "weverse": "latest",
+        "weview": "latest",
+        "wevm": "latest",
+        "wevue": "latest",
+        "wevue-flexbox": "latest",
+        "wevue-native": "latest",
+        "wevue-tools": "latest",
+        "wevy": "latest"
+    }
+}

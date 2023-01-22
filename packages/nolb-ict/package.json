@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-ict",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ict": "latest",
+        "ict-alice": "latest",
+        "ict-angular-sdk": "latest",
+        "ict-button": "latest",
+        "ict-cli-demo": "latest",
+        "ict-components": "latest",
+        "ict-ffechart": "latest",
+        "ict-ffui": "latest",
+        "ict-gopro-react-icon": "latest",
+        "ict-grid-editor-note": "latest",
+        "ict-juuust-react-icon": "latest",
+        "ict_three": "latest",
+        "ictclas": "latest",
+        "icte-library-v1": "latest",
+        "icte-library-v2": "latest",
+        "ictfax-ts": "latest",
+        "ictfied": "latest",
+        "ictinus": "latest",
+        "ictool": "latest",
+        "ictswapv2-sdk": "latest",
+        "icttset1": "latest",
+        "ictuniswap-v2-sdk": "latest",
+        "ictuniswap-v3-sdk": "latest",
+        "ictuniswapv2-sdk-core": "latest",
+        "ictuniswapv2-v3sdk-core": "latest",
+        "ictvapp": "latest",
+        "ictx": "latest"
+    }
+}

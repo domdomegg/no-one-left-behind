@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-mobo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mobo": "latest",
+        "mobo-backend": "latest",
+        "mobo-ui": "latest",
+        "mobone": "latest",
+        "mobot": "latest",
+        "moboweb-base-serverless": "latest",
+        "mobox": "latest"
+    }
+}

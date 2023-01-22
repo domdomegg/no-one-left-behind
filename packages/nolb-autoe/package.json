@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-autoe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "autoembed": "latest",
+        "autoencoder": "latest",
+        "autoenv": "latest",
+        "autoenvconfig": "latest",
+        "autoer": "latest",
+        "autoesc": "latest",
+        "autoescale": "latest",
+        "autoesm": "latest",
+        "autoevo": "latest",
+        "autoexec": "latest",
+        "autoexport_notion_content": "latest",
+        "autoexposeplugin": "latest",
+        "autoexpress": "latest"
+    }
+}

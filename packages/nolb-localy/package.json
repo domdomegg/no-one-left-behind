@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-localy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "localytics": "latest",
+        "localytics-cordova": "latest",
+        "localytics-react-native": "latest",
+        "localytics-react-native-android": "latest",
+        "localytics-react-native-dev": "latest",
+        "localytics-react-native-ios": "latest",
+        "localytics-react-native-legacy": "latest",
+        "localyze": "latest"
+    }
+}

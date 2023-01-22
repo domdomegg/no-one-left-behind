@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-cono",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cono-base": "latest",
+        "cono-vars": "latest",
+        "conode": "latest",
+        "conoha": "latest",
+        "conoha-dns": "latest",
+        "conoha-storage": "latest",
+        "conohachan-wallpaper": "latest",
+        "conor": "latest",
+        "conor-pages": "latest",
+        "conorjohnston-resume": "latest",
+        "conors-test-npm-semvers": "latest",
+        "conors-toast": "latest",
+        "conorwhyte-components": "latest",
+        "conorwhyte-header": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-fastt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fastt": "latest",
+        "fasttail": "latest",
+        "fasttalk-dbconnect": "latest",
+        "fastter": "latest",
+        "fasttest": "latest",
+        "fasttext": "latest",
+        "fasttext-doc-zh": "latest",
+        "fasttext-js": "latest",
+        "fasttext-lid": "latest",
+        "fasttext-native": "latest",
+        "fasttext-node": "latest",
+        "fasttext.js": "latest",
+        "fasttextweb": "latest",
+        "fasttrack-cli": "latest",
+        "fasttrack-client": "latest",
+        "fasttrack_lab3": "latest",
+        "fasttrim": "latest",
+        "fasttunnel": "latest"
+    }
+}

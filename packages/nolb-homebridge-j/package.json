@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-homebridge-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "homebridge-jablotron": "latest",
+        "homebridge-jablotron-2rev": "latest",
+        "homebridge-jablotron-mqtt": "latest",
+        "homebridge-jeedom": "latest",
+        "homebridge-jeedom-platform": "latest",
+        "homebridge-jeelink": "latest",
+        "homebridge-jellyfin": "latest",
+        "homebridge-jema-heater": "latest",
+        "homebridge-jema-terminal": "latest",
+        "homebridge-jewish-calendar": "latest",
+        "homebridge-jk-test": "latest",
+        "homebridge-jlr-incontrol": "latest",
+        "homebridge-jphsb": "latest",
+        "homebridge-jphsi": "latest",
+        "homebridge-jqx00": "latest",
+        "homebridge-juicebox": "latest",
+        "homebridge-jvc-projector": "latest",
+        "homebridge-jvctv": "latest"
+    }
+}

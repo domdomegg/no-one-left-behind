@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_kig",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kigary/test_widget": "latest",
+        "@kigi/base": "latest",
+        "@kigi/components": "latest",
+        "@kigi/login": "latest",
+        "@kigi/overlayscrollbars": "latest",
+        "@kigiri/pure": "latest"
+    }
+}

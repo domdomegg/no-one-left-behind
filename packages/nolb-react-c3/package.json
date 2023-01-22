@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-react-c3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-c3": "latest",
+        "react-c3-component": "latest",
+        "react-c3-random": "latest",
+        "react-c3-wrapper": "latest",
+        "react-c3js": "latest",
+        "react-c3js-feri": "latest"
+    }
+}

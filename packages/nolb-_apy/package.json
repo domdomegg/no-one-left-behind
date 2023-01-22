@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_apy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@apyt/convert": "latest",
+        "@apyt/data": "latest",
+        "@apyt/generate": "latest",
+        "@apyt/image-processor": "latest",
+        "@apyt/search": "latest",
+        "@apyt/test": "latest",
+        "@apyt/v3": "latest",
+        "@apyt/validate": "latest"
+    }
+}

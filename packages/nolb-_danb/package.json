@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_danb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@danbi-fi/danbi-net": "latest",
+        "@danbi-fi/eslint-config-danbi-base": "latest",
+        "@danbi-fi/juso2geolocation": "latest",
+        "@danbi-fi/prettier-config": "latest",
+        "@danbowles/hello-wasm": "latest",
+        "@danbruegge/gatsby-plugin-stylelint": "latest",
+        "@danbucholtz/ng-router": "latest",
+        "@danbucholtz/rollup-commonjs-unambiguous-fork": "latest",
+        "@danbucholtz/stencil-router": "latest",
+        "@danbucholtz/zone.js": "latest",
+        "@danburton/reach-stdlib": "latest",
+        "@danburzo/fetch-charset-detection": "latest"
+    }
+}

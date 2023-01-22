@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-imv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "imv": "latest",
+        "imv7": "latest",
+        "imvalid": "latest",
+        "imvc-auto-lang": "latest",
+        "imvc-doc": "latest",
+        "imvdb": "latest",
+        "imverify": "latest",
+        "imvi": "latest",
+        "imvv": "latest",
+        "imvvm": "latest"
+    }
+}

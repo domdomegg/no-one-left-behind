@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_c7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@c708423/module-a": "latest",
+        "@c708423/module-b": "latest",
+        "@c708423/module-core": "latest",
+        "@c77/enums": "latest",
+        "@c77/exceptions": "latest",
+        "@c77/response": "latest",
+        "@c7n-umi/plugin-layout": "latest",
+        "@c7n-umi/preset-react": "latest",
+        "@c7v1/utils": "latest",
+        "@c7v1/w-lib": "latest"
+    }
+}

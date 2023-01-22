@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-chih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chihab": "latest",
+        "chihaiwei-egg": "latest",
+        "chihaiwei-kaoshi": "latest",
+        "chihaiwei-work": "latest",
+        "chihaiwei_demo": "latest",
+        "chihaiwei_demofile": "latest",
+        "chihaiwei_file": "latest",
+        "chihaya": "latest",
+        "chiheihello": "latest",
+        "chihuahua": "latest",
+        "chihuahua-reporters": "latest",
+        "chihuahua-tester": "latest"
+    }
+}

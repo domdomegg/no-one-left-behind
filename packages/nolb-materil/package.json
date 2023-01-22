@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-materil",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "materilas-assets-inventory": "latest",
+        "materilas-content-title": "latest",
+        "materilas-content-title-xin": "latest",
+        "materilas-data-source": "latest",
+        "materilas-example-block": "latest",
+        "materilas-example-scaffold": "latest",
+        "materilas-gaia-ice-filtertable": "latest",
+        "materilas-home-map": "latest",
+        "materilas-vue-admin-typescript": "latest",
+        "materils-list": "latest"
+    }
+}

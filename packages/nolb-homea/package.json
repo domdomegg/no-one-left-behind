@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-homea",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "homeaaa": "latest",
+        "homeab": "latest",
+        "homeal-library-dropdown": "latest",
+        "homealert": "latest",
+        "homeanswer2": "latest",
+        "homeapp-common": "latest",
+        "homeassistant": "latest",
+        "homeassistant-cli": "latest",
+        "homeassistant-desktop": "latest",
+        "homeassistant-frontend-raceland": "latest",
+        "homeassistant-js-yaml-schema": "latest",
+        "homeassistant-react-hooks": "latest",
+        "homeassistant-rx": "latest",
+        "homeassistant-rxjs": "latest",
+        "homeassistant-ws": "latest",
+        "homeautomation-winston-logger": "latest",
+        "homeaway": "latest",
+        "homeaway-sdk": "latest"
+    }
+}

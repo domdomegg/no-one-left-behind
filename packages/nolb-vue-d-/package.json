@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-vue-d-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-d-card": "latest",
+        "vue-d-cli": "latest",
+        "vue-d-img-down": "latest",
+        "vue-d-media": "latest",
+        "vue-d-you-look-at-the-time": "latest"
+    }
+}

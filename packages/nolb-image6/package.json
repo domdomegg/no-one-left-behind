@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-image6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "image6": "latest",
+        "image64": "latest",
+        "image64-to-rtf": "latest",
+        "image6500-gram": "latest"
+    }
+}

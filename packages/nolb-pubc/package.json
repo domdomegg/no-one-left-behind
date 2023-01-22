@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-pubc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pubchain": "latest",
+        "pubchan": "latest",
+        "pubchat-cli": "latest",
+        "pubcheck": "latest",
+        "pubchem": "latest",
+        "pubchem-access": "latest",
+        "pubchem-elements": "latest",
+        "pubcloud-mobile-dplayer": "latest",
+        "pubcontent": "latest",
+        "pubcontrol": "latest",
+        "pubcop": "latest",
+        "pubcore-create-package": "latest",
+        "pubcore-http": "latest",
+        "pubcore-react-datatable": "latest",
+        "pubcore-reducer-datatable": "latest",
+        "pubcore-state": "latest",
+        "pubcore-ui-text": "latest"
+    }
+}

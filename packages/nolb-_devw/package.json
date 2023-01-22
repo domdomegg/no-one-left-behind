@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_devw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@devwareapps/devware-cap": "latest",
+        "@devwareapps/devware-cap-cli": "latest",
+        "@devwareapps/numeric-directive": "latest",
+        "@devwithimagination/homebridge-ebeco": "latest",
+        "@devwithimagination/homebridge-ewelink-max": "latest",
+        "@devwithimagination/toggl-summary-cli": "latest",
+        "@devwithmatt/holiday": "latest",
+        "@devwoo/draggable": "latest",
+        "@devwoo/sortable-list": "latest",
+        "@devwoo/use-intersection-observer": "latest",
+        "@devworklogix/hello-world": "latest",
+        "@devwritr/devwritr-core": "latest"
+    }
+}

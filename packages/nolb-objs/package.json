@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-objs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "objs": "latest",
+        "objs-collection": "latest",
+        "objset": "latest",
+        "objsortwlw6f": "latest",
+        "objss": "latest",
+        "objstorage": "latest",
+        "objstore": "latest",
+        "objstore-cms": "latest",
+        "objstream": "latest",
+        "objsub": "latest",
+        "objsync": "latest"
+    }
+}

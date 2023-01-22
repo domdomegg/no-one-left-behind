@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-stol",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stoldos-angular-components": "latest",
+        "stoldos-angular-core": "latest",
+        "stole": "latest",
+        "stolen": "latest",
+        "stolen-npms": "latest",
+        "stolid": "latest",
+        "stollefs-frame-print": "latest"
+    }
+}

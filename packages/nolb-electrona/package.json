@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-electrona",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ElectronAppUpdater": "latest",
+        "electronade": "latest",
+        "electronade-command": "latest",
+        "electronade-endecoder": "latest",
+        "electronade-endecoder-util": "latest",
+        "electronade-filestore": "latest",
+        "electronade-filestore-util": "latest",
+        "electronade-mongodbclient": "latest",
+        "electronade-mongodbclient-util": "latest",
+        "electronade-os": "latest",
+        "electronade-pgstore": "latest",
+        "electronade-pgstore-util": "latest",
+        "electronade-process": "latest"
+    }
+}

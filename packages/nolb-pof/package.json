@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-pof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pof": "latest",
+        "poff": "latest",
+        "pofile": "latest",
+        "pofocus": "latest",
+        "pofresh": "latest",
+        "pofresh-admin": "latest",
+        "pofresh-cli": "latest",
+        "pofresh-globalchannel-plugin": "latest",
+        "pofresh-http": "latest",
+        "pofresh-loader": "latest",
+        "pofresh-logger": "latest",
+        "pofresh-monitor": "latest",
+        "pofresh-protobuf": "latest",
+        "pofresh-protocol": "latest",
+        "pofresh-rpc": "latest",
+        "pofresh-scheduler": "latest",
+        "pofresh-status-plugin": "latest",
+        "pofrtiuqdnbvzkwx": "latest",
+        "pofw.js": "latest"
+    }
+}

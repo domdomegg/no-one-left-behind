@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-brak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brak": "latest",
+        "brake": "latest",
+        "brake-client": "latest",
+        "brakecode": "latest",
+        "braker-client": "latest",
+        "brakes": "latest",
+        "brakes-prometheus": "latest",
+        "brakko": "latest",
+        "brakkoli-html5-pmb": "latest",
+        "brakkoli-pmb": "latest",
+        "brakmic": "latest"
+    }
+}

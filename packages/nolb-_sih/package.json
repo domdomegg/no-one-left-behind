@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_sih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sihay.ztch/encrypt_lib": "latest",
+        "@sihay.ztch/logger-cb": "latest",
+        "@sihay.ztch/logger-digital-account": "latest",
+        "@sihay.ztch/logger-lms": "latest",
+        "@sihay.ztch/logger_async": "latest",
+        "@sihay.ztch/nestcli": "latest",
+        "@sihay.ztch/pagination_lib": "latest",
+        "@sihe/wocli": "latest",
+        "@sihl/core": "latest",
+        "@sihl/mysql": "latest",
+        "@sihl/users": "latest",
+        "@sihq/react": "latest",
+        "@sihq/reactive": "latest",
+        "@sihq/ui-components": "latest",
+        "@sihq/web-ui": "latest",
+        "@sihuaguofen/base-converter": "latest",
+        "@sihuaguofen/my-contract": "latest",
+        "@sihuaguofen/tsconfig_json": "latest"
+    }
+}

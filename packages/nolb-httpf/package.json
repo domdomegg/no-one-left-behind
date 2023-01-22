@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-httpf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "httpf": "latest",
+        "httpfd": "latest",
+        "httpfetch": "latest",
+        "httpfilter": "latest",
+        "httpfluent": "latest",
+        "httpfn": "latest",
+        "httpforwarder-cli": "latest",
+        "httpforwarder.js": "latest",
+        "httpfrk": "latest",
+        "httpfunc": "latest",
+        "httpfy": "latest"
+    }
+}

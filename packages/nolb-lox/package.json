@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-lox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lox": "latest",
+        "lox-x": "latest",
+        "lox228": "latest",
+        "lox2indego": "latest",
+        "lox2thz": "latest",
+        "loxberry-express-dev-server": "latest",
+        "loxe": "latest",
+        "loxer": "latest",
+        "loxia": "latest",
+        "loxium": "latest",
+        "loxjs": "latest",
+        "loxone-nodejs": "latest",
+        "loxone2mqtt": "latest",
+        "loxt": "latest",
+        "loxy": "latest",
+        "loxyzz": "latest"
+    }
+}

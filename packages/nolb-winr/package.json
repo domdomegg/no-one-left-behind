@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-winr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "winra-hello-mars": "latest",
+        "winradio": "latest",
+        "winragit-hello-mars": "latest",
+        "winranpms": "latest",
+        "winrargenerator": "latest",
+        "winrarjs": "latest",
+        "winrates-calculator": "latest",
+        "winrawprinter": "latest",
+        "winredbird": "latest",
+        "winreg": "latest",
+        "winreg-cli": "latest",
+        "winreg-ffi": "latest",
+        "winreg-silent": "latest",
+        "winreg-ts": "latest",
+        "winreg-utf8": "latest",
+        "winreg-vbs": "latest",
+        "winreglib": "latest",
+        "winregsync": "latest",
+        "winresize-event": "latest",
+        "winresourcer": "latest",
+        "winrmjs": "latest",
+        "winrow": "latest",
+        "winrow-logger": "latest",
+        "winrow-repository": "latest",
+        "winrow-transform": "latest",
+        "winrt-net": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-shex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shex": "latest",
+        "shex-codegen": "latest",
+        "shex-examples": "latest",
+        "shex-html": "latest",
+        "shex-methods": "latest",
+        "shex-next": "latest",
+        "shex-test": "latest",
+        "shex-wikidata": "latest",
+        "shexj-traverser": "latest",
+        "shexj2typeandcontext": "latest",
+        "shexy": "latest"
+    }
+}

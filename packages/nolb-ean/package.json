@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-ean",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ean": "latest",
+        "ean-check": "latest",
+        "ean-control": "latest",
+        "ean-generator": "latest",
+        "ean-native": "latest",
+        "ean-platter": "latest",
+        "ean-search": "latest",
+        "ean-validator": "latest",
+        "ean128c": "latest",
+        "ean13-lib": "latest",
+        "eanalytics": "latest",
+        "eanalytics-react": "latest",
+        "eang": "latest",
+        "eang-layout": "latest",
+        "eant": "latest"
+    }
+}

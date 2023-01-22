@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-micron",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "micron": "latest",
+        "micron-client": "latest",
+        "micron-runner": "latest",
+        "micron-service": "latest",
+        "micron-service-editor-typescript": "latest",
+        "micron-throttle": "latest",
+        "micronats": "latest",
+        "microncss": "latest",
+        "microne": "latest",
+        "microner": "latest",
+        "microng-user": "latest",
+        "micronize": "latest",
+        "micronode": "latest",
+        "micronode-cli": "latest",
+        "micronodelib": "latest",
+        "micronote": "latest",
+        "micronotification": "latest",
+        "microns": "latest",
+        "micronuron": "latest"
+    }
+}

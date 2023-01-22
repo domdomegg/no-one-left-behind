@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-mod3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mod3": "latest",
+        "mod3-modifier": "latest",
+        "mod3-modifier-threejs": "latest"
+    }
+}

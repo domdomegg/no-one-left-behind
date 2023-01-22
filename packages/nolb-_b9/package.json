@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_b9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@b9/homebridge-purpleair-sensor": "latest",
+        "@b9/react-native-autocomplete-search": "latest",
+        "@b9/react-native-ui-components": "latest",
+        "@b9g/crank": "latest",
+        "@b9g/revise": "latest"
+    }
+}

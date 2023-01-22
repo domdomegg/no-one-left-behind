@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-parsej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "parsejs": "latest",
+        "parsejs-expression": "latest",
+        "parsejs-grammar": "latest",
+        "parsejs-recursive-parser": "latest",
+        "parsejs-rule": "latest",
+        "parsejs-symbol": "latest",
+        "parsejs-token": "latest",
+        "parsejson": "latest",
+        "parsejson-module": "latest"
+    }
+}

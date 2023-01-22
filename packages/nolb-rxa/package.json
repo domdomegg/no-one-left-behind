@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-rxa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rxa": "latest",
+        "rxact": "latest",
+        "rxact-debugger": "latest",
+        "rxact-react": "latest",
+        "rxact-rxjs": "latest",
+        "rxact-xstream": "latest",
+        "rxamqp": "latest",
+        "rxan-core": "latest",
+        "rxan-react": "latest",
+        "rxanimate": "latest",
+        "rxap": "latest",
+        "rxapi": "latest",
+        "rxapp": "latest",
+        "rxaviers-foo-bar": "latest"
+    }
+}

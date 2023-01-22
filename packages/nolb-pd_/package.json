@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-pd_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pd.ajax": "latest",
+        "pd.gcp": "latest",
+        "pd_encrypted_storage": "latest",
+        "pd_nodejs_lab4": "latest",
+        "pd_react-native-flatlist-alphabet": "latest",
+        "pd_tools": "latest",
+        "pd_tools_js": "latest",
+        "pd_translation": "latest"
+    }
+}

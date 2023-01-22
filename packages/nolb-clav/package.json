@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-clav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clavascript": "latest",
+        "clavem": "latest",
+        "clavem.js": "latest",
+        "claves": "latest",
+        "claviature": "latest",
+        "clavier": "latest",
+        "clavin_food": "latest",
+        "clavinet": "latest",
+        "clavis": "latest",
+        "clavis-sermo": "latest",
+        "claviz-charts": "latest",
+        "claviz-function-docs": "latest",
+        "claviz-hub": "latest",
+        "claviz-node-api": "latest",
+        "claviz-qlik": "latest"
+    }
+}

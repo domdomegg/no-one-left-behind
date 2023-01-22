@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-local_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "local.dbstore": "latest",
+        "local.dev": "latest",
+        "local.dll": "latest",
+        "local.min.js": "latest",
+        "local_argasmei": "latest",
+        "local_endpoint_server": "latest",
+        "local_fs": "latest",
+        "local_modules": "latest",
+        "local_mylife": "latest",
+        "local_nodejs_server": "latest",
+        "local_orm": "latest",
+        "local_placeholder_image": "latest",
+        "local_server": "latest",
+        "local_storage_cachable": "latest",
+        "local_storage_demo": "latest",
+        "local_testapp": "latest",
+        "local_themer": "latest",
+        "local_typescript_react": "latest",
+        "local_xcj": "latest"
+    }
+}

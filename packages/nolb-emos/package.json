@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-emos",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emosa": "latest",
+        "emosd": "latest",
+        "emosewa": "latest",
+        "emosewa-one": "latest",
+        "emosewa2": "latest",
+        "emoshort": "latest",
+        "emoss": "latest",
+        "emosvg": "latest"
+    }
+}

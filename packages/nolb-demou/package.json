@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-demou",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "demoup": "latest",
+        "demoup-react": "latest",
+        "demoup-test": "latest",
+        "demouser": "latest",
+        "demouser-arr": "latest",
+        "demouserapi": "latest",
+        "demoutsav-pkg": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_loz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lozada/platzom": "latest",
+        "@lozadaa/react-orgchart": "latest",
+        "@lozio/ffmpeg.js": "latest",
+        "@lozio/hello-wasm": "latest",
+        "@lozio/react-watermark": "latest",
+        "@lozlow/bs-atdgen-generator": "latest",
+        "@loztsper/eslint-config-base": "latest",
+        "@lozvoe/eslint-config": "latest",
+        "@lozvoe/eslint-config-base": "latest",
+        "@lozvoe/eslint-config-react": "latest",
+        "@lozvoe/eslint-config-ts": "latest",
+        "@lozvoe/eslint-config-vue": "latest",
+        "@lozvoe/kit": "latest",
+        "@lozvoely/npm-push-ci": "latest"
+    }
+}

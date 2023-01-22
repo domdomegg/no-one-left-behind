@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-vali-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vali-admin": "latest",
+        "vali-cli": "latest",
+        "vali-date": "latest",
+        "vali-filter": "latest",
+        "vali-guard": "latest",
+        "vali-util": "latest",
+        "vali-webpack": "latest",
+        "vali-webpack-vue": "latest",
+        "vali-webpack-vue3": "latest"
+    }
+}

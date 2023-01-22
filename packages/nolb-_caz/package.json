@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_caz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cazana/vue-pagination": "latest",
+        "@cazavi/md-links": "latest",
+        "@cazetto/eslint-config": "latest",
+        "@cazgem/symphony.js": "latest",
+        "@cazoo-it/eslint-plugin-eslint": "latest",
+        "@cazoo/eslint-plugin-eslint": "latest",
+        "@cazoo/events": "latest",
+        "@cazoo/logger": "latest",
+        "@cazoo/maybe": "latest",
+        "@cazoo/telemetry": "latest",
+        "@cazoo/toggles": "latest",
+        "@cazzzer/pc-boiler-plate": "latest",
+        "@cazzzer/pilotcity-chat": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-thn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thn-icon-library": "latest",
+        "thneed-gfx": "latest",
+        "thneed-idealos-common": "latest",
+        "thng-query": "latest",
+        "thng-resource-mappings": "latest",
+        "thngs-league-cache": "latest",
+        "thngs-load": "latest",
+        "thngs-parse-url-params": "latest",
+        "thnki-react-file-reader": "latest",
+        "thnki-react-modal": "latest",
+        "thnovice-auth": "latest",
+        "thnovice-exception": "latest",
+        "thnovice-node_1": "latest",
+        "thnovice-oauth-client": "latest"
+    }
+}

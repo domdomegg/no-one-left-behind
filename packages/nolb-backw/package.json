@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-backw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "backwardjs": "latest",
+        "backwards": "latest",
+        "backwards.js": "latest",
+        "backwhite": "latest",
+        "backwire-hyperstore": "latest",
+        "backwire-mongomatcher": "latest",
+        "backwood-feathers": "latest",
+        "backwood-feathers-rest": "latest",
+        "backwood-feathers-sequelize": "latest",
+        "backwoods-rats": "latest",
+        "backwords-chainer": "latest",
+        "backwrap-db": "latest",
+        "backwrap-model": "latest"
+    }
+}

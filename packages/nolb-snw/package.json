@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-snw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "snw-events": "latest",
+        "snwit-fetch": "latest",
+        "snwit-mongo-paper": "latest",
+        "snwit-react-cli": "latest",
+        "snwit-ui": "latest",
+        "snws": "latest"
+    }
+}

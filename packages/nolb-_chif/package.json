@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_chif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chiffon/babel-webpack-plugin": "latest",
+        "@chiffon/prerender-webpack-plugin": "latest",
+        "@chiffon/prism": "latest",
+        "@chiffre/analytics-core": "latest",
+        "@chiffre/analytics-faker": "latest",
+        "@chiffre/analytics-processing": "latest",
+        "@chiffre/analytics-tracker": "latest",
+        "@chiffre/api": "latest",
+        "@chiffre/api-client": "latest",
+        "@chiffre/crypto": "latest",
+        "@chiffre/crypto-box": "latest",
+        "@chiffre/crypto-sign": "latest",
+        "@chiffre/design-system": "latest",
+        "@chiffre/push": "latest",
+        "@chiffre/push-cli": "latest",
+        "@chifi49/vue-airbnb-admin-calendar": "latest",
+        "@chifi49/vue-draggable": "latest",
+        "@chifi49/vue-item-group": "latest",
+        "@chifi49/vue-slideshow": "latest",
+        "@chifi49/vue-tipster": "latest",
+        "@chiflix/electron": "latest"
+    }
+}

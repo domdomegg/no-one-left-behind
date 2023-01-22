@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-teh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "teh": "latest",
+        "teh-hot-code-push-plugin": "latest",
+        "teh-hot-code-push-type": "latest",
+        "tehai": "latest",
+        "tehanu": "latest",
+        "tehanu-repo-coco": "latest",
+        "tehanu-repo-tape": "latest",
+        "tehanu-teas": "latest",
+        "tehanu-tenbo": "latest",
+        "tehanu-teru": "latest",
+        "tehc": "latest",
+        "tehe-components": "latest",
+        "tehe-utils": "latest",
+        "tehmv": "latest",
+        "tehnosk-components": "latest",
+        "tehran": "latest",
+        "tehran-bus": "latest",
+        "tehranjs": "latest",
+        "tehryanx-preinstall-script": "latest",
+        "tehryanx-test-with-deps": "latest",
+        "tehut-lib-21": "latest",
+        "tehzi_calc": "latest"
+    }
+}

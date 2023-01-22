@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-react-native-mn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-mn-rich-editor": "latest",
+        "react-native-mnemonic": "latest",
+        "react-native-mnemonic-key": "latest",
+        "react-native-mnemonic-keys": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_ev_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ev_connor_robertson/aws-serverless-express": "latest",
+        "@ev_connor_robertson/ev-common-components": "latest",
+        "@ev_connor_robertson/test": "latest",
+        "@ev_ex/evex-build-cms": "latest",
+        "@ev_ex/web-cms-build": "latest"
+    }
+}

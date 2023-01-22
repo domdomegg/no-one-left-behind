@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-starx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "starx": "latest",
+        "starx-conveter": "latest",
+        "starx-ethereum-helper": "latest",
+        "starx-lender-client": "latest",
+        "starx-ui": "latest",
+        "starxmaker-multiselect": "latest",
+        "starxutils": "latest"
+    }
+}

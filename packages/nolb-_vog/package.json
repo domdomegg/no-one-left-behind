@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_vog",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vogoid/moiler": "latest",
+        "@vogso/cp": "latest",
+        "@vogso/jsc": "latest",
+        "@vogso/maple": "latest",
+        "@vogso/rookie": "latest",
+        "@vogso/ui": "latest",
+        "@vogso/vue-ui": "latest",
+        "@vogso/wsp": "latest"
+    }
+}

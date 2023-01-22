@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-nativescript-e",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nativescript-easy-dialog": "latest",
+        "nativescript-easy-getui": "latest",
+        "nativescript-easy-notification-banner": "latest",
+        "nativescript-easy-utils": "latest",
+        "nativescript-easy-xmpp": "latest",
+        "nativescript-echo": "latest",
+        "nativescript-effects": "latest",
+        "nativescript-electrumx-client": "latest",
+        "nativescript-email": "latest",
+        "nativescript-emoji": "latest",
+        "nativescript-emoji-picker": "latest",
+        "nativescript-empty-template": "latest",
+        "nativescript-emulator-reload": "latest",
+        "nativescript-enumerable": "latest",
+        "nativescript-envinfo": "latest",
+        "nativescript-environment-variables-hook": "latest",
+        "nativescript-epub": "latest",
+        "nativescript-epub-reader": "latest",
+        "nativescript-escpos-printer": "latest",
+        "nativescript-estimote-plugin": "latest",
+        "nativescript-eventify": "latest",
+        "nativescript-exit": "latest",
+        "nativescript-exoplayer": "latest",
+        "nativescript-explosionfield": "latest",
+        "nativescript-expresspay": "latest",
+        "nativescript-extendedinfo": "latest",
+        "nativescript-ezaudio": "latest"
+    }
+}

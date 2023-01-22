@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_sl-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sl-codeblaster/nodejs-madura-api": "latest",
+        "@sl-codeblaster/react-3d-animated-card": "latest",
+        "@sl-nest-module/aws-lambda": "latest",
+        "@sl-note/local-api": "latest",
+        "@sl-note/local-client": "latest",
+        "@sl-nx/couch-pwd": "latest",
+        "@sl-nx/sofa-model": "latest",
+        "@sl-nx/superlogin-next": "latest",
+        "@sl-theia/create-vis-app": "latest",
+        "@sl-theia/full-screen": "latest",
+        "@sl-theia/socket-api-core": "latest",
+        "@sl-theia/theia-canvas": "latest",
+        "@sl-theia/theia-socket-io-client": "latest",
+        "@sl-theia/theia-utils": "latest",
+        "@sl-theia/theia-video": "latest",
+        "@sl-theia/theia-voice": "latest",
+        "@sl-theia/vis": "latest",
+        "@sl-theia/vis-plugins": "latest",
+        "@sl-ticketing/common": "latest",
+        "@sl-tickets/common": "latest"
+    }
+}

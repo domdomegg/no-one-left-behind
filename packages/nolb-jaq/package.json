@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-jaq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jaq": "latest",
+        "jaqen": "latest",
+        "jaqen-js": "latest",
+        "jaqpot-app": "latest",
+        "jaqpot-app-from-scratch": "latest",
+        "jaqpot-apps": "latest",
+        "jaqpot-full-app": "latest",
+        "jaqpot-new-app": "latest",
+        "jaqs": "latest",
+        "jaqs-cli": "latest",
+        "jaque": "latest",
+        "jaques": "latest"
+    }
+}

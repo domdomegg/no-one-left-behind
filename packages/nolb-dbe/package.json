@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-dbe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dbe": "latest",
+        "dbe2": "latest",
+        "dbeast": "latest",
+        "dbeasy": "latest",
+        "dbee": "latest",
+        "dbees-pub": "latest",
+        "dbel431": "latest",
+        "dbelenov-react-components_v2": "latest",
+        "dbelenov-react-components_v3": "latest",
+        "dbelenov-react-components_v4": "latest",
+        "dbelenov-react-components_v5": "latest",
+        "dbell": "latest",
+        "dbem": "latest",
+        "dbenvy-ci-controller-client": "latest",
+        "dbeo": "latest",
+        "dbeowulf": "latest",
+        "dber": "latest",
+        "dbet-channels-backend": "latest",
+        "dbeug": "latest",
+        "dbevolve": "latest",
+        "dbexecutors": "latest",
+        "dbexplorer": "latest",
+        "dbexportjs": "latest"
+    }
+}

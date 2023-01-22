@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-eq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-eq": "latest",
+        "react-equal-height": "latest",
+        "react-equalize": "latest",
+        "react-equalizer": "latest",
+        "react-equation": "latest",
+        "react-equation-editor": "latest",
+        "react-equilateral-polygon": "latest"
+    }
+}

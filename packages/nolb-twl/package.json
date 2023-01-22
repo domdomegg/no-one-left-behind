@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-twl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "twlistview": "latest",
+        "twls-wip": "latest",
+        "twlv": "latest",
+        "twlv-call": "latest",
+        "twlv-channel-socketio": "latest",
+        "twlv-channel-utp": "latest",
+        "twlv-channel-webrtc": "latest",
+        "twlv-chat": "latest",
+        "twlv-client": "latest",
+        "twlv-config": "latest",
+        "twlv-daemon": "latest",
+        "twlv-discovery-mdns": "latest",
+        "twlv-finder-mdns": "latest",
+        "twlv-identity": "latest",
+        "twlv-logger": "latest",
+        "twlv-storage-file": "latest",
+        "twlv-storage-memory": "latest",
+        "twlv-swarm": "latest",
+        "twly": "latest"
+    }
+}

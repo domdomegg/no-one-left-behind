@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_orz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@orz-ionic-lab/baidu-geolocation": "latest",
+        "@orz-ionic-lab/baidu-geolocation-ios": "latest",
+        "@orz/rpc": "latest",
+        "@orzechowa/randomid-generator": "latest",
+        "@orzechowskid/eslint-import-resolver-parcel": "latest",
+        "@orzechowskid/eslint-plugin-typelint": "latest",
+        "@orzelius/weathermodule": "latest",
+        "@orzfly/clipanion": "latest",
+        "@orzfly/mammoth": "latest",
+        "@orzr3/basic-form": "latest",
+        "@orzr3/my-ui": "latest",
+        "@orzr3/orzr3-ui": "latest",
+        "@orzr3/plugin-sum": "latest",
+        "@orzr3/test-ui": "latest",
+        "@orzr3/utils": "latest",
+        "@orzroa/vue-beautiful-chat": "latest"
+    }
+}

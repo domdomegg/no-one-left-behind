@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-lyj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lyj": "latest",
+        "lyj-builder-webpack": "latest",
+        "lyj-cli": "latest",
+        "lyj-cms": "latest",
+        "lyj-component": "latest",
+        "lyj-cs-test": "latest",
+        "lyj-imooc-lib": "latest",
+        "lyj-imooc-test": "latest",
+        "lyj-large-number": "latest",
+        "lyj-lowcode-material": "latest",
+        "lyj-pages": "latest",
+        "lyj-panel-toast": "latest",
+        "lyj-rand-function": "latest",
+        "lyj-test": "latest",
+        "lyj-ui": "latest",
+        "lyj202010122041": "latest",
+        "lyj98": "latest",
+        "lyj_cms_ui": "latest",
+        "lyj_test_utils": "latest",
+        "lyj_test_utils2": "latest",
+        "lyjbuttonui": "latest",
+        "lyjlyj": "latest",
+        "lyjs-node": "latest",
+        "lyjs-nodemailer": "latest",
+        "lyjserve": "latest",
+        "lyjson-comments": "latest",
+        "lyjvikingship": "latest",
+        "lyjweb": "latest"
+    }
+}

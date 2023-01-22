@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-se7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "se7enextrem": "latest",
+        "se7ensky-restify-preflight": "latest",
+        "se7ensky-restify-resource": "latest",
+        "se7entlor": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-slay",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "slay": "latest",
+        "slay-gtfs-realtime": "latest",
+        "slay-gtfs-realtime-v2": "latest",
+        "slay-log": "latest",
+        "slay-terminus": "latest",
+        "slay-the-spire": "latest",
+        "slayback-palindrome": "latest",
+        "slayer": "latest",
+        "slayer.db": "latest",
+        "slayercio-logger": "latest",
+        "slayerm7": "latest",
+        "slayerslayer": "latest",
+        "slayerslayer-calc": "latest",
+        "slayert26-resume": "latest",
+        "slayhud": "latest",
+        "slayk": "latest"
+    }
+}

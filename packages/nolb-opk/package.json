@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-opk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "opk-ga": "latest",
+        "opk-kit": "latest",
+        "opk-pipe-cli": "latest",
+        "opkm-libs": "latest",
+        "opkube": "latest"
+    }
+}

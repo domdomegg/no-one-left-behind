@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-buildo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "buildo-begins": "latest",
+        "buildo-github-chrome-extension": "latest",
+        "buildo-lodash-ts": "latest",
+        "buildo-normalize-css": "latest",
+        "buildo-react-components": "latest",
+        "buildo-react-container": "latest",
+        "buildo-react-pure": "latest",
+        "buildo-state": "latest",
+        "buildo-state-react-router": "latest",
+        "buildo-toctoc": "latest",
+        "buildocslib": "latest",
+        "buildonic": "latest",
+        "buildorch": "latest",
+        "buildout": "latest",
+        "buildozer": "latest"
+    }
+}

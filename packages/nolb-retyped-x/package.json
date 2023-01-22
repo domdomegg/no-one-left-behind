@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-retyped-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "retyped-x-editable-tsd-ambient": "latest",
+        "retyped-x2js-tsd-ambient": "latest",
+        "retyped-xdate-tsd-ambient": "latest",
+        "retyped-xlsx-tsd-ambient": "latest",
+        "retyped-xml-parser-tsd-ambient": "latest",
+        "retyped-xml2js-tsd-ambient": "latest",
+        "retyped-xmlbuilder-tsd-ambient": "latest",
+        "retyped-xmldom-tsd-ambient": "latest",
+        "retyped-xpath-tsd-ambient": "latest",
+        "retyped-xregexp-tsd-ambient": "latest",
+        "retyped-xrm-tsd-ambient": "latest",
+        "retyped-xsockets-tsd-ambient": "latest",
+        "retyped-xss-filters-tsd-ambient": "latest"
+    }
+}

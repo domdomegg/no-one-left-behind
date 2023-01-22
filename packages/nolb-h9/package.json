@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-h9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "h9": "latest",
+        "h9000v6-lang": "latest",
+        "h9000v6-web-tree": "latest",
+        "h98d": "latest",
+        "h98dx": "latest",
+        "h98dxx": "latest",
+        "h98dxxx": "latest",
+        "h9ee-ui": "latest",
+        "h9t": "latest"
+    }
+}

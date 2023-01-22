@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_jeb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jeb192004/swgoh-fun": "latest",
+        "@jebae/use-notification": "latest",
+        "@jebbit/jebbit-bar-components": "latest",
+        "@jebeck/medusa": "latest",
+        "@jebeck/pegasus": "latest",
+        "@jeboehm/vite-plugin-graphql": "latest",
+        "@jebs/nats-jetstream-pubsub": "latest",
+        "@jebs/nest-gql-gateway": "latest",
+        "@jebs/nest-nats-jetstream": "latest",
+        "@jebs/nest-temporal": "latest",
+        "@jebs/temporal-xstate": "latest",
+        "@jebulday/aws": "latest",
+        "@jebulday/emailjs": "latest"
+    }
+}

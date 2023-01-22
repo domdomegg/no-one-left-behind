@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-api-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "api-name-finder": "latest",
+        "api-news-world": "latest",
+        "api-next": "latest",
+        "api-nextjs": "latest",
+        "api-nhentai-net": "latest",
+        "api-ninja": "latest",
+        "api-node": "latest",
+        "api-node-1-1-1-1-1-1-1": "latest",
+        "api-node-cli": "latest",
+        "api-node-creatio": "latest",
+        "api-node-splunk-logger": "latest",
+        "api-nodejs": "latest",
+        "api-nodejs-docs": "latest",
+        "api-notebook": "latest",
+        "api-notebook-loader": "latest",
+        "api-notebook-monaco-editor": "latest",
+        "api-notebook-raml-client": "latest",
+        "api-notebook-react": "latest",
+        "api-notebook-react-editor": "latest",
+        "api-notification": "latest",
+        "api-notification-service-provider": "latest",
+        "api-notifications": "latest",
+        "api-novaposhta": "latest",
+        "api-now": "latest",
+        "api-npm": "latest",
+        "api-npm-pack": "latest",
+        "api-npm-scripts": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-spx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "spx": "latest",
+        "spx-angular-cli": "latest",
+        "spx-bamboo": "latest",
+        "spx-bamboo-alert": "latest",
+        "spx-bamboo-calendar": "latest",
+        "spx-bamboo-chart": "latest",
+        "spx-bamboo-planner": "latest",
+        "spx-bamboo-rollup": "latest",
+        "spx-checkbox": "latest",
+        "spx-cli": "latest",
+        "spx-com": "latest",
+        "spx-form": "latest",
+        "spx-graphs": "latest",
+        "spx-katex-wrapper": "latest",
+        "spx-pager": "latest",
+        "spx-private": "latest",
+        "spx-ui": "latest",
+        "spx-ui-kit": "latest",
+        "spxiaomin-modulea": "latest",
+        "spxiaomin-moduleb": "latest",
+        "spxiaomin-modulec": "latest"
+    }
+}

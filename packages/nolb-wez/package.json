@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-wez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wez": "latest",
+        "wez-frame-print": "latest",
+        "wez-telnet": "latest",
+        "wezeo-analytics": "latest",
+        "wezhuo-aws-sdk": "latest",
+        "wezhuo-crypto-browserify": "latest",
+        "wezhuo-test-pkg": "latest",
+        "wezi": "latest",
+        "wezi-actions": "latest",
+        "wezi-composer": "latest",
+        "wezi-cors": "latest",
+        "wezi-error": "latest",
+        "wezi-get-body": "latest",
+        "wezi-query": "latest",
+        "wezi-receive": "latest",
+        "wezi-router": "latest",
+        "wezi-send": "latest",
+        "wezi-shared": "latest",
+        "wezi-types": "latest",
+        "wezk1": "latest",
+        "wezom-log": "latest",
+        "wezom-standard-tabs": "latest",
+        "wezom-tabs": "latest",
+        "wezt-authentication": "latest",
+        "wezt-express-app": "latest"
+    }
+}

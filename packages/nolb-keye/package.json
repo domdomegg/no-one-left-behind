@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-keye",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "keyed": "latest",
+        "keyed-array": "latest",
+        "keyed-collections": "latest",
+        "keyed-db-sew": "latest",
+        "keyed-promise-queue": "latest",
+        "keyed-queue": "latest",
+        "keyed-set": "latest",
+        "keyed-tus-store": "latest",
+        "keyed_list": "latest",
+        "keyence-hostlink": "latest",
+        "keyer": "latest",
+        "keyes": "latest",
+        "keyevent": "latest",
+        "keyevent-g": "latest",
+        "keyevents": "latest",
+        "keyextractor": "latest"
+    }
+}

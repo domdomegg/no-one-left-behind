@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-geoe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "geoeditor": "latest",
+        "geoevent": "latest",
+        "geoex": "latest",
+        "geoexif": "latest",
+        "geoeye-js": "latest",
+        "geoeye-js-v2": "latest"
+    }
+}

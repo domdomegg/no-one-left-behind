@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-vals",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vals": "latest",
+        "vals-frame-print": "latest",
+        "valsch": "latest",
+        "valse": "latest",
+        "valsfleet": "latest",
+        "valstore": "latest",
+        "valstringer": "latest"
+    }
+}

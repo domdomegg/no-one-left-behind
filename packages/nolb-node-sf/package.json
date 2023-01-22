@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-node-sf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-sf-bulk2": "latest",
+        "node-sfdc-deploy": "latest",
+        "node-sflow": "latest",
+        "node-sfnt": "latest",
+        "node-sfnt2woff-zopfli": "latest",
+        "node-sftp": "latest",
+        "node-sftp-client": "latest",
+        "node-sftp-deploy": "latest",
+        "node-sftp-deploy-i": "latest",
+        "node-sftp-deploy2": "latest",
+        "node-sftp-dl": "latest",
+        "node-sftp-s3": "latest",
+        "node-sftp-s3-kt": "latest",
+        "node-sftp-server": "latest",
+        "node-sftp2": "latest",
+        "node-sfx": "latest"
+    }
+}

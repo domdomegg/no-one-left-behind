@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-rsx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rsx": "latest",
+        "rsx-common": "latest",
+        "rsx-datatable": "latest",
+        "rsx-generator-android": "latest",
+        "rsx-generator-base": "latest",
+        "rsx-generator-ios": "latest",
+        "rsx-gulp-spawn-mocha": "latest",
+        "rsx-plugin-new": "latest",
+        "rsx-plugin-platforms": "latest",
+        "rsx-plugin-plugins": "latest",
+        "rsx-plugin-run": "latest",
+        "rsx-plugin-status": "latest",
+        "rsx-ui": "latest",
+        "rsx_nodeexp": "latest",
+        "rsx_prototypetoclass": "latest",
+        "rsx_server": "latest",
+        "rsxglobal-template": "latest",
+        "rsxjs": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-fastu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fastu-voice-joiner": "latest",
+        "fastui-calendar": "latest",
+        "fastui-carousel": "latest",
+        "fastui-form": "latest",
+        "fastui-mobile": "latest",
+        "fastui-pc": "latest",
+        "fastui-spinner": "latest",
+        "fastuibutton": "latest",
+        "fastur": "latest",
+        "fastutils": "latest"
+    }
+}

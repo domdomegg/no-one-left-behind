@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-aie",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aie": "latest",
+        "aie-cli": "latest",
+        "aie-tools": "latest",
+        "aiedu-com-editor": "latest",
+        "aiedu-components": "latest",
+        "aiedu-json": "latest",
+        "aiedu-kit": "latest",
+        "aiedu-sandbox": "latest",
+        "aiegke24342": "latest",
+        "aienselect": "latest",
+        "aiera-client-sdk1": "latest",
+        "aiera-sdk": "latest",
+        "aiera_hookstate": "latest",
+        "aierwen": "latest",
+        "aierxserver": "latest",
+        "aiesec-datepicker": "latest",
+        "aietes-js": "latest",
+        "aiew": "latest",
+        "aieyes-amap": "latest",
+        "aieyes-exceljs": "latest",
+        "aieyes-exceljs-o": "latest",
+        "aieyes-forge-all": "latest",
+        "aieyes-ngx-echarts": "latest"
+    }
+}

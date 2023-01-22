@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-react-f-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-f-ui": "latest",
+        "react-f-ui-modal": "latest",
+        "react-f-your-starterkit": "latest",
+        "react-f-your-wizard-ui": "latest"
+    }
+}

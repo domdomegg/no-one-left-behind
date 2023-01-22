@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-wixm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wixmalpha": "latest",
+        "wixmalphajson": "latest",
+        "wixmedia": "latest",
+        "wixmg-player": "latest",
+        "wixmp-sdk": "latest"
+    }
+}

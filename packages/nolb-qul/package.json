@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-qul",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qul": "latest",
+        "qulacs-wasm": "latest",
+        "qulee": "latest",
+        "qulf-test": "latest",
+        "qulinary-bower-uservoice": "latest",
+        "qulity": "latest",
+        "quliyouxi": "latest",
+        "qull-module": "latest",
+        "qully-admin-ui": "latest",
+        "qulog": "latest",
+        "qulv-devtool": "latest"
+    }
+}

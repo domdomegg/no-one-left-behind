@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-custd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "custdev-sapui5": "latest",
+        "custdev-sapui5-infra-util": "latest"
+    }
+}

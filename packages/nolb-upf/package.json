@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-upf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "upf": "latest",
+        "upfile-builder": "latest",
+        "upfile159": "latest",
+        "upfile2leo": "latest",
+        "upfiles": "latest",
+        "upfiles1234": "latest",
+        "upfiles1456": "latest",
+        "upfilesr": "latest",
+        "upfind": "latest",
+        "upfind-cli": "latest",
+        "upfirstweek": "latest",
+        "upfitter": "latest",
+        "upflow": "latest",
+        "upflow-cli": "latest",
+        "upfluence-oss": "latest",
+        "upfluence-oss-components": "latest",
+        "upfork": "latest",
+        "upfos": "latest",
+        "upfront": "latest",
+        "upfront-ability-share-platform": "latest",
+        "upfront-editable": "latest",
+        "upftp": "latest"
+    }
+}

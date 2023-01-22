@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-intes",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "intesign": "latest",
+        "intest-cli-dev": "latest",
+        "intest-cli-dev-template-custom-vue2": "latest",
+        "intest-cli-dev-template-vue2": "latest",
+        "intest-cli-dev-utils": "latest",
+        "intest-cli-dev-vue-admin-element-template": "latest",
+        "intest-cli-dev-vue3-components": "latest",
+        "intest-openlayers": "latest",
+        "intest-test": "latest",
+        "intest111oars": "latest",
+        "intestify": "latest",
+        "intestine": "latest"
+    }
+}

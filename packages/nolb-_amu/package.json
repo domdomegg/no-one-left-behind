@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_amu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@amuizz/read-more-text": "latest",
+        "@amuliawijaya23/lotide": "latest",
+        "@amurdock/react-router-config": "latest",
+        "@amure/grid": "latest",
+        "@amurse/axios_sdk": "latest",
+        "@amurse/chat_sdk": "latest",
+        "@amurse/chatwindow": "latest",
+        "@amurse/connect_sdk": "latest",
+        "@amurse/signer_sdk": "latest",
+        "@amusameh/firebase-analytics": "latest",
+        "@amuslija/serverless": "latest",
+        "@amustafeen/packagetoupload": "latest",
+        "@amuyu/dcent-provider": "latest"
+    }
+}

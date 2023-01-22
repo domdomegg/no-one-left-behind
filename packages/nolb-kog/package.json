@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-kog",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "kog": "latest",
+        "kog-nnn": "latest",
+        "kog-panels": "latest",
+        "kogama-user-api": "latest",
+        "kogama_games_js": "latest",
+        "koge": "latest",
+        "koghi-datastore": "latest",
+        "kogi-component-library": "latest",
+        "kogi-frame-print": "latest",
+        "koginlib": "latest",
+        "kogitte": "latest",
+        "koglossarylinks": "latest",
+        "kognijs": "latest",
+        "kognijs-animate": "latest",
+        "kognijs-rsb": "latest",
+        "kognise": "latest",
+        "kognise-replit-crosis": "latest",
+        "kognitio": "latest",
+        "kognitivnayabuena-react-phone-input-2": "latest",
+        "kognos-react-native-tool-tip": "latest",
+        "kogoko": "latest",
+        "kogs": "latest",
+        "kogu": "latest",
+        "koguchi-chino-messenger-bot": "latest",
+        "koguiapi": "latest"
+    }
+}

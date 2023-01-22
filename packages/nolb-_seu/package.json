@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_seu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@seu-imovel-aqui/correta-plugin": "latest",
+        "@seu-imovel-aqui/jaccoud-plugin": "latest",
+        "@seu-imovel-aqui/plugin": "latest",
+        "@seu-imovel-aqui/plugin-types": "latest",
+        "@seu-imovel-aqui/predial-primus-plugin": "latest",
+        "@seu-imovel-aqui/ricardo-pedretti-plugin": "latest",
+        "@seudev/js-error": "latest",
+        "@seudev/x-i18n": "latest",
+        "@seulyiyoo/draggable": "latest",
+        "@seulyiyoo/sortable": "latest",
+        "@seulyiyoo/sortable-list": "latest",
+        "@seung-ju/react-hooks": "latest",
+        "@seung_gumon/event-tool": "latest",
+        "@seung_h/node-sh": "latest",
+        "@seungdeok/uikit": "latest",
+        "@seungdo/hi": "latest",
+        "@seungha-kim/typeorm": "latest",
+        "@seunghwalee/zkoracle": "latest",
+        "@seungjun/fc21-nodejs-pkg": "latest",
+        "@seungkyun/library2": "latest",
+        "@seungkyun/test123-package-one": "latest",
+        "@seungkyun/test123-package-two": "latest",
+        "@seungwon.code/hi": "latest",
+        "@seungwoo321/vue-plotly": "latest",
+        "@seungyeon/hiiiiii": "latest",
+        "@seunsanyaa/urlshortner": "latest",
+        "@seunsoetan/lotide": "latest",
+        "@seuyungham/react-button": "latest"
+    }
+}

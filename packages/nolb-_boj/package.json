@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_boj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bojagi/cli": "latest",
+        "@bojagi/collector-base": "latest",
+        "@bojagi/collector-jest": "latest",
+        "@bojagi/collector-main": "latest",
+        "@bojagi/dom-to-image-more": "latest",
+        "@bojagi/jest": "latest",
+        "@bojagi/jests": "latest",
+        "@bojagi/pablo": "latest",
+        "@bojagi/types": "latest",
+        "@bojalelabs/headless-svelte-ui": "latest",
+        "@bojangles/allcities": "latest",
+        "@bojangles/exfs": "latest",
+        "@bojangles/txt2json": "latest",
+        "@bojanrajkovic/paprika-exporter": "latest",
+        "@bojanv55/redux-thunk": "latest",
+        "@bojanv55/ts-loader": "latest",
+        "@bojit/noflo-svelte": "latest",
+        "@bojit/svelte-components": "latest",
+        "@bojl/docusaurus-pdf": "latest",
+        "@bojuenpm/ckeditor5-test-simple": "latest",
+        "@bojun/i18n": "latest",
+        "@bojun/oms-cli": "latest",
+        "@bojun/oms-logic": "latest",
+        "@bojun/oms-ui": "latest",
+        "@bojun/r3-components": "latest"
+    }
+}

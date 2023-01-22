@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_fuw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fuwa/events": "latest",
+        "@fuwa/rest": "latest",
+        "@fuweichin/fs-r": "latest",
+        "@fuwu-yuan/bgew": "latest"
+    }
+}

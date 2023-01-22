@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-comp_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "comp.maximo.common.npm-maximo-calls": "latest",
+        "comp.test.two.library": "latest",
+        "comp_lib_vancor": "latest",
+        "comp_png": "latest",
+        "comp_publish": "latest"
+    }
+}

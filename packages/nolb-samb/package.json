@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-samb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "samba": "latest",
+        "samba-client": "latest",
+        "samba-config": "latest",
+        "samba-player": "latest",
+        "samba-uploader": "latest",
+        "samba2": "latest",
+        "sambac": "latest",
+        "sambac-webpack": "latest",
+        "sambachimere-palindrome": "latest",
+        "sambadna-core": "latest",
+        "sambag-my-lib": "latest",
+        "sambal": "latest",
+        "sambal-jsonld": "latest",
+        "sambatv-react-scripts": "latest",
+        "sambell": "latest",
+        "sambhav-hw": "latest",
+        "sambhav2612": "latest",
+        "sambian": "latest",
+        "sambo": "latest",
+        "sambp-resume-cli": "latest",
+        "sambung-kata-helper": "latest"
+    }
+}

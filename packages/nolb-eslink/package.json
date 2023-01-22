@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-eslink",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslink-ui": "latest",
+        "eslink-ui-plus": "latest",
+        "eslink-ui-plus-beta": "latest",
+        "eslink-ui-plus-newtest": "latest",
+        "eslink-ui-plus-playground": "latest",
+        "eslink-ui-test": "latest",
+        "eslinker": "latest",
+        "eslinkv-cli": "latest",
+        "eslinkv-sdk": "latest"
+    }
+}

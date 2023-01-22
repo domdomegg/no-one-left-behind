@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-vue3-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue3-xlsx": "latest",
+        "vue3-xml-viewer": "latest",
+        "vue3-xmw-form": "latest",
+        "vue3-xmw-table": "latest",
+        "vue3-xong-antd": "latest",
+        "vue3-xuan-carousel": "latest",
+        "vue3-xw-form": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-imagef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "imagefill": "latest",
+        "imagefill-progressbar": "latest",
+        "imagefilter": "latest",
+        "imagefinder": "latest",
+        "imagefirebase": "latest",
+        "imagefit": "latest",
+        "imageflip": "latest",
+        "imagefrombuffer": "latest",
+        "imagefy": "latest"
+    }
+}

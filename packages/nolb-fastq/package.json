@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-fastq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fastq": "latest",
+        "fastqparser": "latest",
+        "fastqstream": "latest",
+        "fastquery": "latest",
+        "fastquery-builder": "latest",
+        "fastqueue": "latest",
+        "fastqueuejs": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-stad",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stadal": "latest",
+        "stade-feng": "latest",
+        "stade-kaoshi": "latest",
+        "stader-fantom-offchain-library": "latest",
+        "stader-reference-typescript-library": "latest",
+        "stadex": "latest",
+        "stadic": "latest",
+        "stadion": "latest",
+        "stadium": "latest",
+        "stadiumpixels": "latest",
+        "stadius": "latest",
+        "stadn": "latest",
+        "stadoc": "latest",
+        "stadox": "latest",
+        "stadt": "latest",
+        "stadt-converter": "latest",
+        "stadux": "latest",
+        "stadux-react": "latest",
+        "stadywork1": "latest"
+    }
+}

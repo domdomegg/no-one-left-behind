@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-com_q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "com.qdc.plugins.baidu.push": "latest",
+        "com.qianduo.onego": "latest",
+        "com.qihang.web": "latest",
+        "com.qted.editorexamplescope": "latest",
+        "com.qtools.qhierarchy": "latest",
+        "com.qualaroo.cordova": "latest",
+        "com.queenzend.myfirstplugintoast": "latest",
+        "com.quilv.test": "latest"
+    }
+}

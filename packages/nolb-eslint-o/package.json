@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-eslint-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslint-off-rules": "latest",
+        "eslint-on-modifications": "latest",
+        "eslint-one-var-es6": "latest",
+        "eslint-onelineperfile": "latest",
+        "eslint-output": "latest",
+        "eslint-overlook": "latest",
+        "eslint-overview-formatter": "latest"
+    }
+}

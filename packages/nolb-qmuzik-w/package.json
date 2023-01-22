@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-qmuzik-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qmuzik-workcentre": "latest",
+        "qmuzik-workcentre-shared": "latest",
+        "qmuzik-workcentregrouping": "latest",
+        "qmuzik-workcentregrouping-shared": "latest",
+        "qmuzik-workcentrepartopsdefault": "latest",
+        "qmuzik-workcentrepartopsdefault-shared": "latest",
+        "qmuzik-workinglifeconfig": "latest",
+        "qmuzik-workinglifeconfig-shared": "latest",
+        "qmuzik-workinglifeconsumphistory": "latest",
+        "qmuzik-workinglifeconsumphistory-shared": "latest",
+        "qmuzik-workstation": "latest",
+        "qmuzik-workstation-shared": "latest",
+        "qmuzik-workstationgroup": "latest",
+        "qmuzik-workstationgroup-shared": "latest",
+        "qmuzik-workstationshift": "latest",
+        "qmuzik-workstationshift-shared": "latest"
+    }
+}

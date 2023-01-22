@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-karma-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "karma-vca-api": "latest",
+        "karma-verbose-reporter": "latest",
+        "karma-verbose-summary-reporter": "latest",
+        "karma-viewport": "latest",
+        "karma-vinyl-streams": "latest",
+        "karma-virtualbox-edge-launcher": "latest",
+        "karma-virtualbox-ie11-launcher": "latest",
+        "karma-virtualbox-launcher": "latest",
+        "karma-virtualboxany-launcher": "latest",
+        "karma-visual-html-reporter": "latest",
+        "karma-visual-snapshot": "latest",
+        "karma-visual-test": "latest",
+        "karma-vite": "latest",
+        "karma-vite3": "latest",
+        "karma-vite4": "latest",
+        "karma-vivaldi-launcher": "latest",
+        "karma-vs-reporter": "latest",
+        "karma-vserror-reporter": "latest",
+        "karma-vserrorlist-reporter": "latest",
+        "karma-vtex-curl-amd": "latest",
+        "karma-vue-component": "latest",
+        "karma-vue-test-utils": "latest"
+    }
+}

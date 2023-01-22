@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-keyi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "keyi_yang": "latest",
+        "keyid-client": "latest",
+        "keyify": "latest",
+        "keyify-2": "latest",
+        "keyifyer": "latest",
+        "keyiu": "latest"
+    }
+}

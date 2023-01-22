@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-domb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "DOMBuilder": "latest",
+        "domb": "latest",
+        "domb5041-demo-ui-library": "latest",
+        "dombars": "latest",
+        "dombarsify": "latest",
+        "dombat": "latest",
+        "dombee": "latest",
+        "dombehind": "latest",
+        "dombie": "latest",
+        "dombie-str": "latest",
+        "dombie-walk": "latest",
+        "dombili": "latest",
+        "dombinding-jquery": "latest",
+        "dombindy": "latest",
+        "dombo": "latest",
+        "dombo-is-great": "latest",
+        "dombo-is-great-two": "latest",
+        "dombox": "latest",
+        "dombserver": "latest",
+        "dombuild": "latest",
+        "dombuilder": "latest",
+        "dombul-dom": "latest"
+    }
+}

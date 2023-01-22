@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-googler",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "googler": "latest",
+        "googler-coffee": "latest",
+        "googler-js": "latest",
+        "googlereactmap": "latest",
+        "googlereaderauth": "latest",
+        "googlerest": "latest",
+        "googlers-tools": "latest"
+    }
+}

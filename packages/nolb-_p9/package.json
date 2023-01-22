@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_p9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@p9/dom-helpers": "latest",
+        "@p9/js-utils": "latest",
+        "@p9/object-helpers": "latest",
+        "@p911/loopback-connector-mssql": "latest",
+        "@p9dig/lp9-form": "latest"
+    }
+}

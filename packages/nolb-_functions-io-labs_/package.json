@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_functions-io-labs_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@functions-io-labs/math.multiply": "latest",
+        "@functions-io-labs/math.sum": "latest",
+        "@functions-io-labs/math.sum.async": "latest",
+        "@functions-io-labs/performance.test1": "latest",
+        "@functions-io-labs/person.list": "latest",
+        "@functions-io-labs/person.open": "latest",
+        "@functions-io-labs/security.haspermission": "latest",
+        "@functions-io-labs/security.login": "latest",
+        "@functions-io-labs/service.math": "latest",
+        "@functions-io-labs/service.sum": "latest"
+    }
+}

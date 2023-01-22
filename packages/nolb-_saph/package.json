@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_saph",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@saphe/core": "latest",
+        "@saphe/react-form": "latest",
+        "@saphe/react-form-fields-bootstrap": "latest",
+        "@saphe/react-table": "latest",
+        "@saphe/react-use": "latest",
+        "@saphocom/auth0-lock": "latest",
+        "@saphocom/auth0-plugin-cordova": "latest",
+        "@saphrax/cli": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_manc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mancang/http-client": "latest",
+        "@mancharface/bread": "latest",
+        "@manchicken/promise-regulation": "latest",
+        "@mancho.devs/footer": "latest",
+        "@mancho.devs/validations": "latest",
+        "@manchtools/svelte-cookie-consent": "latest",
+        "@mancix/autocomplete-tab": "latest"
+    }
+}

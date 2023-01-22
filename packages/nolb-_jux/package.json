@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_jux",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jux/core": "latest",
+        "@jux/x": "latest",
+        "@juxi/base": "latest",
+        "@juxi/picker": "latest",
+        "@juxi/ui": "latest",
+        "@juxl/data-privacy": "latest",
+        "@juxl/juxl": "latest",
+        "@juxl/juxl-extension": "latest",
+        "@juxl/log-console": "latest",
+        "@juxl/logging": "latest",
+        "@juxl/performance": "latest",
+        "@juxl/performance-extension": "latest",
+        "@juxl/vocabulary": "latest",
+        "@juxt/mach": "latest",
+        "@juxt/roll": "latest",
+        "@juxtacode/lodash-es-compiled": "latest",
+        "@juxtacode/rollup-plugin-npm-dts": "latest",
+        "@juxtacode/rollup-plugin-serve-newwin": "latest",
+        "@juxtacode/rollup-plugin-showprogress": "latest",
+        "@juxuny/yc-ts-data-type": "latest"
+    }
+}

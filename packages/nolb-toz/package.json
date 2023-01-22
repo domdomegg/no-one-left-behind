@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-toz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "toz": "latest",
+        "tozan": "latest",
+        "tozny-auth": "latest",
+        "tozny-browser-sodium-sdk": "latest",
+        "tozny-libsodium": "latest",
+        "tozny-libsodium-wrappers": "latest",
+        "tozny-node-sdk": "latest",
+        "tozoa": "latest",
+        "tozod": "latest"
+    }
+}

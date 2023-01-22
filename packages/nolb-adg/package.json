@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-adg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "adg-full-map": "latest",
+        "adg-full-map-nonarch": "latest",
+        "adg-map-lib": "latest",
+        "adga": "latest",
+        "adga.js": "latest",
+        "adgame-sdk": "latest",
+        "adgc-map-script": "latest",
+        "adgcalc.js": "latest",
+        "adge-components": "latest",
+        "adgea-ui-library": "latest",
+        "adgear-trader": "latest",
+        "adgeek-dashboard": "latest",
+        "adgeek-features-cli": "latest",
+        "adgeek-sidebar": "latest",
+        "adgen": "latest",
+        "adgo-form-generator": "latest",
+        "adgroup_components": "latest",
+        "adgroup_element": "latest",
+        "adgsdgsgdsdgsanpm-package": "latest",
+        "adguard": "latest",
+        "adguard-api": "latest",
+        "adgyde-react-native": "latest",
+        "adgydereactlibrary": "latest",
+        "adgydereactnativesdk": "latest"
+    }
+}

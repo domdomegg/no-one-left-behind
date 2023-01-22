@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_fa7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fa7ad/cra-template-reason": "latest",
+        "@fa7ad/github-api": "latest",
+        "@fa7ad/wallpaper": "latest",
+        "@fa7ad/wallpaper-cli": "latest"
+    }
+}

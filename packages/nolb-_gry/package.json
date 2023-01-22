@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_gry",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gryff/rust-wasm-pack-example": "latest",
+        "@gryffith67/randomid-generator": "latest",
+        "@grygstone/common": "latest",
+        "@grynag/hello-wasm": "latest",
+        "@grynn/grafana-launcher": "latest",
+        "@grynn/gsuite-check": "latest",
+        "@grynn/node-filesystem-cache": "latest",
+        "@gryphonscripts/batch-transcoder": "latest"
+    }
+}

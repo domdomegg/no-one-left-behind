@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_shaf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shafaladhikari/common": "latest",
+        "@shafaqiri/lotide": "latest",
+        "@shafeh/tanach": "latest",
+        "@shafikulz/react-org-chart": "latest",
+        "@shafir-production-systems/common": "latest",
+        "@shafir-production-systems/matrix-cabinet-common": "latest",
+        "@shafsaud/lotide": "latest"
+    }
+}

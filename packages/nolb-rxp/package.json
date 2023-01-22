@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-rxp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rxp": "latest",
+        "rxp-experience-library": "latest",
+        "rxp-hello-world-js": "latest",
+        "rxp-ixo-form": "latest",
+        "rxp-js": "latest",
+        "rxpan": "latest",
+        "rxplace-web-ui-testbed": "latest",
+        "rxplc": "latest",
+        "rxplus": "latest",
+        "rxpp": "latest",
+        "rxpress": "latest",
+        "rxpression": "latest",
+        "rxpressive": "latest",
+        "rxpro": "latest",
+        "rxpro-admin": "latest",
+        "rxpro-md": "latest",
+        "rxprop": "latest"
+    }
+}

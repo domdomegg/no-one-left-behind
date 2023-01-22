@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-fas-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fas-cli": "latest",
+        "fas-collection": "latest",
+        "fas-css-urlversion": "latest",
+        "fas-gulp": "latest",
+        "fas-init": "latest",
+        "fas-js": "latest",
+        "fas-sass": "latest",
+        "fas-test": "latest",
+        "fas-web-ui-components": "latest"
+    }
+}

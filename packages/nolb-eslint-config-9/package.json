@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-eslint-config-9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslint-config-902labs": "latest",
+        "eslint-config-902labs-react": "latest",
+        "eslint-config-99cloud-vue2": "latest",
+        "eslint-config-99cloud-vue3": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_imk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@imk-cli-dev/core": "latest",
+        "@imk-cli-dev/utils": "latest",
+        "@imkarma/wasm-fib": "latest",
+        "@imkey/web3-provider": "latest",
+        "@imkey/web3-react-connector": "latest",
+        "@imkit/imkit-js-sdk-v3": "latest",
+        "@imklau/react-app": "latest",
+        "@imklau/react-boilerplate": "latest",
+        "@imkopkap/strapi-provider-upload-google-cloud-storage-with-watermark": "latest",
+        "@imkremen/xlf2xlf": "latest",
+        "@imkrunalkanojiya/react-step-form": "latest"
+    }
+}

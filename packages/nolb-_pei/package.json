@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_pei",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@peippo/swrev": "latest",
+        "@peiratis/pictl": "latest",
+        "@peishan/my-momo-npm": "latest",
+        "@peisong/react-json-editor": "latest",
+        "@peiwisdom/hello-wasm": "latest",
+        "@peixer/kms-sdk": "latest",
+        "@peixin/postcss-px-to-viewport": "latest"
+    }
+}

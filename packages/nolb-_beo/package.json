@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_beo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@beohoang98/cra-template-typescript": "latest",
+        "@beohoang98/flatify-json": "latest",
+        "@beohoang98/webhook-discord": "latest",
+        "@beoks/google-login-user-management": "latest",
+        "@beomy/design-system": "latest",
+        "@beon/jssdk": "latest",
+        "@beonica/bn.core.config-helper-tool": "latest"
+    }
+}

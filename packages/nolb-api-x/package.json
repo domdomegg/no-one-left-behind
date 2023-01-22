@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-api-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "api-xcx": "latest",
+        "api-ximi": "latest",
+        "api-xlecx-com": "latest",
+        "api-xps3-core": "latest",
+        "api-xps3-core-helpers": "latest",
+        "api-xps3-core-method": "latest",
+        "api-xps3-core-promievent": "latest",
+        "api-xps3-core-requestmanager": "latest",
+        "api-xps3-core-subscriptions": "latest",
+        "api-xps3-eth": "latest",
+        "api-xps3-eth-abi": "latest",
+        "api-xps3-eth-accounts": "latest",
+        "api-xps3-eth-contract": "latest",
+        "api-xps3-eth-ens": "latest",
+        "api-xps3-eth-iban": "latest",
+        "api-xps3-eth-personal": "latest",
+        "api-xps3-net": "latest",
+        "api-xps3-providers-http": "latest",
+        "api-xps3-providers-ipc": "latest",
+        "api-xps3-providers-ws": "latest",
+        "api-xps3-utils": "latest",
+        "api-xyusy": "latest",
+        "api-xyz": "latest"
+    }
+}

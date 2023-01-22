@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_typev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@typeverse/async-patterns": "latest",
+        "@typeverse/core": "latest",
+        "@typeverse/es2015-base": "latest",
+        "@typeverse/es2015-core-typelib": "latest",
+        "@typeverse/es2016-base": "latest",
+        "@typeverse/es2016-core-typelib": "latest",
+        "@typeverse/es2017-base": "latest",
+        "@typeverse/es2017-core-typelib": "latest",
+        "@typeverse/es2018-base": "latest",
+        "@typeverse/es2018-core-typelib": "latest",
+        "@typeverse/es2019-base": "latest",
+        "@typeverse/es2019-core-typelib": "latest",
+        "@typeverse/es2020-base": "latest",
+        "@typeverse/es2020-core-typelib": "latest",
+        "@typeverse/es5-base": "latest",
+        "@typeverse/es5-core-typelib": "latest",
+        "@typeverse/esnext-base": "latest",
+        "@typeverse/esnext-core-typelib": "latest",
+        "@typeverse/mime-typed": "latest",
+        "@typeverse/node-buffer": "latest",
+        "@typeverse/node-fs-json-storage": "latest",
+        "@typeverse/node-fs-query": "latest",
+        "@typeverse/node-module": "latest",
+        "@typeverse/node-path": "latest",
+        "@typeverse/simple-tracer": "latest"
+    }
+}

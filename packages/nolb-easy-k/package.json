@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-easy-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "easy-k8s": "latest",
+        "easy-kerberos": "latest",
+        "easy-key": "latest",
+        "easy-keyframe-animation": "latest",
+        "easy-keygen": "latest",
+        "easy-keyvalues": "latest",
+        "easy-keywords": "latest",
+        "easy-kit": "latest",
+        "easy-klass": "latest",
+        "easy-kml": "latest",
+        "easy-koa": "latest",
+        "easy-koa-router": "latest",
+        "easy-konvertor": "latest"
+    }
+}

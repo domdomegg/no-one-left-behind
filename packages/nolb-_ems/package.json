@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_ems",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ems-ignite/docs": "latest",
+        "@ems-ignite/react": "latest",
+        "@ems-ignite/tokens": "latest",
+        "@ems-press/content-api-types": "latest",
+        "@emsa16/chat-server": "latest",
+        "@emsi-iggy/rulework-react-data-grid": "latest",
+        "@emsipl/react-data-grid": "latest",
+        "@emsipl/react-data-grid-addons": "latest",
+        "@emsipl/react-data-grid-examples": "latest",
+        "@emsipl/react-select-search": "latest",
+        "@emsn/react-pdf": "latest",
+        "@emsy/arkcrypto-browserified": "latest"
+    }
+}

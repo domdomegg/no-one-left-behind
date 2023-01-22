@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-ocs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ocs": "latest",
+        "ocs-component-lib": "latest",
+        "ocs-entrance-anims": "latest",
+        "ocs-helper": "latest",
+        "ocs-lib": "latest",
+        "ocs-parallax": "latest",
+        "ocs-sport-first": "latest",
+        "ocs-ui": "latest",
+        "ocs-ui-core": "latest",
+        "ocs-ui-infra": "latest",
+        "ocs-ui-infra-v2": "latest",
+        "ocs-ui-infrastructure": "latest",
+        "ocs_voice": "latest",
+        "ocsclient": "latest",
+        "ocsi94-class-transformer": "latest",
+        "ocsignupjs": "latest",
+        "ocsjs": "latest",
+        "ocsp": "latest",
+        "ocsp-hashes": "latest",
+        "ocsp-ts": "latest",
+        "ocsportal": "latest",
+        "ocss": "latest",
+        "ocss-parser": "latest",
+        "ocssipital": "latest",
+        "ocsteps": "latest",
+        "ocstripe": "latest"
+    }
+}

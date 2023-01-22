@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-metaw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "metawall-common": "latest",
+        "metaware": "latest",
+        "metawatch": "latest",
+        "metawear": "latest",
+        "metawear-capacitor": "latest",
+        "metaweather": "latest",
+        "metaweather-cli": "latest",
+        "metaweather-demo": "latest",
+        "metaweather-ts": "latest",
+        "metaweatherfreedom-cli": "latest",
+        "metaweb": "latest",
+        "metaweb-script": "latest",
+        "metaweblog": "latest",
+        "metaweblog-api": "latest",
+        "metaweblog-yjk-deploy": "latest",
+        "metawesome-datatable": "latest",
+        "metawidget": "latest",
+        "metaworks4": "latest",
+        "metawrite": "latest",
+        "metawriter": "latest"
+    }
+}

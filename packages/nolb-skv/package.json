@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-skv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "skv": "latest",
+        "skv-editor": "latest",
+        "skv-is-wds": "latest",
+        "skv-test-badge": "latest",
+        "skv_plugin": "latest",
+        "skvbdfnv": "latest",
+        "skvlib": "latest",
+        "skvm": "latest",
+        "skvp.test": "latest",
+        "skvs": "latest",
+        "skvsharedcomponents": "latest"
+    }
+}

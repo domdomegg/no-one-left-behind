@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-rnu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rNums": "latest",
+        "rnu": "latest",
+        "rnui": "latest",
+        "rnukt": "latest",
+        "rnum": "latest",
+        "rnumjs": "latest",
+        "rnunityads": "latest",
+        "rnunmap": "latest",
+        "rnutils": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-mib",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mib": "latest",
+        "mib-browser": "latest",
+        "mib-cli": "latest",
+        "mib-github": "latest",
+        "miba": "latest",
+        "miband": "latest",
+        "miband3": "latest",
+        "miband4": "latest",
+        "mibao-ui": "latest",
+        "mibaolabel": "latest",
+        "mibarrio-modules": "latest",
+        "mibble": "latest",
+        "mibew-gulp-greh": "latest",
+        "mibi": "latest",
+        "mibicitubici-opendata": "latest",
+        "mibinefiles": "latest",
+        "mibjs-materials": "latest",
+        "miblog": "latest",
+        "mibo": "latest",
+        "mibox": "latest"
+    }
+}

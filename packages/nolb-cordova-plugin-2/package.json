@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-cordova-plugin-2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cordova-plugin-24hour-setting": "latest",
+        "cordova-plugin-2mundos-background-geolocation": "latest",
+        "cordova-plugin-2mundos-statusbar": "latest"
+    }
+}

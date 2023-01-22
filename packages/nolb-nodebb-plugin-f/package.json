@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-nodebb-plugin-f",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodebb-plugin-facebook-pixel": "latest",
+        "nodebb-plugin-feathercoin": "latest",
+        "nodebb-plugin-featured-threads": "latest",
+        "nodebb-plugin-featured-topics-extended": "latest",
+        "nodebb-plugin-featured-topics-extended-with-title": "latest",
+        "nodebb-plugin-feed": "latest",
+        "nodebb-plugin-fill-composer": "latest",
+        "nodebb-plugin-finder": "latest",
+        "nodebb-plugin-firebase-notification": "latest",
+        "nodebb-plugin-first-post-info": "latest",
+        "nodebb-plugin-fix-sound": "latest",
+        "nodebb-plugin-fixmeta": "latest",
+        "nodebb-plugin-flagdog": "latest",
+        "nodebb-plugin-flairs": "latest",
+        "nodebb-plugin-fleshas": "latest",
+        "nodebb-plugin-flipkart": "latest",
+        "nodebb-plugin-force-dark-persona": "latest",
+        "nodebb-plugin-forms": "latest",
+        "nodebb-plugin-freebacking": "latest",
+        "nodebb-plugin-freelog": "latest",
+        "nodebb-plugin-friends": "latest",
+        "nodebb-plugin-friends-etr": "latest",
+        "nodebb-plugin-frontend-async": "latest",
+        "nodebb-plugin-frontend-lodash": "latest",
+        "nodebb-plugin-fullname-registration": "latest",
+        "nodebb-plugin-fusionauth-oidc": "latest",
+        "nodebb-plugin-fusionauth-tahaluf": "latest"
+    }
+}

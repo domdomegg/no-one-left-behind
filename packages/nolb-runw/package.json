@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-runw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "RunwayLogger": "latest",
+        "runwar": "latest",
+        "runwatch": "latest",
+        "runway": "latest",
+        "runway-compiler": "latest",
+        "runwayml-http": "latest",
+        "runwayml-net": "latest",
+        "runways": "latest",
+        "runweb": "latest",
+        "runwith": "latest",
+        "runwork-help": "latest",
+        "runworker": "latest",
+        "runworkers": "latest",
+        "runwxy": "latest"
+    }
+}

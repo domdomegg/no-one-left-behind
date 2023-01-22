@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_ecf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ecfairle/mccli": "latest",
+        "@ecfairle/vue-loader": "latest",
+        "@ecfatum/common": "latest",
+        "@ecfatum/insurance-database-common": "latest"
+    }
+}

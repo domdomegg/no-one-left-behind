@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-drg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "drg-helper": "latest",
+        "drg-music": "latest",
+        "drg-music2": "latest",
+        "drg-save-parser": "latest",
+        "drg-ui": "latest",
+        "drg2sba": "latest",
+        "drglasdou-storybook-components-tests": "latest",
+        "drgn": "latest",
+        "drgr-starwar-names": "latest",
+        "drgriffin": "latest"
+    }
+}

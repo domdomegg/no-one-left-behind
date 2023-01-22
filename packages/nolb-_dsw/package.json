@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_dsw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dswarm/cli": "latest",
+        "@dswarm/connect-test": "latest",
+        "@dswarm/dht": "latest",
+        "@dswarm/discovery": "latest",
+        "@dswarm/dwebsign": "latest",
+        "@dswarm/network": "latest",
+        "@dswarm/proxy": "latest",
+        "@dswarm/proxy-ws": "latest",
+        "@dswarm/replicator": "latest",
+        "@dswarm/scale-scenarios": "latest",
+        "@dswarm/tunnel": "latest",
+        "@dsway7717/mtable": "latest",
+        "@dswhitely1/create-react-project": "latest",
+        "@dswhitely1/kafka-sdk": "latest",
+        "@dswistowski/destiny-manifest": "latest",
+        "@dswistowski/destiny-manifest-react": "latest"
+    }
+}

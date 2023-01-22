@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-weh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "weh": "latest",
+        "weh-brotli": "latest",
+        "weh-gzip": "latest",
+        "weh-tachyons": "latest",
+        "wehago-create": "latest",
+        "wehappiness": "latest",
+        "wehbook": "latest",
+        "wehcat-regenerator-runtime": "latest",
+        "wehcat-template-server": "latest",
+        "wehelp-nps": "latest",
+        "wehelpjs": "latest",
+        "wehgcapp": "latest",
+        "wehire": "latest",
+        "weho-js-footer": "latest",
+        "wehome": "latest",
+        "wehooks": "latest",
+        "wehotel-sdk": "latest",
+        "wehpuh": "latest",
+        "wehttp": "latest"
+    }
+}

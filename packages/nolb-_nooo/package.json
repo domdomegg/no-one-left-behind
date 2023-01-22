@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_nooo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nooocode/atali-components": "latest",
+        "@nooocode/atali-curd": "latest",
+        "@nooocode/atali-form": "latest",
+        "@nooocode/atali-pkg": "latest",
+        "@nooooooks/use-title": "latest",
+        "@nooooooom/merge-dirs": "latest",
+        "@nooooooom/use-draggable": "latest"
+    }
+}

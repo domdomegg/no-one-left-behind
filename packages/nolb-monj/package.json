@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-monj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "monj-contentful-clone": "latest",
+        "monja": "latest",
+        "monje": "latest",
+        "monjo": "latest",
+        "monjoi": "latest",
+        "monjs": "latest",
+        "monjutanakajimapalindrome2": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-reads",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ReadSettings": "latest",
+        "reads": "latest",
+        "reads-stydy-4-npm": "latest",
+        "readsalot": "latest",
+        "readsettings": "latest",
+        "readsql": "latest",
+        "readstdin": "latest",
+        "readstream": "latest",
+        "readstream-watcher": "latest",
+        "readstreamlinebyline": "latest",
+        "readsy": "latest"
+    }
+}

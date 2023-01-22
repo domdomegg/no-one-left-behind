@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-ghr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ghr-util": "latest",
+        "ghr1": "latest",
+        "ghraphql": "latest",
+        "ghrd": "latest",
+        "ghrdl": "latest",
+        "ghreleases": "latest",
+        "ghremote": "latest",
+        "ghrepo": "latest",
+        "ghrepolint-sandbox": "latest",
+        "ghrepos": "latest",
+        "ghrepos-organizer": "latest",
+        "ghrequest": "latest",
+        "ghrequestor": "latest",
+        "ghrn": "latest",
+        "ghroth": "latest",
+        "ghrouter": "latest",
+        "ghrr": "latest"
+    }
+}

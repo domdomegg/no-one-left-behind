@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-mult",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mult": "latest",
+        "@zalastax/nolb-multi": "latest",
+        "@zalastax/nolb-mult-": "latest",
+        "@zalastax/nolb-multa": "latest",
+        "@zalastax/nolb-multe": "latest",
+        "@zalastax/nolb-multp": "latest",
+        "@zalastax/nolb-multr": "latest",
+        "@zalastax/nolb-multt": "latest",
+        "@zalastax/nolb-multy": "latest"
+    }
+}

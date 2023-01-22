@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-a8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "a8": "latest",
+        "a8-modal": "latest",
+        "a85-native": "latest",
+        "a858decrypt": "latest",
+        "a8c-d3-chart": "latest",
+        "a8e": "latest",
+        "a8e-tracer": "latest",
+        "a8k": "latest",
+        "a8s": "latest",
+        "a8s-cli": "latest",
+        "a8s-ui": "latest"
+    }
+}

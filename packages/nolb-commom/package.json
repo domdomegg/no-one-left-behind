@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-commom",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "commom": "latest",
+        "commom-aem-ui": "latest",
+        "commom-component-ui": "latest",
+        "commom-ibe": "latest",
+        "commom-img": "latest",
+        "commom-methods": "latest",
+        "commom-plugins-chenyan": "latest",
+        "commom-ui": "latest",
+        "commom-utilities": "latest",
+        "commomjs-lodash": "latest"
+    }
+}

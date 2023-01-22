@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_r4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@r4-tickets/common": "latest",
+        "@r4dic4l/react-native-image-picker": "latest",
+        "@r4digital/banks": "latest",
+        "@r4digital/occurrence-codes": "latest",
+        "@r4digital/statement-codes": "latest",
+        "@r4digital/uuid": "latest",
+        "@r4dixx/discord-quotebot": "latest",
+        "@r4ggj/example-block": "latest",
+        "@r4gmpackage/javascriptexample": "latest",
+        "@r4lfl4b/react-circular-navigation": "latest",
+        "@r4ncid-testing/gittix-common": "latest",
+        "@r4ndom-org/hello-world-pkg": "latest",
+        "@r4ndomorganization/goodbye-world-pkg": "latest",
+        "@r4ndomorganization/h3llo-pkg": "latest",
+        "@r4ndomorganization/he-pkg": "latest",
+        "@r4ndomorganization/hell0-pkg": "latest",
+        "@r4ndomorganization/hello-pkg": "latest",
+        "@r4ndomorganization/hello-world-pkg": "latest",
+        "@r4ndomorganization/newone": "latest",
+        "@r4ndomorganization/p4ckage": "latest",
+        "@r4p/authorize-casl": "latest",
+        "@r4ph_t/gatsby-algolia-parser-dx": "latest",
+        "@r4ticket/common": "latest",
+        "@r4you/nuxt-ads-module": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-wsx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wsx": "latest",
+        "wsx-h5-cli": "latest",
+        "wsx-js-tool": "latest",
+        "wsx-js-tool-hi": "latest",
+        "wsx-test": "latest",
+        "wsx-test-lib": "latest",
+        "wsx-tools": "latest",
+        "wsx-ts-tool-hi": "latest",
+        "wsx1": "latest",
+        "wsxRest": "latest",
+        "wsx_chuan": "latest",
+        "wsx_eslint": "latest",
+        "wsx_gailist": "latest",
+        "wsx_gao": "latest",
+        "wsx_zhou": "latest",
+        "wsx_zhoukao": "latest",
+        "wsxc_album": "latest",
+        "wsxcli": "latest",
+        "wsxedcrfv": "latest",
+        "wsxp": "latest",
+        "wsxwsxwsx": "latest"
+    }
+}

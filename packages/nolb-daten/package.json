@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-daten",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "datenautobahn": "latest",
+        "datenbox": "latest",
+        "datenbox-api": "latest",
+        "datenbox-core": "latest",
+        "datendepot": "latest",
+        "datenight": "latest",
+        "datenkrake": "latest",
+        "datenow": "latest",
+        "datenow-js": "latest",
+        "datenow-ts": "latest",
+        "datenowiso": "latest",
+        "datenp": "latest",
+        "datentime": "latest",
+        "datenv": "latest"
+    }
+}

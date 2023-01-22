@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-koar",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "koar": "latest",
+        "koara": "latest",
+        "koara-html": "latest",
+        "koara-xml": "latest",
+        "koars-config": "latest",
+        "koars-defaults": "latest",
+        "koars-utils": "latest"
+    }
+}

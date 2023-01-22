@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-erh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "erh": "latest",
+        "erh_math_example": "latest",
+        "erha": "latest",
+        "erha-ui": "latest",
+        "erhan-react-native-flip-card": "latest",
+        "erhandler": "latest",
+        "erhengcli": "latest",
+        "erhimanshu": "latest",
+        "erhu": "latest",
+        "erhua-tianxiadiyi-happy": "latest"
+    }
+}

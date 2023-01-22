@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-ser_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ser.api": "latest",
+        "ser_car_msb_paginaprincipal_theme": "latest",
+        "ser_car_msb_paginaprincipal_theme_orange": "latest",
+        "ser_carlo_msb_emailmanager": "latest",
+        "ser_carlo_msb_modalbooking": "latest",
+        "ser_carlo_msb_post_sendemail": "latest",
+        "ser_carlos_enterprice_presentacion_principal": "latest",
+        "ser_carlos_mbu_app": "latest",
+        "ser_new": "latest",
+        "ser_test": "latest"
+    }
+}

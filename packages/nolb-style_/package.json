@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-style_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "style.css": "latest",
+        "style.dll": "latest",
+        "style.init.css": "latest",
+        "style.j": "latest",
+        "style.js": "latest",
+        "style.min.css": "latest",
+        "style.min.js": "latest",
+        "style.reset": "latest",
+        "style_api": "latest",
+        "style_day": "latest",
+        "style_system_ft": "latest"
+    }
+}

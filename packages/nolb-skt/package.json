@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-skt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "skt": "latest",
+        "skt-cli": "latest",
+        "skt-share-ui": "latest",
+        "skt-ui": "latest",
+        "skt-ytpl": "latest",
+        "skt_pay_center": "latest",
+        "sktchfb": "latest",
+        "sktechersflexer1abanking": "latest",
+        "sktest-bacon-mas-mas-frito": "latest",
+        "sktest-barbass-card": "latest",
+        "sktest-barbass-progress-bar-handler": "latest",
+        "sktest-barbass-search-bar": "latest",
+        "sktest-escolar-button": "latest",
+        "skthsyntel": "latest",
+        "sktk-share-lib": "latest",
+        "sktool": "latest",
+        "sktpdailiang": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-typeface-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typeface-waiting-for-the-sunrise": "latest",
+        "typeface-wallpoet": "latest",
+        "typeface-walter-turncoat": "latest",
+        "typeface-warnes": "latest",
+        "typeface-wellfleet": "latest",
+        "typeface-wendy-one": "latest",
+        "typeface-wire-one": "latest",
+        "typeface-work-sans": "latest"
+    }
+}

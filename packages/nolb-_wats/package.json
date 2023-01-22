@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_wats",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@watsi/icons": "latest",
+        "@watsi/ui": "latest",
+        "@watson-sei/react-component-sample": "latest",
+        "@watson-virtual-agent/chat-widget": "latest",
+        "@watson-virtual-agent/client-sdk": "latest",
+        "@watsoncj/dedupe": "latest",
+        "@watsoncj/jc": "latest",
+        "@watsonjs/cli": "latest",
+        "@watsonjs/common": "latest",
+        "@watsonjs/core": "latest",
+        "@watsonjs/di": "latest",
+        "@watsonjs/schematics": "latest",
+        "@watsonjs/ts-transformer": "latest"
+    }
+}

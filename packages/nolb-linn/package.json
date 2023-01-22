@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-linn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "linn": "latest",
+        "linn--components-library": "latest",
+        "linn-channel-core": "latest",
+        "linn-channel-create": "latest",
+        "linn-component-library": "latest",
+        "linn-day02": "latest",
+        "linn-form-components-library": "latest",
+        "linn-majik-dsm-control": "latest",
+        "linn-reusable-react-components-library": "latest",
+        "linna": "latest",
+        "linna-icons": "latest",
+        "linna-sass": "latest",
+        "linna-util": "latest",
+        "linna-vue": "latest",
+        "linnaizhang-ui": "latest",
+        "linnakunnpm": "latest",
+        "linnet": "latest",
+        "linnia-brand": "latest",
+        "linnia-models": "latest",
+        "linnjs": "latest",
+        "linnpmtest": "latest",
+        "linnworks": "latest",
+        "linnworks-channel-integration": "latest",
+        "linnworks-js-sdk": "latest",
+        "linny-r": "latest"
+    }
+}

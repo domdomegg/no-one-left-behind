@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-comps",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "comps": "latest",
+        "comps-autonode-addons": "latest",
+        "comps-echarts": "latest",
+        "comps-elementui-table": "latest",
+        "comps-loader": "latest",
+        "comps-mmc": "latest",
+        "comps-r-us": "latest",
+        "comps-rc": "latest",
+        "comps-real-addons": "latest",
+        "comps-ui": "latest",
+        "comps_pranav": "latest",
+        "compscaf": "latest",
+        "compscijs": "latest",
+        "compskit": "latest",
+        "compson": "latest",
+        "compss": "latest",
+        "compstache": "latest",
+        "compstest": "latest",
+        "compsys": "latest"
+    }
+}

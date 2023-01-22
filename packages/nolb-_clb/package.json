@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_clb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@clbaldwin424/codemash-library": "latest",
+        "@clbn/popper.js": "latest",
+        "@clbtid/activedirectory-azure-ui": "latest",
+        "@clbtid/activedirectory-ui": "latest",
+        "@clbtid/angular-file-uploader": "latest",
+        "@clbtid/common-ui": "latest"
+    }
+}

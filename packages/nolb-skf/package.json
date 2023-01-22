@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-skf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "skf": "latest",
+        "skf-rollup": "latest",
+        "skf.thermometer": "latest",
+        "skfb-viewer-protocol": "latest",
+        "skfe-dict": "latest",
+        "skfe-ui": "latest",
+        "skffdev": "latest",
+        "skfks": "latest",
+        "skfox-howler": "latest"
+    }
+}

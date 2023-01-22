@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-fiss",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fiss": "latest",
+        "fiss-command-init": "latest",
+        "fiss-command-install": "latest",
+        "fiss-command-release": "latest",
+        "fiss-command-version": "latest",
+        "fiss-hook-amd": "latest",
+        "fiss-lint-csslint": "latest",
+        "fiss-lint-eslint": "latest",
+        "fissile": "latest",
+        "fission": "latest",
+        "fission-bloom-filters": "latest",
+        "fission-codes": "latest",
+        "fission-filecoin-signing-tools": "latest",
+        "fission-lambda": "latest",
+        "fission-router": "latest",
+        "fission-sdk": "latest",
+        "fission-template-cli": "latest",
+        "fission-translate": "latest",
+        "fission-translations": "latest",
+        "fission-typescript": "latest",
+        "fissionjs": "latest",
+        "fissionproject_test_1": "latest",
+        "fissionproject_test_2": "latest",
+        "fisssion": "latest",
+        "fissting-lang": "latest",
+        "fissure": "latest"
+    }
+}

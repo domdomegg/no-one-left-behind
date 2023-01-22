@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-streamf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "streamf": "latest",
+        "streamface": "latest",
+        "streamfields": "latest",
+        "streamfilter": "latest",
+        "streamfinance-sdk": "latest",
+        "streamfire": "latest",
+        "streamflex": "latest",
+        "streamflow": "latest",
+        "streamforge": "latest",
+        "streamforge-cli": "latest",
+        "streamfp": "latest",
+        "streamfs": "latest",
+        "streamfunction": "latest",
+        "streamfuz": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-x9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "x9": "latest",
+        "x905": "latest",
+        "x96-mini": "latest",
+        "x996": "latest",
+        "x9framework": "latest",
+        "x9libs-dev": "latest"
+    }
+}

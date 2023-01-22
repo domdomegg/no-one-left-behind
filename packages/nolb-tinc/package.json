@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-tinc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tincan": "latest",
+        "tincan-facade": "latest",
+        "tincan-validator": "latest",
+        "tincanjs": "latest",
+        "tincash": "latest",
+        "tinchi-api": "latest",
+        "tinchy": "latest",
+        "tinci": "latest",
+        "tinco": "latest",
+        "tincode-ckeditor5-build-custom": "latest",
+        "tincode-react-icons": "latest",
+        "tinct": "latest",
+        "tinctoriasfirstlibrary": "latest",
+        "tincture": "latest",
+        "tinctured": "latest",
+        "tincturelib": "latest"
+    }
+}

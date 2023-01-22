@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_marg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@marg51/fetch": "latest",
+        "@marg51/lift-ui": "latest",
+        "@marg51/logger": "latest",
+        "@marg51/react-forms": "latest",
+        "@marg51/react-forms-ui": "latest",
+        "@marg51/react-ui": "latest",
+        "@marg51/uto-logger": "latest",
+        "@marg51/youtube-player": "latest",
+        "@margaret-ui/core": "latest",
+        "@margarettevelasquez/cafe24-zipcode": "latest",
+        "@margaritast/lotide": "latest",
+        "@margaryta_lanova/lotide": "latest",
+        "@margi24/rating-component": "latest",
+        "@margi24/rating-widget": "latest",
+        "@marginswap/core-abi": "latest",
+        "@marginswap/sdk": "latest",
+        "@margintop3498/caverjs": "latest"
+    }
+}

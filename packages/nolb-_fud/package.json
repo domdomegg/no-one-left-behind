@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_fud",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fudandori/array-utils": "latest",
+        "@fudandori/dater": "latest",
+        "@fudandori/ngx-clarity-button-hub": "latest",
+        "@fudao/hello": "latest",
+        "@fuddong/mkpad-fdd": "latest",
+        "@fudge-ai/browser": "latest",
+        "@fudge-ai/nextjs": "latest",
+        "@fudi/common": "latest",
+        "@fudohq/react-snap-sitemap": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-q_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "q.js": "latest",
+        "q.js-queue": "latest",
+        "q.respond": "latest",
+        "q_": "latest",
+        "q_abc": "latest",
+        "q_explorer": "latest",
+        "q_gnss_cli": "latest",
+        "q_googl": "latest",
+        "q_jade": "latest",
+        "q_myset_1023": "latest",
+        "q_node_tsc": "latest",
+        "q_q": "latest",
+        "q_rysownik": "latest",
+        "q_sqlite3": "latest",
+        "q_stack": "latest",
+        "q_validation": "latest",
+        "q_webclient": "latest"
+    }
+}

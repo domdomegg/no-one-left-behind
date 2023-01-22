@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_haj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hajertayachi/screen": "latest",
+        "@hajimekurita/is-defined": "latest",
+        "@hajnalandor/browser-fingerprint": "latest",
+        "@hajnalm-org/common": "latest",
+        "@hajtuj/redux-connect-wrapper": "latest",
+        "@hajun/react-native-firebase-component": "latest"
+    }
+}

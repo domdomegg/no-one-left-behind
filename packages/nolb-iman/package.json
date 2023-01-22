@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-iman",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "iman-craco": "latest",
+        "iman-p1": "latest",
+        "iman-p2": "latest",
+        "iman_farrokhi_package": "latest",
+        "iman_sip_test": "latest",
+        "imanagur": "latest",
+        "imange": "latest",
+        "imango-devtools": "latest",
+        "imanmh-test-component": "latest",
+        "imansap-nodejs1": "latest"
+    }
+}

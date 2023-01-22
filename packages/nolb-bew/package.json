@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-bew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bew": "latest",
+        "bew-cli": "latest",
+        "bewak": "latest",
+        "beware": "latest",
+        "beware-utils": "latest",
+        "bewater": "latest",
+        "beway": "latest",
+        "bewb": "latest",
+        "bewd--eserver": "latest",
+        "bewd--grommet-brander": "latest",
+        "bewdym8-dynamo-db-helper": "latest",
+        "bewegen": "latest",
+        "bewegung": "latest",
+        "bewitch": "latest",
+        "bewitched": "latest",
+        "bewpr": "latest",
+        "bews-koa-joi-swagger": "latest"
+    }
+}

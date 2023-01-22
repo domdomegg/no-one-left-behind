@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_tah",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tahaluf/autocomplete-control": "latest",
+        "@tahaluf/loader": "latest",
+        "@tahamsh/hello-wasm": "latest",
+        "@taharactrl/simple-logger": "latest",
+        "@taharactrl/utils": "latest",
+        "@tahashahid/ng-card": "latest",
+        "@tahashahid/ngx-slick": "latest",
+        "@tahatag/wavesurfer.js": "latest",
+        "@tahini/log": "latest",
+        "@tahini/nc": "latest",
+        "@tahlil_ma/wifipass": "latest",
+        "@tahmidmehdi/lotide": "latest",
+        "@tahmidul786/protractor-xmlhttprequest-mock": "latest",
+        "@taho2509/rock-common-ui": "latest",
+        "@tahosa/sequelize": "latest",
+        "@tahtickets/common": "latest"
+    }
+}

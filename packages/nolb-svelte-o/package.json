@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-svelte-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svelte-obfuscate": "latest",
+        "svelte-object-explorer": "latest",
+        "svelte-observable": "latest",
+        "svelte-observe-resize": "latest",
+        "svelte-observer": "latest",
+        "svelte-oct": "latest",
+        "svelte-octicons": "latest",
+        "svelte-ogl": "latest",
+        "svelte-oidc": "latest",
+        "svelte-on-any": "latest",
+        "svelte-one": "latest",
+        "svelte-onsenui": "latest",
+        "svelte-otp": "latest",
+        "svelte-outclick": "latest",
+        "svelte-outside-click": "latest",
+        "svelte-overlay": "latest",
+        "svelte-overlay-loading": "latest"
+    }
+}

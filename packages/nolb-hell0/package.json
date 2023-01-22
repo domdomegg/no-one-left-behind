@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-hell0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hell0-scope-test": "latest",
+        "hell0-weather-api-20": "latest",
+        "hell000-world": "latest",
+        "hell0_test_zx": "latest"
+    }
+}

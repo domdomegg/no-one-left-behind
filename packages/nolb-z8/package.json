@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-z8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "z8": "latest",
+        "z80": "latest",
+        "z80-asm": "latest",
+        "z80-base": "latest",
+        "z80-disasm": "latest",
+        "z80-emulator": "latest",
+        "z80-test": "latest",
+        "z80js": "latest",
+        "z80ne-wav": "latest",
+        "z84-ng-bandeau-extranet": "latest",
+        "z85": "latest",
+        "z85-cli": "latest",
+        "z85-codec": "latest"
+    }
+}

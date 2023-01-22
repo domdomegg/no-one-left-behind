@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_kow",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kow-ticketing/common": "latest",
+        "@kow/kevin": "latest",
+        "@kowal_/kfetch": "latest",
+        "@kowalevski/gatsby-midnight-theme": "latest",
+        "@kowalskiddamian/frontlogger": "latest",
+        "@kowalskiddamian/rapid-ui": "latest",
+        "@kowo0403hk/lotide": "latest"
+    }
+}

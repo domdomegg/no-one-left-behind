@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_aiv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aivaldi/restapimongo": "latest",
+        "@aivanyshyn/my-gci-lib-test": "latest",
+        "@aivanyshyn/my-gci-lib-test2": "latest",
+        "@aivanyshyn/my-test-lib": "latest",
+        "@aivanyshyn/my-test-lib1": "latest",
+        "@aivanyshyn/my-test-lib2": "latest",
+        "@aivec/boilerplate": "latest",
+        "@aivec/nlp-api-server": "latest",
+        "@aivec/nlp-object-types": "latest",
+        "@aivec/react-material-components": "latest",
+        "@aivec/reqres-utils": "latest",
+        "@aivec/wp-docker-dev-factory": "latest",
+        "@aivec/wp-typescript-react": "latest",
+        "@aivenio/aquarium": "latest",
+        "@aivenio/design-system": "latest",
+        "@aivenio/eslint-config-aiven": "latest",
+        "@aivenio/figma-js": "latest",
+        "@aivenio/tsc-output-parser": "latest",
+        "@aivsw/design-component": "latest"
+    }
+}

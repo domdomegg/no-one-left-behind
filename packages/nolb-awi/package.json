@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-awi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "awi": "latest",
+        "awi-clc": "latest",
+        "awi-service": "latest",
+        "awicons-react": "latest",
+        "awildphil-frame-print": "latest",
+        "awilix": "latest",
+        "awilix-express": "latest",
+        "awilix-groa": "latest",
+        "awilix-koa": "latest",
+        "awilix-router-core": "latest",
+        "awilix-socketio": "latest",
+        "awill": "latest",
+        "awin-api": "latest",
+        "awin-api-nodejs": "latest",
+        "awin-react": "latest",
+        "awing-library": "latest",
+        "awing-map": "latest",
+        "awing_gis": "latest",
+        "awinny-cui": "latest",
+        "awis": "latest",
+        "awis-bbi-fork": "latest",
+        "awis-https": "latest",
+        "awis-sign-v4": "latest",
+        "awis-temperature-converter": "latest",
+        "awis-test": "latest",
+        "awix": "latest"
+    }
+}

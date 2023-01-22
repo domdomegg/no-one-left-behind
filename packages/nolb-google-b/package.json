@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-google-b",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "google-back-end-auth": "latest",
+        "google-baidu-translate-api": "latest",
+        "google-baloon-tracking": "latest",
+        "google-base64": "latest",
+        "google-batch": "latest",
+        "google-batch-v2": "latest",
+        "google-big-query-labels": "latest",
+        "google-bigquery": "latest",
+        "google-bigquery-adapter": "latest",
+        "google-blocked": "latest",
+        "google-blockly": "latest",
+        "google-blogger-posts-getter": "latest",
+        "google-book-shell": "latest",
+        "google-books": "latest",
+        "google-books-catalogue-search": "latest",
+        "google-books-client": "latest",
+        "google-books-finder-command-line-app": "latest",
+        "google-books-js": "latest",
+        "google-books-search": "latest",
+        "google-books-search-2": "latest",
+        "google-books-search-nk": "latest",
+        "google-books-search-promise": "latest",
+        "google-books-search-promisev2": "latest",
+        "google-bottom-bar": "latest",
+        "google-buildartifacts-auth": "latest",
+        "google-busy-hours": "latest"
+    }
+}

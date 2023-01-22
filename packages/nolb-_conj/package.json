@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_conj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@conjecto/apollo-upload-client": "latest",
+        "@conjecto/next-i18next": "latest",
+        "@conjecto/react-elasticsearch": "latest",
+        "@conjoinedcats/hgmg": "latest",
+        "@conjointly-org/vue-editable-table": "latest",
+        "@conjoon/conjoon": "latest",
+        "@conjoon/create-conjoon": "latest",
+        "@conjoon/extjs-app-imapuser": "latest",
+        "@conjoon/extjs-app-webmail": "latest",
+        "@conjoon/extjs-dev-imapusersim": "latest",
+        "@conjoon/extjs-dev-webmailsim": "latest",
+        "@conjoon/extjs-theme-material": "latest",
+        "@conjurelabs/db": "latest",
+        "@conjurelabs/diff-match-patch": "latest",
+        "@conjurelabs/dir-of-readmes": "latest",
+        "@conjurelabs/dot-template": "latest",
+        "@conjurelabs/err": "latest",
+        "@conjurelabs/express-abridged": "latest",
+        "@conjurelabs/federal": "latest",
+        "@conjurelabs/get-type": "latest",
+        "@conjurelabs/hob": "latest",
+        "@conjurelabs/mode": "latest",
+        "@conjurelabs/pg-dir": "latest",
+        "@conjurelabs/pg-dot-template": "latest",
+        "@conjurelabs/route": "latest",
+        "@conjurelabs/utils": "latest"
+    }
+}

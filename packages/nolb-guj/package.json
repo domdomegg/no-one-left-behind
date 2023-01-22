@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-guj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "guj": "latest",
+        "guji": "latest",
+        "gujia": "latest",
+        "gujia-qushi-jishu-fenxi-shang": "latest",
+        "gujia-qushi-jishu-fenxi-xia": "latest",
+        "gujia-xxian": "latest",
+        "gujia-xxian-touzi": "latest",
+        "gujia-zoushitu-jinglun": "latest",
+        "gujiaoplugin-test": "latest",
+        "gujob.js": "latest",
+        "gujy": "latest",
+        "gujy-preconfigured-rewire": "latest",
+        "gujy-react-script": "latest"
+    }
+}

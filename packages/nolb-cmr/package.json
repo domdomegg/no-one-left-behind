@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-cmr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cmr": "latest",
+        "cmr-app": "latest",
+        "cmr-components": "latest",
+        "cmr-pack": "latest",
+        "cmr-utils-demo": "latest",
+        "cmr1-app": "latest",
+        "cmr1-aws": "latest",
+        "cmr1-cli": "latest",
+        "cmr1-logger": "latest",
+        "cmr1-ssl-validator": "latest",
+        "cmr1-ts3-bot": "latest",
+        "cmr1-ts3-bot-verify-gw2": "latest",
+        "cmr1225": "latest",
+        "cmr_math_example": "latest",
+        "cmr_math_example_new": "latest",
+        "cmra": "latest",
+        "cmreq": "latest",
+        "cmri-ui": "latest",
+        "cmrit-lib": "latest",
+        "cmrrikao-app": "latest",
+        "cmru": "latest"
+    }
+}

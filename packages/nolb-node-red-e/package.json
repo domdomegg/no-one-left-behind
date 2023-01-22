@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-node-red-e",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-easy-grasscutters": "latest",
+        "node-red-ecc-iot": "latest",
+        "node-red-edge-integration": "latest",
+        "node-red-elastic": "latest",
+        "node-red-elastic-jembala": "latest",
+        "node-red-embedded-start": "latest",
+        "node-red-emitter": "latest",
+        "node-red-enregistre-elasticsearch": "latest",
+        "node-red-es6-shim": "latest",
+        "node-red-evi-dashboard": "latest",
+        "node-red-ext-bavaria-black": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_lax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lax1n/tronbox": "latest",
+        "@laxels/create-react-app": "latest",
+        "@laxels/react-scripts": "latest",
+        "@laxersnine/ngx-dynamic-component-loader": "latest",
+        "@laxman2783/isnull-or-empty": "latest",
+        "@laxman2783/tiny": "latest",
+        "@laxmansharma/common": "latest",
+        "@laxmikanth/my-demo-lib": "latest",
+        "@laxmisindhuja97/justdemo": "latest",
+        "@laxus/common": "latest"
+    }
+}

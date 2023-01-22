@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_chg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chg/date-time-utils": "latest",
+        "@chg/pde-base-controller": "latest",
+        "@chg/salesforce-users": "latest",
+        "@chgibb/angularplasmid": "latest",
+        "@chgibb/css-spinners": "latest",
+        "@chgibb/electron-tabs": "latest",
+        "@chgibb/ng-node-compile": "latest",
+        "@chgibb/ngplasmid": "latest",
+        "@chgibb/unmappedcigarfragments": "latest",
+        "@chgittix/common": "latest"
+    }
+}

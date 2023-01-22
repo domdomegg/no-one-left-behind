@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_reactm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reactmaker/react-autocorrect-input": "latest",
+        "@reactmaker/reactmaker-cli": "latest",
+        "@reactmarket/component-generator": "latest",
+        "@reactmf/compiler": "latest",
+        "@reactmf/loader": "latest",
+        "@reactml/loader": "latest",
+        "@reactmodules/avatar": "latest",
+        "@reactmono/core": "latest"
+    }
+}

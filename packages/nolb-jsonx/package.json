@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-jsonx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jsonX": "latest",
+        "jsonx": "latest",
+        "jsonx-js": "latest",
+        "jsonxcz-lib": "latest",
+        "jsonxcz-test1": "latest",
+        "jsonxcz-ui": "latest",
+        "jsonxform": "latest",
+        "jsonxl": "latest",
+        "jsonxml": "latest",
+        "jsonxr-react-scripts": "latest",
+        "jsonxreact": "latest",
+        "jsonxt": "latest"
+    }
+}

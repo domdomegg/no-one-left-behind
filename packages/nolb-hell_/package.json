@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-hell_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hell.js": "latest",
+        "hell_freedom": "latest",
+        "hell_node_world": "latest",
+        "hell_test_hll": "latest",
+        "hell_test_jackson": "latest"
+    }
+}

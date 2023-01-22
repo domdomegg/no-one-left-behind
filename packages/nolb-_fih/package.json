@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_fih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fihosoft/data-source": "latest",
+        "@fihosoft/screen": "latest",
+        "@fihosoft/screen-widget": "latest",
+        "@fihosoft/widget-base": "latest"
+    }
+}

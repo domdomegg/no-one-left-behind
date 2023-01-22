@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-ngx-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ngx-z-file-uploader": "latest",
+        "ngx-z-matomo": "latest",
+        "ngx-z-notifications": "latest",
+        "ngx-zalo": "latest",
+        "ngx-zdajesz-material": "latest",
+        "ngx-zendesk-webwidget": "latest",
+        "ngx-zendesk-webwidget-6": "latest",
+        "ngx-zendesk-webwidget-8": "latest",
+        "ngx-zeroclipboard": "latest",
+        "ngx-zerr": "latest",
+        "ngx-zf-foundation": "latest",
+        "ngx-zh-cron": "latest",
+        "ngx-zk": "latest",
+        "ngx-zmz-clipboard": "latest",
+        "ngx-zombie-compiler": "latest",
+        "ngx-zone-scheduler": "latest",
+        "ngx-zone-task-tracking": "latest",
+        "ngx-zones": "latest",
+        "ngx-zoom-image": "latest",
+        "ngx-zoom-pro": "latest",
+        "ngx-zorrly": "latest",
+        "ngx-zorrly-lib": "latest",
+        "ngx-zorro-antd": "latest",
+        "ngx-ztk-csvexporter": "latest",
+        "ngx-zxcvbn-wrapper": "latest",
+        "ngx-zxing": "latest",
+        "ngx-zxing-multicode": "latest"
+    }
+}

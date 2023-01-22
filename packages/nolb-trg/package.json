@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-trg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "trg": "latest",
+        "trga-analytics": "latest",
+        "trga-css-driven-events": "latest",
+        "trgaudit": "latest",
+        "trgf-template-cli": "latest",
+        "trgfd-first-test-package-fdsfg3": "latest",
+        "trgkanki-template-cli": "latest",
+        "trgoogleapi": "latest",
+        "trgrok": "latest"
+    }
+}

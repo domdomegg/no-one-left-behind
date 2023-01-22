@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-sdi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sdi": "latest",
+        "sdi-pg-pool-handler": "latest",
+        "sdic": "latest",
+        "sdidb": "latest",
+        "sdidsa-frame-print": "latest",
+        "sdif": "latest",
+        "sdiff": "latest",
+        "sdijs": "latest",
+        "sdin": "latest",
+        "sdin-react": "latest",
+        "sdio": "latest",
+        "sdir": "latest",
+        "sdir-felles-cmps-ts": "latest",
+        "sdir-felles-reactstrap-cmps": "latest",
+        "sdir-felles-reactstrap-wrapper": "latest",
+        "sdiscordjs": "latest",
+        "sdiscovery": "latest",
+        "sdisk": "latest",
+        "sdistro-element-theme": "latest",
+        "sditor": "latest"
+    }
+}

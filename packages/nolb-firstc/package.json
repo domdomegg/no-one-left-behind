@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-firstc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "FirstCustomPlugin": "latest",
+        "firstc": "latest",
+        "firstcalc": "latest",
+        "firstcalssn": "latest",
+        "firstcapital": "latest",
+        "firstcase": "latest",
+        "firstclicampos": "latest",
+        "firstcloud-firstlib": "latest",
+        "firstcmpt": "latest",
+        "firstcolin": "latest",
+        "firstcommit-ui": "latest",
+        "firstcomponent-app": "latest",
+        "firstcomponent-example": "latest",
+        "firstcomponentest": "latest",
+        "firstconnect-portal-frontend": "latest",
+        "firstcontract": "latest"
+    }
+}

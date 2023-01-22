@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-httpd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "httpd-ls": "latest",
+        "httpd-mock": "latest",
+        "httpd-node": "latest",
+        "httpd-php-switcher": "latest",
+        "httpd-spa": "latest",
+        "httpd.js": "latest",
+        "httpd.min.js": "latest",
+        "httpdd": "latest",
+        "httpdemo": "latest",
+        "httpdir": "latest",
+        "httpdispatcher": "latest",
+        "httpdispatcherfork": "latest",
+        "httpdomotika": "latest",
+        "httpdumper": "latest",
+        "httpdup": "latest"
+    }
+}

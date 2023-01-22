@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-z6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "z6": "latest",
+        "z66-my-math": "latest",
+        "z6super-tarolib-plugins": "latest",
+        "z6super_mk_temp": "latest",
+        "z6super_taro_plugins": "latest",
+        "z6super_utils": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-vue-mf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-mf-module": "latest",
+        "vue-mfe": "latest",
+        "vue-mfe-cli": "latest",
+        "vue-mfe-wc": "latest",
+        "vue-mfk": "latest"
+    }
+}

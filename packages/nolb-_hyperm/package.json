@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_hyperm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hypermachines/core": "latest",
+        "@hypermachines/runtime": "latest",
+        "@hypermachines/runtime-darwin": "latest",
+        "@hypermachines/runtime-isolates": "latest",
+        "@hypermachines/runtime-linux": "latest",
+        "@hypermachines/runtime-linux-musl": "latest",
+        "@hypermachines/runtime-win32": "latest",
+        "@hypermark/cli": "latest"
+    }
+}

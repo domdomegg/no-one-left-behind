@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_fluentui-emoji-wor",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/fluentui-emoji-world-map-color": "latest",
+        "@hyper.fun/fluentui-emoji-world-map-flat": "latest",
+        "@hyper.fun/fluentui-emoji-world-map-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-worm-color": "latest",
+        "@hyper.fun/fluentui-emoji-worm-flat": "latest",
+        "@hyper.fun/fluentui-emoji-worm-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-worried-face-color": "latest",
+        "@hyper.fun/fluentui-emoji-worried-face-flat": "latest",
+        "@hyper.fun/fluentui-emoji-worried-face-high-contrast": "latest"
+    }
+}

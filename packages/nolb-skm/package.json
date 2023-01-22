@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-skm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "skm": "latest",
+        "skm-lit": "latest",
+        "skm-ng": "latest",
+        "skm-node": "latest",
+        "skm-react-validation": "latest",
+        "skm-vue-hello-world-simple1": "latest",
+        "skm_ts": "latest",
+        "skma": "latest",
+        "skmatc": "latest",
+        "skmax-medooze-media-server": "latest",
+        "skmeans": "latest",
+        "skmms": "latest",
+        "skmobile-ui": "latest",
+        "skmodule": "latest",
+        "skmtodocli": "latest",
+        "skmvtest": "latest"
+    }
+}

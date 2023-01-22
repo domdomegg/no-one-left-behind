@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-node-rs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-rs-mkdir": "latest",
+        "node-rsa": "latest",
+        "node-rsa-b": "latest",
+        "node-rsa-build": "latest",
+        "node-rsa-ex": "latest",
+        "node-rsa-s": "latest",
+        "node-rsa-translator": "latest",
+        "node-rsa-ts": "latest",
+        "node-rsa-westartrack": "latest",
+        "node-rsc": "latest",
+        "node-rscript": "latest",
+        "node-rsql-parser": "latest",
+        "node-rsr": "latest",
+        "node-rss": "latest",
+        "node-rss-crawl": "latest",
+        "node-rss-discover": "latest",
+        "node-rss-gen": "latest",
+        "node-rsync": "latest",
+        "node-rsync-watcher": "latest",
+        "node-rsyslog": "latest"
+    }
+}

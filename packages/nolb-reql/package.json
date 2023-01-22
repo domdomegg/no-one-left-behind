@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-reql",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reql": "latest",
+        "reql-cli": "latest",
+        "reql-js": "latest",
+        "reql-koa": "latest",
+        "reql-pointfree": "latest",
+        "reql-replay-driver": "latest",
+        "reql-schema": "latest",
+        "reql-then": "latest",
+        "reql-to-moment": "latest",
+        "reqlalala": "latest",
+        "reqlang": "latest",
+        "reqless": "latest",
+        "reqlib": "latest",
+        "reqlim": "latest",
+        "reqlimit": "latest",
+        "reqlist": "latest",
+        "reqlite": "latest",
+        "reqlog": "latest",
+        "reqlogger": "latest",
+        "reqlogs": "latest",
+        "reqly": "latest",
+        "reqly-react": "latest"
+    }
+}

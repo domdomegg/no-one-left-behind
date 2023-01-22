@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-msr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "msr": "latest",
+        "msr-labs": "latest",
+        "msr-okii-cli": "latest",
+        "msr-test-package-a": "latest",
+        "msr-test-package-b": "latest",
+        "msra-my-storybook-component": "latest",
+        "msrand": "latest",
+        "msraosurya": "latest",
+        "msraosurya-demo": "latest",
+        "msraosurya-mat-jq": "latest",
+        "msraosurya-split": "latest",
+        "msrcrypto": "latest",
+        "msrd-helper-lib": "latest",
+        "msrewards-cheater": "latest",
+        "msrp-node-lib": "latest",
+        "msrpc": "latest",
+        "msruna": "latest",
+        "msrus": "latest",
+        "msrv": "latest",
+        "msrv-shared-modules": "latest"
+    }
+}

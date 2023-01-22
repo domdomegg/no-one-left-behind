@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-mat4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mat4": "latest",
+        "mat4-css-parse": "latest",
+        "mat4-css-stringify": "latest",
+        "mat4-decompose": "latest",
+        "mat4-interpolate": "latest",
+        "mat4-interpolator": "latest",
+        "mat4-recompose": "latest",
+        "mat4-to-dual-quat": "latest",
+        "mat4.c": "latest"
+    }
+}

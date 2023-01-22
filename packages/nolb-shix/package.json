@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-shix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shixi-shenming-shouce": "latest",
+        "shixian-leaflet": "latest",
+        "shixiankang": "latest",
+        "shixiaoranranran": "latest",
+        "shixiaoshi-rangni-chengwei-taluo-gaoshou": "latest",
+        "shixiaowuya": "latest",
+        "shixin-element-ui": "latest",
+        "shixincube": "latest",
+        "shixintestnpm": "latest",
+        "shixunfenban": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-stat_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stat.min.js": "latest",
+        "stat.seqs": "latest",
+        "stat_2018315526": "latest",
+        "stat_frontend": "latest",
+        "stat_learn_js": "latest",
+        "stat_lichao": "latest",
+        "stat_widget": "latest",
+        "stat_yunchae": "latest",
+        "stat_zjr": "latest"
+    }
+}

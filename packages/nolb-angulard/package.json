@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-angulard",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "angulardaily-header": "latest",
+        "angulardatetimepicker": "latest",
+        "angulardemo": "latest",
+        "angulardemo-leopold1988": "latest",
+        "angulardemo01": "latest",
+        "angulardemo2022": "latest",
+        "angulardemoprojects": "latest",
+        "angulardnn-cli": "latest",
+        "angulardoc": "latest"
+    }
+}

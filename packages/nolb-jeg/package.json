@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-jeg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jeg": "latest",
+        "jege": "latest",
+        "jeggy": "latest",
+        "jeggy-loki": "latest",
+        "jeggy-mongoose": "latest",
+        "jegom": "latest",
+        "jegom-express": "latest",
+        "jegotrip-ui1": "latest",
+        "jegsars-hello-world-test": "latest",
+        "jegulpy": "latest"
+    }
+}

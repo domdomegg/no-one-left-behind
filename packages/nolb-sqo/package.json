@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-sqo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sqobject": "latest",
+        "sqon": "latest",
+        "sqon-builder": "latest",
+        "sqoogl": "latest",
+        "sqoosel": "latest",
+        "sqorn": "latest",
+        "sqorn-adapter-pg": "latest",
+        "sqorn-core": "latest",
+        "sqorn-dialect-postgres": "latest",
+        "sqorn-pg": "latest",
+        "sqorn-sql": "latest",
+        "sqorn-util": "latest"
+    }
+}

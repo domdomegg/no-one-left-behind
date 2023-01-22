@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_nodet",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nodetech/egg-yunpian": "latest",
+        "@nodetech/galaxy": "latest",
+        "@nodetech/galaxy-sdk": "latest",
+        "@nodetech/vue-avatar": "latest",
+        "@nodetech/vue-fast-picker": "latest",
+        "@nodetoy/react-nodetoy": "latest",
+        "@nodetoy/runtime": "latest",
+        "@nodetoy/shared-nodetoy": "latest",
+        "@nodetoy/three-nodetoy": "latest",
+        "@nodets-tickets/common": "latest"
+    }
+}

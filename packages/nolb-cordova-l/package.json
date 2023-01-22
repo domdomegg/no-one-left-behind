@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-cordova-l",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cordova-labs-local-webserver": "latest",
+        "cordova-labs-local-webserver-ka": "latest",
+        "cordova-labs-local-webserver-klb": "latest",
+        "cordova-launch-review": "latest",
+        "cordova-launcher-list-app": "latest",
+        "cordova-lib": "latest",
+        "cordova-libgoogleadmobads": "latest",
+        "cordova-library-helper": "latest",
+        "cordova-library-helper-pp-fork": "latest",
+        "cordova-lifecycle-plugin": "latest",
+        "cordova-line-login-plugin": "latest",
+        "cordova-lineapro-plugin": "latest",
+        "cordova-linkto": "latest",
+        "cordova-linter": "latest",
+        "cordova-live-update": "latest",
+        "cordova-loader": "latest",
+        "cordova-local-notfication-plugin-ios10-hotfix": "latest",
+        "cordova-location-amap": "latest",
+        "cordova-location-baidumap": "latest",
+        "cordova-locationkit": "latest",
+        "cordova-locktask": "latest",
+        "cordova-logger": "latest",
+        "cordova-login": "latest"
+    }
+}

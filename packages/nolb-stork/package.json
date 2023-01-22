@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-stork",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stork": "latest",
+        "stork-cli": "latest",
+        "stork-grid": "latest",
+        "stork-mvc": "latest",
+        "stork-odm": "latest",
+        "stork-search": "latest",
+        "stork-ssg": "latest",
+        "stork-tags": "latest",
+        "storkSQL": "latest",
+        "storken": "latest",
+        "storken-actions": "latest",
+        "storken-broadcast": "latest",
+        "storken-fetchresults": "latest",
+        "storken-storage": "latest",
+        "storkjs": "latest",
+        "storkjs-persistence": "latest"
+    }
+}

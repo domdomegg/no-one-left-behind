@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-d8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "d8": "latest",
+        "d8-dcd": "latest",
+        "d8-jsonapi-querystring": "latest",
+        "d8-subrequests": "latest",
+        "d8-termux": "latest",
+        "d8a": "latest",
+        "d8b3": "latest",
+        "d8code": "latest",
+        "d8npm": "latest",
+        "d8picker": "latest"
+    }
+}

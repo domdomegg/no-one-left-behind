@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-zop",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zop": "latest",
+        "zop-react-phone-number-input": "latest",
+        "zopa-mira": "latest",
+        "zope": "latest",
+        "zopf": "latest",
+        "zopfli": "latest",
+        "zopfli-brunch": "latest",
+        "zopfli-node": "latest",
+        "zopfli-size": "latest",
+        "zopfli-webpack-plugin": "latest",
+        "zopfli.js": "latest",
+        "zopflipng-bin": "latest",
+        "zopflipng-chrissimpkins-bin": "latest",
+        "zopim": "latest",
+        "zopimandroid": "latest",
+        "zoply-schema": "latest",
+        "zopsdk-node": "latest"
+    }
+}

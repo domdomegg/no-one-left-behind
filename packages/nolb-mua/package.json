@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-mua",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mua": "latest",
+        "mua-hello-world": "latest",
+        "mua-wordpress": "latest",
+        "muambatorjs": "latest",
+        "muan.css": "latest",
+        "muapp": "latest",
+        "muappgd": "latest",
+        "muara": "latest",
+        "muara-ui": "latest",
+        "muarij_calculator": "latest",
+        "muarij_mod": "latest",
+        "muarij_module2": "latest"
+    }
+}

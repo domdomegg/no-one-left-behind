@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_carv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@carv/bundle": "latest",
+        "@carv/cdn-css-loader": "latest",
+        "@carv/esbundle": "latest",
+        "@carv/eslint-config": "latest",
+        "@carv/graphql-fields": "latest",
+        "@carv/is": "latest",
+        "@carv/jest-preset": "latest",
+        "@carv/load-stylesheet": "latest",
+        "@carv/metrics-fastify": "latest",
+        "@carv/metrics-process": "latest",
+        "@carv/polyfills": "latest",
+        "@carv/prettier-config": "latest",
+        "@carv/runtime": "latest",
+        "@carv/scripts": "latest",
+        "@carv/snowpack-plugin-rollup": "latest",
+        "@carv/snowpack-scripts": "latest",
+        "@carv/snowpack-scripts-svelte": "latest",
+        "@carv/stdlib": "latest",
+        "@carv/telemetry": "latest",
+        "@carv/testing-library": "latest",
+        "@carv/time": "latest",
+        "@carv/tsconfig": "latest",
+        "@carv/types": "latest",
+        "@carverry/app": "latest",
+        "@carverry/core": "latest",
+        "@carverry/demo-material": "latest",
+        "@carverry/helper": "latest"
+    }
+}

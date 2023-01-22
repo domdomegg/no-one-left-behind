@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-swy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "swy": "latest",
+        "swy-builder-webpack": "latest",
+        "swy-cli": "latest",
+        "swych-sdk": "latest",
+        "swyft-functions": "latest",
+        "swyftxwrapper.js": "latest",
+        "swym-apikit-test": "latest",
+        "swym-firebase-login-button": "latest",
+        "swym-ory-firepad": "latest",
+        "swyno-sdk": "latest",
+        "swype": "latest",
+        "swypeapi": "latest",
+        "swyperouter": "latest",
+        "swytch-carbon-metrics": "latest",
+        "swytch-crypto": "latest",
+        "swytch-estimator": "latest",
+        "swytch-iot": "latest",
+        "swytch-jwt": "latest",
+        "swytch-x-energy-meta-service": "latest",
+        "swyx": "latest",
+        "swyx-a": "latest",
+        "swyx-graphiql": "latest",
+        "swyzzle": "latest"
+    }
+}

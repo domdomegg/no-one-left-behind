@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-rx_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rx.disposable": "latest",
+        "rx.disposables": "latest",
+        "rx.mini": "latest",
+        "rx.node.watch": "latest",
+        "rx.observable.combine-template": "latest",
+        "rx.observable.combinetemplate": "latest",
+        "rx.priorityqueue": "latest",
+        "rx.schedulers": "latest",
+        "rx.utils": "latest",
+        "rx.wamp": "latest",
+        "rx.ws": "latest",
+        "rx_101_test1": "latest",
+        "rx_demo_02": "latest",
+        "rx_state": "latest",
+        "rx_wu": "latest"
+    }
+}

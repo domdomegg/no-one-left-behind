@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-qiz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qiz": "latest",
+        "qize": "latest",
+        "qizheng-siyu-kuaiyitong": "latest",
+        "qizheng-siyu-yansuan-lijie": "latest",
+        "qizhi": "latest",
+        "qizhi-ui": "latest",
+        "qizhick_publish": "latest",
+        "qizi-cli": "latest",
+        "qizi-test": "latest"
+    }
+}

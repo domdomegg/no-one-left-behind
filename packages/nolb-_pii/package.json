@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_pii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pii/application": "latest",
+        "@pii/di": "latest",
+        "@pii/moduleloader": "latest",
+        "@pii/router-express": "latest",
+        "@pii/scope": "latest",
+        "@pii/server-express": "latest",
+        "@pii/utils": "latest",
+        "@piigo/alphavantage": "latest",
+        "@piigo/donjon-bin-sh": "latest",
+        "@piigo/express-node-metrics": "latest",
+        "@piigo/expresslib": "latest",
+        "@piigo/hypixelapi": "latest",
+        "@piigo/nextop-cli": "latest",
+        "@piigo/owl": "latest",
+        "@piigo/playingcards": "latest",
+        "@piigo/projecttools": "latest",
+        "@piigo/react-waypoint": "latest",
+        "@piigo/tmdb": "latest",
+        "@piigo/utils": "latest",
+        "@piigo/xivapi": "latest",
+        "@piing/io-types": "latest",
+        "@piing/koa-caseof": "latest",
+        "@piisfour/api-contract": "latest"
+    }
+}

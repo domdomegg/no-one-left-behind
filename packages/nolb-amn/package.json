@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-amn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "amn": "latest",
+        "amn-error": "latest",
+        "amn-express": "latest",
+        "amn-express-validate": "latest",
+        "amn-mongoose": "latest",
+        "amn-nats": "latest",
+        "amn-store": "latest",
+        "amn-token-contract": "latest",
+        "amna": "latest",
+        "amnc": "latest",
+        "amnesia": "latest",
+        "amnesia-test": "latest",
+        "amnext-uikit": "latest",
+        "amnhcms": "latest",
+        "amnis": "latest",
+        "amnis-logger": "latest",
+        "amnis-preact": "latest",
+        "amnisio": "latest",
+        "amnomnamnam": "latest",
+        "amnotacat": "latest",
+        "amnspace-test": "latest"
+    }
+}

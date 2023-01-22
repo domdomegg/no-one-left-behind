@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-mark2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mark2": "latest",
+        "mark24test": "latest",
+        "mark2doc": "latest",
+        "mark2html": "latest",
+        "mark2jek": "latest",
+        "mark2slides": "latest"
+    }
+}

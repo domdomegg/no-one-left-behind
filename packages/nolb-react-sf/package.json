@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-react-sf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-sf-building-blocks": "latest",
+        "react-sf-modal": "latest",
+        "react-sf-navbar": "latest",
+        "react-sf-plpcomponent-1": "latest",
+        "react-sf-symbols": "latest",
+        "react-sf-test-plpcomponent": "latest",
+        "react-sf-themes": "latest",
+        "react-sfc": "latest",
+        "react-sfc-cli": "latest",
+        "react-sfc-loader": "latest",
+        "react-sfc-webpack-loader": "latest",
+        "react-sfinx": "latest",
+        "react-sfs": "latest"
+    }
+}

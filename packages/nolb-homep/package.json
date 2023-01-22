@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-homep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "homepad": "latest",
+        "homepage": "latest",
+        "homepage-js-web": "latest",
+        "homepage-template": "latest",
+        "homepage-web": "latest",
+        "homepagie-server-js": "latest",
+        "homepak": "latest",
+        "homepakage-ss": "latest",
+        "homepass-strategy": "latest",
+        "homepath": "latest",
+        "homephr-auth": "latest",
+        "homephr-dal": "latest",
+        "homephr-exporter": "latest",
+        "homephr-logger": "latest",
+        "homephr-notifications": "latest",
+        "homephr-smartsearch": "latest",
+        "homepilot2mqtt": "latest",
+        "homeplus-twilio-voice": "latest",
+        "homeplus-universe": "latest",
+        "homeplus-web": "latest",
+        "homepod": "latest",
+        "homepress": "latest",
+        "homepro-ui": "latest",
+        "homeputer-connect": "latest"
+    }
+}

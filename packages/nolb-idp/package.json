@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-idp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "idp": "latest",
+        "idp-auth": "latest",
+        "idp-cli": "latest",
+        "idp-core-upperfunnel": "latest",
+        "idp-facebook": "latest",
+        "idp-github": "latest",
+        "idp-google": "latest",
+        "idp-metadata-parser": "latest",
+        "idp-pangu-ui": "latest",
+        "idp-pangu-ui-test": "latest",
+        "idp-persona": "latest",
+        "idp-shared-node-library": "latest",
+        "idp-spoofing-provider": "latest",
+        "idp-ssr-shell": "latest",
+        "idp-test-test-test": "latest",
+        "idp2p": "latest",
+        "idp_sdk": "latest",
+        "idpaedes": "latest",
+        "idpay": "latest",
+        "idpay-node": "latest",
+        "idpay-ts": "latest",
+        "idpay_ir": "latest",
+        "idpayjs": "latest"
+    }
+}

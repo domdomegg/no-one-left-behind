@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-agx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "agx": "latest",
+        "agx-carousel": "latest",
+        "agx-charts-angular": "latest",
+        "agx-lib": "latest",
+        "agx-md": "latest",
+        "agx-typeahead": "latest",
+        "agx-validation": "latest"
+    }
+}

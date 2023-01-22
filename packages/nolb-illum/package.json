@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-illum",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "illume": "latest",
+        "illumi": "latest",
+        "illumidate-common": "latest",
+        "illumina": "latest",
+        "illumina2bam-tools": "latest",
+        "illuminate": "latest",
+        "illuminate-collections": "latest",
+        "illuminate-js": "latest",
+        "illuminate-support": "latest",
+        "illuminate-ui": "latest",
+        "illuminate-url": "latest",
+        "illuminated": "latest",
+        "illuminati": "latest",
+        "illuminati-logo": "latest",
+        "illuminati.js": "latest",
+        "illuminatify": "latest",
+        "illumination": "latest",
+        "illuminator-lib": "latest",
+        "illumine": "latest",
+        "illuminite": "latest",
+        "illuminsight": "latest",
+        "illuminsight-cookbook": "latest",
+        "illuminsight-server": "latest",
+        "illuminsight-web": "latest",
+        "illumos_contract": "latest"
+    }
+}

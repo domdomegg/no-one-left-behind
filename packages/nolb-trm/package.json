@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-trm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "trm": "latest",
+        "trm-api": "latest",
+        "trm-test": "latest",
+        "trmag": "latest",
+        "trmb-components-demo": "latest",
+        "trmclr": "latest",
+        "trmcol": "latest",
+        "trmdouieb": "latest",
+        "trme": "latest",
+        "trmegadb": "latest",
+        "trmi": "latest",
+        "trmi-http": "latest",
+        "trmi-redis": "latest",
+        "trmix": "latest",
+        "trmtestnodejs": "latest"
+    }
+}

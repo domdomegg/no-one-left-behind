@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_pard",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pardhuangular/components": "latest",
+        "@pardjs/asset": "latest",
+        "@pardjs/auth": "latest",
+        "@pardjs/auth-service-common": "latest",
+        "@pardjs/auth-service-nestjs-sdk": "latest",
+        "@pardjs/auth-service-sdk": "latest",
+        "@pardjs/blogs": "latest",
+        "@pardjs/common": "latest",
+        "@pardjs/common-1": "latest",
+        "@pardjs/core": "latest",
+        "@pardjs/marked": "latest",
+        "@pardjs/nest-casbin": "latest",
+        "@pardjs/notification": "latest",
+        "@pardjs/recaptcha-nuxt": "latest",
+        "@pardjs/recaptcha-server": "latest",
+        "@pardjs/static-content-loader": "latest",
+        "@pardjs/tag": "latest",
+        "@pardjs/users-service-common": "latest",
+        "@pardjs/users-service-sdk": "latest",
+        "@pardjs/wsc-os": "latest"
+    }
+}

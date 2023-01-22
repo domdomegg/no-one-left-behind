@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-cr7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cr7": "latest",
+        "cr7-2elad": "latest",
+        "cr7-ex": "latest",
+        "cr7-isr": "latest",
+        "cr7-israel": "latest",
+        "cr7-st": "latest",
+        "cr7-stencil-component": "latest"
+    }
+}

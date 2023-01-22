@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-ngx-1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ngx-11-mat-intl-tel-input": "latest",
+        "ngx-11-mqtt": "latest",
+        "ngx-12-pinch-zoom": "latest"
+    }
+}

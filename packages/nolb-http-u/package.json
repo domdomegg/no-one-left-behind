@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-http-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "http-upload": "latest",
+        "http-upload-file": "latest",
+        "http-upload-server": "latest",
+        "http-uploader": "latest",
+        "http-url-builder": "latest",
+        "http-url-query": "latest",
+        "http-url-regex": "latest",
+        "http-util": "latest",
+        "http-util-mk": "latest",
+        "http-utilities": "latest",
+        "http-utility": "latest",
+        "http-utils": "latest",
+        "http-utils-client": "latest"
+    }
+}

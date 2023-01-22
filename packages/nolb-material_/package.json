@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-material_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "material.font.features": "latest",
+        "material.re": "latest",
+        "material.react": "latest",
+        "material_calculator": "latest",
+        "material_file_uploader": "latest",
+        "material_login_form": "latest",
+        "material_multi_select_list": "latest",
+        "material_ui_react_laravel_table": "latest",
+        "material_ui_wrapper": "latest"
+    }
+}

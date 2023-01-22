@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-pua",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pua": "latest",
+        "pua-hexin-kecheng-yubei-shouce": "latest",
+        "pua-text": "latest",
+        "pua-wanhui": "latest",
+        "pua.js": "latest",
+        "puan-excel": "latest",
+        "puan-uni": "latest",
+        "puan-uni-upload": "latest",
+        "puan-utils": "latest",
+        "puan-vue2-uni": "latest",
+        "puan-word": "latest",
+        "puaney-lianai-baodian": "latest",
+        "puaney-liaotian-huashu-zhongji-zhinan": "latest"
+    }
+}

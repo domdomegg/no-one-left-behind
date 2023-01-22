@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-chv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chv": "latest",
+        "chv-react-simple-pagination": "latest",
+        "chvalid": "latest",
+        "chvin_html": "latest",
+        "chvinmodule": "latest",
+        "chvisection-eris": "latest",
+        "chvister-devtools": "latest",
+        "chvlk": "latest",
+        "chvocab": "latest",
+        "chvote-common-theme": "latest"
+    }
+}

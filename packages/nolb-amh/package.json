@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-amh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "amh": "latest",
+        "amh-express-sequelize-generator": "latest",
+        "amh-sails-api-utils": "latest",
+        "amharic": "latest",
+        "amharic-english-map": "latest",
+        "amharic-phonetic-translator": "latest",
+        "amharic-to-english-transliterator": "latest",
+        "amharic-verse": "latest",
+        "amhawy-sdk": "latest",
+        "amhh5tracker": "latest",
+        "amhil-npm-demo": "latest",
+        "amhminitracker": "latest",
+        "amho": "latest",
+        "amhtracker": "latest",
+        "amhui": "latest"
+    }
+}

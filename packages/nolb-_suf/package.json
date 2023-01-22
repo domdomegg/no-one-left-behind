@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_suf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sufailtickets/common": "latest",
+        "@sufangyu/fe-ui": "latest",
+        "@sufangyu/v-viewer": "latest",
+        "@sufangyu/yu-ui": "latest",
+        "@sufficit/n8n-nodes-chatwoot": "latest",
+        "@sufficit/n8n-nodes-quepasa": "latest",
+        "@suffix-ticketing/commonfn": "latest",
+        "@suffolklitlab/alkiln": "latest",
+        "@sufi-arrivy/react-numeric-input": "latest",
+        "@sufrago/core": "latest",
+        "@sufrago/rust-musl-serverless": "latest",
+        "@suftnet-ui/alert": "latest",
+        "@suftnet-ui/containers": "latest",
+        "@suftnet-ui/core": "latest",
+        "@suftnet-ui/create-simple-component": "latest",
+        "@suftnet-ui/icon": "latest",
+        "@suftnet-ui/it": "latest",
+        "@suftnet-ui/layout": "latest",
+        "@suftnet-ui/utils": "latest"
+    }
+}

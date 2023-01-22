@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_exp-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@exp-plus/alipay-sdk": "latest",
+        "@exp-plus/egg-miniprogram": "latest",
+        "@exp-plus/egg-sentry": "latest",
+        "@exp-plus/egg-tencent-cloud": "latest",
+        "@exp-plus/egg-wechat": "latest",
+        "@exp-plus/exception": "latest",
+        "@exp-plus/package": "latest"
+    }
+}

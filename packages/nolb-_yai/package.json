@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_yai",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yair-tickets/common": "latest",
+        "@yair_abranyi/slugger": "latest",
+        "@yaireo-cyren/ui-componnts": "latest",
+        "@yaireo/color-picker": "latest",
+        "@yaireo/console-colors": "latest",
+        "@yaireo/do-in": "latest",
+        "@yaireo/dragsort": "latest",
+        "@yaireo/fakescroll": "latest",
+        "@yaireo/knobs": "latest",
+        "@yaireo/position": "latest",
+        "@yaireo/react-bouncer": "latest",
+        "@yaireo/react-number-input": "latest",
+        "@yaireo/react-ref-watcher": "latest",
+        "@yaireo/relative-time": "latest",
+        "@yaireo/tagify": "latest",
+        "@yaireo/title-tooltip": "latest",
+        "@yaireo/ui-range": "latest",
+        "@yaireo/ui-switch": "latest",
+        "@yaireo/validator": "latest",
+        "@yairrr/promises-lib": "latest",
+        "@yairrr/slugger": "latest",
+        "@yairtickets/common": "latest",
+        "@yairtix/common": "latest",
+        "@yairza/panzoom": "latest"
+    }
+}

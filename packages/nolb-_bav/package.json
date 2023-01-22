@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_bav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bavaan/nestjs-shopify": "latest",
+        "@bavaan/nestjs-shopify-auth": "latest",
+        "@bavaan/nestjs-shopify-core": "latest",
+        "@bavaan/nestjs-shopify-graphql": "latest",
+        "@bavaan/nestjs-shopify-webhooks": "latest",
+        "@bavard/agent-config": "latest",
+        "@bavard/bavard-react": "latest",
+        "@bavard/bavard-react-aws": "latest",
+        "@bavard/chatbot-templates": "latest",
+        "@bavard/chatbot-widget": "latest",
+        "@bavard/common": "latest",
+        "@bavard/common-server": "latest",
+        "@bavard/eslint-config-typescript": "latest",
+        "@bavard/graph-policy": "latest",
+        "@bavard/react-components": "latest",
+        "@bavard/widget-loader": "latest",
+        "@bavard/widget-loader-aws": "latest",
+        "@bavary/cli": "latest",
+        "@bavary/core": "latest",
+        "@bavary/lib": "latest",
+        "@bavary/webpack-loader": "latest",
+        "@bavix/cozy-house-kit": "latest",
+        "@bavjacksontickets/common": "latest",
+        "@bavlex/bvx-tmp": "latest"
+    }
+}

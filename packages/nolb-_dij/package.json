@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_dij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dijateam/countries": "latest",
+        "@dijateam/eslint-config-taj": "latest",
+        "@dijateam/eslint-config-taj-vue": "latest",
+        "@dijiang/front_mapbox_custom_draw": "latest",
+        "@dijiang/front_mapbox_custom_layer": "latest",
+        "@dijiang/front_mapbox_three_panorama": "latest",
+        "@dijimsta/node-utils": "latest",
+        "@dijimsta/observable": "latest",
+        "@dijimsta/react": "latest",
+        "@dijimsta/use-async": "latest",
+        "@dijir/rubix": "latest",
+        "@dijkstra/mandelbrot-explorer": "latest",
+        "@dijkstra/svelteflow": "latest",
+        "@dijkstraj/character-editor": "latest"
+    }
+}

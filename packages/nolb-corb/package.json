@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-corb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "corb": "latest",
+        "corba": "latest",
+        "corba.js": "latest",
+        "corballis-build": "latest",
+        "corbanbrook-fft": "latest",
+        "corbeau-renard-cli": "latest",
+        "corbel-composer": "latest",
+        "corbel-composr": "latest",
+        "corbel-js": "latest",
+        "corbel-sdk-js": "latest",
+        "corbel-token-verifier": "latest",
+        "corber": "latest",
+        "corber-ember-livereload": "latest",
+        "corber-react": "latest",
+        "corber-webpack-plugin": "latest",
+        "corbeta": "latest",
+        "corbie": "latest",
+        "corbinrobb-palindrome": "latest",
+        "corbo": "latest",
+        "corbpaul-design-system": "latest",
+        "corbpaul-learnstorybook-design-system": "latest",
+        "corbusier": "latest",
+        "corby": "latest",
+        "corby-cli": "latest"
+    }
+}

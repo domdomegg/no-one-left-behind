@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-trid",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "trid": "latest",
+        "trida-pizarron": "latest",
+        "tride-grab-handler": "latest",
+        "tridef": "latest",
+        "trident": "latest",
+        "trident-api-client": "latest",
+        "trident-beta": "latest",
+        "trident-chemwidgets": "latest",
+        "trident-physx-js-webidl": "latest",
+        "trident-sdk-js": "latest",
+        "trident-ts-sdk": "latest",
+        "trident.js": "latest",
+        "trident.js-start": "latest",
+        "tridev": "latest",
+        "tridi": "latest",
+        "tridi-3d": "latest",
+        "tridiagonal-solve": "latest",
+        "tridoron": "latest"
+    }
+}

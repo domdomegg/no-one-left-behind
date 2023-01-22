@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-bex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bex": "latest",
+        "bex-price": "latest",
+        "bexer": "latest",
+        "bexie-react-chat-ui": "latest",
+        "bexio": "latest",
+        "bexio-teststyleguide": "latest",
+        "bexioapi": "latest",
+        "bexjs": "latest",
+        "bexlanphp": "latest",
+        "bexp": "latest",
+        "bexpr-ts-lang": "latest",
+        "bexqr": "latest",
+        "bext": "latest",
+        "bext-lib": "latest",
+        "bextend": "latest"
+    }
+}

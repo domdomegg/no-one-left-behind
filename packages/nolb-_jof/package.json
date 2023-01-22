@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_jof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@joffarex/ng-bootstrap-datetime-angular": "latest",
+        "@joffilyfe/dev": "latest",
+        "@joffotron/relay-testing-utils": "latest",
+        "@joffrey-parisot/pokebot": "latest",
+        "@joffrey1323/iut-encrypt": "latest",
+        "@jofr/capacitor-media-session": "latest",
+        "@jofr/express-turn-credentials-rest-api": "latest"
+    }
+}

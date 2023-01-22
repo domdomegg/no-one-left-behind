@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-ey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-eye-functions": "latest",
+        "react-eyeball": "latest",
+        "react-eyedrop": "latest",
+        "react-eyedropper": "latest",
+        "react-eyedropper-fork": "latest",
+        "react-eyefish": "latest",
+        "react-eyowo": "latest"
+    }
+}

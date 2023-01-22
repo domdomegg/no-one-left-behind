@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_v_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@v.affonso/foundation": "latest",
+        "@v.affonso/react": "latest",
+        "@v.affonso/scss": "latest",
+        "@v.kiniv/kinect-js": "latest",
+        "@v.krasutsky/test_npm": "latest",
+        "@v.layanto/eslint-config": "latest",
+        "@v.layanto/prettier-config": "latest",
+        "@v.luanna/craco-plugin-single-spa-application": "latest",
+        "@v_k_ng/tiny": "latest",
+        "@v_kachmar/test_pkg": "latest",
+        "@v_smokinge/task_3": "latest"
+    }
+}

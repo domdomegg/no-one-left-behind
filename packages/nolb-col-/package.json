@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-col-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "col-config": "latest",
+        "col-def-table": "latest",
+        "col-log": "latest",
+        "col-slider": "latest",
+        "col-table": "latest",
+        "col-umn": "latest"
+    }
+}

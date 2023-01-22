@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-alil",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "alilc-comps": "latest",
+        "alilc-lowcode-designer": "latest",
+        "alilc-lowcode-editor-core": "latest",
+        "alilc-lowcode-editor-skeleton": "latest",
+        "alilc-lowcode-engine": "latest",
+        "alilc-lowcode-plugin-designer": "latest",
+        "alilc-lowcode-plugin-outline-pane": "latest",
+        "alilc-lowcode-rax-renderer": "latest",
+        "alilc-lowcode-rax-simulator-renderer": "latest",
+        "alilc-lowcode-react-renderer": "latest",
+        "alilc-lowcode-react-simulator-renderer": "latest",
+        "alilc-lowcode-renderer-core": "latest",
+        "alilc-lowcode-shell": "latest",
+        "alilc-lowcode-types": "latest",
+        "alilc-lowcode-utils": "latest",
+        "alilib-testlib1": "latest",
+        "alilog": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-ng2-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ng2-karma-jasmine-matchers": "latest",
+        "ng2-keepalive": "latest",
+        "ng2-kevin": "latest",
+        "ng2-keyboard-shortcuts": "latest",
+        "ng2-keycloak": "latest",
+        "ng2-knob": "latest",
+        "ng2-knob-e2e": "latest",
+        "ng2-konva": "latest",
+        "ng2-ksf": "latest",
+        "ng2-kw-duotone-image": "latest",
+        "ng2-kw-gauge": "latest",
+        "ng2-kw-masked-stack": "latest"
+    }
+}

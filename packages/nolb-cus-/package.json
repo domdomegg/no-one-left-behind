@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-cus-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cus-bpmn-js-properties-panel": "latest",
+        "cus-cli": "latest",
+        "cus-cmd": "latest",
+        "cus-comp": "latest",
+        "cus-comp-ui": "latest",
+        "cus-draft-js-mention-plugin": "latest",
+        "cus-element-components": "latest",
+        "cus-form": "latest",
+        "cus-form-validate": "latest",
+        "cus-formate-tools": "latest",
+        "cus-forms": "latest",
+        "cus-fu-ui": "latest",
+        "cus-icon": "latest",
+        "cus-lib": "latest",
+        "cus-logger": "latest",
+        "cus-mod": "latest",
+        "cus-react-kit": "latest",
+        "cus-scaffolding": "latest",
+        "cus-scroll": "latest",
+        "cus-skeleton": "latest",
+        "cus-table": "latest",
+        "cus-tools": "latest",
+        "cus-tree": "latest",
+        "cus-ui-vue": "latest",
+        "cus-uploadnpm-demo": "latest",
+        "cus-utils": "latest",
+        "cus-vue-template": "latest"
+    }
+}

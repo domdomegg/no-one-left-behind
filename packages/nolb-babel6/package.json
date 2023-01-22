@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-babel6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel6-brunch": "latest",
+        "babel6-dts-generator": "latest",
+        "babel6-plugin-remove-imports": "latest",
+        "babel6-plugin-strip-class-callcheck": "latest",
+        "babel6-plugin-strip-heimdall": "latest"
+    }
+}

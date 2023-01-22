@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-vue-pc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-pc": "latest",
+        "vue-pc-inputs": "latest",
+        "vue-pc-m-demo": "latest",
+        "vue-pc-mobile-draggable": "latest",
+        "vue-pc-pagination": "latest",
+        "vue-pc-plugins": "latest",
+        "vue-pc-scroll": "latest",
+        "vue-pc-slider-verification": "latest",
+        "vue-pc-swipe": "latest",
+        "vue-pc-table": "latest",
+        "vue-pc-timepicker": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_onh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@onhand/accesscontrol": "latest",
+        "@onhand/business": "latest",
+        "@onhand/business-aws": "latest",
+        "@onhand/controller": "latest",
+        "@onhand/domain-aws": "latest",
+        "@onhand/framework": "latest",
+        "@onhand/framework-aws": "latest",
+        "@onhand/iac-aws": "latest",
+        "@onhand/iac-docker": "latest",
+        "@onhand/jsend": "latest",
+        "@onhand/openapi": "latest",
+        "@onhand/robot": "latest",
+        "@onhand/tsting": "latest",
+        "@onhand/utils": "latest",
+        "@onhand/workspace": "latest"
+    }
+}

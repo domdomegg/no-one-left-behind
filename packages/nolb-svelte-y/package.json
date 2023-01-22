@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-svelte-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svelte-yafal": "latest",
+        "svelte-yesterday": "latest",
+        "svelte-yet-another-router": "latest",
+        "svelte-youtube": "latest",
+        "svelte-youtube-embed": "latest",
+        "svelte-youtube-lite": "latest",
+        "svelte-yr-widget": "latest",
+        "svelte-yt": "latest",
+        "svelte-yup": "latest"
+    }
+}

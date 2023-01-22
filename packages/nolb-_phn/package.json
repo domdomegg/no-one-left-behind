@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_phn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@phnq/colour": "latest",
+        "@phnq/i18n": "latest",
+        "@phnq/log": "latest",
+        "@phnq/message": "latest",
+        "@phnq/model": "latest",
+        "@phnq/platform": "latest",
+        "@phnq/service": "latest",
+        "@phnq/state": "latest",
+        "@phnq/streams": "latest",
+        "@phnq/tooltip": "latest",
+        "@phnq/webapp": "latest",
+        "@phnq/window": "latest",
+        "@phntms/angular-lib": "latest",
+        "@phntms/css-components": "latest",
+        "@phntms/ft-lib": "latest",
+        "@phntms/ft-react-components": "latest",
+        "@phntms/gerrit-ci": "latest",
+        "@phntms/layout": "latest",
+        "@phntms/next-basic-auth": "latest",
+        "@phntms/next-gtm": "latest",
+        "@phntms/react-gtm": "latest",
+        "@phntms/react-share": "latest",
+        "@phntms/reveal-on-scroll": "latest",
+        "@phntms/use-animation-frame": "latest",
+        "@phntms/use-key": "latest",
+        "@phntms/use-local-state": "latest",
+        "@phntnti/publish": "latest",
+        "@phntnti/react-admin": "latest"
+    }
+}

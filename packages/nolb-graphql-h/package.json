@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-graphql-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graphql-hashid-type": "latest",
+        "graphql-helix": "latest",
+        "graphql-helper": "latest",
+        "graphql-helpers": "latest",
+        "graphql-helpers-set": "latest",
+        "graphql-hive": "latest",
+        "graphql-hooks": "latest",
+        "graphql-hooks-memcache": "latest",
+        "graphql-hooks-memcache-lru-cache": "latest",
+        "graphql-hooks-ssr": "latest",
+        "graphql-hooks-with-get-support": "latest",
+        "graphql-html-sanitizer": "latest",
+        "graphql-http": "latest",
+        "graphql-http-test": "latest",
+        "graphql-http-transformer": "latest",
+        "graphql-http-ws-client": "latest",
+        "graphql-http-ws-server": "latest"
+    }
+}

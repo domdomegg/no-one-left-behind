@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_poz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pozible/image-processor": "latest",
+        "@pozible/meteor-sha": "latest",
+        "@pozible/mongoose-yas": "latest",
+        "@pozible/react-froala-wysiwyg": "latest",
+        "@pozible/signed-upload": "latest",
+        "@poziworld/custom-elements": "latest",
+        "@poziworld/cypress-browser-extension-plugin": "latest",
+        "@poziworld/oauth2orize": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_panz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@panz3r/apidoc-postman": "latest",
+        "@panz3r/react-native-stripe": "latest",
+        "@panz3r/react-native-toolbox": "latest",
+        "@panz3r/spotify-js": "latest",
+        "@panzenbaby/ark-staking-reward-report": "latest",
+        "@panzenbaby/staking-reward-report": "latest",
+        "@panzer1119/bbcode-parser": "latest",
+        "@panzhiyue/core": "latest",
+        "@panzhiyue/leaflet-canvas.clip": "latest",
+        "@panzhiyue/leaflet-canvaslabel": "latest",
+        "@panzhiyue/leaflet-canvasmarker": "latest",
+        "@panzhiyue/leaflet-imagemask": "latest",
+        "@panzhiyue/leaflet-tilelayer.clip": "latest",
+        "@panzhiyue/leaflet.collisionmarkers": "latest",
+        "@panzhiyue/leaflet.radar": "latest",
+        "@panzhiyue/test": "latest",
+        "@panzhiyue/utils-common": "latest",
+        "@panzhiyue/utils-ol": "latest",
+        "@panzhiyue/utilscommon": "latest",
+        "@panzhiyue/utilscore": "latest",
+        "@panzhiyue/utilsol": "latest",
+        "@panzhiyue/vue2ol": "latest",
+        "@panzhiyue/vuecomponents": "latest",
+        "@panzhiyue/vuepress-plugin-demo-block": "latest",
+        "@panzhiyue/vuepress-plugin-demo-container-v2": "latest",
+        "@panzhiyue/vuepress-theme-knowledge": "latest",
+        "@panzi/carbon-client": "latest",
+        "@panzoom/panzoom": "latest"
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_laf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lafa/components": "latest",
+        "@lafayette-college-libraries/create-react-component": "latest",
+        "@lafayette-college-libraries/react-blacklight-facet": "latest",
+        "@lafayette-college-libraries/react-delayed-input": "latest",
+        "@laffed/expo-redux-template": "latest",
+        "@laffed/gadgets": "latest",
+        "@laffed/rn-ts-overmind-template": "latest",
+        "@lafferty-lounge/key-server": "latest",
+        "@lafferty-lounge/simple-dns": "latest",
+        "@lafferty-lounge/utils": "latest",
+        "@laffery/cos-db": "latest",
+        "@laffery/create-webpack-app": "latest",
+        "@laffery/fish-ui": "latest",
+        "@laffery/store": "latest",
+        "@laffery/webpack-react-ssr-ts": "latest",
+        "@laffery/webpack-react-ts": "latest",
+        "@laffery/webpack-react18-ssr-ts": "latest",
+        "@laffery/webpack-react18-ts": "latest",
+        "@laffery/webpack-starter-kit": "latest",
+        "@lafjs/cloud": "latest",
+        "@lafourche/venus": "latest",
+        "@lafourchette/dummy": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-gii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gii": "latest",
+        "gii-cli": "latest",
+        "gii-infra-example": "latest",
+        "gii.yojeg.ux": "latest",
+        "giift_country_flags": "latest",
+        "giig": "latest",
+        "giignore": "latest",
+        "giiift": "latest",
+        "giik": "latest",
+        "giiker": "latest",
+        "giin": "latest",
+        "giiska-test": "latest",
+        "giit": "latest"
+    }
+}

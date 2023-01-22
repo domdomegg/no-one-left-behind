@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_marr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@marr11317/eslint-config": "latest",
+        "@marrea/color_cell": "latest",
+        "@marrea/oop-ale-ivan": "latest",
+        "@marreman/elm-i18next": "latest",
+        "@marrikel/afbshared": "latest",
+        "@marripudi/demo-lib": "latest",
+        "@marrow/fish": "latest",
+        "@marrow/jerry": "latest",
+        "@marrow/module-a": "latest",
+        "@marrow/module-b": "latest",
+        "@marrow/module-base": "latest",
+        "@marrow/pkg-test": "latest",
+        "@marrow/sequelize-typescript": "latest",
+        "@marrow/sync-oss": "latest",
+        "@marrow/tom": "latest"
+    }
+}

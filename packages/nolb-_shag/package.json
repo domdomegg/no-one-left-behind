@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_shag",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shaggytools/nhtsa-api-wrapper": "latest",
+        "@shaggytools/template-typescript-jest-jsdoc": "latest",
+        "@shaggytools/template-typescript-npm": "latest",
+        "@shaggytools/vin-decoder": "latest",
+        "@shagital/adonisjs-acl": "latest",
+        "@shagital/adonisjs-card-validator": "latest",
+        "@shagital/adonisjs-crud-generator": "latest",
+        "@shagital/adonisjs-location": "latest",
+        "@shagital/adonisjs-logger-papertrail": "latest",
+        "@shagital/adonisjs-logger-quill": "latest",
+        "@shagital/adonisjs-logger-slack": "latest",
+        "@shagital/adonisjs-migrations-generator": "latest",
+        "@shagital/adonisjs-phone-validator": "latest",
+        "@shagital/adonisjs-seeder-generator": "latest",
+        "@shagital/db-dumper": "latest",
+        "@shagos/clean-folders": "latest",
+        "@shagos/ctr": "latest",
+        "@shagos/purchasehandler": "latest",
+        "@shagos/tags": "latest",
+        "@shagstrom/angular-sortable-table": "latest",
+        "@shagstrom/angular-split-pane": "latest",
+        "@shagstrom/react-store": "latest",
+        "@shagstrom/split-pane": "latest"
+    }
+}

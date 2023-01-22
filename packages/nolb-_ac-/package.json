@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_ac-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ac-codeprod/vuetify2-daterange-picker": "latest",
+        "@ac-dev/cities-service": "latest",
+        "@ac-dev/countries-service": "latest",
+        "@ac-dev/states-service": "latest",
+        "@ac-gittix/common": "latest",
+        "@ac-hooks/use-connectivity": "latest",
+        "@ac-kub/aws-rds-helper": "latest",
+        "@ac-moore-inc/mssql-wrapper": "latest",
+        "@ac-moore-inc/oracledb-wrapper": "latest",
+        "@ac-moore-inc/pagination": "latest",
+        "@ac-moore-inc/splunk-logger": "latest",
+        "@ac-reusable-dialogs/feedback-elicitation": "latest",
+        "@ac-synth/y-websocket": "latest",
+        "@ac-synth/yjs": "latest",
+        "@ac-tickets/common": "latest",
+        "@ac-ui/design-system": "latest",
+        "@ac-ui/react-components": "latest",
+        "@ac-vue/title-2": "latest"
+    }
+}

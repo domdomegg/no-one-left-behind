@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_finl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@finlexlabs/animations": "latest",
+        "@finlexlabs/common-services": "latest",
+        "@finlexlabs/component-life-cycle": "latest",
+        "@finlexlabs/connectivity-status": "latest",
+        "@finlexlabs/dialog": "latest",
+        "@finlexlabs/directives": "latest",
+        "@finlexlabs/file-manager": "latest",
+        "@finlexlabs/forms": "latest",
+        "@finlexlabs/info-box": "latest",
+        "@finlexlabs/layout": "latest",
+        "@finlexlabs/list": "latest",
+        "@finlexlabs/loader": "latest",
+        "@finlexlabs/logger": "latest",
+        "@finlexlabs/photo-upload": "latest",
+        "@finlexlabs/sidebar": "latest",
+        "@finlexlabs/snackbar": "latest",
+        "@finlexlabs/stepper": "latest",
+        "@finlexlabs/text-editor": "latest",
+        "@finlexlabs/tiles": "latest"
+    }
+}

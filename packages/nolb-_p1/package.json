@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_p1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@p100-typings/auth-api": "latest",
+        "@p100-typings/mobile-app-api": "latest",
+        "@p100-typings/notifications-api": "latest",
+        "@p10i.ru/mixin": "latest",
+        "@p10ns11y/hy": "latest",
+        "@p10tr/aero": "latest",
+        "@p12/carbyne": "latest",
+        "@p12/contracts-lib": "latest",
+        "@p12/numeral": "latest",
+        "@p12/v2-sdk": "latest",
+        "@p13577-tickets/common": "latest",
+        "@p13rnd/motio": "latest",
+        "@p14c/branding-themes-utilities": "latest",
+        "@p14c/ld-client": "latest",
+        "@p14c/platformui-common": "latest",
+        "@p1asm0/storage": "latest",
+        "@p1n2o/ng-material-tour": "latest",
+        "@p1n2o/ng-material-tour-ui": "latest",
+        "@p1n2o/ng-tour": "latest",
+        "@p1n2o/ngx-dds": "latest",
+        "@p1n2o/ngx-dell-ui": "latest",
+        "@p1p3/angular-utilities": "latest",
+        "@p1t1ch/package-example": "latest",
+        "@p1xel.tv/webrtc-player": "latest"
+    }
+}

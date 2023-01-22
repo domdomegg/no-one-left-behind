@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-geo2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "geo2city": "latest",
+        "geo2shapefile": "latest",
+        "geo2svg": "latest",
+        "geo2zip": "latest"
+    }
+}

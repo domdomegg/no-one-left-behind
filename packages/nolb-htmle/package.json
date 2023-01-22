@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-htmle",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htmle": "latest",
+        "htmlecsspro_npm": "latest",
+        "htmleditor": "latest",
+        "htmleditor-lib": "latest",
+        "htmlelement-animation": "latest",
+        "htmlelement-contextmenu": "latest",
+        "htmlelement-dnd": "latest",
+        "htmlelement-events-extension": "latest",
+        "htmlelement-extension": "latest",
+        "htmlelement-loader": "latest",
+        "htmlelement-shortcut": "latest",
+        "htmlelement.polyfills": "latest",
+        "htmlelementgenerator": "latest",
+        "htmlencode": "latest",
+        "htmlentities": "latest",
+        "htmlentities.js": "latest",
+        "htmler": "latest",
+        "htmler-render": "latest",
+        "htmlerb-hint": "latest",
+        "htmlescape": "latest",
+        "htmlescape-2": "latest",
+        "htmlev": "latest"
+    }
+}

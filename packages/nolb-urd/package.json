@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-urd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "urd": "latest",
+        "urd-card": "latest",
+        "urdf-animation": "latest",
+        "urdf-exporter": "latest",
+        "urdf-loader": "latest",
+        "urdoc-ui": "latest",
+        "urdu-editor": "latest",
+        "urdu-web-fonts": "latest",
+        "urdubiometerjs": "latest",
+        "urdx": "latest"
+    }
+}

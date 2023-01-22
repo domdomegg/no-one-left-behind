@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-rxc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rxc": "latest",
+        "rxcam": "latest",
+        "rxchart": "latest",
+        "rxclass": "latest",
+        "rxclipboard": "latest",
+        "rxcmd": "latest",
+        "rxcoil": "latest",
+        "rxcollection-subscriber": "latest",
+        "rxcomp": "latest",
+        "rxcomp-form": "latest",
+        "rxcomp-http": "latest",
+        "rxcomp-router": "latest",
+        "rxcomp-server": "latest",
+        "rxcomp-store": "latest",
+        "rxcontrol": "latest",
+        "rxcornor": "latest",
+        "rxcp-ui": "latest",
+        "rxcss": "latest",
+        "rxct": "latest",
+        "rxcute": "latest"
+    }
+}

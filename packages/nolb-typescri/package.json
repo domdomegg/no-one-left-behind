@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-typescri",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typescri": "latest",
+        "@zalastax/nolb-typescrib": "latest",
+        "@zalastax/nolb-typescrip": "latest",
+        "@zalastax/nolb-typescrit": "latest"
+    }
+}

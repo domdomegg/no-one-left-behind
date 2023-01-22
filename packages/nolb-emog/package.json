@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-emog",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emogdf": "latest",
+        "emogee": "latest",
+        "emogeez-generator": "latest",
+        "emogeez-parser": "latest",
+        "emogeez-react-components": "latest",
+        "emogene": "latest",
+        "emogit": "latest",
+        "emogit-cli": "latest"
+    }
+}

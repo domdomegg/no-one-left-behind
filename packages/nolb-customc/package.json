@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-customc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "CustomCamera": "latest",
+        "customComponent": "latest",
+        "customcal": "latest",
+        "customcalender": "latest",
+        "customchart.js": "latest",
+        "customchunks": "latest",
+        "customcircularprogressbar": "latest",
+        "customcloudwatchreporter": "latest",
+        "customcode": "latest",
+        "customcoderlll": "latest",
+        "customcomp": "latest",
+        "customcomponent": "latest",
+        "customcomponentsstencil": "latest",
+        "customconverter": "latest",
+        "customcurrence-lib": "latest",
+        "customcurrencysymbols": "latest"
+    }
+}

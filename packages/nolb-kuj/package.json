@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-kuj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "kuj": "latest",
+        "kujacic-package": "latest",
+        "kujang-core": "latest",
+        "kuji": "latest",
+        "kujiale-order": "latest",
+        "kujibiki": "latest",
+        "kujin": "latest",
+        "kujira-data-miner": "latest",
+        "kujira220514": "latest",
+        "kujirax": "latest",
+        "kujo": "latest",
+        "kujs": "latest",
+        "kujs-vue-2": "latest",
+        "kujsnewsuperpackagebrowser": "latest"
+    }
+}

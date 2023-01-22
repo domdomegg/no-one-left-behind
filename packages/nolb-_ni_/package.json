@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_ni_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ni.car.garcia/boletos-desc-br": "latest",
+        "@ni/beachball-lock-update": "latest",
+        "@ni/eslint-config": "latest",
+        "@ni/eslint-config-angular": "latest",
+        "@ni/eslint-config-javascript": "latest",
+        "@ni/eslint-config-typescript": "latest",
+        "@ni/measurementslive-signalingserver": "latest",
+        "@ni/nimble-angular": "latest",
+        "@ni/nimble-angular-schematics": "latest",
+        "@ni/nimble-components": "latest",
+        "@ni/nimble-tokens": "latest",
+        "@ni/xliff-to-json-converter": "latest"
+    }
+}

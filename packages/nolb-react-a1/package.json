@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-react-a1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-a11y": "latest",
+        "react-a11y-alt": "latest",
+        "react-a11y-announcer": "latest",
+        "react-a11y-components": "latest",
+        "react-a11y-context-tabs": "latest",
+        "react-a11y-datepicker": "latest",
+        "react-a11y-dialog": "latest",
+        "react-a11y-disclosure": "latest",
+        "react-a11y-dropdown": "latest",
+        "react-a11y-footnotes": "latest",
+        "react-a11y-hooks": "latest",
+        "react-a11y-label": "latest",
+        "react-a11y-library": "latest",
+        "react-a11y-menu": "latest",
+        "react-a11y-modal": "latest",
+        "react-a11y-select": "latest",
+        "react-a11y-select-alt": "latest",
+        "react-a11y-table": "latest",
+        "react-a11y-tooltip": "latest",
+        "react-a11y-utils": "latest",
+        "react-a11y-video": "latest"
+    }
+}

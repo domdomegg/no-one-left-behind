@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-anr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "anr": "latest",
+        "anr2": "latest",
+        "anrajs": "latest",
+        "anrajs-task-flow": "latest",
+        "anran-mobile-ui": "latest",
+        "anran-vue-auto-router-cli": "latest",
+        "anranceshi": "latest",
+        "anrel": "latest",
+        "anri": "latest",
+        "anrim-dynamodb": "latest",
+        "anrim-model": "latest",
+        "anrim-observable": "latest",
+        "anrim-validator": "latest",
+        "anroidapp": "latest",
+        "anrom-jive-app-tools": "latest",
+        "anrom-jive-osapi-picker": "latest",
+        "anrom-sdk": "latest",
+        "anroute": "latest"
+    }
+}

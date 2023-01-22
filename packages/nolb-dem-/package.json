@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-dem-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dem-cli": "latest",
+        "dem-dd": "latest",
+        "dem-element-ui": "latest",
+        "dem-eo": "latest",
+        "dem-feels": "latest",
+        "dem-hxl": "latest",
+        "dem-iron": "latest",
+        "dem-jj": "latest",
+        "dem-polls-screenshots": "latest",
+        "dem-testing-tool": "latest"
+    }
+}

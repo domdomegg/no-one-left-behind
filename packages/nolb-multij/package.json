@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-multij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "multijoin": "latest",
+        "multijs": "latest",
+        "multijson": "latest",
+        "multijson-config": "latest",
+        "multijsons": "latest",
+        "multijstest": "latest"
+    }
+}

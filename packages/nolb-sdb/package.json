@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-sdb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sdb": "latest",
+        "sdb-cny-data": "latest",
+        "sdb-models": "latest",
+        "sdb-module": "latest",
+        "sdb-node": "latest",
+        "sdb-redux": "latest",
+        "sdb-schedule": "latest",
+        "sdb-ts": "latest",
+        "sdb_lodash": "latest",
+        "sdbabelarch": "latest",
+        "sdbeanjs-cli": "latest",
+        "sdbj-default": "latest",
+        "sdblocker-mnk": "latest",
+        "sdblocker-mnksoft": "latest",
+        "sdblocker_v2": "latest",
+        "sdblocker_version2": "latest",
+        "sdbm": "latest",
+        "sdbridge-android": "latest",
+        "sdbridge_test01": "latest",
+        "sdbscan": "latest",
+        "sdbwatcher": "latest"
+    }
+}

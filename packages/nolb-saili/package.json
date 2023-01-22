@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-saili",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sailias-cli": "latest",
+        "sailide": "latest",
+        "sailing": "latest",
+        "sailing-code": "latest",
+        "sailing-demo": "latest",
+        "sailing-design": "latest",
+        "sailing-front": "latest",
+        "sailing-lixiao-component": "latest",
+        "sailing-table": "latest",
+        "sailing-ui": "latest",
+        "sailing-ui-screen": "latest",
+        "sailing-util": "latest",
+        "sailing-utils": "latest",
+        "sailing-view": "latest",
+        "sailing-view-plus": "latest",
+        "sailing-view-plus-beta": "latest",
+        "sailing-web": "latest",
+        "sailing_cesium": "latest",
+        "sailing_echartslayer": "latest",
+        "sailing_mapbox": "latest",
+        "sailing_ppmap": "latest",
+        "sailing_test": "latest",
+        "sailingmap_project": "latest",
+        "sailinig-test-money": "latest"
+    }
+}

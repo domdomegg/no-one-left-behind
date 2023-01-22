@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-docw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "docway": "latest",
+        "docway-bootstrap": "latest",
+        "docworks-cli": "latest",
+        "docworks-dts": "latest",
+        "docworks-jsdoc2spec": "latest",
+        "docworks-json": "latest",
+        "docworks-model": "latest",
+        "docworks-repo": "latest",
+        "docworks-tern": "latest",
+        "docworks-wix-media": "latest",
+        "docworks-wix-selector": "latest",
+        "docwx-date": "latest",
+        "docwx-excel": "latest",
+        "docwx-myvue-cli": "latest",
+        "docwx-qs": "latest",
+        "docwx-text": "latest",
+        "docwx-ui": "latest"
+    }
+}

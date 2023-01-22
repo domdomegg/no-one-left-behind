@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_malf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@malfaitrobin/redux": "latest",
+        "@malfaitrobin/redux-namespaced-types": "latest",
+        "@malfaitrobin/redux-one-of-types": "latest",
+        "@malfaitrobin/redux-test-utils": "latest",
+        "@malfaitrobin/redux-utils": "latest",
+        "@malfeasant/hello-wasm": "latest"
+    }
+}

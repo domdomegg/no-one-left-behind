@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-opex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "opex": "latest",
+        "opex-ai": "latest",
+        "opex-ai-images": "latest",
+        "opex-countrycode": "latest",
+        "opex-pastebin": "latest",
+        "opex-proxy": "latest",
+        "opex-qr": "latest",
+        "opex-shared-ui": "latest",
+        "opex-telegraph-uploader": "latest",
+        "opex-utils2": "latest",
+        "opexbot": "latest",
+        "opexviewer": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-ti_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ti.attributed": "latest",
+        "ti.cloud": "latest",
+        "ti.dependencies": "latest",
+        "ti.detect": "latest",
+        "ti.es6": "latest",
+        "ti.googlemaps": "latest",
+        "ti.growingform": "latest",
+        "ti.imageview": "latest",
+        "ti.oauth": "latest",
+        "ti.transform": "latest",
+        "ti.transform.babel": "latest",
+        "ti.transform.npm-support": "latest",
+        "ti.transform.pug": "latest",
+        "ti.transform.stss": "latest",
+        "ti.windows-remote-deployment": "latest",
+        "ti.xhr": "latest",
+        "ti.youtube": "latest",
+        "ti_recover": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_digiz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@digiz3dtest/microservice-comments-client": "latest",
+        "@digiz3dtest/microservice-comments-common": "latest",
+        "@digiz3dtest/microservice-comments-service": "latest"
+    }
+}

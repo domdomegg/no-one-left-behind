@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_miv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@miva-ps/mvps-validation-email": "latest",
+        "@miva-ps/mvps-validation-password": "latest",
+        "@miva-ps/mvps-validation-phone": "latest",
+        "@miva-ps/mvps-validation-validator": "latest",
+        "@miva-ps/mvps-validation-zip": "latest",
+        "@miva_ssoule/lsk-validation-email": "latest",
+        "@miva_ssoule/lsk-validation-password": "latest",
+        "@miva_ssoule/lsk-validation-phone": "latest",
+        "@miva_ssoule/lsk-validation-validator": "latest",
+        "@miva_ssoule/lsk-validation-zip": "latest",
+        "@mivia/react-promise-button": "latest",
+        "@mivico/js-uikit": "latest",
+        "@mividriera/react-payments-component": "latest",
+        "@mividriera/react-ui-components": "latest",
+        "@mivilla/mivilla-portal": "latest",
+        "@mivinci/mathjs": "latest",
+        "@mivir/react-discord-message": "latest",
+        "@mivu/test_npm": "latest"
+    }
+}

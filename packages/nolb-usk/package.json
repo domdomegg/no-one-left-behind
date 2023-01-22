@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-usk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "uskatemodels": "latest",
+        "uskid-component-ppt": "latest",
+        "uskid-garden-backend": "latest",
+        "uskin": "latest",
+        "usky-test-lib": "latest"
+    }
+}

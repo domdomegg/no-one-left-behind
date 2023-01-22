@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-interr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "interra-data-catalog-components": "latest",
+        "interra-rpg-client": "latest",
+        "interrail": "latest",
+        "interreact": "latest",
+        "interreaction": "latest",
+        "interrelated": "latest",
+        "interrogate": "latest",
+        "interrogation": "latest",
+        "interrogator": "latest",
+        "interrupt": "latest",
+        "interrupt-ipykernel-extension": "latest",
+        "interrupt-spawn-io": "latest",
+        "interruptible": "latest",
+        "interruptible-tasks": "latest",
+        "interruptor": "latest"
+    }
+}

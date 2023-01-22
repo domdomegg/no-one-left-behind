@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_hii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hiimjustin000/colors-css": "latest",
+        "@hiimlucas/datatables": "latest",
+        "@hiimlucas/tiny": "latest",
+        "@hiiretail/gcp-infra-cli": "latest",
+        "@hiiretail/react-foundation-ui": "latest",
+        "@hiiretail/react-native-foundation-ui": "latest",
+        "@hiiretail/react-native-synergy-ui": "latest",
+        "@hiiretail/synergy-ui": "latest",
+        "@hiitiger/generator-n-gen": "latest"
+    }
+}

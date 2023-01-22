@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-utu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "utu": "latest",
+        "utu-platform-messages": "latest",
+        "utu-web-sdk": "latest",
+        "utuai-web-sdk": "latest",
+        "utuapp-cli": "latest",
+        "utube": "latest",
+        "utube-cli": "latest",
+        "utuber": "latest",
+        "utun": "latest",
+        "utupress": "latest",
+        "uturi-auth": "latest",
+        "uturi-caching": "latest",
+        "uturi-detect": "latest",
+        "uturi-host": "latest",
+        "uturi-member": "latest",
+        "uturi-overview": "latest",
+        "uturi-proxy": "latest",
+        "uturi-snort": "latest",
+        "uturn": "latest"
+    }
+}

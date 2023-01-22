@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-ember-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ember-z-schema": "latest",
+        "ember-zbj-adminlte-theme": "latest",
+        "ember-zbj-async-button": "latest",
+        "ember-zbj-collapsible-layout": "latest",
+        "ember-zbj-common": "latest",
+        "ember-zbj-date-range-picker": "latest",
+        "ember-zbj-ext-lib": "latest",
+        "ember-zbj-infinite-scroller": "latest",
+        "ember-zbj-mall": "latest",
+        "ember-zbj-routable-components-shim": "latest",
+        "ember-zendesk-widget": "latest",
+        "ember-zeroclipboard": "latest",
+        "ember-zerokit": "latest",
+        "ember-zingchart": "latest",
+        "ember-zipcode-input": "latest",
+        "ember-zipline": "latest"
+    }
+}

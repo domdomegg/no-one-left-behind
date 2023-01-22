@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-mpo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mPortalUI": "latest",
+        "mpo": "latest",
+        "mpo-pack": "latest",
+        "mpob": "latest",
+        "mpochowskiserv": "latest",
+        "mpodanev-hexlet-project1": "latest",
+        "mpoint": "latest",
+        "mpone": "latest",
+        "mpony": "latest",
+        "mpool": "latest",
+        "mpop": "latest",
+        "mpop-encryptions": "latest",
+        "mpop2handlebars": "latest",
+        "mpopulate": "latest",
+        "mport-cli": "latest",
+        "mpos-banner-default": "latest",
+        "mpower": "latest",
+        "mpower-designer": "latest",
+        "mpowerpayment": "latest"
+    }
+}

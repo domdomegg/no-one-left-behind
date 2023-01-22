@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-stringt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stringtables": "latest",
+        "stringtemp": "latest",
+        "stringtemplate": "latest",
+        "stringtemplate-js": "latest",
+        "stringtime": "latest",
+        "stringtime-love": "latest",
+        "stringting": "latest",
+        "stringtoarray": "latest",
+        "stringtobig": "latest",
+        "stringtobsonjs": "latest",
+        "stringtocssobject": "latest",
+        "stringtohex": "latest",
+        "stringtokenizer": "latest",
+        "stringtoms": "latest",
+        "stringtoobjectparse": "latest",
+        "stringtoobjectparse2": "latest",
+        "stringtoolkit2": "latest",
+        "stringtools": "latest",
+        "stringtree-checklist": "latest",
+        "stringtree-js": "latest",
+        "stringtree-migrate": "latest",
+        "stringtree-migrate-driver-mysql": "latest",
+        "stringtree-migrate-driver-sqljs": "latest",
+        "stringtree-migrate-driver-testsuite": "latest",
+        "stringtree-migrate-loader-files": "latest",
+        "stringtypebuffer": "latest"
+    }
+}

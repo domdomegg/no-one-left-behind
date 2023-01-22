@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_vuej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vuejs-community/vue-directive-mask": "latest",
+        "@vuejs-community/vue-filter-date-format": "latest",
+        "@vuejs-community/vue-filter-date-parse": "latest",
+        "@vuejs-community/vue-filter-numeric-format": "latest",
+        "@vuejs-community/vue-filter-pluralize": "latest",
+        "@vuejs-community/vue-filter-truncate": "latest",
+        "@vuejs-design/config": "latest",
+        "@vuejs-design/directives": "latest",
+        "@vuejs-design/utils": "latest",
+        "@vuejs-pt/vue-alert": "latest",
+        "@vuejs-tips/v-autofocus": "latest"
+    }
+}

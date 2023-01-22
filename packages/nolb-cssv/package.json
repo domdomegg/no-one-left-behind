@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-cssv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cssv": "latest",
+        "cssvalue": "latest",
+        "cssvar-input": "latest",
+        "cssvar-interaction": "latest",
+        "cssvar-loader": "latest",
+        "cssvarenums": "latest",
+        "cssvarexternal": "latest",
+        "cssvartransition": "latest",
+        "cssville": "latest",
+        "cssvjs": "latest"
+    }
+}

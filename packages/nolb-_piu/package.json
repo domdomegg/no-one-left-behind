@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_piu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@piuccio/cached-function": "latest",
+        "@piuccio/ejs-compiled-loader": "latest",
+        "@piuccio/flat-earth": "latest",
+        "@piuccio/json-to-file": "latest",
+        "@piuccio/next": "latest",
+        "@piuccio/time-fn": "latest",
+        "@piumaz/pull-to-refresh": "latest",
+        "@piur/astro-deno-integration": "latest",
+        "@piured/engine": "latest",
+        "@piuskevin3/simple-npm-package": "latest",
+        "@piuslee/vccore": "latest",
+        "@piusnyakoojo/firework": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-alid",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "alidacontreras-mdlinks": "latest",
+        "alidaodao-app-cos-deployer": "latest",
+        "alidaodao-cos-uploader": "latest",
+        "alidayu": "latest",
+        "alidayu-api-client": "latest",
+        "alidayu-es6": "latest",
+        "alidayu-node": "latest",
+        "alidayu-node-sdk": "latest",
+        "alidayu-sdk": "latest",
+        "alidayu-sms": "latest",
+        "alidayujs": "latest",
+        "alidemo": "latest",
+        "alidesideroo": "latest",
+        "alidev007-react-scripts": "latest",
+        "alidev_react-scripts": "latest",
+        "alidns": "latest",
+        "alidns-nodejs": "latest",
+        "alidns-signature": "latest",
+        "alidoudou": "latest",
+        "alidrive": "latest",
+        "alidurl": "latest",
+        "alidw-crmsdk": "latest",
+        "alidw-fe-crmsdk": "latest",
+        "alidysms": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-koac",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "koac": "latest",
+        "koach": "latest",
+        "koach-socket": "latest",
+        "koache": "latest",
+        "koack": "latest",
+        "koacompocse": "latest",
+        "koacrab": "latest",
+        "koact": "latest",
+        "koact-doc-to-definition": "latest"
+    }
+}

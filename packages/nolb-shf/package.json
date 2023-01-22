@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-shf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shf": "latest",
+        "shf00513": "latest",
+        "shf_2008_nnn": "latest",
+        "shfelib": "latest",
+        "shfl": "latest",
+        "shfmt": "latest",
+        "shfqs": "latest",
+        "shfsq": "latest",
+        "shft": "latest",
+        "shft-cli": "latest",
+        "shftest": "latest",
+        "shfx": "latest",
+        "shfzlib": "latest"
+    }
+}

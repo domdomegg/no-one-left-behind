@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-discords",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discords-users": "latest",
+        "discords.city": "latest",
+        "discords.js": "latest",
+        "discords_utils": "latest",
+        "discordsb": "latest",
+        "discordsbm": "latest",
+        "discordselfbot": "latest",
+        "discordselfbots": "latest",
+        "discordselfbotv15": "latest",
+        "discordselfbotv16": "latest",
+        "discordselfmodule": "latest",
+        "discordserverjoiner": "latest",
+        "discordservices.net-api": "latest",
+        "discordsmash": "latest",
+        "discordspamkoruma": "latest",
+        "discordspamqw3": "latest",
+        "discordsrv-kommando": "latest",
+        "discordstore": "latest",
+        "discordstreamer": "latest",
+        "discordstyle.js": "latest",
+        "discordsworn": "latest",
+        "discordsystem": "latest"
+    }
+}

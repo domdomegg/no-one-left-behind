@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-niw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "niw": "latest",
+        "niwa": "latest",
+        "niwa-chart-wdgets": "latest",
+        "niwa-chart-widgets": "latest",
+        "niwa-citizen-science-lib": "latest",
+        "niwa-citizen-science-lib-app": "latest",
+        "niwa-download": "latest",
+        "niwa-irc": "latest",
+        "niwa-location-picker": "latest",
+        "niwatori-dice": "latest",
+        "niwesh_mishra_web_comp": "latest",
+        "niwodai-client": "latest"
+    }
+}

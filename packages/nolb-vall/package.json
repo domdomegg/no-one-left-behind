@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-vall",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "valle": "latest",
+        "valle-print-cli": "latest",
+        "valle-web-client-mvp": "latest",
+        "valledor-react-form": "latest",
+        "valleform": "latest",
+        "vallenotify": "latest",
+        "valletta": "latest",
+        "valley": "latest",
+        "valley-module": "latest",
+        "valley-module-demo": "latest",
+        "valley-mongo": "latest",
+        "valley-router": "latest",
+        "valley-server": "latest",
+        "valley-ui": "latest",
+        "valleycraft-node": "latest",
+        "valleydate": "latest",
+        "valleyix-formats": "latest",
+        "valleyken_finder": "latest",
+        "valli": "latest",
+        "vallidemo": "latest",
+        "vallina-chat-js": "latest",
+        "vallnet": "latest",
+        "vally": "latest"
+    }
+}

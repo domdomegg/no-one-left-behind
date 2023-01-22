@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-wxe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wxe-api": "latest",
+        "wxe-auth-express": "latest",
+        "wxe-npm-publish-test": "latest",
+        "wxeact": "latest",
+        "wxeact-cli": "latest",
+        "wxeact-demo": "latest",
+        "wxeact-http": "latest",
+        "wxeact-immutable": "latest",
+        "wxeact-redux": "latest",
+        "wxeact-storage": "latest",
+        "wxeact-test": "latest",
+        "wxeditor": "latest",
+        "wxeloqua": "latest",
+        "wxemoji-awesome": "latest",
+        "wxen-ui": "latest",
+        "wxent-api-redis": "latest",
+        "wxess-axios": "latest",
+        "wxet_sdk_normal": "latest",
+        "wxex": "latest",
+        "wxext": "latest"
+    }
+}

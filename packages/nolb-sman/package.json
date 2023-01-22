@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-sman",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sman": "latest",
+        "sman-js-sdk": "latest",
+        "sman-web-sdk": "latest",
+        "smandri-madness": "latest",
+        "smangler": "latest",
+        "smaniotov-package-mark1": "latest"
+    }
+}

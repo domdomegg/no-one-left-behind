@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-node-ri",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-riak-client": "latest",
+        "node-riakcs": "latest",
+        "node-ribbon": "latest",
+        "node-rics": "latest",
+        "node-rider": "latest",
+        "node-riemann-tools": "latest",
+        "node-riffraff-artefact": "latest",
+        "node-rijndael": "latest",
+        "node-rikao1": "latest",
+        "node-ringbuffer": "latest",
+        "node-riot": "latest",
+        "node-riotapi": "latest",
+        "node-ripgrep": "latest",
+        "node-risco-client": "latest",
+        "node-risport70": "latest",
+        "node-rit": "latest",
+        "node-riveter": "latest"
+    }
+}

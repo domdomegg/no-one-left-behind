@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-graphql_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graphql.appwriter": "latest",
+        "graphql.cli": "latest",
+        "graphql.csharp.generator": "latest",
+        "graphql.js": "latest",
+        "graphql.macro": "latest",
+        "graphql.macro.vl": "latest",
+        "graphql_java_gen": "latest",
+        "graphql_json": "latest",
+        "graphql_ppx": "latest",
+        "graphql_ppx_bin": "latest",
+        "graphql_query_string_to_json": "latest",
+        "graphql_result_del_json_key": "latest",
+        "graphql_result_structure_fiil_up": "latest",
+        "graphql_swift_gen": "latest",
+        "graphql_typeorm": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-snx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "snx": "latest",
+        "snx-angular-feather": "latest",
+        "snx-balance": "latest",
+        "snx-common-util": "latest",
+        "snx-logger": "latest",
+        "snx-middleware": "latest",
+        "snx-model": "latest",
+        "snx-server": "latest",
+        "snx-test-util": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-mcb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mcb": "latest",
+        "mcb-bypass": "latest",
+        "mcb-lang": "latest",
+        "mcb_localhost": "latest",
+        "mcba-button": "latest",
+        "mcbain": "latest",
+        "mcbbs-client": "latest",
+        "mcbbs-client-scripts": "latest",
+        "mcbbsmis": "latest",
+        "mcbbsmis-plugins-loader": "latest",
+        "mcbe": "latest",
+        "mcbe-tweaks": "latest",
+        "mcbeaddoncreatorjs": "latest",
+        "mcbluetoothsdk": "latest",
+        "mcbmaya-ex-airwaybill": "latest",
+        "mcbot": "latest",
+        "mcbots": "latest",
+        "mcbuilder": "latest",
+        "mcbuttonjinmeiyuan678": "latest"
+    }
+}

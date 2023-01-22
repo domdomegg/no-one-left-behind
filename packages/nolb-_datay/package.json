@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_datay",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datay/dxc": "latest",
+        "@datay/xtool-components": "latest",
+        "@datayoga-io/blocks-node": "latest",
+        "@datayoga-io/blocks-ui": "latest",
+        "@datayoga-io/datayoga": "latest",
+        "@datayoga-io/dy-js-runner": "latest",
+        "@datayoga-io/lineage": "latest",
+        "@datayoga-io/node-g6": "latest",
+        "@datayoga-io/pkg-test": "latest",
+        "@datayoga-io/shared": "latest"
+    }
+}

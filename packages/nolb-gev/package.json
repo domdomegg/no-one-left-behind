@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-gev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gev": "latest",
+        "geval": "latest",
+        "gevalify": "latest",
+        "gevasbz-cli": "latest",
+        "gevent": "latest",
+        "gevents": "latest",
+        "gever-angular2-image-upload": "latest",
+        "gevorg": "latest",
+        "gevorgyan-lib-test": "latest",
+        "gevpro": "latest"
+    }
+}

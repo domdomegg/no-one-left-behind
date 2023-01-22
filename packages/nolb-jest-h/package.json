@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-jest-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jest-handlebars": "latest",
+        "jest-handlebars-loader": "latest",
+        "jest-haste-map": "latest",
+        "jest-hax-core": "latest",
+        "jest-hax-electron": "latest",
+        "jest-hax-rpc": "latest",
+        "jest-hbs-extension": "latest",
+        "jest-heap-graph": "latest",
+        "jest-helpers": "latest",
+        "jest-hooks": "latest",
+        "jest-hooks-dom": "latest",
+        "jest-html": "latest",
+        "jest-html-cumulative-reporter": "latest",
+        "jest-html-loader": "latest",
+        "jest-html-reporter": "latest",
+        "jest-html-reporter-images": "latest",
+        "jest-html-reporters": "latest",
+        "jest-html-reporters-custom": "latest",
+        "jest-html-reporters-diffimages": "latest",
+        "jest-html-reporters-private": "latest",
+        "jest-html-reporters-xss": "latest",
+        "jest-html-results": "latest",
+        "jest-html-teq-reporters": "latest",
+        "jest-http-mock": "latest",
+        "jest-hud-reporter": "latest",
+        "jest-hue-plugin": "latest",
+        "jest-hugo": "latest"
+    }
+}

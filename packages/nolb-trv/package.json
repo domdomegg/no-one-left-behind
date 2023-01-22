@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-trv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "trv": "latest",
+        "trv-cra": "latest",
+        "trv-dist": "latest",
+        "trv-dist1": "latest",
+        "trv-expo": "latest",
+        "trv-pic-puzzle": "latest",
+        "trv-webpack-bundle-analyzer": "latest",
+        "trveact": "latest",
+        "trveact-mobx": "latest",
+        "trvl-weather": "latest",
+        "trvrfrd-hello-test": "latest",
+        "trvrs": "latest"
+    }
+}

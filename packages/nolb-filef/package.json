@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-filef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "filefactory": "latest",
+        "filefinder": "latest",
+        "filefix": "latest",
+        "filefly": "latest",
+        "fileflyv1": "latest",
+        "filefog": "latest",
+        "filefog-azure": "latest",
+        "filefog-box": "latest",
+        "filefog-dropbox": "latest",
+        "filefog-google": "latest",
+        "filefog-local": "latest",
+        "filefog-onedrive": "latest",
+        "filefog-provider-tests": "latest",
+        "fileforge": "latest",
+        "fileform": "latest",
+        "filefy": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-react-native-s1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-s123ym-dynamic-fonts": "latest",
+        "react-native-s123ym-largelist": "latest",
+        "react-native-s123ym-spring-scrollview": "latest",
+        "react-native-s123ym-thumbnail": "latest"
+    }
+}

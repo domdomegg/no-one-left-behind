@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_fog",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fogbridge/common": "latest",
+        "@foggyhazel/stroke-server": "latest",
+        "@foggyline/hello": "latest",
+        "@foghill/cli-tool": "latest",
+        "@fogilov440/github-actions-test": "latest",
+        "@fogine/minami": "latest",
+        "@fogine/nuxtjs-auth-next": "latest",
+        "@fogine/passport-google-plus": "latest",
+        "@fogine/sequelize": "latest",
+        "@fogitoteam/test-core": "latest",
+        "@fognet/glow": "latest",
+        "@fogofwar/core": "latest",
+        "@fogofwar/sdk": "latest",
+        "@fogolan/polish-notation-calculator": "latest",
+        "@fogtd/palindrome_checker": "latest",
+        "@fogwarts/cfn-response": "latest"
+    }
+}

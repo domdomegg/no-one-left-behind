@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_clout",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@clout-tools/package-in-mins": "latest",
+        "@clout-tools/package-in-mins-v2": "latest",
+        "@clout-tools/sample-package": "latest"
+    }
+}

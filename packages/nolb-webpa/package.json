@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-webpa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-webpar": "latest",
+        "@zalastax/nolb-webpaa": "latest",
+        "@zalastax/nolb-webpac": "latest",
+        "@zalastax/nolb-webpag": "latest",
+        "@zalastax/nolb-webpal": "latest",
+        "@zalastax/nolb-webpan": "latest",
+        "@zalastax/nolb-webpap": "latest",
+        "@zalastax/nolb-webpas": "latest",
+        "@zalastax/nolb-webpat": "latest",
+        "@zalastax/nolb-webpay": "latest"
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-hapi-i",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hapi-i18n": "latest",
+        "hapi-i18n-mongo": "latest",
+        "hapi-i18next": "latest",
+        "hapi-iauro-swaggered": "latest",
+        "hapi-idempotency": "latest",
+        "hapi-identity-store": "latest",
+        "hapi-inferred-scopes": "latest",
+        "hapi-influx": "latest",
+        "hapi-info": "latest",
+        "hapi-init": "latest",
+        "hapi-init-auth": "latest",
+        "hapi-init-node-helper": "latest",
+        "hapi-init-redis": "latest",
+        "hapi-insta": "latest",
+        "hapi-instrumental": "latest",
+        "hapi-intacct": "latest",
+        "hapi-intercom": "latest",
+        "hapi-interpol": "latest",
+        "hapi-io": "latest",
+        "hapi-ioredis": "latest",
+        "hapi-ioredis-output-cache": "latest",
+        "hapi-ip-limit": "latest",
+        "hapi-ip-location": "latest",
+        "hapi-ip-whitelist": "latest",
+        "hapi-ip2country-plugin": "latest"
+    }
+}

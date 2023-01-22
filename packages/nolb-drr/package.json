@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-drr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "drr": "latest",
+        "drr-fair-queue": "latest",
+        "drr-package": "latest",
+        "drr-product-card": "latest",
+        "drreactform": "latest",
+        "drrq": "latest",
+        "drrr": "latest",
+        "drrx": "latest"
+    }
+}

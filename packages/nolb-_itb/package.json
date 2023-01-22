@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_itb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@itband/dynamic-form": "latest",
+        "@itband/test-lib2019": "latest"
+    }
+}

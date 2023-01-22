@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_prm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@prm/auth-net": "latest",
+        "@prm/civicrm-node": "latest",
+        "@prm/cli": "latest",
+        "@prm/luhn": "latest",
+        "@prm/raisedonors": "latest",
+        "@prma85/bootstrap-timepicker": "latest",
+        "@prma85/gulp-babel": "latest",
+        "@prmail/postman": "latest",
+        "@prmichaelsen/ts-utils": "latest",
+        "@prmsrswt/prom-components": "latest"
+    }
+}

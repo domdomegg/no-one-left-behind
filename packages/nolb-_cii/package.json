@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_cii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ciic/core": "latest",
+        "@ciic/el-ui": "latest",
+        "@ciiri/react-desktop": "latest",
+        "@ciiri/styled-jsx": "latest"
+    }
+}

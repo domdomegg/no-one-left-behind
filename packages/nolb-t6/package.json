@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-t6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "t6": "latest",
+        "t6-bi-lsd-tool": "latest",
+        "t6-formiojs": "latest",
+        "t63": "latest",
+        "t63-tachyons": "latest",
+        "t6603": "latest",
+        "t6e": "latest"
+    }
+}

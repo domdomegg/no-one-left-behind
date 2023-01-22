@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_microg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@microgamma/apigator": "latest",
+        "@microgamma/datagator": "latest",
+        "@microgamma/digator": "latest",
+        "@microgamma/dynamodb": "latest",
+        "@microgamma/loggator": "latest",
+        "@microgamma/mongodb": "latest",
+        "@microgamma/serverless-apigator": "latest",
+        "@microgamma/ts-debug": "latest",
+        "@microgittix/common": "latest"
+    }
+}

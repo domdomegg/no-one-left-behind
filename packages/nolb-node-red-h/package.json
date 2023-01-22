@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-node-red-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-habanero": "latest",
+        "node-red-hello-world": "latest",
+        "node-red-helloworld-nodetest": "latest",
+        "node-red-hh-lora-decode": "latest",
+        "node-red-hiragana": "latest",
+        "node-red-hiragana-editor-api": "latest",
+        "node-red-hiragana-editor-client": "latest",
+        "node-red-hiragana-nodes": "latest",
+        "node-red-hive": "latest",
+        "node-red-hmi-read-tags3": "latest",
+        "node-red-homekit-abc": "latest",
+        "node-red-html-to-text": "latest",
+        "node-red-http-event-collector": "latest",
+        "node-red-huemag": "latest",
+        "node-red-hxtx-ftp": "latest",
+        "node-red-hxtx-opc": "latest"
+    }
+}

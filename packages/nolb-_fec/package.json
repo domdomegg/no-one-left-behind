@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_fec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fec/ape": "latest",
+        "@fec/eleventy-plugin-remark": "latest",
+        "@fec/gatsby-plugin-advanced-feed": "latest",
+        "@fec/remark-a11y-emoji": "latest",
+        "@fec/remark-images": "latest",
+        "@fec/remark-responsive-images": "latest",
+        "@feca-hooks/use-axios": "latest",
+        "@feca-hooks/use-confirm": "latest",
+        "@feca-hooks/use-event": "latest",
+        "@feca-hooks/use-fadein": "latest",
+        "@feca-hooks/use-input": "latest",
+        "@feca-hooks/use-notification": "latest",
+        "@feca-hooks/use-prevent-leave": "latest",
+        "@feca-hooks/use-scroll": "latest",
+        "@feca-hooks/use-title": "latest",
+        "@fecool/fastdev": "latest",
+        "@fect-ui/fect-cli": "latest",
+        "@fect-ui/markdown-loader": "latest",
+        "@fect-ui/themes": "latest",
+        "@fect-ui/vue": "latest",
+        "@fect-ui/vue-hooks": "latest",
+        "@fect-ui/vue-icons": "latest"
+    }
+}

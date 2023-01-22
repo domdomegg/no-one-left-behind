@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-insc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "inschpektor": "latest",
+        "insci-notebook": "latest",
+        "inscribe": "latest",
+        "inscribe-node": "latest",
+        "inscriber": "latest",
+        "inscricaoestadual": "latest",
+        "inscripcionescfpbackend": "latest",
+        "inscripcionescfpcomponentes": "latest",
+        "inscripcionesmodelos": "latest",
+        "inscrybmde": "latest"
+    }
+}

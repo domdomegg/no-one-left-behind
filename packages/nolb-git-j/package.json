@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-git-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "git-jam": "latest",
+        "git-janitor": "latest",
+        "git-jiggy": "latest",
+        "git-jira": "latest",
+        "git-jira-action": "latest",
+        "git-jira-cli": "latest",
+        "git-jira-hook": "latest",
+        "git-jira-tools": "latest",
+        "git-job-queue": "latest",
+        "git-jobs": "latest",
+        "git-joe": "latest",
+        "git-journal": "latest",
+        "git-joy": "latest",
+        "git-js": "latest",
+        "git-json": "latest",
+        "git-json-api": "latest",
+        "git-json-intellimerge": "latest",
+        "git-json-logger-cli": "latest",
+        "git-json-merge": "latest",
+        "git-jsontree": "latest",
+        "git-jump": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-sw2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sw214-lion-library-addition": "latest",
+        "sw2cdv": "latest",
+        "sw2dts": "latest",
+        "sw2express": "latest",
+        "sw2ngx": "latest",
+        "sw2rx": "latest",
+        "sw2ts": "latest",
+        "sw2ts-generate": "latest",
+        "sw2tsapi": "latest"
+    }
+}

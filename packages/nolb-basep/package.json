@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-basep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "baseProject": "latest",
+        "basepackage": "latest",
+        "basepages": "latest",
+        "basepath": "latest",
+        "baseplan-geometry": "latest",
+        "baseplate-cloudinary": "latest",
+        "baseplate-core": "latest",
+        "baseprint": "latest",
+        "baseproject1": "latest"
+    }
+}

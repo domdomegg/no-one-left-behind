@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_datae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dataee/cron": "latest",
+        "@dataee/kexpress-sequelize": "latest",
+        "@dataee/kore": "latest",
+        "@dataee/sequelize-hierarchy": "latest",
+        "@dataee/sockopt": "latest",
+        "@dataee/tencentcloud-sdk-nodejs": "latest",
+        "@dataee/wechatpay": "latest",
+        "@dataenergy/cli": "latest",
+        "@dataenergy/insight_test": "latest",
+        "@dataesr/node-commons": "latest",
+        "@dataesr/react-dsfr": "latest",
+        "@dataexa/admin-router": "latest"
+    }
+}

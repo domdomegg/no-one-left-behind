@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_fio",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fiona818tickets/common": "latest",
+        "@fionawhim-site/gatsby-theme-blog": "latest",
+        "@fionn-de-vouzensel/test": "latest",
+        "@fionn/jupyterlab_xkcd": "latest",
+        "@fioprotocol/fiojs": "latest",
+        "@fioprotocol/fiosdk": "latest",
+        "@fiore-cli-dev/core": "latest",
+        "@fiore-cli-dev/utils": "latest",
+        "@fiorex/ngx-smart-table": "latest",
+        "@fiori-for-react/core": "latest",
+        "@fiori-for-react/styles": "latest",
+        "@fiori-for-react/utils": "latest",
+        "@fiote/firecontrol": "latest",
+        "@fiote/githook": "latest",
+        "@fiote/processes": "latest",
+        "@fiots/feat": "latest",
+        "@fiots/feat-cli-utils": "latest",
+        "@fiots/feat-utils": "latest",
+        "@fiovex/js-rsa": "latest",
+        "@fiovex/react-native-dropdown-alert": "latest",
+        "@fiovex/typed-css-modules": "latest"
+    }
+}

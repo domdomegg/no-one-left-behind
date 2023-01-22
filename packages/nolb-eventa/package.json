@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-eventa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eventa": "latest",
+        "eventable": "latest",
+        "eventablejs": "latest",
+        "eventador": "latest",
+        "eventaggregator": "latest",
+        "eventagon": "latest",
+        "evental": "latest",
+        "eventary": "latest",
+        "eventassigner-js": "latest",
+        "eventassigner-random": "latest",
+        "eventastic": "latest",
+        "eventasync": "latest"
+    }
+}

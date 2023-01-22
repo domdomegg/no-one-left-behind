@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_enp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@enp/boxen": "latest",
+        "@enp/eslint-plugin-spark-utils": "latest",
+        "@enp/fontello": "latest",
+        "@enp/inputmask": "latest",
+        "@enp/stack-trace": "latest",
+        "@enp/type-vu": "latest",
+        "@enp/vue-loader": "latest",
+        "@enp/youch": "latest",
+        "@enpi/serialize-js": "latest",
+        "@enpitsulin/arboard": "latest",
+        "@enpitsulin/arboard-darwin-x64": "latest",
+        "@enpitsulin/arboard-linux-x64-gnu": "latest",
+        "@enpitsulin/arboard-win32-x64-msvc": "latest",
+        "@enpitsulin/gatsby-remark-shiki": "latest",
+        "@enplug/babel-preset": "latest",
+        "@enplug/dashboard-sdk": "latest",
+        "@enplug/dashboard-sdk-utils": "latest",
+        "@enplug/eslint-config": "latest",
+        "@enplug/scripts": "latest",
+        "@enplug/sdk-dashboard": "latest",
+        "@enplug/sdk-player": "latest"
+    }
+}

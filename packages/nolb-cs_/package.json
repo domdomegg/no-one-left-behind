@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-cs_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cs.angular.utilities.socket-adapter": "latest",
+        "cs.forms": "latest",
+        "cs.js": "latest",
+        "cs_api": "latest",
+        "cs_author": "latest",
+        "cs_commom_web": "latest",
+        "cs_element_ui": "latest",
+        "cs_file_downloads_backend": "latest",
+        "cs_file_downloads_frontend": "latest",
+        "cs_mathpackage": "latest",
+        "cs_reporter": "latest",
+        "cs_swy9604": "latest",
+        "cs_uii-components-zsyn": "latest"
+    }
+}

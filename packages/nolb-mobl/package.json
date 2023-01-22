@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-mobl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mobl": "latest",
+        "moblab": "latest",
+        "moblee-icons": "latest",
+        "moblee-ui": "latest",
+        "moblet": "latest",
+        "moblets": "latest",
+        "moblie-asset-generator": "latest",
+        "moblify": "latest",
+        "moblor-async-queue": "latest",
+        "moblor-cli": "latest",
+        "moblor-core": "latest",
+        "moblor-library": "latest",
+        "moblor-native": "latest",
+        "moblor-salesforce": "latest",
+        "moblor-sqlite": "latest",
+        "moblor-vue": "latest"
+    }
+}

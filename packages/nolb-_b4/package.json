@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_b4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@b42-sneak/bp-search": "latest",
+        "@b42inc/vue-form-validator": "latest",
+        "@b4a/b4a-components-react": "latest",
+        "@b4a/glambox-components-ng1": "latest",
+        "@b4a/glambox-components-react": "latest",
+        "@b4a/rosin": "latest",
+        "@b4dnewz/express-test-server": "latest",
+        "@b4dnewz/mongodb-operators": "latest",
+        "@b4dnewz/object-to-argv": "latest",
+        "@b4dnewz/process-test": "latest",
+        "@b4dnewz/string-template": "latest",
+        "@b4dnewz/temp": "latest",
+        "@b4fun/framework7-react": "latest",
+        "@b4fun/inspect-css": "latest",
+        "@b4fun/json-schema-merge": "latest",
+        "@b4fun/json_merge": "latest",
+        "@b4fun/lightyear": "latest",
+        "@b4hkid/fahro-lib": "latest",
+        "@b4you/carteiro": "latest",
+        "@b4you/create_background_job": "latest",
+        "@b4you/sigep": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_dath",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dathuis/aws-appsync-auth-link": "latest",
+        "@dathuis/aws-appsync-subscription-link": "latest",
+        "@dathuis/gitlab-pipeline-locks": "latest",
+        "@dathuis/mjml-loader": "latest",
+        "@dathuis/property-indexer": "latest",
+        "@dathuis/serverless-dynamodb-local": "latest",
+        "@dathuis/serverless-esbuild": "latest",
+        "@dathuis/serverless-s3-sync": "latest",
+        "@dathuis/serverless-stack-output": "latest"
+    }
+}

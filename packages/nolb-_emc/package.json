@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_emc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@emcal/neural-botinok": "latest",
+        "@emcasa/image-upload": "latest",
+        "@emcasa/login": "latest",
+        "@emcasa/mock-server": "latest",
+        "@emcasa/places-autocomplete": "latest",
+        "@emcasa/react-flagr": "latest",
+        "@emcasa/theme": "latest",
+        "@emcasa/ui": "latest",
+        "@emcasa/ui-dom": "latest",
+        "@emcasa/ui-native": "latest",
+        "@emceearjun/translate": "latest",
+        "@emclaug2/angular-template-authentication": "latest",
+        "@emclaug2/angular-template-blank": "latest",
+        "@emclaug2/angular-template-routing": "latest",
+        "@emclaug2/tag-test": "latest"
+    }
+}

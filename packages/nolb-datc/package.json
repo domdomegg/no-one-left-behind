@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-datc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "datcat": "latest",
+        "datchatbot": "latest",
+        "datconfig-parser": "latest",
+        "datcss": "latest",
+        "datcss-color": "latest",
+        "datcss-colors": "latest",
+        "datcss-layout": "latest",
+        "datcss-links": "latest",
+        "datcss-lists": "latest",
+        "datcss-reset": "latest",
+        "datcss-tables": "latest",
+        "datcss-typography": "latest",
+        "datcss-website": "latest"
+    }
+}

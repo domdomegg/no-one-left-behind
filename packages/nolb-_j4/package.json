@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_j4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@j4ce-test/core": "latest",
+        "@j4ckofalltrades/steam-webapi-ts": "latest",
+        "@j4jefferson/addresscloud": "latest",
+        "@j4ndrw/fgr-core": "latest",
+        "@j4ndrw/lightweight-signals": "latest",
+        "@j4numbers/eslint-base-config": "latest",
+        "@j4numbers/eslint-typescript-config": "latest",
+        "@j4p3/strimpack-web-client": "latest",
+        "@j4s0n/semantic-release-gitlab": "latest"
+    }
+}

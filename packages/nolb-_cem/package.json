@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_cem",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cem2ran/ppx_style": "latest",
+        "@cemalgnlts/mailjs": "latest",
+        "@cemderin/battle-calculator": "latest",
+        "@cemderin/battlescribe-to-json": "latest",
+        "@cemderin/react-base-element": "latest",
+        "@cemderin/react-collapsable-menu": "latest",
+        "@cemderin/react-data-editor": "latest",
+        "@cemderin/static-site-generator": "latest",
+        "@cemderin/ubermate-timetracker": "latest",
+        "@cemderin/ubermate-todos": "latest",
+        "@cementjob/vue-video-player": "latest",
+        "@cemizm/smartmirror-shared": "latest",
+        "@cemtopkaya/angularlib": "latest",
+        "@cemtopkaya/node-ornegi": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-firel",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "firelaw": "latest",
+        "firelayer": "latest",
+        "firelease": "latest",
+        "firelib": "latest",
+        "firelibrary": "latest",
+        "firelines": "latest",
+        "firelink-types": "latest",
+        "firelinker": "latest",
+        "firelint": "latest",
+        "firelion-lib": "latest",
+        "firelist.js": "latest",
+        "firelistapi.js": "latest",
+        "firelog": "latest",
+        "firelogger": "latest",
+        "firelogue": "latest",
+        "fireloop": "latest",
+        "firelord": "latest",
+        "firelordjs": "latest",
+        "firelordrn": "latest",
+        "firelost": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-mpm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mpm": "latest",
+        "mpm-cli": "latest",
+        "mpm-client": "latest",
+        "mpm-lc-ui": "latest",
+        "mpm-publish": "latest",
+        "mpm-resume": "latest",
+        "mpm-tool": "latest",
+        "mpm.duration": "latest",
+        "mpm.express.rest": "latest",
+        "mpm.form": "latest",
+        "mpm.injector": "latest",
+        "mpm.marvel": "latest",
+        "mpm.shortcode": "latest",
+        "mpm.validation": "latest",
+        "mpm1": "latest",
+        "mpmakerlib": "latest",
+        "mpmatch": "latest",
+        "mpmdemo": "latest",
+        "mpmgg": "latest",
+        "mpmjm": "latest",
+        "mpmjs": "latest",
+        "mpmtest": "latest",
+        "mpmulally-resume": "latest",
+        "mpmullally-resume": "latest"
+    }
+}

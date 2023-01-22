@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-elg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "elg": "latest",
+        "elga": "latest",
+        "elgamal": "latest",
+        "elgamalzz": "latest",
+        "elgar-client": "latest",
+        "elgar-server": "latest",
+        "elgar.unity.util.objects_converter": "latest",
+        "elgato": "latest",
+        "elgato-cove": "latest",
+        "elgato-key-light-air-adapter": "latest",
+        "elgato-key-light-automator": "latest",
+        "elgato-light-api": "latest",
+        "elgato-stream-deck": "latest",
+        "elgato-stream-deck-clean-mini": "latest",
+        "elgato-stream-deck-clock": "latest",
+        "elgato-stream-deck-toggl": "latest",
+        "elgato-stream-deck-utils": "latest",
+        "elgenerator": "latest",
+        "elgenerator_trainer": "latest",
+        "elgg-conventional-changelog": "latest",
+        "elgg-grunt": "latest",
+        "elggob": "latest",
+        "elginrogers-frame-print": "latest",
+        "elgo-rich": "latest",
+        "elgrapho": "latest",
+        "elguevotesting": "latest"
+    }
+}

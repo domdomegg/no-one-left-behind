@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_gud",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gudahtt/eslint-config": "latest",
+        "@gudahtt/eslint-config-browser": "latest",
+        "@gudahtt/eslint-config-jest": "latest",
+        "@gudahtt/eslint-config-mocha": "latest",
+        "@gudahtt/eslint-config-nodejs": "latest",
+        "@gudahtt/eslint-config-typescript": "latest",
+        "@gudahtt/lighthouse": "latest",
+        "@gudahtt/typedoc": "latest",
+        "@gudantingyudemao/hello": "latest",
+        "@gudantingyudemao/package_demo": "latest",
+        "@guddu75/hello": "latest",
+        "@gudhub/gh-login": "latest",
+        "@gudhub/ssg-website-cli": "latest",
+        "@gudhub/webserver": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-lare",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lareact": "latest",
+        "lareact-glue": "latest",
+        "larecolte-ui": "latest",
+        "larecolte-ui-test": "latest",
+        "larecolte-ui-v2": "latest",
+        "larecoltelib": "latest",
+        "laredologger": "latest",
+        "laren": "latest",
+        "lares": "latest",
+        "lares-cli": "latest",
+        "lares-design": "latest",
+        "lares-icons": "latest",
+        "lares-lint": "latest",
+        "lares-mobile": "latest",
+        "lares-svg": "latest",
+        "lares-tools": "latest",
+        "lares-widget": "latest",
+        "larevision": "latest"
+    }
+}

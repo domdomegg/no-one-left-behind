@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-redf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "redfin": "latest",
+        "redfire": "latest",
+        "redfishobject": "latest",
+        "redfishrepotest": "latest",
+        "redflare": "latest",
+        "redflow": "latest",
+        "redfork": "latest",
+        "redforma": "latest",
+        "redforms-fieldnames": "latest",
+        "redfort-sdk": "latest",
+        "redfour": "latest",
+        "redfox": "latest",
+        "redfox-design-system": "latest",
+        "redfoxui": "latest",
+        "redframe": "latest",
+        "redful-verdaccio": "latest"
+    }
+}

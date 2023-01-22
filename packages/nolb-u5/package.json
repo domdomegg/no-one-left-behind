@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-u5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "u5": "latest",
+        "u5-about": "latest",
+        "u5-api-base": "latest",
+        "u5-carbon-components-react": "latest",
+        "u5-carbon-formbuilder": "latest",
+        "u5-carbon-shell": "latest",
+        "u5-datatable": "latest",
+        "u5-derive": "latest",
+        "u5-domain": "latest",
+        "u5-forms": "latest",
+        "u5-mongo-oplog": "latest",
+        "u5-nodejs-logging": "latest",
+        "u5-r2-query": "latest",
+        "u5-redux-fetch": "latest",
+        "u51-cli": "latest",
+        "u51bj-app": "latest",
+        "u5k": "latest"
+    }
+}

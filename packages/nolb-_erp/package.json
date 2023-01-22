@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_erp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@erp_project/autoregister": "latest",
+        "@erp_project/config-library": "latest",
+        "@erp_project/test": "latest",
+        "@erpairforce/typeorm": "latest",
+        "@erpardeepjain/rc-pui": "latest",
+        "@erpjs/model": "latest",
+        "@erponabp/openapi": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-cll",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cll-action-test": "latest",
+        "cll-loading": "latest",
+        "cll-mockslog": "latest",
+        "cll-test1": "latest",
+        "cll-utils": "latest",
+        "cll-vue-components": "latest",
+        "cll-weex-kit": "latest",
+        "cll.js": "latest",
+        "cll1212132": "latest",
+        "cllc": "latest",
+        "clli": "latest",
+        "clll": "latest",
+        "cllog": "latest",
+        "cllogger": "latest",
+        "clloz-large-number": "latest",
+        "cllserver": "latest",
+        "cllx_utils": "latest",
+        "clly": "latest"
+    }
+}

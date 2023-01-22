@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-ss_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ss.common.css": "latest",
+        "ss.ll": "latest",
+        "ss_22_node_divakotova": "latest",
+        "ss_22_node_npm_divakotova": "latest",
+        "ss_cdeng_npm_test": "latest",
+        "ss_core": "latest",
+        "ss_data_cps": "latest",
+        "ss_fifa_card": "latest",
+        "ss_iviews": "latest",
+        "ss_jc": "latest",
+        "ss_js_utils": "latest",
+        "ss_mdbreact": "latest",
+        "ss_module": "latest",
+        "ss_npmtest": "latest",
+        "ss_qqq_131_tt": "latest",
+        "ss_react_app_myapp": "latest",
+        "ss_react_ts_ui": "latest",
+        "ss_router": "latest",
+        "ss_style_css": "latest",
+        "ss_test_module": "latest",
+        "ss_toast": "latest",
+        "ss_vue_template_cli": "latest",
+        "ss_vue_ui": "latest"
+    }
+}

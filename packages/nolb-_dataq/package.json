@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_dataq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dataq-cli/core": "latest",
+        "@dataq-cli/utils": "latest",
+        "@dataq/react-utils": "latest",
+        "@dataqin-cli-dev/core": "latest",
+        "@dataqin-cli-dev/utils": "latest",
+        "@dataqin/vue-cli-plugin-spa-template": "latest",
+        "@dataquiver/cognito-middleware": "latest",
+        "@dataquiver/mongo": "latest",
+        "@dataquiver/mqtt-manager": "latest",
+        "@dataquiver/react-ui": "latest",
+        "@dataquiver/stoneage-roles": "latest",
+        "@dataquiver/websocket-manager": "latest"
+    }
+}

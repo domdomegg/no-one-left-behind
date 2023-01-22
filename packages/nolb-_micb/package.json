@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_micb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@micburks/coin-op": "latest",
+        "@micburks/coin-op-react": "latest",
+        "@micburks/compression-webpack-plugin": "latest",
+        "@micburks/dts-generator": "latest",
+        "@micburks/fusion-version": "latest",
+        "@micburks/init-script": "latest",
+        "@micburks/jspm-loader": "latest",
+        "@micburks/libdef": "latest",
+        "@micburks/pg": "latest",
+        "@micburks/pg-pool": "latest",
+        "@micburks/resium": "latest",
+        "@micburks/serve": "latest",
+        "@micburks/serve-output": "latest",
+        "@micburks/test": "latest",
+        "@micburks/test-scripts": "latest"
+    }
+}

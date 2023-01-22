@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_chij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chijioke/carousel": "latest",
+        "@chijs/app": "latest",
+        "@chijs/cli": "latest",
+        "@chijs/client": "latest",
+        "@chijs/core": "latest",
+        "@chijs/injection": "latest",
+        "@chijs/plugin-eval": "latest",
+        "@chijs/rpc": "latest",
+        "@chijs/runtime": "latest",
+        "@chijs/server": "latest",
+        "@chijs/ui": "latest",
+        "@chijs/util": "latest"
+    }
+}

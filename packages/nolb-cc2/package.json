@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-cc2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cc2": "latest",
+        "cc2-express": "latest",
+        "cc2018-ts-lib": "latest",
+        "cc2018_library": "latest",
+        "cc20210922-npm": "latest",
+        "cc2dhtml5": "latest",
+        "cc2lds": "latest",
+        "cc2py": "latest",
+        "cc2sep": "latest",
+        "cc2uart": "latest"
+    }
+}

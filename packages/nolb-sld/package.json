@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-sld",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sld": "latest",
+        "sld-component-library": "latest",
+        "sld-simply-chat": "latest",
+        "sld-viewer": "latest",
+        "sldap_node": "latest",
+        "sldbts": "latest",
+        "sldldlh": "latest",
+        "sldrbs": "latest",
+        "sldrx": "latest",
+        "slds-bennie-framework": "latest",
+        "slds-cli": "latest",
+        "slds-icon-font": "latest",
+        "slds-loader": "latest",
+        "slds-react-components": "latest",
+        "slds-resolver": "latest",
+        "slds-vue": "latest",
+        "sldsjutil": "latest",
+        "sldt-utils": "latest"
+    }
+}

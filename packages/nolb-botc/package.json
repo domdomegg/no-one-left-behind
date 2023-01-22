@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-botc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "Botcord": "latest",
+        "botc": "latest",
+        "botception-nlp": "latest",
+        "botch": "latest",
+        "botchain-abi": "latest",
+        "botcharm": "latest",
+        "botchat": "latest",
+        "botched": "latest",
+        "botcitydev-js": "latest",
+        "botclient": "latest",
+        "botcmdlogapi": "latest",
+        "botcms": "latest",
+        "botcms-driver-telegram-private": "latest",
+        "botcms-driver-telegram-private-tglib": "latest",
+        "botcms-driver-vk-streaming": "latest",
+        "botcms-users": "latest",
+        "botcode-parser": "latest",
+        "botcodekevin": "latest",
+        "botcommon": "latest",
+        "botconnector": "latest",
+        "botcord.api": "latest",
+        "botcordtop.js": "latest",
+        "botcore": "latest",
+        "botcraft-extension-loader": "latest",
+        "botcuacuongne": "latest",
+        "botculture": "latest",
+        "botcvm": "latest"
+    }
+}

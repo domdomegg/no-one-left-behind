@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_si-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@si-components/preact": "latest",
+        "@si-components/react": "latest",
+        "@si-components/solid": "latest",
+        "@si-components/svelte": "latest",
+        "@si-components/vue": "latest",
+        "@si-web/iframe-message": "latest",
+        "@si-web/portal-communication": "latest"
+    }
+}

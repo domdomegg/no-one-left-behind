@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-mark1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mark1": "latest",
+        "mark1-loader": "latest",
+        "mark1ad-fancy-react-component": "latest"
+    }
+}

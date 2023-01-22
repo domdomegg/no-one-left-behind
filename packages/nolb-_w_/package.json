@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_w_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@w.dental/birth-date-mask": "latest",
+        "@w.dental/credit-card-name": "latest",
+        "@w.dental/date-mask": "latest",
+        "@w.dental/request": "latest",
+        "@w.mohr/cbserver": "latest",
+        "@w_cli_dev/core": "latest",
+        "@w_cli_dev/utils": "latest"
+    }
+}

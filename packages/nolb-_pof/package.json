@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_pof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pofadder/htmleditor": "latest",
+        "@pofallon/twine": "latest",
+        "@pofo/click-outside": "latest",
+        "@pofo/editorjs-table": "latest",
+        "@pofo/focus-trap": "latest",
+        "@pofore/cli": "latest",
+        "@pofore/scripts": "latest"
+    }
+}

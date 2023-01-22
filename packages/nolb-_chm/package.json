@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_chm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chm-tickets/common": "latest",
+        "@chmac/expo-file-system-view": "latest",
+        "@chmac/node-git-server": "latest",
+        "@chmaltsp/obs-websocket-js": "latest",
+        "@chmap/data-layer": "latest",
+        "@chmap/geo-referencing": "latest",
+        "@chmap/leaflet-extensions": "latest",
+        "@chmap/leaflet-layers-panel": "latest",
+        "@chmap/public-maps": "latest",
+        "@chmap/utilities": "latest",
+        "@chmartinez35/pesxagon": "latest",
+        "@chmat/common": "latest",
+        "@chmking/h3-csrf": "latest",
+        "@chmking/nuxt-csrf": "latest",
+        "@chmontgomery/exec-promise": "latest",
+        "@chmurson/scaffolding": "latest"
+    }
+}

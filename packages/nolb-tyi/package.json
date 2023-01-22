@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-tyi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tyi": "latest",
+        "tying": "latest",
+        "tying-cli": "latest",
+        "tyinstance": "latest",
+        "tyiot_gateway_sdk": "latest",
+        "tyiotsdk4node": "latest",
+        "tyizo-github-scapper": "latest",
+        "tyizo-package-searcher": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_snk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@snk5000/forms": "latest",
+        "@snk5000/react-scripts": "latest",
+        "@snkattck/ririd": "latest",
+        "@snkoski/component-library": "latest"
+    }
+}

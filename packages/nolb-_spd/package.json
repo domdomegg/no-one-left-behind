@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_spd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@spd_dev/xchain-cosmos": "latest",
+        "@spd_dev/xchain-thorchain": "latest",
+        "@spdeepika/common-logger": "latest",
+        "@spdias/scroll-saver": "latest",
+        "@spdnt/react-datepicker": "latest",
+        "@spduk/jsdoc-autogen": "latest"
+    }
+}

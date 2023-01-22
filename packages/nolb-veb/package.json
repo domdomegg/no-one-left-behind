@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-veb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "veb": "latest",
+        "veb-components": "latest",
+        "veb-sheet": "latest",
+        "veb-subscribe": "latest",
+        "veb-ui": "latest",
+        "veb3": "latest",
+        "vebitcoin": "latest",
+        "vebo": "latest",
+        "veboundary": "latest",
+        "vebs": "latest",
+        "vebt": "latest",
+        "vebug": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-babelu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babelute": "latest",
+        "babelute-html": "latest",
+        "babelute-html-component": "latest",
+        "babelute-html-dom-diffing-pragmatics": "latest",
+        "babelute-html-dom-pragmatics": "latest",
+        "babelute-html-lexicon": "latest",
+        "babelute-html-string-pragmatics": "latest",
+        "babelute-html-todomvc": "latest",
+        "babelute-ldl": "latest",
+        "babelute-ldl-to-htsl": "latest",
+        "babelute-uus": "latest"
+    }
+}

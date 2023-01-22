@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-test-dr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "test-draco": "latest",
+        "test-drive": "latest",
+        "test-drive-react": "latest",
+        "test-drive-sdk": "latest",
+        "test-driver": "latest",
+        "test-drivers": "latest",
+        "test-drone": "latest",
+        "test-drone-api": "latest",
+        "test-dropdown": "latest",
+        "test-dry-dry-parent": "latest"
+    }
+}

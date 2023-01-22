@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_wax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@waxaranai/wa-sticker-formatter": "latest",
+        "@waxer42/js-lib": "latest",
+        "@waxio/eosio-statereceiver": "latest",
+        "@waxio/waxjs": "latest",
+        "@waxio/waxunit": "latest",
+        "@waxit/assets": "latest",
+        "@waxit/types": "latest",
+        "@waxs/juggle": "latest",
+        "@waxs/needle": "latest",
+        "@waxs/que": "latest",
+        "@waxweazler/tjs": "latest"
+    }
+}

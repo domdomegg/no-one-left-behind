@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-mcw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mcw-react": "latest",
+        "mcw-vue": "latest",
+        "mcwin-savebackup": "latest",
+        "mcwonka-xml2js": "latest",
+        "mcws": "latest"
+    }
+}

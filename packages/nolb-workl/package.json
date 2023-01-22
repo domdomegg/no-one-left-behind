@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-workl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "worklabplugin": "latest",
+        "workless": "latest",
+        "worklet": "latest",
+        "worklet-client": "latest",
+        "worklet-loader": "latest",
+        "worklet-loader-inline": "latest",
+        "worklet-utils": "latest",
+        "worklets": "latest",
+        "worklife-webview": "latest",
+        "worklife-webview-ep": "latest",
+        "worklight": "latest",
+        "worklight-web-sdk": "latest",
+        "worklink-web-components": "latest",
+        "worklist": "latest",
+        "worklistitem-addon-test-p4l": "latest",
+        "worklisttable": "latest",
+        "workljh1606f": "latest",
+        "workload": "latest",
+        "worklog": "latest",
+        "worklog.click": "latest",
+        "workly": "latest"
+    }
+}

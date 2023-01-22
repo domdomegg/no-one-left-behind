@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_car-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@car-cms/cms-logger": "latest",
+        "@car-co-uk/api-client": "latest",
+        "@car-throttle/aws-cloudwatch-logger": "latest"
+    }
+}

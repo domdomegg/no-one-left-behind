@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_pov",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@povarok/stylelint-config": "latest",
+        "@povertay/common": "latest",
+        "@povilasleka/react-json-forms": "latest",
+        "@povio/ecs-deploy-cli": "latest",
+        "@povio/node-stage": "latest",
+        "@povio/slack-notify-cli": "latest",
+        "@povio/spa-deploy-cli": "latest",
+        "@povio/ui-kit": "latest",
+        "@povloper/pinterest-album-scrapper": "latest",
+        "@povzoficial/bankly-auth-lib": "latest"
+    }
+}

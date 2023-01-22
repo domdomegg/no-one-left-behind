@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-vala",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vala": "latest",
+        "valacar": "latest",
+        "valahorn": "latest",
+        "valak": "latest",
+        "valance": "latest",
+        "valany": "latest",
+        "valapi": "latest",
+        "valar": "latest",
+        "valarg": "latest",
+        "valassis.dde.common.stomp": "latest",
+        "valaxy": "latest",
+        "valaxy-addon-algolia": "latest",
+        "valaxy-addon-icons": "latest",
+        "valaxy-addon-waline": "latest",
+        "valaxy-theme-gitlink": "latest",
+        "valaxy-theme-hairy": "latest",
+        "valaxy-theme-press": "latest",
+        "valaxy-theme-starter": "latest",
+        "valaxy-theme-yun": "latest",
+        "valaxy-timer": "latest"
+    }
+}

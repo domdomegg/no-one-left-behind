@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_blox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@blox/material": "latest",
+        "@blox/ng-utils": "latest",
+        "@blox/utils": "latest",
+        "@bloxapp/blox-live": "latest",
+        "@bloxberg-org/blockcerts-verifier": "latest",
+        "@bloxberg-org/cert-verifier-js": "latest",
+        "@bloxdrive/httperrorhandler": "latest",
+        "@bloxdrive/webhooklistener": "latest",
+        "@bloxite/koa-access-guard": "latest",
+        "@bloxite/koa-dals": "latest",
+        "@bloxite/koa-query-defaults": "latest",
+        "@bloxlink/vue-heroicons": "latest",
+        "@bloxroute/solana-trader-client-ts": "latest",
+        "@bloxteams/blox-auth": "latest",
+        "@bloxy/iife-libs": "latest",
+        "@bloxyjs/core": "latest",
+        "@bloxypro/bloxy-pro-tovy-egg": "latest"
+    }
+}

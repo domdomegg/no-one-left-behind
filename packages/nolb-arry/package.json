@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-arry",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "arry": "latest",
+        "arry-array": "latest",
+        "arry-count": "latest",
+        "arry_js": "latest",
+        "arryaduplicateremove": "latest",
+        "arryan": "latest",
+        "arryanxins": "latest",
+        "arryuu-vcolorpicker": "latest",
+        "arryx": "latest"
+    }
+}

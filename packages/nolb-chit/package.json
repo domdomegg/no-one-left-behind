@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-chit",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chit": "latest",
+        "chit-chatter": "latest",
+        "chit-chatty": "latest",
+        "chit-chatty-server": "latest",
+        "chit-ui-test": "latest",
+        "chita": "latest",
+        "chital": "latest",
+        "chitchat": "latest",
+        "chitchat-bot": "latest",
+        "chitchat-lang": "latest",
+        "chitchat-native": "latest",
+        "chitchatjs": "latest",
+        "chitchatsjs": "latest",
+        "chitin": "latest",
+        "chitly-api": "latest",
+        "chito": "latest",
+        "chiton": "latest",
+        "chitra": "latest",
+        "chitranshu": "latest",
+        "chitti.css": "latest",
+        "chitu": "latest",
+        "chitu-loader-test": "latest"
+    }
+}

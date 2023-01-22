@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-smx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smx": "latest",
+        "smx-casper-utils": "latest",
+        "smx-jsdoc-template": "latest",
+        "smx-livescores": "latest",
+        "smx-menu-s": "latest",
+        "smx-node-types": "latest",
+        "smx-survey": "latest",
+        "smxs1994": "latest",
+        "smxs1995": "latest"
+    }
+}

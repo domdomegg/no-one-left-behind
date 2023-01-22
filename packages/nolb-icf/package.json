@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-icf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "icf-my-storybook-components": "latest",
+        "icf-product-cart": "latest",
+        "icfiles": "latest",
+        "icfiles-build": "latest",
+        "icfp2006-um": "latest",
+        "icfs-stream": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_supi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@supii/commonshivacode": "latest",
+        "@supine/dy-form": "latest",
+        "@supine/dy-form-zorro": "latest",
+        "@supine/validator": "latest"
+    }
+}

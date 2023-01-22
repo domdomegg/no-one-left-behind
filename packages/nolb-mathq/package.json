@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-mathq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mathquill": "latest",
+        "mathquill-angular2": "latest",
+        "mathquill-build": "latest",
+        "mathquill-commonjs": "latest",
+        "mathquill-es": "latest",
+        "mathquill-jquery": "latest",
+        "mathquill-markup-generator": "latest",
+        "mathquill-nextjs": "latest",
+        "mathquill-node": "latest",
+        "mathquill-typescript": "latest",
+        "mathquill-webpack": "latest",
+        "mathquill-webpack-integration": "latest",
+        "mathquill4quill": "latest",
+        "mathquillloader": "latest"
+    }
+}

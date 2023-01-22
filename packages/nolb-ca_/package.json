@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-ca_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ca.argyle.frameline": "latest",
+        "ca.argyle.logging": "latest",
+        "ca.argyle.utility": "latest",
+        "ca.argyle.webseter": "latest",
+        "ca.argyle.webster": "latest",
+        "ca.tekly.autodefines": "latest",
+        "ca.tekly.lifecycles": "latest",
+        "ca.tekly.logger": "latest",
+        "ca.tekly.navstates": "latest",
+        "ca.tekly.tklogger": "latest",
+        "ca.tekly.utility": "latest",
+        "ca_common": "latest"
+    }
+}

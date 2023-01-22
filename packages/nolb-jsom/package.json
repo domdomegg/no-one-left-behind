@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-jsom",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jsom": "latest",
+        "jsom-ctx": "latest",
+        "jsom-helpers": "latest",
+        "jsomap": "latest",
+        "jsomatic": "latest",
+        "jsome": "latest",
+        "jsompile": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_alim",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alimamed/html-pdf": "latest",
+        "@alimamed/pdf-text": "latest",
+        "@alimamed/react-fontawesome": "latest",
+        "@alimamed/wkhtmltopdf-installer": "latest",
+        "@alimaretail/ma-rax-materials": "latest",
+        "@alimd/1db": "latest",
+        "@alimert/common": "latest",
+        "@alimert/kripton": "latest",
+        "@alimert/testcase01": "latest",
+        "@alimirzaliyev/button": "latest",
+        "@alimirzaliyev/custom-button": "latest",
+        "@alimirzaliyev/footer": "latest",
+        "@alimonia/expo-keycloak-auth": "latest",
+        "@alimudassar111/blah-blah": "latest",
+        "@alimyogurtcu/coordinate-generator": "latest"
+    }
+}

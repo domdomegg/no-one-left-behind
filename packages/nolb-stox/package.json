@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-stox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stox": "latest",
+        "stox-cli": "latest",
+        "stox-tracker": "latest",
+        "stoxbox-base": "latest",
+        "stoxscan-common": "latest",
+        "stoxum-address-codec": "latest",
+        "stoxum-binary-codec": "latest",
+        "stoxum-hashes": "latest",
+        "stoxum-keypairs": "latest",
+        "stoxum-lib": "latest",
+        "stoxum-lib-transactionparser": "latest",
+        "stoxum-lib-value": "latest",
+        "stoxum-x-address-codec": "latest",
+        "stoxy": "latest"
+    }
+}

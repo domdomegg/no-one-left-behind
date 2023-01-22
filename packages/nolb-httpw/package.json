@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-httpw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "httpwangye-captcha": "latest",
+        "httpwangye-ui": "latest",
+        "httpware-always-html": "latest",
+        "httpware-ect": "latest",
+        "httpware-leftover": "latest",
+        "httpware-response": "latest",
+        "httpware-stateful": "latest",
+        "httpware-static": "latest",
+        "httpwebserver": "latest",
+        "httpwjr": "latest",
+        "httpwork": "latest",
+        "httpws": "latest"
+    }
+}

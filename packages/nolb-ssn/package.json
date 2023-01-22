@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-ssn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ssn": "latest",
+        "ssn-api": "latest",
+        "ssn-aut-validator": "latest",
+        "ssn-calculatorlib": "latest",
+        "ssn-formatter": "latest",
+        "ssn-mask": "latest",
+        "ssn-scandinavia": "latest",
+        "ssn-validation": "latest",
+        "ssn-validator": "latest",
+        "ssn_site": "latest",
+        "ssnap-web": "latest",
+        "ssncjs": "latest",
+        "ssng": "latest",
+        "ssng-dynamic-plugin-loader": "latest",
+        "ssniff": "latest",
+        "ssnippet_library": "latest",
+        "ssnm-pack": "latest",
+        "ssnpm": "latest",
+        "ssnr-dfs": "latest",
+        "ssnyarii": "latest"
+    }
+}

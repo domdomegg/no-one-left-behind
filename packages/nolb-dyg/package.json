@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-dyg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dyg": "latest",
+        "dyg-cli": "latest",
+        "dyg-egg-utils": "latest",
+        "dyggod-tools": "latest",
+        "dygk-interface": "latest",
+        "dygk-vue3": "latest",
+        "dygl": "latest",
+        "dygram": "latest",
+        "dygraphs": "latest",
+        "dygraphs-commonjs": "latest",
+        "dygraphs-es5": "latest",
+        "dygraphs-synchronizer": "latest",
+        "dygraphs2": "latest"
+    }
+}

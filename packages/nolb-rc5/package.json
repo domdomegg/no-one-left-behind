@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-rc5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rc5": "latest",
+        "rc522": "latest",
+        "rc522-c7z": "latest",
+        "rc522-empty-card": "latest",
+        "rc522-i2c": "latest",
+        "rc522-rfid": "latest",
+        "rc522-rfid-promise": "latest",
+        "rc522-rpi": "latest"
+    }
+}

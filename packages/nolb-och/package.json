@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-och",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "och": "latest",
+        "och-log-client": "latest",
+        "ocha": "latest",
+        "ochain": "latest",
+        "ochat": "latest",
+        "oche-ui": "latest",
+        "ochiai-string-similarity": "latest",
+        "ochieng_hosea-frame-print": "latest",
+        "ochom-react-components": "latest",
+        "ochre": "latest",
+        "ochre-agent": "latest",
+        "ochre-controller": "latest",
+        "ochre-indexer": "latest",
+        "ochre-liberator": "latest",
+        "ochre-preview": "latest",
+        "ochre-visionmaker": "latest",
+        "ochtmlparser": "latest"
+    }
+}

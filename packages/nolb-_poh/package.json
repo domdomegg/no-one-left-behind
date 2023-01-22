@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_poh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pohfy/react-prism-editor": "latest",
+        "@pohodnik/babel-preset": "latest",
+        "@pohodnik/babel-preset-react": "latest",
+        "@pohodnik/eslint-config": "latest",
+        "@pohodnik/poh-ui": "latest",
+        "@pohodnik/stylelint-config": "latest",
+        "@pohodnik/webpack-config": "latest",
+        "@pohy/ableton": "latest",
+        "@pohy/actions-on-google": "latest"
+    }
+}

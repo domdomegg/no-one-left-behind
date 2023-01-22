@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_hypern",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hypernetlabs/common-crypto-utils": "latest",
+        "@hypernetlabs/common-csv-utils": "latest",
+        "@hypernetlabs/common-objects": "latest",
+        "@hypernetlabs/common-redis-provider": "latest",
+        "@hypernetlabs/common-repositories": "latest",
+        "@hypernetlabs/contracts": "latest",
+        "@hypernetlabs/gateway-connector": "latest",
+        "@hypernetlabs/governance-sdk": "latest",
+        "@hypernetlabs/hypernet-id-contracts-integration": "latest",
+        "@hypernetlabs/hypernet-id-corporate-integration": "latest",
+        "@hypernetlabs/hypernet-id-objects": "latest",
+        "@hypernetlabs/hypernet-id-web-integration": "latest",
+        "@hypernetlabs/objects": "latest",
+        "@hypernetlabs/utils": "latest",
+        "@hypernetlabs/web-integration": "latest",
+        "@hypernetlabs/web-ui": "latest",
+        "@hypernetwork/galileo-ide-metrics-dashboard-widget": "latest",
+        "@hypernetwork/galileo-ide-password-widget": "latest",
+        "@hypernetwork/galileo-ide-storj-widget": "latest",
+        "@hypernetwork/galileo-ide-widget": "latest",
+        "@hypernetwork/hypernetlabs-ui": "latest"
+    }
+}

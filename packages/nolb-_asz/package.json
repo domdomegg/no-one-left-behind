@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_asz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aszabacsi/react-scrollto": "latest",
+        "@aszabacsi/scylla-typings": "latest",
+        "@aszechlicki/ng-select": "latest",
+        "@aszero/jspackage": "latest",
+        "@aszu/dbh": "latest",
+        "@aszu/lazy-network": "latest",
+        "@aszxc/npmexp": "latest",
+        "@aszydelko/eslint-config-vue": "latest",
+        "@aszydelko/stylelint-config": "latest"
+    }
+}

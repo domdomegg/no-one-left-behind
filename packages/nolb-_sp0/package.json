@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_sp0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sp0033212000/react-draft-editor": "latest",
+        "@sp0033212000/react-easiest-table": "latest"
+    }
+}

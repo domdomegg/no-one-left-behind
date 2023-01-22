@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-mago",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mago": "latest",
+        "mago-gerador-boletos": "latest",
+        "mago-uikit": "latest",
+        "magog": "latest",
+        "magojs": "latest",
+        "magoo": "latest",
+        "magoot-component": "latest"
+    }
+}

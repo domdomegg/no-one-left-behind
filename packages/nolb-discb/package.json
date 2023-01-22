@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-discb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discbot": "latest",
+        "discbot-easy": "latest",
+        "discbot-factory": "latest",
+        "discbot-test": "latest",
+        "discbot-utils": "latest",
+        "discbotwid": "latest",
+        "discbypass": "latest"
+    }
+}

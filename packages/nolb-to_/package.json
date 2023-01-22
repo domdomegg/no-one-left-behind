@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-to_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "to.cachedimageview": "latest",
+        "to.imagecache": "latest",
+        "to.pinf.com.github.pages": "latest",
+        "to.pinf.lib": "latest",
+        "to.pinf.org.mozilla.web-ext": "latest",
+        "to_127": "latest",
+        "to_binary": "latest",
+        "to_delete_public_models": "latest",
+        "to_do_list_simulator": "latest",
+        "to_go": "latest",
+        "to_json": "latest",
+        "to_node_res1_db": "latest",
+        "to_publish": "latest",
+        "to_rule_them_all": "latest",
+        "to_s": "latest",
+        "to_sentence": "latest",
+        "to_system_activity": "latest"
+    }
+}

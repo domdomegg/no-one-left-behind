@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_thij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@thijmen-os/common": "latest",
+        "@thijmen-os/developmentkit": "latest",
+        "@thijmen-os/errormanager": "latest",
+        "@thijmen-os/eslint-config": "latest",
+        "@thijmen-os/filesystem": "latest",
+        "@thijmen-os/graphics": "latest",
+        "@thijmen-os/prompt": "latest",
+        "@thijmen-os/utils": "latest",
+        "@thijmen-os/window": "latest",
+        "@thijmenos/common": "latest",
+        "@thijmenos/errormanager": "latest",
+        "@thijmenos/eslint-config": "latest",
+        "@thijmenos/filesystem": "latest",
+        "@thijmenos/graphics": "latest",
+        "@thijmenos/prompt": "latest",
+        "@thijmenos/utils": "latest",
+        "@thijmenos/window": "latest",
+        "@thijs-development/emojipicker": "latest",
+        "@thijsgadiot/await-once": "latest",
+        "@thijsrijkers/drawjs": "latest",
+        "@thijsvdanker/vue-fab": "latest",
+        "@thijsvdanker/vue-file-base64": "latest",
+        "@thijsvdanker/vue-protect-form": "latest"
+    }
+}

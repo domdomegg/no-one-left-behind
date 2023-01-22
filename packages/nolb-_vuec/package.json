@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_vuec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vuechain/vue-ethers": "latest",
+        "@vuecomp/vue-svg": "latest",
+        "@vuecomps/ac-compose-message": "latest",
+        "@vuecomps/ac-gravatar": "latest",
+        "@vuecomps/ac-imagerjs": "latest",
+        "@vuecomps/ac-signature-pad": "latest",
+        "@vuecomps/ac-twilio-dialpad": "latest",
+        "@vuecomps/appup-collection": "latest",
+        "@vuecomps/appup-compose-message": "latest",
+        "@vuecomps/appup-emoji-picker": "latest",
+        "@vuecomps/appup-kanban": "latest",
+        "@vuecomps/appup-mentions": "latest",
+        "@vuecomps/appup-message": "latest",
+        "@vuecomps/appup-onboarding-meter": "latest",
+        "@vuecomps/appup-vertical-navigation": "latest",
+        "@vuecomps/excel-table": "latest",
+        "@vuecomps/hw": "latest",
+        "@vuecomps/vue-date-time": "latest",
+        "@vuecomps/vue-dropzone": "latest",
+        "@vuecomps/vue-gravatar": "latest",
+        "@vuecosystem/vuecosystem": "latest"
+    }
+}

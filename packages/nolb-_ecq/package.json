@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_ecq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ecqq/legacy-plugin-chart-chord": "latest",
+        "@ecqq/legacy-plugin-chart-country-map-chile": "latest",
+        "@ecqq/legacy-plugin-chart-word-graph": "latest",
+        "@ecqq/plugin-chart-composed": "latest",
+        "@ecqq/plugin-chart-hello-world": "latest",
+        "@ecqq/plugin-chart-pie": "latest",
+        "@ecqq/plugin-chart-pivot-table": "latest",
+        "@ecqq/plugin-chart-status": "latest",
+        "@ecqq/plugin-chart-waterfall": "latest"
+    }
+}

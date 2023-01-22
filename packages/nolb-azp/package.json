@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-azp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "azp-bump": "latest",
+        "azp-tasks-az-blobstorage-provider": "latest",
+        "azp-tasks-az-blobstorage-provider-v2": "latest",
+        "azpay": "latest",
+        "azpay-checkout-components-tests": "latest",
+        "azpcs": "latest",
+        "azplus-ui": "latest",
+        "azproductsearch": "latest",
+        "azps-tools": "latest"
+    }
+}

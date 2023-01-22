@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-sdw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sdw": "latest",
+        "sdw-client": "latest",
+        "sdwc": "latest",
+        "sdws": "latest",
+        "sdwssv": "latest",
+        "sdwvit-eslint-plugin-svelte3": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-gep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gep": "latest",
+        "gep-apigateway": "latest",
+        "gep-ticketing-manager": "latest",
+        "gep-ticketing-system": "latest",
+        "gep-util": "latest",
+        "gepard": "latest",
+        "gepard-playground": "latest",
+        "gepard-web": "latest",
+        "gepars": "latest",
+        "gepetto": "latest",
+        "gepick-devenv": "latest",
+        "gepjs": "latest",
+        "geplchat": "latest",
+        "gepo": "latest",
+        "gepp": "latest",
+        "geppetto": "latest",
+        "geppetto-player": "latest",
+        "geppetto_ionic_android": "latest",
+        "geppy": "latest",
+        "gepres-animate": "latest",
+        "gepro-osi": "latest",
+        "gepstein-frame-print": "latest",
+        "gepta-lib-test": "latest"
+    }
+}

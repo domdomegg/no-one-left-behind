@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-trex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "trex": "latest",
+        "trex-cli": "latest",
+        "trex-hooks": "latest",
+        "trex-parsers": "latest",
+        "trex-react-modal": "latest",
+        "trex-ui": "latest",
+        "trex.core": "latest",
+        "trexim": "latest",
+        "trexlejs": "latest",
+        "trext-components": "latest",
+        "trext-tree-walker": "latest",
+        "trexton": "latest",
+        "trexxx": "latest"
+    }
+}

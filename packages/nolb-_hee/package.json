@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_hee",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hee-san/num_ja": "latest",
+        "@heed/eslint-config-heed": "latest",
+        "@heed/prettier-config-heed": "latest",
+        "@heegu0311/hi": "latest",
+        "@heejeong/component": "latest",
+        "@heejeong/foundation": "latest",
+        "@heejeong/innercircle_b": "latest",
+        "@heejinlee/storybook-ts-react": "latest",
+        "@heen/cli-core": "latest",
+        "@heen/cli-utils": "latest",
+        "@heer.dev/una-theme-kit": "latest",
+        "@heerey525/china-division-data": "latest",
+        "@heerey525/utils": "latest",
+        "@heet1996/hello-world": "latest",
+        "@heetch/cypress-mock-openapi": "latest",
+        "@heetch/flamingo-css": "latest",
+        "@heetch/flamingo-react": "latest",
+        "@heetch/react-builder": "latest",
+        "@heetch/react-code": "latest",
+        "@heetch/react-form-validation": "latest",
+        "@heetch/react-forms": "latest",
+        "@heetch/react-forms-legacy": "latest",
+        "@heex/react": "latest"
+    }
+}

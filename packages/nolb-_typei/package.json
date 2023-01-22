@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_typei",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@typeio/type": "latest",
+        "@typeiqs/type-vue": "latest",
+        "@typeis/bridge": "latest",
+        "@typeis/core": "latest",
+        "@typeis/url": "latest",
+        "@typeit/discord": "latest",
+        "@typeix/cli": "latest",
+        "@typeix/di": "latest",
+        "@typeix/logger": "latest",
+        "@typeix/metadata": "latest",
+        "@typeix/modules": "latest",
+        "@typeix/parsers": "latest",
+        "@typeix/resty": "latest",
+        "@typeix/resty-aws-lambda": "latest",
+        "@typeix/rexxar": "latest",
+        "@typeix/router": "latest",
+        "@typeix/schematics": "latest",
+        "@typeix/utils": "latest"
+    }
+}

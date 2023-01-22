@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_cil",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cilab/log4n": "latest",
+        "@cilantrodreams/lotide": "latest",
+        "@cilice/apollo-mocklink": "latest",
+        "@cilice/esbuild-register": "latest",
+        "@cilice/react-bundling-demo": "latest",
+        "@cilice/react-publish-demo": "latest",
+        "@cilinder/generate-node-backend": "latest",
+        "@cilly/j-2-j": "latest",
+        "@cilok77/sdk": "latest",
+        "@cilok77/ui": "latest",
+        "@cilyn/bitbucket": "latest",
+        "@cilyn/github": "latest",
+        "@cilyn/gitlab": "latest",
+        "@cilyn/jira": "latest",
+        "@cilyn/local-git": "latest",
+        "@cilyn/rally": "latest"
+    }
+}

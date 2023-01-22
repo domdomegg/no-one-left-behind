@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-crew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "crew": "latest",
+        "crew-cosmic": "latest",
+        "crew-names": "latest",
+        "crew-telemetry": "latest",
+        "crew-test-package": "latest",
+        "crewhogan": "latest",
+        "crewhu-ui": "latest",
+        "crewjs": "latest",
+        "crewlink": "latest",
+        "crewlink-rhdev": "latest",
+        "crewman": "latest",
+        "crewmeister-util": "latest"
+    }
+}

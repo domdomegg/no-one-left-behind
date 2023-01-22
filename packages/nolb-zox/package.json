@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-zox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zox": "latest",
+        "zox-cli": "latest",
+        "zox-graphgql-ws": "latest",
+        "zox-graphql-ws": "latest",
+        "zox-handlebars": "latest",
+        "zox-plugins": "latest",
+        "zox-react": "latest",
+        "zoxy": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_ne_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ne_fe/boot": "latest",
+        "@ne_fe/gis": "latest",
+        "@ne_fe/helper": "latest",
+        "@ne_fe/koa-auth": "latest",
+        "@ne_fe/koa-entry": "latest",
+        "@ne_fe/koa-nginx": "latest",
+        "@ne_fe/koa-sign": "latest",
+        "@ne_fe/koa-xml-body": "latest",
+        "@ne_fe/map": "latest",
+        "@ne_fe/page-cli": "latest",
+        "@ne_fe/webpack": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_enl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@enlay/node": "latest",
+        "@enlearn/eslint-config": "latest",
+        "@enlearn/springroll": "latest",
+        "@enlearn/warehouse": "latest",
+        "@enlighten1/auth": "latest",
+        "@enlightenedpie/react-native-keycloak": "latest",
+        "@enlightenmentor/behave.js": "latest",
+        "@enlighthq/firebase-mocks": "latest",
+        "@enlighthq/hooks": "latest",
+        "@enlighthq/native-host": "latest",
+        "@enlighthq/router": "latest",
+        "@enlighthq/theme": "latest",
+        "@enlighthq/util": "latest",
+        "@enlinx/cra-template": "latest",
+        "@enlinx/react-scripts": "latest",
+        "@enlivensystems/ngx-audio-player": "latest",
+        "@enlznep/jupyterlab_shell_file": "latest",
+        "@enlznep/jupyterlab_xkcd": "latest",
+        "@enlznep/runall-extension": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-linh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "linh": "latest",
+        "linh-capitalize": "latest",
+        "linh-demo-02": "latest",
+        "linh-table": "latest",
+        "linh_module": "latest",
+        "linhai": "latest",
+        "linhaiyue-plugin": "latest",
+        "linhaoran_app1": "latest",
+        "linhaoran_app2": "latest",
+        "linhaoran_app3": "latest",
+        "linhaozhangtest": "latest",
+        "linhm-test1": "latest",
+        "linhodemos-types": "latest",
+        "linhph-sdk": "latest",
+        "linhpham-sdk": "latest",
+        "linhpvhtest01": "latest",
+        "linhtinh": "latest",
+        "linhuaxin": "latest",
+        "linhui-parse-px": "latest",
+        "linhz": "latest"
+    }
+}

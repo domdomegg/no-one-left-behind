@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_gie",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@giedrius.bla/common": "latest",
+        "@gieldc/vue-component-library": "latest",
+        "@giens/planby": "latest",
+        "@gietkonet-tickets/common": "latest"
+    }
+}

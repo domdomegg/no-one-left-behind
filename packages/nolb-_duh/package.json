@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_duh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@duhaha/doc-content-css": "latest",
+        "@duhaha/editor": "latest",
+        "@duhaha/shared": "latest",
+        "@duhd4h/eslint-config-global": "latest",
+        "@duhd4h/eslint-config-pancake": "latest",
+        "@duhd4h/global-profile-sdk": "latest",
+        "@duhd4h/global-sdk": "latest",
+        "@duhd4h/global-swap-core": "latest",
+        "@duhd4h/global-token-lists": "latest",
+        "@duhd4h/global-uikit": "latest",
+        "@duhd4h/sdk": "latest",
+        "@duhd4h/sdk-v2": "latest",
+        "@duhd4h/token-lists": "latest",
+        "@duhd4h/uikit": "latest",
+        "@duhdugg/emocli": "latest",
+        "@duhongwei/hotpack-babel": "latest",
+        "@duhongwei/hotpack-compress": "latest",
+        "@duhongwei/hotpack-eslint": "latest",
+        "@duhongwei/hotpack-postcss": "latest",
+        "@duhongwei/hotpack-proxy": "latest",
+        "@duhongwei/hotpack-vue3": "latest",
+        "@duhongwei/parser": "latest",
+        "@duhuajin/react-native-device-info": "latest"
+    }
+}

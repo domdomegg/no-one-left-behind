@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-npm-th",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "npm-thanh": "latest",
+        "npm-thanh-test-1": "latest",
+        "npm-theme": "latest",
+        "npm-thing": "latest",
+        "npm-thomas-funky-functions": "latest",
+        "npm-three": "latest",
+        "npm-throwaway-1": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-pinp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pinp": "latest",
+        "pinpad-vt100": "latest",
+        "pinpoint": "latest",
+        "pinpoint-api-server": "latest",
+        "pinpoint-fw": "latest",
+        "pinpoint-node-agent": "latest",
+        "pinpointjs": "latest",
+        "pinpon-capacitor-video-recorder": "latest",
+        "pinpongbutton": "latest",
+        "pinpt-y-webrtc": "latest",
+        "pinput": "latest"
+    }
+}

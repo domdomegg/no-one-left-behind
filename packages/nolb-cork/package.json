@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-cork",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cork": "latest",
+        "cork-app-utils": "latest",
+        "cork-content-markdown": "latest",
+        "cork-stream": "latest",
+        "corkable": "latest",
+        "corkboard": "latest",
+        "corkboard-default-theme": "latest",
+        "corkboard-state-recorder": "latest",
+        "corkboard-theme-sketch": "latest",
+        "corkboard-theme-standard": "latest",
+        "corkdev.io": "latest",
+        "corki": "latest",
+        "corki-compiler": "latest",
+        "corki-proxy": "latest",
+        "corki-ui": "latest",
+        "corkscrew": "latest",
+        "corky": "latest"
+    }
+}

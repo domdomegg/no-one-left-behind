@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-ngx-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ngx-x-browser-svg-mask": "latest",
+        "ngx-x-components": "latest",
+        "ngx-x-platform-tools": "latest",
+        "ngx-xcorr": "latest",
+        "ngx-xenc-loading": "latest",
+        "ngx-xenc-loading-mat": "latest",
+        "ngx-xf-test": "latest",
+        "ngx-xlf-translator": "latest",
+        "ngx-xml-pipe": "latest",
+        "ngx-xml-to-json": "latest",
+        "ngx-xml2json": "latest"
+    }
+}

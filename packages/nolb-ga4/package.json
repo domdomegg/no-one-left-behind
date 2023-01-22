@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-ga4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ga4": "latest",
+        "ga4-node": "latest",
+        "ga4gh-base-controller": "latest",
+        "ga4gh-catalog": "latest",
+        "ga4gh-discovery-search": "latest",
+        "ga4gh-discovery-search-client": "latest",
+        "ga4gh-node-gateway": "latest",
+        "ga4gh-node-server": "latest",
+        "ga4gh-rxjs": "latest",
+        "ga4gh-schemas": "latest"
+    }
+}

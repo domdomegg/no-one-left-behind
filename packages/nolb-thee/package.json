@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-thee",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thee": "latest",
+        "theechonest": "latest",
+        "theejs": "latest",
+        "theeko-hwrld": "latest",
+        "theelitesubs": "latest",
+        "theemo": "latest",
+        "theeta": "latest",
+        "theeye": "latest",
+        "theeye-client": "latest",
+        "theeye-node-diskusage": "latest",
+        "theeye-node-stat": "latest",
+        "theeye-ps-aux": "latest",
+        "theeye-ps-node": "latest"
+    }
+}

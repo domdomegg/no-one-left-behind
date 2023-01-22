@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-1k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "1k": "latest",
+        "1k-js": "latest",
+        "1k-tasks": "latest",
+        "1k-utils": "latest",
+        "1kb": "latest",
+        "1kb-anchor-scroll": "latest",
+        "1kk": "latest",
+        "1kohei1": "latest",
+        "1kx-aptos-client": "latest",
+        "1kx-aptos-client-test": "latest"
+    }
+}

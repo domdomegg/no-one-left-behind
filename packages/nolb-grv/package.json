@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-grv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grv": "latest",
+        "grv-admin": "latest",
+        "grv-cli": "latest",
+        "grv-serverless-openapi-documentation": "latest",
+        "grv-ui-components": "latest",
+        "grvoyt-test": "latest",
+        "grvsandboxes": "latest",
+        "grvsls-offline-dotenv": "latest",
+        "grvsls-openapi-documentation": "latest",
+        "grvtr": "latest"
+    }
+}

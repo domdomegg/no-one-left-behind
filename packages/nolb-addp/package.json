@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-addp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "addpackage-first01": "latest",
+        "addpath": "latest",
+        "addplus": "latest",
+        "addpmsano": "latest",
+        "addpmscal": "latest",
+        "addpp": "latest",
+        "addpratik": "latest",
+        "addpublishtest": "latest"
+    }
+}

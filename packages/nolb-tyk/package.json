@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-tyk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tyk": "latest",
+        "tyk-dashboard-api": "latest",
+        "tyk-order": "latest",
+        "tyk-stb": "latest",
+        "tyk.react-scripts": "latest",
+        "tyke": "latest",
+        "tyke_list": "latest",
+        "tyke_lists": "latest",
+        "tyke_videos": "latest",
+        "tyke_wo642436249": "latest",
+        "tyker": "latest",
+        "tykj-cli": "latest",
+        "tykj-login": "latest",
+        "tykj-making-form": "latest",
+        "tykj_demo2": "latest",
+        "tykle": "latest"
+    }
+}

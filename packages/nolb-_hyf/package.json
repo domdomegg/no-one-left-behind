@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_hyf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyf-cli/cli": "latest",
+        "@hyf-cli/command": "latest",
+        "@hyf-cli/core": "latest",
+        "@hyf-cli/exec": "latest",
+        "@hyf-cli/init": "latest",
+        "@hyf-cli/log": "latest",
+        "@hyf-cli/npm-info": "latest",
+        "@hyf-cli/package": "latest",
+        "@hyf-cli/request": "latest",
+        "@hyf-cli/test": "latest",
+        "@hyf-cli/utils": "latest",
+        "@hyf-game/ace": "latest",
+        "@hyf1991/npmexercise": "latest",
+        "@hyfi06/html2pdf": "latest",
+        "@hyfi06/strftime": "latest",
+        "@hyfun/project-info": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-scg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ScgiClient": "latest",
+        "scg": "latest",
+        "scg-brook-common": "latest",
+        "scg-com": "latest",
+        "scg-ms-logs-node": "latest",
+        "scgdb-data": "latest",
+        "scgi": "latest",
+        "scgi-client": "latest",
+        "scgi-server": "latest",
+        "scgi-stream": "latest",
+        "scgrid": "latest",
+        "scgt": "latest",
+        "scgyl_ui": "latest"
+    }
+}

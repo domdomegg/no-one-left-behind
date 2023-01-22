@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-obu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "obuchalka": "latest",
+        "obuf": "latest",
+        "obui": "latest",
+        "obui-kit": "latest",
+        "obum-frame-print": "latest",
+        "obus": "latest",
+        "obut": "latest"
+    }
+}

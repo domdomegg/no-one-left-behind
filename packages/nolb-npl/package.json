@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-npl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "npl-custom-lib": "latest",
+        "npl-karthik-shetty": "latest",
+        "npl-lab-library": "latest",
+        "npl-pradeep-library": "latest",
+        "npl-pravarshi": "latest",
+        "npl-test": "latest",
+        "npl-utils": "latest",
+        "npl001": "latest",
+        "nplay": "latest",
+        "nplayer": "latest",
+        "nplaym": "latest",
+        "nplint": "latest",
+        "nplist": "latest",
+        "nplm": "latest",
+        "nplot-api": "latest",
+        "nploy": "latest",
+        "nplugm": "latest",
+        "nplus-ba": "latest",
+        "nplus-error-code": "latest",
+        "nplus-eslint-config": "latest",
+        "nplus-filter": "latest",
+        "nplus-util": "latest",
+        "nplus-vue-admin-cli": "latest",
+        "nplus-vue-h5-cli": "latest",
+        "nplus-wechat-mini-cli": "latest"
+    }
+}

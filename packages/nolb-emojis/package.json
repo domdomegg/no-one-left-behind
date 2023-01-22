@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-emojis",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emoJiS-interpreter": "latest",
+        "emojis": "latest",
+        "emojis-awesome": "latest",
+        "emojis-categorised": "latest",
+        "emojis-db": "latest",
+        "emojis-discord": "latest",
+        "emojis-hash": "latest",
+        "emojis-keywords": "latest",
+        "emojis-lib": "latest",
+        "emojis-list": "latest",
+        "emojis-pegasus": "latest",
+        "emojis-random": "latest",
+        "emojis-search": "latest",
+        "emojis-search-ts": "latest",
+        "emojis-trainer": "latest",
+        "emojis-trick": "latest",
+        "emojis-unicode": "latest",
+        "emojis.css": "latest",
+        "emojiscope": "latest",
+        "emojiscribe": "latest",
+        "emojiscript": "latest",
+        "emojisense": "latest",
+        "emojison": "latest",
+        "emojisource": "latest",
+        "emojispeak": "latest",
+        "emojisplosion": "latest",
+        "emojisplosion-helenamerk": "latest",
+        "emojist": "latest"
+    }
+}

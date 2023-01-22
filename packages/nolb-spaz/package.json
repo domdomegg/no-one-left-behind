@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-spaz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "spaz": "latest",
+        "spaz-cli": "latest",
+        "spaz-client": "latest",
+        "spaz-server": "latest",
+        "spaz-web": "latest",
+        "spaze": "latest",
+        "spazihi-groupme": "latest",
+        "spazio": "latest",
+        "spazy": "latest"
+    }
+}

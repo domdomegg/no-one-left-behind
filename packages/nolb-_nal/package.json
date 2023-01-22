@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_nal",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nala-app/react-org-chart": "latest",
+        "@nala-app/react-orgchart": "latest",
+        "@nalae-lang/compiler": "latest",
+        "@nalamahentickets/common": "latest",
+        "@nalimhahs/featured-products": "latest",
+        "@nalinbandara/sample-package": "latest",
+        "@nalinbandara/sample-package2": "latest",
+        "@naloxonemap/data-faker": "latest",
+        "@nalpch/client": "latest",
+        "@nalshya-use-component/use-axios": "latest",
+        "@nalshya-use-component/use-title": "latest",
+        "@naltun/wgb": "latest",
+        "@nalu-wiki/upload-provider-nalu": "latest",
+        "@naluri/naluri-keymaker": "latest",
+        "@nalv/cli": "latest",
+        "@nalv/core": "latest",
+        "@nalv/dev": "latest",
+        "@nalv/logger": "latest",
+        "@nalv/tasks": "latest",
+        "@nalv/websockets": "latest"
+    }
+}

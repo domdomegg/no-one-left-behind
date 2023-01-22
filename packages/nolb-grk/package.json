@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-grk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grk": "latest",
+        "grk7166_random_number_generator": "latest",
+        "grkanbulca-tag-component": "latest"
+    }
+}

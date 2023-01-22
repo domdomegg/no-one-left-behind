@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-ford",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ford": "latest",
+        "ford-cpo-v3-packaging": "latest",
+        "ford-go-electric-image-uploader": "latest",
+        "ford-resume": "latest",
+        "ford-summer-sales-event-2015": "latest",
+        "ford.js": "latest",
+        "ford_lib_2": "latest",
+        "ford_lib_3": "latest",
+        "fordate": "latest",
+        "fordelay": "latest",
+        "fordelete": "latest",
+        "fordonsuppgifter-api-wrapper": "latest",
+        "fordwh44-num-gen": "latest"
+    }
+}

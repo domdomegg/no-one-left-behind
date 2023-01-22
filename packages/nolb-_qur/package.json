@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_qur",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@qur/typetest": "latest",
+        "@quramy/angular-lang-service": "latest",
+        "@quramy/eslint-plugin-unlearned-kanji": "latest",
+        "@quramy/jest-prisma": "latest",
+        "@quramy/jest-prisma-core": "latest",
+        "@quramy/jest-prisma-node": "latest",
+        "@quramy/prisma-fabbrica": "latest",
+        "@quramy/random-txt": "latest",
+        "@quramy/storybook-angular-cli-helper": "latest",
+        "@quramy/storybook-chrome-screenshot": "latest",
+        "@quramy/ts-transform-graphql-tag": "latest",
+        "@quran-cli/q-cli": "latest",
+        "@quranjs/api": "latest",
+        "@quranpath/shared": "latest",
+        "@qured/common": "latest",
+        "@quri/metalog": "latest",
+        "@quri/squiggle-components": "latest",
+        "@quri/squiggle-lang": "latest",
+        "@quro/cli": "latest"
+    }
+}

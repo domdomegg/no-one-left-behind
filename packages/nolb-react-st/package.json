@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-react-st",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-st": "latest",
+        "@zalastax/nolb-react-st-": "latest",
+        "@zalastax/nolb-react-st8": "latest",
+        "@zalastax/nolb-react-sta": "latest",
+        "@zalastax/nolb-react-std": "latest",
+        "@zalastax/nolb-react-ste": "latest",
+        "@zalastax/nolb-react-sti": "latest",
+        "@zalastax/nolb-react-stl": "latest",
+        "@zalastax/nolb-react-stn": "latest",
+        "@zalastax/nolb-react-sto": "latest",
+        "@zalastax/nolb-react-str": "latest",
+        "@zalastax/nolb-react-stt": "latest",
+        "@zalastax/nolb-react-stu": "latest",
+        "@zalastax/nolb-react-sty": "latest"
+    }
+}

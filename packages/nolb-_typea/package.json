@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_typea",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@typeach/button": "latest",
+        "@typeach/components": "latest",
+        "@typeach/select": "latest",
+        "@typeapi/api-router": "latest",
+        "@typeapi/code-generator": "latest",
+        "@typeapi/express-connector": "latest",
+        "@typeapi/plugin-jsonschema-validator": "latest",
+        "@typeapi/plugin-parser-timestamps": "latest",
+        "@typeapi/typeapi": "latest",
+        "@typeauto/cli": "latest",
+        "@typeauto/typeorm-generics": "latest"
+    }
+}

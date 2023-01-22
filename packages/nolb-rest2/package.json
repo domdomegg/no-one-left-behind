@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-rest2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rest2": "latest",
+        "rest2doc": "latest",
+        "rest2graphql": "latest",
+        "rest2grpc": "latest",
+        "rest2onvif": "latest",
+        "rest2socket": "latest",
+        "rest2static": "latest",
+        "rest2ts": "latest"
+    }
+}

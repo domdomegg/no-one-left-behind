@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_andf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@andfaulkner/cogo-toast": "latest",
+        "@andfaulkner/pm2-auto-pull": "latest",
+        "@andfaulkner/react-pdf-renderer-react17support": "latest",
+        "@andfaulkner/repl.history": "latest",
+        "@andfk/react-images-uploading": "latest",
+        "@andful/react-flow-diagram": "latest"
+    }
+}

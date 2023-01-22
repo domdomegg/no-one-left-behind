@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-yai",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yai": "latest",
+        "yai-cli": "latest",
+        "yai-demo-pkg": "latest",
+        "yaic": "latest",
+        "yaim": "latest",
+        "yaim-vue-editor-md": "latest",
+        "yaindexer": "latest",
+        "yaioc": "latest",
+        "yaip": "latest",
+        "yair-dedicated": "latest",
+        "yair-netnyahu": "latest",
+        "yairc": "latest",
+        "yaizixiuproject_node": "latest"
+    }
+}

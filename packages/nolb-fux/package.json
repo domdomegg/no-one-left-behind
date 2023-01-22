@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-fux",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fux": "latest",
+        "fuxi": "latest",
+        "fuxi-conponent-wrapper": "latest",
+        "fuxi-tang": "latest",
+        "fuxi-test": "latest",
+        "fuxi-view-design": "latest",
+        "fuxianan_001": "latest",
+        "fuxianan_002": "latest",
+        "fuxijs": "latest",
+        "fuxin-header-isart": "latest",
+        "fuxin-header-isart-thinkgs": "latest",
+        "fuxin-header-isart2": "latest",
+        "fuxing": "latest",
+        "fuxing-china-region": "latest",
+        "fuxion": "latest",
+        "fuxion-lib": "latest",
+        "fuxis": "latest",
+        "fuxk-calc": "latest",
+        "fuxo": "latest",
+        "fuxor": "latest",
+        "fuxt": "latest",
+        "fuxun-web-component": "latest",
+        "fuxy": "latest"
+    }
+}

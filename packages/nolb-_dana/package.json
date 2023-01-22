@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_dana",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dana_canada/lotide": "latest",
+        "@danaboy/ng-persian-date-picker": "latest",
+        "@danacita/loanjs": "latest",
+        "@danacita/mentari": "latest",
+        "@danacita/react-select-virtualized": "latest",
+        "@danacita/stark": "latest",
+        "@danadaners/pleasewait": "latest",
+        "@danaepp/my-lib": "latest",
+        "@danaepp/silly-button": "latest",
+        "@danagds/december2022prototype": "latest",
+        "@danah/react-hook-daum-map": "latest",
+        "@danah/react-hook-scrollto": "latest",
+        "@danakt/pshe": "latest",
+        "@danalvarez5280/bubble-sort": "latest",
+        "@dananando/express-redis-cache-generator": "latest",
+        "@danangkonang/js-validation": "latest",
+        "@dananjoy-angular-lib/angular": "latest",
+        "@dananjoy-angular-lib/components": "latest",
+        "@dananjoy-angular-lib/modules": "latest",
+        "@danarthurgallagher/normalize-file-extension": "latest",
+        "@danassistickets/common": "latest"
+    }
+}

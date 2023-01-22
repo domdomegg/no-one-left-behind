@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-conni",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "connie": "latest",
+        "connie-firebase": "latest",
+        "connie-lang": "latest",
+        "connio-health": "latest",
+        "conniption": "latest"
+    }
+}

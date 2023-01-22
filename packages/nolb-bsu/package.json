@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-bsu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bsu-es6-module-starter": "latest",
+        "bsu-shuttle-data": "latest",
+        "bsuccess-office-convert": "latest",
+        "bsui-react": "latest",
+        "bsuir": "latest",
+        "bsurveillant": "latest",
+        "bsuser": "latest"
+    }
+}

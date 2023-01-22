@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-nexw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nexwave-wissen-greet": "latest",
+        "nexway": "latest",
+        "nexway-center": "latest",
+        "nexweb": "latest",
+        "nexwidget": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-fud",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fud": "latest",
+        "fudan": "latest",
+        "fudash": "latest",
+        "fudb": "latest",
+        "fudd": "latest",
+        "fude": "latest",
+        "fude1": "latest",
+        "fudemoji": "latest",
+        "fudeu": "latest",
+        "fudge": "latest",
+        "fudge-cli": "latest",
+        "fudge-commons": "latest",
+        "fudge-stratego": "latest",
+        "fudgebotframework": "latest",
+        "fudgedit": "latest",
+        "fudges": "latest",
+        "fudi": "latest",
+        "fudiao-yinyue-jiaocheng": "latest",
+        "fudiao-yinyue-xiezuo-jichu-jiaocheng": "latest",
+        "fudo-react-scripts": "latest",
+        "fudok": "latest",
+        "fudomo-transform": "latest",
+        "fudongdonguestc": "latest",
+        "fudosman-frame-print": "latest",
+        "fudy": "latest",
+        "fudzycoin-api": "latest"
+    }
+}

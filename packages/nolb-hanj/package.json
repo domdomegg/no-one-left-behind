@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-hanj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hanj": "latest",
+        "hanjelog": "latest",
+        "hanji": "latest",
+        "hanjia": "latest",
+        "hanjianjie_create": "latest",
+        "hanjianjie_init": "latest",
+        "hanjiawei": "latest",
+        "hanjiazy1.25": "latest",
+        "hanjinxiang": "latest",
+        "hanjun2java": "latest"
+    }
+}

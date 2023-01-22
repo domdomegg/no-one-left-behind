@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_thie",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@thien-trieu/lotide": "latest",
+        "@thienbao12a2/react-link-preview": "latest",
+        "@thiendangit1102/rn-typescript-graphql": "latest",
+        "@thiendangit97/react-native-test-template-tibb": "latest",
+        "@thiendt/react-native-pdf": "latest",
+        "@thiendt/react-native-view-shot": "latest",
+        "@thienjs/next-redux": "latest",
+        "@thienma1258/nab-swagger-cli": "latest",
+        "@thierry44_org/reactapp_mon_premier_paquet": "latest"
+    }
+}

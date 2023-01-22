@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-puj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "puj": "latest",
+        "puja-npm-3": "latest",
+        "pujagi_test": "latest",
+        "puji-ui-1": "latest",
+        "pujiang-react-native-device-info": "latest",
+        "pujith_test_app": "latest"
+    }
+}

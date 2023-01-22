@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_ionj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ionjs/adapter-cqhttp": "latest",
+        "@ionjs/command": "latest",
+        "@ionjs/core": "latest",
+        "@ionjs/flow": "latest"
+    }
+}

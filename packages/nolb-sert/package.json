@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-sert",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sert": "latest",
+        "sert-schema": "latest",
+        "sertis-gen": "latest",
+        "serto-hash": "latest",
+        "serto-ui": "latest",
+        "serto-ui-hashmark": "latest",
+        "sertrading": "latest",
+        "sertraline": "latest",
+        "sertse": "latest"
+    }
+}

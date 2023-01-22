@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_sez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sez-ai/responsive-sketchpad": "latest",
+        "@sezenta/antd-schema-form": "latest",
+        "@sezinno-ui/core": "latest",
+        "@sezinnopolis/ui": "latest",
+        "@seznam/compose-react-refs": "latest",
+        "@seznam/gulp-brotli": "latest",
+        "@seznam/pocitadlo-libi-se-common": "latest",
+        "@seznam/pocitadlo-libi-se-react": "latest",
+        "@seznam/seznam.cz-browser-game-module-api": "latest",
+        "@seznam/szn-elements": "latest",
+        "@seznam/szn-select": "latest",
+        "@seznam/szn-select-react": "latest",
+        "@seznam/szn-select-vue": "latest",
+        "@seznam/szn-tethered": "latest",
+        "@seznam/visibility-observer": "latest"
+    }
+}

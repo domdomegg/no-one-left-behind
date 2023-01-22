@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_soh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@soh-cool/client-sdk": "latest",
+        "@soh-cool/client-sdk-alpha": "latest",
+        "@sohaha/eslint-config-zls": "latest",
+        "@sohaib-go/lotide": "latest",
+        "@sohailalam2/abu": "latest",
+        "@sohailalam2/elemental-web": "latest",
+        "@sohailalam2/markdown-extractor": "latest",
+        "@sohailmadan/cli": "latest",
+        "@sohailnazar/test": "latest",
+        "@sohailshaikh/my-lib": "latest",
+        "@sohailshaikh/passwordvalidation": "latest",
+        "@sohale/deep-colourize-js": "latest",
+        "@sohamkapileshwar/excalidraw": "latest",
+        "@sohan.lab/shared": "latest",
+        "@sohcah/native-base-fastselect": "latest",
+        "@soheileizadi/cmdb-plugin": "latest",
+        "@soheilpro/xformat": "latest",
+        "@sohinihm/mathfun": "latest",
+        "@sohoa-tech/aws-utils": "latest",
+        "@sohoa-tech/backend": "latest",
+        "@sohocl/eslint-config-nuxt": "latest",
+        "@sohohouse/eslint-config": "latest",
+        "@sohoware/npmlocal-fetch": "latest",
+        "@sohoware/npmlocal-publish": "latest"
+    }
+}

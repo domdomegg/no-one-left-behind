@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-evk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "evk-common": "latest",
+        "evk-content": "latest",
+        "evk-diligencias": "latest",
+        "evk-mapas": "latest",
+        "evk-tiny-npm-deploy": "latest"
+    }
+}

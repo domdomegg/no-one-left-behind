@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-arri",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "arridx": "latest",
+        "arrietty": "latest",
+        "arrietty-react": "latest",
+        "arrif": "latest",
+        "arrify": "latest",
+        "arrify-yh": "latest",
+        "arris": "latest",
+        "arris-response": "latest",
+        "arrispwgen": "latest",
+        "arrispwod": "latest",
+        "arrispwod-cli": "latest",
+        "arrival": "latest",
+        "arrivals": "latest",
+        "arrivals-osx": "latest",
+        "arrive": "latest",
+        "arrizalamin-slate-edit-list": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-am_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "am.armsoft.mfilechooser": "latest",
+        "am.armsoft.plugins.datepicker": "latest",
+        "am.armsoft.plugins.googlemaps": "latest",
+        "am.armsoft.plugins.listpicker": "latest",
+        "am.db": "latest",
+        "am.errorlogger": "latest",
+        "am_components": "latest",
+        "am_custom_lib": "latest",
+        "am_istep_chat": "latest",
+        "am_itstep_subchat": "latest",
+        "am_srt": "latest",
+        "am_turbo-net": "latest",
+        "am_utility_tool": "latest"
+    }
+}

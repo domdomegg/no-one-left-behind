@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-npt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "npt": "latest",
+        "npt-context-aware-module": "latest",
+        "npt-stat": "latest",
+        "npt-timecode": "latest",
+        "npt-ui-tutorial-module": "latest",
+        "npt456": "latest",
+        "nptconnect-browser-utils": "latest",
+        "nptconnect-client": "latest",
+        "nptconnect-core": "latest",
+        "nptconnect-core1": "latest",
+        "nptconnect-ethereum-provider": "latest",
+        "nptconnect-qrcode-modal": "latest",
+        "nptconnect-signer-connection": "latest",
+        "nptconnect-types": "latest",
+        "nptconnect-utils": "latest",
+        "nptconnect-web3react-walletconnect-connector": "latest",
+        "nptest-30400996": "latest",
+        "nptest111": "latest",
+        "nptesty24": "latest",
+        "nptheme": "latest",
+        "npts": "latest"
+    }
+}

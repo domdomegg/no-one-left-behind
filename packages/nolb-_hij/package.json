@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_hij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hijack333/rn-tourguide": "latest",
+        "@hijacker/core": "latest",
+        "@hijacker/eslint-config": "latest",
+        "@hijacker/plugin-frontend": "latest",
+        "@hijacker/plugin-graphql": "latest",
+        "@hijacker/tsconfig": "latest",
+        "@hijfcg/narcissus": "latest",
+        "@hijup/check-header": "latest",
+        "@hijup/kafka-schema-registry": "latest",
+        "@hijup/node-kafka-sr": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-mcg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mcg": "latest",
+        "mcg-anti-spam": "latest",
+        "mcg-pkg": "latest",
+        "mcg-scrollbar": "latest",
+        "mcg-speiseplan": "latest",
+        "mcg-study-webpack": "latest",
+        "mcg-ticket.tickets": "latest",
+        "mcg-ui": "latest",
+        "mcg.node": "latest",
+        "mcg.tickets": "latest",
+        "mcgallery": "latest",
+        "mcgbotbot.tickets": "latest",
+        "mcge": "latest",
+        "mcgeb.js": "latest",
+        "mcgee-pages": "latest",
+        "mcgen": "latest",
+        "mcgill-cli": "latest",
+        "mcgill-minerva-api": "latest",
+        "mcgonagall": "latest",
+        "mcgorgeous": "latest",
+        "mcgregor": "latest",
+        "mcgrid": "latest",
+        "mcgriddle": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_arf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@arfcodes/fe-cli": "latest",
+        "@arfcodes/react-pagination": "latest",
+        "@arfedulov/create-ts-project": "latest",
+        "@arfedulov/debug-utils": "latest",
+        "@arfedulov/json-api-url-parser": "latest",
+        "@arfedulov/koa-jsonapi-controllers": "latest",
+        "@arfedulov/koa-jsonapi-errors": "latest",
+        "@arfedulov/typeorm-jsonapi-serializer": "latest",
+        "@arfedulov/vue-form-persist": "latest",
+        "@arfedulov/vue2-modal": "latest",
+        "@arfloofy2020/common": "latest",
+        "@arfloofy2020/ticket-common": "latest",
+        "@arfreelance/base": "latest",
+        "@arfreelance/eslint-config": "latest",
+        "@arfreelance/eslint-plugin": "latest",
+        "@arfreelance/generator-app": "latest",
+        "@arfreelance/gulp": "latest",
+        "@arfreelance/package-lint": "latest",
+        "@arfreelance/stylelint-config": "latest",
+        "@arfreelance/stylelint-plugin": "latest"
+    }
+}

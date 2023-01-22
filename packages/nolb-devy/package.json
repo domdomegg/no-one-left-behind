@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-devy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "devy": "latest",
+        "devy-plugin-core": "latest",
+        "devy-psn": "latest",
+        "devyc": "latest",
+        "devyl": "latest",
+        "devyn-elements-test": "latest",
+        "devyx-ui": "latest"
+    }
+}

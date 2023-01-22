@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-litp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "litpress": "latest",
+        "litpro": "latest",
+        "litpro-babel": "latest",
+        "litpro-commonmark": "latest",
+        "litpro-jshint": "latest",
+        "litprog": "latest"
+    }
+}

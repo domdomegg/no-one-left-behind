@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-forn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "forn": "latest",
+        "fornac": "latest",
+        "fornac-burkov": "latest",
+        "fornari-react-templates": "latest",
+        "fornari-storybook-deploytest": "latest",
+        "fornax": "latest",
+        "fornaxswap": "latest",
+        "forneverworld": "latest",
+        "fornm1601n": "latest",
+        "fornode": "latest",
+        "fornothingelseaswarningcommand": "latest",
+        "fornpmpublishtest": "latest",
+        "fornpmsite": "latest",
+        "fornpmtest01": "latest",
+        "fornpmtesta": "latest",
+        "fornt_end_components": "latest",
+        "fornum-minecodes": "latest"
+    }
+}

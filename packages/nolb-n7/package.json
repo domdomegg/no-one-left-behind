@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-n7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "n7": "latest",
+        "n7-flexcontainer": "latest",
+        "n7-google-places-autocomplete": "latest",
+        "n7-react-infinitelist": "latest",
+        "n7-react-weui": "latest",
+        "n7axv": "latest",
+        "n7m": "latest",
+        "n7za": "latest"
+    }
+}

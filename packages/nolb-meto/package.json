@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-meto",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "meto": "latest",
+        "metoceanview-creatives": "latest",
+        "metod": "latest",
+        "metodi": "latest",
+        "metodo": "latest",
+        "metodo-background-video-component": "latest",
+        "metodomarino-draft-js": "latest",
+        "metodos-modelos-cli": "latest",
+        "metodosolutions-background-video": "latest",
+        "metoer": "latest",
+        "metoffice-datapoint": "latest",
+        "metoffice-fetch": "latest",
+        "meton": "latest",
+        "metoo": "latest",
+        "metool": "latest"
+    }
+}

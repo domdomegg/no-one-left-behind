@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-datae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dataearth-bos-uploader": "latest",
+        "dataease": "latest",
+        "dataenergy-component-builder": "latest",
+        "dataent-accounting": "latest",
+        "dataent-charts": "latest",
+        "dataent-datatable": "latest",
+        "dataent-gantt": "latest",
+        "dataentjs": "latest",
+        "dataentry": "latest",
+        "dataenv": "latest",
+        "dataexa-axios": "latest",
+        "dataexa-components": "latest",
+        "dataexa-run-extension": "latest",
+        "dataexa-ui": "latest",
+        "dataexa-use": "latest",
+        "dataexplore-ui": "latest",
+        "dataexplorer": "latest",
+        "dataexpress-api": "latest",
+        "dataexpress-db": "latest",
+        "dataeye-paysdk": "latest"
+    }
+}

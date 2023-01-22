@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_kiq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kiqr/cli": "latest",
+        "@kiqr/management-api-sdk": "latest",
+        "@kiqr/react-components": "latest",
+        "@kiqr/react-hooks": "latest"
+    }
+}

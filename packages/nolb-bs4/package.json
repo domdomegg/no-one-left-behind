@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-bs4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bs4-autocomplete": "latest",
+        "bs4-breakpoint": "latest",
+        "bs4-breakpoint-check": "latest",
+        "bs4-css-vars": "latest",
+        "bs4-custom-elements": "latest",
+        "bs4-flex-helper": "latest",
+        "bs4-modal-mvc": "latest",
+        "bs4-modal-react": "latest",
+        "bs4-pagination": "latest",
+        "bs4-pagination-laravel": "latest",
+        "bs4-polymer": "latest",
+        "bs4-sc": "latest",
+        "bs4-selectbox": "latest",
+        "bs4-svelte-form-validation": "latest",
+        "bs4-table-vue": "latest",
+        "bs4-theme": "latest",
+        "bs4-toast": "latest",
+        "bs4-utilities-for-bs3": "latest",
+        "bs4-vanilla": "latest",
+        "bs4react": "latest",
+        "bs4starter": "latest",
+        "bs4uploader": "latest"
+    }
+}

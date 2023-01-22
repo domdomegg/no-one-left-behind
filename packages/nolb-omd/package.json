@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-omd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "omd": "latest",
+        "omd-design-plus": "latest",
+        "omd-portal-classic": "latest",
+        "omda-details": "latest",
+        "omdb": "latest",
+        "omdb-api": "latest",
+        "omdb-api-client": "latest",
+        "omdb-api-pt": "latest",
+        "omdb-api-search": "latest",
+        "omdb-async-api-wrapper": "latest",
+        "omdb-client": "latest",
+        "omdb-connector": "latest",
+        "omdb-hooks": "latest",
+        "omdb-js": "latest",
+        "omdb-wrapper": "latest",
+        "omdbapi": "latest",
+        "omdbapiwrapper": "latest",
+        "omdbjs": "latest",
+        "omded": "latest",
+        "omdomdom": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-hapie",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hapier": "latest",
+        "hapiest": "latest",
+        "hapiest-cloudfront-url": "latest",
+        "hapiest-deploy": "latest",
+        "hapiest-email": "latest",
+        "hapiest-firehose": "latest",
+        "hapiest-kue": "latest",
+        "hapiest-lambda-deploy": "latest",
+        "hapiest-logger": "latest",
+        "hapiest-mysql": "latest",
+        "hapiest-s3-storage": "latest",
+        "hapiest-server": "latest",
+        "hapiest-vo": "latest",
+        "hapiex": "latest"
+    }
+}

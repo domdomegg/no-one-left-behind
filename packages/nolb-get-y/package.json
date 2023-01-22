@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-get-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "get-yarn-workspaces": "latest",
+        "get-yo-rc-path": "latest",
+        "get-your-age": "latest",
+        "get-your-own-coin-address": "latest",
+        "get-your-sum": "latest",
+        "get-youtube-channel-id": "latest",
+        "get-youtube-chapters": "latest",
+        "get-youtube-id": "latest",
+        "get-youtube-id-definately": "latest",
+        "get-youtube-instance": "latest",
+        "get-youtube-playlist-id": "latest",
+        "get-youtube-title": "latest",
+        "get-youtube-title-await": "latest",
+        "get-youtube-type-await": "latest",
+        "get-youtube-video-category": "latest",
+        "get-yt-thumbnail": "latest"
+    }
+}

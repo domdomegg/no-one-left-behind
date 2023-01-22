@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-wort",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wort": "latest",
+        "wort-es6": "latest",
+        "worte": "latest",
+        "wortellui": "latest",
+        "worter": "latest",
+        "worterbuch-js": "latest",
+        "worterbuch-react": "latest",
+        "worterbuch-solid": "latest",
+        "worterbuch-wasm": "latest",
+        "worterbuch4ts": "latest",
+        "wortest": "latest",
+        "worth": "latest",
+        "worth-the-read": "latest",
+        "worthwhile-chat-app": "latest",
+        "worthworld-first-demo": "latest",
+        "worthy-applitools": "latest",
+        "worthy-selenium-webdriver": "latest",
+        "worthy-uxie": "latest",
+        "worthy.js": "latest",
+        "worties-cordova-plugin": "latest",
+        "wortise-cordova-plugin": "latest",
+        "wortru": "latest",
+        "wortspiel": "latest",
+        "wortsteg": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-restm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "restmail-client": "latest",
+        "restmailer": "latest",
+        "restman": "latest",
+        "restman-app": "latest",
+        "restman-cache": "latest",
+        "restman-config": "latest",
+        "restman-errors": "latest",
+        "restman-logger": "latest",
+        "restman-queue": "latest",
+        "restman-utils": "latest",
+        "restmap": "latest",
+        "restmatcher": "latest",
+        "restme": "latest",
+        "restmin": "latest",
+        "restmine": "latest",
+        "restmix": "latest",
+        "restmock": "latest",
+        "restmon": "latest",
+        "restmvc": "latest",
+        "restmvc.js": "latest"
+    }
+}

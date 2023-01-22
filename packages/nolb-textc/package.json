@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-textc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "textcamelcaser": "latest",
+        "textcarver": "latest",
+        "textchecker-element": "latest",
+        "textchocolate": "latest",
+        "textchunk": "latest",
+        "textclass": "latest",
+        "textclear": "latest",
+        "textcliper": "latest",
+        "textcmd": "latest",
+        "textcoin": "latest",
+        "textcolor": "latest",
+        "textcolor-react-hubstudio": "latest",
+        "textcomplete": "latest",
+        "textcomplete.codemirror": "latest",
+        "textcomplete.contenteditable": "latest",
+        "textcomplete.contenteditable-ifixit": "latest",
+        "textconv": "latest",
+        "textconvert": "latest",
+        "textcortex-hemingwai-js": "latest",
+        "textcortex-typescript": "latest",
+        "textcounter": "latest",
+        "textcraft": "latest",
+        "textcycle": "latest"
+    }
+}

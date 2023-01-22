@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-nii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nii": "latest",
+        "nii-xyc-x": "latest",
+        "nii-xyc-zk1": "latest",
+        "niicode-test": "latest",
+        "niid": "latest",
+        "niiifty": "latest",
+        "niim": "latest",
+        "niimbot-design": "latest",
+        "niimbot-swagger-generator": "latest",
+        "niims": "latest",
+        "niinzir": "latest",
+        "niit-common-consumption-v9": "latest",
+        "niit-ed-consumption-components": "latest",
+        "niit-lib": "latest",
+        "niit-lib1998": "latest",
+        "niit-publish": "latest",
+        "niit-publish-demo": "latest",
+        "niit-publish3": "latest",
+        "niiti": "latest",
+        "niitlib2022": "latest",
+        "niitproject1": "latest",
+        "niiwoo-forgetpwd": "latest",
+        "niiwoo-login": "latest",
+        "niiwoo-register": "latest",
+        "niiwoologin": "latest"
+    }
+}

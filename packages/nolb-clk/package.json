@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-clk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clk": "latest",
+        "clk-bs": "latest",
+        "clk-bs-2": "latest",
+        "clk-masthead": "latest",
+        "clk-styletest": "latest",
+        "clk-test": "latest",
+        "clk-web-components": "latest",
+        "clkingdom": "latest",
+        "clkjs": "latest",
+        "clkz-web-dinner": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-goo-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "goo-avatar": "latest",
+        "goo-dom": "latest",
+        "goo-history": "latest",
+        "goo-js": "latest",
+        "goo-maps": "latest",
+        "goo-react-cli": "latest",
+        "goo-router": "latest",
+        "goo-search": "latest",
+        "goo-shorthand": "latest",
+        "goo-ssg-cli": "latest",
+        "goo-state": "latest",
+        "goo-test": "latest",
+        "goo-utils": "latest"
+    }
+}

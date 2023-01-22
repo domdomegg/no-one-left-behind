@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-wi-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wi-ctg-cli": "latest",
+        "wi-dom": "latest",
+        "wi-etl": "latest",
+        "wi-export-test": "latest",
+        "wi-express-http-proxy": "latest",
+        "wi-flow": "latest",
+        "wi-framework": "latest",
+        "wi-generic-layout": "latest",
+        "wi-import": "latest",
+        "wi-jit": "latest",
+        "wi-layer-react-express": "latest",
+        "wi-layout-library": "latest",
+        "wi-library": "latest",
+        "wi-log": "latest",
+        "wi-logger": "latest",
+        "wi-monitor-middleware": "latest",
+        "wi-my-npmapp-common-module": "latest",
+        "wi-opml-to-md": "latest",
+        "wi-palettify": "latest",
+        "wi-sbis-adapter": "latest",
+        "wi-sequelize": "latest",
+        "wi-sequelize-auto": "latest",
+        "wi-sqldump": "latest",
+        "wi-theme-famous": "latest",
+        "wi-utilities": "latest",
+        "wi-utils": "latest",
+        "wi-validator": "latest",
+        "wi-weapp": "latest"
+    }
+}

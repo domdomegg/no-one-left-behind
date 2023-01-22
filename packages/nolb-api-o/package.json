@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-api-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "api-object": "latest",
+        "api-omni-poc": "latest",
+        "api-operaciones": "latest",
+        "api-operations": "latest",
+        "api-opskins-trade": "latest",
+        "api-organizer": "latest",
+        "api-orm": "latest",
+        "api-ow-chaning": "latest"
+    }
+}

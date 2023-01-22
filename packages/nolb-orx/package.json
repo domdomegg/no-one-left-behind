@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-orx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "orx": "latest",
+        "orx-editor": "latest",
+        "orxan": "latest",
+        "orxapi.booking.validation": "latest",
+        "orxapi.plugins.popin": "latest",
+        "orxapi.plugins.tabs": "latest",
+        "orxapi.tools.array": "latest",
+        "orxapi.tools.clickable": "latest",
+        "orxapi.tools.objectfit": "latest",
+        "orxapi.tools.toggle": "latest",
+        "orxapi.tools.toscroll": "latest",
+        "orxapi.tools.url": "latest",
+        "orxatadata": "latest",
+        "orxe-culture": "latest",
+        "orxe-lint": "latest",
+        "orxe-project-setup": "latest",
+        "orxxe": "latest"
+    }
+}

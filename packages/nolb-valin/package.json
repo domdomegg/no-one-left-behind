@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-valin",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "valine": "latest",
+        "valine-gnas": "latest",
+        "valine-memfire": "latest",
+        "valine-unpkg-avmin": "latest",
+        "valinecdn": "latest",
+        "valinfo-cli": "latest",
+        "valinode": "latest",
+        "valinor": "latest",
+        "valint": "latest"
+    }
+}

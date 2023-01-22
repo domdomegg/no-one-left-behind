@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-svu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svu": "latest",
+        "svu-components": "latest",
+        "svu-diagnostics": "latest",
+        "svu2-sample": "latest",
+        "svue": "latest",
+        "svue-cli": "latest",
+        "svue-skeleton": "latest",
+        "svue-video": "latest",
+        "svuelte": "latest",
+        "svuelte-ts-scss": "latest",
+        "svui": "latest",
+        "svulma": "latest",
+        "svup": "latest",
+        "svupload": "latest",
+        "svuum": "latest",
+        "svux": "latest"
+    }
+}

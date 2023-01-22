@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-gl_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gl_b_2022": "latest",
+        "gl_components": "latest",
+        "gl_sopra_20": "latest",
+        "gl_test_1": "latest",
+        "gl_test_taro_module": "latest",
+        "gl_tool": "latest",
+        "gl_utils": "latest",
+        "gl_zk_day": "latest"
+    }
+}

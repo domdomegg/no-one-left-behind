@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_chc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chcaa/strapi-date-picker": "latest",
+        "@chcaa/strapi-invitation-email": "latest",
+        "@chcaa/strapi-provider-upload-local-configurable": "latest",
+        "@chcaa/strapi-static-file-route": "latest",
+        "@chcaa/strapi-text-search": "latest",
+        "@chcaa/strapi-utils": "latest",
+        "@chcaa/text-search": "latest",
+        "@chcaa/validator": "latest",
+        "@chcaa/web-extractor": "latest",
+        "@chchang810716/react-sss": "latest",
+        "@chchchelsay/lotide": "latest",
+        "@chck/vue-grid-styled": "latest",
+        "@chcompiegne/alexandrie.io-node": "latest",
+        "@chcompiegne/chcn-ws-tools": "latest",
+        "@chcpayment/fastify": "latest",
+        "@chcpayment/fastify-multipart": "latest"
+    }
+}

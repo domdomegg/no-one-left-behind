@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-grt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grt-a98s": "latest",
+        "grt-antd-form-validator": "latest",
+        "grt-bpmn-js": "latest",
+        "grt-console": "latest",
+        "grt-func": "latest",
+        "grt-lowcode-component": "latest",
+        "grt-lowcode-render": "latest",
+        "grt-lowcode-utils": "latest",
+        "grt-material": "latest",
+        "grt-material-demo": "latest",
+        "grt-material1": "latest",
+        "grt-scaffold": "latest",
+        "grt-security": "latest",
+        "grt-tool-lib-front": "latest",
+        "grt-utils": "latest",
+        "grt3": "latest",
+        "grtanhqltools": "latest",
+        "grtc-js-sdk": "latest",
+        "grtnupfile": "latest",
+        "grtptohome": "latest",
+        "grtrequire": "latest",
+        "grtsid": "latest",
+        "grtwidgets": "latest"
+    }
+}

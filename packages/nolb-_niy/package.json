@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_niy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@niyang-es/iroll": "latest",
+        "@niyang-es/mux-ui": "latest",
+        "@niyang-es/notify": "latest",
+        "@niyang-es/toolkit": "latest",
+        "@niyari/base32-clockwork-ts": "latest",
+        "@niyari/base32-ts": "latest",
+        "@niyasttk/react-democomponent_testing": "latest",
+        "@niyasttk/real_food_ui_tests_new": "latest",
+        "@niyinlong/vue-weui": "latest",
+        "@niyoel/card": "latest",
+        "@niyojs/logger": "latest"
+    }
+}

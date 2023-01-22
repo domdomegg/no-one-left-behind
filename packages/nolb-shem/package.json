@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-shem",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shem": "latest",
+        "shema-check": "latest",
+        "shema-test": "latest",
+        "shembeteng": "latest",
+        "shemer-shay-random-genrator": "latest",
+        "shemi-example3": "latest"
+    }
+}

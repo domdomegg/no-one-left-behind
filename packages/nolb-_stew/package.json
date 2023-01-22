@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_stew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stewanoya/lotide": "latest",
+        "@stewartjingga/forman": "latest",
+        "@stewartmac/lotide": "latest",
+        "@stewartmcgown/apollo-response-cache": "latest",
+        "@stewartmcgown/clickup-api": "latest",
+        "@stewartmcgown/crud": "latest",
+        "@stewartmcgown/grammarly-api": "latest",
+        "@stewartmcgown/graphql-geojson": "latest",
+        "@stewartml/aws-profile": "latest",
+        "@stewartml/cloudformation": "latest",
+        "@stewieoo/ng-openapi-gen": "latest",
+        "@stewieoo/ngx-translate-extract": "latest",
+        "@stewieoo/primeng": "latest",
+        "@stewieoo/signalr": "latest",
+        "@stewyearthy/gulp-boilerplate": "latest"
+    }
+}

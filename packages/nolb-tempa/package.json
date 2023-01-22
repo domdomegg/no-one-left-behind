@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-tempa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tempa": "latest",
+        "tempa-xlsx": "latest",
+        "tempaa": "latest",
+        "tempack": "latest",
+        "tempah": "latest",
+        "tempalateengine.js": "latest",
+        "tempaq": "latest",
+        "tempar": "latest",
+        "tempart": "latest",
+        "tempath": "latest",
+        "tempaw-build": "latest",
+        "tempaw-express": "latest",
+        "tempaw-functions": "latest",
+        "tempaw-functions-zemez": "latest",
+        "tempaw-zemez-functions": "latest"
+    }
+}

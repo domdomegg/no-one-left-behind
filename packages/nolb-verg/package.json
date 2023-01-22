@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-verg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vergara-resume": "latest",
+        "verge": "latest",
+        "verge-app-loader-componenttrylanpo": "latest",
+        "verge-blocks": "latest",
+        "verge-node-typescript": "latest",
+        "vergejs": "latest",
+        "vergeko-my-package": "latest",
+        "vergen": "latest",
+        "vergequery": "latest",
+        "verger": "latest",
+        "vergil-accordion-collapse-react-native": "latest",
+        "vergil-react-toastify": "latest",
+        "vergue": "latest"
+    }
+}

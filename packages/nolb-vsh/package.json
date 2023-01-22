@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-vsh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vsh": "latest",
+        "vshadowizard": "latest",
+        "vshar-test-package-x": "latest",
+        "vshare": "latest",
+        "vshare-talkweb": "latest",
+        "vshare-yxx": "latest",
+        "vshared": "latest",
+        "vsharegc": "latest",
+        "vsharetop": "latest",
+        "vshelper": "latest",
+        "vshige-ui": "latest",
+        "vship": "latest",
+        "vshow": "latest",
+        "vshow3d": "latest",
+        "vshumeiko_supermodule": "latest",
+        "vshushkov-audiojs": "latest",
+        "vshushkov-imagejs": "latest",
+        "vshushkov-okaynav": "latest",
+        "vshushkov-react-datetime": "latest"
+    }
+}

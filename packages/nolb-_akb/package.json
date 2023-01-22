@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_akb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@akbar-virusgeeks/material-ui-multiple-dates-picker": "latest",
+        "@akbarsahata/xtm-models": "latest",
+        "@akbarsn/test-designsystem": "latest",
+        "@akbartels/lotide": "latest",
+        "@akbr/border": "latest",
+        "@akbr/cards": "latest",
+        "@akbr/get": "latest",
+        "@akbr/hyperaxe": "latest",
+        "@akbr/hyperscript": "latest",
+        "@akbr/make-path": "latest",
+        "@akbr/patch-into": "latest",
+        "@akbr/stylus": "latest",
+        "@akbr/update": "latest",
+        "@akbus/tdt-web-components": "latest"
+    }
+}

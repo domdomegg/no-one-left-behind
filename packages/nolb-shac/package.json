@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-shac",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shaca-batch": "latest",
+        "shack": "latest",
+        "shack-herald-client": "latest",
+        "shackdb": "latest",
+        "shackle": "latest",
+        "shackles": "latest",
+        "shackless-nouislider": "latest",
+        "shackox": "latest",
+        "shacl-check": "latest",
+        "shacl-form-react": "latest",
+        "shacl-js": "latest",
+        "shacl-jsonforms": "latest",
+        "shacl-jsonschema-converter": "latest",
+        "shacl-language-server": "latest",
+        "shacl-test-as-object": "latest",
+        "shaclc-parse": "latest",
+        "shaclc-write": "latest",
+        "shacled-turtle": "latest",
+        "shacmiester": "latest",
+        "shaco": "latest",
+        "shaco-router": "latest",
+        "shacobox": "latest",
+        "shacrypt": "latest"
+    }
+}

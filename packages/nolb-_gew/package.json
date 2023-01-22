@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_gew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gewaer/base-header": "latest",
+        "@gewaer/gw-browse": "latest",
+        "@gewaer/gw-header": "latest",
+        "@gewaer/gw-mobile-infinite-list": "latest",
+        "@gewaer/gw-mobile-sidebar": "latest",
+        "@gewaer/gw-settings": "latest",
+        "@gewaer/gw-sidebar": "latest",
+        "@gewaer/vue-form-generator": "latest",
+        "@gewd/components": "latest",
+        "@gewd/lazy": "latest",
+        "@gewd/markdown": "latest",
+        "@gewd/mat-utils": "latest",
+        "@gewd/ng-utils": "latest",
+        "@gewd/utils": "latest",
+        "@gewd_npm/utils": "latest",
+        "@gewd_npm/web": "latest",
+        "@gewelio/gewelcore-lib": "latest",
+        "@gewelio/gewelcore-node": "latest",
+        "@gewelio/gewelcore-p2p": "latest",
+        "@gewelio/geweld-rpc": "latest",
+        "@gewelio/insight-api": "latest",
+        "@gewelio/insight-ui": "latest",
+        "@gewelio/node-stratum-pool": "latest",
+        "@gewoonmaarten/dialogschema": "latest",
+        "@gewoonmaarten/dialogtracker": "latest",
+        "@gewoonmaarten/hello-wasm": "latest",
+        "@gewu/dotenv": "latest"
+    }
+}

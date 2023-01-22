@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-nextw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nextware": "latest",
+        "nextwarm": "latest",
+        "nextwind": "latest",
+        "nextwind-test-module": "latest",
+        "nextwork": "latest",
+        "nextwromo-backend": "latest",
+        "nextwromo-store": "latest"
+    }
+}

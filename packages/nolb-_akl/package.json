@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_akl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aklamio/design-tokens": "latest",
+        "@aklamio/ui": "latest",
+        "@akleshsiingh/buttons": "latest",
+        "@akleshsiingh/ui-components": "latest",
+        "@aklesky/eslint-config": "latest",
+        "@aklesky/jest-config": "latest",
+        "@aklesky/prettier-config": "latest",
+        "@aklesky/runtime": "latest",
+        "@aklesky/ts-config": "latest",
+        "@aklinker1/generate-changelog": "latest",
+        "@aklos/react-contenteditable": "latest",
+        "@aklos/react-range-slider": "latest",
+        "@aklump/breakpointx": "latest",
+        "@aklump/loft-labels": "latest",
+        "@aklump/smart-images": "latest"
+    }
+}

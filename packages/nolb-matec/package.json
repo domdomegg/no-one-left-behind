@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-matec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "matechs-es": "latest",
+        "matecode-date-picker-setter": "latest",
+        "matecode-range-picker-setter": "latest",
+        "matecode-time-picker-setter": "latest",
+        "matecode-time-range-picker-setter": "latest",
+        "matecomponents": "latest"
+    }
+}

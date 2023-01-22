@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_fok",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fokke-/bartender.js": "latest",
+        "@fokklzdev/components": "latest",
+        "@fokklzdev/email-templates": "latest",
+        "@fokklzdev/loopback-utils": "latest",
+        "@foko/bluebird": "latest",
+        "@foko/html-pdf": "latest",
+        "@foko/http-aws-es": "latest",
+        "@foko/kue": "latest",
+        "@foko/type-check": "latest",
+        "@foko/xlsx": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-ki-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ki-api": "latest",
+        "ki-api-core": "latest",
+        "ki-assist-radar": "latest",
+        "ki-chat": "latest",
+        "ki-cli": "latest",
+        "ki-components": "latest",
+        "ki-first-node-package": "latest",
+        "ki-frist-package": "latest",
+        "ki-lang": "latest",
+        "ki-map": "latest",
+        "ki-my-first-module": "latest",
+        "ki-nts-module": "latest",
+        "ki-router": "latest",
+        "ki-safe-transfer-crypto": "latest",
+        "ki-sdk": "latest",
+        "ki-ui": "latest",
+        "ki-ui-library": "latest",
+        "ki-ware-style-guide": "latest",
+        "ki-ware-style-guide-wp": "latest",
+        "ki-ware-style-guide-wp-extension": "latest"
+    }
+}

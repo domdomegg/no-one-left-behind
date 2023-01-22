@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_alifd_theme-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alifd/theme-ocean": "latest",
+        "@alifd/theme-oceanos1": "latest",
+        "@alifd/theme-ofa-fusion": "latest",
+        "@alifd/theme-ofifth": "latest",
+        "@alifd/theme-one": "latest",
+        "@alifd/theme-onetouch": "latest",
+        "@alifd/theme-operation": "latest",
+        "@alifd/theme-orange": "latest",
+        "@alifd/theme-orange-1": "latest",
+        "@alifd/theme-other": "latest",
+        "@alifd/theme-ouc1": "latest",
+        "@alifd/theme-overdark": "latest",
+        "@alifd/theme-overwatch": "latest"
+    }
+}

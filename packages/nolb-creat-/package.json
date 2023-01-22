@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-creat-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "creat-app-h5page": "latest",
+        "creat-cookie": "latest",
+        "creat-dev": "latest",
+        "creat-dva-model-cli": "latest",
+        "creat-h5-react": "latest",
+        "creat-hu": "latest",
+        "creat-hxb-test-1": "latest",
+        "creat-module1": "latest",
+        "creat-npm-module": "latest",
+        "creat-pack-kv": "latest",
+        "creat-pkg": "latest",
+        "creat-project-tree": "latest",
+        "creat-qiankun-cli": "latest",
+        "creat-react-ts": "latest",
+        "creat-ssc": "latest",
+        "creat-tool-forweather": "latest",
+        "creat-vmei-act": "latest",
+        "creat-vue-specs": "latest",
+        "creat-web-tpl": "latest",
+        "creat-xiaoshitou-cli": "latest"
+    }
+}

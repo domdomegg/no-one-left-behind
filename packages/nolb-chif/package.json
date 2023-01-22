@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-chif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chifengsanye": "latest",
+        "chiffchaff": "latest",
+        "chiffchaff-concat": "latest",
+        "chiffchaff-multi": "latest",
+        "chiffchaff-pipe": "latest",
+        "chiffchaff-reporter": "latest",
+        "chiffchaff-reporter-www": "latest",
+        "chiffchaff-spawn": "latest",
+        "chiffer": "latest",
+        "chiffon": "latest",
+        "chiffre": "latest",
+        "chiffy-react-scripts": "latest"
+    }
+}

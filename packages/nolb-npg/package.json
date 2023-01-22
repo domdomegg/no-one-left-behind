@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-npg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "npg": "latest",
+        "npg-auth": "latest",
+        "npg-discord-backups": "latest",
+        "npg-discord-button": "latest",
+        "npg-discord-giveaway": "latest",
+        "npg-discord-log": "latest",
+        "npg-discord-xp": "latest",
+        "npg-dotenv": "latest",
+        "npg-dropdown": "latest",
+        "npg-invitetracker": "latest",
+        "npg-package": "latest",
+        "npg-port-remodeler": "latest",
+        "npg.db": "latest",
+        "npg_ranger": "latest",
+        "npgbots-api": "latest",
+        "npgj": "latest",
+        "npgt": "latest",
+        "npgvgmd-links": "latest",
+        "npgvmd-links": "latest"
+    }
+}

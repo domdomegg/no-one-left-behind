@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-parv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "parv-component-plugin": "latest",
+        "parv-sdk": "latest",
+        "parva": "latest",
+        "parvan-material-kit": "latest",
+        "parvan-pajooh-components": "latest",
+        "parvan_components": "latest",
+        "parvan_reactjs_components": "latest",
+        "parvathy": "latest",
+        "parvez-github-example": "latest",
+        "parvez-hello-world": "latest",
+        "parvi": "latest",
+        "parvus": "latest",
+        "parvus-ui": "latest"
+    }
+}

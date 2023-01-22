@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-eny",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eny": "latest",
+        "enya-public": "latest",
+        "enya_braingames": "latest",
+        "enyadeliver": "latest",
+        "enydoor": "latest",
+        "enyg": "latest",
+        "enyo": "latest",
+        "enyo-builder": "latest",
+        "enyo-cli": "latest",
+        "enyo-core": "latest",
+        "enyo-depends": "latest",
+        "enyo-deploy-walker": "latest",
+        "enyo-dev": "latest",
+        "enyo-layout": "latest",
+        "enyo-onyx": "latest",
+        "enyo-webpack-plugin": "latest",
+        "enyo2-layout": "latest",
+        "enyof": "latest",
+        "enyomaton": "latest",
+        "enyosolutions": "latest"
+    }
+}

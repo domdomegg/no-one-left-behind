@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_stae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stae/babel-browser": "latest",
+        "@stae/babel-client": "latest",
+        "@stae/babel-node": "latest",
+        "@stae/babel-react": "latest",
+        "@stae/linters": "latest",
+        "@stae/logger": "latest"
+    }
+}

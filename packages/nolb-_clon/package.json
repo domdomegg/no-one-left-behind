@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_clon",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@clone-yangson/form-render": "latest",
+        "@clone-yangson/form-render-next": "latest",
+        "@clone-yangson/fr-generator-hyx": "latest",
+        "@clonedex/bentobox-sdk": "latest",
+        "@clonedex/core-sdk": "latest",
+        "@clonedex/kashi-sdk": "latest",
+        "@clonedex/limit-order-sdk": "latest",
+        "@clonedex/miso-sdk": "latest",
+        "@clonedex/tines": "latest",
+        "@clonedex/trident": "latest",
+        "@clonedex/trident-sdk": "latest",
+        "@clones/instascan": "latest",
+        "@clones/instascan-clone": "latest",
+        "@clones/instascan-test": "latest",
+        "@cloneticketing/common": "latest",
+        "@clongdela/parser": "latest"
+    }
+}

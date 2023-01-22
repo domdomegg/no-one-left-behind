@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-uij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "UIjson": "latest",
+        "uij": "latest",
+        "uijet": "latest",
+        "uijs": "latest",
+        "uijs-controls": "latest",
+        "uijs-core": "latest",
+        "uijs-devtools": "latest"
+    }
+}

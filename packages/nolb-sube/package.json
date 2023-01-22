@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-sube",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sube": "latest",
+        "subeditor": "latest",
+        "subek": "latest",
+        "subekshya-sundari": "latest",
+        "subelist-view": "latest",
+        "subemitter": "latest",
+        "subenv": "latest",
+        "suber": "latest",
+        "suberagent": "latest",
+        "subetha": "latest",
+        "subetha-bridge": "latest",
+        "subetha-client": "latest",
+        "subetha-client-ax": "latest",
+        "subetha-client-pe": "latest",
+        "subetha-client-wi": "latest",
+        "subexercise": "latest"
+    }
+}

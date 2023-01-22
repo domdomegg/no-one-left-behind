@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-avc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "avc-header": "latest",
+        "avc_embed": "latest",
+        "avcedm_test_nodejs": "latest",
+        "avcodecs": "latest",
+        "avcoder-starwars": "latest",
+        "avconv": "latest",
+        "avconv-utils": "latest",
+        "avconv_id3": "latest",
+        "avcore": "latest",
+        "avcoveralls": "latest",
+        "avcryptmail": "latest"
+    }
+}

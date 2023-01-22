@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-domy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "domy": "latest",
+        "domy-bind": "latest",
+        "domy-children": "latest",
+        "domy-element": "latest",
+        "domy-events": "latest",
+        "domy-insert": "latest",
+        "domy-lang": "latest",
+        "domy-router": "latest",
+        "domyangsen": "latest",
+        "domyhobby": "latest",
+        "domyno": "latest",
+        "domyselfqwdflolghk": "latest",
+        "domywin-cli": "latest",
+        "domywin-qiniu-cli": "latest"
+    }
+}

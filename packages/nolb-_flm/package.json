@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_flm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@flmc/core": "latest",
+        "@flmngr/flmngr-angular": "latest",
+        "@flmngr/flmngr-react": "latest",
+        "@flmngr/flmngr-vue": "latest",
+        "@flmnh-mgcl/ui": "latest",
+        "@flmnh-mgcl/ui-tailwind-config": "latest",
+        "@flmnt/bantam": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-usec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "usecanvas": "latest",
+        "usecaptcha": "latest",
+        "usecase-bus": "latest",
+        "usecase-coffeesrc": "latest",
+        "usecase3": "latest",
+        "usecb": "latest",
+        "usechat": "latest",
+        "useck": "latest",
+        "useclass": "latest",
+        "useclientside": "latest",
+        "useclipboard": "latest",
+        "usecloudfs": "latest",
+        "usecm": "latest",
+        "usecode-assets": "latest",
+        "usecomponentdidmount": "latest",
+        "useconfig": "latest",
+        "useconnectionchecker": "latest",
+        "usecontextmenu-react": "latest",
+        "usecontroller": "latest",
+        "usecovid": "latest",
+        "usecssclass": "latest"
+    }
+}

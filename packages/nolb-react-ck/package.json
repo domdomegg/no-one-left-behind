@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-react-ck",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-ck5": "latest",
+        "react-ckeditor": "latest",
+        "react-ckeditor-4": "latest",
+        "react-ckeditor-classic": "latest",
+        "react-ckeditor-component": "latest",
+        "react-ckeditor-component-4": "latest",
+        "react-ckeditor-import": "latest",
+        "react-ckeditor-wrapper": "latest",
+        "react-ckeditor5": "latest",
+        "react-ckeditor5-classic": "latest",
+        "react-ckeditor5-classic-font-build": "latest",
+        "react-ckeditor5-component": "latest",
+        "react-ckeditor5-with-tags": "latest"
+    }
+}

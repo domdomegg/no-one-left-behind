@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-backf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "backfeed-bookmark-app": "latest",
+        "backfeed-game-protocol": "latest",
+        "backfeed-qrate": "latest",
+        "backfeed-slant-protocol": "latest",
+        "backfiles": "latest",
+        "backfill": "latest",
+        "backfill-cache": "latest",
+        "backfill-cache-wix": "latest",
+        "backfill-config": "latest",
+        "backfill-generic-logger": "latest",
+        "backfill-hasher": "latest",
+        "backfill-logger": "latest",
+        "backfill-performance-logger": "latest",
+        "backfill-sample-dependency": "latest",
+        "backfill-telemetry": "latest",
+        "backfill-utils-dotenv": "latest",
+        "backfill-utils-test": "latest",
+        "backfill-utils-tsconfig": "latest",
+        "backfire": "latest",
+        "backflip": "latest",
+        "backform": "latest",
+        "backform-select2": "latest",
+        "backfr": "latest",
+        "backfr-builder": "latest",
+        "backframe": "latest",
+        "backframejs": "latest"
+    }
+}

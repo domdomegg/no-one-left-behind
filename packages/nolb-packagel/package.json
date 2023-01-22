@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-packagel",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "packagelabs": "latest",
+        "packageleon": "latest",
+        "packagelihm": "latest",
+        "packagelint-cli": "latest",
+        "packagelittletoflattobingbingbing": "latest",
+        "packagelize": "latest",
+        "packagelock-diff": "latest",
+        "packagelogin": "latest",
+        "packagelxw": "latest"
+    }
+}

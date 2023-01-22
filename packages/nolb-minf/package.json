@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-minf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "minfee-mui-test": "latest",
+        "minfef": "latest",
+        "minfeifan-text": "latest",
+        "minfinite": "latest",
+        "minflux": "latest",
+        "minfo": "latest",
+        "minforms": "latest",
+        "minframe": "latest",
+        "minfraud-node": "latest",
+        "minfwjs": "latest"
+    }
+}

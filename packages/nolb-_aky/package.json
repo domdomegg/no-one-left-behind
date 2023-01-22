@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_aky",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@akylas/fontmin": "latest",
+        "@akylas/load-queue": "latest",
+        "@akylas/nativescript": "latest",
+        "@akylas/nativescript-audio": "latest",
+        "@akylas/nativescript-checkbox": "latest",
+        "@akylas/nativescript-gradle": "latest",
+        "@akylas/nativescript-inappbrowser": "latest",
+        "@akylas/nativescript-lottie": "latest",
+        "@akylas/nativescript-pulltorefresh": "latest",
+        "@akylas/nativescript-sqlite": "latest",
+        "@akylas/smelte": "latest",
+        "@akylas/svelte-native": "latest",
+        "@akylas/typeorm": "latest",
+        "@akyshtickets/common": "latest"
+    }
+}

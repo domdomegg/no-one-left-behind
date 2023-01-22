@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-cck",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cck": "latest",
+        "cck-ionic-helper": "latest",
+        "cck_packs": "latest",
+        "cckazmath": "latest",
+        "cckeyboard": "latest",
+        "cckj-cli": "latest",
+        "cckj-i18n-util": "latest",
+        "cckj-util": "latest",
+        "cckk": "latest",
+        "cckplayermanagement": "latest"
+    }
+}

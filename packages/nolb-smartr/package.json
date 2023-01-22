@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-smartr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smartr_notistack": "latest",
+        "smartracker": "latest",
+        "smartrah-lion-lib": "latest",
+        "smartrange": "latest",
+        "smartree": "latest",
+        "smartreg-api": "latest",
+        "smartreg-client": "latest",
+        "smartreg-lib": "latest",
+        "smartresize.js": "latest",
+        "smartrestapi": "latest",
+        "smartrips-skin": "latest",
+        "smartrips-toolkit": "latest",
+        "smartroad": "latest",
+        "smartroad-olmap": "latest",
+        "smartroad3d": "latest",
+        "smartrocket": "latest",
+        "smartroom-aqaragateway": "latest",
+        "smartrouting": "latest",
+        "smartrr": "latest",
+        "smartrx": "latest"
+    }
+}

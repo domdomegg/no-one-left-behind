@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_sej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sejazipper/layer-api-client": "latest",
+        "@sejazipper/logger": "latest",
+        "@sejazipper/magento-api-client": "latest",
+        "@sejazipper/magento-composables": "latest",
+        "@sejazipper/magento-integration": "latest",
+        "@sejazipper/magento-js": "latest",
+        "@sejerbi/shared-api": "latest",
+        "@sejob/train_remainder": "latest"
+    }
+}

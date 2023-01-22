@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_car_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@car_han/cli": "latest",
+        "@car_han/express-log": "latest",
+        "@car_han/gitv": "latest",
+        "@car_han/utils": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-creas",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "crease": "latest",
+        "creaserver": "latest",
+        "creasy-20170221": "latest",
+        "creasy-test-20170221": "latest",
+        "creasync": "latest"
+    }
+}

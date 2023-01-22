@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-hano",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hanode": "latest",
+        "hanoi": "latest",
+        "hanoi-cypress-testrail-reporter": "latest",
+        "hanoman-ldi": "latest",
+        "hanooty-front-loader": "latest"
+    }
+}

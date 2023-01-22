@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-tark",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tarka": "latest",
+        "tarkeshpackage": "latest",
+        "tarki-definitions": "latest",
+        "tarkjs": "latest",
+        "tarkov": "latest",
+        "tarkov-data": "latest",
+        "tarkov-dev-image-generator": "latest",
+        "tarkov-gun-builder": "latest",
+        "tarkov-image-generator": "latest",
+        "tarkov-market": "latest"
+    }
+}

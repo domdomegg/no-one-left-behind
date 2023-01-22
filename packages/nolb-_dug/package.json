@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_dug",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dugla/swc": "latest",
+        "@dugood/dds": "latest",
+        "@dugrema/millegrilles.common": "latest",
+        "@dugrema/wasm-xchacha20poly1305": "latest",
+        "@duguqiubai/boot-style": "latest",
+        "@duguying/wtools": "latest"
+    }
+}

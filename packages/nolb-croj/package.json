@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-croj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "crojsdoc": "latest",
+        "crojsdoc-plugin-auto-namespace": "latest",
+        "crojsdoc-plugin-cormo": "latest",
+        "crojsdoc-plugin-underscore-private": "latest"
+    }
+}

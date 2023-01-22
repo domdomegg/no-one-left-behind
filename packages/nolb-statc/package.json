@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-statc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "statcap": "latest",
+        "statcap-soft": "latest",
+        "statchou-component-library": "latest",
+        "statcode": "latest",
+        "statcodon": "latest",
+        "statcord-eris": "latest",
+        "statcord.js": "latest",
+        "statcord.js-beta": "latest",
+        "statcounter": "latest",
+        "statcraft-lib": "latest"
+    }
+}

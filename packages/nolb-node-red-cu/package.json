@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-node-red-cu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-custom": "latest",
+        "node-red-custom-component": "latest",
+        "node-red-customized-redis": "latest"
+    }
+}

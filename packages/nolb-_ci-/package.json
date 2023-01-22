@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_ci-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ci-cmg/form-vuex": "latest",
+        "@ci-common-module/api": "latest",
+        "@ci-common-module/frontend": "latest",
+        "@ci-custom-module/api": "latest",
+        "@ci-custom-module/frontend": "latest",
+        "@ci-media-module/api": "latest",
+        "@ci-media-module/frontend": "latest",
+        "@ci-toolkit/pipeline": "latest",
+        "@ci-toolkit/render": "latest",
+        "@ci-toolkit/version": "latest",
+        "@ci-types/cjs": "latest",
+        "@ci-types/gjs": "latest",
+        "@ci-user-module/api": "latest",
+        "@ci-user-module/frontend": "latest"
+    }
+}

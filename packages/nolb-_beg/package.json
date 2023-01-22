@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_beg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@beg.in/wds-embed": "latest",
+        "@begda/static-build": "latest",
+        "@begeh/lotide": "latest",
+        "@begin-functions/data": "latest",
+        "@begin-functions/sandbox": "latest",
+        "@begin-v/queryp": "latest",
+        "@begin/api": "latest",
+        "@begin/chunker": "latest",
+        "@begin/codemirror": "latest",
+        "@begin/create": "latest",
+        "@begin/data": "latest",
+        "@begin/data-alpha": "latest",
+        "@begin/enhance": "latest",
+        "@begin/hashid": "latest",
+        "@begin/jsdom": "latest",
+        "@begin/parse5": "latest",
+        "@begin/store": "latest",
+        "@begin/validator": "latest",
+        "@begland/types-adventureland": "latest",
+        "@begoat/interactions": "latest",
+        "@begroupcompanies/uikit": "latest",
+        "@begrowth/custom-krabs": "latest",
+        "@beguerec/translate": "latest"
+    }
+}

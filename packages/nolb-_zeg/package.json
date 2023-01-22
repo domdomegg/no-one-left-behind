@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_zeg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zegal/data-extensions": "latest",
+        "@zegal/ej2-documenteditor": "latest",
+        "@zegal/ej2-documenteditor1": "latest",
+        "@zegal/eslint-config": "latest",
+        "@zegal/eslint-config-node": "latest",
+        "@zegal/react-inline-suggest": "latest",
+        "@zegal/sfdt-utils": "latest",
+        "@zegal/zegal-client": "latest",
+        "@zegal/zegal-utils": "latest",
+        "@zegeo/wxwork-js-sdk": "latest",
+        "@zegl/homebridge-z2m": "latest",
+        "@zego-cloud/prebuilt-meeting-web": "latest",
+        "@zegocloud/zego-uikit-prebuilt": "latest",
+        "@zegocloud/zego-uikit-prebuilt-call-rn": "latest",
+        "@zegocloud/zego-uikit-prebuilt-live-audio-room-rn": "latest",
+        "@zegocloud/zego-uikit-prebuilt-live-streaming-rn": "latest",
+        "@zegocloud/zego-uikit-prebuilt-video-conference-rn": "latest",
+        "@zegocloud/zego-uikit-rn": "latest",
+        "@zegocloud/zego-uikit-signaling-plugin-rn": "latest",
+        "@zegocloud/zimkit-react": "latest",
+        "@zegocloud/zimkit-vue": "latest",
+        "@zegoweb/wx-upload": "latest",
+        "@zegoweb/z-player": "latest",
+        "@zegoweb/z-save": "latest",
+        "@zegoweb/z-upload": "latest"
+    }
+}

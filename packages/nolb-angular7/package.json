@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-angular7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "angular7-adal-css": "latest",
+        "angular7-csv": "latest",
+        "angular7-currency-mask": "latest",
+        "angular7-data-table": "latest",
+        "angular7-dropdown": "latest",
+        "angular7-json-schema-form": "latest",
+        "angular7-json-schema-form-app": "latest",
+        "angular7-ladda": "latest",
+        "angular7-material-datepicker": "latest",
+        "angular7-material-table": "latest",
+        "angular7-odoo-jsonrpc": "latest",
+        "angular7-pincode": "latest",
+        "angular7-pubsub": "latest",
+        "angular7-recaptcha": "latest",
+        "angular7-rest-client": "latest",
+        "angular7-simple-json-schema-form": "latest",
+        "angular7-text-mask": "latest",
+        "angular7-universal-express": "latest",
+        "angular7-universal-express-firebase": "latest",
+        "angular7-word-cloud": "latest"
+    }
+}

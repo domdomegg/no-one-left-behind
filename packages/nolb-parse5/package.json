@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-parse5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "parse5": "latest",
+        "parse5-babel-jsx-adapter": "latest",
+        "parse5-byy": "latest",
+        "parse5-find-child": "latest",
+        "parse5-g": "latest",
+        "parse5-helper": "latest",
+        "parse5-html-rewriting-stream": "latest",
+        "parse5-html-rewriting-stream-es5": "latest",
+        "parse5-htmlparser2-tree-adapter": "latest",
+        "parse5-ns": "latest",
+        "parse5-parser-stream": "latest",
+        "parse5-plain-text-conversion-stream": "latest",
+        "parse5-plain-text-conversion-stream-es5": "latest",
+        "parse5-query-domtree": "latest",
+        "parse5-sax-parser": "latest",
+        "parse5-serializer-stream": "latest",
+        "parse5-traverse": "latest",
+        "parse5-utils": "latest",
+        "parse5-with-errors": "latest",
+        "parse5-wxmp": "latest"
+    }
+}

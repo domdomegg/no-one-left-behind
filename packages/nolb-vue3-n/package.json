@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-vue3-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue3-native-dialog": "latest",
+        "vue3-native-notification": "latest",
+        "vue3-native-websocket": "latest",
+        "vue3-nats": "latest",
+        "vue3-naver-map": "latest",
+        "vue3-naver-maps": "latest",
+        "vue3-nestable": "latest",
+        "vue3-nl2br": "latest",
+        "vue3-node": "latest",
+        "vue3-node-cli": "latest",
+        "vue3-nofity": "latest",
+        "vue3-normal-directive": "latest",
+        "vue3-normal-library": "latest",
+        "vue3-notifications": "latest",
+        "vue3-notify": "latest",
+        "vue3-notion": "latest",
+        "vue3-notion-renderer": "latest",
+        "vue3-nouislider": "latest",
+        "vue3-npm-lib": "latest",
+        "vue3-nre": "latest",
+        "vue3-number-animation": "latest",
+        "vue3-number-counter": "latest",
+        "vue3-number-roll": "latest",
+        "vue3-number-roll-plus": "latest",
+        "vue3-number-spinner": "latest",
+        "vue3-numeric-input": "latest"
+    }
+}

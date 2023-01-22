@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-reduxe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reduxec": "latest",
+        "reduxed": "latest",
+        "reduxed-chrome-storage": "latest",
+        "reduxed-context": "latest",
+        "reduxen": "latest",
+        "reduxen-react-dom": "latest",
+        "reduxer": "latest",
+        "reduxerit": "latest",
+        "reduxes": "latest",
+        "reduxette": "latest"
+    }
+}

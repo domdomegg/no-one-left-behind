@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-customs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "customs": "latest",
+        "customs-and-border-patrol-conflicted-companies": "latest",
+        "customs-buttoms": "latest",
+        "customs-clearance-code": "latest",
+        "customs-clearance-code-table": "latest",
+        "customs-ui": "latest",
+        "customs.js": "latest",
+        "customscore": "latest",
+        "customsegmentationstorage": "latest",
+        "customselect": "latest",
+        "customshells": "latest",
+        "customsmsreceiver": "latest",
+        "customsoft-package": "latest",
+        "customsplitter": "latest",
+        "customss-modules-type-element": "latest",
+        "customstandard": "latest",
+        "customstf_ios": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-hyk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hyk": "latest",
+        "hyk-cli": "latest",
+        "hyk111": "latest",
+        "hyk_anywhere": "latest",
+        "hyk_commander": "latest",
+        "hykang_utils": "latest",
+        "hyke-styleguide-test": "latest",
+        "hykior-kiuy": "latest"
+    }
+}

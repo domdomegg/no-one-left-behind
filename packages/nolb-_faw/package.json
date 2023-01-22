@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_faw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fawa-cli-dev/core": "latest",
+        "@fawa-cli-dev/utils": "latest",
+        "@fawazahmed/js-infinite-median": "latest",
+        "@fawazahmed/react-native-read-more": "latest",
+        "@fawazahmed0/npmpublishtest": "latest",
+        "@fawen/gitmoji-commit-hook": "latest",
+        "@fawkes.js/api-types": "latest",
+        "@fawkes.js/client": "latest",
+        "@fawkes.js/gateway": "latest",
+        "@fawkes.js/rest": "latest",
+        "@fawkesjs/cli": "latest",
+        "@fawkesjs/cli-kit-vit2e": "latest",
+        "@fawkesjs/cli-plugin-test": "latest",
+        "@fawkesjs/cli-plugin-test2": "latest",
+        "@fawldev/sanitize": "latest",
+        "@fawldev/sentinel": "latest",
+        "@fawmi/vue-gallery": "latest",
+        "@fawmi/vue-google-maps": "latest",
+        "@fawwaz-2009/temp-canvas": "latest"
+    }
+}

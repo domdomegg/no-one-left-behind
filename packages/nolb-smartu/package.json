@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-smartu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smartui": "latest",
+        "smartui-consent-esignature-component-z": "latest",
+        "smartui-core": "latest",
+        "smartuiweapp": "latest",
+        "smartuniverse": "latest",
+        "smartupdate": "latest",
+        "smarturl": "latest",
+        "smartux": "latest",
+        "smartuxbuild": "latest",
+        "smartuxdeploy": "latest"
+    }
+}

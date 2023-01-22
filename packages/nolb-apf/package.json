@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-apf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "apf": "latest",
+        "apf-node-common": "latest",
+        "apf-openapi": "latest",
+        "apf-utility": "latest",
+        "apfanp": "latest",
+        "apfcommon": "latest",
+        "apfe-cli": "latest",
+        "apfinal": "latest",
+        "apflora": "latest",
+        "apfm-ui": "latest",
+        "apfs": "latest"
+    }
+}

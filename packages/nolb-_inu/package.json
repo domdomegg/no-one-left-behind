@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_inu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@inu-cafeteria/backend-core": "latest",
+        "@inube/design-system": "latest",
+        "@inubis/tombswap-token-list": "latest",
+        "@inukshuk/exif": "latest",
+        "@inuscript/degrate-webpack-loader-config": "latest",
+        "@inuscript/dogtag": "latest",
+        "@inuscript/eslint-config": "latest",
+        "@inuscript/to-zok": "latest",
+        "@inuse/node-red-contrib-ifm-vvb001": "latest",
+        "@inusha1234/edit-site": "latest",
+        "@inutil-labs/node-red-whin-whatsapp": "latest",
+        "@inutils/functions": "latest"
+    }
+}

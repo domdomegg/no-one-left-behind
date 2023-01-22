@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_zhg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zhg-x/common-utils": "latest",
+        "@zhg-x/docsify-plugins": "latest",
+        "@zhg-x/resources": "latest",
+        "@zhg-x/ts-utils": "latest",
+        "@zhgh/osskit": "latest",
+        "@zhgjn/linkable": "latest"
+    }
+}

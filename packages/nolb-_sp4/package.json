@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_sp4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sp46/fauna": "latest",
+        "@sp46/md": "latest",
+        "@sp46/snek": "latest"
+    }
+}

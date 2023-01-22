@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-nuz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nuz": "latest",
+        "nuz-banner": "latest",
+        "nuz-button-to-top": "latest",
+        "nuzhdiki": "latest",
+        "nuzlocketracker": "latest",
+        "nuzu-cli": "latest"
+    }
+}

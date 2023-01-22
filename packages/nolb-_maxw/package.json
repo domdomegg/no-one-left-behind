@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_maxw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@maxwaiyaki/eslint-config": "latest",
+        "@maxwaiyaki/eslint-prettier-config": "latest",
+        "@maxwang1/org-pkg": "latest",
+        "@maxwang17/npmdemo": "latest",
+        "@maxwellewxam/babel-preset-front": "latest",
+        "@maxwellewxam/eslint-config": "latest",
+        "@maxwellewxam/friendly-errors-webpack-plugin-config": "latest",
+        "@maxwellewxam/linting-common-formatter": "latest",
+        "@maxwellewxam/node-sass-config": "latest",
+        "@maxwellewxam/postcss-config": "latest",
+        "@maxwellewxam/pug-lint-config-front": "latest",
+        "@maxwellewxam/pug-lint-loader": "latest",
+        "@maxwellewxam/stylelint-config": "latest",
+        "@maxwellgordon/react-carousel-alpha": "latest",
+        "@maxwellgordon/react-responsive-carousel-with-carousel-prop-type": "latest",
+        "@maxwellmri/bem": "latest",
+        "@maxwellmri/serve": "latest",
+        "@maxwellray/parquetjs": "latest",
+        "@maxwelsantana/stencil": "latest",
+        "@maxwillecho/type-helper": "latest",
+        "@maxwong03/lotide": "latest",
+        "@maxwoo-houzz/stylelint-no-restricted-imports": "latest",
+        "@maxwowo/act": "latest",
+        "@maxwowo/cls": "latest",
+        "@maxwowo/components": "latest"
+    }
+}

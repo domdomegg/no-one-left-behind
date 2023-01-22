@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-sime",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sime-ui": "latest",
+        "simee": "latest",
+        "simee-ui": "latest",
+        "simenc": "latest",
+        "simene-frame-print": "latest",
+        "simenjs": "latest",
+        "simens-veevalidatedemo": "latest",
+        "simeon": "latest",
+        "simeon-ts-calculator": "latest",
+        "simeple-component-library": "latest",
+        "simetria": "latest",
+        "simex": "latest",
+        "simeyoungtheme": "latest"
+    }
+}

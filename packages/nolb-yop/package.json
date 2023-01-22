@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-yop",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yop": "latest",
+        "yop-postgresql": "latest",
+        "yop-promises": "latest",
+        "yop-ui-button": "latest",
+        "yop-ui-components": "latest",
+        "yop-yaf": "latest",
+        "yopass-cli": "latest",
+        "yope": "latest",
+        "yopee-cli": "latest",
+        "yopl": "latest",
+        "yoplait": "latest",
+        "yopmail": "latest",
+        "yopop": "latest",
+        "yopro": "latest",
+        "yoproject": "latest",
+        "yops": "latest",
+        "yops-frontend-components": "latest",
+        "yopsilon-mask": "latest",
+        "yopta": "latest",
+        "yopta-editor": "latest",
+        "yopta-loader": "latest",
+        "yopta-transformer": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_bop",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bopen/leaflet-area-selection": "latest",
+        "@bopeng95/updater": "latest",
+        "@bopeng95/wbpk": "latest",
+        "@bopepsi/lotide": "latest",
+        "@bopohob/stomach": "latest",
+        "@bopohob/timecalc": "latest",
+        "@boptom/wander": "latest"
+    }
+}

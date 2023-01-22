@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-typeh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typehardeningrc": "latest",
+        "typehead": "latest",
+        "typehelper": "latest",
+        "typehero": "latest",
+        "typehints": "latest",
+        "typehole": "latest",
+        "typehound": "latest",
+        "typehouse": "latest",
+        "typehtml": "latest",
+        "typehydra": "latest"
+    }
+}

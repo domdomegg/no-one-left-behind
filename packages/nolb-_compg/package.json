@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_compg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@compgen/angular": "latest",
+        "@compgen/angular-min": "latest",
+        "@compgen/browserlist": "latest",
+        "@compgen/code-quality": "latest",
+        "@compgen/core": "latest",
+        "@compgen/cra": "latest",
+        "@compgen/cra-min": "latest",
+        "@compgen/editor-config": "latest",
+        "@compgen/eslint": "latest",
+        "@compgen/eslint-auto": "latest",
+        "@compgen/git-hooks": "latest",
+        "@compgen/heroku": "latest",
+        "@compgen/nest": "latest",
+        "@compgen/nest-min": "latest",
+        "@compgen/next": "latest",
+        "@compgen/next-min": "latest",
+        "@compgen/prettier": "latest",
+        "@compgen/react-component": "latest",
+        "@compgen/rna": "latest",
+        "@compgen/rna-min": "latest",
+        "@compgen/stylelint": "latest",
+        "@compgen/ts-node": "latest"
+    }
+}

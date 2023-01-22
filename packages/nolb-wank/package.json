@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-wank",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wanke-bff-share": "latest",
+        "wanke-button": "latest",
+        "wanke-card": "latest",
+        "wanke-component": "latest",
+        "wanke-gui": "latest",
+        "wanke-gui-gh": "latest",
+        "wanke-gui-icons": "latest",
+        "wanke-gui-icons-react": "latest",
+        "wanke-gui-icons-svg": "latest",
+        "wanke-icon": "latest",
+        "wanke-picker": "latest",
+        "wanke-scripts": "latest",
+        "wanke-tools": "latest",
+        "wankel": "latest"
+    }
+}

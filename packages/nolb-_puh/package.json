@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_puh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@puhaha/upload-oss": "latest",
+        "@puhaha/vite-plugin-upload-oss": "latest",
+        "@puhui/autodll-webpack-plugin": "latest",
+        "@puhui/default-gateway": "latest",
+        "@puhui/virtualized-table": "latest"
+    }
+}

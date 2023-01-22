@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-buu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "buu": "latest",
+        "buu-cli": "latest",
+        "buui": "latest",
+        "buuing": "latest",
+        "buuk": "latest",
+        "buuoltwo-weather": "latest",
+        "buuoltwo-weather2": "latest",
+        "buuoltwo-weather2-cli": "latest",
+        "buurman-utils": "latest",
+        "buuttonf": "latest",
+        "buuus": "latest"
+    }
+}

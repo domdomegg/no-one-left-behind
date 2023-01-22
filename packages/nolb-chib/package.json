@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-chib",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chib-pac": "latest",
+        "chibby": "latest",
+        "chibi": "latest",
+        "chibi-router": "latest",
+        "chibicss": "latest",
+        "chibiengine": "latest",
+        "chibijs": "latest",
+        "chibios": "latest",
+        "chibiprint": "latest",
+        "chibitronics-ltc-modulate": "latest"
+    }
+}

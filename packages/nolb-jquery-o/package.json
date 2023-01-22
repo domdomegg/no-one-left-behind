@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-jquery-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jquery-oauth": "latest",
+        "jquery-oauth-spiria": "latest",
+        "jquery-observe": "latest",
+        "jquery-oembed-all": "latest",
+        "jquery-offcanvas": "latest",
+        "jquery-oimage": "latest",
+        "jquery-on": "latest",
+        "jquery-on-infinite-scroll": "latest",
+        "jquery-on-screen": "latest",
+        "jquery-on-scrolled-to": "latest",
+        "jquery-once": "latest",
+        "jquery-onetap": "latest",
+        "jquery-onexcept": "latest",
+        "jquery-only-numbers": "latest",
+        "jquery-onmutate": "latest",
+        "jquery-ooyala": "latest",
+        "jquery-operator": "latest",
+        "jquery-osdi": "latest",
+        "jquery-outside-events": "latest",
+        "jquery-overflowandroid": "latest",
+        "jquery-overlay": "latest"
+    }
+}

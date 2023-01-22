@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-clir",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clir": "latest",
+        "clir-simple-v2": "latest",
+        "clirdle": "latest",
+        "clirenderer": "latest",
+        "clirest.js": "latest",
+        "clirio": "latest"
+    }
+}

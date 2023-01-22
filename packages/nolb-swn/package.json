@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-swn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "swn": "latest",
+        "swn-logger": "latest",
+        "swn-rate-limiter": "latest",
+        "swnat-mandrill": "latest",
+        "swnb-webpack-learning-plugin": "latest",
+        "swno": "latest"
+    }
+}

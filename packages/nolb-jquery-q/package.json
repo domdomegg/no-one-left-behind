@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-jquery-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jQuery-QueryBuilder": "latest",
+        "jquery-q-adapter": "latest",
+        "jquery-qbit": "latest",
+        "jquery-qrcode": "latest",
+        "jquery-qrcode2": "latest",
+        "jquery-qubit": "latest",
+        "jquery-query-object": "latest",
+        "jquery-querybuilder": "latest",
+        "jquery-querybuilder-xpath-support": "latest",
+        "jquery-querystring": "latest",
+        "jquery-question": "latest",
+        "jquery-quicksand": "latest",
+        "jquery-quiz": "latest"
+    }
+}

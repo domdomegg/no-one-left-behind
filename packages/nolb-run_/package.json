@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-run_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "run.env": "latest",
+        "run.js": "latest",
+        "run.sitespeed.io-worker": "latest",
+        "run.yml": "latest",
+        "run_bakclass_new": "latest",
+        "run_curl": "latest",
+        "run_func_serve": "latest",
+        "run_me": "latest",
+        "run_solidity": "latest",
+        "run_tree": "latest"
+    }
+}

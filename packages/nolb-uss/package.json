@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-uss",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "uss": "latest",
+        "uss-demo": "latest",
+        "uss-demo1": "latest",
+        "uss-js-sdk": "latest",
+        "uss-kit-digital-react": "latest",
+        "ussasasa": "latest",
+        "ussd": "latest",
+        "ussd-at": "latest",
+        "ussd-builder": "latest",
+        "ussd-menu-builder": "latest",
+        "ussd-pdu-text-converter": "latest",
+        "ussd-router": "latest",
+        "ussd_dispatcher": "latest",
+        "ussh": "latest",
+        "usskinsfreeamong": "latest",
+        "ussr": "latest",
+        "ussrjs": "latest",
+        "usst-lerna": "latest",
+        "usst-lerna2": "latest",
+        "usstates": "latest"
+    }
+}

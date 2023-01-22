@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_lue",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@luebelein/react-native-avacado": "latest",
+        "@luehrsenheinrich/boilerplate-standards": "latest",
+        "@luehrsenheinrich/postcss-wp-global-styles": "latest",
+        "@luewell/expose": "latest",
+        "@luewell/expose-services": "latest",
+        "@luewell/prettier-plugin-tailwindcss": "latest",
+        "@luezu/vue-ctk-date-time-picker": "latest"
+    }
+}

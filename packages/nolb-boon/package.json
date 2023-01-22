@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-boon",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "boon": "latest",
+        "boon-config": "latest",
+        "boon-js": "latest",
+        "boon-react-native-mapbox-gl": "latest",
+        "boone-cli": "latest",
+        "boone-module": "latest",
+        "boone-test-component": "latest",
+        "boone8": "latest",
+        "boonhock-frame-print": "latest",
+        "boonkar": "latest",
+        "boonkov": "latest",
+        "boonticketing-shared": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_voa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@voage/command": "latest",
+        "@voage/core": "latest",
+        "@voage/create": "latest",
+        "@voage/exec": "latest",
+        "@voage/format-path": "latest",
+        "@voage/get-npm-info": "latest",
+        "@voage/log": "latest",
+        "@voage/package": "latest",
+        "@voage/utils": "latest",
+        "@voapl/ckeditor": "latest",
+        "@voaple/api-common": "latest",
+        "@voaple/common": "latest",
+        "@voaple/lnp-common": "latest",
+        "@voaple/one-common": "latest"
+    }
+}

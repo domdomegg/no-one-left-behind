@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-com_7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "com.7quark.unity-atoms-base-atoms": "latest",
+        "com.7quark.unity-atoms-core": "latest",
+        "com.7quark.unity-atoms-fsm": "latest",
+        "com.7quark.unity-atoms-input-system": "latest",
+        "com.7quark.unity-atoms-mobile": "latest",
+        "com.7quark.unity-atoms-mono-hooks": "latest",
+        "com.7quark.unity-atoms-scene-mgmt": "latest",
+        "com.7quark.unity-atoms-tags": "latest",
+        "com.7quark.unity-atoms-ui": "latest"
+    }
+}

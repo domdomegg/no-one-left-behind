@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-it_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "it.china-zly": "latest",
+        "it.dcm.requestengine": "latest",
+        "it.giuseppe-placanica.volume-listener": "latest",
+        "it.icc": "latest",
+        "it.js": "latest",
+        "it.marbola.cordova.auth.fingerprint": "latest",
+        "it.pinf.com.html5boilerplate": "latest",
+        "it.pinf.dev.pptr": "latest",
+        "it.pinf.lib": "latest",
+        "it.pinf.org.browserify": "latest",
+        "it.pinf.org.mochajs": "latest",
+        "it.pinf.org.mozilla.firefox": "latest",
+        "it.pinf.org.mozilla.web-ext": "latest",
+        "it.pinf.org.npmjs": "latest",
+        "it_cli_template_apicloud": "latest",
+        "it_cli_template_pc": "latest",
+        "it_cli_template_vue2": "latest",
+        "it_cli_template_vue3": "latest",
+        "it_date_tools": "latest",
+        "it_is_js": "latest",
+        "it_ma": "latest",
+        "it_step": "latest",
+        "it_tools_bykk": "latest"
+    }
+}

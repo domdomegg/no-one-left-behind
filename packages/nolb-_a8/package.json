@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_a8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@a872112800/hello": "latest",
+        "@a8k/babel-preset": "latest",
+        "@a8k/changelog": "latest",
+        "@a8k/cli-utils": "latest",
+        "@a8k/common": "latest",
+        "@a8k/dev-utils": "latest",
+        "@a8k/html-loader": "latest",
+        "@a8k/nunjucks-loader": "latest",
+        "@a8k/plugin-postcss": "latest",
+        "@a8k/plugin-react": "latest",
+        "@a8k/plugin-react-template": "latest",
+        "@a8k/plugin-sb-react": "latest",
+        "@a8k/plugin-typescript-template": "latest",
+        "@a8k/ssr": "latest",
+        "@a8k/ssr-express-middleware": "latest",
+        "@a8k/ssr-koa-middleware": "latest",
+        "@a8k/ssr-utils": "latest"
+    }
+}

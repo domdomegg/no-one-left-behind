@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-staf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "staf": "latest",
+        "staff": "latest",
+        "staff-app": "latest",
+        "staff-card": "latest",
+        "staff-code": "latest",
+        "staff-code-opentype.js": "latest",
+        "staff-code-text-to-svg": "latest",
+        "staff-kalendar": "latest",
+        "staff-match": "latest",
+        "staff-match-vue-3": "latest",
+        "staff-passport": "latest",
+        "staff-queue-check-dialog-vkm": "latest",
+        "staff-structure-check-dialog-vkm": "latest",
+        "staff-tree-structure-vkm": "latest",
+        "staffcore-web": "latest",
+        "staffelei": "latest",
+        "staffily-lib": "latest",
+        "staffordsmith": "latest",
+        "staffrender": "latest",
+        "staffroller": "latest",
+        "staffsc": "latest",
+        "staffxtreme-types": "latest",
+        "stafly": "latest",
+        "stafo": "latest",
+        "stafo-cli": "latest"
+    }
+}

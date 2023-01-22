@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_itu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@itu-tas/terrasys-shared": "latest",
+        "@itunes-scraper-sdk/mongo-connector": "latest",
+        "@itunes-scraper-sdk/podcast-tools": "latest",
+        "@itunes-scraper-sdk/psql-connector": "latest",
+        "@iturgeon/package-one": "latest",
+        "@iturgeon/package-two": "latest",
+        "@itutoring/itutoring_application_js_api": "latest",
+        "@itutoring/itutoring_styles-css": "latest"
+    }
+}

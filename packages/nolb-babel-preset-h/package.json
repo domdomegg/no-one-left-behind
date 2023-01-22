@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-babel-preset-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-preset-h5": "latest",
+        "babel-preset-habitual": "latest",
+        "babel-preset-haiyan": "latest",
+        "babel-preset-happier-react": "latest",
+        "babel-preset-harumi-engine": "latest",
+        "babel-preset-heisenberg": "latest",
+        "babel-preset-htoooth": "latest",
+        "babel-preset-hyeonu": "latest",
+        "babel-preset-hyperapp": "latest",
+        "babel-preset-hyperdom": "latest"
+    }
+}

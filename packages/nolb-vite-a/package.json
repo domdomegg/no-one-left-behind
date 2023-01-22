@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-vite-a",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vite-acv-cli": "latest",
+        "vite-add-vue-router": "latest",
+        "vite-aei": "latest",
+        "vite-aeolian-admin": "latest",
+        "vite-ali-oss-plugin": "latest",
+        "vite-alias-my-test": "latest",
+        "vite-aliases": "latest",
+        "vite-ant": "latest",
+        "vite-antd-template": "latest",
+        "vite-app-demo": "latest",
+        "vite-app-template": "latest",
+        "vite-app-vue": "latest",
+        "vite-auto-deploy": "latest",
+        "vite-auto-import-resolvers": "latest",
+        "vite-auto-ref": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-nestx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nestx": "latest",
+        "nestx-amqp": "latest",
+        "nestx-auth": "latest",
+        "nestx-base": "latest",
+        "nestx-cms": "latest",
+        "nestx-common": "latest",
+        "nestx-config": "latest",
+        "nestx-npm-example-test": "latest",
+        "nestx-openapi-generator-cli": "latest",
+        "nestx-schematics": "latest",
+        "nestx-vue-examples": "latest",
+        "nestx-vue-scaffold": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-native-pt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-ptr-control": "latest",
+        "react-native-ptr-control-2": "latest",
+        "react-native-ptr-scroll-view": "latest",
+        "react-native-ptrframe": "latest",
+        "react-native-pttrack": "latest",
+        "react-native-ptv-navigator": "latest",
+        "react-native-ptv-sdk": "latest"
+    }
+}

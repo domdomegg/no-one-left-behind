@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-capy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "capy": "latest",
+        "capy-tracker": "latest",
+        "capy-ui": "latest",
+        "capy-wf": "latest",
+        "capybara": "latest",
+        "capybara-react-ui": "latest",
+        "capybara-regex": "latest",
+        "capybara-router": "latest",
+        "capybara-style": "latest"
+    }
+}

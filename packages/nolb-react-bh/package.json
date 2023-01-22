@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-react-bh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-bhoomika-component": "latest",
+        "react-bhy-loading": "latest",
+        "react-bhy-textfield": "latest"
+    }
+}

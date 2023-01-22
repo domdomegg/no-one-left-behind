@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-ax5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ax5core": "latest",
+        "ax5ui-autocomplete": "latest",
+        "ax5ui-binder": "latest",
+        "ax5ui-calendar": "latest",
+        "ax5ui-combobox": "latest",
+        "ax5ui-dialog": "latest",
+        "ax5ui-docker": "latest",
+        "ax5ui-formatter": "latest",
+        "ax5ui-grid": "latest",
+        "ax5ui-kernel": "latest",
+        "ax5ui-layout": "latest",
+        "ax5ui-mask": "latest",
+        "ax5ui-media-viewer": "latest",
+        "ax5ui-menu": "latest",
+        "ax5ui-modal": "latest",
+        "ax5ui-multi-uploader": "latest",
+        "ax5ui-palette": "latest",
+        "ax5ui-picker": "latest",
+        "ax5ui-select": "latest",
+        "ax5ui-toast": "latest",
+        "ax5ui-uploader": "latest"
+    }
+}

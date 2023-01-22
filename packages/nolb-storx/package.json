@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-storx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "storx": "latest",
+        "storx-storage-sdk": "latest",
+        "storxy": "latest",
+        "storxy-validation": "latest",
+        "storxy-validator": "latest"
+    }
+}

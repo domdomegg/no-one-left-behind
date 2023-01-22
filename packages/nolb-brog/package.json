@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-brog",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brog": "latest",
+        "brogaarden-c5-service": "latest",
+        "brogan-ebay": "latest",
+        "brogan-paypal": "latest",
+        "broght-coding-calc": "latest",
+        "broglie": "latest",
+        "brogramify": "latest",
+        "brogrammers": "latest",
+        "brogrammers_cookie": "latest",
+        "brogrammers_logger": "latest",
+        "brogrammers_storage": "latest",
+        "brogrammers_tree": "latest",
+        "brogrammersframework": "latest",
+        "brogrammify": "latest",
+        "brogue": "latest",
+        "brogue-core-grammars": "latest",
+        "brogue-js": "latest",
+        "brogui": "latest"
+    }
+}

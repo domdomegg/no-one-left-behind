@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-ai4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ai4-create-atf-v1": "latest",
+        "ai4bd-angular-ais": "latest",
+        "ai4bd-lib": "latest"
+    }
+}

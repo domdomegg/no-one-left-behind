@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_ney",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@neychang/nftool": "latest",
+        "@neychang/webverse": "latest",
+        "@neyhaz/style": "latest",
+        "@neyhaz/webcomponents": "latest",
+        "@neylion/exceptions": "latest",
+        "@neylion/log": "latest",
+        "@neylion/request-context": "latest",
+        "@neysf/qiyu-web-sdk": "latest"
+    }
+}

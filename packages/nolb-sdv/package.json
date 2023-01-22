@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-sdv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sdv": "latest",
+        "sdv-canvas-project": "latest",
+        "sdv-ng2-generators": "latest",
+        "sdv-ng2-widgets": "latest",
+        "sdv-questionnaire-test-renderer": "latest",
+        "sdva": "latest",
+        "sdvdxl-test": "latest",
+        "sdview": "latest",
+        "sdvsdkvklsdmv": "latest",
+        "sdvsdsfdsdf": "latest",
+        "sdvui": "latest",
+        "sdvx": "latest"
+    }
+}

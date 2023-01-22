@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_scv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@scvl/react-storefront": "latest",
+        "@scvo/json-inc": "latest",
+        "@scvo/router": "latest",
+        "@scvo/router-destination-handlebars": "latest",
+        "@scvo/router-destination-redirect": "latest",
+        "@scvo/router-task-elasticsearch": "latest",
+        "@scvo/router-task-firebase": "latest",
+        "@scvo/router-task-mysql": "latest",
+        "@scvo/router-task-transform": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-bloq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bloq": "latest",
+        "bloq-core-ui": "latest",
+        "bloql": "latest",
+        "bloql-markdown-file-database": "latest",
+        "bloqly": "latest"
+    }
+}

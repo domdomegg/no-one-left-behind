@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-v-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "v-zbcomponents": "latest",
+        "v-zmap": "latest",
+        "v-zoom": "latest",
+        "v-ztap": "latest",
+        "v-ztree": "latest",
+        "v-ztree-m": "latest",
+        "v-zui": "latest",
+        "v-zyz": "latest"
+    }
+}

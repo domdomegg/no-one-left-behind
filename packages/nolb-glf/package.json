@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-glf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "glf-ui": "latest",
+        "glfe": "latest",
+        "glfind": "latest",
+        "glfnpm": "latest",
+        "glfw": "latest",
+        "glfw-3.2.1-win64": "latest",
+        "glfw-n-api": "latest",
+        "glfw-raub": "latest",
+        "glfw.c": "latest",
+        "glfw3": "latest",
+        "glfw4bun": "latest",
+        "glfwjs": "latest",
+        "glfx": "latest",
+        "glfx-es6": "latest",
+        "glfx.js__temp": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-snd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "snd": "latest",
+        "snd-ema": "latest",
+        "snd-lib": "latest",
+        "snd-react-slider": "latest",
+        "snd-wascally": "latest",
+        "sndapi-js": "latest",
+        "sndb": "latest",
+        "sndcld-dwldr": "latest",
+        "sndemo": "latest",
+        "sndicate-js": "latest",
+        "sndpeek": "latest",
+        "sndr": "latest",
+        "sndrew-node-editor": "latest",
+        "snduo-ui": "latest",
+        "sndur": "latest"
+    }
+}

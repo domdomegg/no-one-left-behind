@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-meta1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "meta1-vault-js": "latest",
+        "meta1-vision-dex": "latest",
+        "meta1-vision-js": "latest",
+        "meta1-vision-ws": "latest",
+        "meta1dex": "latest",
+        "meta1dex-testnet": "latest",
+        "meta1js": "latest",
+        "meta1js-testnet": "latest",
+        "meta1js-ws": "latest",
+        "meta1js-ws-testnet": "latest"
+    }
+}

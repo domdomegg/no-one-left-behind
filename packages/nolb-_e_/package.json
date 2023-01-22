@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_e_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@e.aizprua/lotide": "latest",
+        "@e.fe/cz-lerna-changelog": "latest",
+        "@e.fe/emitter": "latest",
+        "@e.fe/utils": "latest",
+        "@e.markantoni/test-library": "latest",
+        "@e.poboykin/alfacrm-mf-cli": "latest",
+        "@e.react/components": "latest",
+        "@e.react/hooks": "latest",
+        "@e.rochminski/widget": "latest",
+        "@e.s/angular-essentials": "latest",
+        "@e.s/angular-logging-view": "latest",
+        "@e.s/angular-signal-r-service": "latest",
+        "@e_commerce_micro/common": "latest",
+        "@e_ops/eslint-config-lyra": "latest"
+    }
+}

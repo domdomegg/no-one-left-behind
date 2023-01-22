@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-monge",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "monge": "latest",
+        "mongease": "latest",
+        "mongease-graphql": "latest",
+        "mongease-graphql-builder": "latest",
+        "mongeese": "latest",
+        "mongeese-array": "latest",
+        "mongel": "latest",
+        "mongeo": "latest",
+        "monger": "latest",
+        "mongeral": "latest",
+        "mongeral-componentes-ui": "latest",
+        "mongeral-widget-authenticator": "latest",
+        "mongerjs": "latest",
+        "mongerz-react-native-starter": "latest",
+        "mongest": "latest",
+        "mongest-nestjs-service": "latest",
+        "mongest-projection": "latest",
+        "monget": "latest",
+        "mongez": "latest"
+    }
+}

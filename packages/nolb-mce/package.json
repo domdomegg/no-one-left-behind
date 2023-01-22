@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-mce",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mce-table": "latest",
+        "mce123-test": "latest",
+        "mceliece": "latest",
+        "mceliece-js": "latest",
+        "mceliece-legacy": "latest",
+        "mceliece-nist": "latest",
+        "mcelroyc-frame-print": "latest",
+        "mcemoji": "latest",
+        "mcerezo-awesome-package": "latest",
+        "mcerqs-my-testmodule": "latest",
+        "mcexplore": "latest"
+    }
+}

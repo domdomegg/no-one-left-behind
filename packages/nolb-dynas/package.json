@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-dynas",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dynasaur": "latest",
+        "dynaset-util-modulo": "latest",
+        "dynashow": "latest",
+        "dynasite-configuration": "latest",
+        "dynasite-express-sessionstore": "latest",
+        "dynasite-nodecontent": "latest",
+        "dynasite-page": "latest",
+        "dynasite-pagetemplate": "latest",
+        "dynasite-siteclass": "latest",
+        "dynasite-user": "latest",
+        "dynasite-utilities": "latest",
+        "dynasoft-react-component-library": "latest",
+        "dynason": "latest",
+        "dynassets": "latest",
+        "dynastar": "latest",
+        "dynastia": "latest",
+        "dynastic-provider": "latest",
+        "dynasty": "latest",
+        "dynasty-dl": "latest",
+        "dynasty-ngpvan": "latest",
+        "dynasty-salary-manager": "latest",
+        "dynasynthetics": "latest",
+        "dynasyze": "latest"
+    }
+}

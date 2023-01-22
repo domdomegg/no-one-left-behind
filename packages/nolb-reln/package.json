@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-reln",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "relno": "latest",
+        "relno-cli": "latest",
+        "relno-plugin-contributor": "latest",
+        "relnote": "latest"
+    }
+}

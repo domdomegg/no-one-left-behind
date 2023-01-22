@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-gitbook-plugin-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gitbook-plugin-wabtheme": "latest",
+        "gitbook-plugin-watch": "latest",
+        "gitbook-plugin-wavedrom": "latest",
+        "gitbook-plugin-web-header": "latest",
+        "gitbook-plugin-webengage": "latest",
+        "gitbook-plugin-webpd": "latest",
+        "gitbook-plugin-webpd_porres_examples": "latest",
+        "gitbook-plugin-websequencediagrams": "latest",
+        "gitbook-plugin-websequencediagrams-generator": "latest",
+        "gitbook-plugin-webshare": "latest",
+        "gitbook-plugin-wide": "latest",
+        "gitbook-plugin-wide-page": "latest",
+        "gitbook-plugin-widget": "latest",
+        "gitbook-plugin-wiidoc": "latest",
+        "gitbook-plugin-wiki-link": "latest",
+        "gitbook-plugin-wiki-toc": "latest",
+        "gitbook-plugin-wikify": "latest",
+        "gitbook-plugin-wisdom": "latest",
+        "gitbook-plugin-wjb-theme": "latest",
+        "gitbook-plugin-wjb-theme-default": "latest",
+        "gitbook-plugin-woopra": "latest",
+        "gitbook-plugin-word-count": "latest",
+        "gitbook-plugin-word-count-goal": "latest",
+        "gitbook-plugin-wordcount": "latest",
+        "gitbook-plugin-workbox": "latest",
+        "gitbook-plugin-worktile": "latest",
+        "gitbook-plugin-wrapclass": "latest",
+        "gitbook-plugin-wrapper": "latest"
+    }
+}

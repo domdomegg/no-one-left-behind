@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-supc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "supchen20190926": "latest",
+        "supchik": "latest",
+        "supcom-keywords": "latest",
+        "supcom-web": "latest",
+        "supcommunity-api": "latest",
+        "supcon-braft-editor": "latest",
+        "supcon-braft-finder": "latest",
+        "supcon-d3traffic": "latest",
+        "supcon-editor": "latest",
+        "supcon-editor-origin": "latest",
+        "supcon-fast2render": "latest",
+        "supcon-lib": "latest",
+        "supcon-npm-test": "latest",
+        "supcon-ui": "latest"
+    }
+}

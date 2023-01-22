@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-tinyn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tinynative": "latest",
+        "tinynav": "latest",
+        "tinynote": "latest",
+        "tinynova-zenscroll": "latest",
+        "tinynpm": "latest",
+        "tinynpm1": "latest"
+    }
+}

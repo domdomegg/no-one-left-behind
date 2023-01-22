@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_rij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@rijalmohammad/webcrypto-liner": "latest",
+        "@rijine/ngx-highcharts": "latest",
+        "@rijk/acronyms": "latest",
+        "@rijk/conjunctions": "latest",
+        "@rijk/gravatar": "latest",
+        "@rijk/jwt-payload": "latest",
+        "@rijk/prepositions": "latest",
+        "@rijk/special-case": "latest",
+        "@rijksuniversiteit-groningen/rug-material": "latest",
+        "@rijksuniversiteit-groningen/web-base": "latest",
+        "@rijudev/parseus": "latest",
+        "@rijudev/react-scripts": "latest",
+        "@rijx/ajv": "latest",
+        "@rijx/xmpp": "latest"
+    }
+}

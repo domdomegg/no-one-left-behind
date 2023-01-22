@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-modulef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "modulefiguresstep": "latest",
+        "moduleflow-react-scripts": "latest",
+        "modulefolder": "latest",
+        "moduleforemaillab6": "latest",
+        "modulefourteenskillboxhomework": "latest",
+        "modulefrontend": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-formd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "FormData": "latest",
+        "formd": "latest",
+        "formd-loader": "latest",
+        "formd-test": "latest",
+        "formdat-js": "latest",
+        "formdata": "latest",
+        "formdata-coder": "latest",
+        "formdata-convert": "latest",
+        "formdata-emulate": "latest",
+        "formdata-encode": "latest",
+        "formdata-helper": "latest",
+        "formdata-imagepost": "latest",
+        "formdata-json": "latest",
+        "formdata-jsonschema": "latest",
+        "formdata-node": "latest",
+        "formdata-parse": "latest",
+        "formdata-polyfill": "latest",
+        "formdata-to-object": "latest",
+        "formdataconverter": "latest",
+        "formdatatojson": "latest",
+        "formdate-nb": "latest",
+        "formdation": "latest",
+        "formdb": "latest",
+        "formdef-exporter": "latest",
+        "formdefutils": "latest",
+        "formdesign11": "latest",
+        "formdl": "latest",
+        "formdump": "latest"
+    }
+}

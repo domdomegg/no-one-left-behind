@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-fo-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fo-cli": "latest",
+        "fo-cli-tool": "latest",
+        "fo-custom": "latest",
+        "fo-gridstack-organizer": "latest",
+        "fo-ig-stories": "latest",
+        "fo-library-manager": "latest",
+        "fo-markdown-note": "latest",
+        "fo-mason": "latest",
+        "fo-matters": "latest",
+        "fo-openweathermap": "latest",
+        "fo-pack": "latest",
+        "fo-popover": "latest",
+        "fo-sticky-note": "latest",
+        "fo-test": "latest",
+        "fo-tooltip": "latest",
+        "fo-ui": "latest",
+        "fo-utils": "latest",
+        "fo-vue-ui": "latest"
+    }
+}

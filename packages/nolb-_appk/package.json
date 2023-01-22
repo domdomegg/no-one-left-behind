@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_appk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@appkit/cli": "latest",
+        "@appkit/extension": "latest",
+        "@appkitio/appkit-db-builder": "latest",
+        "@appkitjs.com/core": "latest",
+        "@appkitjs.com/simulator": "latest",
+        "@appkitjs.com/types": "latest",
+        "@appknit-project/appknit-platform-sdk-v2": "latest",
+        "@appknox/ember-cli-intl-tel-input": "latest",
+        "@appknox/ember-pace": "latest",
+        "@appku/fairu": "latest",
+        "@appku/jsdoc-template": "latest",
+        "@appku/secure": "latest",
+        "@appku/stashku": "latest",
+        "@appku/stashku-log": "latest",
+        "@appku/stashku-rest": "latest",
+        "@appku/stashku-sql": "latest"
+    }
+}

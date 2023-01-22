@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-easy2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "easy2-deploy": "latest",
+        "easy2code": "latest",
+        "easy2log": "latest",
+        "easy2show-time2enter": "latest",
+        "easy2swiper": "latest",
+        "easy2use": "latest",
+        "easy2wsdl": "latest"
+    }
+}

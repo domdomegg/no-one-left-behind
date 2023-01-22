@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-hyq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hyq": "latest",
+        "hyq-90": "latest",
+        "hyq-helper": "latest",
+        "hyq-lib": "latest",
+        "hyq-mkdir": "latest",
+        "hyq_tools": "latest",
+        "hyqvue1": "latest"
+    }
+}

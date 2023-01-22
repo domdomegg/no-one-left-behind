@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_akw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@akwaba/dom": "latest",
+        "@akwaba/eslint-config": "latest",
+        "@akwaba/events": "latest",
+        "@akwaba/graphene": "latest",
+        "@akwaba/html": "latest",
+        "@akwaba/object-extensions": "latest",
+        "@akwok/design-system": "latest"
+    }
+}

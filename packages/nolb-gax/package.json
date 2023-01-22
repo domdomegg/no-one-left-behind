@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-gax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gax": "latest",
+        "gax-google-devtools-cloudtrace-v1": "latest",
+        "gax-google-logging-v2": "latest",
+        "gax-google-pubsub-v1": "latest",
+        "gax-hello": "latest",
+        "gax_demo_12": "latest",
+        "gax_demo_20": "latest",
+        "gax_test_a": "latest",
+        "gax_test_b": "latest",
+        "gax_test_c": "latest",
+        "gaxios": "latest",
+        "gaxprint": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-au_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "au.com.bluedot.minimallocationapp": "latest",
+        "au.com.ourvideo.common": "latest",
+        "au_claim": "latest",
+        "au_wechat4u": "latest"
+    }
+}

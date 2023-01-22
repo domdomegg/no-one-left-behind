@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-emoc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emochan-browser-shot": "latest",
+        "emochu.io": "latest",
+        "emock": "latest",
+        "emock-service": "latest",
+        "emocks": "latest",
+        "emocomi": "latest",
+        "emocore": "latest",
+        "emocrypt": "latest"
+    }
+}

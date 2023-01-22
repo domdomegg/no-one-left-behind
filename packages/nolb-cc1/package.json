@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-cc1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cc1": "latest",
+        "cc1-cli": "latest",
+        "cc123ab": "latest",
+        "cc19-denier": "latest",
+        "cc19-denier-public": "latest",
+        "cc1993-cli": "latest"
+    }
+}

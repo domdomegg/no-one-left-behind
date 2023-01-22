@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_wib",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wibbly-storm/commons": "latest",
+        "@wibbly-storm/components": "latest",
+        "@wibblymat/maths": "latest",
+        "@wibblymat/webgl": "latest",
+        "@wiberg/fluentui-builder": "latest",
+        "@wiberg/formbuilder": "latest",
+        "@wibetter/amis-widget-cli": "latest",
+        "@wibetter/gulp-project": "latest",
+        "@wibetter/json-editor": "latest",
+        "@wibetter/json-schema-editor": "latest",
+        "@wibetter/json-utils": "latest",
+        "@wibetter/react-widget-render": "latest",
+        "@wibetter/ui-schema-editor": "latest",
+        "@wibetter/widget-schema-editor": "latest",
+        "@wibetter/word2html": "latest",
+        "@wibily/lernacommon": "latest",
+        "@wibmw/custom-form": "latest",
+        "@wibmw/custom-modal": "latest",
+        "@wibmw/custom-table": "latest",
+        "@wiboo/ezishop": "latest",
+        "@wiboo/ezishop-api": "latest",
+        "@wibus/bump-monorepo": "latest",
+        "@wiby-test/parent": "latest"
+    }
+}

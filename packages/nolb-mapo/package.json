@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-mapo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mapo": "latest",
+        "mapo.js": "latest",
+        "mapob": "latest",
+        "mapobj": "latest",
+        "mapobject": "latest",
+        "mapobjs": "latest",
+        "mapofenv": "latest",
+        "mapomodule": "latest",
+        "mapoofano": "latest",
+        "mapout": "latest",
+        "mapover": "latest"
+    }
+}

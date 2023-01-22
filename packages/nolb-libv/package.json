@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-libv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "libvalence": "latest",
+        "libvantage": "latest",
+        "libvera": "latest",
+        "libverify-rn": "latest",
+        "libves": "latest",
+        "libvex": "latest",
+        "libvex-keyring": "latest",
+        "libvf": "latest",
+        "libvia": "latest",
+        "libvim": "latest",
+        "libvips": "latest",
+        "libvirt": "latest",
+        "libvirt-node": "latest",
+        "libvis": "latest",
+        "libvis-react-timelog": "latest",
+        "libvis-timelog": "latest",
+        "libvlc": "latest",
+        "libvms": "latest",
+        "libvorbis.js": "latest",
+        "libvpx": "latest",
+        "libvxe_js": "latest"
+    }
+}

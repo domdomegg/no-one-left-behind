@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-ws",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-ws": "latest",
+        "react-ws-canvas": "latest",
+        "react-ws-card": "latest",
+        "react-wseditor": "latest",
+        "react-wsm-com": "latest",
+        "react-wsui": "latest",
+        "react-wsx": "latest"
+    }
+}

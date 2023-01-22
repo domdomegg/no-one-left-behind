@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_grapl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@grapl/pulumi-buildkite": "latest",
+        "@grapl/pulumi-hcp": "latest"
+    }
+}

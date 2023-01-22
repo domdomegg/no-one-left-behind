@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-datax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "datax-cli-service": "latest",
+        "datax-common": "latest",
+        "datax-home": "latest",
+        "datax-jobs": "latest",
+        "datax-metrics": "latest",
+        "datax-pipeline": "latest",
+        "datax-query": "latest",
+        "dataxmlify": "latest",
+        "dataxtrakt": "latest"
+    }
+}

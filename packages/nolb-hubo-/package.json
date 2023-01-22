@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-hubo-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hubo-ach-readonly": "latest",
+        "hubo-payment": "latest",
+        "hubo-payment-component": "latest",
+        "hubo-test": "latest"
+    }
+}

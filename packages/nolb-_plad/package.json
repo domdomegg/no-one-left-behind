@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_plad",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pladaria/brandfactory": "latest",
+        "@pladaria/flowgen": "latest",
+        "@pladaria/likes-poc": "latest",
+        "@pladaria/poc": "latest",
+        "@pladaria/ui": "latest",
+        "@pladmin/common": "latest"
+    }
+}

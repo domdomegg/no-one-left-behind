@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_nod_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nod/avatar.js-seed": "latest",
+        "@nod/babel-preset-nod": "latest",
+        "@nod/base": "latest",
+        "@nod/configuration": "latest",
+        "@nod/console": "latest",
+        "@nod/debug-with-package-name": "latest",
+        "@nod/empty": "latest",
+        "@nod/environment": "latest",
+        "@nod/eslint-config-commonjs": "latest",
+        "@nod/eslint-config-legacy": "latest",
+        "@nod/eslint-config-nod": "latest",
+        "@nod/eslint-plugin-nod": "latest",
+        "@nod/link-local-packages": "latest",
+        "@nod/scripts": "latest",
+        "@nod/seed": "latest",
+        "@nod/swiss-kase": "latest",
+        "@nod/util": "latest",
+        "@nod/webpack-config-presets": "latest",
+        "@nod/webpack-devops-config": "latest"
+    }
+}

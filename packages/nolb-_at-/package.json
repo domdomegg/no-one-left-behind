@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_at-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@at-cli-dev/core": "latest",
+        "@at-cli-dev/utils": "latest",
+        "@at-cli/core": "latest",
+        "@at-cli/utils": "latest",
+        "@at-ishikawa/googleapis-protobuf": "latest",
+        "@at-rules/breakpoints": "latest",
+        "@at-rules/grid": "latest",
+        "@at-scale/mock-react-components": "latest",
+        "@at-scale/mock-react-redux-connected-components": "latest",
+        "@at-tickets/common": "latest"
+    }
+}

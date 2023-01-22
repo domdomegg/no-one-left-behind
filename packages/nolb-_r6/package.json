@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_r6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@r6bros/r6-sdk-js": "latest",
+        "@r6nted/readme": "latest",
+        "@r6s.media/r6.api": "latest",
+        "@r6sbot/mongoose": "latest",
+        "@r6stats/node": "latest",
+        "@r6stats/valkord": "latest",
+        "@r6stats/valkord-r6stats": "latest"
+    }
+}

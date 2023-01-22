@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-react-gf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-gf-icons": "latest",
+        "react-gfl": "latest",
+        "react-gforms": "latest",
+        "react-gfx-renderer": "latest"
+    }
+}

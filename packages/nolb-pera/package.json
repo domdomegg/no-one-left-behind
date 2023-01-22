@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-pera",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pera": "latest",
+        "pera-swarm": "latest",
+        "pera-trta": "latest",
+        "pera-trta-cli": "latest",
+        "perabo": "latest",
+        "peracli": "latest",
+        "peracli2": "latest",
+        "peraichi": "latest",
+        "perak-artex": "latest",
+        "perales": "latest",
+        "peraltafederico-test-1": "latest",
+        "perambulate": "latest",
+        "peran": "latest",
+        "peranta": "latest",
+        "peranta-electron": "latest",
+        "peranta-worker": "latest"
+    }
+}

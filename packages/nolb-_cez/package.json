@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_cez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cezaraugusto/venus": "latest",
+        "@cezarcarvalhaes/gatsby-source-google-sheets": "latest",
+        "@cezaryrk/minimatch": "latest",
+        "@cezaryrk/video-manage-tools": "latest",
+        "@cezembre/admin": "latest",
+        "@cezembre/forms": "latest",
+        "@cezembre/fronts": "latest",
+        "@cezembre/react-native-epson-epos": "latest",
+        "@cezembre/react-native-google-maps-services": "latest",
+        "@cezembre/ui": "latest"
+    }
+}

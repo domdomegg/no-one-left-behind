@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-they",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "they": "latest",
+        "they-devour-their-reason-and-scarce-think": "latest",
+        "they-see-me-scrolling": "latest",
+        "theyahya": "latest",
+        "theychat": "latest",
+        "theyoxy-prettier-config": "latest",
+        "theyoxy-stylelint-configuration": "latest",
+        "theyworkforyou-api": "latest"
+    }
+}

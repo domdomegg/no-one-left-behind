@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_codp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@codpayment/aws-lambda-helper": "latest",
+        "@codpoe/eslint-config": "latest",
+        "@codpoe/iconfont": "latest",
+        "@codpoe/react-markdown-loader": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-xiak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "xiake": "latest",
+        "xiake-cli": "latest",
+        "xiakebot": "latest",
+        "xiaketest": "latest"
+    }
+}

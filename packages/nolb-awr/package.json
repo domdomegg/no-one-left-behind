@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-awr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "awr-util": "latest",
+        "awral": "latest",
+        "awrap": "latest",
+        "awrenn": "latest",
+        "awrepl": "latest",
+        "awrp50": "latest",
+        "awrs-shared": "latest",
+        "awrtc": "latest",
+        "awrtc-signalling": "latest",
+        "awrtc-signalling-angularfire": "latest",
+        "awrtc-signalling-websocket": "latest",
+        "awrtc_browser": "latest",
+        "awry": "latest",
+        "awry-utilities": "latest",
+        "awry-utilities-2": "latest",
+        "awry-utilities-3": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-geo_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "geo.crypto": "latest",
+        "geo.dll": "latest",
+        "geo.easykit": "latest",
+        "geo.gouv.fr": "latest",
+        "geo.ipfs": "latest",
+        "geo.ipfs-ts": "latest",
+        "geo.ipfsbox": "latest",
+        "geo.mess": "latest",
+        "geo.min.js": "latest",
+        "geo.mq": "latest",
+        "geo.mqbox": "latest",
+        "geo.print": "latest",
+        "geo.request": "latest",
+        "geo.secretbox": "latest",
+        "geo.serverbox": "latest",
+        "geo.servers": "latest",
+        "geo.storage": "latest",
+        "geo.what3words": "latest",
+        "geo.wxsdk": "latest",
+        "geo_decoder": "latest",
+        "geo_loaction_time": "latest",
+        "geo_node_test": "latest",
+        "geo_wrapper": "latest"
+    }
+}

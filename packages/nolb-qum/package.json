@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-qum",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qum": "latest",
+        "qumblr.js": "latest",
+        "qume-api": "latest",
+        "qumeta.css": "latest",
+        "qumi": "latest",
+        "quml-library": "latest",
+        "quml-player": "latest",
+        "qumoshi-vol1": "latest",
+        "qumoshi-vol2": "latest",
+        "qumu": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-hae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hae": "latest",
+        "hae-meta-v-rules": "latest",
+        "hae-mobile": "latest",
+        "hae-mobile-ui": "latest",
+        "hae-uitest": "latest",
+        "haebink-npmtest": "latest",
+        "haechi-rush": "latest",
+        "haegsim-helper": "latest",
+        "haeley-auxiliaries": "latest",
+        "haeley-colors": "latest",
+        "haeley-math": "latest",
+        "haeley-navigation": "latest",
+        "haesb-uppaal": "latest",
+        "haetae": "latest",
+        "haex_dummy_module": "latest",
+        "haezl-healthcheck": "latest"
+    }
+}

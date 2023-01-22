@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-msv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "msv": "latest",
+        "msv-bridge-kafka": "latest",
+        "msv-communicator": "latest",
+        "msv-config": "latest",
+        "msv-kafka": "latest",
+        "msv-logger": "latest",
+        "msv-ui-react": "latest",
+        "msvaljek-github-test": "latest",
+        "msvc-market-data": "latest",
+        "msvcrt-rand": "latest",
+        "msvgc": "latest",
+        "msvjoiner.js": "latest",
+        "msvmt": "latest",
+        "msvpackage": "latest",
+        "msvscode.cpptools.miengine": "latest",
+        "msvscode.cpptools.monodeps": "latest",
+        "msvt": "latest"
+    }
+}

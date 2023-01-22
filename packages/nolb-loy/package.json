@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-loy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "loy": "latest",
+        "loy-components": "latest",
+        "loyagram": "latest",
+        "loyal": "latest",
+        "loyal-design-system": "latest",
+        "loyality_typescript_lib_test_package": "latest",
+        "loyallock": "latest",
+        "loyalme": "latest",
+        "loyalory-uikit": "latest",
+        "loyalreactdatepicker": "latest",
+        "loyalty-app-rules-api": "latest",
+        "loyalty-events-api": "latest",
+        "loyalty-instance-rules-api": "latest",
+        "loyalty-rules-api": "latest",
+        "loyalty-server-api": "latest",
+        "loyalty_program_api": "latest",
+        "loyaltyschema-npm-example": "latest",
+        "loyash": "latest",
+        "loycoder": "latest",
+        "loyi-calendar": "latest",
+        "loyi-graph": "latest",
+        "loyihafb": "latest",
+        "loyo-fonts": "latest",
+        "loystore": "latest",
+        "loyverse-api-wrapper": "latest"
+    }
+}

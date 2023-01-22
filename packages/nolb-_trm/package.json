@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_trm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trm-test-org/doctor": "latest",
+        "@trm-test-org/hello": "latest",
+        "@trm-test-org/patient": "latest",
+        "@trm-test-org/scheduler": "latest",
+        "@trmaphi/aws-elasticsearch-service-client": "latest",
+        "@trmaphi/nestjs-typeorm-paginate": "latest",
+        "@trmaphi/quorum-genesis-tool": "latest",
+        "@trmaphi/webdav-server": "latest",
+        "@trmediaab/tr-node-sass-chokidar": "latest"
+    }
+}

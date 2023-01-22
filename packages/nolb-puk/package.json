@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-puk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "puk": "latest",
+        "puk-rating": "latest",
+        "puke": "latest",
+        "pukepai-meihuayi": "latest",
+        "puki2md": "latest",
+        "pukiwiki-client": "latest",
+        "pukki-modal": "latest",
+        "pukohttp": "latest",
+        "pukoworld_pures": "latest",
+        "pukoworld_putype": "latest",
+        "pukutamwanza": "latest"
+    }
+}

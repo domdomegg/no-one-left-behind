@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_edj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@edjboston/eslint-rules": "latest",
+        "@edjdc/j-table": "latest",
+        "@edjdc/j-table-row": "latest",
+        "@edjopato/datastore": "latest",
+        "@edjopato/telegraf-i18n": "latest",
+        "@edjowa/java-tron-provider": "latest",
+        "@edjowa/tofuswap-sdk": "latest",
+        "@edjowa/tofuswap-v2-core": "latest",
+        "@edjowa/tofuswap-v2-periphery": "latest",
+        "@edjowa/tronlink-provider": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-svgc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svgc": "latest",
+        "svgc-loader": "latest",
+        "svgcamera": "latest",
+        "svgcanvas": "latest",
+        "svgchrt": "latest",
+        "svgchrtjs": "latest",
+        "svgcleaner": "latest",
+        "svgcleaner-node": "latest",
+        "svgcleaner-static": "latest",
+        "svgcode": "latest",
+        "svgcom-zhzhy": "latest",
+        "svgcombiner": "latest",
+        "svgcomp": "latest",
+        "svgcss": "latest"
+    }
+}

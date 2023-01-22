@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-laj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "laj": "latest",
+        "lajax": "latest",
+        "lajg-test-01": "latest",
+        "laji": "latest",
+        "laji-add": "latest",
+        "laji-form": "latest",
+        "laji-form-builder": "latest",
+        "laji-map": "latest",
+        "laji-ui": "latest",
+        "laji2": "latest",
+        "lajijsq": "latest",
+        "lajisi": "latest",
+        "lajsf-front-cli": "latest",
+        "lajure": "latest"
+    }
+}

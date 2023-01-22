@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-rollup-s",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rollup-s3-plugin": "latest",
+        "rollup-sample": "latest",
+        "rollup-sdk": "latest",
+        "rollup-sdk-cli": "latest",
+        "rollup-simple-configer": "latest",
+        "rollup-size": "latest",
+        "rollup-slds-plugin": "latest",
+        "rollup-snap": "latest",
+        "rollup-sourcemap-path-transform": "latest",
+        "rollup-split-index": "latest",
+        "rollup-spritesmith": "latest",
+        "rollup-standalone": "latest",
+        "rollup-start": "latest",
+        "rollup-start-kit": "latest",
+        "rollup-starter": "latest",
+        "rollup-starter-app": "latest",
+        "rollup-starter-lib": "latest",
+        "rollup-starter-lib-experiarmus": "latest",
+        "rollup-starter-project": "latest",
+        "rollup-storybook-tailwind-test": "latest",
+        "rollup-stream": "latest",
+        "rollup-stream-gulp": "latest",
+        "rollup-stream2": "latest",
+        "rollup-string": "latest",
+        "rollup-study": "latest",
+        "rollup-styled-jsx": "latest",
+        "rollup-styled-jsx-playground": "latest",
+        "rollup-svg-sprite-loader": "latest"
+    }
+}

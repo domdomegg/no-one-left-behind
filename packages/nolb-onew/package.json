@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-onew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "onew": "latest",
+        "onewallet-client-node": "latest",
+        "onewan": "latest",
+        "onewangwang": "latest",
+        "oneway": "latest",
+        "onewaydata": "latest",
+        "onewaysms": "latest",
+        "oneweb-ui": "latest",
+        "onewebapp-window": "latest",
+        "onewebdb": "latest",
+        "oneweek": "latest",
+        "oneweek-ztb": "latest",
+        "oneweek1": "latest",
+        "oneweek7.19": "latest",
+        "oneweekxyp0318": "latest",
+        "oneweet": "latest",
+        "oneweigh": "latest",
+        "onewheeler": "latest",
+        "onewo": "latest",
+        "oneword": "latest",
+        "oneworkwzy": "latest",
+        "oneworld-ui": "latest"
+    }
+}

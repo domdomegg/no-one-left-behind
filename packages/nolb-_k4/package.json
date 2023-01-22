@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_k4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@k4a_l/dirtreeist": "latest",
+        "@k4connect/binary-search-tree": "latest",
+        "@k4connect/engine.io": "latest",
+        "@k4connect/engine.io-client": "latest",
+        "@k4connect/nedb": "latest",
+        "@k4connect/socket.io": "latest",
+        "@k4connect/socket.io-client": "latest",
+        "@k4connect/ws": "latest",
+        "@k4f9apocupu/bias-icons": "latest",
+        "@k4f9apocupu/icons": "latest",
+        "@k4rnival/butil": "latest",
+        "@k4rnival/figlet-preview": "latest",
+        "@k4rnival/nkviz": "latest",
+        "@k4rnival/nm-cleaner": "latest",
+        "@k4sh4/create-project": "latest",
+        "@k4sh4/rn-component": "latest",
+        "@k4sh4/rncomponent": "latest",
+        "@k4zam1/hello-wasm": "latest"
+    }
+}

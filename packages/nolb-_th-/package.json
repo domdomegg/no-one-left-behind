@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_th-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@th-cli/core": "latest",
+        "@th-designable/core": "latest",
+        "@th-designable/formily-antd": "latest",
+        "@th-designable/formily-next": "latest",
+        "@th-designable/formily-setters": "latest",
+        "@th-designable/formily-transformer": "latest",
+        "@th-designable/react": "latest",
+        "@th-designable/react-sandbox": "latest",
+        "@th-designable/react-settings-form": "latest",
+        "@th-designable/shared": "latest",
+        "@th-formily/antd": "latest",
+        "@th-formily/core": "latest",
+        "@th-formily/element": "latest",
+        "@th-formily/grid": "latest",
+        "@th-formily/json-schema": "latest",
+        "@th-formily/next": "latest",
+        "@th-formily/path": "latest",
+        "@th-formily/react": "latest",
+        "@th-formily/reactive": "latest",
+        "@th-formily/reactive-react": "latest",
+        "@th-formily/reactive-vue": "latest",
+        "@th-formily/shared": "latest",
+        "@th-formily/validator": "latest",
+        "@th-formily/vue": "latest",
+        "@th-ko/mnemonist": "latest",
+        "@th-koeln/graphql-docs": "latest",
+        "@th-tickets/common": "latest"
+    }
+}

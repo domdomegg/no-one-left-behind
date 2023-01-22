@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-egg-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "egg-qcloud-oss": "latest",
+        "egg-qcloud-weapp-sdk": "latest",
+        "egg-qeelyn-framework": "latest",
+        "egg-qingger-typeorm": "latest",
+        "egg-qiniu": "latest",
+        "egg-qiniu-live-test": "latest",
+        "egg-qiniu-plus": "latest",
+        "egg-qiniu-sdk": "latest",
+        "egg-qiniu-token-upload": "latest",
+        "egg-qiniu-upload": "latest",
+        "egg-qiniu-upload-token": "latest",
+        "egg-qiniu-uploader": "latest",
+        "egg-qiniu2": "latest",
+        "egg-qpjoy-apollo-server": "latest",
+        "egg-qsso": "latest",
+        "egg-qswift": "latest",
+        "egg-quanwai-alexyu-response": "latest",
+        "egg-query": "latest",
+        "egg-queue": "latest",
+        "egg-queue-bull": "latest",
+        "egg-queue-bull-x": "latest",
+        "egg-queue-bulls": "latest",
+        "egg-qversion": "latest",
+        "egg-qwatcher": "latest",
+        "egg-qywx": "latest",
+        "egg-qywx-login": "latest"
+    }
+}

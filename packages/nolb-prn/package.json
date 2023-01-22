@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-prn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "prn": "latest",
+        "prn-table": "latest",
+        "prn-video-example-styles": "latest",
+        "prng": "latest",
+        "prng-lfsr": "latest",
+        "prng-pagination": "latest",
+        "prng-wasm": "latest",
+        "prng-well1024a": "latest",
+        "prng-xoshiro": "latest",
+        "prng48": "latest",
+        "prnguin": "latest",
+        "prnmsg": "latest",
+        "prnow": "latest",
+        "prnt": "latest",
+        "prntr": "latest",
+        "prnvbirajdar-frame-print": "latest",
+        "prnx": "latest"
+    }
+}

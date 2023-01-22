@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-bitv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bitvalor-api": "latest",
+        "bitvavo": "latest",
+        "bitvavo-fork": "latest",
+        "bitverse-jsbridge": "latest",
+        "bitverse-utils": "latest",
+        "bitvice-osi": "latest",
+        "bitview": "latest",
+        "bitview.js": "latest",
+        "bitvinus-lvl1": "latest",
+        "bitvision": "latest",
+        "bitvision-ui": "latest",
+        "bitvision-zoo": "latest"
+    }
+}

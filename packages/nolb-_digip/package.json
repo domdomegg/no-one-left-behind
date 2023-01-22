@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_digip",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@digipharm/moneryze": "latest",
+        "@digipolis-gent/modal": "latest",
+        "@digipolis-gent/opening-hours-widget": "latest",
+        "@digipolis/auth": "latest",
+        "@digipolis/authz": "latest",
+        "@digipolis/log": "latest",
+        "@digipolis/probes": "latest",
+        "@digipolis/request-log": "latest",
+        "@digipolis/start-react": "latest",
+        "@digipolis/start-ui": "latest"
+    }
+}

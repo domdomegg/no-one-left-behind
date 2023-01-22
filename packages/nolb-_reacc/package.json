@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_reacc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reaccord/canvas": "latest",
+        "@reaccord/chalk": "latest",
+        "@reaccord/cli": "latest",
+        "@reaccord/core": "latest",
+        "@reaccord/jsx": "latest",
+        "@reaccord/router": "latest"
+    }
+}

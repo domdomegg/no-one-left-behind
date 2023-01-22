@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-reqw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reqwest": "latest",
+        "reqwest-logz": "latest",
+        "reqwest-without-xhr2": "latest",
+        "reqwestify": "latest",
+        "reqwire": "latest",
+        "reqwq": "latest",
+        "reqwstr": "latest"
+    }
+}

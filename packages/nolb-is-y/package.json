@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-is-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "is-yarn": "latest",
+        "is-yarn-global": "latest",
+        "is-yarn-installed": "latest",
+        "is-yes": "latest",
+        "is-yethiha": "latest",
+        "is-your-package-shared": "latest",
+        "is-youtube-channel": "latest",
+        "is-youtube-url": "latest",
+        "is-youtube-video": "latest"
+    }
+}

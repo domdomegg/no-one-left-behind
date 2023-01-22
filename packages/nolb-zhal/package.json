@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-zhal",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zhalice2011": "latest",
+        "zhalin": "latest",
+        "zhall": "latest",
+        "zhall-ui_v0.1": "latest",
+        "zhalosdk": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_appm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@appman/eslint-config-appman": "latest",
+        "@appmate/liquid": "latest",
+        "@appmate/wishlist": "latest",
+        "@appmate/wishlist-liquid": "latest",
+        "@appmiral/appmiral": "latest",
+        "@appmonet/postscribe": "latest"
+    }
+}

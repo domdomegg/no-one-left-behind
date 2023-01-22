@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-materialu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "materialui-autocomplete-selectfield": "latest",
+        "materialui-component-collection": "latest",
+        "materialui-daterange-picker": "latest",
+        "materialui-daterange-picker-bck": "latest",
+        "materialui-daterange-picker-i18n": "latest",
+        "materialui-daterange-picker-pt": "latest",
+        "materialui-daterange-picker-russian": "latest",
+        "materialui-daterange-picker2": "latest",
+        "materialui-daterange-picker_r": "latest",
+        "materialui-ds": "latest",
+        "materialui-express-boilerplate": "latest",
+        "materialui-grid": "latest",
+        "materialui-pagination": "latest",
+        "materialui-pagination-component": "latest",
+        "materialui-react-daterange-picker": "latest",
+        "materialuibasecomponent": "latest",
+        "materialuipackage": "latest",
+        "materialuipickerpopover": "latest",
+        "materialuiupgraded": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-nestr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nestr": "latest",
+        "nestraight": "latest",
+        "nestrand": "latest",
+        "nestrand-cd": "latest",
+        "nestrand_test": "latest",
+        "nestron": "latest",
+        "nestrun": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_types_rc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@types/rc": "latest",
+        "@types/rc-easyui": "latest",
+        "@types/rc-progress": "latest",
+        "@types/rc-select": "latest",
+        "@types/rc-slider": "latest",
+        "@types/rc-steps": "latest",
+        "@types/rc-switch": "latest",
+        "@types/rc-time-picker": "latest",
+        "@types/rc-tooltip": "latest",
+        "@types/rc-tree": "latest",
+        "@types/rcloader": "latest",
+        "@types/rclone.js": "latest"
+    }
+}

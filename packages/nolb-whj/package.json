@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-whj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "whj": "latest",
+        "whj-cli": "latest",
+        "whj-git": "latest",
+        "whj-logger": "latest",
+        "whj-npm-test": "latest",
+        "whj-package": "latest",
+        "whj-test-add": "latest",
+        "whj-tool": "latest",
+        "whj_pack_test": "latest",
+        "whj_ui": "latest",
+        "whjlib": "latest",
+        "whjpublic": "latest",
+        "whjr-analytics": "latest",
+        "whjusercli": "latest"
+    }
+}

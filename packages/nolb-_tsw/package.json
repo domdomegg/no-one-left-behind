@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_tsw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tsw38/create-react-component": "latest",
+        "@tsw38/custom-logger": "latest",
+        "@tsw38/otis": "latest",
+        "@tswaters/react-form-validation": "latest",
+        "@tswaters/tiny-diff": "latest",
+        "@tswechat/typings": "latest",
+        "@tswjs/open-platform-api": "latest",
+        "@tswjs/open-platform-plugin": "latest",
+        "@tswjs/pre": "latest",
+        "@tswjs/tsw": "latest",
+        "@tswjs/tswjs": "latest",
+        "@tsword/linter": "latest",
+        "@tsword/tp": "latest",
+        "@tswt/core": "latest",
+        "@tswt/dedicated-worker": "latest",
+        "@tswt/jsdom": "latest",
+        "@tswt/shared-worker": "latest",
+        "@tswt/window": "latest"
+    }
+}

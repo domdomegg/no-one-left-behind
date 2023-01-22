@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_testg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@testganization/chu-test-lib": "latest",
+        "@testgokumarketdex/sdk": "latest",
+        "@testgon/pack-one": "latest",
+        "@testgorilla/tgo-ui": "latest",
+        "@testgram/cli": "latest",
+        "@testgrandma/jsshortcuts": "latest",
+        "@testgrandma/shortcuts": "latest",
+        "@testground/sdk": "latest"
+    }
+}

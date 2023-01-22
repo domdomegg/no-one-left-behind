@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-di1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "di1": "latest",
+        "di18n": "latest",
+        "di18n-cli": "latest",
+        "di18n-core": "latest",
+        "di18n-react": "latest",
+        "di18n-translate": "latest",
+        "di18n-vue": "latest"
+    }
+}

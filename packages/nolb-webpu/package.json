@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-webpu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "webpublicyjjjj": "latest",
+        "webpublish": "latest",
+        "webpublisher": "latest",
+        "webpubsub-apollo-subscription": "latest",
+        "webpubsub-js": "latest",
+        "webpubsub-react": "latest",
+        "webpuck": "latest",
+        "webpunk": "latest",
+        "webpuppeteer": "latest",
+        "webpurify": "latest",
+        "webpurify-image": "latest",
+        "webpush-client": "latest",
+        "webpush-notification-lib": "latest",
+        "webpush-server": "latest",
+        "webpush-webcrypto": "latest",
+        "webpushwebpushwebpush": "latest"
+    }
+}

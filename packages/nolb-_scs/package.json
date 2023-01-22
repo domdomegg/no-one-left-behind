@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_scs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@scs_org/legacy-preset-chart-deckgl": "latest",
+        "@scsiva1991/array-filter": "latest",
+        "@scslab/common": "latest",
+        "@scslib-tickets/common": "latest",
+        "@scss-extend/animate-scss": "latest",
+        "@scss-icons/themify-icons-scss": "latest",
+        "@scssyworks/context-builder": "latest",
+        "@scstickets/common": "latest",
+        "@scsys/svkcl": "latest"
+    }
+}

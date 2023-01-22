@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-bav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bav": "latest",
+        "bavaria-ipsum": "latest",
+        "bavary": "latest",
+        "bavenir-agent": "latest",
+        "bavix-table": "latest",
+        "bavue": "latest",
+        "bavui": "latest",
+        "bavyera-2clist-and-phone-formatter": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-wani",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wani": "latest",
+        "wania-prac": "latest",
+        "wania-prac-sol": "latest",
+        "wania-prac-update": "latest",
+        "wania-testing1": "latest",
+        "waniacalc": "latest",
+        "wanii_2017": "latest",
+        "wanikani-api-ng": "latest",
+        "wanikani-cli": "latest",
+        "wanikani-emitter": "latest",
+        "wanikani-level": "latest",
+        "wanikani-notifier": "latest",
+        "wanikani-terminal": "latest",
+        "wanikani-vocab-beyond": "latest",
+        "wanilla": "latest",
+        "wanilla-js": "latest",
+        "wanilla-machine": "latest",
+        "wanim": "latest",
+        "wanimate": "latest",
+        "wanip": "latest",
+        "wanizilocal": "latest"
+    }
+}

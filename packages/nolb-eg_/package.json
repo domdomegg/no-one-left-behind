@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-eg_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eg.db": "latest",
+        "eg.min.js": "latest",
+        "eg_basic_config": "latest",
+        "eg_yuyuan": "latest"
+    }
+}

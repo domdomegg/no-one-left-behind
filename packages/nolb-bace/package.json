@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-bace",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bace": "latest",
+        "bace-css": "latest",
+        "bacen-converter": "latest",
+        "baceojs": "latest"
+    }
+}

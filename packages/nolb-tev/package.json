@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-tev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tev": "latest",
+        "tev-cli": "latest",
+        "tev.js": "latest",
+        "teval": "latest",
+        "tevale": "latest",
+        "tevatron": "latest",
+        "tevatron-cli": "latest",
+        "tevatron-cli-dev-component": "latest",
+        "tevatron-cli-dev-template-custom-react": "latest",
+        "tevatron-cli-dev-template-react": "latest",
+        "tevatron-cli-dev-template-react-ts": "latest",
+        "tevd": "latest",
+        "teveclub-feeder": "latest",
+        "teveklub-createjs-module": "latest",
+        "tevent": "latest",
+        "teventbus": "latest",
+        "tevents": "latest",
+        "tevere": "latest",
+        "teverse": "latest",
+        "teverse.js": "latest",
+        "tevreact": "latest",
+        "tevs": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-promisec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "PromiseContext": "latest",
+        "promisecallback": "latest",
+        "promisecatch-loadertest-zheng": "latest",
+        "promisecb": "latest",
+        "promisechain": "latest",
+        "promiseclass": "latest",
+        "promisecommandqueue": "latest",
+        "promisecuous": "latest",
+        "promisecurl": "latest"
+    }
+}

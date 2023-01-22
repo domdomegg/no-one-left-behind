@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-superu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "superUsingMod": "latest",
+        "superudc_cscopy": "latest",
+        "superui-tokens": "latest",
+        "superui5": "latest",
+        "superuserdit-logger-api": "latest",
+        "superuserdit-service-contract": "latest",
+        "superuserdit-service-manager": "latest",
+        "superusers-semversion-demo": "latest"
+    }
+}

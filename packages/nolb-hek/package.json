@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-hek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "heka": "latest",
+        "heka-decode-stream": "latest",
+        "heka-node": "latest",
+        "heka-node-red-http-storage-plugin": "latest",
+        "heka-print": "latest",
+        "hekang-file": "latest",
+        "hekangswaptest-sdk": "latest",
+        "hekate": "latest",
+        "hekdi": "latest",
+        "heke": "latest",
+        "hekerman-jimp": "latest",
+        "heket": "latest",
+        "hekhek-generator": "latest",
+        "heki.css": "latest",
+        "hekla": "latest",
+        "hekla-cli": "latest",
+        "hekla-core": "latest",
+        "hekla-plugin-csv-reporter": "latest",
+        "hekla-viewer": "latest",
+        "hekla-webpack-plugin": "latest",
+        "hekla15-infinitymodules": "latest",
+        "hekr-ui": "latest",
+        "heks": "latest",
+        "hekto": "latest",
+        "heku-test": "latest",
+        "hekuan0916": "latest",
+        "hekyll": "latest",
+        "hekyll-cli": "latest"
+    }
+}

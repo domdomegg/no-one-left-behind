@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-trep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "trep": "latest",
+        "trepan-ni": "latest",
+        "trepanjs": "latest",
+        "trepi": "latest",
+        "treply": "latest",
+        "treply-scripts": "latest",
+        "trepo": "latest",
+        "trepo-client": "latest",
+        "trepo-core": "latest",
+        "trepo-ptree": "latest",
+        "trepo-server": "latest",
+        "trepo-vgraph": "latest",
+        "trepo-webworker": "latest",
+        "treport": "latest",
+        "trepur_components": "latest"
+    }
+}

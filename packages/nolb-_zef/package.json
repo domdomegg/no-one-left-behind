@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_zef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zef-dev/convoworks-editor": "latest",
+        "@zef-dev/convoworks-intent-model-editor": "latest",
+        "@zef-dev/convoworks-webchat": "latest",
+        "@zef163/demo": "latest",
+        "@zeferinix/commitlint-config": "latest",
+        "@zeferinix/ngx-fluent": "latest",
+        "@zefhemel/silverbullet": "latest",
+        "@zefiros/axioms": "latest",
+        "@zefiros/dispersal": "latest",
+        "@zefiros/jszip-slim": "latest",
+        "@zefiros/npm-defaults": "latest",
+        "@zefkah/adonis-helpers": "latest",
+        "@zefman/gridsome-source-instagram": "latest",
+        "@zefman/gridsome-source-webmention": "latest"
+    }
+}

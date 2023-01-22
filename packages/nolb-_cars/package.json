@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_cars",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@carshair/app-components": "latest",
+        "@carsondarling/bcrypt-cli": "latest",
+        "@carsondarling/mongoose-jsonapi": "latest",
+        "@carsondarling/multilisten": "latest",
+        "@carsondarling/react-native-simple-markdown": "latest",
+        "@carsonlenze/discord-captcha": "latest",
+        "@carsten-leue/backup": "latest",
+        "@carsten-leue/ivy-module": "latest",
+        "@carsten-leue/rxjs-operators": "latest",
+        "@carsten-leue/sites-next-web-component": "latest",
+        "@carstenbach/postmeta-block-template": "latest",
+        "@carsy/eslint-config": "latest",
+        "@carsy/stylelint-config": "latest",
+        "@carsy/task-completion-survey-banner": "latest",
+        "@carsync/js-joda-core": "latest"
+    }
+}

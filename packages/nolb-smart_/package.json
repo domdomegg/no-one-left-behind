@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-smart_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smart.js": "latest",
+        "smart_calculation": "latest",
+        "smart_data_list": "latest",
+        "smart_jobs": "latest",
+        "smart_loginout": "latest",
+        "smart_office_dal": "latest",
+        "smart_production_core_elements": "latest",
+        "smart_service_api": "latest",
+        "smart_shape": "latest",
+        "smart_start_server": "latest",
+        "smart_timer": "latest",
+        "smart_title": "latest",
+        "smart_todo": "latest",
+        "smart_url_resolve": "latest",
+        "smart_webview_ui": "latest"
+    }
+}

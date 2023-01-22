@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-httpr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "HTTPRequest": "latest",
+        "httpr": "latest",
+        "httpr-interceptor-header": "latest",
+        "httpr-provider-node-request": "latest",
+        "httpr-provider-xhr": "latest",
+        "httpreq": "latest",
+        "httpreq-pro": "latest",
+        "httprequestsyq": "latest",
+        "httprequire": "latest",
+        "httpresso": "latest",
+        "httpretty": "latest",
+        "httprint": "latest",
+        "httprip": "latest",
+        "httprom": "latest",
+        "httpromise": "latest",
+        "httprompt": "latest",
+        "httprouter-js": "latest",
+        "httprouterserver": "latest",
+        "httproxy": "latest",
+        "httprules": "latest"
+    }
+}

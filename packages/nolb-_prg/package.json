@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_prg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@prg/gatsby-source-something-whatever": "latest",
+        "@prg/gatsby-starter-bedrock": "latest",
+        "@prg/gatsby-theme-bedrock": "latest",
+        "@prgm/layercake": "latest",
+        "@prgm/sveltekit-progress-bar": "latest",
+        "@prgma/using": "latest"
+    }
+}

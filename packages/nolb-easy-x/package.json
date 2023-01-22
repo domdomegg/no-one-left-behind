@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-easy-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "easy-x-headers": "latest",
+        "easy-xapi": "latest",
+        "easy-xapi-supertest": "latest",
+        "easy-xapi-utils": "latest",
+        "easy-xj-cli": "latest",
+        "easy-xml-loader": "latest",
+        "easy-xml-parser": "latest"
+    }
+}

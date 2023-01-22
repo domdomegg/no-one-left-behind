@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_beb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bebapps/rapyd-sdk": "latest",
+        "@bebbum/hello-wasm": "latest",
+        "@bebear/hooks": "latest",
+        "@bebear/modal": "latest",
+        "@bebear/notification": "latest",
+        "@bebear/portal": "latest",
+        "@bebear/styled": "latest",
+        "@bebear/table": "latest",
+        "@bebear/tabs": "latest",
+        "@beblue/react-native-kakao-login": "latest",
+        "@beblueapp/eslint-config-base": "latest",
+        "@beblueapp/eslint-config-react": "latest",
+        "@beblueapp/redux-async": "latest",
+        "@bebopsensors/16s": "latest",
+        "@bebopskull/lotide": "latest",
+        "@bebraw/extract-react-types": "latest",
+        "@bebraw/linaria": "latest",
+        "@bebraw/marked": "latest",
+        "@bebraw/oceanwind": "latest",
+        "@bebraw/project-defaults": "latest",
+        "@bebraw/react-docgen-typescript": "latest",
+        "@bebraw/react-over-scroll": "latest",
+        "@bebraw/react-scripts": "latest",
+        "@bebraw/system-components": "latest",
+        "@bebraw/typed-html": "latest",
+        "@bebusinessfocus/aws-lambda-helpers": "latest",
+        "@bebusinessfocus/logger": "latest",
+        "@bebusinessfocus/mongo-db": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-hexo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hexo": "latest",
+        "@zalastax/nolb-hexo-": "latest",
+        "@zalastax/nolb-hexo3": "latest",
+        "@zalastax/nolb-hexo_": "latest",
+        "@zalastax/nolb-hexoa": "latest",
+        "@zalastax/nolb-hexod": "latest",
+        "@zalastax/nolb-hexoe": "latest",
+        "@zalastax/nolb-hexog": "latest",
+        "@zalastax/nolb-hexoi": "latest",
+        "@zalastax/nolb-hexoj": "latest",
+        "@zalastax/nolb-hexon": "latest",
+        "@zalastax/nolb-hexop": "latest",
+        "@zalastax/nolb-hexos": "latest",
+        "@zalastax/nolb-hexox": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-yoa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yoa": "latest",
+        "yoact": "latest",
+        "yoana_try": "latest",
+        "yoania": "latest",
+        "yoantd": "latest",
+        "yoapi": "latest",
+        "yoapps-plugin-pdf": "latest",
+        "yoapps-plugin-scanner": "latest",
+        "yoapps-plugin-statusbar-height": "latest",
+        "yoast": "latest",
+        "yoast-components": "latest",
+        "yoastseo": "latest",
+        "yoastseo-lite": "latest",
+        "yoauth": "latest",
+        "yoauth-simply-theme": "latest",
+        "yoav-component": "latest",
+        "yoavabadi": "latest",
+        "yoavtest": "latest"
+    }
+}

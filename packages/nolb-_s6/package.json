@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_s6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@s616/common": "latest",
+        "@s616/local-api": "latest",
+        "@s616/local-client": "latest",
+        "@s6nougat/community-token-list": "latest",
+        "@s6nougat/contracts-v2-core": "latest",
+        "@s6nougat/default-token-list": "latest",
+        "@s6nougat/router-sdk": "latest",
+        "@s6nougat/sdk": "latest",
+        "@s6nougat/sdk-core": "latest",
+        "@s6nougat/sdk-extra": "latest",
+        "@s6nougat/sdkastar": "latest",
+        "@s6nougat/smart-order-router": "latest",
+        "@s6nougat/token-lists": "latest",
+        "@s6nougat/tokenlist": "latest",
+        "@s6nougat/uniswap-sdk-core": "latest",
+        "@s6nougat/v2-sdk": "latest",
+        "@s6nougat/v2-sdk-main": "latest",
+        "@s6nougat/v3-sdk": "latest",
+        "@s6nougat/venom-community-token-list": "latest",
+        "@s6nougat/venom-core-main": "latest",
+        "@s6nougat/venom-default-token-list": "latest",
+        "@s6nougat/venom-lib-main": "latest",
+        "@s6nougat/venom-sdk-extra-main": "latest",
+        "@s6nougat/venom-sdk-main": "latest",
+        "@s6nougat/venomsdk": "latest",
+        "@s6nougat/venomsdkextra": "latest"
+    }
+}

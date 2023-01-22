@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-logq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "logq": "latest",
+        "logquacious": "latest",
+        "logquacious-console": "latest",
+        "logquacious-fluent": "latest",
+        "logquery": "latest",
+        "logquerychert": "latest"
+    }
+}

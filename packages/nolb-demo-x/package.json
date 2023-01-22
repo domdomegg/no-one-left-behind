@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-demo-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "demo-x": "latest",
+        "demo-xfzeng": "latest",
+        "demo-xfzeng-lib": "latest",
+        "demo-xia-jun": "latest",
+        "demo-xiaoxiong": "latest",
+        "demo-xjp": "latest",
+        "demo-xrp": "latest",
+        "demo-xwx-npm-cli": "latest",
+        "demo-xxx": "latest",
+        "demo-xxz": "latest"
+    }
+}

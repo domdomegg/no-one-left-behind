@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-gef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gef": "latest",
+        "gef_logger": "latest",
+        "gefa0453": "latest",
+        "gefeliciteerdthom": "latest",
+        "gefen-logger": "latest",
+        "gefer": "latest",
+        "gefest": "latest",
+        "gefyra": "latest"
+    }
+}

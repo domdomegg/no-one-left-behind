@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-ery",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ery-api": "latest",
+        "eryalss": "latest",
+        "eryani-test": "latest",
+        "erye": "latest",
+        "eryn": "latest",
+        "eryu-env-base": "latest",
+        "eryu-env-browser": "latest",
+        "eryue": "latest",
+        "eryuehong11": "latest",
+        "eryx": "latest"
+    }
+}

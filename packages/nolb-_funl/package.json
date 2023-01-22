@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_funl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@funlo-cli/command": "latest",
+        "@funlo-cli/core": "latest",
+        "@funlo-cli/exec": "latest",
+        "@funlo-cli/format-path": "latest",
+        "@funlo-cli/get-npm-info": "latest",
+        "@funlo-cli/init": "latest",
+        "@funlo-cli/log": "latest",
+        "@funlo-cli/package": "latest",
+        "@funlo-cli/utils": "latest"
+    }
+}

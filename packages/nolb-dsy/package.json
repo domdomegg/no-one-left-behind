@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-dsy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dsy": "latest",
+        "dsy-miniprogram-ciyu-ui": "latest",
+        "dsy-nodejs": "latest",
+        "dsy-sfdx-plugins": "latest",
+        "dsy-ui": "latest",
+        "dsy-vue-cli": "latest",
+        "dsy_npm": "latest",
+        "dsy_npm_test": "latest",
+        "dsy_test": "latest",
+        "dsy_utils": "latest",
+        "dsyilingling-textbook-zh": "latest",
+        "dsyn-cli": "latest",
+        "dsync": "latest",
+        "dsys": "latest",
+        "dsytest-sdk-package": "latest",
+        "dsytext": "latest"
+    }
+}

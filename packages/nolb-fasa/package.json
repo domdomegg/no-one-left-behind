@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-fasa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fasah-input": "latest",
+        "fasah-input-number": "latest",
+        "fasah-input-text": "latest",
+        "fasak": "latest",
+        "fasal-model-generator": "latest",
+        "fasam-imc-calc": "latest"
+    }
+}

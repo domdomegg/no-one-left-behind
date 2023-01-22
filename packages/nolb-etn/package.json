@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-etn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "etn": "latest",
+        "etn-test": "latest",
+        "etn-uilib1-test-1": "latest",
+        "etn_validator_list": "latest",
+        "etna": "latest",
+        "etna-facts": "latest",
+        "etna-ui": "latest",
+        "etndswap-sdk": "latest",
+        "etnhjzgmfwbocvqp": "latest"
+    }
+}

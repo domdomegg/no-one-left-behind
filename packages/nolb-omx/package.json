@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-omx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "omx": "latest",
+        "omx-controller": "latest",
+        "omx-directory-player": "latest",
+        "omx-interface": "latest",
+        "omx-layers": "latest",
+        "omx-manager": "latest",
+        "omx-player-wrapper": "latest",
+        "omx-spawn": "latest",
+        "omxcam": "latest",
+        "omxconductor": "latest",
+        "omxcontrol": "latest",
+        "omxctrl": "latest",
+        "omxdirector": "latest",
+        "omxdirector2": "latest",
+        "omxfinder": "latest",
+        "omxobj": "latest",
+        "omxplayer": "latest",
+        "omxplayer-control-layered": "latest",
+        "omxplayer-controll": "latest",
+        "omxplayer-controller-node": "latest",
+        "omxplayer-dbus": "latest",
+        "omxplayer-layered": "latest",
+        "omxplayer-node": "latest",
+        "omxplayer-nodejs": "latest",
+        "omxplayer-pi": "latest",
+        "omxplayer-py": "latest",
+        "omxplayer-signage": "latest"
+    }
+}

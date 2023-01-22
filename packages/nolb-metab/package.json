@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-metab",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "metab": "latest",
+        "metaball": "latest",
+        "metaballs": "latest",
+        "metaballs-js": "latest",
+        "metabase": "latest",
+        "metabase-as-code": "latest",
+        "metabin-schema-validator": "latest",
+        "metabit": "latest",
+        "metablock": "latest",
+        "metabo-test": "latest",
+        "metabolicjs": "latest",
+        "metabolizer": "latest",
+        "metaboly-react-big-calendar": "latest",
+        "metabot": "latest",
+        "metabot-bot": "latest",
+        "metabot-experiment": "latest",
+        "metabot-experiment-library": "latest",
+        "metabot-experiment-reakit": "latest",
+        "metabot-utils": "latest",
+        "metabranch": "latest",
+        "metabroker": "latest",
+        "metabuffer": "latest",
+        "metabuffers": "latest",
+        "metabuild": "latest",
+        "metabuilder-js": "latest"
+    }
+}

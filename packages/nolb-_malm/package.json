@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_malm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@malmal-io/lazy-load-component": "latest",
+        "@malmgrenola/my-test-package": "latest",
+        "@malmgrenola/react-text-loop": "latest",
+        "@malmo/cli": "latest",
+        "@malmo/cli-utils": "latest",
+        "@malmo/eslint-config": "latest",
+        "@malmo/react-redux-universal-starter-kit": "latest",
+        "@malmo/react-starter-kit": "latest",
+        "@malmo/welcome-react": "latest",
+        "@malmo/welcome-styles": "latest",
+        "@malmz/lithium": "latest"
+    }
+}

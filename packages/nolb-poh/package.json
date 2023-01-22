@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-poh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "poh-contracts": "latest",
+        "poh-react": "latest",
+        "poh-semaphore-group-contracts": "latest",
+        "poh-tron-contracts": "latest",
+        "poh-tron-react": "latest",
+        "poh-validator": "latest",
+        "poh-validator-hcaptcha-react": "latest",
+        "poh-validator-worldcoin-react": "latest",
+        "pohad.base.css": "latest",
+        "pohip-common": "latest",
+        "pohjanmaa": "latest",
+        "pohjie-palindrome": "latest",
+        "pohjoisallas": "latest",
+        "pohl": "latest",
+        "pohleusis": "latest",
+        "pohlig-hellman": "latest",
+        "pohua920": "latest",
+        "pohun-ui": "latest"
+    }
+}

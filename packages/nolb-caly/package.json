@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-caly",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "caly": "latest",
+        "calypso": "latest",
+        "calypso-codemods": "latest",
+        "calypso-extractor": "latest",
+        "calypso-level": "latest",
+        "calypso-memory": "latest",
+        "calypso-mongodb": "latest",
+        "calypso-postgres": "latest",
+        "calypso-query-decompiler": "latest",
+        "calypso-usergrid": "latest",
+        "calypsobronte": "latest",
+        "calystral-eth-gas-reporter": "latest",
+        "calystral-react-solidity-abi-dev": "latest",
+        "calystral-solidity-abi-dev": "latest",
+        "calyx": "latest",
+        "calyx-js": "latest",
+        "calyxui": "latest"
+    }
+}

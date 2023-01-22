@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-waj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "waj": "latest",
+        "wajahat-frame-print": "latest",
+        "waject": "latest",
+        "wajek-mobile-ui": "latest",
+        "wajez-api": "latest",
+        "wajez-api-test": "latest",
+        "wajez-transform": "latest",
+        "wajez-utils": "latest",
+        "wajid-test": "latest",
+        "wajid-test-pack": "latest",
+        "wajihah": "latest",
+        "wajiu-test-cli": "latest",
+        "wajqz": "latest",
+        "wajra": "latest",
+        "wajs": "latest",
+        "wajser-angular-qr-scanner": "latest"
+    }
+}

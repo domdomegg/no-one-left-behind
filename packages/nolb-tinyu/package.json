@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-tinyu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tinyu": "latest",
+        "tinyuicss": "latest",
+        "tinyuijs": "latest",
+        "tinyupload": "latest",
+        "tinyurl": "latest",
+        "tinyurl-api": "latest",
+        "tinyurl-class-module": "latest",
+        "tinyurl-class-module-ej": "latest",
+        "tinyurl-class-module-sl": "latest",
+        "tinyurl-class-module-tmcwei": "latest",
+        "tinyurl-cli": "latest",
+        "tinyurl-ga.js": "latest",
+        "tinyurl-module": "latest",
+        "tinyurl-npm-trial": "latest",
+        "tinyurl-shorten": "latest",
+        "tinyurl-trial-npm": "latest",
+        "tinyuuidv4": "latest"
+    }
+}

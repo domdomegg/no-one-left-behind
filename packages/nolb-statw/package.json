@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-statw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "statware": "latest",
+        "statwolf": "latest",
+        "statwolf-babel-preset": "latest",
+        "statwolf-codeconverter": "latest",
+        "statwolf-debugger-client": "latest",
+        "statwolf-message-broker": "latest",
+        "statwolf-mocks": "latest",
+        "statworks": "latest"
+    }
+}

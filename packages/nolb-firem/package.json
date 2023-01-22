@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-firem",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "firema": "latest",
+        "firemail": "latest",
+        "firemaker": "latest",
+        "firemap": "latest",
+        "firemelon": "latest",
+        "firemin": "latest",
+        "firemob": "latest",
+        "firemock": "latest",
+        "firemodel": "latest",
+        "firemodels": "latest",
+        "firemongo": "latest",
+        "firemonkey": "latest",
+        "firemorph": "latest",
+        "firemyna": "latest"
+    }
+}

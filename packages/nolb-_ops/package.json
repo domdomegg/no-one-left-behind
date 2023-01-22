@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_ops",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ops-ai/feature-flags-toggly": "latest",
+        "@opsani/nunjucks-kubernetes-filters": "latest",
+        "@opsbr/cdk-appsync-data-source-sfn-express": "latest",
+        "@opscompass/opscompass-api": "latest",
+        "@opscompass/opscompass-cli": "latest",
+        "@opsera/opsera-cli": "latest",
+        "@opskins/api": "latest",
+        "@opspec/sdk": "latest",
+        "@opsrampjoe/date-time-range-picker": "latest",
+        "@opstalent/redux-crud": "latest",
+        "@opstalent/speedtest.net": "latest",
+        "@opstarts/chimp": "latest",
+        "@opstarts/wdio-sync": "latest",
+        "@opstrace/next-product-docs": "latest",
+        "@opstrace/opstrace": "latest",
+        "@opsuite/ng2-op-image-upload": "latest",
+        "@opsystech/ang-jsoneditor": "latest",
+        "@opsystech/bbrun": "latest",
+        "@opsystech/lidar-template": "latest"
+    }
+}

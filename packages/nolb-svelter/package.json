@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-svelter",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svelter": "latest",
+        "svelter-cli": "latest",
+        "svelteres": "latest",
+        "svelterial": "latest",
+        "sveltering": "latest",
+        "svelterr": "latest",
+        "svelterr-core": "latest",
+        "svelters-router": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-h7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "h7": "latest",
+        "h7-video-player": "latest",
+        "h7ml-live2d-widget": "latest",
+        "h7ui": "latest",
+        "h7utils": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_smj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@smjain/first-wasm": "latest",
+        "@smjain/hello-wasm": "latest",
+        "@smjee123/table-grid-react": "latest",
+        "@smjeffery22/lotide": "latest"
+    }
+}

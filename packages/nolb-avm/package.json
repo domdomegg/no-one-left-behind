@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-avm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "avm": "latest",
+        "avm-client": "latest",
+        "avm1-asm": "latest",
+        "avm1-emitter": "latest",
+        "avm1-parser": "latest",
+        "avm1-tree": "latest",
+        "avm1-types": "latest",
+        "avmjqjy": "latest",
+        "avmjs": "latest",
+        "avmodles": "latest",
+        "avmore": "latest",
+        "avmp": "latest",
+        "avmsa-group-api-amqp": "latest",
+        "avmwidget": "latest"
+    }
+}

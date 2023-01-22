@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-p7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "p7": "latest",
+        "p77": "latest",
+        "p7d-markdown-it-p-captions": "latest",
+        "p7m-js-decoder": "latest",
+        "p7zip": "latest",
+        "p7zip-threetwo": "latest"
+    }
+}

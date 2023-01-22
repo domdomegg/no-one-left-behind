@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_rie",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@riedeluk/mimerenderer": "latest",
+        "@riekkuja/hello-wasm": "latest",
+        "@riencoertjens/gatsby-theme-webhart-base": "latest",
+        "@riesco/twitter-typeahead-components-bundle": "latest",
+        "@riesco/twitter-typeahead-components-handlebars": "latest",
+        "@riesco/twitter-typeahead-components-xdomainrequest": "latest",
+        "@rieset/alphabet-filter": "latest",
+        "@rieset/strapi-plugin-keycloak": "latest",
+        "@rieset/videogular2": "latest",
+        "@rieux/platzom": "latest",
+        "@riezahughes/emotion-storybook-library": "latest",
+        "@riezebosch/my-theme": "latest",
+        "@riezebosch/xebia-theme": "latest",
+        "@riezebosch/xpirit-theme": "latest",
+        "@riezler/auth-react": "latest",
+        "@riezler/auth-sdk": "latest",
+        "@riezler/auth-ui": "latest",
+        "@riezler/editorjs": "latest",
+        "@riezler/ngx-segment-analytics": "latest",
+        "@riezler/react-utils": "latest",
+        "@riezler/rome-watcher": "latest",
+        "@riezrachman/deployer": "latest"
+    }
+}

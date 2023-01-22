@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_trir",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tririga/cra-template": "latest",
+        "@tririga/tri-bundler": "latest",
+        "@tririga/tri-deploy": "latest",
+        "@tririga/tri-fix-import": "latest",
+        "@tririga/tri-om": "latest",
+        "@tririga/tri-polymer-upgrade": "latest",
+        "@tririga/tri-proxy": "latest",
+        "@tririga/tri-pull": "latest",
+        "@tririga/tri-template": "latest",
+        "@tririga/tri-vulcanize": "latest",
+        "@tririga/tririga-react-components": "latest",
+        "@tririga/tririga-react-components-temp": "latest"
+    }
+}

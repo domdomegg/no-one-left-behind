@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_miq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@miq4d/canvas-with-discord-content": "latest",
+        "@miqilin21/node-player": "latest",
+        "@miqro/core": "latest",
+        "@miqro/handlers": "latest",
+        "@miqro/modelhandlers": "latest",
+        "@miqro/parser": "latest",
+        "@miqro/request": "latest",
+        "@miqro/runner": "latest",
+        "@miqro/test": "latest",
+        "@miqro/test-http": "latest",
+        "@miqro/web-components": "latest",
+        "@miquel-cabot-masa-finance/masa-contracts-identity": "latest"
+    }
+}

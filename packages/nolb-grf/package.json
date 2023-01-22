@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-grf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grf-extractor": "latest",
+        "grf-loader": "latest",
+        "grf-reader": "latest",
+        "grf-ui": "latest",
+        "grfn": "latest",
+        "grfnviz": "latest",
+        "grfx": "latest"
+    }
+}

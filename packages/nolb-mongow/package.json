@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-mongow",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mongow": "latest",
+        "mongoware": "latest",
+        "mongowatch": "latest",
+        "mongowatchsse": "latest",
+        "mongowave": "latest",
+        "mongowaves": "latest",
+        "mongowb": "latest",
+        "mongowdhaha": "latest",
+        "mongoweb.js": "latest",
+        "mongowrap": "latest",
+        "mongowrapper": "latest"
+    }
+}

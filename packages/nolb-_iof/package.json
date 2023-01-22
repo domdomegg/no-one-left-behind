@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_iof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@iofate/bitpanda-ws": "latest",
+        "@iofate/kucoin-ws": "latest",
+        "@ioffice/angular-ts": "latest",
+        "@ioffice/ci-builder": "latest",
+        "@ioffice/eslint-config": "latest",
+        "@ioffice/floor-viewer-sdk": "latest",
+        "@ioffice/fp": "latest",
+        "@ioffice/prettier-config": "latest",
+        "@ioffice/svg2png": "latest",
+        "@ioffice/tc-builder": "latest",
+        "@ioffice/tslint-config-ioffice": "latest",
+        "@ioffz/express-cors": "latest",
+        "@ioffz/express-errorhandling": "latest",
+        "@ioffz/express-logger": "latest",
+        "@ioffz/express-router-middleware": "latest",
+        "@ioffz/utils": "latest",
+        "@iofjuupasli/react-google-flight-datepicker": "latest",
+        "@iofog/ecn-viewer": "latest",
+        "@iofog/nodejs-sdk": "latest"
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-graphv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graphview": "latest",
+        "graphvis": "latest",
+        "graphviz": "latest",
+        "graphviz-builder": "latest",
+        "graphviz-cli": "latest",
+        "graphviz-config-template": "latest",
+        "graphviz-doc-builder": "latest",
+        "graphviz-exec-loader": "latest",
+        "graphviz-loader": "latest",
+        "graphviz-mit": "latest",
+        "graphviz-neato": "latest",
+        "graphviz-node": "latest",
+        "graphviz-path": "latest",
+        "graphviz-react": "latest",
+        "graphviz-react-cyberx": "latest",
+        "graphviz-repl": "latest",
+        "graphviz-svg-inliner": "latest",
+        "graphviz-wasm": "latest",
+        "graphviz-webcomponent": "latest",
+        "graphviz2svg": "latest",
+        "graphvl": "latest",
+        "graphvn-cdn": "latest"
+    }
+}

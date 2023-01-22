@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_coj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cojad/bottender": "latest",
+        "@cojad/messaging-api-telegram": "latest",
+        "@cojam/cra-append-sw": "latest",
+        "@cojam/duxpanel": "latest",
+        "@cojam/signalr-no-jquery": "latest",
+        "@cojecom/vue2-editor": "latest",
+        "@cojecom/vuex-persistedstate": "latest",
+        "@coji/eslint-config-vue3-example": "latest",
+        "@coji/hello": "latest"
+    }
+}

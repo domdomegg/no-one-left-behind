@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-markdown-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "markdown-habr": "latest",
+        "markdown-handler": "latest",
+        "markdown-hash-filter": "latest",
+        "markdown-header-to-filename": "latest",
+        "markdown-headers": "latest",
+        "markdown-heading-loader": "latest",
+        "markdown-headings": "latest",
+        "markdown-headings-cli": "latest",
+        "markdown-hexo": "latest",
+        "markdown-hexo-loader": "latest",
+        "markdown-highlight-html": "latest",
+        "markdown-highlight-loader": "latest",
+        "markdown-hiperlink-extractor": "latest",
+        "markdown-hljs": "latest",
+        "markdown-html": "latest",
+        "markdown-html-ast": "latest",
+        "markdown-html-cli": "latest",
+        "markdown-html-fixed": "latest",
+        "markdown-html-gen": "latest",
+        "markdown-html-loader": "latest",
+        "markdown-html-viewer": "latest",
+        "markdown-html-webpack-plugin": "latest",
+        "markdown-http-server": "latest"
+    }
+}

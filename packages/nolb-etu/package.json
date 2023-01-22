@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-etu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "etu": "latest",
+        "etu-cli": "latest",
+        "etu_lab3_kea": "latest",
+        "etude": "latest",
+        "etude-for-node": "latest",
+        "etude-op10-no9": "latest",
+        "etudeenfrance": "latest",
+        "etudes": "latest",
+        "etudoputa": "latest",
+        "etui": "latest",
+        "etuikitchen": "latest",
+        "etuovi": "latest",
+        "etutils": "latest",
+        "etutorial-markdown": "latest"
+    }
+}

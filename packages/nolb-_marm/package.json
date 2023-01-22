@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_marm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@marm007/ef-pages": "latest",
+        "@marm007/ef-tables": "latest",
+        "@marm007/ef-utils": "latest",
+        "@marm007/types-ef-mobile-soap-connector": "latest",
+        "@marmalade82/lexer-gen": "latest",
+        "@marmalade82/ts-react-forms": "latest",
+        "@marmaladeswap/uikit": "latest",
+        "@marme1ad/react-charts-fill": "latest",
+        "@marmeladeswap/marmelade-swap-lib": "latest",
+        "@marmicode/checklist-cli": "latest",
+        "@marmicode/eg-logger": "latest",
+        "@marmicode/eg-openapi-openid-connect": "latest",
+        "@marmicode/eg-openapi-request-validator": "latest",
+        "@marmicode/jwtgen": "latest",
+        "@marmicode/openapi-utils": "latest",
+        "@marmooo/ttf2svg": "latest",
+        "@marmot/egg-validate": "latest",
+        "@marmot/node-validate": "latest",
+        "@marmot/tegg-validate": "latest",
+        "@marmotteintrepide/ngx-bootstrap-slider": "latest",
+        "@marmouz82/npx-card": "latest",
+        "@marmura/web-hub-components": "latest",
+        "@marmura/web-hub-customer": "latest",
+        "@marmura/web-hub-customer-module": "latest"
+    }
+}

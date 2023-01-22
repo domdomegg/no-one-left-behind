@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_wog",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wogns3623/eslint-plugin-better-exhaustive-deps": "latest",
+        "@wogns3623/react-tailwind-table": "latest",
+        "@wogworkz/login-component": "latest"
+    }
+}

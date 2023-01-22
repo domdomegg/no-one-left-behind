@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-nodejsc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodejscanvas": "latest",
+        "nodejscarol": "latest",
+        "nodejsccc": "latest",
+        "nodejscmd": "latest",
+        "nodejscodeschool": "latest",
+        "nodejsconfig": "latest",
+        "nodejsconsoleapp": "latest",
+        "nodejscord": "latest",
+        "nodejscore": "latest",
+        "nodejscoremodules": "latest",
+        "nodejscounter": "latest",
+        "nodejscourse1": "latest",
+        "nodejscourse17": "latest",
+        "nodejscreatepackage": "latest",
+        "nodejsctest": "latest",
+        "nodejsctl": "latest"
+    }
+}

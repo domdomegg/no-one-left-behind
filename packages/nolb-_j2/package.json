@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_j2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@j2.trappy/didyoumean": "latest",
+        "@j2.trappy/random-keys": "latest",
+        "@j2.trappy/watch": "latest",
+        "@j2a/cli": "latest",
+        "@j2a/core": "latest",
+        "@j2a/j2a": "latest",
+        "@j2inn/app": "latest",
+        "@j2inn/cli": "latest",
+        "@j2inn/code-editor": "latest",
+        "@j2inn/e2c-deploy-util": "latest",
+        "@j2inn/fin5-ui-utils": "latest",
+        "@j2inn/fin5-utils": "latest",
+        "@j2inn/glue-utils": "latest",
+        "@j2inn/haystack-client": "latest",
+        "@j2inn/haystack-core": "latest",
+        "@j2inn/haystack-react": "latest",
+        "@j2inn/haystack-units": "latest",
+        "@j2inn/podify": "latest",
+        "@j2inn/react-config-app": "latest",
+        "@j2inn/resolvable-ui-elements": "latest",
+        "@j2inn/scram": "latest",
+        "@j2inn/ui": "latest",
+        "@j2inn/utils": "latest"
+    }
+}

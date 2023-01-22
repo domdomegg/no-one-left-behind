@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-fuq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fuq": "latest",
+        "fuqda-ui-components": "latest",
+        "fuqiang": "latest",
+        "fuqiheng": "latest",
+        "fuqipeng": "latest",
+        "fuqipeng2": "latest",
+        "fuqit": "latest",
+        "fuqu": "latest",
+        "fuqueue": "latest",
+        "fuqzed": "latest"
+    }
+}

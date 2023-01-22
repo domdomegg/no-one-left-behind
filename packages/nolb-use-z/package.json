@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-use-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "use-zendesk": "latest",
+        "use-zendesk-widget": "latest",
+        "use-zone-breakpoints": "latest",
+        "use-zoom-pan": "latest",
+        "use-zustand": "latest"
+    }
+}

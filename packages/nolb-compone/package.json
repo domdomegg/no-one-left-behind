@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-compone",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "compone": "latest",
+        "@zalastax/nolb-componej": "latest",
+        "@zalastax/nolb-componen": "latest",
+        "@zalastax/nolb-componer": "latest",
+        "@zalastax/nolb-componet": "latest"
+    }
+}

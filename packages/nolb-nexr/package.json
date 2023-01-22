@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-nexr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nexrad-level-2-data": "latest",
+        "nexrad-level-2-plot": "latest",
+        "nexrad-level-3-data": "latest",
+        "nexrad-level-3-plot": "latest",
+        "nexrender": "latest",
+        "nexrender-action-cloudinary": "latest",
+        "nexrender-action-hls-converter": "latest",
+        "nexrender-action-install-font": "latest",
+        "nexrender-action-install-font-crossplatform": "latest",
+        "nexrender-action-mogrt-template": "latest",
+        "nexrender-action-porter": "latest",
+        "nexrender-action-run-command": "latest",
+        "nexrender-action-sanity-patch": "latest",
+        "nexrender-action-smtp": "latest",
+        "nexrender-action-template-cache": "latest",
+        "nexrender-action-template-unzip": "latest",
+        "nexrender-action-unzip": "latest",
+        "nexrender-action-upload-facebook-ad": "latest",
+        "nexrender-action-upload-s3-presigned": "latest",
+        "nexrender-io": "latest",
+        "nexrender-laravel": "latest",
+        "nexrender-sanity-upload": "latest",
+        "nexrender-simple-file-upload": "latest",
+        "nexrender-upload-oss": "latest",
+        "nexrequest": "latest",
+        "nexridge": "latest",
+        "nexridge-client": "latest"
+    }
+}

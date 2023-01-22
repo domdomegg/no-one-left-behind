@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-ro-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ro-bert_voice": "latest",
+        "ro-bot": "latest",
+        "ro-cdk-patterns": "latest",
+        "ro-component-library": "latest",
+        "ro-crate": "latest",
+        "ro-crate-excel": "latest",
+        "ro-crate-html": "latest",
+        "ro-crate-html-js": "latest",
+        "ro-crate-to-geojson": "latest",
+        "ro-dev-utils": "latest",
+        "ro-discord.js": "latest",
+        "ro-form": "latest",
+        "ro-framework-template": "latest",
+        "ro-helper": "latest",
+        "ro-li-md-links": "latest",
+        "ro-md-links": "latest",
+        "ro-poller": "latest",
+        "ro-product": "latest",
+        "ro-product-card": "latest",
+        "ro-rating": "latest",
+        "ro-react-native-swiper": "latest",
+        "ro-rem-arr-dups": "latest",
+        "ro-server-utils": "latest",
+        "ro-style-loader": "latest",
+        "ro-template": "latest",
+        "ro-ui-demo": "latest",
+        "ro-utils": "latest",
+        "ro-virtual-scroll": "latest"
+    }
+}

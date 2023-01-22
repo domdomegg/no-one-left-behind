@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-checkh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "checkhashstream": "latest",
+        "checkhasmasterlast": "latest",
+        "checkhost": "latest",
+        "checkhost-wrapper": "latest",
+        "checkhtml5": "latest"
+    }
+}

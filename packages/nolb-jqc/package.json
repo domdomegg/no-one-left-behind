@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-jqc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jqc": "latest",
+        "jqc-webpack-numbers": "latest",
+        "jqcalendar": "latest",
+        "jqcloud-npm": "latest",
+        "jqcloud2": "latest"
+    }
+}

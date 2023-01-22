@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_arx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@arx21/core": "latest",
+        "@arx21/module-property-addresses": "latest",
+        "@arxade/commontest": "latest",
+        "@arximughal/avatar": "latest",
+        "@arximughal/button": "latest",
+        "@arximughal/uds": "latest",
+        "@arxis/api": "latest",
+        "@arxis/fireauth": "latest",
+        "@arxis/gtvzone": "latest",
+        "@arxis/image-processor": "latest",
+        "@arxlan99/fantastic-ui": "latest",
+        "@arxpoetica/sapper-trimmings": "latest",
+        "@arxpoetica/utils": "latest",
+        "@arxu-sec/dev": "latest",
+        "@arxzur/vue-datepicker": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-b5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "b5": "latest",
+        "b5-calculate-score": "latest",
+        "b5-get-profile": "latest",
+        "b5-johnson-120-ipip-neo-pi-r": "latest",
+        "b5-result-text": "latest",
+        "b5-result-text-custom": "latest",
+        "b52-test": "latest",
+        "b55": "latest",
+        "b58": "latest",
+        "b5ffer-xor": "latest",
+        "b5g": "latest",
+        "b5k-datepicker": "latest",
+        "b5m": "latest",
+        "b5request-logger": "latest"
+    }
+}

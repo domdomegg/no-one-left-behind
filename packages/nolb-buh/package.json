@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-buh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "buh": "latest",
+        "buha": "latest",
+        "buhaoyong": "latest",
+        "buhari.js": "latest",
+        "buhealth": "latest",
+        "buhelide-kuaile": "latest",
+        "buhfizzle-ts": "latest",
+        "buhges": "latest",
+        "buho": "latest",
+        "buhoi": "latest",
+        "buhoi-client": "latest",
+        "buhoi-commit": "latest",
+        "buhoi-migrator": "latest",
+        "buhoi-ui": "latest",
+        "buhoi-workflow": "latest",
+        "buhost": "latest",
+        "buhost-template": "latest",
+        "buhost2": "latest"
+    }
+}

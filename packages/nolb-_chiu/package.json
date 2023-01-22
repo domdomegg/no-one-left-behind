@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_chiu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chiubaca/gridsome-source-devto": "latest",
+        "@chiubaka/core": "latest",
+        "@chiubaka/eslint-config": "latest",
+        "@chiubaka/generated-typescript-package": "latest",
+        "@chiubaka/genesis": "latest",
+        "@chiubaka/holocron": "latest",
+        "@chiubaka/holocron-mikro": "latest",
+        "@chiubaka/holocron-nest": "latest",
+        "@chiubaka/nx-plugin": "latest",
+        "@chiubaka/nx-plugin-testing": "latest",
+        "@chiubaka/nx-plugin-utils": "latest",
+        "@chiubaka/tsconfig": "latest",
+        "@chiuzon/solidweb3": "latest",
+        "@chiuzon/svelte-erc20": "latest",
+        "@chiuzon/svelteweb3": "latest"
+    }
+}

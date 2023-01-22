@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_o3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@o3/async-utils": "latest",
+        "@o3/prop-types": "latest",
+        "@o3/service": "latest",
+        "@o3/typed": "latest",
+        "@o3o/vue-cli-plugin-env-yaml": "latest",
+        "@o3o/vue-cli-plugin-packages": "latest",
+        "@o3o/vue-cli-plugin-react": "latest",
+        "@o3r/amaterasu-dapi-spec": "latest",
+        "@o3r/amaterasu-otter": "latest",
+        "@o3r/amaterasu-sdk": "latest",
+        "@o3r/ngx-prefetch": "latest",
+        "@o3swap/v2-sdk": "latest",
+        "@o3world/backstopjs": "latest",
+        "@o3world/generator-drupal-theme": "latest",
+        "@o3world/generator-react-project": "latest",
+        "@o3world/orb-ci-tests": "latest",
+        "@o3world/orb-pantheon": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-prow",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "prow": "latest",
+        "prower-components": "latest",
+        "prowessli": "latest",
+        "prowl": "latest",
+        "prowl-ip-reputation": "latest",
+        "prowler": "latest",
+        "prowler-sdk-poc": "latest",
+        "prowljs": "latest",
+        "prowp": "latest",
+        "prowy": "latest"
+    }
+}

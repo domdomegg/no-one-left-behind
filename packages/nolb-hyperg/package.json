@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-hyperg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hyperganymede": "latest",
+        "hypergard": "latest",
+        "hypergeo": "latest",
+        "hypergeojson": "latest",
+        "hypergiant": "latest",
+        "hypergit": "latest",
+        "hypergit-service": "latest",
+        "hypergl": "latest",
+        "hyperglue": "latest",
+        "hyperglue2": "latest",
+        "hypergluten": "latest",
+        "hypergoogle": "latest",
+        "hypergossip": "latest",
+        "hypergraph": "latest",
+        "hypergraphs-drawing": "latest",
+        "hypergravity": "latest",
+        "hypergres": "latest"
+    }
+}

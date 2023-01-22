@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-ag_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ag.alert": "latest",
+        "ag.app.web.book.js.lib": "latest",
+        "ag.ui-react": "latest",
+        "ag_dubs": "latest",
+        "ag_dubs_dubs_dubs": "latest"
+    }
+}

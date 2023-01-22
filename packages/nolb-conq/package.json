@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-conq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "conquade": "latest",
+        "conquer": "latest",
+        "conqueror": "latest",
+        "conqueror-ui": "latest",
+        "conquerswap-community-token-list": "latest",
+        "conquerswap-contracts": "latest",
+        "conquerswap-core": "latest",
+        "conquerswap-default-token-list": "latest",
+        "conquerswap-periphery": "latest",
+        "conquerswap-sdk": "latest",
+        "conquerswap-sdk-extra": "latest",
+        "conquery": "latest",
+        "conqueso-client-javascript": "latest",
+        "conquest": "latest",
+        "conquest-eth-common": "latest",
+        "conquete": "latest",
+        "conqur": "latest",
+        "conqurrent": "latest"
+    }
+}

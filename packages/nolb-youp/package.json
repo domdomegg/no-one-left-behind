@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-youp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "youpeng": "latest",
+        "youpi": "latest",
+        "youpin-dashboard": "latest",
+        "youpin-icon": "latest",
+        "youpin-img": "latest",
+        "youpin-lib-doc": "latest",
+        "youpin-rn-icon": "latest",
+        "youplayer": "latest",
+        "youpwn": "latest"
+    }
+}

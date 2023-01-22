@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-maru",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "maru": "latest",
+        "maru-curl": "latest",
+        "maru-dsl": "latest",
+        "maru-first-node-package": "latest",
+        "maru-gateway": "latest",
+        "maru-github": "latest",
+        "maru-js": "latest",
+        "maru9961": "latest",
+        "maru_design": "latest",
+        "marubatu": "latest",
+        "marudor-hazelcast-client": "latest",
+        "marudor-react-joyride": "latest",
+        "marufrana": "latest",
+        "marugoto-pull": "latest",
+        "maruhun_api": "latest",
+        "maruja": "latest",
+        "maruko-cli": "latest",
+        "marunk20-frame-print": "latest",
+        "marusya-types": "latest",
+        "marutestmenu": "latest"
+    }
+}

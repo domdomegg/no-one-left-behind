@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-customl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "customLibrary": "latest",
+        "customlib-checking": "latest",
+        "customlib-methodworks": "latest",
+        "customlib-test": "latest",
+        "customlib-updated": "latest",
+        "customlibpp": "latest",
+        "customlinhaoqin": "latest",
+        "customlodashcompact": "latest",
+        "customlog": "latest",
+        "customlogger": "latest"
+    }
+}

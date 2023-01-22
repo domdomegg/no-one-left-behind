@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-open3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "open311": "latest",
+        "open311-api-sync": "latest",
+        "open311-infobip": "latest",
+        "open311-messages": "latest",
+        "open311-push": "latest",
+        "open311-smtp": "latest",
+        "open360-util": "latest",
+        "open3d": "latest"
+    }
+}

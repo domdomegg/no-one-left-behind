@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-jest-i",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jest-if": "latest",
+        "jest-ifdef-transform": "latest",
+        "jest-image": "latest",
+        "jest-image-gaussian-snapshot": "latest",
+        "jest-image-matcher": "latest",
+        "jest-image-snapshot": "latest",
+        "jest-image-snapshot-diff-reporter": "latest",
+        "jest-img-snapshot": "latest",
+        "jest-imgur-reporter": "latest",
+        "jest-immutable-matchers": "latest",
+        "jest-immutable-matchers-with-jest-27": "latest",
+        "jest-import-spy": "latest",
+        "jest-in-case": "latest",
+        "jest-incremental": "latest",
+        "jest-inferno-fela": "latest",
+        "jest-inspect-hooks": "latest",
+        "jest-install-matcher-extends": "latest",
+        "jest-instanceof": "latest",
+        "jest-invert": "latest",
+        "jest-isa": "latest",
+        "jest-it-up": "latest",
+        "jest-it-up-ts": "latest",
+        "jest-its": "latest"
+    }
+}

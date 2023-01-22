@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-webpacke",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "webpacked-angular-with-dll": "latest",
+        "webpacker": "latest",
+        "webpacker-cli": "latest",
+        "webpacker-entry": "latest",
+        "webpacker-helpers": "latest",
+        "webpacker-pure-config": "latest",
+        "webpacker-pwa": "latest",
+        "webpacker-react": "latest",
+        "webpacker-routes": "latest",
+        "webpacker-scripts": "latest",
+        "webpacker-svelte": "latest",
+        "webpacker-sw-plugin": "latest",
+        "webpacker-swiftcarrot": "latest",
+        "webpackerator": "latest",
+        "webpacket": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_p_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@p.aleks/formatjs-cli": "latest",
+        "@p.aleks/i18next-json-sync": "latest",
+        "@p.aleks/myshows-api": "latest",
+        "@p.aleks/react-grid-table": "latest",
+        "@p.boiko/gatsby-source-wagtail": "latest",
+        "@p.hondagneu.roig/shout": "latest",
+        "@p.r/jaeger-client": "latest",
+        "@p.ratnikau/domain": "latest",
+        "@p.zarkov/hotstuff": "latest",
+        "@p_6642/tiny": "latest",
+        "@p_a_u_/test_scope": "latest",
+        "@p_mac/datatables.webcomponent": "latest"
+    }
+}

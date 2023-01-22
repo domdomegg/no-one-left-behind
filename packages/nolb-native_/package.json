@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-native_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "native.common": "latest",
+        "native.d.ts": "latest",
+        "native.js": "latest",
+        "native.ng": "latest",
+        "native.react": "latest",
+        "native.vue": "latest",
+        "native_math": "latest",
+        "native_napi_test": "latest",
+        "native_test_package_35": "latest",
+        "native_training_package": "latest",
+        "native_tst": "latest"
+    }
+}

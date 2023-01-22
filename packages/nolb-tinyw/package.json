@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-tinyw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tinywan-swiper-demo": "latest",
+        "tinywasi": "latest",
+        "tinyweb": "latest",
+        "tinyweb3": "latest",
+        "tinywebserver": "latest",
+        "tinywfs": "latest",
+        "tinywind": "latest",
+        "tinywork": "latest",
+        "tinywriter": "latest",
+        "tinyws": "latest",
+        "tinywysiwyg": "latest"
+    }
+}

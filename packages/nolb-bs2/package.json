@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-bs2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bs2-programmer": "latest",
+        "bs2-serial": "latest",
+        "bs2-serial-protocol": "latest",
+        "bs2-snippet-injector": "latest",
+        "bs2pass-lib-common": "latest",
+        "bs2pass-mfe-lib-common": "latest"
+    }
+}

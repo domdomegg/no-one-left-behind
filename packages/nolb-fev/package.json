@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-fev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fev": "latest",
+        "fev-cli": "latest",
+        "fev-lib": "latest",
+        "feval": "latest",
+        "feve": "latest",
+        "fever": "latest",
+        "fever-cookies-plugin": "latest",
+        "fever-dream": "latest",
+        "fever-static-startkit": "latest",
+        "feverdestiny": "latest",
+        "feveriq": "latest",
+        "feverish": "latest",
+        "feverish-auth": "latest",
+        "feverish-routes": "latest",
+        "feverish-statics": "latest",
+        "feverish-v3": "latest",
+        "feverjs": "latest",
+        "feversion": "latest",
+        "fevim": "latest",
+        "fevor": "latest",
+        "fevr": "latest"
+    }
+}

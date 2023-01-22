@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-node-red-f",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-facebook": "latest",
+        "node-red-factory-config": "latest",
+        "node-red-ffmpeg": "latest",
+        "node-red-filter": "latest",
+        "node-red-filter-filename": "latest",
+        "node-red-firebase": "latest",
+        "node-red-firebase-donnees-urbaines": "latest",
+        "node-red-firebird-cli": "latest",
+        "node-red-flow-drawer": "latest",
+        "node-red-flow-json-division": "latest",
+        "node-red-flowbasket": "latest",
+        "node-red-flows-convert-to-code": "latest",
+        "node-red-flows-mongo": "latest",
+        "node-red-flows-mongo-user": "latest",
+        "node-red-function-convtoami-test": "latest",
+        "node-red-function-logger": "latest",
+        "node-red-fx-swagger": "latest"
+    }
+}

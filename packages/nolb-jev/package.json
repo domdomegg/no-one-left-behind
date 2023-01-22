@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-jev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jev": "latest",
+        "jeval": "latest",
+        "jeve": "latest",
+        "jevent": "latest",
+        "jever-cli-test": "latest",
+        "jever-cli-test-lib": "latest",
+        "jevertonl": "latest",
+        "jeves": "latest",
+        "jevin": "latest",
+        "jevinascs": "latest",
+        "jevincityview": "latest",
+        "jevisan-memory-game": "latest",
+        "jevisan-tic-tac-toe": "latest",
+        "jevon-utils": "latest",
+        "jevons-hive": "latest",
+        "jevul": "latest",
+        "jevul-react": "latest"
+    }
+}

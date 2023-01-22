@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-edn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "edn": "latest",
+        "edn-data": "latest",
+        "edn-eq": "latest",
+        "edn-js": "latest",
+        "edn-parser": "latest",
+        "edn-to-js": "latest",
+        "edn-tots": "latest",
+        "edn2json": "latest",
+        "edna": "latest",
+        "edna-api-js-wrapper": "latest",
+        "edna-cli": "latest",
+        "ednaaaj-button": "latest",
+        "ednaaaj-comp": "latest",
+        "ednaldo": "latest",
+        "ednevnik": "latest",
+        "ednexio": "latest",
+        "ednl-liftstatus-web-components": "latest",
+        "edno": "latest",
+        "edno-ts": "latest",
+        "edns": "latest",
+        "edns-sdk": "latest"
+    }
+}

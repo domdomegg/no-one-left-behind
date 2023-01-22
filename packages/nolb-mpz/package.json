@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-mpz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mpz-ui": "latest",
+        "mpzcomponents": "latest",
+        "mpzj-comp-lib": "latest",
+        "mpzj-sell-lib": "latest",
+        "mpzj-test-lib-0.1": "latest",
+        "mpzjs": "latest",
+        "mpzmail-components": "latest"
+    }
+}

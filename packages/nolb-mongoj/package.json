@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-mongoj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mongojack": "latest",
+        "mongojs": "latest",
+        "mongojs-db-utils": "latest",
+        "mongojs-hooks": "latest",
+        "mongojs-logger": "latest",
+        "mongojs-paginate": "latest",
+        "mongojuice": "latest"
+    }
+}

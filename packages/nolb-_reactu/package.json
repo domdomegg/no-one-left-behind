@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_reactu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reactual/c": "latest",
+        "@reactual/gql": "latest",
+        "@reactual/handsontable": "latest",
+        "@reactual/handsontable-pro": "latest",
+        "@reactual/minami": "latest",
+        "@reactual/node-zendesk": "latest",
+        "@reactual/query-string": "latest",
+        "@reactual/react-dropzone-component": "latest",
+        "@reactual/whatis": "latest",
+        "@reactui-org/core": "latest",
+        "@reactui2020/notification-bar": "latest",
+        "@reactui2020/notifyme": "latest",
+        "@reactuicomponents/reactmaterialgrid": "latest",
+        "@reactunity/create": "latest",
+        "@reactunity/material": "latest",
+        "@reactunity/previewer": "latest",
+        "@reactunity/renderer": "latest",
+        "@reactunity/scripts": "latest",
+        "@reactuniversal/button": "latest",
+        "@reactuniversal/button-material": "latest",
+        "@reactuniversal/drawer": "latest",
+        "@reactuniversal/material-indicators": "latest",
+        "@reactuniversal/ripple": "latest",
+        "@reactuses/core": "latest"
+    }
+}

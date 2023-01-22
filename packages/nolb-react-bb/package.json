@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-react-bb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-bb": "latest",
+        "react-bb-barchart": "latest",
+        "react-bb-broccoli": "latest",
+        "react-bb-component": "latest",
+        "react-bb-poppop": "latest",
+        "react-bb-tab": "latest",
+        "react-bb-table": "latest",
+        "react-bb-test-package": "latest",
+        "react-bbk": "latest",
+        "react-bbox": "latest",
+        "react-bbox-annotator": "latest",
+        "react-bbox-selector": "latest",
+        "react-bbs": "latest"
+    }
+}

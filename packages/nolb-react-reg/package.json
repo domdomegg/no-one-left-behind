@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-react-reg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-regalia": "latest",
+        "react-regex": "latest",
+        "react-regex-router": "latest",
+        "react-regexr": "latest",
+        "react-region": "latest",
+        "react-region-flag-select": "latest",
+        "react-region-map": "latest",
+        "react-region-picker": "latest",
+        "react-region-select": "latest",
+        "react-region-select-fork": "latest",
+        "react-regional": "latest",
+        "react-regionalizacion-chile": "latest",
+        "react-regions": "latest",
+        "react-register-dom": "latest",
+        "react-register-nodes": "latest",
+        "react-register-nodes-ie": "latest",
+        "react-registry": "latest",
+        "react-regl": "latest",
+        "react-regressive": "latest"
+    }
+}

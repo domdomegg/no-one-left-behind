@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_compr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@comprando/react-native-app-intro": "latest",
+        "@compression-algorithm/lempel-ziv": "latest",
+        "@compromis/blobby": "latest"
+    }
+}

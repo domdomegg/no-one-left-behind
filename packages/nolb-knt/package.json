@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-knt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "knt": "latest",
+        "knt-cli": "latest",
+        "knt-react": "latest",
+        "kntc": "latest",
+        "kntl-digital3": "latest",
+        "kntrl-client": "latest"
+    }
+}

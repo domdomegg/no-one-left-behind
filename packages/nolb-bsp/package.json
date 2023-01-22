@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-bsp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bsp": "latest",
+        "bsp-grunt": "latest",
+        "bsp-left-right-layout": "latest",
+        "bsp-main-right-layout": "latest",
+        "bsp-network": "latest",
+        "bsp-person": "latest",
+        "bsp-tree": "latest",
+        "bspatch": "latest",
+        "bspec": "latest",
+        "bsplib": "latest",
+        "bsplineann": "latest",
+        "bsplit": "latest",
+        "bsplit2": "latest",
+        "bsplugin": "latest",
+        "bspoek": "latest",
+        "bspostscribe": "latest",
+        "bsprescribe": "latest",
+        "bsprite": "latest",
+        "bsproof": "latest",
+        "bsprt": "latest",
+        "bspublisher": "latest",
+        "bspui5": "latest"
+    }
+}

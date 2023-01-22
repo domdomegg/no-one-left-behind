@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-cody",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cody": "latest",
+        "cody-cli": "latest",
+        "cody-demi": "latest",
+        "cody-fullpage": "latest",
+        "cody-gulp": "latest",
+        "cody-gulp-template": "latest",
+        "cody-music": "latest",
+        "cody-node-module": "latest",
+        "cody-test-library": "latest",
+        "cody-test-npm": "latest",
+        "cody-ui": "latest",
+        "cody.js": "latest",
+        "codyaverett": "latest",
+        "codyboazlibrary": "latest",
+        "codychen-rollup-demo": "latest",
+        "codyframe-css": "latest",
+        "codygen-cli": "latest",
+        "codyhazelwood": "latest",
+        "codyhouse-framework": "latest",
+        "codykit": "latest",
+        "codylynn-component": "latest",
+        "codyogden": "latest",
+        "codypaste": "latest",
+        "codypaste-cli": "latest",
+        "codys-bridge-helper": "latest",
+        "codys-user-system": "latest",
+        "codyy-cli": "latest",
+        "codyy-element-theme": "latest"
+    }
+}

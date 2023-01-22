@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-reaco",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reaco": "latest",
+        "reaco-pagination": "latest",
+        "reaco-table-list": "latest",
+        "reacon": "latest",
+        "reacooks": "latest",
+        "reacord": "latest",
+        "reacoulchen_test": "latest"
+    }
+}

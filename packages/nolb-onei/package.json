@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-onei",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "oneid": "latest",
+        "oneid-nodejs": "latest",
+        "oneid-react-native": "latest",
+        "oneid-sdk": "latest",
+        "onein-openapi": "latest",
+        "onein-studio-ui": "latest",
+        "onein-vue-icon": "latest",
+        "oneinamillion": "latest",
+        "oneinfitech-area": "latest",
+        "oneinfitech-xlsx-style": "latest",
+        "oneinme": "latest",
+        "oneinme-regex": "latest",
+        "oneinputtext": "latest",
+        "oneiric-core": "latest",
+        "oneistox-designx": "latest",
+        "oneit-telemetry-extension": "latest"
+    }
+}

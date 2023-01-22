@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-eventl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eventlib": "latest",
+        "eventlibtest": "latest",
+        "eventline": "latest",
+        "eventlint": "latest",
+        "eventlistener": "latest",
+        "eventlistener-polyfill": "latest",
+        "eventlistener-resize": "latest",
+        "eventlistenerwithname": "latest",
+        "eventlistner-hook-react": "latest",
+        "eventlogger": "latest",
+        "eventlogger-client": "latest",
+        "eventlogging.js": "latest",
+        "eventloop": "latest",
+        "eventloop-cli": "latest",
+        "eventloop-info": "latest",
+        "eventloop-latency": "latest",
+        "eventloopmon": "latest",
+        "evently": "latest",
+        "eventlyjs": "latest"
+    }
+}

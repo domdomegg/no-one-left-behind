@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-event_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "event.coordinator": "latest",
+        "event.dll": "latest",
+        "event.es6": "latest",
+        "event.js": "latest",
+        "event.log": "latest",
+        "event.min.js": "latest",
+        "event_amd": "latest",
+        "event_catalog": "latest",
+        "event_chain": "latest",
+        "event_emitter": "latest",
+        "event_engine_schemas": "latest",
+        "event_laownag": "latest",
+        "event_pengshaohua": "latest",
+        "event_people_node7": "latest",
+        "event_practice": "latest",
+        "event_queue_bus_zwf": "latest",
+        "event_request": "latest",
+        "event_tick_example": "latest"
+    }
+}

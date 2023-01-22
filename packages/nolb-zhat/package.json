@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-zhat",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zhat-lg-button": "latest",
+        "zhat-lg-form": "latest",
+        "zhat-lg-form-item": "latest",
+        "zhat-lg-input": "latest",
+        "zhat-lg-link": "latest",
+        "zhat-lg-steps": "latest",
+        "zhat-utilities": "latest",
+        "zhat.js": "latest",
+        "zhatestnpm": "latest"
+    }
+}

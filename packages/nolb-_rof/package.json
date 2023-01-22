@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_rof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@rofdav/common": "latest",
+        "@rofer/crm-assets": "latest",
+        "@rofer/crm-sdk": "latest",
+        "@rofer/magic-mike": "latest",
+        "@rofer/the-librarian-sdk": "latest",
+        "@roffray/mymodule": "latest",
+        "@rofiat/lotide": "latest",
+        "@rofrado9178/lotide": "latest",
+        "@roft/dp": "latest",
+        "@roft/present": "latest",
+        "@roft/test": "latest"
+    }
+}

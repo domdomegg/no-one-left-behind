@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_coden",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@codenail/local-api": "latest",
+        "@codenail/local-client": "latest",
+        "@codename/spec": "latest",
+        "@codenamex/reference_number": "latest",
+        "@codenamize/codenamize": "latest",
+        "@codeninja613/test-com": "latest",
+        "@codeniu/create-niu": "latest",
+        "@codeniu/vue-divider": "latest",
+        "@codennnn/tsconfig": "latest",
+        "@codenotary/immudb-node": "latest",
+        "@codenotary/immudb-node-grpcjs": "latest",
+        "@codenotary/immudb-node-pbjs": "latest",
+        "@codenote-x/local-api": "latest",
+        "@codenote-x/local-client": "latest",
+        "@codenotebook/local-client": "latest",
+        "@codenotes/local-api": "latest",
+        "@codenotes/local-client": "latest",
+        "@codens/codens-react-google-maps": "latest",
+        "@codenstein/tiff-js": "latest",
+        "@codenstein/twain-js": "latest"
+    }
+}

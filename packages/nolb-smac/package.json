@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-smac",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smac": "latest",
+        "smacarthur_math": "latest",
+        "smache": "latest",
+        "smachine": "latest",
+        "smack": "latest",
+        "smack-ember-adapters": "latest",
+        "smack-js-compiler": "latest",
+        "smack-my-jasmine-up": "latest",
+        "smack-my-twitter-bot": "latest",
+        "smack-rooms": "latest",
+        "smackbar": "latest",
+        "smackbone": "latest",
+        "smackbone-live": "latest",
+        "smackdown": "latest",
+        "smacker": "latest",
+        "smacss-oosass": "latest",
+        "smacss-sass": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-discog",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discogen": "latest",
+        "discography": "latest",
+        "discography-cli": "latest",
+        "discogs": "latest",
+        "discogs-basics": "latest",
+        "discogs-client": "latest",
+        "discogs-crate-digger": "latest",
+        "discogs-data-tools": "latest",
+        "discogs-elements": "latest",
+        "discogs-embed": "latest",
+        "discogs-image-grabber": "latest",
+        "discogs-marketplace-api-nodejs": "latest",
+        "discogs-marketplace-js": "latest",
+        "discogs-parser": "latest",
+        "discogs-ts": "latest",
+        "discogs-wantlist-cli": "latest",
+        "discogs_market_api": "latest",
+        "discogs_marketplace_api": "latest"
+    }
+}

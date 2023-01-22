@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-senz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "senz": "latest",
+        "senz-ssp": "latest",
+        "senza_senso": "latest",
+        "senzflow-sdk.js": "latest",
+        "senzill-pagination": "latest",
+        "senzo": "latest",
+        "senzo-cli": "latest",
+        "senzo-stylus-components": "latest",
+        "senzu": "latest"
+    }
+}

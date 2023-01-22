@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_adx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@adxact/adxact-js": "latest",
+        "@adxact/rmp-vast": "latest",
+        "@adxell/mediaplayer": "latest",
+        "@adxp/auth": "latest",
+        "@adxp/auth-lobby": "latest",
+        "@adxp/awake": "latest",
+        "@adxp/cli": "latest",
+        "@adxp/common": "latest",
+        "@adxp/server": "latest",
+        "@adxp/ws-relay": "latest"
+    }
+}

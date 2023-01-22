@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-nesl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "neslo-auth-ui": "latest",
+        "neslogging": "latest",
+        "nesly": "latest",
+        "nesly-meld": "latest",
+        "nesly-sound": "latest",
+        "nesly-split": "latest",
+        "nesly-sprite": "latest"
+    }
+}

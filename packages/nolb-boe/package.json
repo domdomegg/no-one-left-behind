@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-boe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "boe": "latest",
+        "boe-app-factory": "latest",
+        "boe-frontend-scaffold": "latest",
+        "boe-headless-client": "latest",
+        "boe-sketch-ruler": "latest",
+        "boehlerio-ticketapi": "latest",
+        "boehm": "latest",
+        "boehmtest": "latest",
+        "boehs": "latest",
+        "boeing": "latest",
+        "boel": "latest",
+        "boemly": "latest",
+        "boer": "latest",
+        "boerhaave-arch": "latest",
+        "boerhaave-package-test": "latest",
+        "boeric-hello": "latest",
+        "boethius-lang": "latest",
+        "boeuf": "latest"
+    }
+}

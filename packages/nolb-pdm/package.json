@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-pdm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pdm": "latest",
+        "pdm-antd-vue": "latest",
+        "pdm-awesome-project": "latest",
+        "pdm-pr-cli": "latest",
+        "pdm-random-messages": "latest",
+        "pdm-rosie": "latest",
+        "pdm-template": "latest",
+        "pdm-template-cli": "latest",
+        "pdm-to-json": "latest",
+        "pdm-vue-cli": "latest",
+        "pdm-vue-cli-li": "latest",
+        "pdm-webpack-demo": "latest",
+        "pdm_cli": "latest",
+        "pdm_shence": "latest",
+        "pdman": "latest",
+        "pdmaptw": "latest",
+        "pdml": "latest",
+        "pdmodule": "latest"
+    }
+}

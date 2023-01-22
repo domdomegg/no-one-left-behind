@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-basem",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "baseman": "latest",
+        "basemanage": "latest",
+        "basemap-component": "latest",
+        "basemap-data-catalog": "latest",
+        "basemaptest": "latest",
+        "basemapview": "latest",
+        "basemapview-glzx": "latest",
+        "basemapviewroad": "latest",
+        "basement": "latest",
+        "basement-auth-local": "latest",
+        "basement-storage": "latest",
+        "basementdevs-sharedmodels": "latest",
+        "basemerge": "latest",
+        "basemodal": "latest",
+        "basemodel": "latest",
+        "basemodelts": "latest",
+        "basemq": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_fin_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fin/arrays": "latest",
+        "@fin/async": "latest",
+        "@fin/charcode": "latest",
+        "@fin/ci-task-runner": "latest",
+        "@fin/collections": "latest",
+        "@fin/command": "latest",
+        "@fin/contextkey": "latest",
+        "@fin/disposable": "latest",
+        "@fin/dom": "latest",
+        "@fin/event": "latest",
+        "@fin/example-keybinding": "latest",
+        "@fin/example-mindmap": "latest",
+        "@fin/geometry": "latest",
+        "@fin/instantiation": "latest",
+        "@fin/io": "latest",
+        "@fin/iterator": "latest",
+        "@fin/keybinding": "latest",
+        "@fin/keyboard": "latest",
+        "@fin/linkedlist": "latest",
+        "@fin/mindmap": "latest",
+        "@fin/numerical": "latest",
+        "@fin/platform": "latest",
+        "@fin/signal": "latest",
+        "@fin/strings": "latest",
+        "@fin/svg": "latest",
+        "@fin/types": "latest"
+    }
+}

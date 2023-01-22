@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-assu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "assui": "latest",
+        "assume": "latest",
+        "assume-aws-environment-variables": "latest",
+        "assume-aws-role": "latest",
+        "assume-enzyme": "latest",
+        "assume-react": "latest",
+        "assume-role-js": "latest",
+        "assume-sinon": "latest",
+        "assumejs": "latest",
+        "assumer": "latest",
+        "assumer-cli": "latest",
+        "assumerole-cli": "latest",
+        "assurance": "latest",
+        "assurance-common-npm": "latest",
+        "assure": "latest",
+        "assure-array": "latest",
+        "assure-ui": "latest",
+        "assure_ai": "latest",
+        "assure_jarvis": "latest",
+        "assure_mui": "latest",
+        "assureaivin": "latest",
+        "assured": "latest",
+        "assured-ping-http-contains": "latest",
+        "assured-ping-http-head": "latest"
+    }
+}

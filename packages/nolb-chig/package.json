@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-chig",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chigai-api": "latest",
+        "chigai-cli": "latest",
+        "chigai-core": "latest",
+        "chigai-mock-server": "latest",
+        "chigorin-games": "latest",
+        "chigua-cli": "latest"
+    }
+}

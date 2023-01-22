@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-cdo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cdo": "latest",
+        "cdo-apollo-client": "latest",
+        "cdo-firebase-storage": "latest",
+        "cdo-package": "latest",
+        "cdo-react-native-fast-image": "latest",
+        "cdoak": "latest",
+        "cdoc": "latest",
+        "cdoc-test": "latest",
+        "cdocgen-lib-demo": "latest",
+        "cdocparser": "latest",
+        "cdog": "latest",
+        "cdojs": "latest",
+        "cdoload-pic": "latest",
+        "cdom": "latest",
+        "cdomkokao-fonts": "latest",
+        "cdon-mc-components": "latest"
+    }
+}

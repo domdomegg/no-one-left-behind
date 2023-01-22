@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_j5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@j50/test-mavon-editor": "latest",
+        "@j5e/animation": "latest",
+        "@j5e/easing": "latest",
+        "@j5e/event": "latest",
+        "@j5e/fn": "latest",
+        "@j5e/led": "latest",
+        "@j5e/rgb": "latest",
+        "@j5e/servo": "latest",
+        "@j5e/switch": "latest",
+        "@j5e/tests": "latest"
+    }
+}

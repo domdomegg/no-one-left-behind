@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-next-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "next-jigs": "latest",
+        "next-job": "latest",
+        "next-joi": "latest",
+        "next-jotai-sync-location": "latest",
+        "next-js": "latest",
+        "next-js-api-handeler": "latest",
+        "next-js-budget-enforcer": "latest",
+        "next-js-cli": "latest",
+        "next-js-codemod": "latest",
+        "next-js-lib-ba": "latest",
+        "next-js-story-book-app": "latest",
+        "next-js-suggest-input": "latest",
+        "next-js-template-generator": "latest",
+        "next-js-ts": "latest",
+        "next-json": "latest",
+        "next-jsx-blog": "latest",
+        "next-juggernaut": "latest"
+    }
+}

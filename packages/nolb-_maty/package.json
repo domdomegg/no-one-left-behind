@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_maty",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@maty21/soccer-lineup": "latest",
+        "@maty21/soccer-linup": "latest",
+        "@matyas/akommo-react-ui": "latest",
+        "@matyas/matyaskar-forked-react-ui": "latest",
+        "@matychp.cp/click-to-call": "latest",
+        "@matym/components": "latest",
+        "@matymcleodorg/lotide": "latest"
+    }
+}

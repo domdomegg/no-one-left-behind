@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-pij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pij": "latest",
+        "pijaz-sdk": "latest",
+        "pijecta": "latest",
+        "pijin": "latest",
+        "pijma": "latest",
+        "pijma-v2": "latest",
+        "pijs": "latest"
+    }
+}

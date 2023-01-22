@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-booth",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "booth": "latest",
+        "booth-table": "latest",
+        "booth.js": "latest",
+        "boothr-front-lib-bill-tpl": "latest",
+        "boothr-front-lib-bill-tpl-types": "latest"
+    }
+}

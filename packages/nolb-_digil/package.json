@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_digil",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@digilab-ucasal/dl-vue": "latest",
+        "@digilabs/ngest-iex": "latest",
+        "@digilabs/ngest-ig": "latest",
+        "@digilabscz/digikit": "latest",
+        "@digilar/dotenv-url": "latest",
+        "@digilent/digilent-auth-js": "latest",
+        "@digilent/digilent-lambda-js": "latest",
+        "@digilent/linx-device-js": "latest",
+        "@digilent/linx-js": "latest",
+        "@digilent/linx-nodejs": "latest",
+        "@digilent/product-database-client": "latest",
+        "@digiline/games": "latest",
+        "@digiline/orgscopetest": "latest",
+        "@digiline/stencil-router": "latest",
+        "@digilution/smooth-scroll-library": "latest",
+        "@digilution/ui-library": "latest",
+        "@digilution/ui-library-react": "latest"
+    }
+}

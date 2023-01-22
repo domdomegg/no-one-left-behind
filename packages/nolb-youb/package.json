@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-youb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "youban-table": "latest",
+        "youban-utils": "latest",
+        "youbase": "latest",
+        "youbbs-backup-helper": "latest",
+        "youbeegoo": "latest",
+        "youbetter-desktop-app": "latest",
+        "youbike-api": "latest",
+        "youbike-js": "latest",
+        "youbin-assignment1-stat": "latest",
+        "youbiscrap": "latest",
+        "youbo-frame-print": "latest",
+        "youbox": "latest"
+    }
+}

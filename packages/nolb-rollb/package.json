@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-rollb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rollback": "latest",
+        "rollback-top": "latest",
+        "rollbackable": "latest",
+        "rollbackdb": "latest",
+        "rollbar": "latest",
+        "rollbar-api": "latest",
+        "rollbar-browser": "latest",
+        "rollbar-cli": "latest",
+        "rollbar-cordova": "latest",
+        "rollbar-deploy-webpack-plugin": "latest",
+        "rollbar-dw": "latest",
+        "rollbar-embedded": "latest",
+        "rollbar-grouping": "latest",
+        "rollbar-hapi": "latest",
+        "rollbar-http-error": "latest",
+        "rollbar-ideame": "latest",
+        "rollbar-initializer": "latest",
+        "rollbar-jquery": "latest",
+        "rollbar-react-native": "latest",
+        "rollbar-react-native-master": "latest",
+        "rollbar-redux-middleware": "latest",
+        "rollbar-relay": "latest",
+        "rollbar-sourcemap-webpack-plugin": "latest",
+        "rollbar-stream": "latest",
+        "rollbot": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_snt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sntickets/common": "latest",
+        "@sntickety/common-lib": "latest",
+        "@sntke/antora-mermaid-extension": "latest",
+        "@snts.abode/loc.js": "latest",
+        "@sntsoft/alert": "latest",
+        "@sntsoft/pagination": "latest",
+        "@sntsoft/utils": "latest",
+        "@sntxx/formik-material-ui": "latest",
+        "@sntxx/material-ui-color-picker": "latest",
+        "@sntxx/react-smooth-dnd": "latest",
+        "@sntxx/smooth-dnd": "latest",
+        "@sntxx/socket": "latest",
+        "@sntxx/socket-apollo-link": "latest"
+    }
+}

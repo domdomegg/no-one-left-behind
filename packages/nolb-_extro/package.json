@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_extro",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@extronics/mjml": "latest",
+        "@extronics/mjml-core": "latest",
+        "@extronics/mjml-parser-xml": "latest",
+        "@extronics/svg-inline-loader": "latest",
+        "@extropia/number-formatter": "latest"
+    }
+}

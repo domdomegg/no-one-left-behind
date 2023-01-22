@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_atv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@atvise/cra-template": "latest",
+        "@atvise/cra-template-typescript": "latest",
+        "@atvise/modular-webmi": "latest",
+        "@atvise/react-scripts": "latest",
+        "@atvise/types-webmi": "latest",
+        "@atvise/webmi-react": "latest"
+    }
+}

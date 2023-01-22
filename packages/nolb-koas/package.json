@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-koas",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "koas": "latest",
+        "koas-body-parser": "latest",
+        "koas-core": "latest",
+        "koas-operations": "latest",
+        "koas-parameters": "latest",
+        "koas-security": "latest",
+        "koas-serializer": "latest",
+        "koas-spec-handler": "latest",
+        "koas-status-code": "latest",
+        "koas-swagger-ui": "latest",
+        "koas3": "latest",
+        "koaserver": "latest",
+        "koast": "latest",
+        "koast-angular": "latest",
+        "koast-aws": "latest",
+        "koast-db-utils": "latest",
+        "koast-logger": "latest",
+        "koast-router": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_datav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datav-gi/datav-gi-js": "latest",
+        "@datav-gi/datav-gi-layer-extrusion": "latest",
+        "@datav-gi/datavgi-gl-js": "latest",
+        "@datav-gi/expression": "latest",
+        "@datav-gi/style-compiler": "latest",
+        "@datavant/example": "latest",
+        "@dataventures/auth": "latest",
+        "@dataverse/dataverse-components": "latest",
+        "@dataview/datav-vue3": "latest",
+        "@datavis-tech/codemirror-6-prerelease": "latest",
+        "@datavis-tech/ot-json0": "latest",
+        "@datavis-tech/polylabel": "latest",
+        "@datavision/dataset": "latest"
+    }
+}

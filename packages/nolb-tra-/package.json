@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-tra-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tra-address": "latest",
+        "tra-cli": "latest",
+        "tra-crypto": "latest",
+        "tra-design-platform": "latest",
+        "tra-email-verifier": "latest",
+        "tra-ingress": "latest",
+        "tra-table": "latest",
+        "tra-test-component": "latest",
+        "tra-time1": "latest",
+        "tra-typed-fetch": "latest"
+    }
+}

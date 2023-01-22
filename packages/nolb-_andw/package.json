@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_andw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@andwhy/drx-corporate-components": "latest",
+        "@andwhy/drx-corporate-components-test": "latest",
+        "@andwhy/paloma-icons": "latest",
+        "@andwhy/paloma-ui": "latest",
+        "@andwin/eslint-config": "latest"
+    }
+}

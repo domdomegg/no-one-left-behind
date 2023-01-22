@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-generators",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "generators": "latest",
+        "generators-clitemp": "latest",
+        "generators-huya": "latest",
+        "generators-js": "latest",
+        "generators-qwj-vue": "latest",
+        "generators-slm-test": "latest",
+        "generators-web-project": "latest",
+        "generators.js": "latest",
+        "generatorsnippets": "latest"
+    }
+}

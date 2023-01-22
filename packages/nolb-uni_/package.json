@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-uni_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "uni.node.map": "latest",
+        "uni.ts": "latest",
+        "uni_management": "latest",
+        "uni_swiper_adaptive": "latest",
+        "uni_template": "latest",
+        "uni_validator_pro": "latest",
+        "uni_validator_utils": "latest",
+        "uni_validators_extra": "latest"
+    }
+}

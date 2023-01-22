@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_ph_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ph.fritsche/eslint-config": "latest",
+        "@ph.fritsche/scripts": "latest",
+        "@ph.fritsche/scripts-config": "latest",
+        "@ph.fritsche/toolbox": "latest"
+    }
+}

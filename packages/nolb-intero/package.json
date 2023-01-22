@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-intero",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "intero": "latest",
+        "interoffice": "latest",
+        "interop": "latest",
+        "interop-client": "latest",
+        "interop-libp2p": "latest",
+        "interop-require": "latest",
+        "interop-service-client2": "latest",
+        "interoperability-layer-api": "latest",
+        "interoperable-components": "latest",
+        "interopjs": "latest",
+        "interopjs-interface": "latest"
+    }
+}

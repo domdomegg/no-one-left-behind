@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-mps",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mps": "latest",
+        "mps-ag-components": "latest",
+        "mps-cli": "latest",
+        "mps-deploy": "latest",
+        "mps-nestjs-cqrs": "latest",
+        "mps-test-lerna-admin": "latest",
+        "mps-test-lerna-button": "latest",
+        "mpserverless-sdk-core": "latest",
+        "mpsfc": "latest",
+        "mpsl": "latest",
+        "mpsm": "latest",
+        "mpspider": "latest",
+        "mpss-test-ja": "latest",
+        "mpssserver-client": "latest",
+        "mpstate": "latest",
+        "mpstore": "latest",
+        "mpsx-test": "latest"
+    }
+}

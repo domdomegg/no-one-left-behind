@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-vite-i",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vite-i18n": "latest",
+        "vite-i18n-plugin": "latest",
+        "vite-icon": "latest",
+        "vite-icons": "latest",
+        "vite-ignore-style": "latest",
+        "vite-image": "latest",
+        "vite-imagetools": "latest",
+        "vite-import-plugin": "latest",
+        "vite-inferno-js-starter": "latest",
+        "vite-inferno-ts-starter": "latest",
+        "vite-inject-css": "latest",
+        "vite-islands": "latest"
+    }
+}

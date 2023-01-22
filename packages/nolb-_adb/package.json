@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_adb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@adb-dev/adb-tools": "latest",
+        "@adbayb/create": "latest",
+        "@adbayb/eslint-config": "latest",
+        "@adbayb/prettier-config": "latest",
+        "@adbayb/scripts": "latest",
+        "@adbayb/terminal-kit": "latest",
+        "@adbayb/ts-config": "latest",
+        "@adben002/cfn-yaml-value-injector": "latest",
+        "@adber/adber-ui": "latest",
+        "@adber/shipber-ui": "latest",
+        "@adber/shipber-ui-dev": "latest",
+        "@adbiljett/common": "latest",
+        "@adbits/dashboard-theme": "latest",
+        "@adbros/fe-coding-standard": "latest",
+        "@adbs1/trapnz-redux-offline": "latest",
+        "@adbwu/lotide": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-sen-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sen-6321-ui": "latest",
+        "sen-cli": "latest",
+        "sen-cli-lib": "latest",
+        "sen-components": "latest",
+        "sen-css-more": "latest",
+        "sen-el-select": "latest",
+        "sen-exchange-core": "latest",
+        "sen-idl-parser": "latest",
+        "sen-kit": "latest",
+        "sen-plugin": "latest",
+        "sen-preview-photo": "latest",
+        "sen-sample-package": "latest",
+        "sen-second-package": "latest",
+        "sen-shared": "latest",
+        "sen-shell": "latest",
+        "sen-tabs": "latest",
+        "sen-test": "latest",
+        "sen-water-fall": "latest",
+        "sen-welfare-account-admin": "latest",
+        "sen-welfare-configable-page": "latest",
+        "sen-welfare-multipage": "latest"
+    }
+}

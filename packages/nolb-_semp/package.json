@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_semp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sempasha/gzippo": "latest",
+        "@semperfortis/snowflakejs": "latest",
+        "@sempervirens/authorizer": "latest",
+        "@sempervirens/cacher": "latest",
+        "@sempervirens/client-css": "latest",
+        "@sempervirens/dao": "latest",
+        "@sempervirens/emailer": "latest",
+        "@sempervirens/endpoint": "latest",
+        "@sempervirens/plugin-authentication-endpoints": "latest",
+        "@sempervirens/plugin-csp-middleware": "latest",
+        "@sempervirens/plugin-persistence-endpoints": "latest",
+        "@sempervirens/plugin-session-endpoints": "latest",
+        "@sempervirens/plugins": "latest",
+        "@sempervirens/server": "latest",
+        "@sempervirens/site-loader": "latest",
+        "@sempervirens/tools": "latest",
+        "@sempre/request": "latest",
+        "@sempro/nuxt-prismic": "latest"
+    }
+}

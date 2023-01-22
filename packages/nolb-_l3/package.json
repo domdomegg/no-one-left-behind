@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_l3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@l3/with-defaults": "latest",
+        "@l3ilkojr/jdinsults": "latest",
+        "@l3lackjack/casteaching": "latest",
+        "@l3lackjack/casteaching_gabriel": "latest",
+        "@l3onh4rd/npm-xor": "latest",
+        "@l3p1lab/tickets-common": "latest",
+        "@l3tum/cpu-benchmark-common": "latest",
+        "@l3tum/hardwareinformation": "latest",
+        "@l3v1k/tsc-alias": "latest"
+    }
+}

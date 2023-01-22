@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-typescript-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typescript-object-builder": "latest",
+        "typescript-object-helper": "latest",
+        "typescript-object-mapper": "latest",
+        "typescript-object-observer": "latest",
+        "typescript-object-schema": "latest",
+        "typescript-object-serializer": "latest",
+        "typescript-object-utilities": "latest",
+        "typescript-object-utils": "latest",
+        "typescript-object-validator": "latest",
+        "typescript-observable": "latest",
+        "typescript-odata-client": "latest",
+        "typescript-of-axios": "latest",
+        "typescript-openapi-builder": "latest",
+        "typescript-openapi-generator": "latest",
+        "typescript-openapi-router": "latest",
+        "typescript-optional": "latest",
+        "typescript-organize-imports": "latest",
+        "typescript-orm": "latest"
+    }
+}

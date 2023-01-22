@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-rolo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rolo": "latest",
+        "rolo12345": "latest",
+        "rolo2": "latest",
+        "roloc": "latest",
+        "rolodex": "latest",
+        "rolodex-css": "latest",
+        "rolodex-ngx-controls": "latest",
+        "rolodex-ngx-portal-controls": "latest",
+        "rolodex-react-scripts": "latest",
+        "rolodex-toolkit": "latest",
+        "rolog-cli": "latest",
+        "roloi": "latest",
+        "roloxy": "latest"
+    }
+}

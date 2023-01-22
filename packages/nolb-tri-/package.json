@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-tri-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tri-angular-date-picker-library": "latest",
+        "tri-angular-dialog": "latest",
+        "tri-angular-library": "latest",
+        "tri-angular-pipe-library": "latest",
+        "tri-deploy": "latest",
+        "tri-lab": "latest",
+        "tri-mai-test-component": "latest",
+        "tri-navbar": "latest",
+        "tri-proxy": "latest",
+        "tri-public-instagram": "latest",
+        "tri-rail-alerts": "latest",
+        "tri-rail-schedule": "latest",
+        "tri-react-npm-package-boilerplate": "latest",
+        "tri-scss": "latest",
+        "tri-sequelize": "latest",
+        "tri-slider": "latest",
+        "tri-state": "latest",
+        "tri-storybook-ds": "latest",
+        "tri-template": "latest",
+        "tri-tri": "latest",
+        "tri-view": "latest",
+        "tri-vulcanize": "latest"
+    }
+}

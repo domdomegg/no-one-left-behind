@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-nesi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nesilce-lib": "latest",
+        "nesin": "latest",
+        "nesine.memcached": "latest",
+        "nesine.microservice.memcached": "latest",
+        "nesine.microservice.memorycache": "latest",
+        "nesity-statistics": "latest"
+    }
+}

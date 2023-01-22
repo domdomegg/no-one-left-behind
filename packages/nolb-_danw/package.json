@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_danw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@danwang/either": "latest",
+        "@danwang/extractor": "latest",
+        "@danwang/functions": "latest",
+        "@danwang/option": "latest",
+        "@danwang/retainer": "latest",
+        "@danwkennedy/arango-cli": "latest",
+        "@danwkennedy/arango-datasource": "latest"
+    }
+}

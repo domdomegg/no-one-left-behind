@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-timei",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "timeid": "latest",
+        "timeify": "latest",
+        "timein": "latest",
+        "timeinformation": "latest",
+        "timeis": "latest",
+        "timeit": "latest",
+        "timeit-async": "latest",
+        "timeit-cli": "latest",
+        "timeit-js": "latest",
+        "timeit-stream": "latest",
+        "timeit-sync": "latest",
+        "timeit-v2": "latest"
+    }
+}

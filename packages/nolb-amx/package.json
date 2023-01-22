@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-amx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "amx": "latest",
+        "amx-authorization-header": "latest",
+        "amx-db": "latest",
+        "amx-ftp": "latest",
+        "amx-indexeddb": "latest",
+        "amx-js": "latest",
+        "amx-setup": "latest",
+        "amxdd": "latest",
+        "amxxpack": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_grae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@graef685/jquery-same-height": "latest",
+        "@graememiller/scts-components": "latest",
+        "@graememiller/scts-components-old": "latest",
+        "@graememiller/scts-storybook-test-2": "latest",
+        "@graememiller/storybook--rollup-test": "latest",
+        "@graemenickerson/lotide": "latest"
+    }
+}

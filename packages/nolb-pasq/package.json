@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-pasq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pasqua-lib1": "latest",
+        "pasqua-magic-string": "latest",
+        "pasqua-mylib": "latest",
+        "pasqua-ng-framework": "latest",
+        "pasquack": "latest",
+        "pasquale": "latest",
+        "pasquale-cli": "latest",
+        "pasquale-md": "latest",
+        "pasquej-neat": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-drau",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "draught": "latest",
+        "draughts": "latest",
+        "draughts-engine": "latest",
+        "draughts-game": "latest",
+        "draughtsboard": "latest",
+        "draughtsground": "latest",
+        "draugiem": "latest",
+        "draugiemapi": "latest",
+        "draugr": "latest",
+        "draugr-use-wallet": "latest",
+        "draugur": "latest",
+        "drauu": "latest"
+    }
+}

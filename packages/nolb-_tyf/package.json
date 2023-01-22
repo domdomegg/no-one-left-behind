@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_tyf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tyfintech/common": "latest",
+        "@tyfr/common": "latest",
+        "@tyframe/core": "latest",
+        "@tyframe/example": "latest",
+        "@tyframe/util": "latest"
+    }
+}

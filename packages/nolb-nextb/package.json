@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-nextb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nextback": "latest",
+        "nextbasic": "latest",
+        "nextbasket-components": "latest",
+        "nextbass": "latest",
+        "nextblog": "latest",
+        "nextbone": "latest",
+        "nextbone-contact-manager": "latest",
+        "nextbone-firestore": "latest",
+        "nextbone-modals": "latest",
+        "nextbone-radio": "latest",
+        "nextbone-routing": "latest",
+        "nextbone-service": "latest",
+        "nextbone-state": "latest",
+        "nextbot": "latest",
+        "nextbot-core": "latest",
+        "nextbox-server": "latest",
+        "nextbranch": "latest",
+        "nextbus": "latest",
+        "nextbus-graphql": "latest",
+        "nextbus-live-feed": "latest",
+        "nextbus-to-gtfs-rt": "latest",
+        "nextbusjs": "latest"
+    }
+}

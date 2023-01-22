@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-msq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "msq": "latest",
+        "msq-appbase": "latest",
+        "msq-utils": "latest",
+        "msq_cordova-plugin-rfid": "latest",
+        "msqfirst": "latest",
+        "msqfirstnpm": "latest",
+        "msql": "latest",
+        "msql-admin": "latest",
+        "msql-qb": "latest",
+        "msqltrack": "latest",
+        "msqsl": "latest",
+        "msqtools": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-uix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "uix": "latest",
+        "uix-calendar": "latest",
+        "uix-cli": "latest",
+        "uix-light-notifier": "latest",
+        "uix-mat-number-spinner": "latest",
+        "uix-precompile-loader": "latest",
+        "uix-react": "latest",
+        "uix-shared": "latest",
+        "uix-template-loader": "latest",
+        "uixp": "latest"
+    }
+}

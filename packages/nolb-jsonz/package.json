@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-jsonz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jsonz_first_package": "latest",
+        "jsonz_test1_20150925": "latest",
+        "jsonz_test2_20150925": "latest",
+        "jsonz_test4_20150925": "latest",
+        "jsonz_test_20150925": "latest",
+        "jsonz_vue": "latest",
+        "jsonzheng-captcha.test": "latest",
+        "jsonzheng-excel-export": "latest",
+        "jsonzheng-hello-world": "latest",
+        "jsonzheng-miniprogram": "latest",
+        "jsonzheng-myvue-cli": "latest",
+        "jsonzheng-qs2": "latest",
+        "jsonzheng-ui": "latest",
+        "jsonzhengr-myexpress": "latest",
+        "jsonzhuanhuaweiwenjian": "latest",
+        "jsonzip": "latest"
+    }
+}

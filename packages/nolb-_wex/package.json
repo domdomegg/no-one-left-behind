@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_wex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wex001/hello_pack": "latest",
+        "@wexond/cd": "latest",
+        "@wexond/electron-rpc": "latest",
+        "@wexond/rpc-core": "latest",
+        "@wexond/rpc-electron": "latest",
+        "@wexond/rpc-node": "latest",
+        "@wexond/ui": "latest",
+        "@wext/icons": "latest",
+        "@wext/manifest": "latest",
+        "@wext/runtime": "latest",
+        "@wext/shipit": "latest",
+        "@wext/storage": "latest",
+        "@wext/tabs": "latest",
+        "@wext/test": "latest",
+        "@wexxew/workerthreads": "latest"
+    }
+}

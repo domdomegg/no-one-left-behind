@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-createl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "createlabel": "latest",
+        "createlabeltest": "latest",
+        "createlin": "latest",
+        "creatella-js-sdk-base": "latest",
+        "creatella-react-components": "latest",
+        "createlocalvuerouter": "latest",
+        "createloop": "latest"
+    }
+}

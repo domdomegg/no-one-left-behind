@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_it7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@it7-ngx/it7-button": "latest",
+        "@it7-ngx/it7-checkbox": "latest",
+        "@it7-ngx/it7-http": "latest",
+        "@it7-ngx/it7-input": "latest",
+        "@it7-ngx/it7-popup": "latest",
+        "@it7-ngx/it7-select": "latest",
+        "@it7-ngx/it7-translate": "latest"
+    }
+}

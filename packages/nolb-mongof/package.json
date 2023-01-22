@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-mongof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mongof": "latest",
+        "mongofb": "latest",
+        "mongofdb": "latest",
+        "mongofiles": "latest",
+        "mongofiles2": "latest",
+        "mongofileupload": "latest",
+        "mongofilter": "latest",
+        "mongofire": "latest",
+        "mongofl": "latest",
+        "mongoflame": "latest",
+        "mongofn": "latest",
+        "mongofoo": "latest",
+        "mongofox": "latest",
+        "mongofrontend": "latest",
+        "mongofs": "latest",
+        "mongofunctions": "latest",
+        "mongofuse": "latest"
+    }
+}

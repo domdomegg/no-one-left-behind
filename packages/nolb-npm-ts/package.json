@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-npm-ts",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "npm-ts-boilerplate": "latest",
+        "npm-ts-component-test": "latest",
+        "npm-ts-example": "latest",
+        "npm-ts-example-package": "latest",
+        "npm-ts-ioc": "latest",
+        "npm-ts-paa-core": "latest",
+        "npm-ts-package-template": "latest",
+        "npm-ts-ploto": "latest",
+        "npm-ts-publish": "latest",
+        "npm-ts-react": "latest",
+        "npm-ts-remote": "latest",
+        "npm-ts-starter": "latest",
+        "npm-ts-template": "latest",
+        "npm-ts-test": "latest",
+        "npm-ts-utils": "latest",
+        "npm-ts-wxc": "latest",
+        "npm-tset": "latest",
+        "npm-tst-lib": "latest",
+        "npm-tst20190617": "latest"
+    }
+}

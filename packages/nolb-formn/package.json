@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-formn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "formn": "latest",
+        "formn-cli": "latest",
+        "formn-condition-builder": "latest",
+        "formn-nestjs-utils": "latest",
+        "formna": "latest",
+        "formng": "latest",
+        "formnic": "latest"
+    }
+}

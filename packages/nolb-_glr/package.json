@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_glr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@glr/ngx-file-uploader": "latest",
+        "@glrodasz/components": "latest",
+        "@glrodasz/storybook-tools-helpers": "latest",
+        "@glrodasz/storybook-tools-snapshots": "latest",
+        "@glrodasz/storybook-tools-styles": "latest",
+        "@glry/core": "latest",
+        "@glry/daily": "latest"
+    }
+}

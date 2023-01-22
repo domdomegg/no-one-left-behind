@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-zhr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zhr": "latest",
+        "zhr-cals": "latest",
+        "zhr-http-server": "latest",
+        "zhr-plugin": "latest",
+        "zhr-test-design-system": "latest",
+        "zhr-utils": "latest",
+        "zhr-vueaaa": "latest",
+        "zhrlianxi2890": "latest",
+        "zhrn": "latest",
+        "zhrtcsdk": "latest",
+        "zhry-vue-ui": "latest",
+        "zhrzwebsocketrpc": "latest"
+    }
+}

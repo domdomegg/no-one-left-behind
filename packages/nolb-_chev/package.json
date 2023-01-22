@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_chev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chevah/papaparse": "latest",
+        "@chevck/air-ocean-ports": "latest",
+        "@chevin/components": "latest",
+        "@chevre/api-abstract-client": "latest",
+        "@chevre/api-nodejs-client": "latest",
+        "@chevre/domain": "latest",
+        "@chevre/factory": "latest",
+        "@chevrotain/cst-dts-gen": "latest",
+        "@chevrotain/gast": "latest",
+        "@chevrotain/types": "latest",
+        "@chevrotain/utils": "latest",
+        "@chevtek/angular-spinners": "latest",
+        "@chevtek/cli": "latest",
+        "@chevtek/ftp-sync": "latest",
+        "@chevtek/hookmodals": "latest",
+        "@chevtek/poker-engine": "latest",
+        "@chevtek/react-spinners": "latest",
+        "@chevtek/react-state-container": "latest"
+    }
+}

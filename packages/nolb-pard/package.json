@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-pard",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pardano": "latest",
+        "pardeep-app-shell": "latest",
+        "pardeepbhasin-app": "latest",
+        "pardeepsharma-custom-button": "latest",
+        "pardeepsharma-custom-button2": "latest",
+        "pardis": "latest",
+        "pardiss": "latest",
+        "pardjs-common": "latest",
+        "pardjs-recaptcha-server-updated": "latest",
+        "pardofelis": "latest",
+        "pardom": "latest",
+        "pardosa": "latest",
+        "pardot": "latest",
+        "pardot-client": "latest",
+        "pardot-ex2": "latest",
+        "pardot-streaming-client": "latest",
+        "pardsun-npm": "latest",
+        "pardy": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-eventr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "EventRelayEmitter": "latest",
+        "eventr": "latest",
+        "eventra": "latest",
+        "eventreactor": "latest",
+        "eventregistry": "latest",
+        "eventreplay": "latest",
+        "eventrex": "latest",
+        "eventric": "latest",
+        "eventric-remote-inmemory": "latest",
+        "eventric-remote-socketio-client": "latest",
+        "eventric-remote-socketio-endpoint": "latest",
+        "eventric-storage": "latest",
+        "eventric-storage-inmemory": "latest",
+        "eventric-storage-mongodb": "latest",
+        "eventric-store-inmemory": "latest",
+        "eventric-store-lowdb": "latest",
+        "eventric-store-mongodb": "latest",
+        "eventric-store-remote": "latest",
+        "eventric-store-specs": "latest",
+        "eventric-store-tingodb": "latest",
+        "eventric-testing": "latest",
+        "eventrino": "latest",
+        "eventriver": "latest",
+        "eventrix": "latest",
+        "eventroll-ui": "latest",
+        "eventronics": "latest",
+        "eventrouter": "latest",
+        "eventry": "latest"
+    }
+}

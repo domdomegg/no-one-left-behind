@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-passp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-passpa": "latest",
+        "@zalastax/nolb-passph": "latest",
+        "@zalastax/nolb-passpi": "latest",
+        "@zalastax/nolb-passpo": "latest",
+        "@zalastax/nolb-passpr": "latest",
+        "@zalastax/nolb-passpw": "latest",
+        "@zalastax/nolb-passpz": "latest"
+    }
+}

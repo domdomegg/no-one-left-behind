@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_jek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jeka1024/hello-wasm": "latest",
+        "@jekatigr/test-release-action": "latest",
+        "@jekatigr/ui-core": "latest",
+        "@jekatigr/ui-shared": "latest",
+        "@jekel18/docker-secrets-loader": "latest",
+        "@jekel18/neorm": "latest",
+        "@jekel18/openapi-to-postman": "latest",
+        "@jekinsd/utils": "latest",
+        "@jekrb/example-css": "latest",
+        "@jekru/human-readable": "latest"
+    }
+}

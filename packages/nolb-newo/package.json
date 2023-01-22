@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-newo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "newoa-base": "latest",
+        "newoa-home": "latest",
+        "newoa-rest-utils": "latest",
+        "newoa-search-form": "latest",
+        "newobj": "latest",
+        "newocean-auctions": "latest",
+        "newocean-drops": "latest",
+        "newoec-sdk": "latest",
+        "newofpacker": "latest",
+        "newone": "latest",
+        "newone-npm": "latest",
+        "newone-test": "latest",
+        "newone-tester": "latest",
+        "newone11": "latest",
+        "neworbit-stylelint-config": "latest",
+        "neworbit-tslint-config": "latest",
+        "newour": "latest",
+        "newown": "latest"
+    }
+}

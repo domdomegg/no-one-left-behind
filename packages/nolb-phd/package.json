@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-phd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "phd": "latest",
+        "phd-admin-layout": "latest",
+        "phd-akita-firestore": "latest",
+        "phd-akita-form": "latest",
+        "phd-akita-session": "latest",
+        "phd-comics": "latest",
+        "phd-common": "latest",
+        "phd-forms": "latest",
+        "phd-kyle-worrall": "latest",
+        "phd-zorro-components": "latest",
+        "phdnote": "latest"
+    }
+}

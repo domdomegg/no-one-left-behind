@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_wek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wekanteam/cli-table3": "latest",
+        "@wekanteam/commitizen": "latest",
+        "@wekanteam/cz-conventional-changelog": "latest",
+        "@wekanteam/documentation": "latest",
+        "@wekanteam/jison": "latest",
+        "@wekanteam/markdown-it-mermaid": "latest",
+        "@wekanteam/minio": "latest",
+        "@wekanteam/nyc": "latest",
+        "@wekit/core": "latest",
+        "@wekit/plugin-console": "latest",
+        "@wekit/plugin-perf-report": "latest",
+        "@wekit/shared": "latest",
+        "@weknow.network/wk-pkg-carousel": "latest",
+        "@weknow.network/wk-pkg-extensions": "latest",
+        "@weknow.network/wk-pkg-primitives": "latest",
+        "@weknow/gatsby-remark-codepen": "latest",
+        "@weknow/gatsby-remark-drupal": "latest",
+        "@weknow/gatsby-remark-twitch": "latest",
+        "@weknow/gatsby-remark-twitter": "latest",
+        "@weknow/gatsby-starter-drupal-boina": "latest",
+        "@weknow/gatsby-theme-drupal-boina": "latest",
+        "@weknow/react-bubble-chart-d3": "latest",
+        "@weknow/react-data-report": "latest",
+        "@weknow/react-svgloader": "latest",
+        "@weknow/reaction-payment-skeleton": "latest",
+        "@weksik/manifest-generator": "latest",
+        "@weky/inlinereply": "latest"
+    }
+}

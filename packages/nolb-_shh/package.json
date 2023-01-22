@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_shh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shhdev/utils": "latest",
+        "@shhhplus/react-router-relative-link": "latest",
+        "@shhhplus/timer.js": "latest",
+        "@shhorse/form": "latest",
+        "@shhorse/form-us": "latest",
+        "@shhorse/render": "latest",
+        "@shhsu/my-lib": "latest",
+        "@shhtickets/common": "latest"
+    }
+}

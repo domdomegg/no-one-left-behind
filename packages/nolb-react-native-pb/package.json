@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-react-native-pb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-pb-rn-sdk": "latest",
+        "react-native-pbkdf2": "latest",
+        "react-native-pbkdf2-rok": "latest"
+    }
+}

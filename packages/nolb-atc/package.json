@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-atc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "atc": "latest",
+        "atc-cli": "latest",
+        "atc-library": "latest",
+        "atc-library-test": "latest",
+        "atc-nexus-test": "latest",
+        "atc-radar": "latest",
+        "atc-search-selector-ng": "latest",
+        "atc-type-checker": "latest",
+        "atc2scd": "latest",
+        "atco": "latest",
+        "atcoder-cli": "latest",
+        "atcoder-sidemenu": "latest",
+        "atcoder-userscript-libs": "latest",
+        "atcoder-widget": "latest",
+        "atcon": "latest",
+        "atcq": "latest",
+        "atcss": "latest"
+    }
+}

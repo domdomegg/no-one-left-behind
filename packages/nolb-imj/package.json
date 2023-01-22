@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-imj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "imj": "latest",
+        "imjaya03": "latest",
+        "imjenius": "latest",
+        "imjim-nodejs1": "latest",
+        "imjohn_tools": "latest",
+        "imjoy": "latest",
+        "imjoy-core": "latest",
+        "imjoy-jupyter-extension": "latest",
+        "imjoy-rpc": "latest",
+        "imjoymhnt": "latest",
+        "imjs": "latest",
+        "imjs-gen": "latest"
+    }
+}

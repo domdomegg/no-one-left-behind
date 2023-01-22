@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-vu3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vu3": "latest",
+        "vu3-bootstrap5-components": "latest",
+        "vu3-module-ui": "latest",
+        "vu3-ui": "latest",
+        "vu3vite-lzbs": "latest"
+    }
+}

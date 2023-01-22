@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_openfonts_w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@openfonts/waiting-for-the-sunrise_latin": "latest",
+        "@openfonts/wallpoet_latin": "latest",
+        "@openfonts/walter-turncoat_latin": "latest",
+        "@openfonts/warnes_latin": "latest",
+        "@openfonts/warnes_latin-ext": "latest",
+        "@openfonts/wellfleet_latin": "latest",
+        "@openfonts/wellfleet_latin-ext": "latest",
+        "@openfonts/wendy-one_latin": "latest",
+        "@openfonts/wendy-one_latin-ext": "latest",
+        "@openfonts/wire-one_latin": "latest",
+        "@openfonts/work-sans_all": "latest",
+        "@openfonts/work-sans_latin": "latest",
+        "@openfonts/work-sans_latin-ext": "latest",
+        "@openfonts/work-sans_vietnamese": "latest"
+    }
+}

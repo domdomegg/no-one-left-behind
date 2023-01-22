@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-ge_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ge_npm_001": "latest",
+        "ge_npm_ek_area": "latest",
+        "ge_npm_jhl_001": "latest",
+        "ge_npm_jm_001": "latest",
+        "ge_npm_jma": "latest",
+        "ge_npm_rk_001": "latest",
+        "ge_rp_npm": "latest"
+    }
+}

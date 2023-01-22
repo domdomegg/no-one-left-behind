@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-mongoo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mongoo": "latest",
+        "@zalastax/nolb-mongoob": "latest",
+        "@zalastax/nolb-mongooc": "latest",
+        "@zalastax/nolb-mongood": "latest",
+        "@zalastax/nolb-mongoof": "latest",
+        "@zalastax/nolb-mongool": "latest",
+        "@zalastax/nolb-mongoom": "latest",
+        "@zalastax/nolb-mongoon": "latest",
+        "@zalastax/nolb-mongooo": "latest",
+        "@zalastax/nolb-mongoop": "latest",
+        "@zalastax/nolb-mongooq": "latest",
+        "@zalastax/nolb-mongoor": "latest",
+        "@zalastax/nolb-mongoos": "latest",
+        "@zalastax/nolb-mongoot": "latest"
+    }
+}

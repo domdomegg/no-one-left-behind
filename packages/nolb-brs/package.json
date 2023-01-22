@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-brs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brs": "latest",
+        "brs-emu": "latest",
+        "brs-js": "latest",
+        "brs-storage": "latest",
+        "brs-testing-utils": "latest",
+        "brs-wordpress-headless-npm-scripts": "latest",
+        "brs_lighthouse": "latest",
+        "brsass": "latest",
+        "brsh": "latest",
+        "brsh-process-module": "latest",
+        "brsjs-loader": "latest",
+        "brsjsk": "latest",
+        "brslint": "latest",
+        "brsnyder": "latest",
+        "brsocket-angular2": "latest",
+        "brsocket-node": "latest",
+        "brsolab-process": "latest",
+        "brsolab-tmp": "latest",
+        "brsolab-xss": "latest",
+        "brsolve-from": "latest",
+        "brsrkr": "latest",
+        "brstar": "latest",
+        "brstm": "latest"
+    }
+}

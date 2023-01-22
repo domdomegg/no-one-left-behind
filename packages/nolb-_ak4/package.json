@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_ak4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ak48/starcoin": "latest",
+        "@ak48/starswap-v2-sdk": "latest",
+        "@ak4zh/auth-helpers-sveltekit": "latest",
+        "@ak4zh/skeleton": "latest"
+    }
+}

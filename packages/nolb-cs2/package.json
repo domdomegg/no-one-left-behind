@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-cs2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cs2": "latest",
+        "cs2-encryption": "latest",
+        "cs20011126": "latest",
+        "cs20191111": "latest",
+        "cs20191181051": "latest",
+        "cs2019971057": "latest",
+        "cs2019971200": "latest",
+        "cs2019971406bjy": "latest",
+        "cs241-regtest": "latest",
+        "cs241-test": "latest",
+        "cs2es": "latest",
+        "cs2go-webapi": "latest",
+        "cs2java": "latest",
+        "cs2java_dbserver": "latest",
+        "cs2ts": "latest",
+        "cs2us-figma-icon": "latest"
+    }
+}

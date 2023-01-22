@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-react-my",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-my-bits": "latest",
+        "react-my-cli": "latest",
+        "react-my-comp-1": "latest",
+        "react-my-component": "latest",
+        "react-my-component-boilerplate": "latest",
+        "react-my-component-dongyao-ling": "latest",
+        "react-my-component-typescript-boilerplate": "latest",
+        "react-my-editor": "latest",
+        "react-my-hooks": "latest",
+        "react-my-items": "latest",
+        "react-my-react-library-btn": "latest",
+        "react-my-stories": "latest",
+        "react-my-template": "latest",
+        "react-my-test-component": "latest",
+        "react-my-test-package": "latest",
+        "react-mychatbot-kit-advanced": "latest",
+        "react-myclis": "latest",
+        "react-mycustom-card": "latest",
+        "react-mycute-tiger": "latest",
+        "react-myfooter": "latest",
+        "react-mymrt": "latest",
+        "react-myoneui": "latest",
+        "react-mysoft-wysiwyg": "latest",
+        "react-mysql": "latest",
+        "react-mytest": "latest",
+        "react-myui": "latest"
+    }
+}

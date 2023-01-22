@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-cn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-cnc": "latest",
+        "react-cnf-form": "latest",
+        "react-cnhf": "latest",
+        "react-cnp-component-creator": "latest",
+        "react-cnpl": "latest",
+        "react-cntdwn": "latest",
+        "react-cnwxsoft": "latest"
+    }
+}

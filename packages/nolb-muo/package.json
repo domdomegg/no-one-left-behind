@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-muo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "muo": "latest",
+        "muokuai": "latest",
+        "muon": "latest",
+        "muon-amqp": "latest",
+        "muon-cli": "latest",
+        "muon-client": "latest",
+        "muon-core": "latest",
+        "muon-editor": "latest",
+        "muon-mockify": "latest",
+        "muon-next-music-player": "latest",
+        "muon-stack-event": "latest",
+        "muon-stack-reactive-streams": "latest",
+        "muon-stack-rpc": "latest",
+        "muon-toolbox": "latest",
+        "muon-winstaller": "latest",
+        "muon-winstaller-test": "latest",
+        "muonjs": "latest",
+        "muons": "latest",
+        "muop-practice": "latest"
+    }
+}

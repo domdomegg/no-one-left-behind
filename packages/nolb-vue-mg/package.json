@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-vue-mg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-mg": "latest",
+        "vue-mg-csv-importer": "latest",
+        "vue-mg-date-picker-from-to": "latest",
+        "vue-mg-date-picker-normal": "latest",
+        "vue-mg-date-picker-standard": "latest",
+        "vue-mg-date-time-picker-selector": "latest",
+        "vue-mg-date-time-selector": "latest",
+        "vue-mg-file-uploader": "latest",
+        "vue-mg-image-file-uploader": "latest",
+        "vue-mg-modal-dialog": "latest",
+        "vue-mg-modal-keypad": "latest",
+        "vue-mg-modal-search-master": "latest",
+        "vue-mg-paginate": "latest",
+        "vue-mg-sidebar-standard": "latest",
+        "vue-mg-time-picker-selector": "latest",
+        "vue-mg-toggle-selector": "latest",
+        "vue-mgl": "latest",
+        "vue-mgqrcode": "latest"
+    }
+}

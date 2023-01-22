@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_stf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stf13/tiny-test-f": "latest",
+        "@stfalcon/vue-bank-id-se": "latest",
+        "@stfalcon/vue-notify-layer": "latest",
+        "@stfalcon/vuex-crud-module-creator": "latest",
+        "@stfalcon/vuex-loading-plugin": "latest",
+        "@stfc-user-programme/uows_client_generator": "latest",
+        "@stfnjds/create": "latest",
+        "@stfy/js-contract-grpc-client": "latest",
+        "@stfy/react-editor.js": "latest",
+        "@stfy/test-contract-sdk": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-reqs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reqs": "latest",
+        "reqs-q": "latest",
+        "reqscraper": "latest",
+        "reqsender321": "latest",
+        "reqsign": "latest",
+        "reqspy": "latest",
+        "reqsr": "latest",
+        "reqsrc": "latest",
+        "reqsrv": "latest",
+        "reqstore": "latest"
+    }
+}

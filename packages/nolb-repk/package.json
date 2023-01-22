@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-repk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "repka": "latest",
+        "repka-utils": "latest",
+        "repkg": "latest",
+        "repkg-wxapkg": "latest"
+    }
+}

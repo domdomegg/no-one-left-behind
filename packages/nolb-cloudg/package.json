@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-cloudg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cloudgarage": "latest",
+        "cloudgate": "latest",
+        "cloudgemleaderboard": "latest",
+        "cloudgen-aws-lambda-helloworld": "latest",
+        "cloudgen-aws-sam": "latest",
+        "cloudgen-core": "latest",
+        "cloudgen-eslint": "latest",
+        "cloudgen-gitignore": "latest",
+        "cloudgen-helloworld": "latest",
+        "cloudgen-lerna": "latest",
+        "cloudgen-prettier": "latest",
+        "cloudgenix": "latest",
+        "cloudgenix-api-client": "latest",
+        "cloudgiant-elements": "latest",
+        "cloudgnosis-aws-cdk-app-templates": "latest",
+        "cloudgov-style": "latest"
+    }
+}

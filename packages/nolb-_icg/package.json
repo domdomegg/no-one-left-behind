@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_icg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@icgc-argo/ego-token-utils": "latest",
+        "@icgc-argo/program-service-proto": "latest",
+        "@icgc-argo/uikit": "latest"
+    }
+}

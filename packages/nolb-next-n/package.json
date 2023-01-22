@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-next-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "next-named-routes": "latest",
+        "next-native": "latest",
+        "next-native-image": "latest",
+        "next-navigation": "latest",
+        "next-navigation-history": "latest",
+        "next-new": "latest",
+        "next-next-color-mode": "latest",
+        "next-next-link": "latest",
+        "next-ng2-module": "latest",
+        "next-nginx-routes": "latest",
+        "next-node": "latest",
+        "next-nodecms": "latest",
+        "next-nookies-persist": "latest",
+        "next-nos": "latest",
+        "next-notion": "latest",
+        "next-npm-jaehong": "latest",
+        "next-nprogress": "latest",
+        "next-nprogress-emotion": "latest",
+        "next-ntms": "latest",
+        "next-number": "latest",
+        "next-nuxt-strapi-webdevelopment": "latest"
+    }
+}

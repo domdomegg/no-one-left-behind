@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-native-tf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-tflite": "latest",
+        "react-native-tflite-camera": "latest",
+        "react-native-tflite-classification": "latest",
+        "react-native-tform-builder": "latest",
+        "react-native-tform-builder-1": "latest",
+        "react-native-tfsample": "latest",
+        "react-native-tftest": "latest"
+    }
+}

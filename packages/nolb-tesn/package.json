@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-tesn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tesn_npm_package": "latest",
+        "tesnpm": "latest",
+        "tesnpm2": "latest",
+        "tesnpm_ridho": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-node-rt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-rt-config": "latest",
+        "node-rtc": "latest",
+        "node-rtf": "latest",
+        "node-rtm-socket": "latest",
+        "node-rtmpapi": "latest",
+        "node-rtnetlink": "latest",
+        "node-rtorrent": "latest",
+        "node-rtorrent-client": "latest",
+        "node-rtorrent-scgi": "latest",
+        "node-rtp": "latest",
+        "node-rtsp-ffmpeg": "latest",
+        "node-rtsp-recorder": "latest",
+        "node-rtsp-rtmp-server": "latest",
+        "node-rtsp-stream": "latest",
+        "node-rtsp-stream-es6": "latest",
+        "node-rtsp-stream-il": "latest",
+        "node-rtsp-stream-jsmpeg": "latest",
+        "node-rtsp-streaming": "latest"
+    }
+}

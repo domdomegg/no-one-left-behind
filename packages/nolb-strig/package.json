@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-strig",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "striga": "latest",
+        "strigoaica-facebook": "latest",
+        "strigoaica-gmail": "latest",
+        "strigoaica-sendgrid": "latest",
+        "strigoaica-ses-template": "latest",
+        "strigoaica-strategy": "latest",
+        "strigoi": "latest"
+    }
+}

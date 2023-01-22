@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-osg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "osg": "latest",
+        "osg-auth": "latest",
+        "osg-blast": "latest",
+        "osg-config": "latest",
+        "osg-config-agent": "latest",
+        "osg-couch": "latest",
+        "osg-jast": "latest",
+        "osg-logger": "latest",
+        "osg-npc-creator": "latest",
+        "osg-npcspawn": "latest",
+        "osg-respond": "latest",
+        "osg-rest": "latest",
+        "osg-rules-updater": "latest",
+        "osg-rulesmerger": "latest",
+        "osg-serializer-browser": "latest",
+        "osg-serializer-js": "latest",
+        "osgearthwasm": "latest",
+        "osgi-deployer": "latest",
+        "osgifx": "latest",
+        "osgist": "latest",
+        "osgood": "latest",
+        "osgood-bin": "latest"
+    }
+}

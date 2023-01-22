@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-json-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "json-keep": "latest",
+        "json-keeper": "latest",
+        "json-key-aliases": "latest",
+        "json-key-alises": "latest",
+        "json-key-array": "latest",
+        "json-key-casing": "latest",
+        "json-key-converter": "latest",
+        "json-key-diff": "latest",
+        "json-key-discriminator": "latest",
+        "json-key-map": "latest",
+        "json-key-order": "latest",
+        "json-key-path-list": "latest",
+        "json-key-reducer-loader": "latest",
+        "json-key-remover": "latest",
+        "json-key-string-xlsx": "latest",
+        "json-key-validate": "latest",
+        "json-keys-compare": "latest",
+        "json-keys-sort": "latest",
+        "json-keyslist": "latest",
+        "json-kifu-format": "latest",
+        "json-kit": "latest",
+        "json-knife": "latest",
+        "json-ksort": "latest"
+    }
+}

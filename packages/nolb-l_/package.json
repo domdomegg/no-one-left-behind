@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-l_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "L.TileLayer.Kartverket": "latest",
+        "l.control.rose": "latest",
+        "l.js": "latest",
+        "l.lg.c.kfork": "latest",
+        "l.movemarker": "latest",
+        "l.npm": "latest",
+        "l_antd": "latest",
+        "l_bus": "latest",
+        "l_c_c_component": "latest",
+        "l_calendar": "latest",
+        "l_door": "latest",
+        "l_library": "latest",
+        "l_npm_pub": "latest",
+        "l_plu": "latest",
+        "l_rice_myset": "latest",
+        "l_sue1016": "latest",
+        "l_timeaxis-yiji": "latest",
+        "l_u_c_z_y": "latest",
+        "l_u_c_zhx_y": "latest",
+        "l_x_f_l": "latest"
+    }
+}

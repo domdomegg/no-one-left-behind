@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-fon",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fon": "latest",
+        "@zalastax/nolb-font": "latest",
+        "@zalastax/nolb-fon-": "latest",
+        "@zalastax/nolb-fona": "latest",
+        "@zalastax/nolb-fonc": "latest",
+        "@zalastax/nolb-fond": "latest",
+        "@zalastax/nolb-fone": "latest",
+        "@zalastax/nolb-fong": "latest",
+        "@zalastax/nolb-foni": "latest",
+        "@zalastax/nolb-fonk": "latest",
+        "@zalastax/nolb-fonl": "latest",
+        "@zalastax/nolb-fono": "latest",
+        "@zalastax/nolb-fonq": "latest",
+        "@zalastax/nolb-fons": "latest",
+        "@zalastax/nolb-fony": "latest",
+        "@zalastax/nolb-fonz": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-do1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "do1-api-extractor": "latest",
+        "do1-cli": "latest",
+        "do1-cli-edward": "latest",
+        "do1-mobile-ui": "latest",
+        "do1-ui": "latest",
+        "do1-ui-beta": "latest",
+        "do1234-sdk": "latest",
+        "do1cloud-ui": "latest",
+        "do1cloud-ui-test": "latest",
+        "do1clound-ui": "latest"
+    }
+}

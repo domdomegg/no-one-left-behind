@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-karma-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "karma-qooxdoo": "latest",
+        "karma-quicker-reporter-jasminev1": "latest",
+        "karma-quicker-reporter-jasminev2": "latest",
+        "karma-quiet-reporter": "latest",
+        "karma-quixote": "latest",
+        "karma-qunit": "latest",
+        "karma-qunit-cli-fail": "latest",
+        "karma-qunit-ember-deprecations": "latest",
+        "karma-qunit-special-blend": "latest"
+    }
+}

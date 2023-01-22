@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-graphd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graphdat": "latest",
+        "graphdat-plugin-tools": "latest",
+        "graphdat-relay": "latest",
+        "graphdb": "latest",
+        "graphdb-js": "latest",
+        "graphdb-layer": "latest",
+        "graphdb-migration-tool": "latest",
+        "graphdb-migration-tool-ex": "latest",
+        "graphdb-orient": "latest",
+        "graphdb-workbench": "latest",
+        "graphdb-workbench-tests": "latest",
+        "graphdeps": "latest",
+        "graphdl": "latest",
+        "graphdl.js": "latest",
+        "graphdoc-plugin-erase": "latest",
+        "graphdoc-plugin-flexible": "latest",
+        "graphdoc-plugin-operations": "latest",
+        "graphdoc-plugin-schema": "latest",
+        "graphdown": "latest",
+        "graphdown.io": "latest",
+        "graphdracula": "latest",
+        "graphdrawing-ts": "latest",
+        "graphdux": "latest"
+    }
+}

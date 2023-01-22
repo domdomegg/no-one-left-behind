@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-appz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "appzhh": "latest",
+        "appzhoukao": "latest",
+        "appzindowermann": "latest",
+        "appzio": "latest",
+        "appzio-node": "latest",
+        "appzone": "latest",
+        "appzui-lib": "latest",
+        "appzui-lib1": "latest"
+    }
+}

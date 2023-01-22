@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-tinyd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tinydao": "latest",
+        "tinydatabase-js": "latest",
+        "tinydatabase-nodejs": "latest",
+        "tinydate": "latest",
+        "tinydb": "latest",
+        "tinydial": "latest",
+        "tinydoc": "latest",
+        "tinydoc-cli": "latest",
+        "tinydoc-docstring": "latest",
+        "tinydoc-layout-multi-page": "latest",
+        "tinydoc-layout-single-page": "latest",
+        "tinydoc-plugin-git": "latest",
+        "tinydoc-plugin-js": "latest",
+        "tinydoc-plugin-lua": "latest",
+        "tinydoc-plugin-markdown": "latest",
+        "tinydoc-plugin-react": "latest",
+        "tinydoc-plugin-reference-graph": "latest",
+        "tinydoc-plugin-static": "latest",
+        "tinydoc-plugin-yard-api": "latest",
+        "tinydoc-react-reporter": "latest",
+        "tinydoc-theme-gitbooks": "latest",
+        "tinydoc-theme-qt": "latest",
+        "tinydocs": "latest",
+        "tinydog": "latest",
+        "tinydown": "latest",
+        "tinydraw": "latest",
+        "tinyduration": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-typep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typepack": "latest",
+        "typepacker": "latest",
+        "typepark": "latest",
+        "typeparse": "latest",
+        "typeperf": "latest",
+        "typepg": "latest",
+        "typepicker": "latest",
+        "typepipe": "latest",
+        "typeplate-starter-kit": "latest",
+        "typeplates": "latest",
+        "typeplay": "latest",
+        "typepoint": "latest",
+        "typepool": "latest",
+        "typepress": "latest",
+        "typepress-cli": "latest",
+        "typepro": "latest",
+        "typeproject": "latest",
+        "typeproof": "latest",
+        "typeprops": "latest",
+        "typeproto": "latest"
+    }
+}

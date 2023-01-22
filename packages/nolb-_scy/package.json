@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_scy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@scybak/forms": "latest",
+        "@scynda/sdk": "latest",
+        "@scyrusk/how-to-npm-test": "latest",
+        "@scytheapp/arraybuffer-loader": "latest",
+        "@scythedev/scythe-level-system": "latest",
+        "@scythodemes/lightweightglobalstate": "latest",
+        "@scyui/vue-base": "latest"
+    }
+}

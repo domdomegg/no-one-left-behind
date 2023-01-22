@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-hup",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hup": "latest",
+        "hupai-data": "latest",
+        "hupdater": "latest",
+        "hupeng_init": "latest",
+        "hupengfei-algorithm": "latest",
+        "hupengfei-coms": "latest",
+        "huper-simple-vue-auth": "latest",
+        "hupernikao": "latest",
+        "hupicat-ui": "latest",
+        "huply": "latest",
+        "hupo-cml-tools": "latest",
+        "hupo-ui": "latest",
+        "hupo_test": "latest",
+        "hupothesis": "latest",
+        "hupper-timestamps": "latest",
+        "hupromise": "latest",
+        "hupujrs": "latest",
+        "hupun-open-api-nodejs-sdk": "latest"
+    }
+}

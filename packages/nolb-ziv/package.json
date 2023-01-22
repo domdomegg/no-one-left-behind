@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-ziv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ziv": "latest",
+        "ziv-npm-demo": "latest",
+        "ziv-vue": "latest",
+        "ziva": "latest",
+        "ziva-core": "latest",
+        "ziva-editor": "latest",
+        "zivame-assignment-universal-form-renderer": "latest",
+        "zivan.neskovic-frame-print": "latest",
+        "zive": "latest",
+        "ziven-cli": "latest",
+        "zivenvuepluglib": "latest",
+        "zivi": "latest",
+        "ziview": "latest",
+        "zivile777-higher-order-functions-library": "latest",
+        "zivmib": "latest",
+        "zivo.db": "latest"
+    }
+}

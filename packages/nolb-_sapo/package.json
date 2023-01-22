@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_sapo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sapo-ui/button": "latest",
+        "@sapo-ui/core": "latest",
+        "@sapo-ui/flex": "latest",
+        "@sapo-ui/grid": "latest",
+        "@sapo-ui/heading": "latest",
+        "@sapo-ui/layout": "latest",
+        "@sapo-ui/loading": "latest",
+        "@sapo-ui/paragraph": "latest",
+        "@sapo-ui/react": "latest",
+        "@sapo-ui/skeleton": "latest",
+        "@sapo-ui/system": "latest",
+        "@sapo-ui/teste": "latest",
+        "@sapo-ui/theme": "latest",
+        "@sapo-ui/type": "latest",
+        "@sapo-ui/typography": "latest",
+        "@sapo/cordova-plugin-sapo-pub-navigation": "latest",
+        "@sapo/ionic-photo-gallery": "latest"
+    }
+}

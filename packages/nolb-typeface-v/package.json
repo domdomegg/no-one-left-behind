@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-typeface-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typeface-vampiro-one": "latest",
+        "typeface-varela": "latest",
+        "typeface-varela-round": "latest",
+        "typeface-varta": "latest",
+        "typeface-vast-shadow": "latest",
+        "typeface-vazir": "latest",
+        "typeface-vero": "latest",
+        "typeface-vesper-libre": "latest",
+        "typeface-viaoda-libre": "latest",
+        "typeface-vibes": "latest",
+        "typeface-vibur": "latest",
+        "typeface-vidaloka": "latest",
+        "typeface-viga": "latest",
+        "typeface-voces": "latest",
+        "typeface-volkhov": "latest",
+        "typeface-vollkorn": "latest",
+        "typeface-vollkorn-sc": "latest",
+        "typeface-voltaire": "latest",
+        "typeface-vt323": "latest"
+    }
+}

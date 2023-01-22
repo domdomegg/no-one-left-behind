@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-hanw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hanway-module-codegenerator": "latest",
+        "hanway-module-sysadmin": "latest",
+        "hanweb": "latest",
+        "hanweb-jssdk": "latest",
+        "hanweb-ui": "latest",
+        "hanweb_utils": "latest",
+        "hanwei-ui": "latest",
+        "hanwei_module": "latest",
+        "hanwin-apikit": "latest"
+    }
+}

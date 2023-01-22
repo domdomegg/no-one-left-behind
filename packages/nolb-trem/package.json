@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-trem",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "trembita": "latest",
+        "tremble": "latest",
+        "tremble-ci": "latest",
+        "tremendoc-backend": "latest",
+        "tremendous": "latest",
+        "treminal": "latest",
+        "tremium-ui": "latest",
+        "tremolo": "latest",
+        "tremor": "latest",
+        "tremor-elastic": "latest",
+        "tremorylibrary": "latest"
+    }
+}

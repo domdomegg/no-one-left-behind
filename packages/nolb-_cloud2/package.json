@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_cloud2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cloud20x/cli": "latest",
+        "@cloud2a/cloud2a-client": "latest",
+        "@cloud2a/cloud2a-sdk": "latest"
+    }
+}

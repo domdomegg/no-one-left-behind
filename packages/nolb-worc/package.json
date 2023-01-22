@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-worc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "worc-ui": "latest",
+        "worc_lock": "latest",
+        "worcester": "latest",
+        "worchspace": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-pero",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pero": "latest",
+        "perod": "latest",
+        "perodua-loan-calculator": "latest",
+        "peronal-components-library": "latest",
+        "peronio-core": "latest",
+        "peronio-faucet": "latest",
+        "peronio-sdk": "latest",
+        "peronio-uikit": "latest",
+        "peroof-coffee-script": "latest",
+        "perorepe-cdn": "latest",
+        "peroxide": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-plp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "plp": "latest",
+        "plp-css-app": "latest",
+        "plp-css-base": "latest",
+        "plp-css-elements": "latest",
+        "plp-css-pbt": "latest",
+        "plp-css-plus": "latest",
+        "plp-level3-aggregator": "latest",
+        "plpack1": "latest",
+        "plpacking-ui": "latest",
+        "plpgen": "latest",
+        "plpl": "latest",
+        "plpl-mina": "latest",
+        "plppt": "latest",
+        "plpr": "latest"
+    }
+}

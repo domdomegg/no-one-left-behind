@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_vue2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vue2-daterange-picker/date-fns": "latest",
+        "@vue2-daterange-picker/moment": "latest",
+        "@vue2do/app": "latest",
+        "@vue2do/build": "latest",
+        "@vue2do/component": "latest",
+        "@vue2do/mock": "latest",
+        "@vue2do/test": "latest",
+        "@vue2vis/graph2d": "latest",
+        "@vue2vis/network": "latest",
+        "@vue2vis/timeline": "latest",
+        "@vue2vis/utils": "latest"
+    }
+}

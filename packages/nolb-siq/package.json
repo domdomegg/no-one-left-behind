@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-siq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "siq": "latest",
+        "siq-lookandfeel": "latest",
+        "siq-mesh": "latest",
+        "siq-npm-test-project": "latest",
+        "siq-vendor-js": "latest",
+        "siq2json": "latest",
+        "siqi": "latest",
+        "siqi-helper": "latest",
+        "siql": "latest",
+        "siqo": "latest",
+        "siqo-dev": "latest",
+        "siqo-site": "latest",
+        "siqstory-journalist": "latest",
+        "siqstory-teller": "latest",
+        "siqtheme": "latest",
+        "siquan-verify": "latest",
+        "siquel": "latest",
+        "siquse": "latest"
+    }
+}

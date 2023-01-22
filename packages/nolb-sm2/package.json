@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-sm2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sm2": "latest",
+        "sm2-algorithm": "latest",
+        "sm2-dqy": "latest",
+        "sm2-encode-pwd": "latest",
+        "sm2-esm": "latest",
+        "sm2-fabric": "latest",
+        "sm2-plus": "latest",
+        "sm2-x": "latest",
+        "sm2js": "latest",
+        "sm2tsservice": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-cusp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cusp": "latest",
+        "cuspa-ui": "latest",
+        "cuspack": "latest",
+        "cuspage": "latest",
+        "cusparada": "latest",
+        "cuspin": "latest"
+    }
+}

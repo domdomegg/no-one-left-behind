@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-sk_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sk.nd.app": "latest",
+        "sk_cli_pack": "latest",
+        "sk_dynamo_5026": "latest",
+        "sk_element": "latest",
+        "sk_htmljs": "latest",
+        "sk_huanyan": "latest",
+        "sk_loreal_project": "latest",
+        "sk_maths_lib_package": "latest",
+        "sk_npm_test": "latest",
+        "sk_pkg": "latest",
+        "sk_random_number_generator": "latest",
+        "sk_react_my_app": "latest",
+        "sk_test_ts": "latest"
+    }
+}

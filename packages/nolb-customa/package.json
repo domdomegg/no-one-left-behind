@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-customa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "customactivity1": "latest",
+        "customaddcomponents": "latest",
+        "customafter": "latest",
+        "customamilate": "latest",
+        "customandroid-toast": "latest",
+        "customannotation": "latest",
+        "customantd-react-scripts": "latest",
+        "customantdui": "latest",
+        "customapp-rxjs-websocket": "latest",
+        "customapplicationmobo": "latest",
+        "customapptestmobo": "latest",
+        "customary": "latest",
+        "customat": "latest",
+        "customauthorizer": "latest",
+        "customauthorizer1": "latest",
+        "customazed-nestjs-tenancy": "latest"
+    }
+}

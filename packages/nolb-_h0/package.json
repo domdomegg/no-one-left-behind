@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_h0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@h00040/ui-framework_test": "latest",
+        "@h008/hello-wasm2": "latest",
+        "@h008/qreki": "latest",
+        "@h0me/tp-server": "latest",
+        "@h0me/w3ather-db": "latest",
+        "@h0me/w3ather-dto": "latest",
+        "@h0ngcha0/alephium-cli": "latest",
+        "@h0ngcha0/cli": "latest",
+        "@h0ngcha0/get-alephium": "latest",
+        "@h0ngcha0/get-extension-wallet": "latest",
+        "@h0ngcha0/walletconnect-provider": "latest",
+        "@h0ngcha0/wormhole-sdk": "latest",
+        "@h0ntas/common": "latest",
+        "@h0rn0chse/dark-mode-toggle": "latest",
+        "@h0rn0chse/night-sky": "latest",
+        "@h0rn0chse/socket-server": "latest",
+        "@h0rseduck/prosemirror-setattrsstep": "latest",
+        "@h0rseduck/wd-common-helpers": "latest"
+    }
+}

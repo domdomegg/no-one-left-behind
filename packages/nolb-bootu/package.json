@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-bootu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bootue": "latest",
+        "bootue-blue": "latest",
+        "bootui": "latest",
+        "bootup": "latest",
+        "bootup-sandbox": "latest",
+        "booture": "latest",
+        "bootuseful": "latest"
+    }
+}

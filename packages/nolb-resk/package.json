@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-resk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "resk": "latest",
+        "reskeleton": "latest",
+        "resketch": "latest",
+        "reskin": "latest",
+        "reskinit": "latest",
+        "reskit": "latest",
+        "resknow-iconpack-vue": "latest",
+        "reskript": "latest",
+        "reskwertest": "latest"
+    }
+}

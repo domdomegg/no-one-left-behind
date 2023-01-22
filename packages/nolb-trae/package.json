@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-trae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "trae": "latest",
+        "trae-events": "latest",
+        "trae-logger": "latest",
+        "trae-query": "latest",
+        "traec": "latest",
+        "traec-react": "latest",
+        "traecr": "latest",
+        "traefik": "latest",
+        "traefik-forward-auth-provider": "latest",
+        "traefik-shortcut": "latest",
+        "traefikjam": "latest",
+        "traeger": "latest",
+        "traer-pikachu-gsantiagoa": "latest",
+        "traer_pokemon74": "latest",
+        "traerpokemon": "latest"
+    }
+}

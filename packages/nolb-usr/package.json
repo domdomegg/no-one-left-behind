@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-usr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "usr": "latest",
+        "usr-lib": "latest",
+        "usrbinenv": "latest",
+        "usrdb": "latest",
+        "usreekanthreddyapp1": "latest",
+        "usriot.js": "latest",
+        "usrmgt": "latest",
+        "usrmngmnt-lib": "latest",
+        "usrnk": "latest",
+        "usrnme": "latest",
+        "usrs": "latest",
+        "usrv": "latest",
+        "usrv-dev": "latest",
+        "usrv-pse": "latest"
+    }
+}

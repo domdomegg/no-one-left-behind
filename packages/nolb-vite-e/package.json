@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-vite-e",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vite-e2e-cypress": "latest",
+        "vite-easy-mock": "latest",
+        "vite-edge": "latest",
+        "vite-editor": "latest",
+        "vite-electron": "latest",
+        "vite-electron-boilerplate": "latest",
+        "vite-electron-builder": "latest",
+        "vite-electron-cli": "latest",
+        "vite-electron-plugin": "latest",
+        "vite-electron-renderer": "latest",
+        "vite-electron-service": "latest",
+        "vite-element-demand-starter": "latest",
+        "vite-email": "latest",
+        "vite-emitter": "latest",
+        "vite-engineering-demo": "latest",
+        "vite-engineering-ui": "latest",
+        "vite-error-overlay": "latest",
+        "vite-esbuild-optimizer": "latest",
+        "vite-esbuild-typescript-checker": "latest",
+        "vite-eslint-cli": "latest",
+        "vite-eslint-plugin": "latest",
+        "vite-example": "latest",
+        "vite-exclude-dev-imports-plugin": "latest",
+        "vite-exclude-style-plugin": "latest",
+        "vite-express": "latest"
+    }
+}

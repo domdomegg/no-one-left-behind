@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-pdp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pdp": "latest",
+        "pdp-b-18": "latest",
+        "pdp-b-18-1": "latest",
+        "pdp-b-18-husniddin": "latest",
+        "pdp-b-18-learn-npm": "latest",
+        "pdp-b-muhammaddiyor": "latest",
+        "pdp-cle-log": "latest",
+        "pdp-crawler-lambda": "latest",
+        "pdp-explorer": "latest",
+        "pdp-featureflag": "latest",
+        "pdp-input": "latest",
+        "pdp-rbac": "latest",
+        "pdp-rbac1": "latest",
+        "pdp-ui-vue-test": "latest",
+        "pdp11-assembler-emulator": "latest",
+        "pdp11-playground": "latest",
+        "pdparse": "latest",
+        "pdparser": "latest",
+        "pdpkg_node_core_dev": "latest",
+        "pdpm": "latest"
+    }
+}

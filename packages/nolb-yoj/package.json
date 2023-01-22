@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-yoj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yoj": "latest",
+        "yojak": "latest",
+        "yojiang-video.js": "latest",
+        "yojik": "latest",
+        "yojiro": "latest",
+        "yojji-core-draft": "latest",
+        "yojone": "latest",
+        "yojs": "latest",
+        "yojson": "latest"
+    }
+}

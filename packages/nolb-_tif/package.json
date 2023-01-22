@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_tif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tif-taylor/notes": "latest",
+        "@tifbs/angular-animations-example": "latest",
+        "@tifbs/components-bundle": "latest",
+        "@tifbs/date-boxes-component": "latest",
+        "@tifbs/loading-spinner-component": "latest",
+        "@tife_ready/lotide": "latest",
+        "@tife_ready/lotide1": "latest",
+        "@tiffinger-thiel/appauth-react": "latest",
+        "@tiffinger-thiel/cra-template-typescript": "latest",
+        "@tiffinger-thiel/eslint-config": "latest",
+        "@tiffinger-thiel/husky-rules": "latest",
+        "@tiffinger-thiel/schematics": "latest",
+        "@tifftiff/holidates": "latest",
+        "@tifo18/boiler": "latest"
+    }
+}

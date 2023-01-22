@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-nodejsl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodejsLessons": "latest",
+        "nodejslab": "latest",
+        "nodejslab.fireaxil": "latest",
+        "nodejslack": "latest",
+        "nodejslambdaappsync": "latest",
+        "nodejslearn": "latest",
+        "nodejslearn1": "latest",
+        "nodejslearn123": "latest",
+        "nodejslearnbasics2": "latest",
+        "nodejslearnerfiles": "latest",
+        "nodejslearning-test": "latest",
+        "nodejslib": "latest",
+        "nodejslib-utils": "latest",
+        "nodejslijingwenabcdsunb": "latest",
+        "nodejslijingwensumlistb": "latest",
+        "nodejslinq": "latest",
+        "nodejslogger": "latest"
+    }
+}

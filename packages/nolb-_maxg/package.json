@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_maxg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@maxgaurav/nestjs-template-schematics": "latest",
+        "@maxgeldner/gulp-include-source-extended": "latest",
+        "@maxgfr/react-accessible-accordion": "latest",
+        "@maxgraph/core": "latest"
+    }
+}

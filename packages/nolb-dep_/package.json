@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-dep_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dep.js": "latest",
+        "dep_conf": "latest",
+        "dep_conf_tal": "latest",
+        "dep_conf_tal2": "latest",
+        "dep_confusion_test123": "latest",
+        "dep_counter": "latest",
+        "dep_pre_install_v2": "latest",
+        "dep_pre_install_v3": "latest",
+        "dep_test_b": "latest",
+        "dep_test_c": "latest",
+        "dep_test_pkg_b": "latest",
+        "dep_test_pkg_c": "latest",
+        "dep_test_pkg_d": "latest",
+        "dep_test_pkg_e": "latest",
+        "dep_web_biz": "latest"
+    }
+}

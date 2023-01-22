@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-trn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "trn": "latest",
+        "trn-cli": "latest",
+        "trn-cod-api": "latest",
+        "trn-core": "latest",
+        "trn.gg": "latest",
+        "trnc": "latest",
+        "trnct": "latest",
+        "trndymodel": "latest",
+        "trns": "latest",
+        "trnsd": "latest",
+        "trny": "latest"
+    }
+}

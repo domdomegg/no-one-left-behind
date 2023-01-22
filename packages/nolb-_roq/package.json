@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_roq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@roq/apollo-client": "latest",
+        "@roq/class-validator": "latest",
+        "@roq/cli": "latest",
+        "@roq/core": "latest",
+        "@roq/elasticcloud": "latest",
+        "@roq/eslint-plugin": "latest",
+        "@roq/logger": "latest",
+        "@roq/material-table": "latest",
+        "@roq/nestjs-dataloader": "latest",
+        "@roq/nodejs": "latest",
+        "@roq/ui-react": "latest",
+        "@roqua/quby-frontend": "latest",
+        "@roqueando/nous": "latest",
+        "@roqueform/doubter-plugin": "latest",
+        "@roqueform/ref-plugin": "latest",
+        "@roqueform/reset-plugin": "latest",
+        "@roqueform/scroll-to-error-plugin": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-smarth",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smarth": "latest",
+        "smarthan01": "latest",
+        "smarthash": "latest",
+        "smarthat_library": "latest",
+        "smarthelpuicommonstyles": "latest",
+        "smarthelpuicommonutils": "latest",
+        "smarthint": "latest",
+        "smarthome": "latest",
+        "smarthome-component-library": "latest",
+        "smarthome-manager": "latest",
+        "smarthome4loxone": "latest",
+        "smarthomeconnector": "latest",
+        "smarthomecontrol": "latest",
+        "smarthomefan-darknet": "latest",
+        "smarthomefans-darknet": "latest",
+        "smarthomelib": "latest",
+        "smarthouse-frontend": "latest",
+        "smarthr-normalize-css": "latest",
+        "smarthr-ui": "latest",
+        "smarthub-mapbox": "latest"
+    }
+}

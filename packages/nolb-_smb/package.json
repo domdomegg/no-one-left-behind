@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_smb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@smb-fe/commitlint-config-standard": "latest",
+        "@smb-fe/eslint-config-standard": "latest",
+        "@smb-fe/prettier-config-standard": "latest",
+        "@smb-fe/scss-toolkit": "latest",
+        "@smb-fe/stylelint-config-standard": "latest",
+        "@smb-fe/umijs-plugin-style-resources": "latest",
+        "@smb-org/commitlint-config-standard": "latest",
+        "@smb-org/eslint-config-react": "latest",
+        "@smb-org/eslint-config-react-ts": "latest",
+        "@smb-org/eslint-config-vue": "latest",
+        "@smb-org/eslint-config-vue-ts": "latest",
+        "@smb-org/eslint-config-vue3": "latest",
+        "@smb-org/prettier-config-standard": "latest",
+        "@smb-org/stylelint-config-standard": "latest",
+        "@smbastickets/common": "latest",
+        "@smblitz/s3explorer": "latest",
+        "@smbsol/osmos": "latest",
+        "@smbswap/sdk": "latest",
+        "@smbswap/uikit": "latest",
+        "@smburrows/terraform-npm": "latest",
+        "@smburrows/ts-terraform-hcl": "latest",
+        "@smburrows/ts-terraform-provider": "latest",
+        "@smburrows/typedoc-plugin-monorepo": "latest"
+    }
+}

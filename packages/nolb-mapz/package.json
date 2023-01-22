@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-mapz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mapz": "latest",
+        "mapzen-search": "latest",
+        "mapzen-search-team-ownership": "latest",
+        "mapzen-tile-generator": "latest",
+        "mapzen.js": "latest",
+        "mapzy": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-node-red-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-yanfaz-iot": "latest",
+        "node-red-yeelight": "latest",
+        "node-red-youtube": "latest"
+    }
+}

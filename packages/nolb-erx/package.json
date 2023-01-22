@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-erx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eRx-build": "latest",
+        "erx": "latest",
+        "erx-build": "latest",
+        "erxes": "latest",
+        "erxes-api": "latest",
+        "erxes-api-common-utils": "latest",
+        "erxes-api-utils": "latest",
+        "erxes-common-ui": "latest",
+        "erxes-events-client": "latest",
+        "erxes-icon": "latest",
+        "erxes-inmemory-storage": "latest",
+        "erxes-message-broker": "latest",
+        "erxes-npm-package": "latest",
+        "erxes-npm-plugin": "latest",
+        "erxes-telemetry": "latest",
+        "erxes-ui": "latest",
+        "erxes-ui-utils": "latest",
+        "erxiangbo": "latest"
+    }
+}

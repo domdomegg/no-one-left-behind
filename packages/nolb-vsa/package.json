@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-vsa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vsa-custom-form": "latest",
+        "vsa-preview-forms": "latest",
+        "vsafacomponenet": "latest",
+        "vsafacomponent": "latest",
+        "vsagar9944": "latest",
+        "vsai-fml": "latest",
+        "vsam.js": "latest",
+        "vsamaru-bot": "latest",
+        "vsample": "latest",
+        "vsampletest": "latest",
+        "vsantana-mynpm": "latest",
+        "vsapi": "latest",
+        "vsapploader": "latest",
+        "vsat-vue-element-template": "latest",
+        "vsatp": "latest",
+        "vsauce": "latest",
+        "vsauce-math-magic": "latest",
+        "vsay": "latest",
+        "vsayee-frame-print": "latest",
+        "vsayhello": "latest"
+    }
+}

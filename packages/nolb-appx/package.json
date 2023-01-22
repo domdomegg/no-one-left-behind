@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-appx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "appx": "latest",
+        "appx-api": "latest",
+        "appx-authrequest": "latest",
+        "appx-compiler": "latest",
+        "appx-manifest-version": "latest",
+        "appx-mist-cli": "latest",
+        "appx-module-demo": "latest",
+        "appx-starter": "latest",
+        "appx-tools": "latest",
+        "appx-ui": "latest",
+        "appx-useragent": "latest",
+        "appx-utils": "latest",
+        "appx-vuex-lite": "latest",
+        "appxgen": "latest",
+        "appxigon": "latest",
+        "appxigon-common": "latest",
+        "appxigon-react": "latest",
+        "appxplore-parse-server": "latest",
+        "appxtest2": "latest",
+        "appxxj": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_iom",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@iomariani/vue-player": "latest",
+        "@iomechs/angular-service-bot": "latest",
+        "@iomechs/angular-tags-input": "latest",
+        "@iomechs/angular-year-calendar": "latest",
+        "@iomechs/react-native-location-view": "latest",
+        "@iomechs/rn-color-palette": "latest",
+        "@iomechs/speed-cloudflare-cli": "latest",
+        "@iomeg/zenodo-upload": "latest",
+        "@iommi/hello-friend-lib": "latest",
+        "@iommi/ngxs-ionic-storage": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_heb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hebaaldibes/hebanpm1": "latest",
+        "@hebaelshimy/pkg": "latest",
+        "@hebaelshimy/tutorial": "latest",
+        "@hebbar_ticketing/common": "latest",
+        "@hebcal/cities": "latest",
+        "@hebcal/core": "latest",
+        "@hebcal/geo-sqlite": "latest",
+        "@hebcal/icalendar": "latest",
+        "@hebcal/leyning": "latest",
+        "@hebcal/locales": "latest",
+        "@hebcal/rest-api": "latest",
+        "@hebcal/solar-calc": "latest",
+        "@hebcal/triennial": "latest",
+        "@hebe700-test-cli/cli": "latest",
+        "@hebe700-test-cli/utils": "latest",
+        "@heberalmeida/input": "latest",
+        "@hebert.oliveira/pipeline-notify-discord-bot": "latest",
+        "@hebertpaziam/utils": "latest",
+        "@hebertsilva/vue-countdown": "latest",
+        "@heblesjohn/pixiu-exchange-uikit": "latest",
+        "@heblesjohn/pixiu-farm-uikit": "latest",
+        "@hebrasco/ckeditor5-custom-build": "latest",
+        "@hebrin/personal-component-set": "latest"
+    }
+}

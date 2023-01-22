@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_nats",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@natscale/react-calendar": "latest",
+        "@natsuite/resnet18": "latest",
+        "@natsuneko-laboratory/unitypackage": "latest",
+        "@natsuneko-laboratory/vpmpackage": "latest",
+        "@natsuo/base-components": "latest",
+        "@natsuo/components": "latest",
+        "@natsuo/docs": "latest",
+        "@natsuo/dsvia-app": "latest",
+        "@natsuo/hooks": "latest",
+        "@natsuo/icons": "latest",
+        "@natsuo/test-utils": "latest",
+        "@natsuo/theme": "latest",
+        "@natsuo/ui": "latest",
+        "@natsuo/utils": "latest"
+    }
+}

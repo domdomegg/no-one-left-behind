@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-node-cc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-cc": "latest",
+        "node-cc-cedict": "latest",
+        "node-ccavenue": "latest",
+        "node-ccl": "latest",
+        "node-ccss": "latest",
+        "node-cctalk-command": "latest"
+    }
+}

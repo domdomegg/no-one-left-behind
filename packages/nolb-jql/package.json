@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-jql",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jql": "latest",
+        "jql-autocomplete": "latest",
+        "jql-autocomplete-input": "latest",
+        "jql-cli": "latest",
+        "jql-grammar-parser": "latest",
+        "jql-lang": "latest",
+        "jql-loader": "latest",
+        "jql-matcher": "latest",
+        "jql-parser": "latest",
+        "jql-tools": "latest",
+        "jql-validation": "latest",
+        "jql.js": "latest",
+        "jql2sql": "latest",
+        "jqlcopy": "latest",
+        "jqlib": "latest",
+        "jqlint": "latest",
+        "jqlite": "latest",
+        "jqljs": "latest",
+        "jqllib": "latest",
+        "jqllib-fetch": "latest",
+        "jqlmodule": "latest",
+        "jqloader": "latest",
+        "jqlouds": "latest"
+    }
+}

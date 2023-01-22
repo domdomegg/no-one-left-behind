@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-reado",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reado-cli": "latest",
+        "readocs": "latest",
+        "readocs-app": "latest",
+        "readocs-core": "latest",
+        "readof": "latest",
+        "readometer": "latest",
+        "readon": "latest",
+        "readonly": "latest",
+        "readonly-date": "latest",
+        "readonly-proxy": "latest",
+        "readonly-publish-test": "latest",
+        "readonly-types": "latest",
+        "readonlydata": "latest",
+        "readopt": "latest",
+        "reador-client": "latest",
+        "readout": "latest",
+        "readout-markdown": "latest"
+    }
+}

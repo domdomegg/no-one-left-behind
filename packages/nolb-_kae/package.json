@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_kae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kaeh/rxjs-operators": "latest",
+        "@kael89/eslint-config-jest": "latest",
+        "@kael89/eslint-config-js": "latest",
+        "@kael89/eslint-config-ts": "latest",
+        "@kaelansmith/nextwp": "latest",
+        "@kaelbot/constants": "latest",
+        "@kaelbot/database": "latest",
+        "@kaelthas/react-native-components": "latest",
+        "@kaelthas/react-native-decard": "latest",
+        "@kaelthas/react-native-serialport": "latest",
+        "@kaelwd/fluent-ffmpeg": "latest",
+        "@kaenjs/angular": "latest",
+        "@kaenjs/body-parser": "latest",
+        "@kaenjs/cli": "latest",
+        "@kaenjs/core": "latest",
+        "@kaenjs/localization": "latest",
+        "@kaenjs/passport": "latest",
+        "@kaenjs/rest": "latest",
+        "@kaenjs/router": "latest",
+        "@kaenjs/session": "latest",
+        "@kaenjs/static": "latest",
+        "@kaenjs/vault-orm": "latest",
+        "@kaenjs/views": "latest",
+        "@kaer-morhen/crispy-computing-machine": "latest",
+        "@kaer-morhen/refactored-tribble": "latest"
+    }
+}

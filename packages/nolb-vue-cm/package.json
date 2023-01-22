@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-vue-cm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cm": "latest",
+        "vue-cmap": "latest",
+        "vue-cmb-router": "latest",
+        "vue-cmd": "latest",
+        "vue-cmd-menu": "latest",
+        "vue-cmdk": "latest",
+        "vue-cmi": "latest",
+        "vue-cmj-ui": "latest",
+        "vue-cmobile-fileupload": "latest",
+        "vue-cmp-cli": "latest",
+        "vue-cmp-mui": "latest",
+        "vue-cmp-ui": "latest",
+        "vue-cmpt-cli": "latest",
+        "vue-cms-admin": "latest",
+        "vue-cms-builder": "latest",
+        "vue-cms-cli": "latest",
+        "vue-cms-data": "latest",
+        "vue-cms-notice": "latest",
+        "vue-cms-visual-editor": "latest",
+        "vue-cmz-component": "latest"
+    }
+}

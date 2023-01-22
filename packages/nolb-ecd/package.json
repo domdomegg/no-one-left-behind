@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-ecd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ecd": "latest",
+        "ecd-ce": "latest",
+        "ecd-chart": "latest",
+        "ecd-core": "latest",
+        "ecd-example-block-block": "latest",
+        "ecdb": "latest",
+        "ecdh": "latest",
+        "ecdh-crypto": "latest",
+        "ecdh-es": "latest",
+        "ecdh-multi-party": "latest",
+        "ecdh-sodium": "latest",
+        "ecdict": "latest",
+        "ecdownload": "latest",
+        "ecdrag": "latest",
+        "ecdsa": "latest",
+        "ecdsa-csr": "latest",
+        "ecdsa-native": "latest",
+        "ecdsa-recover-pubkey": "latest",
+        "ecdsa-secp256k1": "latest",
+        "ecdsa-secp256k1-signature-2019": "latest",
+        "ecdsa-secp256r1": "latest",
+        "ecdsa-sig-formatter": "latest",
+        "ecdsa-signed-response": "latest",
+        "ecdsa-wasm": "latest",
+        "ecdsautil-node": "latest"
+    }
+}

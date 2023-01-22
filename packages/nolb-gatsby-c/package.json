@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-gatsby-c",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gatsby-caddy-redirects-conf": "latest",
+        "gatsby-card-flipper": "latest",
+        "gatsby-cdn-search-plugin": "latest",
+        "gatsby-cli": "latest",
+        "gatsby-cli-daqi": "latest",
+        "gatsby-code-buttons-dracula": "latest",
+        "gatsby-code-titles-dracula": "latest",
+        "gatsby-codemods": "latest",
+        "gatsby-component-test-sandbox": "latest",
+        "gatsby-concurrent-mode": "latest",
+        "gatsby-config": "latest",
+        "gatsby-confluence-euf": "latest",
+        "gatsby-content-docgen": "latest",
+        "gatsby-convention-wordpress": "latest",
+        "gatsby-cookie-notice": "latest",
+        "gatsby-core-theme": "latest",
+        "gatsby-core-utils": "latest",
+        "gatsby-crudzoo": "latest",
+        "gatsby-custom-md": "latest",
+        "gatsby-cypress": "latest",
+        "gatsby-cypress-endpoints": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-randomw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "randomwaeathergenerator": "latest",
+        "randomwea": "latest",
+        "randomword": "latest",
+        "randomword_fzh_test": "latest",
+        "randomwordanimation": "latest",
+        "randomwords": "latest",
+        "randomwords_engspanish": "latest",
+        "randomwordsgenerator": "latest",
+        "randomwsx10.8": "latest",
+        "randomwww": "latest"
+    }
+}

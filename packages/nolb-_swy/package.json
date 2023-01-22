@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_swy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@swydo/apollo-link-ddp": "latest",
+        "@swydo/byol": "latest",
+        "@swydo/byol-cli": "latest",
+        "@swydo/custom-integrations": "latest",
+        "@swyft/shopify-api": "latest",
+        "@swyftx/api-crypto-address-validator": "latest",
+        "@swyftx/express-unless-and": "latest",
+        "@swyfty/cleaner-core": "latest",
+        "@swyg/corre": "latest",
+        "@swyg/memo": "latest",
+        "@swyg/sorteo": "latest",
+        "@swyt/swyt": "latest",
+        "@swytchio/demo-node-app": "latest",
+        "@swytchio/testnpm": "latest",
+        "@swyx/createcontexts": "latest",
+        "@swyx/hooks": "latest",
+        "@swyx/reactive-react": "latest"
+    }
+}

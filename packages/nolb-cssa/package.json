@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-cssa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cssa": "latest",
+        "cssa11y": "latest",
+        "cssadd": "latest",
+        "cssafe": "latest",
+        "cssane": "latest",
+        "cssanimations1": "latest",
+        "cssantique": "latest",
+        "cssapi": "latest",
+        "cssapi-baseline": "latest",
+        "cssapi-fonts": "latest",
+        "cssapi-mq": "latest",
+        "cssapi-rhythm": "latest",
+        "cssapi-scale": "latest",
+        "cssapi-units": "latest",
+        "cssar": "latest",
+        "cssatom": "latest",
+        "cssattr.js": "latest",
+        "cssaudit": "latest",
+        "cssauron": "latest",
+        "cssauron-esprima": "latest",
+        "cssauron-falafel": "latest",
+        "cssauron-glsl": "latest",
+        "cssauron-html": "latest",
+        "cssauron-json": "latest",
+        "cssauron-noeval": "latest",
+        "cssauron2": "latest",
+        "cssautoatom": "latest",
+        "cssax": "latest"
+    }
+}

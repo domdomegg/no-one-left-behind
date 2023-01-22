@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-senl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "senler-bot-app": "latest",
+        "senler-bot-test-app-backend-nodejs-yandex-cloud-function": "latest",
+        "senler-integration-bot": "latest"
+    }
+}

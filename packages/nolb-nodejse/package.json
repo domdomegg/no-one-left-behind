@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-nodejse",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodejse": "latest",
+        "nodejsencode": "latest",
+        "nodejsex": "latest",
+        "nodejsexamlpespckg": "latest",
+        "nodejsexample": "latest",
+        "nodejsexamples_jan_pd": "latest",
+        "nodejsexamv1": "latest",
+        "nodejsexercicelc": "latest",
+        "nodejsexercise": "latest",
+        "nodejsexpress": "latest",
+        "nodejsexpresslogger": "latest"
+    }
+}

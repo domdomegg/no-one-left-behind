@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-swu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "swu-logs": "latest",
+        "swu-mjml": "latest",
+        "swu_mjml": "latest",
+        "swuden-state-emitter": "latest",
+        "swudo": "latest",
+        "swufe.invoker_hello_world": "latest",
+        "swui": "latest",
+        "swup": "latest",
+        "swup-a11y-plugin": "latest",
+        "swup-fade-theme": "latest",
+        "swup-gia-plugin": "latest",
+        "swup-gtag-plugin": "latest",
+        "swup-meta-tags-plugin": "latest",
+        "swup-morph-plugin": "latest",
+        "swup-progress-plugin": "latest",
+        "swup-stripes-overlay-theme": "latest",
+        "swup-test-es": "latest",
+        "swupjs": "latest",
+        "swush": "latest",
+        "swutch": "latest"
+    }
+}

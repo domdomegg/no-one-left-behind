@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-luu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "luu": "latest",
+        "luu-cli": "latest",
+        "luu_db": "latest",
+        "luucy-cli": "latest",
+        "luucy-embed": "latest",
+        "luucy-types": "latest",
+        "luujam-rollbar-sourcemap-webpack-plugin": "latest",
+        "luujeeaframe": "latest",
+        "luuk": "latest",
+        "luuk-ds": "latest",
+        "luukere": "latest",
+        "luum": "latest",
+        "luuna.xtorage": "latest",
+        "luup": "latest",
+        "luuuuu-topgun": "latest"
+    }
+}

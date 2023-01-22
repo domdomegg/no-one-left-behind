@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-suba",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "suba": "latest",
+        "subaddress": "latest",
+        "subaka": "latest",
+        "subal": "latest",
+        "subanagram": "latest",
+        "subanta": "latest",
+        "subao-sdk": "latest",
+        "subapp-pbundle": "latest",
+        "subapp-react": "latest",
+        "subapp-redux": "latest",
+        "subapp-server": "latest",
+        "subapp-util": "latest",
+        "subapp-web": "latest",
+        "subapp1-test": "latest",
+        "subarashi": "latest",
+        "subarg": "latest",
+        "subarg-replace": "latest",
+        "subargv": "latest",
+        "subarray-group": "latest",
+        "subaru": "latest",
+        "subash-test-library": "latest",
+        "subashcs-data-table": "latest",
+        "subasicons": "latest",
+        "subassembly-ui": "latest",
+        "subatomic": "latest",
+        "subatomic-elements": "latest",
+        "subatomic-store": "latest"
+    }
+}

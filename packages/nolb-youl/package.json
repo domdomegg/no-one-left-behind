@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-youl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "youla-js": "latest",
+        "youla-private-api": "latest",
+        "youlan-cli": "latest",
+        "youle-web-im": "latest",
+        "youleipgk": "latest",
+        "youless": "latest",
+        "youli": "latest",
+        "youlian-mobile-ui": "latest",
+        "youliang.chen": "latest",
+        "youlin-block-cli": "latest",
+        "youlisten": "latest",
+        "youloge": "latest",
+        "youlu": "latest",
+        "youlu-components": "latest",
+        "youlu-niceloo": "latest",
+        "youlu-npm": "latest",
+        "youlu-npm-ceshi": "latest"
+    }
+}

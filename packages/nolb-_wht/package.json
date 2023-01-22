@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_wht",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wht-fe/ep-components": "latest",
+        "@wht-fe/ep-layout": "latest",
+        "@wht-fe/eslint-config": "latest",
+        "@whthduck/feed-builder": "latest",
+        "@whthduck/feedconn": "latest",
+        "@whthduck/flaword": "latest",
+        "@whthduck/nestjs-flaword": "latest",
+        "@whtickets/common": "latest",
+        "@whticketsss/common": "latest",
+        "@whtsky/antd-iconfont": "latest",
+        "@whtsky/babel-plugin-transform-vue-jsx": "latest",
+        "@whtsky/meteor-client-bundler": "latest",
+        "@whtsky/prettier-config": "latest",
+        "@whtsky/renovate-config": "latest",
+        "@whtsky/swagger-ui": "latest",
+        "@whtsky/swagger-ui-dist": "latest",
+        "@whtsky/vue-good-table": "latest",
+        "@whtswrng/snip": "latest",
+        "@whtx/shelltest": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-mapk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mapkeep": "latest",
+        "mapkey": "latest",
+        "mapkeys": "latest",
+        "mapkick": "latest",
+        "mapkit": "latest",
+        "mapkit-react": "latest",
+        "mapkit-token": "latest",
+        "mapkit-typescript": "latest",
+        "mapkit-vue": "latest",
+        "mapkit.js": "latest",
+        "mapkit.js-apple": "latest",
+        "mapkitjs-token": "latest",
+        "mapkitjs-typescript": "latest"
+    }
+}

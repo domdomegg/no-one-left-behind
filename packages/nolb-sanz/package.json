@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-sanz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sanz": "latest",
+        "sanz-basic-api": "latest",
+        "sanzdevmusic": "latest",
+        "sanzhen-jianyanwangde-mala-shuohuashu": "latest",
+        "sanzowadacolors": "latest",
+        "sanzu": "latest"
+    }
+}

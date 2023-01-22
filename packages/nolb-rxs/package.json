@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-rxs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rxs": "latest",
+        "rxs-lib": "latest",
+        "rxs-ui": "latest",
+        "rxs.io": "latest",
+        "rxsc": "latest",
+        "rxsc-react": "latest",
+        "rxsc-redux-compat": "latest",
+        "rxserver": "latest",
+        "rxsm": "latest",
+        "rxsocket": "latest",
+        "rxsource": "latest",
+        "rxsourcee": "latest",
+        "rxstate": "latest",
+        "rxstatebus": "latest",
+        "rxstatestore": "latest",
+        "rxstore": "latest",
+        "rxstore-forms": "latest",
+        "rxstore-jest": "latest",
+        "rxstore-observer": "latest",
+        "rxstore-react-router": "latest",
+        "rxstore-watch": "latest",
+        "rxstream": "latest",
+        "rxstyle": "latest",
+        "rxsubsink": "latest",
+        "rxsync": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-buildt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "buildteam-asset-price": "latest",
+        "buildteam-common": "latest",
+        "buildteam-reporter": "latest",
+        "buildtest-dwalker": "latest",
+        "buildthing-beacon-sdk": "latest",
+        "buildthing-ble-sdk": "latest",
+        "buildthing-ble-sdk-usb": "latest",
+        "buildthing-bluetooth-hci-socket": "latest",
+        "buildtime": "latest",
+        "buildtool-bangle": "latest",
+        "buildtool-express": "latest",
+        "buildtool.js": "latest",
+        "buildtools": "latest",
+        "buildtrigger": "latest",
+        "buildtypedefs": "latest"
+    }
+}

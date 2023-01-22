@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-svelto",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svelto": "latest",
+        "sveltoaste": "latest",
+        "svelton": "latest",
+        "sveltone": "latest",
+        "sveltopia-test": "latest",
+        "sveltore": "latest"
+    }
+}

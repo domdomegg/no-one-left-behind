@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_bie",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bieb/box": "latest",
+        "@bieb/core": "latest",
+        "@bieb/math": "latest",
+        "@bieb/post": "latest",
+        "@bieb/vector": "latest",
+        "@biel-ui/docs": "latest",
+        "@biel-ui/react": "latest",
+        "@biel-ui/tokens": "latest",
+        "@bielorusov/pcsclite": "latest",
+        "@bielsereia/clash-api": "latest",
+        "@bielvdmx/teste": "latest",
+        "@bien-pr/react-native-photo-editor": "latest",
+        "@bien-pr/react-native-unity": "latest",
+        "@bienmag/squid-kit": "latest",
+        "@bientehaio/jalali-tools": "latest",
+        "@bienvenue/admin": "latest",
+        "@biere/normalize-scss": "latest",
+        "@biesbjerg/ng2-translate-extract": "latest",
+        "@biesbjerg/ng2-translate-po-loader": "latest",
+        "@biesbjerg/ngx-translate-extract": "latest",
+        "@biesbjerg/ngx-translate-extract-marker": "latest",
+        "@biesbjerg/ngx-translate-po-http-loader": "latest"
+    }
+}

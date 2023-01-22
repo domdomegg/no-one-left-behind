@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-parm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "parm": "latest",
+        "parm-react-lazyload": "latest",
+        "parmake": "latest",
+        "parmar": "latest",
+        "parmars": "latest",
+        "parmenides": "latest",
+        "parmesan": "latest",
+        "parmigiana": "latest",
+        "parminder": "latest",
+        "parmlog": "latest",
+        "parms": "latest"
+    }
+}

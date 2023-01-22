@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-embl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "embl-breadcrumbs-lookup": "latest",
+        "embl-ebi-rest": "latest",
+        "embla": "latest",
+        "embla-carousel": "latest",
+        "embla-carousel-auto-height": "latest",
+        "embla-carousel-autoplay": "latest",
+        "embla-carousel-class-names": "latest",
+        "embla-carousel-preact": "latest",
+        "embla-carousel-react": "latest",
+        "embla-carousel-snap-class": "latest",
+        "embla-carousel-svelte": "latest",
+        "embla-carousel-vue": "latest",
+        "embla-carousel-wheel-gestures": "latest",
+        "emblem": "latest",
+        "emblem-brunch": "latest",
+        "emblem-developer": "latest",
+        "emblem-ember-brunch": "latest",
+        "emblem-generator": "latest",
+        "emblem-generator-vue": "latest",
+        "emblem-js": "latest",
+        "emblem-loader": "latest",
+        "emblem-migrator": "latest",
+        "emblem-webpack-loader": "latest",
+        "emblem2hbs": "latest",
+        "emblematic-icons": "latest",
+        "embler": "latest",
+        "emblock-sdk-js": "latest"
+    }
+}

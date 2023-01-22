@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-saim",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "saim": "latest",
+        "saim-prac": "latest",
+        "saim-quiz": "latest",
+        "saimaa": "latest",
+        "saimas": "latest",
+        "saimatm-project": "latest",
+        "saimcountdown-timer": "latest",
+        "saimcurrency-convertor": "latest",
+        "saimguess-number": "latest",
+        "saimohan-card1": "latest",
+        "saimonmoore-cradle": "latest",
+        "saimstudent-management": "latest",
+        "saimtodo-list": "latest",
+        "saimuniversity-management": "latest",
+        "saimword-counter": "latest",
+        "saimyr-gac-pers-libreria": "latest",
+        "saimyr-lib": "latest"
+    }
+}

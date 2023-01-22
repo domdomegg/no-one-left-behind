@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_elg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@elg/slate-react": "latest",
+        "@elg/speedscope": "latest",
+        "@elg/tscodegen": "latest",
+        "@elgato-stream-deck/core": "latest",
+        "@elgato-stream-deck/node": "latest",
+        "@elgato-stream-deck/webhid": "latest",
+        "@elgerm/angular-oauth2-oidc": "latest",
+        "@elgervb/eslint-config": "latest",
+        "@elgervb/mock-data": "latest",
+        "@elgervb/stencil-components": "latest",
+        "@elgganor/type": "latest",
+        "@elghandour/fetchify": "latest",
+        "@elgiz_hasanzadeh/advamp-dragger": "latest",
+        "@elgiz_hasanzadeh/advamp-lib-map2d": "latest",
+        "@elgiz_hasanzadeh/custom": "latest",
+        "@elgiz_hasanzadeh/lib-map2d": "latest",
+        "@elgiz_hasanzadeh/measure": "latest",
+        "@elgiz_hasanzadeh/measure-test": "latest",
+        "@elgiz_hasanzadeh/testing": "latest",
+        "@elgorditosalsero/react-gtm-hook": "latest"
+    }
+}

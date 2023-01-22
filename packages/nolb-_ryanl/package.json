@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_ryanl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryanlee2014/markdown-it": "latest",
+        "@ryanlee2014/markdown-it-katex": "latest",
+        "@ryanlee2014/mavon-editor": "latest",
+        "@ryanlee2014/vue-gravatar": "latest",
+        "@ryanleecode/mongad": "latest",
+        "@ryanlsmith/date_lib": "latest",
+        "@ryanlsmith/string_lib": "latest"
+    }
+}

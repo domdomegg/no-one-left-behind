@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_pou",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pou6858/lotide": "latest",
+        "@pouch/caa-engine": "latest",
+        "@pouch/extension-logs": "latest",
+        "@pouch/extension-megatron": "latest",
+        "@poudel/common": "latest",
+        "@poulahelmy/test-ng": "latest",
+        "@poulpi/clown-ui": "latest",
+        "@poulpi/domtojson": "latest",
+        "@pounce-app/otc": "latest",
+        "@pounce-lang/core": "latest",
+        "@pouple/randomid-generator": "latest",
+        "@pouta/react-transcript-editor": "latest",
+        "@poutine/timeular-cli": "latest"
+    }
+}

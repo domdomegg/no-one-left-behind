@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_stec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stechquick/algae": "latest",
+        "@stechquick/qcloud-common": "latest",
+        "@stechquick/symphony-cli": "latest",
+        "@stechquick/symphony-common": "latest",
+        "@stechquick/symphony-nanoserver": "latest",
+        "@stechquick/symphony-nanoserver-wsplugin": "latest",
+        "@stechy1/class-transformer-validator": "latest",
+        "@stechy1/diplomka-share": "latest",
+        "@stechy1/schematics": "latest"
+    }
+}

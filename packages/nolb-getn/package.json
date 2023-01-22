@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-getn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "getn": "latest",
+        "getname": "latest",
+        "getnameak": "latest",
+        "getnamo-test": "latest",
+        "getnet": "latest",
+        "getnet-sdk": "latest",
+        "getnet-sdk-js": "latest",
+        "getnextline": "latest",
+        "getnextroute": "latest",
+        "getnextuntil": "latest",
+        "getnextworkingdatefromdate": "latest",
+        "getnodesbytype": "latest",
+        "getnowdate": "latest",
+        "getnpmregistry": "latest",
+        "getnpms": "latest",
+        "getntified": "latest",
+        "getnum": "latest",
+        "getnum190": "latest",
+        "getnumtext": "latest"
+    }
+}

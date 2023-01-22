@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_reactc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reactchartjs/react-chart.js": "latest",
+        "@reactclass/use-title": "latest",
+        "@reactcli/react-cli": "latest",
+        "@reactcn/next-routes": "latest"
+    }
+}

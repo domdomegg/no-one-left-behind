@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_yot",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yotahamada/common": "latest",
+        "@yotaiyo/react-components-npm-packages-sample": "latest",
+        "@yotamloe/instrumentation-document-load": "latest",
+        "@yotamloe/instrumentation-user-interaction": "latest",
+        "@yotamloe/instrumentation-xml-http-request": "latest",
+        "@yotammanor/awesome-button": "latest",
+        "@yotamshacham/schema": "latest",
+        "@yotasky/vueui": "latest",
+        "@yoteam/api": "latest",
+        "@yoteam/infrastructure": "latest",
+        "@yoteam/yoteamgl": "latest",
+        "@yoteetools/carpenter": "latest",
+        "@yotei-animuu/cli": "latest",
+        "@yotei-animuu/core": "latest",
+        "@yotei-animuu/http-api": "latest",
+        "@yotei-animuu/persistence": "latest",
+        "@yotickets/common": "latest",
+        "@yotie/micron": "latest",
+        "@yotie/perhaps": "latest",
+        "@yotinnot/abs-auth-middleware": "latest",
+        "@yotis56/platzi-mediaplayer": "latest",
+        "@yotsubacy/config": "latest",
+        "@yottabrain/thin-http-client": "latest",
+        "@yottacloud/im-sdk": "latest",
+        "@yottasoftware/actualizabdyotta": "latest",
+        "@yottasoftware/nmsincroyotta": "latest",
+        "@yottasoftware/sincroyottasoft": "latest",
+        "@yottawin/wallet-adapter-react-hud": "latest"
+    }
+}

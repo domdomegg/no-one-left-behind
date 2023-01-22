@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-hu-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hu-2105": "latest",
+        "hu-autotemp": "latest",
+        "hu-barras-component-react": "latest",
+        "hu-data-change": "latest",
+        "hu-editor": "latest",
+        "hu-ele-01": "latest",
+        "hu-excel-model": "latest",
+        "hu-first-npm": "latest",
+        "hu-gulp-demo": "latest",
+        "hu-json-loader": "latest",
+        "hu-last-test": "latest",
+        "hu-login": "latest",
+        "hu-lulu-first": "latest",
+        "hu-postal-codes": "latest",
+        "hu-react-scripts": "latest",
+        "hu-react-stories": "latest",
+        "hu-rolling-loading": "latest",
+        "hu-server": "latest",
+        "hu-test": "latest",
+        "hu-toast": "latest",
+        "hu-tool": "latest",
+        "hu-tree": "latest",
+        "hu-utils": "latest",
+        "hu-vue-toast": "latest",
+        "hu-vue-ui": "latest",
+        "hu-week": "latest",
+        "hu-yule-collection": "latest"
+    }
+}

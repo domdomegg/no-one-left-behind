@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-wini",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wini-sdk": "latest",
+        "wininit": "latest",
+        "winiputils": "latest",
+        "winit": "latest",
+        "winit-activity-logs": "latest",
+        "winit-service": "latest",
+        "winit.chat.js": "latest",
+        "winit.client.js": "latest",
+        "winit.daily.js": "latest",
+        "winitui": "latest",
+        "winix-api": "latest"
+    }
+}

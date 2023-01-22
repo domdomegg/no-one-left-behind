@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-koaf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "koaflow": "latest",
+        "koaflow-middleware": "latest",
+        "koaflow-picker": "latest",
+        "koaflow-test": "latest",
+        "koaflow-type": "latest",
+        "koaflow-util": "latest",
+        "koafs": "latest"
+    }
+}

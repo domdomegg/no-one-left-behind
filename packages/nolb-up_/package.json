@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-up_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "up.io": "latest",
+        "up.js": "latest",
+        "up.redroach.es-cli": "latest",
+        "up_data_checker": "latest",
+        "up_he": "latest",
+        "up_load_plug": "latest",
+        "up_log": "latest",
+        "up_wps": "latest"
+    }
+}

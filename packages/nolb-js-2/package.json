@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-js-2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "js-2-json-file": "latest",
+        "js-2dmath": "latest",
+        "js-2mundos-marker-clusterer": "latest"
+    }
+}

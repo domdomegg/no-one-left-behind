@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-react-ng",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-ng": "latest",
+        "react-ng-cli": "latest",
+        "react-ng-search": "latest",
+        "react-ngl": "latest",
+        "react-ngm-form": "latest",
+        "react-ngwlan-test": "latest"
+    }
+}

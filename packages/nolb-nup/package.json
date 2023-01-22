@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-nup",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nup": "latest",
+        "nup-peer.js": "latest",
+        "nup-utils": "latest",
+        "nup.sh": "latest",
+        "nupco-layout": "latest",
+        "nupdate": "latest",
+        "nupes-ui": "latest",
+        "nupeye-js": "latest",
+        "nuphenix-nuplot": "latest",
+        "nuplayer": "latest",
+        "nupload": "latest",
+        "nuplot": "latest",
+        "nupnp": "latest",
+        "nupper": "latest",
+        "nupur-frame-print": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-pann",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "panna-luckysheet": "latest",
+        "pannable": "latest",
+        "panneau": "latest",
+        "panneaux": "latest",
+        "pannellum": "latest",
+        "pannellum-extended": "latest",
+        "pannellum-next": "latest",
+        "pannellum-next-no-video": "latest",
+        "pannellum-react": "latest",
+        "pannellum-react-next-no-video": "latest",
+        "pannellum-react-photo": "latest",
+        "pannellum-react-rpa": "latest",
+        "pannellum-react-ssr": "latest",
+        "pannellum-react-vc": "latest",
+        "pannellum-rooms": "latest",
+        "pannellum-translation": "latest",
+        "pannelum-react-without-css": "latest",
+        "pannenkoek": "latest",
+        "panner": "latest",
+        "panner-utils": "latest",
+        "pannerjs": "latest",
+        "pannier": "latest",
+        "panning-orbit-controls": "latest",
+        "panny": "latest",
+        "panny-input": "latest",
+        "pannysp_package": "latest"
+    }
+}

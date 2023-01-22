@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_tesl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tesl/tesler_versions_fix": "latest",
+        "@tesla-ce/icons": "latest",
+        "@tesla-ce/sensors": "latest",
+        "@tesla-ce/web-plugin": "latest",
+        "@tesla-js/core": "latest",
+        "@tesla-js/tesla-polyfill": "latest",
+        "@tesla-js/tslazip": "latest",
+        "@tesla-scripts/lib": "latest",
+        "@teslahunt/title": "latest",
+        "@teslao/eslint-config-rax": "latest",
+        "@tesler-ui/core": "latest",
+        "@tesler-ui/cra-template-typescript": "latest",
+        "@tesler-ui/schema": "latest",
+        "@tesler-ui/tslint-jsdoc-rules": "latest",
+        "@tesler-ui/typedoc": "latest"
+    }
+}

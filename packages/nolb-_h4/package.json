@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_h4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@h412/google-maps": "latest",
+        "@h4ad/custom-eva-icons": "latest",
+        "@h4ad/custom-nebular-theme": "latest",
+        "@h4ad/dependency-extractor": "latest",
+        "@h4ad/node-modules-packer": "latest",
+        "@h4ad/serverless-adapter": "latest",
+        "@h4bff/backend": "latest",
+        "@h4bff/core": "latest",
+        "@h4bff/frontend": "latest",
+        "@h4ck/npm-lamb": "latest",
+        "@h4ck/npm-tiger": "latest",
+        "@h4iuiuc/eslint-plugin": "latest",
+        "@h4na2t/jsonenv": "latest",
+        "@h4nsolo/node-rcon-sogebot": "latest",
+        "@h4nyu/react-native-zebra-rfid": "latest",
+        "@h4x/common": "latest",
+        "@h4x/db": "latest",
+        "@h4x/hdb": "latest",
+        "@h4x/request": "latest",
+        "@h4x/socket": "latest"
+    }
+}

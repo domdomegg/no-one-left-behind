@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-rolls",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rolls": "latest",
+        "rolls-royce-react": "latest",
+        "rollsindice": "latest",
+        "rollstudio-basic-ftp": "latest",
+        "rollstudio-cropperjs": "latest",
+        "rollsum": "latest",
+        "rollsum-split": "latest"
+    }
+}

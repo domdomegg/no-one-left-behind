@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-aml",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aml": "latest",
+        "aml-gdoc-server": "latest",
+        "aml-hash-form": "latest",
+        "aml-react": "latest",
+        "aml-sdk": "latest",
+        "aml-shacl-node": "latest",
+        "aml-tag": "latest",
+        "aml-tools": "latest",
+        "aml-vue-bootimportent": "latest",
+        "aml-webpack-demo2": "latest",
+        "amlak66-shared": "latest",
+        "amlenginewrapper": "latest",
+        "amlib": "latest",
+        "amlibrary2": "latest",
+        "amlich": "latest",
+        "amlich.js": "latest",
+        "amll": "latest",
+        "amll-egg-sequelize-mg": "latest",
+        "amllaak-data-models": "latest",
+        "amllaak-shared": "latest",
+        "amllaak-theme": "latest"
+    }
+}

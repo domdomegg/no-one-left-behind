@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-arrayb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ArrayBuffer-shim": "latest",
+        "arraybag": "latest",
+        "arraybe": "latest",
+        "arraybrain": "latest",
+        "arraybuffer-base64": "latest",
+        "arraybuffer-concat": "latest",
+        "arraybuffer-encoding": "latest",
+        "arraybuffer-equal": "latest",
+        "arraybuffer-fns": "latest",
+        "arraybuffer-lite-loader": "latest",
+        "arraybuffer-loader": "latest",
+        "arraybuffer-mime": "latest",
+        "arraybuffer-slice": "latest",
+        "arraybuffer-to-audiobuffer": "latest",
+        "arraybuffer-to-buffer": "latest",
+        "arraybuffer-to-string": "latest",
+        "arraybuffer-utils": "latest",
+        "arraybuffer-xml-parser": "latest",
+        "arraybuffer.slice": "latest",
+        "arraybuffertobase64": "latest",
+        "arraybuffertoimagesource": "latest",
+        "arraybuffertojson": "latest",
+        "arraybufferview": "latest",
+        "arraybytwo": "latest"
+    }
+}

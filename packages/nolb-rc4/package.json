@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-rc4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rc4": "latest",
+        "rc4-cipher": "latest",
+        "rc4-cli": "latest",
+        "rc4-crypto": "latest",
+        "rc4-es6": "latest",
+        "rc4-ts": "latest",
+        "rc4.js": "latest",
+        "rc4_secret": "latest",
+        "rc4a": "latest",
+        "rc4js": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_tht",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@thtf/element-datepicker": "latest",
+        "@thtf/excel": "latest",
+        "@thtf/excel-designer": "latest",
+        "@thtf/excel-designer-extra": "latest",
+        "@thtf/form-designer": "latest",
+        "@thtf/prolayout": "latest",
+        "@thtf/spreadsheet-designer": "latest",
+        "@thtf/spreadsheet-designer-aggregation": "latest",
+        "@thtf/spreadsheet-designer-collector": "latest",
+        "@thtf/spreadsheet-designer-core": "latest",
+        "@thtf/vue-autocomplete": "latest",
+        "@thtf/vue-query": "latest",
+        "@thtf/vue-query-tjy": "latest",
+        "@thtf/vue-textarea-autocomplete": "latest",
+        "@thtf/wj-designer": "latest",
+        "@thticket/common": "latest",
+        "@thtickets/common": "latest",
+        "@thticketsies/common": "latest",
+        "@thtix/common": "latest",
+        "@thtliife/adamant": "latest",
+        "@thtliife/eslint-config": "latest",
+        "@thtliife/eslint-staged-ignored-filter": "latest",
+        "@thtliife/repo-config": "latest",
+        "@thtmo222/sample-npm-package": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-neth",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "neth": "latest",
+        "nethackhero": "latest",
+        "nethandler": "latest",
+        "nethaus": "latest",
+        "netheartbeat": "latest",
+        "nethelpers": "latest",
+        "nether": "latest",
+        "nether-swap": "latest",
+        "nethereum-codegen": "latest",
+        "netherfox": "latest",
+        "netherlands-flag": "latest",
+        "nethermindeth-general-agents-module": "latest",
+        "netherydb": "latest",
+        "nethouse-ui": "latest",
+        "nethrenial-ui": "latest",
+        "nethub": "latest",
+        "nethues-charts": "latest",
+        "nethunder-simluate": "latest",
+        "nethunderqrcode": "latest"
+    }
+}

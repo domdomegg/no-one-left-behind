@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-streama",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "streamable": "latest",
+        "streamable-buffers": "latest",
+        "streamable-js": "latest",
+        "streamable-private-api": "latest",
+        "streamable-topic": "latest",
+        "streamable-validate": "latest",
+        "streamagent": "latest",
+        "streamai": "latest",
+        "streamall": "latest",
+        "streamango-scraper": "latest",
+        "streamango-scrapper": "latest",
+        "streamapi": "latest",
+        "streamapi2": "latest",
+        "streamapiiii": "latest",
+        "streamarchive-api": "latest",
+        "streamarchive-apibase": "latest",
+        "streamarchive-streamer-api-client": "latest",
+        "streamarchive-transcoder-api-client": "latest",
+        "streamarchive-utils": "latest"
+    }
+}

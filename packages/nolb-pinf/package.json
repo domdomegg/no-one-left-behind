@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-pinf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pinf": "latest",
+        "pinf-config": "latest",
+        "pinf-for-dojo": "latest",
+        "pinf-for-jquery": "latest",
+        "pinf-for-mozilla-web-ext": "latest",
+        "pinf-for-nodejs": "latest",
+        "pinf-for-requirejs": "latest",
+        "pinf-it": "latest",
+        "pinf-it-bundler": "latest",
+        "pinf-it-filetree-insight": "latest",
+        "pinf-it-module-insight": "latest",
+        "pinf-it-package-insight": "latest",
+        "pinf-it-packageinsight": "latest",
+        "pinf-it-program-insight": "latest",
+        "pinf-it-toolchain-insight": "latest",
+        "pinf-loader-js": "latest",
+        "pinf-loader-js-demos-npmpackage": "latest",
+        "pinf-primitives-js": "latest",
+        "pinf-proxy": "latest",
+        "pinf-to-github-pages": "latest",
+        "pinf-vfs": "latest",
+        "pinf.logic-for-json": "latest",
+        "pinf.sh": "latest",
+        "pinfield": "latest",
+        "pinflag-ui-kit-alpha": "latest",
+        "pinfluencer-library": "latest"
+    }
+}

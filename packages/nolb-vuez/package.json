@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-vuez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vuez": "latest",
+        "vuez-cli": "latest",
+        "vuez-everywhere": "latest",
+        "vuez-template-compile": "latest",
+        "vuezik": "latest",
+        "vuezingtouch": "latest",
+        "vuezip": "latest",
+        "vuezjdemo": "latest",
+        "vuezondyechart": "latest",
+        "vuezqcounter": "latest",
+        "vuezx": "latest",
+        "vuezx-cli": "latest",
+        "vuezy": "latest",
+        "vuezz-npm-test": "latest"
+    }
+}

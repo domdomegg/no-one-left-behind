@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-smartb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smartbanner": "latest",
+        "smartbanner-ts": "latest",
+        "smartbanner.js": "latest",
+        "smartbanner.js_axis41": "latest",
+        "smartbar": "latest",
+        "smartbase": "latest",
+        "smartbch-token-list": "latest",
+        "smartbd-demo": "latest",
+        "smartbe-header": "latest",
+        "smartbear-design-system": "latest",
+        "smartbi": "latest",
+        "smartbi-ext-dev": "latest",
+        "smartbi-ext-env": "latest",
+        "smartbi-qs": "latest",
+        "smartbiz-design-system": "latest",
+        "smartblock": "latest",
+        "smartblocks": "latest",
+        "smartblok-vendure-plugin": "latest",
+        "smartbot": "latest",
+        "smartbot2anki": "latest",
+        "smartbox": "latest",
+        "smartbox-util": "latest",
+        "smartboxui": "latest",
+        "smartbuffer": "latest",
+        "smartbytes": "latest"
+    }
+}

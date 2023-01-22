@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_max-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@max-capricorn/lib-ws": "latest",
+        "@max-havelaar/ng-dark-mod": "latest",
+        "@max-mcgee-valtech/learnstorybook-design-system": "latest",
+        "@max-norin/common-project-init": "latest",
+        "@max-norin/nuxt-project-init": "latest",
+        "@max-norin/postcss-project-init": "latest",
+        "@max-norin/style-project-init": "latest",
+        "@max-norin/ts-project-init": "latest",
+        "@max-norin/vue-project-init": "latest",
+        "@max-revops/eslint-plugin-testing-library": "latest",
+        "@max-revops/eslint-plugin-testing-library-revops": "latest",
+        "@max-test/test1": "latest",
+        "@max-tool/decorate-isv-sdk": "latest"
+    }
+}

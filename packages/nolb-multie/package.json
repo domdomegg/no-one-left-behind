@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-multie",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "multiecho": "latest",
+        "multiedu-coding-style": "latest",
+        "multienv-loader": "latest",
+        "multierror": "latest",
+        "multieventbus": "latest",
+        "multiexec": "latest"
+    }
+}

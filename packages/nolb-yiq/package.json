@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-yiq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yiq": "latest",
+        "yiqi-imooc-lib": "latest",
+        "yiqi-imooc-test": "latest",
+        "yiqi-vue-common": "latest",
+        "yiqi-vue-login": "latest",
+        "yiqiange-zuiqiang-jingyou-peifang": "latest",
+        "yiqianyao_huaqing_shihui111": "latest",
+        "yiqianzhong-zhuanqianfangfa-erlingyijiulingba": "latest",
+        "yiqichuquwan": "latest",
+        "yiqikanba": "latest",
+        "yiqilai-element-theme": "latest",
+        "yiqing": "latest",
+        "yiqing_map": "latest",
+        "yiqiquchixiaolongxiaba": "latest",
+        "yiqirikao": "latest",
+        "yiqixiu": "latest",
+        "yiqizi-project-test": "latest",
+        "yiquan0816-tools": "latest"
+    }
+}

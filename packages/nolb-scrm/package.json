@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-scrm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "scrm-admin": "latest",
+        "scrm-cli": "latest",
+        "scrm-qeditor": "latest",
+        "scrm-ui": "latest",
+        "scrm-vue-component-alert": "latest",
+        "scrm-vue-component-button": "latest",
+        "scrm-vue-component-heading": "latest",
+        "scrm-vue-component-paragraph": "latest",
+        "scrm.js": "latest",
+        "scrmhub-hello-world-test-module": "latest",
+        "scrms-ui": "latest"
+    }
+}

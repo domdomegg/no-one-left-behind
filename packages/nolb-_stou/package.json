@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_stou",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stouder-io/adonis-scheduler": "latest",
+        "@stoui/react": "latest",
+        "@stoumann/vuezard": "latest",
+        "@stout/vue-dashed-spinner": "latest",
+        "@stout/vue-radar-input": "latest",
+        "@stoutlabs/gatsby-theme-stoutlabs-starter-blog": "latest"
+    }
+}

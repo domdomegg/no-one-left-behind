@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_agt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@agtabesh/lsh": "latest",
+        "@agtech/crypt-utils": "latest",
+        "@agtech/ms-gen": "latest",
+        "@agtesting/common": "latest",
+        "@agticket/common": "latest",
+        "@agticketing/common": "latest",
+        "@agticketsdev/common": "latest",
+        "@agtlucas/rainmaker": "latest",
+        "@agtm/nuxt-form": "latest",
+        "@agtm/nuxt-model": "latest",
+        "@agtm/sindri-cli": "latest",
+        "@agtm/sindri-framework": "latest",
+        "@agtm/utils": "latest",
+        "@agtuto/agtutocommon": "latest"
+    }
+}

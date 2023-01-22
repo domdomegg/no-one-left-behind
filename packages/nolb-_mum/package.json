@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_mum",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mumbacloud/dmport": "latest",
+        "@mumbaiswap/sdk": "latest",
+        "@mumble/api": "latest",
+        "@mumble/cli": "latest",
+        "@mumble/components": "latest",
+        "@mumble/components2": "latest",
+        "@mumble/hooks": "latest",
+        "@mumble/theme-tailwind-ui": "latest",
+        "@mumble/vue-components": "latest",
+        "@mumbler/mumbler": "latest",
+        "@mumbler/mumbler-api": "latest",
+        "@mumbler/mumbler-api-ts": "latest",
+        "@mumbler/ngx-mumbler-api": "latest",
+        "@mumbot/commands": "latest",
+        "@mumbot/core": "latest",
+        "@mumbot/events": "latest",
+        "@mumbot/plugins": "latest",
+        "@mumbot/types": "latest",
+        "@mumiairrequieta/angular-jwt": "latest",
+        "@mumingpo/primate": "latest",
+        "@muminlife/ng-api-server-interceptor": "latest",
+        "@mummify/react": "latest",
+        "@mummyzfinance/uikit": "latest",
+        "@mumoshu/automation-client": "latest",
+        "@mumot1999/react-editext": "latest",
+        "@mumuimp/egg-mongoose": "latest"
+    }
+}

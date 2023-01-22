@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-wao",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wao": "latest",
+        "wao-api-sign": "latest",
+        "waodhen_jdnqwndw": "latest",
+        "waoffle": "latest",
+        "waon": "latest",
+        "waos": "latest",
+        "waos-conventional-changelog": "latest",
+        "waos-demo": "latest"
+    }
+}

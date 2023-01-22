@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-browe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brower": "latest",
+        "brower-compatible": "latest",
+        "brower-flag": "latest",
+        "brower-image-combiner": "latest",
+        "brower-imagemin": "latest",
+        "broweropen": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_awi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@awiacek/vue-paycard": "latest",
+        "@awiedenman/npm-lesson": "latest",
+        "@awill1004/aws-schema-graphql": "latest",
+        "@awilmoth/unicli": "latest",
+        "@awinnen/ngx-squidex": "latest",
+        "@awinogrodzki/ckeditor5-build-balloon-block": "latest",
+        "@awinogrodzki/embed-js": "latest",
+        "@awinogrodzki/embed-plugin-utilities": "latest",
+        "@awinogrodzki/embed-plugin-youtube": "latest",
+        "@awit123you/context-menu": "latest",
+        "@awit123you/library": "latest"
+    }
+}

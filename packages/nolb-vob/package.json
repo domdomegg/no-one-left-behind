@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-vob",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vob": "latest",
+        "vobe": "latest",
+        "vobees": "latest",
+        "vobi-cli": "latest",
+        "vobi-core": "latest",
+        "vobi-graphql": "latest",
+        "vobi-graphql-generator": "latest",
+        "vobi-hocs": "latest",
+        "vobile-cli": "latest",
+        "vobin": "latest",
+        "vobis-dropdown": "latest",
+        "vobject": "latest",
+        "vobrowse": "latest",
+        "voby": "latest",
+        "voby-esbuild": "latest",
+        "voby-router": "latest",
+        "voby-vite": "latest"
+    }
+}

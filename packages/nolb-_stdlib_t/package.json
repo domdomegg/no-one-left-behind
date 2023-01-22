@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_stdlib_t",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stdlib/time": "latest",
+        "@stdlib/time-base": "latest",
+        "@stdlib/time-base-parse-duration": "latest",
+        "@stdlib/time-current-year": "latest",
+        "@stdlib/time-day-of-quarter": "latest",
+        "@stdlib/time-day-of-year": "latest",
+        "@stdlib/time-days-in-month": "latest",
+        "@stdlib/time-days-in-year": "latest",
+        "@stdlib/time-duration2ms": "latest",
+        "@stdlib/time-hours-in-month": "latest",
+        "@stdlib/time-hours-in-year": "latest",
+        "@stdlib/time-iso-weeks-in-year": "latest",
+        "@stdlib/time-minutes-in-month": "latest",
+        "@stdlib/time-minutes-in-year": "latest",
+        "@stdlib/time-ms2duration": "latest",
+        "@stdlib/time-now": "latest",
+        "@stdlib/time-quarter-of-year": "latest",
+        "@stdlib/time-seconds-in-month": "latest",
+        "@stdlib/time-seconds-in-year": "latest",
+        "@stdlib/time-tic": "latest",
+        "@stdlib/time-toc": "latest",
+        "@stdlib/types": "latest"
+    }
+}

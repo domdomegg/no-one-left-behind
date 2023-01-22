@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-taz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "taz": "latest",
+        "tazapay-poc": "latest",
+        "tazata": "latest",
+        "taze": "latest",
+        "tazh-ui": "latest",
+        "tazk": "latest",
+        "tazlocal": "latest",
+        "tazmaya-cli": "latest",
+        "tazo-ika": "latest",
+        "tazor": "latest",
+        "tazparser": "latest",
+        "tazrim": "latest",
+        "tazure-utils": "latest",
+        "tazz": "latest"
+    }
+}

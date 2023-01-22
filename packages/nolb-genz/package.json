@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-genz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "genz": "latest",
+        "genzen": "latest",
+        "genzgamerfirstmodule": "latest",
+        "genzhe-aifeier-xuetaluo": "latest",
+        "genzhe-dashi-xuetaluo": "latest",
+        "genzhe-dashi-xuetaluo-niweipai": "latest",
+        "genzo": "latest",
+        "genzx": "latest"
+    }
+}

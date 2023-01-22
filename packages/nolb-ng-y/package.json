@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-ng-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ng-yajwt": "latest",
+        "ng-yandex-metrika": "latest",
+        "ng-yandex-metrika-ecommerce": "latest",
+        "ng-yangui": "latest",
+        "ng-yavorskiy-ui": "latest",
+        "ng-yidong-bar": "latest",
+        "ng-yochia-ui": "latest",
+        "ng-yod-data-table": "latest",
+        "ng-youtube-api": "latest",
+        "ng-youtube-embed": "latest",
+        "ng-youtube-embed-iframe": "latest",
+        "ng-youtube-iframe": "latest",
+        "ng-youtube-overlay": "latest",
+        "ng-youtube-player": "latest",
+        "ng-youtube-responsive": "latest",
+        "ng-yt-player": "latest",
+        "ng-ytl-zorro-antd": "latest",
+        "ng-yuanui": "latest",
+        "ng-yugen-library": "latest",
+        "ng-yunzai": "latest",
+        "ng-yunzai-mobile": "latest",
+        "ng-yunzai-plugin-theme": "latest",
+        "ng-yunzai-sts": "latest",
+        "ng-yunzai-sts2": "latest",
+        "ng-yydatafin": "latest",
+        "ng-yzf-base": "latest"
+    }
+}

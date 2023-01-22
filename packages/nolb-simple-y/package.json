@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-simple-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simple-yaml-config": "latest",
+        "simple-yaml-import": "latest",
+        "simple-yaml-validator": "latest",
+        "simple-yargs": "latest",
+        "simple-yenc": "latest",
+        "simple-youtube": "latest",
+        "simple-youtube-age-restriction-bypass": "latest",
+        "simple-youtube-api": "latest",
+        "simple-youtube-info": "latest",
+        "simple-ytdl": "latest"
+    }
+}

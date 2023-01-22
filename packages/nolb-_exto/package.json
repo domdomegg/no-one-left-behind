@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_exto",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@extole/extole-mobile-sdk": "latest",
+        "@extole/react-native-sdk": "latest",
+        "@extole/semver-test": "latest",
+        "@extollo/cc": "latest",
+        "@extollo/cli": "latest",
+        "@extollo/di": "latest",
+        "@extollo/i18n": "latest",
+        "@extollo/lib": "latest",
+        "@extollo/orm": "latest",
+        "@extollo/ui": "latest",
+        "@extollo/util": "latest"
+    }
+}

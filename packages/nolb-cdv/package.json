@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-cdv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cdv": "latest",
+        "cdv-api": "latest",
+        "cdv-assets": "latest",
+        "cdv-cli": "latest",
+        "cdv-famoco": "latest",
+        "cdv-googlemaps": "latest",
+        "cdv-module": "latest",
+        "cdv-pix-sample": "latest",
+        "cdv-plugin-przelewy24-mobile-sdk": "latest",
+        "cdv-pnp-consumer": "latest",
+        "cdva-create": "latest",
+        "cdva-hooks": "latest",
+        "cdva-merges": "latest",
+        "cdvlive": "latest"
+    }
+}

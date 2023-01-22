@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-zie",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zie": "latest",
+        "ziee": "latest",
+        "zieels-recordhist": "latest",
+        "zielaq_my_package": "latest",
+        "zield": "latest",
+        "ziemer-falke-event": "latest",
+        "zienhouse": "latest",
+        "zienwindowcore": "latest",
+        "ziermann-nes-palette-editor": "latest",
+        "zierwabutton": "latest",
+        "ziew": "latest",
+        "ziey-gettext": "latest",
+        "ziey-i18n-loader": "latest",
+        "ziey-utils": "latest"
+    }
+}

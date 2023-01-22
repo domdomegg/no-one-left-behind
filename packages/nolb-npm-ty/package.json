@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-npm-ty",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "npm-typeahead": "latest",
+        "npm-typed-logger-example-s": "latest",
+        "npm-types": "latest",
+        "npm-typescript": "latest",
+        "npm-typescript-boilerplate": "latest",
+        "npm-typescript-components": "latest",
+        "npm-typescript-example": "latest",
+        "npm-typescript-lib-boilerplate": "latest",
+        "npm-typescript-library": "latest",
+        "npm-typescript-module": "latest",
+        "npm-typescript-package": "latest",
+        "npm-typescript-package-aki": "latest",
+        "npm-typescript-package-boilerplate": "latest",
+        "npm-typescript-package-test": "latest",
+        "npm-typescript-repo": "latest",
+        "npm-typescript-starter": "latest",
+        "npm-typescript-starter-kit": "latest",
+        "npm-typescript-tslint-prettier-jest": "latest"
+    }
+}

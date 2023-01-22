@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_semio",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@semiologic/graphscript": "latest",
+        "@semion-kiselev/rmnm": "latest",
+        "@semiorbit/api-central": "latest",
+        "@semiorbit/is-iphonex": "latest",
+        "@semiorbit/ispinner": "latest",
+        "@semiorbit/react-form-provider": "latest",
+        "@semiorbit/react-ui-tools": "latest",
+        "@semiorbit/section-in-view": "latest",
+        "@semioticlabs/ngx-tour-core": "latest",
+        "@semioticlabs/ngx-tour-ngx-bootstrap": "latest",
+        "@semioticlabs/ngx-treeview": "latest"
+    }
+}

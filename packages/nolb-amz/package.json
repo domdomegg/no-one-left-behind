@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-amz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "amz": "latest",
+        "amz-ads-api": "latest",
+        "amz-advertising-api": "latest",
+        "amz-mws-api": "latest",
+        "amz-products": "latest",
+        "amz-sdk-mirror": "latest",
+        "amz-spy": "latest",
+        "amz_countwords": "latest",
+        "amzn": "latest",
+        "amzn-mws": "latest",
+        "amzn-papi": "latest",
+        "amznjp-url-normalize": "latest",
+        "amznmws": "latest",
+        "amzpay": "latest",
+        "amzui": "latest"
+    }
+}

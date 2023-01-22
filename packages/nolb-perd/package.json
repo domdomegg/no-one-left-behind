@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-perd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "perd": "latest",
+        "perdi": "latest",
+        "perdido": "latest",
+        "perdirjs": "latest",
+        "perdix": "latest",
+        "perdodere": "latest",
+        "perdoo-ui": "latest",
+        "perdoo-ui-nwb": "latest",
+        "perdream-init": "latest"
+    }
+}

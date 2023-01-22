@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-asq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "asq": "latest",
+        "asq-microformat": "latest",
+        "asq-react-native-device": "latest",
+        "asq-react-native-facebook-log-in": "latest",
+        "asq-react-native-google-sign-in": "latest",
+        "asq-react-native-sensors": "latest",
+        "asq-visualization": "latest",
+        "asqjs": "latest",
+        "asql": "latest",
+        "asqs-mdb": "latest",
+        "asqueue": "latest",
+        "asqy-ui": "latest"
+    }
+}

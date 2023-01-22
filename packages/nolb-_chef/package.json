@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_chef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chefao-final/angular-mentions": "latest",
+        "@chefao/docs": "latest",
+        "@chefao/react": "latest",
+        "@chefao/tokens": "latest",
+        "@chefapp/common": "latest",
+        "@chefiq/cra-template-chefiq-react": "latest",
+        "@chefiq/cra-template-chefiq-react-electron": "latest",
+        "@cheflego/forkswap-libs-sdk": "latest",
+        "@cheflego/justafork-sdk": "latest",
+        "@cheftonic/cheftonic-booking-component": "latest",
+        "@cheftonic/dynamodb-to-elasticsearch-offline": "latest",
+        "@chefuai/migrations": "latest"
+    }
+}

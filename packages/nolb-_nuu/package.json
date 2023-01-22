@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_nuu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nuuday/api-connector": "latest",
+        "@nuuday/jss-client": "latest",
+        "@nuuday/jss-linting": "latest",
+        "@nuuday/jss-server": "latest",
+        "@nuuf/chink": "latest",
+        "@nuuf/chink2": "latest",
+        "@nuuf/nk2-backend": "latest",
+        "@nuuf/nk2-frontend": "latest",
+        "@nuuf/syndicate": "latest",
+        "@nuuji/cli": "latest",
+        "@nuuji/config": "latest",
+        "@nuuuwan/utils-js-0": "latest",
+        "@nuuuwan/utils-js-dev": "latest",
+        "@nuux/sentry": "latest"
+    }
+}

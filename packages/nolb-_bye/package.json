@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_bye",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bye_past/vue-keep": "latest",
+        "@byem.io/sm2": "latest",
+        "@byeongjae-kang/lotide": "latest",
+        "@byeongsoo.kim/myfirstnpm": "latest",
+        "@byetaeyang/discord-helper-functions": "latest",
+        "@byetool/json-exporter": "latest"
+    }
+}

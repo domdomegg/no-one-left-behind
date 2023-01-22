@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-wea",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wea": "latest",
+        "@zalastax/nolb-wea-": "latest",
+        "@zalastax/nolb-weac": "latest",
+        "@zalastax/nolb-weag": "latest",
+        "@zalastax/nolb-weaj": "latest",
+        "@zalastax/nolb-weak": "latest",
+        "@zalastax/nolb-weal": "latest",
+        "@zalastax/nolb-wean": "latest",
+        "@zalastax/nolb-weap": "latest",
+        "@zalastax/nolb-wear": "latest",
+        "@zalastax/nolb-weas": "latest",
+        "@zalastax/nolb-weat": "latest",
+        "@zalastax/nolb-weau": "latest",
+        "@zalastax/nolb-weav": "latest",
+        "@zalastax/nolb-weax": "latest",
+        "@zalastax/nolb-weaz": "latest"
+    }
+}

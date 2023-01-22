@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-swai",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "swai": "latest",
+        "swai-test": "latest",
+        "swain-app": "latest",
+        "swainswain": "latest",
+        "swaiot-jssdk": "latest",
+        "swait": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-v-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "v-odometer": "latest",
+        "v-offline": "latest",
+        "v-ol-map": "latest",
+        "v-omni": "latest",
+        "v-on-touch": "latest",
+        "v-onboarding": "latest",
+        "v-onex": "latest",
+        "v-only-office": "latest",
+        "v-org-chart": "latest",
+        "v-org-tree": "latest",
+        "v-orika": "latest",
+        "v-outside-click": "latest",
+        "v-owl-carousel": "latest"
+    }
+}

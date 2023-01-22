@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-qiw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qiwei-message": "latest",
+        "qiwei1test": "latest",
+        "qiwi": "latest",
+        "qiwi-api": "latest",
+        "qiwi-daemon": "latest",
+        "qiwi-neutrino-presets": "latest",
+        "qiwi-p2p": "latest",
+        "qiwi-promise-api": "latest",
+        "qiwi-sdk": "latest",
+        "qiwi-sdk-nodejs": "latest",
+        "qiwi-shop": "latest",
+        "qiwi-substrate-monorepo": "latest",
+        "qiwi-tools": "latest",
+        "qiwi-wallet": "latest",
+        "qiwi-wallet-sdk": "latest",
+        "qiwi-widget-charaty": "latest",
+        "qiwi-widgets-landing": "latest",
+        "qiwi-wrapper": "latest",
+        "qiwimas": "latest",
+        "qiwuiot-agms": "latest",
+        "qiwuiot-agms-test": "latest",
+        "qiwuiot-ems": "latest",
+        "qiwuiot-request": "latest",
+        "qiwuiot-request-test": "latest"
+    }
+}

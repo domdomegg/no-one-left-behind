@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-j8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "j8": "latest",
+        "j8-dumb-cmpx": "latest",
+        "j8-dynamic-panel": "latest",
+        "j8-in-js": "latest",
+        "j8-lib": "latest",
+        "j8-ng-utils": "latest",
+        "j8-ngrx-panel": "latest",
+        "j8-table": "latest",
+        "j8-ts": "latest",
+        "j899": "latest",
+        "j8i": "latest",
+        "j8sb-library": "latest",
+        "j8sb-libx": "latest",
+        "j8t": "latest"
+    }
+}

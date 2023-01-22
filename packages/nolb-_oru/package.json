@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_oru",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@oruga-ui/oruga": "latest",
+        "@oruga-ui/oruga-next": "latest",
+        "@oruga-ui/theme-bulma": "latest",
+        "@orume-studios/tripay-nodejs": "latest",
+        "@orungrau/nestjs-nats-jetstream-transport": "latest",
+        "@orungrau/socket_core": "latest",
+        "@orustammanapov/component": "latest"
+    }
+}

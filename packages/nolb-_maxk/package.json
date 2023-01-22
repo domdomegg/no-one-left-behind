@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_maxk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@maxklammer/move-component": "latest",
+        "@maxklammer/new-blog": "latest",
+        "@maxklammer/new-component": "latest",
+        "@maxklammer/surface-random-notion-note": "latest",
+        "@maxkorp/bs-type-cleaner": "latest",
+        "@maxkorp/passport-openidconnect": "latest",
+        "@maxkozlowski/auth-helpers-sveltekit": "latest",
+        "@maxkreja/io": "latest",
+        "@maxkueng/tellme": "latest",
+        "@maxkuzmin/i18n-helper": "latest"
+    }
+}

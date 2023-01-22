@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_erc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@erc721k/core-sol": "latest",
+        "@erc721k/periphery-sol": "latest",
+        "@erc725/erc725.js": "latest",
+        "@erc725/provider-wrappers": "latest",
+        "@erc725/smart-contracts": "latest",
+        "@ercantestrepo/tukks-web-ui-framework": "latest",
+        "@ercanxbox/models": "latest",
+        "@ercdex/cli": "latest",
+        "@ercdex/client": "latest",
+        "@ercdex/core": "latest",
+        "@ercdex/mm": "latest",
+        "@erceth/non-maximum-suppression": "latest",
+        "@erceth/pedestrian-detection": "latest",
+        "@ercgrat/mantine-core": "latest",
+        "@erchaves/sprinkles": "latest",
+        "@erchaves/sugarcone": "latest",
+        "@ercl/helpers": "latest",
+        "@ercl/ng-common": "latest",
+        "@ercorp/er-api-cli": "latest",
+        "@ercorp/er-api-js": "latest",
+        "@ercos/components": "latest",
+        "@ercos/tailwind": "latest",
+        "@ercpereda/react-native-accordion": "latest",
+        "@ercref/contracts": "latest"
+    }
+}

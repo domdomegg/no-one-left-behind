@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_pi0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pi0/algolia": "latest",
+        "@pi0/baileys": "latest",
+        "@pi0/capi": "latest",
+        "@pi0/components": "latest",
+        "@pi0/foobar": "latest",
+        "@pi0/framework7": "latest",
+        "@pi0/framework7-vue": "latest",
+        "@pi0/kit-test": "latest",
+        "@pi0/loading-screen": "latest",
+        "@pi0/nutella": "latest",
+        "@pi0/nuxt": "latest",
+        "@pi0/nuxt-cache": "latest",
+        "@pi0/nuxt-start": "latest",
+        "@pi0/nuxt-web-vitals": "latest",
+        "@pi0/pinia-nuxt": "latest",
+        "@pi0/req-url": "latest",
+        "@pi0/supabase": "latest",
+        "@pi0/test": "latest",
+        "@pi0/vite-fix": "latest",
+        "@pi0/vue-loader": "latest",
+        "@pi0/webpack-monitor": "latest",
+        "@pi0/ytdl-core": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-1l",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "1l": "latest",
+        "1li": "latest",
+        "1line-aa": "latest",
+        "1liner": "latest",
+        "1ll": "latest",
+        "1loc": "latest",
+        "1loc-vscode": "latest",
+        "1log": "latest",
+        "1log-antiutils": "latest",
+        "1log-rxjs": "latest",
+        "1lynx-test-component": "latest"
+    }
+}

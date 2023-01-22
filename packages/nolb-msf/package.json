@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-msf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "msf": "latest",
+        "msf-cli": "latest",
+        "msf-editor": "latest",
+        "msf-koa": "latest",
+        "msf-ui": "latest",
+        "msfeature": "latest",
+        "msfeldstein-airdrop-script": "latest",
+        "msff-constructor-overwrite": "latest",
+        "msfjs": "latest",
+        "msflow-request": "latest",
+        "msflowsdk-angular": "latest",
+        "msfmultiselect": "latest",
+        "msfnode": "latest",
+        "msfnodetest": "latest",
+        "msfp": "latest",
+        "msframework": "latest",
+        "msfrpc": "latest",
+        "msfrpc-client-node": "latest",
+        "msfs-geo": "latest",
+        "msfs-navdata": "latest",
+        "msfs-simconnect-nodejs": "latest",
+        "msft-colors": "latest",
+        "msft-jest-config": "latest",
+        "msft-tslint-config": "latest",
+        "msft-wam-1": "latest",
+        "msful": "latest"
+    }
+}

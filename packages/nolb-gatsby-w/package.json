@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-gatsby-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gatsby-wiki-remark-images-datocms": "latest",
+        "gatsby-wikipedia-fetcher": "latest",
+        "gatsby-window": "latest",
+        "gatsby-woocommerce-theme": "latest",
+        "gatsby-wordpress-core": "latest",
+        "gatsby-wordpress-experimental-inline-images": "latest",
+        "gatsby-wordpress-gutenberg": "latest",
+        "gatsby-wordpress-inline-images": "latest",
+        "gatsby-wordpress-migrate": "latest",
+        "gatsby-wordpress-reading-time": "latest",
+        "gatsby-wordpress-search": "latest",
+        "gatsby-wordpress-theme-phoenix": "latest",
+        "gatsby-wordpress-workspace": "latest",
+        "gatsby-worker": "latest",
+        "gatsby-wp-inline-custom-images": "latest",
+        "gatsby-wpgraphql-inline-images": "latest"
+    }
+}

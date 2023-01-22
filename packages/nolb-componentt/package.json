@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-componentt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "componentt-lib": "latest",
+        "componenttest1": "latest",
+        "componenttest1-rcc": "latest",
+        "componenttest2-rcc": "latest",
+        "componenttopkg": "latest",
+        "componenttopkgnew": "latest"
+    }
+}

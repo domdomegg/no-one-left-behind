@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-lion-lin",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lion-lin": "latest",
+        "lion-lin-2": "latest",
+        "lion-lin-hamza": "latest"
+    }
+}

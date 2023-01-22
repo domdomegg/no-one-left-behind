@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-vue6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue6-cli": "latest",
+        "vue6633-ui": "latest",
+        "vue6638-ui": "latest",
+        "vue6639-ui": "latest",
+        "vue6_npm_counter": "latest"
+    }
+}

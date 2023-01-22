@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_gug",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gugacavalieri/brief-js": "latest",
+        "@gugadev/lottie": "latest",
+        "@gugadev/tiktok.js": "latest",
+        "@gugadev/wc-stories": "latest",
+        "@gugamm/use-api": "latest",
+        "@gugfug/react-children-slots": "latest",
+        "@guggugit/eslint-config": "latest",
+        "@guggugit/prettier-config": "latest",
+        "@guggugit/rest-reducer": "latest",
+        "@gugledas/theme-builder": "latest",
+        "@gugotech/cli": "latest",
+        "@gugotech/gugotech-users-service-types": "latest",
+        "@gugotech/leaflet-freedraw": "latest",
+        "@gugotech/lhhtx-common-service-sdk": "latest",
+        "@gugotech/lhhtx-media-service-sdk": "latest",
+        "@gugotech/medr-auth-sdk": "latest",
+        "@gugotech/react-d3-tree": "latest",
+        "@gugotech/tncc-auth-service-sdk": "latest",
+        "@gugotech/tncc-common-service-sdk": "latest",
+        "@gugotech/tncc-common-service-types": "latest",
+        "@gugotech/tncc-users-permissions": "latest",
+        "@gugotech/tncc-users-service-sdk": "latest"
+    }
+}

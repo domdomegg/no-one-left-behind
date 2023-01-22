@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-react-native-md",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-md": "latest",
+        "react-native-md-components": "latest",
+        "react-native-md-dialog": "latest",
+        "react-native-md-hash": "latest",
+        "react-native-md-motion-buttons": "latest",
+        "react-native-md-textinput": "latest",
+        "react-native-md-textinput-1mg": "latest",
+        "react-native-md-textinput-updated": "latest",
+        "react-native-md-webview": "latest",
+        "react-native-md5": "latest",
+        "react-native-mdcore": "latest",
+        "react-native-mde": "latest",
+        "react-native-mdetect": "latest",
+        "react-native-mdl-quick-menu": "latest",
+        "react-native-mdm": "latest",
+        "react-native-mdp-toast2": "latest",
+        "react-native-mds": "latest"
+    }
+}

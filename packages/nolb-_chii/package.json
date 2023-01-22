@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_chii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chiich/pof": "latest",
+        "@chiichan/core": "latest",
+        "@chiiia12/dog-me": "latest",
+        "@chiiya/haven": "latest",
+        "@chiiya/laravel-mix-image-minimizer": "latest",
+        "@chiiya/laravel-mix-imagemin": "latest"
+    }
+}

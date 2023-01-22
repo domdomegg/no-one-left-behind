@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-cany",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "canyon": "latest",
+        "canyon-cli": "latest",
+        "canyon-plugin-a": "latest",
+        "canyon-report": "latest",
+        "canyon-util": "latest",
+        "canyon-util-rust": "latest",
+        "canyon-vue": "latest",
+        "canyonlau-talos-custom-element": "latest",
+        "canyouseeme": "latest"
+    }
+}

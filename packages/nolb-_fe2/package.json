@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_fe2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fe2345/babel": "latest",
+        "@fe2345/eslint": "latest",
+        "@fe2345/eslint-config-2345": "latest",
+        "@fe2345/fas": "latest",
+        "@fe2345/inspect-commit": "latest",
+        "@fe2345/module-tool": "latest",
+        "@fe2345/stylelint-config-2345": "latest",
+        "@fe2345/test-module": "latest",
+        "@fe2bon4/kafka-cli": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_vus",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vusa/compiler": "latest",
+        "@vusa/runtime": "latest",
+        "@vusion-templates/block": "latest",
+        "@vusion-templates/component": "latest",
+        "@vusion-templates/multifile-block": "latest",
+        "@vusion-templates/multifile-component": "latest",
+        "@vusion-templates/repository": "latest",
+        "@vusion/categories-db": "latest",
+        "@vusion/css-loader": "latest",
+        "@vusion/doc-loader": "latest",
+        "@vusion/md-vue-loader": "latest",
+        "@vusion/mini-css-extract-plugin": "latest",
+        "@vusion/mock": "latest",
+        "@vusion/popper.js": "latest",
+        "@vusion/postcss-calc": "latest",
+        "@vusion/postcss-import": "latest",
+        "@vusion/routes-loader": "latest",
+        "@vusion/svg-sprite": "latest",
+        "@vusion/utils": "latest",
+        "@vusion/validator": "latest",
+        "@vusion/vue-loader": "latest",
+        "@vusion/vue-navigation": "latest",
+        "@vusion/webfonts-generator": "latest",
+        "@vusirikala/common": "latest",
+        "@vusui/css": "latest",
+        "@vusui/editor": "latest",
+        "@vusui/icon": "latest"
+    }
+}

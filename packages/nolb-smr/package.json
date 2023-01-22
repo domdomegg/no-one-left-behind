@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-smr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smr": "latest",
+        "smr-lib": "latest",
+        "smr-plugin-immer": "latest",
+        "smr-plugin-loading": "latest",
+        "smr-vue": "latest",
+        "smra": "latest",
+        "smrand": "latest",
+        "smrest": "latest",
+        "smrf": "latest",
+        "smrf-native": "latest",
+        "smriti_first": "latest",
+        "smrk": "latest",
+        "smrnjeet": "latest",
+        "smroadifc": "latest",
+        "smroadifc4": "latest",
+        "smrouter": "latest",
+        "smrp": "latest",
+        "smrq-ui-view-loader": "latest",
+        "smrt": "latest",
+        "smrt-electron": "latest",
+        "smrtgraph-core": "latest",
+        "smrti": "latest",
+        "smry": "latest"
+    }
+}

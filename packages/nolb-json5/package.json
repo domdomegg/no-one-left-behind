@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-json5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "json5": "latest",
+        "json5-asty": "latest",
+        "json5-bigint": "latest",
+        "json5-editor": "latest",
+        "json5-es": "latest",
+        "json5-jest": "latest",
+        "json5-loader": "latest",
+        "json5-parser": "latest",
+        "json5-relaxed": "latest",
+        "json5-to-ast": "latest",
+        "json5-to-table": "latest",
+        "json5-to-table-fork": "latest",
+        "json5-utils": "latest",
+        "json5-validator": "latest",
+        "json5-with-undefined": "latest",
+        "json5-writer": "latest",
+        "json5conv-cli": "latest",
+        "json5ify": "latest",
+        "json5stream": "latest",
+        "json5x": "latest"
+    }
+}

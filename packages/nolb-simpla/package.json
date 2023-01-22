@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-simpla",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simpla": "latest",
+        "simpla-adapter-netlify-identity": "latest",
+        "simpla-core": "latest",
+        "simpla-firebase-auth": "latest",
+        "simpla-markdown": "latest",
+        "simpla-paths": "latest",
+        "simplad": "latest",
+        "simplaeapi": "latest",
+        "simplang": "latest",
+        "simplastic": "latest",
+        "simplate": "latest",
+        "simplatejs": "latest",
+        "simplatic-http-server": "latest",
+        "simplator": "latest",
+        "simplator-subtemplates": "latest",
+        "simplator-type-filters": "latest",
+        "simplay": "latest",
+        "simplay-web": "latest",
+        "simplay_jupyter": "latest",
+        "simplayer": "latest",
+        "simplayer-promise": "latest",
+        "simplayr": "latest"
+    }
+}

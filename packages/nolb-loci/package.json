@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-loci",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "loci": "latest",
+        "loci-js": "latest",
+        "locicss": "latest",
+        "locidb": "latest",
+        "locilc": "latest",
+        "locini": "latest",
+        "locins": "latest",
+        "locision-serverless-plugin-api-gateway": "latest",
+        "locits": "latest",
+        "locize": "latest",
+        "locize-cli": "latest",
+        "locize-editor": "latest",
+        "locize-lastused": "latest",
+        "locize-node-lastused": "latest",
+        "locizer": "latest",
+        "locizify": "latest",
+        "locizify-ssg": "latest"
+    }
+}

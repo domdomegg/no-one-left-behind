@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_di-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@di-fe/di-cli": "latest",
+        "@di-fe/di-lib": "latest",
+        "@di-fe/s3": "latest",
+        "@di-on.solutions/code-ray": "latest",
+        "@di-strix/prettier-config": "latest",
+        "@di-strix/quizee-cloud-functions-interfaces": "latest",
+        "@di-strix/quizee-types": "latest",
+        "@di-strix/quizee-verification-functions": "latest",
+        "@di-unternehmer/aws-helper": "latest",
+        "@di-unternehmer/commitlint-plugin-salesapp": "latest",
+        "@di-unternehmer/conventional-changelog-salesapp": "latest"
+    }
+}

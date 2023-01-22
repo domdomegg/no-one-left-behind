@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-antm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "AntMobileUI": "latest",
+        "antm": "latest",
+        "antm-init": "latest",
+        "antman": "latest",
+        "antman-cli": "latest",
+        "antmedia-player-react": "latest",
+        "antmon": "latest",
+        "antmonitor": "latest",
+        "antmove": "latest",
+        "antmove-vscode-plugin": "latest",
+        "antmove-wechat-alipay": "latest",
+        "antmove-wechat-alipay-plugin": "latest"
+    }
+}

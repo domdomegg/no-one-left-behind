@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-ione",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ione": "latest",
+        "ionejs": "latest",
+        "ionellupu-test-ts-node-cli": "latest",
+        "ioner": "latest",
+        "ionetest": "latest",
+        "ionetix-clinical-apps-deploy": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_snj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@snjainweb/create-init-plugin-widget": "latest",
+        "@snjainweb/testplugin": "latest",
+        "@snjtickets/common": "latest"
+    }
+}

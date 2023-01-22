@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-asyncm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "asyncm": "latest",
+        "asyncm3u8": "latest",
+        "asyncmachine": "latest",
+        "asyncmachine-inspector": "latest",
+        "asyncmap": "latest",
+        "asyncmark": "latest",
+        "asyncmarks": "latest",
+        "asyncmc": "latest",
+        "asyncme": "latest",
+        "asyncmemo": "latest",
+        "asyncmiddlewareredux": "latest",
+        "asyncmongo.js": "latest",
+        "asyncmongodb": "latest",
+        "asyncmongodb2": "latest"
+    }
+}

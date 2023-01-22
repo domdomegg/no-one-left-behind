@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-consp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "conspect-helpers": "latest",
+        "conspectio": "latest",
+        "conspiracy": "latest",
+        "conspire": "latest",
+        "conspirey-api-wrapper": "latest"
+    }
+}

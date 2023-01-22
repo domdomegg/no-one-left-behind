@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-express-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "express-kafka-producer": "latest",
+        "express-kaskadi-verify": "latest",
+        "express-keenio": "latest",
+        "express-kerberos": "latest",
+        "express-key-validator": "latest",
+        "express-kh": "latest",
+        "express-kit": "latest",
+        "express-kit-universal": "latest",
+        "express-knex": "latest",
+        "express-knex-mailer": "latest",
+        "express-knex-storage": "latest",
+        "express-knex-storage-sqlite": "latest",
+        "express-knex-transaction": "latest",
+        "express-knex-trx": "latest",
+        "express-knex-wrap": "latest",
+        "express-ko": "latest",
+        "express-koa": "latest",
+        "express-konnector": "latest",
+        "express-krabs": "latest",
+        "express-kun": "latest",
+        "express-kv-api": "latest",
+        "express-kvstore": "latest"
+    }
+}

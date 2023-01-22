@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-cush",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cush": "latest",
+        "cush-cdn": "latest",
+        "cush-cli": "latest",
+        "cush-plugin-buble": "latest",
+        "cush-plugin-coffee": "latest",
+        "cush-plugin-jsx": "latest",
+        "cush-plugin-nebu": "latest",
+        "cush-plugin-postcss": "latest",
+        "cush-plugin-sass": "latest",
+        "cush-plugin-scss": "latest",
+        "cush-plugin-sucrase": "latest",
+        "cush-plugin-typescript": "latest",
+        "cush-plugin-uglify-js": "latest",
+        "cushax": "latest",
+        "cushax-client": "latest",
+        "cushax-schema": "latest",
+        "cushion": "latest",
+        "cushion-adapter-couchbase": "latest",
+        "cushion-cli": "latest",
+        "cushiondb-client": "latest",
+        "cushiondb-server": "latest",
+        "cushions": "latest",
+        "cushui": "latest",
+        "cushy": "latest",
+        "cushy.js": "latest",
+        "cushyjs": "latest"
+    }
+}

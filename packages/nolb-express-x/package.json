@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-express-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "express-x-hub": "latest",
+        "express-x-hub-bigint": "latest",
+        "express-x-ray": "latest",
+        "express-xauth": "latest",
+        "express-xbatis": "latest",
+        "express-xcontroller": "latest",
+        "express-xerror": "latest",
+        "express-xgx": "latest",
+        "express-xlog": "latest",
+        "express-xml": "latest",
+        "express-xml-bodyparser": "latest",
+        "express-xml-domparser": "latest",
+        "express-xml-parser": "latest",
+        "express-xml-scrapper": "latest",
+        "express-xmlrpc": "latest",
+        "express-xmodel": "latest",
+        "express-xnosql": "latest",
+        "express-xs-server": "latest",
+        "express-xsltproc": "latest",
+        "express-xss-sanitizer": "latest",
+        "express-xtpl": "latest",
+        "express-xxj": "latest"
+    }
+}

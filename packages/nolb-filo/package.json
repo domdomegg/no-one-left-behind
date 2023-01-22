@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-filo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "filo": "latest",
+        "filo-buffer": "latest",
+        "filofax": "latest",
+        "filog": "latest",
+        "filoggy": "latest",
+        "filoo-framework": "latest",
+        "filoo-framework-core": "latest",
+        "filopplasting": "latest",
+        "filopplasting-doc": "latest",
+        "filosssof": "latest",
+        "filou": "latest",
+        "filou-blueprint": "latest",
+        "filou-dialog-modal": "latest",
+        "filou-dnd": "latest",
+        "filou-web": "latest"
+    }
+}

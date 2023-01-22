@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-tyj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tyj": "latest",
+        "tyjs": "latest",
+        "tyjs-check": "latest",
+        "tyjwlive": "latest"
+    }
+}

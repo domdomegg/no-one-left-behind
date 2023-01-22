@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_swm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@swmansion/traveling-fastlane-darwin": "latest",
+        "@swmansion/traveling-fastlane-linux": "latest",
+        "@swmansion/xdl": "latest",
+        "@swmm-js/swmm": "latest",
+        "@swmm-js/swmm-js": "latest",
+        "@swmm-js/swmm_utils": "latest",
+        "@swmm-js/swmmjs": "latest",
+        "@swmm-js/swmmjs_core": "latest",
+        "@swmm-js/swmmjs_desktop": "latest",
+        "@swmm-js/swmmtest": "latest"
+    }
+}

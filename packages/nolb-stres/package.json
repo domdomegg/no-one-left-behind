@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-stres",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stress": "latest",
+        "stress-highlighter": "latest",
+        "stress-majorization": "latest",
+        "stress-node": "latest",
+        "stress-node-server": "latest",
+        "stress-pt": "latest",
+        "stress-test": "latest",
+        "stress-test-json": "latest",
+        "stress-tester": "latest",
+        "stress.db": "latest",
+        "stresser": "latest",
+        "stressfault": "latest",
+        "stressful-journey": "latest",
+        "stressik": "latest",
+        "stressor": "latest",
+        "stresst": "latest",
+        "strest": "latest",
+        "strest-cli": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-random--",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "random--messages-ric98esley": "latest",
+        "random--messages_david": "latest",
+        "random--win": "latest"
+    }
+}

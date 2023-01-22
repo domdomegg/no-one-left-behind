@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_ply",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ply-ct/ply": "latest",
+        "@ply-ct/ply-movies": "latest",
+        "@ply-ct/ply-viz": "latest",
+        "@ply-io/embed-sdk": "latest",
+        "@plyb/web-game-core": "latest",
+        "@plyk/react": "latest",
+        "@plyo/dev-tools": "latest",
+        "@plyo/gapi-to-graphql": "latest",
+        "@plyo/generator-plyo": "latest",
+        "@plyo/github-release-notes": "latest",
+        "@plyo/lifestyle": "latest",
+        "@plyo/pgcodebase": "latest",
+        "@plyo/photoswipe": "latest"
+    }
+}

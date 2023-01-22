@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_vac",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vac-gollner/opentype": "latest",
+        "@vacagonzalo/npm-crc8": "latest",
+        "@vacasan/classified": "latest",
+        "@vacationtracker/api-gateway-http-response": "latest",
+        "@vaccovecrana/vassago": "latest",
+        "@vace/animations": "latest",
+        "@vace/scroller": "latest",
+        "@vache/calculator-1": "latest",
+        "@vachip/vue-elements": "latest",
+        "@vacio/meet-docs": "latest",
+        "@vacio/meet-theme-docs": "latest",
+        "@vacio/meet-theme-template": "latest",
+        "@vacio/next": "latest",
+        "@vacio/next-theme-template": "latest",
+        "@vacio/theme-loader": "latest",
+        "@vaclav-purchart/js-test": "latest",
+        "@vacocane/pelican": "latest",
+        "@vacom/logbook": "latest",
+        "@vacom/vantage": "latest",
+        "@vacuousversifer/discord-big-letterifier": "latest"
+    }
+}

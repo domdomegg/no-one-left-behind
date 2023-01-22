@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_noj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nojaja/htmlcompiler": "latest",
+        "@nojaja/htmlparser": "latest",
+        "@nojaja/pathutil": "latest",
+        "@nojamm/nodebabel": "latest",
+        "@nojin/express-mongodb": "latest",
+        "@nojs/jampack": "latest",
+        "@nojs/msgpack-socket": "latest",
+        "@nojs/obj": "latest",
+        "@nojs/predicate": "latest"
+    }
+}

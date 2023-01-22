@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-allc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "AllCal.WebApp": "latest",
+        "allcal-cordova-plugin-facebook": "latest",
+        "allcalc": "latest",
+        "allcantara-ui-kit": "latest",
+        "allcash": "latest",
+        "allcconsole": "latest",
+        "allchange": "latest",
+        "allclinics": "latest",
+        "allclose": "latest",
+        "allco": "latest",
+        "allcodes": "latest",
+        "allcoin": "latest",
+        "allcollapsible": "latest",
+        "allcolorpicker": "latest",
+        "allcombinations": "latest",
+        "allcountjs": "latest",
+        "allcountjs-cli": "latest",
+        "allcountjs-loopback": "latest",
+        "allcountjs-mailgun": "latest",
+        "allcountjs-twitter": "latest"
+    }
+}

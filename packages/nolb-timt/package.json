@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-timt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "timtam": "latest",
+        "timtam-logger": "latest",
+        "timtam-mongo": "latest",
+        "timtam-receiver": "latest",
+        "timtam-zmq": "latest",
+        "timtest": "latest",
+        "timtimresume": "latest"
+    }
+}

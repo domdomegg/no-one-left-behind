@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-bax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bax": "latest",
+        "baxder": "latest",
+        "baxel": "latest",
+        "baxel-redis": "latest",
+        "baxel-route": "latest",
+        "baxel-sequelize": "latest",
+        "baxi": "latest",
+        "baxi-cli": "latest",
+        "baxi-cli-lib": "latest",
+        "baxi-create-api": "latest",
+        "baxia": "latest",
+        "baxia-build": "latest",
+        "baxia-cli": "latest",
+        "baxioql": "latest",
+        "baxipay": "latest",
+        "baxter": "latest",
+        "baxterdatepicker": "latest",
+        "baxterize": "latest",
+        "baxx": "latest",
+        "baxx-files": "latest"
+    }
+}

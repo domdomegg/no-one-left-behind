@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_saq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@saqarmaxswap-libs/eslint-config-saqarmax": "latest",
+        "@saqarmaxswap-libs/saqarmax-swap-core": "latest",
+        "@saqarmaxswap-libs/sdk": "latest",
+        "@saqarmaxswap-libs/uikit": "latest",
+        "@saqfish/abu_amr": "latest",
+        "@saqfish/asim": "latest",
+        "@saqibahmed515/adonis-newrelic": "latest",
+        "@saqlaan/tny": "latest",
+        "@saqq/telerehab-infrastructure": "latest",
+        "@saqqdy/cli": "latest",
+        "@saqqdy/common": "latest",
+        "@saqqdy/prettier-config": "latest",
+        "@saqqdy/svg.draggable.js": "latest",
+        "@saqqdy/svg.draw.js": "latest",
+        "@saqqdy/svg.panzoom.js": "latest",
+        "@saqqdy/svg.resize.js": "latest",
+        "@saqqdy/svg.select.js": "latest",
+        "@saqqdy/svg.topath.js": "latest",
+        "@saqut/hemex": "latest",
+        "@saqut/hemex-dotenv": "latest"
+    }
+}

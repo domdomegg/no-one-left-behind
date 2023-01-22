@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_nui",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nui/state-recommendation": "latest",
+        "@nuicybot/dependent-dcr-one": "latest",
+        "@nuicybot/dummy-cci-release": "latest",
+        "@nuid/cli": "latest",
+        "@nuid/sdk-nodejs": "latest",
+        "@nuid/zk": "latest",
+        "@nuilibrary/nui": "latest",
+        "@nuinalp/api-core": "latest",
+        "@nuinalp/apis": "latest",
+        "@nuintun/bundler": "latest",
+        "@nuintun/css-deps": "latest",
+        "@nuintun/duplexer": "latest",
+        "@nuintun/fetch": "latest",
+        "@nuintun/gulp-cmd": "latest",
+        "@nuintun/gulp-cmd-plugins": "latest",
+        "@nuintun/gulp-css": "latest",
+        "@nuintun/gulp-css-plugins": "latest",
+        "@nuintun/gulp-util": "latest",
+        "@nuintun/linked-list": "latest",
+        "@nuintun/promise": "latest",
+        "@nuintun/qrcode": "latest",
+        "@nuintun/svgo-loader": "latest",
+        "@nuintun/switch-stream": "latest",
+        "@nuintun/through": "latest",
+        "@nuintun/vlist": "latest",
+        "@nuintun/webpack-manifest-plugin": "latest",
+        "@nuitech/nsc": "latest",
+        "@nuitech/react-json-to-csv": "latest"
+    }
+}

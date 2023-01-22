@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-peq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "peq": "latest",
+        "peqas-grid": "latest",
+        "peque.ts": "latest",
+        "peque.ts-cli": "latest",
+        "pequeno": "latest",
+        "pequeno-npm-package": "latest",
+        "pequod": "latest",
+        "pequod-ui-wordpress": "latest",
+        "peqwe": "latest",
+        "peqwerrr": "latest"
+    }
+}

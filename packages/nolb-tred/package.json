@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-tred",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tred-apollo-server-azure-functions": "latest",
+        "tredisdao": "latest",
+        "tredux": "latest",
+        "tredux-material": "latest",
+        "tredux-material-updated": "latest"
+    }
+}

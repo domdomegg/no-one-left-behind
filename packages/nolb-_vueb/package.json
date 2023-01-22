@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_vueb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vuebass/preset": "latest",
+        "@vuebits/bem": "latest",
+        "@vuebits/cookies": "latest",
+        "@vuebits/endless-scroll": "latest",
+        "@vuebits/http": "latest",
+        "@vuebits/ui": "latest",
+        "@vueblocks/element-schema-form": "latest",
+        "@vueblocks/elp-cascader": "latest",
+        "@vueblocks/elp-element-pro": "latest",
+        "@vueblocks/vue-use-axios": "latest",
+        "@vueblocks/vue-use-core": "latest",
+        "@vueblocks/vue-use-vuex": "latest",
+        "@vuebon/framework": "latest",
+        "@vuebon/vuebon": "latest",
+        "@vuebutler/dropdown": "latest",
+        "@vuebutler/flash-notifications": "latest",
+        "@vuebutler/gmaps": "latest",
+        "@vuebutler/modal": "latest",
+        "@vuebutler/tabs": "latest",
+        "@vuebutler/tools": "latest"
+    }
+}

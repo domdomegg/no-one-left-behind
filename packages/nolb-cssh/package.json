@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-cssh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "csshake": "latest",
+        "csshat-language-css": "latest",
+        "csshat-language-json": "latest",
+        "csshat-language-less": "latest",
+        "csshat-language-sass": "latest",
+        "csshat-language-stylus": "latest",
+        "csshelp": "latest",
+        "csshelp-parser": "latest",
+        "csshelp-template": "latest",
+        "csshelper": "latest",
+        "csshint": "latest",
+        "csshue": "latest"
+    }
+}

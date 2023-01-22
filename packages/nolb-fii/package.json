@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-fii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fii": "latest",
+        "fii-client-push": "latest",
+        "fii-push": "latest",
+        "fii-server-push": "latest",
+        "fii-vue": "latest",
+        "fiid": "latest",
+        "fiidmi": "latest",
+        "fiiish-cli": "latest",
+        "fiiish-general": "latest",
+        "fiilters": "latest",
+        "fiip": "latest",
+        "fiip-cloud": "latest",
+        "fiip-link-serial": "latest",
+        "fiip-link-tcp": "latest",
+        "fiip-link-udp": "latest",
+        "fiip-link-websocket": "latest",
+        "fiip-protocol-stdp": "latest",
+        "fiissuerread-paypal": "latest",
+        "fiix-cmms-client": "latest"
+    }
+}

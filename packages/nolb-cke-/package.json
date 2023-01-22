@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-cke-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cke-ed-f5": "latest",
+        "cke-ed-f7": "latest",
+        "cke-hubble": "latest",
+        "cke-with-selected-packages": "latest",
+        "cke-with-selected-packages-v3": "latest",
+        "cke-with-selected-packages-v3.1": "latest",
+        "cke-with-selected-packages-v3.2": "latest",
+        "cke-with-selected-plugins-v2": "latest",
+        "cke-with-selected-plugins-without-pagination": "latest"
+    }
+}

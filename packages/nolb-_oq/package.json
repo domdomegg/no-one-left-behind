@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_oq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@oql/oql-dev": "latest",
+        "@oqtavelabs/charts": "latest",
+        "@oqton/design-system": "latest",
+        "@oqton/eslint-config-oqton": "latest",
+        "@oqton/eslint-plugin": "latest",
+        "@oqton/eslint-plugin-oqton": "latest",
+        "@oqton/icons": "latest",
+        "@oqton/jest-config-oqton": "latest",
+        "@oqton/prettier-config-oqton": "latest",
+        "@oqton/redux-black-box": "latest",
+        "@oqton/shared-build-config": "latest",
+        "@oqton/utils-core": "latest",
+        "@oqton/utils-units": "latest"
+    }
+}

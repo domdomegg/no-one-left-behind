@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-mcx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mcx": "latest",
+        "mcx-login": "latest",
+        "mcx-ui": "latest",
+        "mcx-ui-vanilla": "latest",
+        "mcxclient": "latest",
+        "mcxclient-r": "latest",
+        "mcxinappsurvey": "latest",
+        "mcxnow": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-brl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brl": "latest",
+        "brl-daily-quotation": "latest",
+        "brl-first-npm": "latest",
+        "brl-npmrc-gen": "latest",
+        "brlc-token": "latest",
+        "brlinker": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_paf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pafanasiev/common-test": "latest",
+        "@pafum/node-red-node-mongodb": "latest",
+        "@pafyll/array": "latest",
+        "@pafyll/core": "latest"
+    }
+}

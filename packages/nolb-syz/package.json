@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-syz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "syz": "latest",
+        "syz-cli": "latest",
+        "syz-koa-cli": "latest",
+        "syz-test1": "latest",
+        "syz-utils": "latest",
+        "syz1024": "latest",
+        "syz11": "latest",
+        "syz222222-ui": "latest",
+        "syzer": "latest",
+        "syzer-level-naive-bayes": "latest",
+        "syzero-service-cli": "latest",
+        "syzero-test": "latest",
+        "syzh-ui": "latest",
+        "syzhou": "latest",
+        "syzj": "latest",
+        "syzl-components": "latest",
+        "syzoj-ng-app": "latest",
+        "syzoj-public-cdn": "latest",
+        "syzoj-renderer": "latest",
+        "syzsyz": "latest",
+        "syzygy": "latest",
+        "syzygy-visual-regression": "latest",
+        "syzygy-window-scroller": "latest",
+        "syzygy-window-scroller-js": "latest",
+        "syzygys": "latest",
+        "syzyk": "latest",
+        "syzzfpmkizkljkiibpgb": "latest"
+    }
+}

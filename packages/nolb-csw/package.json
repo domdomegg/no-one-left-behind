@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-csw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "csw": "latest",
+        "csw-aas-js": "latest",
+        "csw-client": "latest",
+        "csw-editor": "latest",
+        "csw-element-ui": "latest",
+        "csw-element-ui-ts": "latest",
+        "csw-element-ui-walker": "latest",
+        "csw-js": "latest",
+        "csw-pig-ui-demo": "latest",
+        "csw-sf": "latest",
+        "csw.add": "latest",
+        "csw001csw": "latest",
+        "cswaf": "latest",
+        "cswcore": "latest",
+        "csweb": "latest",
+        "csweb-news": "latest",
+        "csweb-offline-search": "latest",
+        "csweb-tile": "latest",
+        "cswebridge": "latest",
+        "cswleopackage": "latest"
+    }
+}

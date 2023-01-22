@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-chiy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chiy00_2005": "latest",
+        "chiya": "latest",
+        "chiyi": "latest",
+        "chiyou": "latest",
+        "chiyou-basic-components": "latest",
+        "chiyou-boot": "latest",
+        "chiyou-components": "latest",
+        "chiyou-core": "latest",
+        "chiyou-request": "latest",
+        "chiyou2-cli": "latest",
+        "chiyoucli": "latest"
+    }
+}

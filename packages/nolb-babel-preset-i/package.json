@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-babel-preset-i",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-preset-iamnewton": "latest",
+        "babel-preset-ibe": "latest",
+        "babel-preset-ice": "latest",
+        "babel-preset-ieremeev": "latest",
+        "babel-preset-imbhargav5": "latest",
+        "babel-preset-import-export": "latest",
+        "babel-preset-imt": "latest",
+        "babel-preset-inferno-app": "latest",
+        "babel-preset-inferno-node-app": "latest",
+        "babel-preset-insilico-react-app": "latest",
+        "babel-preset-insomnia-preset": "latest",
+        "babel-preset-instructure-quizzes": "latest",
+        "babel-preset-instrument-istanbul": "latest",
+        "babel-preset-intuitional-test": "latest",
+        "babel-preset-ip-wxp": "latest",
+        "babel-preset-ivan": "latest"
+    }
+}

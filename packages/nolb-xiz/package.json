@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-xiz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "xiz": "latest",
+        "xizang-xinyujia": "latest",
+        "xizero-wiki": "latest",
+        "xizh-cli": "latest",
+        "xizher-sa": "latest",
+        "xizhi": "latest",
+        "xizhou-frame-print-hello": "latest",
+        "xizot": "latest",
+        "xizot-fe-template": "latest",
+        "xizot-template": "latest"
+    }
+}

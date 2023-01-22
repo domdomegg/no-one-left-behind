@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-rnx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rnx": "latest",
+        "rnx-cli": "latest",
+        "rnx-fetch": "latest",
+        "rnx-flatlist": "latest",
+        "rnx-gradient": "latest",
+        "rnx-kit-scripts": "latest",
+        "rnx-ui": "latest",
+        "rnx-ui-accordion": "latest",
+        "rnx-ui-calendar": "latest",
+        "rnx-ui-carousel": "latest",
+        "rnx-ui-dialog": "latest",
+        "rnx-ui-dropdown": "latest",
+        "rnx-ui-navbar": "latest",
+        "rnx-ui-number": "latest",
+        "rnx-ui-popover": "latest",
+        "rnx-ui-scrollview": "latest",
+        "rnx-ui-tooltip": "latest",
+        "rnxcbuild": "latest"
+    }
+}

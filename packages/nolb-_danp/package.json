@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_danp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@danpacho/gh-action-test": "latest",
+        "@danpacho/post-generator": "latest",
+        "@danpalmer/gatsby-remark-embed-gist": "latest",
+        "@danpantry/lux": "latest",
+        "@danpantry/normalizr-immutable": "latest",
+        "@danper/platzom": "latest",
+        "@danpercic86/helpful-decorators": "latest",
+        "@danprince/games": "latest",
+        "@danprince/serve": "latest",
+        "@danprince/zhttp": "latest",
+        "@danproudfeet/babel-plugin-named-asset-import": "latest",
+        "@danproudfeet/babel-preset-react-app": "latest",
+        "@danproudfeet/confusing-browser-globals": "latest",
+        "@danproudfeet/create-react-app": "latest",
+        "@danproudfeet/eslint-config-react-app": "latest",
+        "@danproudfeet/grab-bag": "latest",
+        "@danproudfeet/react-dev-utils": "latest",
+        "@danproudfeet/react-error-overlay": "latest",
+        "@danproudfeet/react-scripts": "latest",
+        "@danpurdy/consent-manager": "latest",
+        "@danpurdy/react-input-mask": "latest"
+    }
+}

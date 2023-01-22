@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_baf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@baf-wallet/baf-contract": "latest",
+        "@baf-wallet/chain-info": "latest",
+        "@baf-wallet/core": "latest",
+        "@baf-wallet/crypto": "latest",
+        "@baf-wallet/errors": "latest",
+        "@baf-wallet/interfaces": "latest",
+        "@baf-wallet/multi-chain": "latest",
+        "@baf-wallet/near": "latest",
+        "@baf-wallet/utils": "latest",
+        "@baffinbay/bchart": "latest",
+        "@baffle/code-frame": "latest",
+        "@baffle/generator": "latest",
+        "@baffle/highlight": "latest",
+        "@baffle/language": "latest",
+        "@baffle/parser": "latest",
+        "@baffle/project": "latest",
+        "@baffle/shared-build-config": "latest",
+        "@baffle/test-fixtures": "latest",
+        "@baffle/tokens": "latest",
+        "@baffle/traverse": "latest",
+        "@bafode87/iut-encrypt": "latest",
+        "@bafs/mu": "latest",
+        "@bafsllc/backend-auth": "latest",
+        "@bafsllc/node": "latest",
+        "@bafsllc/nx-serverless": "latest",
+        "@bafsllc/serverless-import-config-plugin": "latest",
+        "@bafsllc/web": "latest"
+    }
+}

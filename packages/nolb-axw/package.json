@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-axw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "axw": "latest",
+        "axw-cli": "latest",
+        "axway": "latest",
+        "axway-bootstrap": "latest",
+        "axway-flow": "latest",
+        "axway-flow-graph": "latest",
+        "axway-flow-schema": "latest",
+        "axway-flow-sdk": "latest",
+        "axway-react-intl": "latest",
+        "axway-react-ui": "latest",
+        "axway-requester": "latest",
+        "axway-schema": "latest",
+        "axway-univ-nav": "latest"
+    }
+}

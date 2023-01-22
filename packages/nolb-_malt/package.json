@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_malt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@malte.muth/poker-hands": "latest",
+        "@malte.muth/poker-hands-cli": "latest",
+        "@malte.muth/redux-colyseus-middleware": "latest",
+        "@malted/unique": "latest",
+        "@maltepetersen11/my-lib": "latest",
+        "@maltjoy/layout": "latest",
+        "@maltjoy/themes": "latest",
+        "@maltjoy/tokens": "latest",
+        "@maltjoy/vue": "latest",
+        "@maltmann/wheelrights-common": "latest",
+        "@maltose/http": "latest",
+        "@maltose/poem": "latest",
+        "@maltose/reset": "latest",
+        "@malturo/random-number": "latest",
+        "@malturo/timer-component": "latest"
+    }
+}

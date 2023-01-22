@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-objectu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "objectum": "latest",
+        "objectum-bot": "latest",
+        "objectum-cli": "latest",
+        "objectum-client": "latest",
+        "objectum-ee": "latest",
+        "objectum-extjs4-legacy": "latest",
+        "objectum-firewall": "latest",
+        "objectum-module-sample": "latest",
+        "objectum-proxy": "latest",
+        "objectum-react": "latest",
+        "objectus": "latest"
+    }
+}

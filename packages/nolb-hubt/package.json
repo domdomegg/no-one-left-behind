@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-hubt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hubtag": "latest",
+        "hubtel-mx": "latest",
+        "hubtel-node": "latest",
+        "hubtel-ps": "latest",
+        "hubtel-sms": "latest",
+        "hubtel-sms-extended": "latest",
+        "hubtel-sms-node": "latest",
+        "hubtel-ussd": "latest",
+        "hubtell-merchant-payment": "latest",
+        "hubtelmobilepayment": "latest",
+        "hubtelpayment": "latest"
+    }
+}

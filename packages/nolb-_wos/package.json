@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_wos",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@woshiai9561/common-components": "latest",
+        "@woshilaji/update-manager": "latest",
+        "@woshqima/tiny": "latest",
+        "@wosome/taff": "latest",
+        "@wosp-io/orca": "latest",
+        "@woss-io/graphile-scheduler": "latest",
+        "@woss-io/test-npm": "latest",
+        "@wostafa/tdweb": "latest",
+        "@wostreaming/targeting-sdk": "latest",
+        "@woszuktickets/common": "latest"
+    }
+}

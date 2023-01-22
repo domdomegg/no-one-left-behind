@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-oby",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "oby": "latest",
+        "obyek": "latest",
+        "obyte": "latest",
+        "obyte-browser-chat": "latest",
+        "obyte-http-client": "latest",
+        "obyte-icons": "latest",
+        "obyte-multi-payments": "latest",
+        "obyte-qr-button": "latest",
+        "obyte-qr-button-test21": "latest",
+        "obyte-witness": "latest",
+        "obytenewfork": "latest",
+        "obytes-ui": "latest"
+    }
+}

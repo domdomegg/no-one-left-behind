@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-cr_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cr.js": "latest",
+        "cr_get-bing-pic": "latest",
+        "cr_npm": "latest",
+        "cr_server": "latest",
+        "cr_translate": "latest"
+    }
+}

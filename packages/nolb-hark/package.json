@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-hark",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hark": "latest",
+        "harkback": "latest",
+        "harken": "latest",
+        "harker-api": "latest",
+        "harkerdev-documentation-protocol": "latest",
+        "harkins-frame-print": "latest",
+        "harkymap": "latest"
+    }
+}

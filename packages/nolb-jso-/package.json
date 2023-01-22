@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-jso-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jso-2": "latest",
+        "jso-browser": "latest",
+        "jso-clean": "latest",
+        "jso-cli": "latest",
+        "jso-ee": "latest",
+        "jso-js": "latest",
+        "jso-json": "latest",
+        "jso-ng": "latest",
+        "jso-react-static-website": "latest",
+        "jso-test-publish-client": "latest",
+        "jso-test-publish-core": "latest",
+        "jso-to-react": "latest"
+    }
+}

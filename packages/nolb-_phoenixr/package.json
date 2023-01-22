@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_phoenixr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@phoenixreisen/accordion": "latest",
+        "@phoenixreisen/banners": "latest",
+        "@phoenixreisen/design-system": "latest",
+        "@phoenixreisen/dropdown": "latest",
+        "@phoenixreisen/footer": "latest",
+        "@phoenixreisen/form": "latest",
+        "@phoenixreisen/fuzzy-input": "latest",
+        "@phoenixreisen/gateway": "latest",
+        "@phoenixreisen/header": "latest",
+        "@phoenixreisen/loader": "latest",
+        "@phoenixreisen/mithrils": "latest",
+        "@phoenixreisen/modal": "latest",
+        "@phoenixreisen/notification": "latest",
+        "@phoenixreisen/reacts": "latest",
+        "@phoenixreisen/swiper": "latest",
+        "@phoenixreisen/tabs": "latest",
+        "@phoenixreisen/user": "latest"
+    }
+}

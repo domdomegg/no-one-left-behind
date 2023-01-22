@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-que-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "que-audios": "latest",
+        "que-babel": "latest",
+        "que-cli": "latest",
+        "que-e": "latest",
+        "que-flow": "latest",
+        "que-it": "latest",
+        "que-node": "latest",
+        "que-proxyable": "latest",
+        "que-ui": "latest",
+        "que-utils": "latest"
+    }
+}

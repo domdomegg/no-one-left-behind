@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-ethm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ethm": "latest",
+        "ethmimo": "latest",
+        "ethmimo-orbit": "latest",
+        "ethminer-http-api": "latest",
+        "ethminion": "latest",
+        "ethmoji-avatar": "latest",
+        "ethmoji-contracts": "latest",
+        "ethmoji-js": "latest",
+        "ethmoji-js-demo": "latest",
+        "ethmonitor": "latest"
+    }
+}

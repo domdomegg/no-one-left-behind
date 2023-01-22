@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-sue",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sue": "latest",
+        "sue-generator-sample": "latest",
+        "sue-lou": "latest",
+        "sue-math_example": "latest",
+        "sue-pages": "latest",
+        "sue-test": "latest",
+        "sue-text": "latest",
+        "sue-ui": "latest",
+        "suede": "latest",
+        "sueditor": "latest",
+        "suelte": "latest",
+        "suen": "latest",
+        "suency-test": "latest",
+        "suer": "latest",
+        "suer-emoji": "latest",
+        "suerhashtag": "latest",
+        "suerpeng": "latest",
+        "suet": "latest"
+    }
+}

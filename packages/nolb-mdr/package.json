@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-mdr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mdRangeSlider": "latest",
+        "mdr": "latest",
+        "mdr-angular-datepicker": "latest",
+        "mdr-angular-file": "latest",
+        "mdr-angular-select2": "latest",
+        "mdr-cli": "latest",
+        "mdrag": "latest",
+        "mdrclient": "latest",
+        "mdrclienter": "latest",
+        "mdreact": "latest",
+        "mdreact-accordian": "latest",
+        "mdreact-cli": "latest",
+        "mdreact-editor": "latest",
+        "mdread": "latest",
+        "mdrender": "latest",
+        "mdrepo": "latest",
+        "mdrh-common": "latest",
+        "mdrl": "latest",
+        "mdrpy": "latest",
+        "mdrscr": "latest",
+        "mdrt": "latest",
+        "mdrun": "latest"
+    }
+}

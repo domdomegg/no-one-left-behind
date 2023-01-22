@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-bach",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bach": "latest",
+        "bach-antd": "latest",
+        "bach-cljs": "latest",
+        "bach-form-creator": "latest",
+        "bach.js": "latest",
+        "bacharu": "latest",
+        "bachd": "latest",
+        "bachelor": "latest",
+        "bachelor-ui": "latest",
+        "bachelorarbeit-ui-common-header": "latest",
+        "bachelorette-data": "latest",
+        "bachicaltypescript": "latest",
+        "bachina-profile-card": "latest",
+        "bachinacalculator": "latest",
+        "bachjs": "latest",
+        "bachk_rn_template": "latest",
+        "bachmans-common": "latest"
+    }
+}

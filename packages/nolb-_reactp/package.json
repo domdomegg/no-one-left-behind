@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_reactp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reactpatterns/patterns": "latest",
+        "@reactpreview/cli": "latest",
+        "@reactpreview/config": "latest",
+        "@reactpreview/control-plane": "latest",
+        "@reactpreview/core": "latest",
+        "@reactpwa/cli": "latest",
+        "@reactpwa/core": "latest",
+        "@reactpwa/examples-basic": "latest",
+        "@reactpwa/examples-recoil": "latest"
+    }
+}

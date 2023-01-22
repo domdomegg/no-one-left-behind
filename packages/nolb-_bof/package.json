@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_bof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bofeng.zhang/ssscli": "latest",
+        "@boffins/eslint-config-nxt": "latest",
+        "@boffins/nats": "latest",
+        "@boffins/nxt-docker-scripts": "latest",
+        "@boffins/nxt-lib": "latest",
+        "@bofinai/tvalidator-b": "latest",
+        "@bofink/mortgage-application": "latest",
+        "@bofink/mortgage-application-sdk": "latest",
+        "@bofink/ui": "latest"
+    }
+}

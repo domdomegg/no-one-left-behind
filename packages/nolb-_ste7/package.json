@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_ste7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ste7en/react-native-kline": "latest",
+        "@ste7en/react-native-orientation": "latest",
+        "@ste7en/react-native-picker": "latest",
+        "@ste7en/react-native-simple-shadow-view": "latest",
+        "@ste7en/worker-loader": "latest"
+    }
+}

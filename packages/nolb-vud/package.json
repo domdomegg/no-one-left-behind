@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-vud",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vud": "latest",
+        "vud-jsonforms-renderers": "latest",
+        "vud3": "latest",
+        "vudal": "latest",
+        "vudash": "latest",
+        "vudash-transports": "latest",
+        "vudash-widget-ci": "latest",
+        "vudash-widget-gauge": "latest",
+        "vudash-widget-google-sheets": "latest",
+        "vudash-widget-health": "latest",
+        "vudash-widget-job": "latest",
+        "vudash-widget-pluck": "latest",
+        "vudash-widget-progress": "latest",
+        "vudash-widget-statistic": "latest",
+        "vudash-widget-status": "latest",
+        "vudash-widget-time": "latest",
+        "vudash-widget-travis": "latest",
+        "vudio": "latest",
+        "vudio.js": "latest",
+        "vudt-ui": "latest",
+        "vudu": "latest",
+        "vudu-too": "latest",
+        "vudui": "latest",
+        "vudung-demo-check-number": "latest",
+        "vudux": "latest"
+    }
+}

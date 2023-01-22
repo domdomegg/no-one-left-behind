@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-gete",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "getExtPath": "latest",
+        "gete": "latest",
+        "getea": "latest",
+        "geteachw": "latest",
+        "getech-monitor": "latest",
+        "getectort": "latest",
+        "getel": "latest",
+        "getelementbypath": "latest",
+        "getelementsbyid": "latest",
+        "getem": "latest",
+        "getemgetem": "latest",
+        "getent": "latest",
+        "getenv": "latest",
+        "getenv-protection": "latest",
+        "getenv-wire": "latest",
+        "getenv2": "latest",
+        "getepay": "latest",
+        "getepay-sdk": "latest",
+        "getephemeralports": "latest",
+        "geterr": "latest",
+        "geteventlisteners": "latest",
+        "geteventstore-client": "latest",
+        "geteventstore-promise": "latest",
+        "geteventstore-promise2": "latest",
+        "geteventstore-range": "latest",
+        "getexeccommand": "latest"
+    }
+}

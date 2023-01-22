@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-ngx6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ngx6-angular-breadcrumbs": "latest",
+        "ngx6-breadcrumbs": "latest",
+        "ngx6-device-info": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-omp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "omp": "latest",
+        "omp-client": "latest",
+        "omp-fs-all": "latest",
+        "omp-lib": "latest",
+        "omp-node-lib": "latest",
+        "omp-wrapper": "latest",
+        "omp-wrapper-streamer": "latest",
+        "ompass": "latest",
+        "ompeak-cli": "latest",
+        "ompeak-house": "latest",
+        "ompeak-window": "latest",
+        "omphddwcotwszkh": "latest",
+        "ompi": "latest",
+        "ompjs": "latest",
+        "ompldr-client-js": "latest",
+        "ompt9i": "latest",
+        "ompy-popup": "latest"
+    }
+}

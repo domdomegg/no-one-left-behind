@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_datafo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datafoodconsortium/connector": "latest",
+        "@dataforall/uiforall": "latest",
+        "@dataform-co/build.js": "latest",
+        "@dataform/api": "latest",
+        "@dataform/assertion_utils": "latest",
+        "@dataform/cli": "latest",
+        "@dataform/core": "latest",
+        "@dataform/crossdb": "latest",
+        "@dataform/grpc-web-proxy": "latest",
+        "@dataform/protos": "latest",
+        "@dataform/sql": "latest",
+        "@dataform/sqlx": "latest",
+        "@dataform/tests": "latest",
+        "@dataforsyningen/css": "latest",
+        "@dataforsyningen/gsearch-ui": "latest",
+        "@dataforsyningen/icons": "latest",
+        "@dataforsyningen/saul": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-k6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "k6": "latest",
+        "k6-auth-otp": "latest",
+        "k6-errors-reporter": "latest",
+        "k6-errors-reporterr": "latest",
+        "k6-expect": "latest",
+        "k6-from-postman": "latest",
+        "k6-html-reporter": "latest",
+        "k6-junit": "latest",
+        "k6-render": "latest",
+        "k6-renderer": "latest",
+        "k6-stat": "latest",
+        "k6-tests": "latest",
+        "k6-to-junit": "latest",
+        "k6-typescript-reporter": "latest",
+        "k6-web-recorder": "latest",
+        "k6_chartjs": "latest",
+        "k6chartjs": "latest",
+        "k6charts": "latest",
+        "k6socketserver": "latest"
+    }
+}

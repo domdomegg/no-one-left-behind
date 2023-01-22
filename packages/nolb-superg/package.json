@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-superg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "supergal": "latest",
+        "supergear": "latest",
+        "supergeneric": "latest",
+        "supergenpass": "latest",
+        "supergenpass-lib": "latest",
+        "supergeri-frame-print": "latest",
+        "supergiovane": "latest",
+        "supergirl": "latest",
+        "supergit": "latest",
+        "superglass-sidebar": "latest",
+        "supergloo": "latest",
+        "superglue": "latest",
+        "superglue.cli": "latest",
+        "superglue.js": "latest",
+        "supergoose": "latest",
+        "supergraph": "latest",
+        "supergraph-demo-opentelemetry": "latest",
+        "supergraph-orm": "latest",
+        "supergrep": "latest",
+        "supergrid": "latest",
+        "supergridjs": "latest",
+        "supergrids.css": "latest",
+        "supergrids.js-react": "latest",
+        "supergroup": "latest",
+        "supergroup-es6": "latest",
+        "superguid-vue-cli": "latest",
+        "supergulp": "latest"
+    }
+}

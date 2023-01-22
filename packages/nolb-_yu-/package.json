@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_yu-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yu-admin/components": "latest",
+        "@yu-an41/my_first_npm": "latest",
+        "@yu-projects/vue-filename-injector": "latest",
+        "@yu-projects/vue-table-export": "latest",
+        "@yu-projects/vue-table-import": "latest",
+        "@yu-track/cached-axios": "latest",
+        "@yu-tsujii/hello-wasm": "latest"
+    }
+}

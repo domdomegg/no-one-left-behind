@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_hiz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hizakura/deploy-cli": "latest",
+        "@hizen/edge": "latest",
+        "@hizen/kissaki": "latest",
+        "@hizir-bc/testola": "latest",
+        "@hizkias/filter-object-array": "latest",
+        "@hizollo/games": "latest",
+        "@hizollo/hzscript": "latest",
+        "@hizollo/osu-api": "latest",
+        "@hizp/nestjs-i18n": "latest",
+        "@hizsh/wc-ship": "latest"
+    }
+}

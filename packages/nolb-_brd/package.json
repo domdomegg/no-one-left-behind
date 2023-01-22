@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_brd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@brdtickets/common": "latest",
+        "@brdu/authorizer": "latest",
+        "@brdu/expand-template": "latest",
+        "@brdu/express-authorizer": "latest",
+        "@brdu/express-swagger": "latest",
+        "@brdu/generator-serverless-gcloud": "latest",
+        "@brdu/react-gatekeeper": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_rae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@rae004/get-file-paths": "latest",
+        "@rae004/get-file-paths-in-directory": "latest",
+        "@raedle/classify-super-mario": "latest",
+        "@raedle/lib0": "latest",
+        "@raedle/snack-runtime": "latest",
+        "@raedle/yjs": "latest",
+        "@raeffs/angular-events": "latest",
+        "@raeffs/angular-router": "latest",
+        "@raeffs/angular-rxjs": "latest",
+        "@raeffs/color": "latest",
+        "@raeffs/common": "latest",
+        "@raeffs/data-source": "latest",
+        "@raeffs/rxjs": "latest",
+        "@raeffs/testing": "latest",
+        "@raefftec/mulder": "latest",
+        "@raefftec/mulder-plugins": "latest",
+        "@raegen/mountable": "latest",
+        "@raegen/react-scripts": "latest",
+        "@raeisifard/ibmmq": "latest",
+        "@raeisifard/vue-flock-components": "latest",
+        "@raejkhan96/lotide": "latest",
+        "@rael06/geoapp-types": "latest",
+        "@raemekhatib/lotide": "latest",
+        "@raerpo/avocados": "latest",
+        "@raerpo/local-package": "latest",
+        "@raesch/ext-promise": "latest"
+    }
+}

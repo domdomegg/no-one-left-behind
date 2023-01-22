@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-subg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "subgenre.js": "latest",
+        "subgos": "latest",
+        "subgraph": "latest",
+        "subgraph-cli": "latest",
+        "subgraph-deploy": "latest",
+        "subgraph-generator": "latest",
+        "subgraph-isomorphism": "latest",
+        "subgraph-merge": "latest",
+        "subgraph-pkg": "latest",
+        "subgraph-results-pager": "latest",
+        "subgraph-tester": "latest",
+        "subgraph-tester-demo": "latest",
+        "subgraph-toolkit": "latest",
+        "subgraph-utils": "latest",
+        "subgraphs": "latest",
+        "subgrfspy": "latest"
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-stylelint-s",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylelint-safari-background-clip": "latest",
+        "stylelint-sarif-formatter": "latest",
+        "stylelint-sass-render-errors": "latest",
+        "stylelint-sassdoc": "latest",
+        "stylelint-scss": "latest",
+        "stylelint-scss-helix-structure": "latest",
+        "stylelint-scss-no-relative-imports": "latest",
+        "stylelint-scss-order": "latest",
+        "stylelint-selector-bem-pattern": "latest",
+        "stylelint-selector-custom-tag-pattern": "latest",
+        "stylelint-selector-last-no-trailing-comma": "latest",
+        "stylelint-selector-max-depth": "latest",
+        "stylelint-selector-no-empty": "latest",
+        "stylelint-selector-no-mergeable": "latest",
+        "stylelint-selector-no-utility": "latest",
+        "stylelint-selector-pattern": "latest",
+        "stylelint-selector-pseudo-class-lvhfa": "latest",
+        "stylelint-selector-qualifying-element": "latest",
+        "stylelint-selector-tag-no-without-class": "latest",
+        "stylelint-semantic-groups": "latest",
+        "stylelint-shide": "latest",
+        "stylelint-statement-max-nesting-depth": "latest",
+        "stylelint-stylus": "latest",
+        "stylelint-suitcss": "latest",
+        "stylelint-suitcss-rules": "latest"
+    }
+}

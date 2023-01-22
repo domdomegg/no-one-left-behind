@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_monx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@monx/default-providers": "latest",
+        "@monx/default-services": "latest",
+        "@monx/eslint-config-next": "latest",
+        "@monx/netlifycms-widgets": "latest",
+        "@monx/next-graphql": "latest",
+        "@monx/react-netlifycms": "latest",
+        "@monx/rollup-config": "latest",
+        "@monx/versioning": "latest"
+    }
+}

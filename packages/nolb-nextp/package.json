@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-nextp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nextp": "latest",
+        "nextpack": "latest",
+        "nextparticle707": "latest",
+        "nextparty": "latest",
+        "nextpat-ui": "latest",
+        "nextperiod": "latest",
+        "nextplayer": "latest",
+        "nextplugin-nextcode": "latest",
+        "nextplugin-temp": "latest",
+        "nextpnr": "latest",
+        "nextpnr-viewer": "latest",
+        "nextpoint-unzipper": "latest",
+        "nextport": "latest",
+        "nextportal": "latest",
+        "nextpose": "latest",
+        "nextpress": "latest",
+        "nextpress-admin": "latest",
+        "nextpresse": "latest",
+        "nextpresso": "latest",
+        "nextprops-docusaurus-lunr-search": "latest",
+        "nextprops-lunr-languages": "latest",
+        "nextprot": "latest",
+        "nextprot-cli": "latest",
+        "nextproxy": "latest",
+        "nextprueba": "latest"
+    }
+}

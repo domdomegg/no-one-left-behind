@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-emg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emg": "latest",
+        "emg-text-editor": "latest",
+        "emg-tool-calculations": "latest",
+        "emg-tools-common": "latest",
+        "emgage-components": "latest",
+        "emgage-platform-widgets": "latest",
+        "emgen": "latest",
+        "emglken": "latest",
+        "emgnl-vue3-component-library": "latest",
+        "emgrid": "latest",
+        "emgrid1": "latest",
+        "emgucv": "latest"
+    }
+}

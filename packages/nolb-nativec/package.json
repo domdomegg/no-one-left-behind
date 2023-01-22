@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-nativec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "NativeCall": "latest",
+        "nativecamera": "latest",
+        "nativecap": "latest",
+        "nativecheckoutscript": "latest",
+        "nativeconnectdemo": "latest",
+        "nativecorexxx": "latest"
+    }
+}

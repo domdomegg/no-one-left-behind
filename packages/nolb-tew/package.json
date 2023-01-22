@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-tew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tew": "latest",
+        "tewalistest": "latest",
+        "tewksbum-instanode": "latest",
+        "tewlib": "latest",
+        "tewolde-dice": "latest",
+        "tewt": "latest",
+        "tewu-node-tut": "latest"
+    }
+}

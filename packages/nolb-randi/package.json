@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-randi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "randi": "latest",
+        "randia-api-builder": "latest",
+        "randia-reserv": "latest",
+        "randid": "latest",
+        "randiekas_idisi_api": "latest",
+        "randify": "latest",
+        "randika-wrapper": "latest",
+        "randimal": "latest",
+        "randimals": "latest",
+        "randine": "latest",
+        "randing": "latest",
+        "randir": "latest",
+        "randir-messages": "latest",
+        "randity": "latest",
+        "randiz-mechagge": "latest"
+    }
+}

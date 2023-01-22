@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_jot",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jota-ds/context-element": "latest",
+        "@jota-ds/context-element-react": "latest",
+        "@jota-ds/lib-react": "latest",
+        "@jota-ds/motion-tokens": "latest",
+        "@jota-one/drosse": "latest",
+        "@jota-one/hateoas-parser": "latest",
+        "@jota-one/http-client": "latest",
+        "@jota-one/i36n": "latest",
+        "@jota-one/replacer": "latest",
+        "@jota-one/sisi": "latest",
+        "@jota-one/vue-cli-plugin-aem-clientlib": "latest",
+        "@jotads/context-element": "latest",
+        "@jotads/context-element-react": "latest",
+        "@jotagep/card": "latest",
+        "@jotamusik/async-validator": "latest",
+        "@jotang/tslint-config-jotang": "latest",
+        "@jotdown/jotdown": "latest",
+        "@jotforminc/dnd-builder": "latest",
+        "@jothcong/congnd272": "latest",
+        "@jothesh/navbarnpm": "latest",
+        "@jothsnagowda/num-gen": "latest",
+        "@jotickets/common": "latest",
+        "@jots.jpmc/sdk": "latest",
+        "@jottocraft/d1": "latest",
+        "@jottocraft/yggdrasil": "latest"
+    }
+}

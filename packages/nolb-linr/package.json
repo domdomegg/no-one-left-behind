@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-linr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "linr": "latest",
+        "linrantemp": "latest",
+        "linregtools": "latest",
+        "linrung-ui": "latest"
+    }
+}

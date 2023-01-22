@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_snl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@snlab/ducebox": "latest",
+        "@snlab/florence-repl": "latest",
+        "@snlab/refractor-svelte": "latest",
+        "@snlab/rendervous": "latest",
+        "@snlab/spip-api": "latest",
+        "@snlab/sveltex-unified": "latest",
+        "@snlab/transshape": "latest",
+        "@snltickets/common": "latest",
+        "@snly2386/common": "latest"
+    }
+}

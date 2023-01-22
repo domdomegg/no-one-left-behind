@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-sii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sii": "latest",
+        "siiau-scraper": "latest",
+        "siigo.utils.fixi18n": "latest",
+        "siigo_api": "latest",
+        "siigo_api_test": "latest",
+        "siigotech": "latest",
+        "siiii": "latest",
+        "siiimple-toast": "latest",
+        "siilu_header": "latest",
+        "siim-github-repor": "latest",
+        "siimact": "latest",
+        "siimple": "latest",
+        "siimple-icons": "latest",
+        "siimpleorm": "latest",
+        "siimpleorm-cli": "latest",
+        "siin-pi-nice-button": "latest",
+        "siinyakov-files": "latest",
+        "siinyakov_math": "latest",
+        "siios-product-card": "latest",
+        "siipi-erp": "latest",
+        "siiri-viewer-dts": "latest",
+        "siiri-viewer-gallery": "latest",
+        "siiruo": "latest",
+        "siisplan": "latest"
+    }
+}

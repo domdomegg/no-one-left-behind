@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-x4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "x4": "latest",
+        "x4254052": "latest",
+        "x448-js": "latest",
+        "x456tr": "latest",
+        "x4build": "latest",
+        "x4electron": "latest",
+        "x4js": "latest",
+        "x4r": "latest",
+        "x4tradejs": "latest",
+        "x4tradejs-ws": "latest"
+    }
+}

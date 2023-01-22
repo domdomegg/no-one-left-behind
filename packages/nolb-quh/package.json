@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-quh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "quh": "latest",
+        "quhelong": "latest",
+        "quhnbdockerfiles": "latest",
+        "quhnbfleetmake": "latest",
+        "quhnbfleetmakecli": "latest",
+        "quhnbfleetmaketest": "latest",
+        "quhuhutest": "latest",
+        "quhui-ui": "latest",
+        "quhui-ui-demo": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_orf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@orfeo/orfeo": "latest",
+        "@orfeo/orfeo-cli": "latest",
+        "@orfeo/timeline-validator": "latest",
+        "@orfium/ictinus": "latest",
+        "@orfium/toolbox": "latest",
+        "@orfon/adcuid-lookup": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-atn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "atn": "latest",
+        "atn-cfi": "latest",
+        "atn-cli": "latest",
+        "atn-dms": "latest",
+        "atn-js": "latest",
+        "atn-lib": "latest",
+        "atn-node-js": "latest",
+        "atna-audit": "latest",
+        "atnote": "latest",
+        "atnvnonkl": "latest"
+    }
+}

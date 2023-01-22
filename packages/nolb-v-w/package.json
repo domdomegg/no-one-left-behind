@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-v-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "v-waterfall": "latest",
+        "v-watermark": "latest",
+        "v-watermarkit": "latest",
+        "v-wave": "latest",
+        "v-web-storage": "latest",
+        "v-webcam": "latest",
+        "v-webp": "latest",
+        "v-webp-next": "latest",
+        "v-wechat-auth": "latest",
+        "v-weed": "latest",
+        "v-week-slider": "latest",
+        "v-weui": "latest",
+        "v-what_web_cli": "latest",
+        "v-widget": "latest",
+        "v-window": "latest",
+        "v-window-select": "latest",
+        "v-workflow": "latest",
+        "v-wow": "latest",
+        "v-wow-refunder": "latest",
+        "v-writer": "latest"
+    }
+}

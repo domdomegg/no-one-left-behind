@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_inta",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@intabia/angular-ui": "latest",
+        "@intabulas/moment-mini": "latest",
+        "@intabulas/nodal-middleware-ratelimit": "latest",
+        "@intabulas/react-scripts-tailwind": "latest",
+        "@intacct/intacct-sdk": "latest",
+        "@intact.software.systems/loan-computer": "latest",
+        "@intactile/dom-to-image-next": "latest",
+        "@intactile/express-domain-middleware": "latest",
+        "@intactile/json-socket": "latest",
+        "@intactile/node-api-client": "latest",
+        "@intactile/node-env": "latest",
+        "@intactile/react-layout": "latest",
+        "@intactile/redux-client-middleware": "latest",
+        "@intactile/redux-normalized-module": "latest",
+        "@intactile/redux-undo-redo": "latest",
+        "@intactile/redux-utils": "latest",
+        "@intauria/init": "latest",
+        "@intavia/api-client": "latest"
+    }
+}

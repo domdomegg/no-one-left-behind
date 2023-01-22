@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_ror",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@rora/javascript-adapter": "latest",
+        "@rori/mercy": "latest",
+        "@rori4/opensea-mod": "latest",
+        "@rori4/uniswap-sdk-core": "latest",
+        "@rori4/uniswap-v2-sdk": "latest",
+        "@rorik302/components-library": "latest",
+        "@rorik302/logistic-components": "latest",
+        "@rornellas/ng2-smart-table": "latest",
+        "@roronoalee/qrcodejs": "latest",
+        "@rororobby/applemusic": "latest",
+        "@roroxide/test-module": "latest",
+        "@rorry121/ng-hertz": "latest",
+        "@rorschachyu/design-ui": "latest",
+        "@rorschachyu/ethui": "latest",
+        "@rory-ui/button": "latest",
+        "@rory-ui/input": "latest",
+        "@rory-ui/rory-ui": "latest",
+        "@rory-ui/toast": "latest",
+        "@rory-ui/utils": "latest",
+        "@roryduncan/suki": "latest",
+        "@rorystokes/ad-ts": "latest",
+        "@rorytaca/react-background-video": "latest"
+    }
+}

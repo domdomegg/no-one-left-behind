@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-sqd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sqd": "latest",
+        "sqd-admin": "latest",
+        "sqd-cli": "latest",
+        "sqd-serve": "latest",
+        "sqdb.js": "latest",
+        "sqdd-weex-ui": "latest",
+        "sqdoc": "latest"
+    }
+}

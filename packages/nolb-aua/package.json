@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-aua",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aua": "latest",
+        "aua-class-picker": "latest",
+        "auauoo-captcha": "latest",
+        "auauoo-excel-export": "latest",
+        "auauoo-myexpress": "latest",
+        "auauoo-myvue-cli": "latest",
+        "auauoo-qfui": "latest",
+        "auauoo-qs": "latest"
+    }
+}

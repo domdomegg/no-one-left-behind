@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-test-package-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "test-package-wahdan": "latest",
+        "test-package-wbm": "latest",
+        "test-package-wbx": "latest",
+        "test-package-with-babel-starter-kit": "latest",
+        "test-package-with-one-dep": "latest",
+        "test-package-with-postinstall-script": "latest",
+        "test-package-with-sr": "latest"
+    }
+}

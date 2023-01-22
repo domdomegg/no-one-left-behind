@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-syp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "syp": "latest",
+        "syp-model": "latest",
+        "sypeh-react-datepicker": "latest",
+        "sypeh-react-ui": "latest",
+        "syperalta-package-a": "latest",
+        "syperalta-package-b": "latest",
+        "sypexgeo-nan": "latest",
+        "sypexgeo-vyvid": "latest",
+        "sypf-utils": "latest",
+        "sypher": "latest",
+        "sypher-util": "latest",
+        "syphon": "latest",
+        "syphonx": "latest",
+        "syphonx-core": "latest",
+        "syphonx-lib": "latest",
+        "syphos": "latest",
+        "sypht-node-client": "latest",
+        "syplugin": "latest"
+    }
+}

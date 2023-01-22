@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-axf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "axf": "latest",
+        "axf-auth": "latest",
+        "axf-cosmosdb": "latest",
+        "axf-eslint-config": "latest",
+        "axf-fetch": "latest",
+        "axf-koa-utils": "latest",
+        "axf-node-functions": "latest",
+        "axf-polyfill": "latest",
+        "axfdlog": "latest"
+    }
+}

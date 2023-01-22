@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-mapg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mapgame-hosting-project": "latest",
+        "mapgeo": "latest",
+        "mapgis-cesium-components": "latest",
+        "mapgis-npm-utils": "latest",
+        "mapgis-test": "latest",
+        "mapgisapi": "latest",
+        "mapgl-expression": "latest",
+        "mapgl-snow": "latest",
+        "mapgrab": "latest",
+        "mapgroup-ngx-datatable": "latest",
+        "mapguide-react-layout": "latest",
+        "mapgzx": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-easye",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "easyeach": "latest",
+        "easyeasy": "latest",
+        "easyeasy-client": "latest",
+        "easyeat-library": "latest",
+        "easyecdsa": "latest",
+        "easyecs": "latest",
+        "easyeda2kicad": "latest",
+        "easyedit": "latest",
+        "easyeditor": "latest",
+        "easyegg": "latest",
+        "easyele-ui": "latest",
+        "easyembed": "latest",
+        "easyembeds": "latest",
+        "easyembeds.js": "latest",
+        "easyemit": "latest",
+        "easyenrollsdk": "latest",
+        "easyer": "latest",
+        "easyer-logger": "latest",
+        "easyerror": "latest",
+        "easyest": "latest",
+        "easyews": "latest",
+        "easyexcel4nodeexport": "latest",
+        "easyexceljs": "latest",
+        "easyexcelweb": "latest",
+        "easyexec": "latest",
+        "easyexpressroute": "latest"
+    }
+}

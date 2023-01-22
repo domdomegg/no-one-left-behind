@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-syi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "syi": "latest",
+        "syi-footer": "latest",
+        "syi-header": "latest",
+        "syicon-font": "latest",
+        "syihbcsibcsooobbx": "latest",
+        "syiintensorflow": "latest",
+        "syill": "latest",
+        "syim": "latest",
+        "syiput": "latest",
+        "syiuse-ui": "latest"
+    }
+}

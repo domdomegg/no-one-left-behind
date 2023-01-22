@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_stdlib_e",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stdlib/error": "latest",
+        "@stdlib/error-reviver": "latest",
+        "@stdlib/error-to-json": "latest",
+        "@stdlib/error-tools": "latest",
+        "@stdlib/error-tools-database": "latest",
+        "@stdlib/error-tools-fmtprodmsg": "latest",
+        "@stdlib/error-tools-fmtprodmsg-factory": "latest",
+        "@stdlib/error-tools-id2msg": "latest",
+        "@stdlib/error-tools-id2pkg": "latest",
+        "@stdlib/error-tools-msg2id": "latest",
+        "@stdlib/error-tools-pkg2id": "latest",
+        "@stdlib/esm": "latest"
+    }
+}

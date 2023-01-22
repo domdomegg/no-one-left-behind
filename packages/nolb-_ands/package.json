@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_ands",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@andschir/ckeditor5-build-classic-flask": "latest",
+        "@andsfonseca/file-organizer": "latest",
+        "@andsfonseca/palavras-pt-br": "latest",
+        "@andsfonseca/term-cli": "latest",
+        "@andskur/contracts": "latest",
+        "@andsnpl-scratch/auto-test-package": "latest",
+        "@andspark/axios": "latest",
+        "@andspark/test-api": "latest",
+        "@andspark/utils": "latest",
+        "@andspark/vue-message": "latest",
+        "@andste82/openapi2pdf": "latest",
+        "@andstickets/common": "latest",
+        "@andstor/smart-contract-slicer": "latest",
+        "@andsuper/cli": "latest"
+    }
+}

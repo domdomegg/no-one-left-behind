@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-react-9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-9-slice": "latest",
+        "react-9178": "latest",
+        "react-95-fiber": "latest",
+        "react-99h-time-picker": "latest",
+        "react-99roomz-calendar": "latest",
+        "react-9patch": "latest"
+    }
+}

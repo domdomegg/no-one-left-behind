@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-nodejsm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodejsmath": "latest",
+        "nodejsmath_example_sms": "latest",
+        "nodejsmathemat": "latest",
+        "nodejsmbk": "latest",
+        "nodejsmod": "latest",
+        "nodejsmodule": "latest",
+        "nodejsmodule2testpkg": "latest",
+        "nodejsmodules": "latest",
+        "nodejsmonit": "latest",
+        "nodejsmonitmnpm": "latest",
+        "nodejsmonitor": "latest",
+        "nodejsmq": "latest",
+        "nodejsmvc": "latest",
+        "nodejsmyadmin": "latest"
+    }
+}

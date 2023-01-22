@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_gof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gofeedyourself/api": "latest",
+        "@gofeedyourself/components": "latest",
+        "@gofeedyourself/entity": "latest",
+        "@gofido/components": "latest",
+        "@gofleetly/api": "latest",
+        "@goforboom/storybook": "latest",
+        "@gofore/react-scripts": "latest",
+        "@gofreddo/eta": "latest",
+        "@gofun-web/thaii": "latest",
+        "@gofundust/components": "latest",
+        "@gofunky/cssauron": "latest",
+        "@gofunky/trumpet": "latest",
+        "@gofynd/angular-json-viewer": "latest",
+        "@gofynd/fdk-cli": "latest",
+        "@gofynd/huffer-edge": "latest",
+        "@gofynd/nitrozen-react": "latest",
+        "@gofynd/nitrozen-vue": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-vsn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vsn": "latest",
+        "vsn-forms": "latest",
+        "vsnet-app": "latest",
+        "vsnet-auth": "latest",
+        "vsnet-common": "latest",
+        "vsnet-pubsub": "latest",
+        "vsnet-redis": "latest",
+        "vsnet-server": "latest",
+        "vsnet-socket": "latest",
+        "vsnet-sockets": "latest",
+        "vsnet-utils": "latest",
+        "vsnips": "latest",
+        "vsnote-lang": "latest",
+        "vsnow": "latest",
+        "vsns": "latest"
+    }
+}

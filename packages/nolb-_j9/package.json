@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_j9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@j97tickets/common": "latest",
+        "@j9t/imagemin-guard": "latest"
+    }
+}

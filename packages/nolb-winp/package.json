@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-winp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "winpath": "latest",
+        "winplugin": "latest",
+        "winplus-cli": "latest",
+        "winport": "latest",
+        "winpos": "latest",
+        "winpra": "latest",
+        "winprint": "latest",
+        "winprocess": "latest",
+        "winpstree": "latest"
+    }
+}

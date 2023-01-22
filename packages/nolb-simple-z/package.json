@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-simple-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simple-zeropad": "latest",
+        "simple-zip": "latest",
+        "simple-zip-async": "latest",
+        "simple-zip-upload": "latest",
+        "simple-zork": "latest",
+        "simple-zstd": "latest",
+        "simple-zustand-devtools": "latest"
+    }
+}

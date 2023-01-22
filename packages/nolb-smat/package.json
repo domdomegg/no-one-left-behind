@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-smat",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smat": "latest",
+        "smat-input": "latest",
+        "smat-stream": "latest",
+        "smatade-frame-print": "latest",
+        "smatch": "latest",
+        "smaterial": "latest",
+        "smath": "latest",
+        "smathlib": "latest",
+        "smato-js": "latest",
+        "smatob-infinite-scroll-pagination": "latest",
+        "smatrix": "latest",
+        "smatrix-cli": "latest",
+        "smatter": "latest"
+    }
+}

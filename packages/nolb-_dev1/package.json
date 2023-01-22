@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_dev1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dev101/common": "latest",
+        "@dev1437/eslint-plugin-better-eslint": "latest",
+        "@dev1atfaroshgah/vueloop": "latest",
+        "@dev1blayzer/eatkidfriendly-backend": "latest",
+        "@dev1blayzer/eatkidfriendly-components": "latest",
+        "@dev1tt/docs": "latest",
+        "@dev1tt/react": "latest",
+        "@dev1tt/tokens": "latest"
+    }
+}

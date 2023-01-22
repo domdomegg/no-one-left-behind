@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_digis",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@digiserve/ab-utils": "latest",
+        "@digistrad/antd-materials": "latest",
+        "@digistrad/antd-plugins": "latest",
+        "@digistrad/antd-setters": "latest",
+        "@digistrad/formily-materials": "latest",
+        "@digistrad/lowcode-engine": "latest",
+        "@digiswap-core/digiswap-core": "latest",
+        "@digiswap-core/eslint-config-digiswap": "latest",
+        "@digiswap-core/profile-sdk": "latest",
+        "@digiswap-core/sdk": "latest",
+        "@digiswap-core/sdk-v1": "latest",
+        "@digiswap-core/uikit": "latest"
+    }
+}

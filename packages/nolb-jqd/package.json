@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-jqd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "JQDeferred": "latest",
+        "jqdash": "latest",
+        "jqdc": "latest",
+        "jqdeclare": "latest",
+        "jqdom": "latest",
+        "jqdoublescroll": "latest",
+        "jqdragme": "latest"
+    }
+}

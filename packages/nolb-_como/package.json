@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_como",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@como/como-client": "latest",
+        "@como2/cng": "latest",
+        "@como2/utils": "latest",
+        "@comoc-im/id": "latest",
+        "@comoc-im/message": "latest",
+        "@comocapital/config": "latest",
+        "@comocapital/eslint-config": "latest",
+        "@comodinx/jquery-autocomplete": "latest",
+        "@comodojo/phaser": "latest",
+        "@comon/eslint-config-vuets": "latest",
+        "@comon/stylelint-config-scss": "latest"
+    }
+}

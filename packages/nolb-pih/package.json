@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-pih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pih": "latest",
+        "pih-esm-root-config": "latest",
+        "pihh-ionic-ios-component-modules": "latest",
+        "pihole": "latest",
+        "pihole-sync": "latest",
+        "pihole5-list-tool": "latest"
+    }
+}

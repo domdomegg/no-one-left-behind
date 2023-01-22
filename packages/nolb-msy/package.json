@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-msy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "msy": "latest",
+        "msy-cli": "latest",
+        "msy-pdfjs-dist": "latest",
+        "msy-ui": "latest",
+        "msync": "latest",
+        "msync.sample-0": "latest",
+        "msync.sample-1": "latest",
+        "msync.sample-2": "latest",
+        "msync.sample-3": "latest",
+        "msync.sample-4-ignored": "latest",
+        "msync.sample-5-ignored": "latest",
+        "msys-ds": "latest",
+        "msyy": "latest",
+        "msyyyyy": "latest"
+    }
+}

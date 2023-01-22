@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-imw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "imweapp": "latest",
+        "imweapp-canvas": "latest",
+        "imweb": "latest",
+        "imweb-badjs": "latest",
+        "imweb-cli": "latest",
+        "imweb-com-test": "latest",
+        "imweb-filestorage": "latest",
+        "imweb-git-user-name": "latest",
+        "imweb-gruntfile": "latest",
+        "imweb-report": "latest",
+        "imweb-tpl-engine": "latest",
+        "imweb-tpl-loader": "latest",
+        "imweb_abs_path": "latest",
+        "imweb_ispriter2": "latest",
+        "imweb_sdk": "latest",
+        "imwechats": "latest",
+        "imws": "latest"
+    }
+}

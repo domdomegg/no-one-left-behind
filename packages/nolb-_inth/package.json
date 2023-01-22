@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_inth",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@inthepanchine/image-edit": "latest",
+        "@inthepanchine/image-edit-deprecate": "latest",
+        "@inthepocket/create-itp-react-app": "latest",
+        "@inthepocket/eslint-config-next": "latest",
+        "@inthepocket/eslint-config-preact": "latest",
+        "@inthepocket/eslint-config-react-native": "latest",
+        "@inthepocket/eslint-config-remix": "latest",
+        "@inthepocket/eslint-config-ts": "latest",
+        "@inthepocket/eslint-config-web": "latest",
+        "@inthepocket/hubble-docs-theme": "latest",
+        "@inthepocket/hubble-mirror": "latest",
+        "@inthepocket/itp-css": "latest",
+        "@inthepocket/itp-rcc-alert": "latest",
+        "@inthepocket/itp-rcc-autocomplete": "latest",
+        "@inthepocket/itp-rcc-button": "latest",
+        "@inthepocket/itp-rcc-card": "latest",
+        "@inthepocket/itp-rcc-collapse": "latest",
+        "@inthepocket/itp-rcc-slider": "latest",
+        "@inthepocket/itp-react-scripts": "latest",
+        "@inthepocket/npm-license-scraper": "latest",
+        "@intheroomglobal/embed": "latest",
+        "@intheroomglobal/speakeasy-js": "latest",
+        "@intheroomglobal/sveltekit-og": "latest"
+    }
+}

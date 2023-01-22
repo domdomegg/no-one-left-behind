@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-streamd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "streamdash": "latest",
+        "streamdata.io-events": "latest",
+        "streamdataio-js-sdk": "latest",
+        "streamdataio-js-sdk-auth": "latest",
+        "streamdb": "latest",
+        "streamdeck": "latest",
+        "streamdeck-controller": "latest",
+        "streamdeck-mqtt": "latest",
+        "streamdeck-sdk": "latest",
+        "streamdeck-typescript": "latest",
+        "streamdeck-util": "latest",
+        "streamdeckd": "latest",
+        "streamdir": "latest",
+        "streamdispatch": "latest",
+        "streamdock": "latest",
+        "streamdown": "latest",
+        "streamduck-node-client": "latest"
+    }
+}

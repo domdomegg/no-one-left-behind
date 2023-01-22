@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-ipb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ipb": "latest",
+        "ipb-react-test2": "latest",
+        "ipbase": "latest",
+        "ipbcrawler": "latest",
+        "ipbgen": "latest",
+        "ipbind": "latest",
+        "ipblacklistai": "latest",
+        "ipblock": "latest",
+        "ipblog": "latest",
+        "ipboard": "latest",
+        "ipboard-api": "latest",
+        "ipbus": "latest"
+    }
+}

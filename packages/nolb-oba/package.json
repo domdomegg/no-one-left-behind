@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-oba",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "oba": "latest",
+        "oba-crypt": "latest",
+        "oba-dev-apis": "latest",
+        "oba-http-response": "latest",
+        "oba-random-id": "latest",
+        "obaa": "latest",
+        "obajs": "latest",
+        "obake": "latest",
+        "obake.js": "latest",
+        "obama": "latest",
+        "obama-iama": "latest",
+        "oban": "latest",
+        "obanb_express_pl": "latest",
+        "obanb_graphql_pl": "latest",
+        "obanb_pluginator": "latest",
+        "obanb_pluginone": "latest",
+        "obanb_scheduler_pl": "latest",
+        "obaone-webpack-scripts": "latest",
+        "obara": "latest",
+        "obaranovskyi-starter-kit": "latest",
+        "obarboza": "latest",
+        "obartra-image-webpack-loader": "latest",
+        "obase": "latest",
+        "obatkuat": "latest",
+        "obayomi-react-module": "latest"
+    }
+}

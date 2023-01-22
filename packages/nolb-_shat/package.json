@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_shat",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shat/stylenames": "latest",
+        "@shatemp/bnsql": "latest",
+        "@shatemp/xmloader": "latest",
+        "@shattercms/files": "latest",
+        "@shattercms/gateway": "latest",
+        "@shattercms/rebuild": "latest",
+        "@shattercms/shards": "latest",
+        "@shattercms/types": "latest",
+        "@shattercms/users": "latest",
+        "@shatyaki-dutt-tickets/common": "latest"
+    }
+}

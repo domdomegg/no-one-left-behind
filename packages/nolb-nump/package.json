@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-nump",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "numpa": "latest",
+        "numpack": "latest",
+        "numpad": "latest",
+        "numpad.js": "latest",
+        "numparser": "latest",
+        "numper": "latest",
+        "numpos": "latest",
+        "numposz": "latest",
+        "numpy": "latest",
+        "numpy-loader": "latest",
+        "numpy-matrix-js": "latest",
+        "numpy-parser": "latest",
+        "numpy.js": "latest"
+    }
+}

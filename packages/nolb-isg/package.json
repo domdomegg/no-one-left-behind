@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-isg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "isg": "latest",
+        "isg-bridge": "latest",
+        "isg-connector": "latest",
+        "isg-ds-pot-lib2": "latest",
+        "isg-events": "latest",
+        "isg-lists": "latest",
+        "isg-types": "latest",
+        "isgd": "latest",
+        "isgd-api": "latest",
+        "isgeo": "latest",
+        "isgfka-lerna-component": "latest",
+        "isgfka-lerna-core": "latest",
+        "isgood": "latest",
+        "isgouto": "latest",
+        "isgreater": "latest",
+        "isgreen": "latest",
+        "isgsm7": "latest",
+        "isgyxcjuhzdvrfw": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-er2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "er2-map": "latest",
+        "er2-map-baselayers": "latest",
+        "er2-map-userlayers": "latest",
+        "er2-rc-tree": "latest",
+        "er2_dashboard": "latest",
+        "er2_forms": "latest",
+        "er2_styles": "latest",
+        "er2_ui": "latest",
+        "er2_validation_errors": "latest",
+        "er2_web_utils": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_ji-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ji-cli-dev/command": "latest",
+        "@ji-cli-dev/core": "latest",
+        "@ji-cli-dev/exec": "latest",
+        "@ji-cli-dev/format-path": "latest",
+        "@ji-cli-dev/get-npm-info": "latest",
+        "@ji-cli-dev/init": "latest",
+        "@ji-cli-dev/log": "latest",
+        "@ji-cli-dev/package": "latest",
+        "@ji-cli-dev/request": "latest",
+        "@ji-cli-dev/utils": "latest",
+        "@ji-constructs/cdk-image-resize-behavior": "latest",
+        "@ji-constructs/ecs-jwt-keypair": "latest",
+        "@ji-constructs/elb-rule-priority": "latest",
+        "@ji-constructs/loadbalanced-ecs-service": "latest",
+        "@ji-constructs/start-localstack-docker": "latest"
+    }
+}

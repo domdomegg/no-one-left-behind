@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-vep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vep": "latest",
+        "vep-example-library": "latest",
+        "vepaar-toolkit": "latest",
+        "vepal-cli": "latest",
+        "vepamailing": "latest",
+        "vepanel": "latest",
+        "vepatekautomailer": "latest",
+        "vepay-recurrent": "latest",
+        "vepen": "latest",
+        "vepo-scss": "latest",
+        "vepp": "latest",
+        "vepp-jstudio": "latest",
+        "vepp-jwatch": "latest",
+        "vepr": "latest",
+        "veprameet-ui": "latest"
+    }
+}

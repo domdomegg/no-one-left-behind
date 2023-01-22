@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_koy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@koy/architecture": "latest",
+        "@koy/cli": "latest",
+        "@koy/core": "latest",
+        "@koy/router": "latest",
+        "@koy/virtual-dom": "latest",
+        "@koy/vitual-dom": "latest",
+        "@koyal-tech/editable-react-table": "latest",
+        "@koyeb/pulumi-koyeb": "latest",
+        "@koyfin/generator-ms-basement": "latest",
+        "@koyfin/message-bus": "latest",
+        "@koyfin/ms-basement": "latest",
+        "@koyita-common/common": "latest",
+        "@koyofinance/core-sdk": "latest",
+        "@koyofinance/exchange-sdk": "latest",
+        "@koyofinance/koyo-ui": "latest",
+        "@koyofinance/momiji-hooks": "latest",
+        "@koyofinance/momiji-sdk": "latest",
+        "@koyofinance/react-query-typechain": "latest",
+        "@koyofinance/sor": "latest",
+        "@koyofinance/swap-sdk": "latest",
+        "@koyote130708/types.js": "latest",
+        "@koyre/ngx-facebook": "latest",
+        "@koyu/react-zephyr": "latest",
+        "@koyu/vue-zephyr": "latest",
+        "@koyu/zephyr-theme": "latest",
+        "@koyweforest/koywe-ramp-sdk": "latest"
+    }
+}

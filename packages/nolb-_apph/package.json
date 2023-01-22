@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_apph",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@apphandler/aws": "latest",
+        "@apphandler/cli": "latest",
+        "@apphandler/cron": "latest",
+        "@apphandler/docker-logs-tail": "latest",
+        "@apphandler/git": "latest",
+        "@apphandler/k8s": "latest",
+        "@apphandler/lambda": "latest",
+        "@apphandler/slack": "latest",
+        "@apphandler/terraform": "latest",
+        "@apphandler/utility": "latest",
+        "@apphiveio/react-native-apphive-jitsi": "latest",
+        "@apphp/nested-props-validator": "latest",
+        "@apphp/object-resolver": "latest",
+        "@apphud/react-native-apphud-sdk": "latest"
+    }
+}

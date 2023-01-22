@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_nodee",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nodeem/nivo-bar": "latest",
+        "@nodeem/nivo-core": "latest",
+        "@nodeem/nivo-line": "latest",
+        "@nodeem/nivo-pie": "latest",
+        "@nodeem/react-drag-and-drop": "latest",
+        "@nodeem/react-vis": "latest",
+        "@nodeeweb/chat": "latest",
+        "@nodeeweb/form": "latest",
+        "@nodeeweb/front": "latest",
+        "@nodeeweb/server": "latest",
+        "@nodeeweb/service": "latest",
+        "@nodeeweb/shop": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-genx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "genx": "latest",
+        "genxin": "latest",
+        "genxingzhengzeyizhilai": "latest",
+        "genxinyzhilail": "latest",
+        "genxlsxtool": "latest"
+    }
+}

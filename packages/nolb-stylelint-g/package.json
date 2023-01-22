@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-stylelint-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylelint-gamut": "latest",
+        "stylelint-generalh5": "latest",
+        "stylelint-gh-status-reporter": "latest",
+        "stylelint-group-selectors": "latest"
+    }
+}

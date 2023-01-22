@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-material2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "material2": "latest",
+        "material2-carousel": "latest",
+        "material2-carousel-13": "latest",
+        "material2-extantion": "latest",
+        "material2-extensions": "latest",
+        "material2-schema-form": "latest",
+        "material2-srcs": "latest",
+        "material2animation": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_digir",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@digirati/canvas-panel-web-components": "latest",
+        "@digirati/me-core": "latest",
+        "@digirati/me-experience-editor": "latest",
+        "@digirati/vam-viewer": "latest",
+        "@digirati/virtual-tree": "latest"
+    }
+}

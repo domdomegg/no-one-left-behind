@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_usc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@uscel/ui-lib": "latest",
+        "@usco/stl-parser": "latest",
+        "@uscreen-video/v-color": "latest",
+        "@uscreen.de/common-esm": "latest",
+        "@uscreen.de/dev-repo": "latest",
+        "@uscreen.de/dev-service": "latest",
+        "@uscreen.de/eslint-config-prettystandard-node": "latest",
+        "@uscreen.de/eslint-config-prettystandard-vue": "latest",
+        "@uscreen.de/shipit-deploy-cd": "latest",
+        "@uscreentv/emoji-mart-vue": "latest",
+        "@uscreentv/turbo-train": "latest",
+        "@uscreentv/uppy-manager": "latest",
+        "@uscreentv/v-color": "latest",
+        "@uscreentv/webpack-plugin-tailwind-purge": "latest",
+        "@uscsf/react-native-video-player": "latest",
+        "@uscsf/react-native-video360": "latest"
+    }
+}

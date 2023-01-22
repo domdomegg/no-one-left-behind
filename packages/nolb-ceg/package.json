@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-ceg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ceg": "latest",
+        "ceg-inspection": "latest",
+        "ceg-ng-utils": "latest",
+        "ceg-ui": "latest",
+        "ceg-ui-material": "latest",
+        "cegceg": "latest",
+        "cegelskimap": "latest",
+        "cegid-cc-core": "latest",
+        "cegix-timesheet": "latest",
+        "cegli": "latest",
+        "cegtools_node_wrapper": "latest",
+        "ceguro-frame-print": "latest"
+    }
+}

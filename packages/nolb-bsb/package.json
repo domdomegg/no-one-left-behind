@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-bsb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bsb": "latest",
+        "bsb-cli": "latest",
+        "bsb-common-web": "latest",
+        "bsb-jquery-plugins": "latest",
+        "bsb-js": "latest",
+        "bsb-native": "latest",
+        "bsb-parser": "latest",
+        "bsb-plugin": "latest",
+        "bsb-stock-web": "latest",
+        "bsb-vscode-task-adaptor": "latest",
+        "bsbd": "latest",
+        "bsbd-test": "latest",
+        "bsbelplugi9naddmodu8leexports": "latest",
+        "bsblog-images": "latest",
+        "bsboard-js": "latest",
+        "bsbs": "latest"
+    }
+}

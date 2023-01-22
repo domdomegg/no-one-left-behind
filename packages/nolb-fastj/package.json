@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-fastj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fastjavascript": "latest",
+        "fastjob": "latest",
+        "fastjs-cli": "latest",
+        "fastjs-next": "latest",
+        "fastjs.frame": "latest",
+        "fastjs.shortcuts": "latest",
+        "fastjson": "latest",
+        "fastjson-converter": "latest",
+        "fastjson-js": "latest",
+        "fastjson_ref_resolver": "latest",
+        "fastjsonweb": "latest"
+    }
+}

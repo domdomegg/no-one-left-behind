@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_syh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@syhcom/video.js": "latest",
+        "@syhh/tuling-develop-cli": "latest",
+        "@syhhhhhh/stest-ui": "latest",
+        "@syhr/ac-element-ui": "latest",
+        "@syhr/element-ui": "latest",
+        "@syhr/qt-player": "latest",
+        "@syhr/vue-cesium": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_drs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@drschwabe/stack": "latest",
+        "@drsmile1001/vue-test-lib": "latest",
+        "@drstrain/database": "latest",
+        "@drstrain/drutil": "latest",
+        "@drstrain/safebox": "latest",
+        "@drstrain/shadeless-lib": "latest",
+        "@drstrain/strangebust": "latest",
+        "@drsupahot/tete": "latest"
+    }
+}

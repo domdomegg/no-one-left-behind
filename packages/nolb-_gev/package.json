@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_gev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gevigit/test-lib": "latest",
+        "@gevorg2/react-15-datepicker": "latest",
+        "@gevorg2/tinymce-react-15": "latest",
+        "@gevou/intersection-observer": "latest"
+    }
+}

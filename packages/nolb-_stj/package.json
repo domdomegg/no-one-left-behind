@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_stj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stj/keystore": "latest",
+        "@stj/serialize": "latest",
+        "@stj/vue-hotkey": "latest",
+        "@stjanis/ui-components": "latest",
+        "@stjk/lib": "latest",
+        "@stjk/next": "latest",
+        "@stjk/rtx": "latest",
+        "@stjk/ui": "latest",
+        "@stjohnd777/containers": "latest",
+        "@stjohnd777/easycsv": "latest",
+        "@stjohnd777/easyrest": "latest",
+        "@stjudecloud/assets": "latest",
+        "@stjudecloud/theme": "latest",
+        "@stjudecloud/theme-bootstrap": "latest",
+        "@stjudecloud/theme-react": "latest",
+        "@stjudecloud/theme-tailwind": "latest",
+        "@stjudecloud/ui-react": "latest"
+    }
+}

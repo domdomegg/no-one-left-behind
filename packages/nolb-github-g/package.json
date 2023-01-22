@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-github-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "github-gatekeeper": "latest",
+        "github-generate-token": "latest",
+        "github-get": "latest",
+        "github-getter": "latest",
+        "github-gist-db": "latest",
+        "github-gists": "latest",
+        "github-gists-cli": "latest",
+        "github-glitch-sync": "latest",
+        "github-graphql-api": "latest",
+        "github-graphql-binding": "latest",
+        "github-graphql-cli": "latest",
+        "github-graphql-client": "latest",
+        "github-graphql-data-collection": "latest",
+        "github-graphql-fetcher": "latest",
+        "github-graphql-paginate": "latest",
+        "github-graphql-schema": "latest",
+        "github-graphql-v4-client": "latest",
+        "github-grass-cli": "latest",
+        "github-growl": "latest"
+    }
+}

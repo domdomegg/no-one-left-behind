@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-verm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "verman": "latest",
+        "verman-cli": "latest",
+        "vermeer": "latest",
+        "vermicelli": "latest",
+        "vermilion": "latest",
+        "vermilion-bird": "latest",
+        "vermillion": "latest",
+        "vermillion-cli": "latest",
+        "vermillion-plugin": "latest",
+        "vermillion-router": "latest",
+        "vermillion-store": "latest",
+        "vermillion-transformer": "latest",
+        "vermin": "latest",
+        "verminal": "latest",
+        "verminal-2": "latest",
+        "verminal-dracula": "latest",
+        "verminal-plus": "latest",
+        "vermins-vengeance": "latest",
+        "vermon": "latest",
+        "vermon-bb8": "latest",
+        "vermon-core-entities": "latest",
+        "vermon-web": "latest",
+        "vermont": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_acf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@acf-comparison-slider/react": "latest",
+        "@acf-img-comparison-slider/project": "latest",
+        "@acf-img-comparison-slider/react": "latest",
+        "@acf-int/editorjs-collapse": "latest",
+        "@acf-int/editorjs-highlight-blocktune": "latest",
+        "@acf-int/editorjs-numbers": "latest",
+        "@acf-int/editorjs-tooltip": "latest",
+        "@acf-int/editorjs-typograf": "latest",
+        "@acf-int/strapi-plugin-react-editorjs": "latest",
+        "@acflow/cli": "latest",
+        "@acflow/doc": "latest",
+        "@acflow/package-example": "latest",
+        "@acflow/react-native-action-sheet": "latest",
+        "@acflow/react-native-logger-manager": "latest",
+        "@acflow/rnc": "latest",
+        "@acfromspace/weeb": "latest"
+    }
+}

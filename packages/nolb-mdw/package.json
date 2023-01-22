@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-mdw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mdw": "latest",
+        "mdw-blis": "latest",
+        "mdw-components": "latest",
+        "mdw-fsm": "latest",
+        "mdw-test": "latest",
+        "mdware": "latest",
+        "mdwatch": "latest",
+        "mdwc": "latest",
+        "mdweb": "latest",
+        "mdweblog": "latest",
+        "mdwiki": "latest"
+    }
+}

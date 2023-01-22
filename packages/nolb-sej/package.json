@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-sej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sej-ui": "latest",
+        "sej_demo_20": "latest",
+        "sejasa-cometchat": "latest",
+        "sejasa-cometchat-vue": "latest",
+        "sejda-js": "latest",
+        "sejj-npm-lib": "latest",
+        "sejong-buffer": "latest",
+        "sejong-morphemes": "latest",
+        "sejs": "latest",
+        "seju-palindrome": "latest",
+        "seju-palindrome-replica1": "latest",
+        "sejutiljs": "latest",
+        "sejvue": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-cordova-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cordova-jade-android": "latest",
+        "cordova-jailbreak-check": "latest",
+        "cordova-javascript-connector": "latest",
+        "cordova-jdcloud-myapp": "latest",
+        "cordova-jdcloud-myapp1": "latest",
+        "cordova-jiopay-pg": "latest",
+        "cordova-jiopay-pg-sit": "latest",
+        "cordova-jiopay-pg-uat": "latest",
+        "cordova-jquery": "latest",
+        "cordova-js": "latest",
+        "cordova-js-service": "latest",
+        "cordova-js-zip": "latest"
+    }
+}

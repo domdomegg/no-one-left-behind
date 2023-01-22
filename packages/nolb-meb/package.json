@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-meb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "meb": "latest",
+        "mebase": "latest",
+        "mebin": "latest",
+        "meblan-common": "latest",
+        "meblog": "latest",
+        "mebo": "latest",
+        "mebookdl": "latest",
+        "mebot": "latest",
+        "mebot-api": "latest",
+        "mebots": "latest",
+        "mebuddie": "latest",
+        "mebug": "latest",
+        "mebutoo-comm": "latest",
+        "mebutoo-wbsdk": "latest",
+        "mebutoo-websdk": "latest",
+        "mebx": "latest"
+    }
+}

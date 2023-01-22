@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_kij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kijacode/jwt_mongo_starter": "latest",
+        "@kijart/gh-secrets": "latest",
+        "@kijepark/my-button": "latest",
+        "@kijii-app/components": "latest",
+        "@kijmoshi/fast.db": "latest",
+        "@kijontix/common": "latest",
+        "@kijowski/ruleset": "latest",
+        "@kijowski/tslint-plugin-blank-line": "latest",
+        "@kijuub/timed-retry-dependency-queue": "latest",
+        "@kijuub/timed-retry-queue": "latest"
+    }
+}

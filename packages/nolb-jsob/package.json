@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-jsob",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jsob": "latest",
+        "jsob.db": "latest",
+        "jsobin": "latest",
+        "jsobj": "latest",
+        "jsobj-analyzer": "latest",
+        "jsobj-encoder": "latest",
+        "jsobject": "latest",
+        "jsobject-to-reactive-graph": "latest",
+        "jsobjectdiff": "latest",
+        "jsobjects": "latest",
+        "jsobjmapper": "latest",
+        "jsobservable-types": "latest"
+    }
+}

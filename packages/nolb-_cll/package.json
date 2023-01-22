@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_cll",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cll.rest/core": "latest",
+        "@cll.rest/react-hooks": "latest",
+        "@cll.rest/types": "latest",
+        "@cllansola/shield-button": "latest",
+        "@cllansola/shield-ui": "latest",
+        "@cllu/d3-dag": "latest"
+    }
+}

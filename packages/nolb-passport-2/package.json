@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-passport-2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "passport-23andme": "latest",
+        "passport-2fa": "latest",
+        "passport-2fa-faxes": "latest",
+        "passport-2fa-totp": "latest",
+        "passport-2fa-totp-v2": "latest"
+    }
+}

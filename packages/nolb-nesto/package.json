@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-nesto",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nesto": "latest",
+        "nesto-aws-xray-sdk": "latest",
+        "nesto-aws-xray-sdk-core": "latest",
+        "nesto-aws-xray-sdk-express": "latest",
+        "nesto-grunt-generate-configs": "latest",
+        "nesto-http-proxy": "latest",
+        "nesto-http-proxy-middleware": "latest",
+        "nesto-moment-holiday": "latest",
+        "nestob": "latest",
+        "nestolog": "latest",
+        "nestopia": "latest",
+        "nestor": "latest",
+        "nestor-buildlight": "latest",
+        "nestor-cli": "latest",
+        "nestor-downloads": "latest",
+        "nestor-downloads-transmission": "latest",
+        "nestor-lifx": "latest",
+        "nestor-media": "latest",
+        "nestor-music": "latest",
+        "nestor-ninjablocks": "latest",
+        "nestor-reduxmiddleware-serial": "latest",
+        "nestor-share": "latest",
+        "nestor-video": "latest",
+        "nestor.common.graphics": "latest",
+        "nestorbot": "latest",
+        "nestore-js-mongodb": "latest",
+        "nestorjs": "latest"
+    }
+}

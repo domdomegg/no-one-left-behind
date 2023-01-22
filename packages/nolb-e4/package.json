@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-e4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "e4": "latest",
+        "e4-again": "latest",
+        "e4-broadcast": "latest",
+        "e4-crypto": "latest",
+        "e4-crypto-fs": "latest",
+        "e4-guilherme-kencrypto2": "latest",
+        "e4-kencrypto": "latest",
+        "e4-kencrypto-ayana": "latest",
+        "e4-kencrypto-kenzie": "latest",
+        "e4-kencrypto-oliv": "latest",
+        "e4-lang": "latest",
+        "e4-metaplex-js": "latest",
+        "e4lectron": "latest",
+        "e4m-angular-emojis": "latest",
+        "e4m-codes": "latest",
+        "e4mmymodal": "latest",
+        "e4shared": "latest",
+        "e4x-detector": "latest"
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_tix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tix-common/common": "latest",
+        "@tix-factory/configuration-client": "latest",
+        "@tix-factory/http": "latest",
+        "@tix-factory/http-service": "latest",
+        "@tix-factory/logging-client": "latest",
+        "@tix-factory/mongodb": "latest",
+        "@tix-factory/mysql-data": "latest",
+        "@tix-factory/queueing": "latest",
+        "@tixapp/common": "latest",
+        "@tixcuborg/common": "latest",
+        "@tixel/seat-map": "latest",
+        "@tixel/vuex-correlated-effects": "latest",
+        "@tixit/common": "latest",
+        "@tixlfinance/tixlfinance-db": "latest",
+        "@tixly/common": "latest",
+        "@tixmaster/common": "latest",
+        "@tixmix/common": "latest",
+        "@tixmond/my-react-components": "latest",
+        "@tixpal/common": "latest",
+        "@tixproject/common": "latest",
+        "@tixticketing/ui-icons": "latest",
+        "@tixtickets/common": "latest",
+        "@tixudemy/common": "latest",
+        "@tixxer/tixxer-common": "latest",
+        "@tixy/common": "latest"
+    }
+}

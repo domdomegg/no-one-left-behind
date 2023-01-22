@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-cordova-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cordova-native-camera": "latest",
+        "cordova-native-gestures": "latest",
+        "cordova-native-view": "latest",
+        "cordova-nb-honeywell-scanner": "latest",
+        "cordova-network-interceptor": "latest",
+        "cordova-network-interface": "latest",
+        "cordova-network-status": "latest",
+        "cordova-new-file-picker-android": "latest",
+        "cordova-new-hot-code-push-cli": "latest",
+        "cordova-newland-inner-printer": "latest",
+        "cordova-newplugin-pluginx": "latest",
+        "cordova-newrelic-sdk-plugin": "latest",
+        "cordova-nexgo-inner-printer": "latest",
+        "cordova-nexgo-inner-printer-jeripay": "latest",
+        "cordova-nexgo-inner-printer-qr": "latest",
+        "cordova-nfc": "latest",
+        "cordova-nfcv-plugin": "latest",
+        "cordova-ng-boilerplate": "latest",
+        "cordova-nimble-smartpay": "latest",
+        "cordova-nivad-bazaar": "latest",
+        "cordova-nivad-myket": "latest",
+        "cordova-node-api": "latest",
+        "cordova-non-renewing-subscription": "latest",
+        "cordova-notification-service": "latest",
+        "cordova-npm-plugin-kunder-accountmanager": "latest",
+        "cordova-nsr-plugin-v2": "latest"
+    }
+}

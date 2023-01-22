@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_thev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@thevadeem/chui": "latest",
+        "@thevelops/projects-cli": "latest",
+        "@thevelops/tv-buttons": "latest",
+        "@thevelops/tv-menus": "latest",
+        "@thevelops/tv-table": "latest",
+        "@thevelops/tvcli": "latest",
+        "@theverything/ghost-storage-s3": "latest",
+        "@theverything/now-go": "latest",
+        "@theverything/parcel-plugin-copy": "latest",
+        "@theverything/torrent": "latest",
+        "@thevoidmaster/csvhandler": "latest",
+        "@thevoidtest/prisma-geral": "latest",
+        "@thevoidtest/prisma-geral-default": "latest",
+        "@thevoidtest/prisma-tenant": "latest",
+        "@thevsstech/react-material-confirm-dialog": "latest",
+        "@thevsstech/react-material-image-uploader": "latest",
+        "@thevsstech/react-native-bundle-splitter": "latest",
+        "@thevsstech/react-native-echarts-wrapper": "latest",
+        "@thevsstech/react-native-foreground-service": "latest",
+        "@thevsstech/react-native-paper-tabs": "latest",
+        "@thevsstech/react-native-queue": "latest",
+        "@thevsstech/react-native-skeleton": "latest",
+        "@thevsstech/react-native-toast": "latest",
+        "@thevsstech/react-x-table": "latest",
+        "@thevuong/svg-sprites": "latest",
+        "@thevvx/zero": "latest"
+    }
+}

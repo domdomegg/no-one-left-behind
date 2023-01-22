@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_aty",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@atymic/multiselect": "latest",
+        "@atymic/vue-infinite-loading": "latest",
+        "@atyoursite/animation": "latest",
+        "@atyoursite/classnames": "latest",
+        "@atyoursite/form": "latest",
+        "@atyoursite/npm-library": "latest",
+        "@atyoursite/npmshop-library": "latest",
+        "@atyoursite/polyfill": "latest",
+        "@atyoursite/scss": "latest",
+        "@atypicaldev/ssr-state": "latest"
+    }
+}

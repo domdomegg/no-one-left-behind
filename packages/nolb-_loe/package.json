@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_loe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@loeb/core": "latest",
+        "@loeb/css": "latest",
+        "@loeb/images": "latest",
+        "@loeb/mdx": "latest",
+        "@loeb/react": "latest",
+        "@loeffel-io/paginator": "latest",
+        "@loeka/common": "latest",
+        "@loeka/components": "latest",
+        "@loeka/components-react": "latest",
+        "@loen/pdf_main": "latest",
+        "@loerise/cra-template-typescript": "latest",
+        "@loerise/eslint-config": "latest",
+        "@loerise/eslint-config-typescript": "latest",
+        "@loerise/hooks": "latest",
+        "@loewen-digital/frontend-scaffold": "latest",
+        "@loezy/flogger": "latest",
+        "@loezy/seekul": "latest"
+    }
+}

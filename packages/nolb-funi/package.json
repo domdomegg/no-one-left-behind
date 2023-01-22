@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-funi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "funi": "latest",
+        "funi-edit-curd": "latest",
+        "funi-ui": "latest",
+        "funico": "latest",
+        "funicojs": "latest",
+        "funicular": "latest",
+        "funicular-core": "latest",
+        "funifier": "latest",
+        "funifier-js": "latest",
+        "funiflying-m-toast": "latest",
+        "funify": "latest",
+        "funijs": "latest",
+        "funil": "latest",
+        "funiquerandobmaoray": "latest",
+        "funis": "latest"
+    }
+}

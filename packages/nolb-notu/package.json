@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-notu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "notui": "latest",
+        "notultrahtml": "latest",
+        "notum": "latest",
+        "notunes": "latest",
+        "notus": "latest",
+        "notus-angular": "latest",
+        "notus-contracts": "latest",
+        "notus-core": "latest",
+        "notus-js": "latest",
+        "notus-nextjs": "latest",
+        "notus-react": "latest",
+        "notus-svelte": "latest",
+        "notused": "latest"
+    }
+}

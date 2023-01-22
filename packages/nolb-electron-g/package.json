@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-electron-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "electron-ga": "latest",
+        "electron-ga-psineur": "latest",
+        "electron-ga-uuid": "latest",
+        "electron-get-location": "latest",
+        "electron-gettext": "latest",
+        "electron-gh-releases": "latest",
+        "electron-gh-releases-updater": "latest",
+        "electron-gh-updater": "latest",
+        "electron-github": "latest",
+        "electron-github-asar-updater": "latest",
+        "electron-github-autoupdater": "latest",
+        "electron-github-oauth": "latest",
+        "electron-global": "latest",
+        "electron-glut": "latest",
+        "electron-go-hentai": "latest",
+        "electron-go-picnic": "latest",
+        "electron-google-analytics": "latest",
+        "electron-google-analytics-renderer": "latest",
+        "electron-google-oauth": "latest",
+        "electron-google-oauth-renderer": "latest",
+        "electron-google-oauth2": "latest",
+        "electron-google-oauth2-gnome": "latest",
+        "electron-google-translate": "latest",
+        "electron-graphql": "latest",
+        "electron-gtk-theme": "latest",
+        "electron-gui-for-command-line-tools": "latest",
+        "electron-gumroad-license": "latest"
+    }
+}

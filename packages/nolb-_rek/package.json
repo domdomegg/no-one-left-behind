@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_rek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@rekeye/advent-of-code": "latest",
+        "@rekharekha/holidates": "latest",
+        "@rekhasfahrizi/ckeditor5-build-decoupled-document-custom": "latest",
+        "@reki/eslint-config-base": "latest",
+        "@rekindle/use-request": "latest",
+        "@rekit/host": "latest",
+        "@rekon-oss/multi-translate": "latest",
+        "@rekon/core": "latest",
+        "@rekt-finance-v2/uikit": "latest",
+        "@rekt-finance/uikit": "latest",
+        "@rektangel/eslint-config": "latest",
+        "@rektangel/polygon-ui": "latest",
+        "@rektfinance/rekt-swap-core": "latest",
+        "@rektfinance/rekt-swap-sdk": "latest",
+        "@rektfinance/rekt-uikit": "latest",
+        "@rekursief/gatsby-theme-docs": "latest"
+    }
+}

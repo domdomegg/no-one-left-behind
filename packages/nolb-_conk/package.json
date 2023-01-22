@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_conk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@conkaa/comms-soap": "latest",
+        "@conken-oss-pkgs/eslint-config": "latest",
+        "@conken-oss-pkgs/frontend-react-emotion": "latest",
+        "@conken-oss-pkgs/tsconfig": "latest"
+    }
+}

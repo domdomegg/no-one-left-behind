@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_piv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pivale/nuxt-image-loader-module": "latest",
+        "@pivee/say-hello": "latest",
+        "@pivoda/cna-template": "latest",
+        "@pivoda/create-nuxt-app": "latest",
+        "@pivoda/my-first-package": "latest",
+        "@pivot-interactives/ffmpeg": "latest",
+        "@pivotal-tools/atom-languageclient-commons": "latest",
+        "@pivotal-tools/commons-vscode": "latest",
+        "@pivotal-tools/jvm-launch-utils": "latest",
+        "@pivotal-tools/pipeline-builder": "latest",
+        "@pivotal-tools/theia-bosh": "latest",
+        "@pivotal-tools/theia-cf-manifest-yaml": "latest",
+        "@pivotal-tools/theia-concourse": "latest",
+        "@pivotal-tools/theia-languageclient": "latest",
+        "@pivotal-tools/theia-spring-boot": "latest",
+        "@pivotmade/slate-tools": "latest",
+        "@pivoto/core": "latest",
+        "@pivoto/mock": "latest",
+        "@pivotshare/avails": "latest",
+        "@pivotsurveys/widget": "latest",
+        "@pivvenit/mysql-import": "latest"
+    }
+}

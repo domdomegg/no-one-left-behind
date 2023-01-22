@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-prh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "prh": "latest",
+        "prh-languageserver": "latest",
+        "prh-ui": "latest",
+        "prhfi-bis": "latest",
+        "prho": "latest",
+        "prhone-gui": "latest",
+        "prhone-log": "latest",
+        "prhone-mdb": "latest",
+        "prhone-scp": "latest",
+        "prhone-tools": "latest",
+        "prhone-utils": "latest",
+        "prhttp": "latest",
+        "prhttp-react": "latest",
+        "prhttp-vue": "latest"
+    }
+}

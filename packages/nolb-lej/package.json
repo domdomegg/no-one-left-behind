@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-lej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lej": "latest",
+        "lej1o": "latest",
+        "lejdash": "latest",
+        "lejla": "latest",
+        "lejonify": "latest",
+        "lejoy-lott-main": "latest",
+        "leju-cdn": "latest",
+        "leju-cli": "latest",
+        "leju-combo": "latest",
+        "leju-wx-jssdk-config": "latest",
+        "leju-wx-vod-uploader": "latest",
+        "lejucaptcha": "latest",
+        "lejuesf": "latest"
+    }
+}

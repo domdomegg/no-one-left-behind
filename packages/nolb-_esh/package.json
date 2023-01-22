@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_esh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@esh-js/api-provider": "latest",
+        "@esh2n/hello-wasm": "latest",
+        "@esh2n/wasm": "latest",
+        "@esh2n/wasm-game-of-life": "latest",
+        "@eshaanmathur/data-utilities": "latest",
+        "@eshaker/babel-preset": "latest",
+        "@eshan1799/unitconverter": "latest",
+        "@eshaz/web-worker": "latest",
+        "@eshengsky/vue-card-swipe": "latest",
+        "@eshepelyuk/semantic-release-helm-oci": "latest",
+        "@eshlox/gatsby-theme-axii": "latest",
+        "@eshoppily/ui-component": "latest",
+        "@eshopping/helper-package": "latest",
+        "@eshreder/api-provider": "latest",
+        "@eshreder/jwt-client": "latest",
+        "@eshwarenm/nodash": "latest"
+    }
+}

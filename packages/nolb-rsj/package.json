@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-rsj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rsj": "latest",
+        "rsjs": "latest",
+        "rsjs-client": "latest",
+        "rsjs-config": "latest",
+        "rsjs-server": "latest",
+        "rsjs-server-graphql": "latest"
+    }
+}

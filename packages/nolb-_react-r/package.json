@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_react-r",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@react-rangers/stateful": "latest",
+        "@react-ratel/core": "latest",
+        "@react-redux-fetch/core": "latest",
+        "@react-redux-fetch/fetch-request-handler": "latest",
+        "@react-redux-fetch/hooks": "latest",
+        "@react-redux-ria/redux-list": "latest",
+        "@react-reggae/mylib": "latest",
+        "@react-renderer/app": "latest",
+        "@react-renderer/router": "latest",
+        "@react-resources/common-representation": "latest",
+        "@react-resources/common-semantic": "latest",
+        "@react-resources/common-ui": "latest",
+        "@react-resources/core": "latest",
+        "@react-resources/data-feathers": "latest",
+        "@react-resources/data-feathers-redux": "latest",
+        "@react-resources/data-memory": "latest",
+        "@react-resources/resources": "latest",
+        "@react-reusable/hooks": "latest",
+        "@react-routable/core": "latest",
+        "@react-routable/plugin-preload": "latest",
+        "@react-routable/plugin-relay-entrypoints": "latest",
+        "@react-run/app": "latest",
+        "@react-rxjs/core": "latest",
+        "@react-rxjs/dom": "latest",
+        "@react-rxjs/utils": "latest"
+    }
+}

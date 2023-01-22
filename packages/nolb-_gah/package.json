@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_gah",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gah/cli": "latest",
+        "@gah/e2e-plugin": "latest",
+        "@gah/eslint-plugin": "latest",
+        "@gah/formatting-plugin": "latest",
+        "@gah/json-config-plugin": "latest",
+        "@gah/shared": "latest",
+        "@gah/test-plugin": "latest",
+        "@gahabeen/flexsearch": "latest",
+        "@gahabeen/linkedlist": "latest",
+        "@gahing/vcontextmenu": "latest"
+    }
+}

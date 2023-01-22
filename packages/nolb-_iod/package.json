@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_iod",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@iodigital/vite-plugin-msw": "latest",
+        "@iodigital/vite-plugin-prism": "latest",
+        "@iodp/geodesc-common": "latest",
+        "@iodp/geodesc-login": "latest",
+        "@iodp/geodesc-theme": "latest",
+        "@iodp/iodp-common": "latest",
+        "@iodp/iodp-login": "latest",
+        "@iodp/iodp-theme": "latest",
+        "@iodp/material-color-constants": "latest",
+        "@iods/dark-cli": "latest",
+        "@iods/darkjs": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_openv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@openvasp/contracts": "latest",
+        "@openveo/api": "latest",
+        "@openveo/core": "latest",
+        "@openveo/devices-api": "latest",
+        "@openveo/manage": "latest",
+        "@openveo/player": "latest",
+        "@openveo/portal": "latest",
+        "@openveo/publish": "latest",
+        "@openveo/rest-nodejs-client": "latest",
+        "@openveo/test": "latest",
+        "@openvtb/admiral-icons": "latest",
+        "@openvtb/fonts": "latest",
+        "@openvtb/react-ui-kit": "latest"
+    }
+}

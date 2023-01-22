@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-baset",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "baset": "latest",
+        "baset-baseliner-json": "latest",
+        "baset-baseliner-md": "latest",
+        "baset-cli": "latest",
+        "baset-core": "latest",
+        "baset-env-browser": "latest",
+        "baset-plugin-export": "latest",
+        "baset-plugin-ts": "latest",
+        "baset-reader-babel": "latest",
+        "baset-reader-md": "latest",
+        "baset-reader-ts": "latest",
+        "baset-resolver-pixi": "latest",
+        "baset-resolver-react": "latest",
+        "baset-vm": "latest",
+        "basetable": "latest",
+        "basetag": "latest",
+        "basethinking": "latest",
+        "basetis-navigation-js": "latest",
+        "basetis-styles-css": "latest",
+        "basetm": "latest",
+        "basetools": "latest",
+        "basetorte": "latest",
+        "basetype": "latest"
+    }
+}

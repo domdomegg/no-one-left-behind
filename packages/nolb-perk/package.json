@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-perk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "perk": "latest",
+        "perk-cli": "latest",
+        "perka-job-api": "latest",
+        "perkeep": "latest",
+        "perkins": "latest",
+        "perkinsjs": "latest",
+        "perks-build": "latest",
+        "perks-image-resizer-helper": "latest",
+        "perkulator": "latest",
+        "perkulator-task-mocha": "latest",
+        "perkz": "latest",
+        "perkz-component": "latest",
+        "perkz-proxy": "latest",
+        "perkz-tool": "latest"
+    }
+}

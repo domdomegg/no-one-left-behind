@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-wsi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wsi-challenge": "latest",
+        "wsi-ejs": "latest",
+        "wsi-logger": "latest",
+        "wsi-poc-product-list": "latest",
+        "wsi-slider": "latest",
+        "wsiface": "latest",
+        "wsify": "latest",
+        "wsign": "latest",
+        "wsimple": "latest",
+        "wsindex": "latest",
+        "wsinit": "latest",
+        "wsinstance": "latest",
+        "wsio": "latest",
+        "wsio-mp": "latest",
+        "wsiox": "latest",
+        "wsit": "latest",
+        "wsit1": "latest",
+        "wsite-core": "latest",
+        "wsite-empty-microservice": "latest",
+        "wsite-fake-ms": "latest",
+        "wsite-init-npm": "latest",
+        "wsix": "latest",
+        "wsize-loader": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_veo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@veo/cdm": "latest",
+        "@veobot/eslint-config": "latest",
+        "@veobot/stylelint-config": "latest",
+        "@veonbean/egg-vue-cli": "latest",
+        "@veonim/jsonrpc": "latest",
+        "@veonim/neovim": "latest",
+        "@veonim/neovim-dev": "latest",
+        "@veonim/neovim-linux": "latest",
+        "@veonim/neovim-mac": "latest",
+        "@veonim/neovim-win": "latest",
+        "@veonim/plugin-manager": "latest",
+        "@veonim/ripgrep": "latest",
+        "@veonim/ripgrep-dev": "latest",
+        "@veonim/ripgrep-linux": "latest",
+        "@veonim/ripgrep-mac": "latest",
+        "@veonim/ripgrep-win": "latest"
+    }
+}

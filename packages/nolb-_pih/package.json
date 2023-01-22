@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_pih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pih/esm-legacyui-navbar-app": "latest",
+        "@pih/esm-oncology-patient-status-app": "latest",
+        "@pih/esm-pathology-app": "latest",
+        "@pih/esm-refapp-navbar": "latest",
+        "@pih/esm-refapp-navbar-app": "latest",
+        "@pih/esm-referrals-queue": "latest",
+        "@pih/esm-referrals-queue-app": "latest",
+        "@pih/esm-root-config": "latest",
+        "@pihachu/require-map": "latest",
+        "@pihanga/core": "latest",
+        "@pihanga/draftjs-core": "latest",
+        "@pihanga/draftjs-plugins": "latest",
+        "@pihanga/graphql": "latest",
+        "@pihanga/material-ui": "latest",
+        "@pihanga/recharts": "latest",
+        "@pihorb/npm-react-component-template": "latest",
+        "@pihorb/test-package": "latest"
+    }
+}

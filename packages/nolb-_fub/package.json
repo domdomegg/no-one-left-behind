@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_fub",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fuba/each": "latest",
+        "@fuba/walk": "latest",
+        "@fubaars/color-utility": "latest",
+        "@fubasi/bilibilicomics": "latest",
+        "@fubasi/connector": "latest",
+        "@fubasi/http-connector": "latest",
+        "@fubasi/kkmh": "latest",
+        "@fubaydullaev/nativescript-epub-folio": "latest",
+        "@fubei/web-anime": "latest",
+        "@fubuloubu/silencer": "latest",
+        "@fubztix/common": "latest"
+    }
+}

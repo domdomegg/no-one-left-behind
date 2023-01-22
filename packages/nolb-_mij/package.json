@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_mij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mijatovic123456/custom-button": "latest",
+        "@mijizhe/ansi-escape-sequences": "latest",
+        "@mijizhe/ansi-escapes": "latest",
+        "@mijizhe/ziyan": "latest",
+        "@mijnoverheid/design-tokens": "latest",
+        "@mijo/react-native": "latest",
+        "@mijo/reactjs": "latest",
+        "@mijo/theme": "latest",
+        "@mijs/vue-tree-select": "latest"
+    }
+}

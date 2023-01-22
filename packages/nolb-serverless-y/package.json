@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-serverless-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "serverless-yaml": "latest",
+        "serverless-yaml-local-cloudformation-plugin": "latest",
+        "serverless-yaml2ts": "latest",
+        "serverless-yandex-cloud": "latest",
+        "serverless-yandex-cloud-template": "latest",
+        "serverless-youtube-dl": "latest"
+    }
+}

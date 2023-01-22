@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-prix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "prix": "latest",
+        "prix-fixe": "latest",
+        "prix-module": "latest",
+        "prixa-design": "latest",
+        "prixa-design-kit": "latest",
+        "prixa-design-vue": "latest",
+        "prixa-telemedicine-rn-sdk": "latest",
+        "prixcomponents": "latest",
+        "prixcomponentsdocs": "latest",
+        "prixing-client": "latest",
+        "prixm-lambdas": "latest",
+        "prixy": "latest"
+    }
+}

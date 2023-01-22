@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-apg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "apg": "latest",
+        "apg-api": "latest",
+        "apg-conv": "latest",
+        "apg-conv-api": "latest",
+        "apg-design-system": "latest",
+        "apg-exp": "latest",
+        "apg-github-example": "latest",
+        "apg-html": "latest",
+        "apg-js": "latest",
+        "apg-js-examples": "latest",
+        "apg-lib": "latest",
+        "apge": "latest",
+        "apguerrera_sum": "latest"
+    }
+}

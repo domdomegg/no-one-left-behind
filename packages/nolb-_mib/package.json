@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_mib",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mibao-ui/components": "latest",
+        "@mibble/local-api": "latest",
+        "@mibble/local-client": "latest",
+        "@mibjs/components": "latest",
+        "@mibjs/ctrip-apollo-client": "latest",
+        "@mibjs/plugin-api-service": "latest",
+        "@mibjs/plugin-deploy": "latest",
+        "@mibjs/plugin-mf": "latest",
+        "@mibjs/plugin-sso": "latest",
+        "@mibjs/plugin-theme": "latest",
+        "@mibjs/plugin-ui-helper": "latest",
+        "@mibjs/preset-react": "latest",
+        "@miblanchard/homebridge-big-ass-fans": "latest",
+        "@miblanchard/react-native-slider": "latest",
+        "@mibndc/ndc-layout": "latest",
+        "@mibndc/sac-upload-widget": "latest",
+        "@mibndc/select-from-structure": "latest",
+        "@mibndc/styles": "latest",
+        "@mibndc/table-utils": "latest",
+        "@mibndc/upload": "latest",
+        "@mibndc/utils": "latest",
+        "@mibo/lib-jitsi-meet": "latest",
+        "@miboplatform/lit-starter-js": "latest",
+        "@miboplatform/uikit": "latest",
+        "@mibrito707/cordova-plugin-secure-storage": "latest",
+        "@mibto/meteor-typescript": "latest",
+        "@mibu/ha-mdi": "latest",
+        "@mibu/svelte-inject": "latest"
+    }
+}

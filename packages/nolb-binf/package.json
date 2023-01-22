@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-binf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "binfield-chat-core": "latest",
+        "binfield-chat-core-js": "latest",
+        "binfix": "latest",
+        "binflow": "latest",
+        "binfo-tree-select": "latest",
+        "binford-config": "latest",
+        "binford-err": "latest",
+        "binford-logger": "latest",
+        "binford-slf4j": "latest",
+        "binford-slf4j-adapter": "latest"
+    }
+}

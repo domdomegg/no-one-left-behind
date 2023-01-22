@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-val-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "val-arr": "latest",
+        "val-bot": "latest",
+        "val-cli": "latest",
+        "val-components": "latest",
+        "val-converter123": "latest",
+        "val-design": "latest",
+        "val-discard-destin": "latest",
+        "val-library": "latest",
+        "val-loader": "latest",
+        "val-loader-modernizr": "latest",
+        "val-obj": "latest",
+        "val-path-helper": "latest",
+        "val-stats-tracker": "latest",
+        "val-test": "latest",
+        "val-token": "latest",
+        "val-utils": "latest",
+        "val-vfes-models": "latest",
+        "val-wm": "latest"
+    }
+}

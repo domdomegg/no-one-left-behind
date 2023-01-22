@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-eas-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eas-cli": "latest",
+        "eas-cli-local-build-plugin": "latest",
+        "eas-dtos": "latest",
+        "eas-github-action": "latest",
+        "eas-metadata": "latest",
+        "eas-react-components": "latest",
+        "eas-table": "latest",
+        "eas-test-components": "latest",
+        "eas-test-plugin-components": "latest",
+        "eas-test-test-components": "latest",
+        "eas-try-components": "latest"
+    }
+}

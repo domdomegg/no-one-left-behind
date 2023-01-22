@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-crf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "crf": "latest",
+        "crf-cli": "latest",
+        "crf-heat-map": "latest",
+        "crf-trader-web-descktop": "latest",
+        "crf-types": "latest",
+        "crf-ui": "latest",
+        "crf-user-sys": "latest",
+        "crf-utils": "latest",
+        "crf-workflow-designer": "latest",
+        "crf_upload": "latest",
+        "crfe": "latest",
+        "crflow-app-models": "latest",
+        "crflow-app-services": "latest",
+        "crfrsr-react-scripts": "latest",
+        "crfs": "latest",
+        "crfsa-core": "latest",
+        "crfsa-core-module": "latest",
+        "crfsa_module_settings": "latest",
+        "crfsuite": "latest",
+        "crfsuite-js": "latest"
+    }
+}

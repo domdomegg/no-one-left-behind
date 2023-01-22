@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-awsa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "awsamplify-pushnotification-216-androidx": "latest",
+        "awsapigateway": "latest",
+        "awsapigetalien": "latest",
+        "awsass": "latest",
+        "awsauce-lib": "latest",
+        "awsauth": "latest"
+    }
+}

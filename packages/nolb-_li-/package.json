@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_li-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@li-cli-dev/core": "latest",
+        "@li-cli-dev/utils": "latest",
+        "@li-tickets/common": "latest",
+        "@li-yinan/citics": "latest",
+        "@li-yinan/wechat": "latest"
+    }
+}

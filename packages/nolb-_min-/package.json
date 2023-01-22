@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_min-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@min-echart/echart-radar-only": "latest",
+        "@min-gb/vuejs-components": "latest",
+        "@min-html/core": "latest",
+        "@min-html/js": "latest",
+        "@min-kim/lion-lib": "latest",
+        "@min-loyalty/vue-element-table": "latest",
+        "@min-pack/core-js-modern": "latest",
+        "@min-pack/firebase-admin-verify-id-token": "latest",
+        "@min-pack/firebase-auth": "latest",
+        "@min-pack/npm": "latest",
+        "@min-pack/ssh2": "latest"
+    }
+}

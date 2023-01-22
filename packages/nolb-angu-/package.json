@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-angu-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "angu-cli": "latest",
+        "angu-complete": "latest",
+        "angu-data": "latest",
+        "angu-fixed-header-table": "latest",
+        "angu-salessdk": "latest",
+        "angu-sdk": "latest",
+        "angu-tree-view": "latest"
+    }
+}

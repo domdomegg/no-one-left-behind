@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-readp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "readpath": "latest",
+        "readpdfhbaigorria": "latest",
+        "readperms": "latest",
+        "readpkg-lit": "latest",
+        "readplist": "latest",
+        "readpost": "latest",
+        "readpro_zhang_hengjia": "latest",
+        "readpsd": "latest"
+    }
+}

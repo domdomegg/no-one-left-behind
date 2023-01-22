@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-eventu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "EventUtil": "latest",
+        "eventual": "latest",
+        "eventual-data": "latest",
+        "eventual-pony": "latest",
+        "eventual-result": "latest",
+        "eventual-schema": "latest",
+        "eventual-sdk": "latest",
+        "eventual-stream": "latest",
+        "eventual-values": "latest",
+        "eventuality": "latest",
+        "eventualize": "latest",
+        "eventuate": "latest",
+        "eventuate-aws-gateway-serverless-plugin": "latest",
+        "eventuate-chainable": "latest",
+        "eventuate-core": "latest",
+        "eventuate-filter": "latest",
+        "eventuate-map": "latest",
+        "eventuate-next": "latest",
+        "eventuate-once": "latest",
+        "eventuate-reduce": "latest",
+        "eventuate-stream": "latest",
+        "eventuate-tram-core-nodejs": "latest",
+        "eventum-machinius": "latest",
+        "eventum-ui-components": "latest",
+        "eventus": "latest",
+        "eventusjs": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-vsm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vsm": "latest",
+        "vsm-autocomplete": "latest",
+        "vsm-box": "latest",
+        "vsm-dictionary": "latest",
+        "vsm-dictionary-bioportal": "latest",
+        "vsm-dictionary-cacher": "latest",
+        "vsm-dictionary-combiner": "latest",
+        "vsm-dictionary-complex-portal": "latest",
+        "vsm-dictionary-ensembl": "latest",
+        "vsm-dictionary-ensembl-genomes": "latest",
+        "vsm-dictionary-local": "latest",
+        "vsm-dictionary-neo": "latest",
+        "vsm-dictionary-pubmed": "latest",
+        "vsm-dictionary-rnacentral": "latest",
+        "vsm-dictionary-uniprot": "latest",
+        "vsm-json-pretty": "latest",
+        "vsm-pubdictionaries": "latest",
+        "vsm-to-rdf": "latest",
+        "vsmarketplace-api": "latest",
+        "vsmart": "latest",
+        "vsmf": "latest",
+        "vsmod": "latest",
+        "vsmvc": "latest"
+    }
+}

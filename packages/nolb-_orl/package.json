@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_orl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@orland0x/sx": "latest",
+        "@orland0x/sx-core": "latest",
+        "@orland_dev/boomer": "latest",
+        "@orlandohohmeier/caller": "latest",
+        "@orlenka/streak-counter": "latest",
+        "@orlov_vo/prettier-plugin-svelte": "latest",
+        "@orloxx/cpc": "latest",
+        "@orloxx/ui-core": "latest",
+        "@orlserg32112/socket-test-vulndep": "latest",
+        "@orlyn/big": "latest"
+    }
+}

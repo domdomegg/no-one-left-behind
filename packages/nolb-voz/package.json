@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-voz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "voz": "latest",
+        "voz-api": "latest",
+        "voziq": "latest",
+        "vozmimp3": "latest",
+        "voznyy_module": "latest",
+        "vozrr-custom-module": "latest"
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-axx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "axx": "latest",
+        "axx-cli": "latest",
+        "axx-common": "latest",
+        "axx-crud": "latest",
+        "axx-design": "latest",
+        "axx-element-ui": "latest",
+        "axx-log-sdk": "latest",
+        "axx-naotu-sdk": "latest",
+        "axx-slide-game-sdk": "latest",
+        "axx-slide-sdk": "latest",
+        "axx-slide-shape-sdk": "latest",
+        "axx-ui": "latest",
+        "axx_test001": "latest",
+        "axxd": "latest",
+        "axxer": "latest",
+        "axxes-frontend-masterclass": "latest",
+        "axxiom-react": "latest",
+        "axxioos": "latest",
+        "axxios": "latest",
+        "axxon": "latest",
+        "axxon-cli": "latest",
+        "axxstestpublish": "latest"
+    }
+}

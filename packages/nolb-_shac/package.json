@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_shac",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shacharm/fibonacci_numbers": "latest",
+        "@shack-js/auto-routes-loader": "latest",
+        "@shack-js/cli": "latest",
+        "@shack-js/loader-fetch": "latest",
+        "@shack-js/runner-express": "latest",
+        "@shack-js/template-repo": "latest",
+        "@shackijj/karma-cbt-launcher": "latest",
+        "@shackijj/vpaid-html5-client": "latest",
+        "@shackijj/wdio-mocha-framework": "latest",
+        "@shackijj/wdio-static-server-service": "latest",
+        "@shackijj/wdio-sync": "latest",
+        "@shackijj/webdriverio": "latest",
+        "@shackpank/node-pushnotifications": "latest",
+        "@shackpank/truman": "latest"
+    }
+}

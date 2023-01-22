@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-oph",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ophan-tracker-js": "latest",
+        "opharris": "latest",
+        "ophelia": "latest",
+        "ophelialib": "latest",
+        "ophidian": "latest",
+        "ophiomormous": "latest",
+        "ophion": "latest",
+        "ophiuchus": "latest",
+        "ophooks": "latest"
+    }
+}

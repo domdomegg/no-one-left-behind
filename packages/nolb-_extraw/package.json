@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_extraw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@extrawallet/contract-metadata": "latest",
+        "@extrawallet/controllers": "latest",
+        "@extrawallet/eth-ledger-bridge-keyring": "latest",
+        "@extrawallet/eth-token-tracker": "latest",
+        "@extrawallet/etherscan-link": "latest",
+        "@extrawallet/jazzicon": "latest",
+        "@extrawallet/logo": "latest",
+        "@extrawallet/obs-store": "latest",
+        "@extrawallet/post-message-stream": "latest",
+        "@extrawallet/providers": "latest",
+        "@extrawest/extra-clarity": "latest",
+        "@extrawest/firebase-chat-list-component": "latest",
+        "@extrawest/service-worker-generator": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-d6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "d6": "latest",
+        "d6.5": "latest",
+        "d64": "latest",
+        "d64-filter": "latest",
+        "d67-bar": "latest",
+        "d67-foo": "latest",
+        "d6t": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-cce",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cce": "latest",
+        "cce-campaign": "latest",
+        "cce-cl": "latest",
+        "cce-cli": "latest",
+        "cce-library-comps": "latest",
+        "cce-sahred-comps": "latest",
+        "cce-survey-results": "latest",
+        "cce-task-routing": "latest",
+        "cce-unified-config": "latest",
+        "cceb": "latest",
+        "cceditbox": "latest",
+        "cceditor": "latest",
+        "cceffects": "latest",
+        "ccement-bos-cli": "latest",
+        "ccencisoj-map-object": "latest",
+        "ccenter": "latest",
+        "ccep-update-cli": "latest",
+        "ccer-sdk": "latest",
+        "ccex-api": "latest",
+        "ccex-realtime-api": "latest",
+        "ccexample": "latest"
+    }
+}

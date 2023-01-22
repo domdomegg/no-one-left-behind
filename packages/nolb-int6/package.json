@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-int6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "int64": "latest",
+        "int64-buffer": "latest",
+        "int64-convert": "latest",
+        "int64-napi": "latest",
+        "int64-native": "latest",
+        "int64-native-node12": "latest",
+        "int64-transform": "latest",
+        "int64_t": "latest",
+        "int64be": "latest",
+        "int64string2uint64string": "latest"
+    }
+}

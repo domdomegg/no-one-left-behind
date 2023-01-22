@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-i7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "i7": "latest",
+        "i74ifa-icons": "latest",
+        "i78s.frontend-utils": "latest",
+        "i78s.sass-debug-helper": "latest",
+        "i78s.validatejs": "latest",
+        "i7e-ui": "latest"
+    }
+}

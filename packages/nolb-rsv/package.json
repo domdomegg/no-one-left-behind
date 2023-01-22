@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-rsv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rsv": "latest",
+        "rsv-fv": "latest",
+        "rsv-fv-teste": "latest",
+        "rsv-signature": "latest",
+        "rsv-teste": "latest",
+        "rsv_npm": "latest",
+        "rsvbee-generate-memorable-password": "latest",
+        "rsvbee-react-datetime-picker": "latest",
+        "rsvg": "latest",
+        "rsvg-brunch": "latest",
+        "rsvg-convert-aws-lambda-binary": "latest",
+        "rsvg-path": "latest",
+        "rsvg-rosette": "latest",
+        "rsvg-webpack-plugin": "latest",
+        "rsvn-core-lib": "latest",
+        "rsvnmvp-commons-lib": "latest",
+        "rsvnode": "latest",
+        "rsvp": "latest",
+        "rsvp-backlog": "latest",
+        "rsvp-cli": "latest",
+        "rsvp-externs": "latest",
+        "rsvp-me": "latest",
+        "rsvp-that-works": "latest",
+        "rsvp-throttle": "latest",
+        "rsvp-tools": "latest",
+        "rsvuep": "latest"
+    }
+}

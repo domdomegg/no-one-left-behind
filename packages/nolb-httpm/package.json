@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-httpm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "httpman": "latest",
+        "httpmd5": "latest",
+        "httpmetrics": "latest",
+        "httpmirror": "latest",
+        "httpmock": "latest",
+        "httpmocker": "latest",
+        "httpmoji": "latest",
+        "httpmongodb": "latest",
+        "httpmq": "latest"
+    }
+}

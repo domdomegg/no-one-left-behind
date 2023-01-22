@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-depi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "depict": "latest",
+        "depict.io": "latest",
+        "depicts-whole-number": "latest",
+        "depie": "latest",
+        "depijp": "latest",
+        "depin": "latest",
+        "depined": "latest",
+        "depinfo": "latest",
+        "depinj": "latest",
+        "depinj-express": "latest",
+        "depinj-js": "latest",
+        "depinject": "latest",
+        "depints": "latest"
+    }
+}

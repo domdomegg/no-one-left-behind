@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_stof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stofe/sui-collect-select": "latest",
+        "@stofe/sui-navigation": "latest",
+        "@stoffberg.dev/create-t3svelte-app": "latest",
+        "@stoffeastrom/aurelia-bundle": "latest",
+        "@stoffelio/tailwind-flexible-typography": "latest",
+        "@stoffler/tiny": "latest",
+        "@stofloos/swc-style-layout-flex": "latest",
+        "@stofloos/swc-visual-newkpi": "latest"
+    }
+}

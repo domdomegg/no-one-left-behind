@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-angus",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "angus": "latest",
+        "angus-chaincode": "latest",
+        "angus-cli": "latest",
+        "angus-npm": "latest",
+        "angus-router": "latest",
+        "angus-sdk-js": "latest",
+        "angus-ui": "latest",
+        "angus-vue-emoji": "latest",
+        "angus_package": "latest",
+        "angusangusangus": "latest",
+        "angusoft-auth": "latest",
+        "angusoft-oauth2": "latest",
+        "angust": "latest"
+    }
+}

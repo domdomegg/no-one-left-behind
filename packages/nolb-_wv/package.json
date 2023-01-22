@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_wv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wvbe/enigma-machine": "latest",
+        "@wvbe/eslint-config": "latest",
+        "@wvbe/jsdoc-to-tsdoc": "latest",
+        "@wvbe/prettify-xml": "latest",
+        "@wvcode/algo": "latest",
+        "@wvcode/cli": "latest",
+        "@wvcode/gsheet-wrapper": "latest",
+        "@wvcode/requests": "latest",
+        "@wvcode/sm-wrapper": "latest",
+        "@wvcode/utils": "latest",
+        "@wvelte/cookie": "latest",
+        "@wvelte/wvelte": "latest",
+        "@wviveiro/ajaxform": "latest",
+        "@wviveiro/gitchecker": "latest",
+        "@wviveiro/react-cordova": "latest",
+        "@wvolcano/vue-form-create": "latest",
+        "@wvr/core": "latest",
+        "@wvr/elements": "latest",
+        "@wvr/tl-elements": "latest",
+        "@wvs/uicomponent": "latest",
+        "@wvtickets/common": "latest",
+        "@wvw/preppy": "latest"
+    }
+}

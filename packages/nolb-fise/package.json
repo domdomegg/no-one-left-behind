@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-fise",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fiserv-dev-sdk": "latest",
+        "fiserv-fancy-fields": "latest",
+        "fiserv-offers-and-boarding-sdk": "latest",
+        "fiserv-test": "latest",
+        "fiserv-test1": "latest",
+        "fiserv-test2": "latest"
+    }
+}

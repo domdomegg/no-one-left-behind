@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_kuv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kuveytturk/boa-base": "latest",
+        "@kuveytturk/boa-components": "latest",
+        "@kuveytturk/boa-utils": "latest",
+        "@kuvira/fingerprint": "latest",
+        "@kuvira/npmtest": "latest",
+        "@kuviraio/pckg": "latest"
+    }
+}

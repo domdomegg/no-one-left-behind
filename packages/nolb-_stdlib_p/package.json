@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_stdlib_p",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stdlib/plot": "latest",
+        "@stdlib/process": "latest",
+        "@stdlib/process-argv": "latest",
+        "@stdlib/process-chdir": "latest",
+        "@stdlib/process-cwd": "latest",
+        "@stdlib/process-env": "latest",
+        "@stdlib/process-exec-path": "latest",
+        "@stdlib/process-getegid": "latest",
+        "@stdlib/process-geteuid": "latest",
+        "@stdlib/process-getgid": "latest",
+        "@stdlib/process-getuid": "latest",
+        "@stdlib/process-node-version": "latest",
+        "@stdlib/process-read-stdin": "latest",
+        "@stdlib/process-umask": "latest",
+        "@stdlib/proxy": "latest",
+        "@stdlib/proxy-ctor": "latest"
+    }
+}

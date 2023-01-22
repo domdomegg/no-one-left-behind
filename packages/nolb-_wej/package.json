@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_wej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wejay/spotify": "latest",
+        "@wejay/spotify-client": "latest",
+        "@wejay/spotify-playlist": "latest",
+        "@wejay/spotify-search": "latest",
+        "@wejay/spotify-track": "latest",
+        "@wejay/spotify-utils": "latest",
+        "@wejee-lego-cli/cli": "latest",
+        "@wejee-lego-cli/command": "latest",
+        "@wejee-lego-cli/exec": "latest",
+        "@wejee-lego-cli/format-path": "latest",
+        "@wejee-lego-cli/get-npm-info": "latest",
+        "@wejee-lego-cli/init": "latest",
+        "@wejee-lego-cli/log": "latest",
+        "@wejee-lego-cli/package": "latest",
+        "@wejee-lego-cli/request": "latest",
+        "@wejee-lego-cli/utils": "latest"
+    }
+}

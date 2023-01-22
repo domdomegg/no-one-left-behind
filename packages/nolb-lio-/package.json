@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-lio-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lio-9090": "latest",
+        "lio-cli": "latest",
+        "lio-fast-cache": "latest",
+        "lio-fe-util": "latest",
+        "lio-github-example": "latest",
+        "lio-imooc-cli-dev": "latest",
+        "lio-imooc-test": "latest",
+        "lio-imooc-test-lib": "latest",
+        "lio-lib": "latest",
+        "lio-lib-abc": "latest",
+        "lio-lib_1": "latest",
+        "lio-tdi-client": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-vue-cli-plugin-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cli-plugin-g": "latest",
+        "vue-cli-plugin-geelato": "latest",
+        "vue-cli-plugin-generate": "latest",
+        "vue-cli-plugin-generate-build-id": "latest",
+        "vue-cli-plugin-generatererouter": "latest",
+        "vue-cli-plugin-generatererouter-pw": "latest",
+        "vue-cli-plugin-generator": "latest",
+        "vue-cli-plugin-generators": "latest",
+        "vue-cli-plugin-geosens": "latest",
+        "vue-cli-plugin-gh-pages": "latest",
+        "vue-cli-plugin-gh-pages-auto-deploy": "latest",
+        "vue-cli-plugin-git-describe": "latest",
+        "vue-cli-plugin-git-log": "latest",
+        "vue-cli-plugin-gitee-extensions": "latest",
+        "vue-cli-plugin-github-amplify": "latest",
+        "vue-cli-plugin-global-config": "latest",
+        "vue-cli-plugin-glui": "latest",
+        "vue-cli-plugin-go-webview": "latest",
+        "vue-cli-plugin-groot": "latest",
+        "vue-cli-plugin-gtest": "latest",
+        "vue-cli-plugin-guardian": "latest"
+    }
+}

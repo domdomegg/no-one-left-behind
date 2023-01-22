@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-ng2t",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "NG2TableView": "latest",
+        "ng2t-test": "latest",
+        "ng2test1": "latest",
+        "ng2testttt": "latest",
+        "ng2train": "latest",
+        "ng2tree-common": "latest"
+    }
+}

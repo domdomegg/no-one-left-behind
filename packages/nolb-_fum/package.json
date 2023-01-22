@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_fum",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fumblewit/pdfjs": "latest",
+        "@fumeboy/relax": "latest",
+        "@fumerman/form-builder": "latest",
+        "@fumuyun/fmyapp-ui": "latest",
+        "@fumuyun/fmyweb-ui": "latest"
+    }
+}

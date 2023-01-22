@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_ecm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ecmacommunity/hapi-darwin": "latest",
+        "@ecmake/ecmake": "latest",
+        "@ecmanager/ecmanager-cms-dashboard": "latest",
+        "@ecmanager/ecmanager-cms-widgets": "latest",
+        "@ecmanote/local-api": "latest",
+        "@ecmanote/local-client": "latest",
+        "@ecmas/nextline": "latest",
+        "@ecmascript_monorepo_template/npm_package_javascript_library": "latest",
+        "@ecmascript_monorepo_template/npm_package_typescript_library": "latest",
+        "@ecmaservegames/host": "latest",
+        "@ecmendenhall/ds-test": "latest",
+        "@ecmendenhall/forge-std": "latest",
+        "@ecmpvr/swagger-to-ts": "latest",
+        "@ecmwf.int/app-template": "latest",
+        "@ecmwf.int/chart-browser": "latest",
+        "@ecmwf.int/single-page-charts": "latest"
+    }
+}

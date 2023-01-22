@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-me4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "me4": "latest",
+        "me40321-database": "latest",
+        "me4ealsmith": "latest"
+    }
+}

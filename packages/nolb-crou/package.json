@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-crou",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "crouch": "latest",
+        "croud-forms": "latest",
+        "croud-frontend": "latest",
+        "croud-layout": "latest",
+        "croud-style-guide": "latest",
+        "croud-vue-gantt": "latest",
+        "croud-vue-semantic": "latest",
+        "croudia": "latest",
+        "croudsourced-combos-food-id-lookup": "latest",
+        "croudtech-nodejs-aws-app-config": "latest",
+        "crount": "latest",
+        "croupier": "latest",
+        "crous-api-client": "latest",
+        "crous-api-types": "latest",
+        "croustibit": "latest",
+        "croute": "latest",
+        "crouton": "latest",
+        "croutons": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-fireh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "firehash": "latest",
+        "firehoce": "latest",
+        "firehook": "latest",
+        "firehook-node-api": "latest",
+        "firehooks": "latest",
+        "firehose": "latest",
+        "firehose-client": "latest",
+        "firehose-collector": "latest",
+        "firehose-helper": "latest",
+        "firehose-publisher": "latest",
+        "firehose-writer": "latest",
+        "firehoser": "latest",
+        "firehoser_es5": "latest",
+        "firehouse": "latest"
+    }
+}

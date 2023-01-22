@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-ui-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ui-handbook-pkg": "latest",
+        "ui-handbook-uikit": "latest",
+        "ui-harness": "latest",
+        "ui-harness.common": "latest",
+        "ui-harness.ui": "latest",
+        "ui-header-case": "latest",
+        "ui-helper": "latest",
+        "ui-helper-modules": "latest",
+        "ui-hippo": "latest",
+        "ui-hope": "latest",
+        "ui-huanbi-v13": "latest",
+        "ui-hub": "latest",
+        "ui-huhy-modify-zhedie-area": "latest",
+        "ui-hyphae": "latest"
+    }
+}

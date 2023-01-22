@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_aiu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aiueb/auth": "latest",
+        "@aiueb/fflogs": "latest",
+        "@aiueb/utils": "latest",
+        "@aiueb/verify": "latest",
+        "@aiui/ai-bottombar": "latest",
+        "@aiui/ai-btn": "latest",
+        "@aiui/ai-core": "latest",
+        "@aiui/ai-drawer": "latest",
+        "@aiui/ai-form": "latest",
+        "@aiui/ai-icon": "latest",
+        "@aiui/ai-loader": "latest",
+        "@aiui/ai-modal": "latest",
+        "@aiui/ai-overlay": "latest",
+        "@aiui/ai-snackbar": "latest",
+        "@aiui/ai-toolbar": "latest",
+        "@aiuia/svg.panzoom.js": "latest",
+        "@aiuna/my-first-lib": "latest"
+    }
+}

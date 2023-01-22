@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-onen",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "onename": "latest",
+        "onename-api": "latest",
+        "onename_dev": "latest",
+        "onenb": "latest",
+        "oneness": "latest",
+        "onenet-lbs": "latest",
+        "onenet-nodejs-sdk": "latest",
+        "onenet-passport": "latest",
+        "onenet_pushmsg_decode": "latest",
+        "onenetstudio-api-node-sdk": "latest",
+        "onenode": "latest",
+        "onenote": "latest",
+        "onenote-api": "latest",
+        "onenote-deeplink-parser": "latest",
+        "onenoteapi": "latest",
+        "onenotepicker": "latest",
+        "onenpm": "latest",
+        "onenpmbao": "latest",
+        "onenpmoneone": "latest"
+    }
+}

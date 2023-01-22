@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_code0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@code0987/example-angular-library": "latest",
+        "@code0x2/huff": "latest",
+        "@code0x2/web3extend": "latest"
+    }
+}

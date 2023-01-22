@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-test-pa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-test-pac": "latest",
+        "@zalastax/nolb-test-pad": "latest",
+        "@zalastax/nolb-test-pag": "latest",
+        "@zalastax/nolb-test-pah": "latest",
+        "@zalastax/nolb-test-pai": "latest",
+        "@zalastax/nolb-test-pak": "latest",
+        "@zalastax/nolb-test-pal": "latest",
+        "@zalastax/nolb-test-pan": "latest",
+        "@zalastax/nolb-test-pao": "latest",
+        "@zalastax/nolb-test-paq": "latest",
+        "@zalastax/nolb-test-par": "latest",
+        "@zalastax/nolb-test-pas": "latest",
+        "@zalastax/nolb-test-pat": "latest",
+        "@zalastax/nolb-test-pau": "latest",
+        "@zalastax/nolb-test-paw": "latest",
+        "@zalastax/nolb-test-pay": "latest"
+    }
+}

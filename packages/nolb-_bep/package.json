@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_bep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bepasquet/dynamic-form": "latest",
+        "@bephant/eslint-config": "latest",
+        "@beplus/be": "latest",
+        "@bepo65/dayjs-demo-submodule": "latest",
+        "@bepo65/leaflet.fullscreen": "latest",
+        "@bepo65/leaflet.markercluster": "latest",
+        "@bepo65/license-report": "latest",
+        "@bepo65/mat-tristate-checkbox": "latest",
+        "@bepremeg/demopackage": "latest",
+        "@bepro-company/bepro-design-system": "latest",
+        "@bepstein/jupyterlab_splicetheme": "latest"
+    }
+}

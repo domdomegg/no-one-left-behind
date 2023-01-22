@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_alh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alhaddadammar/lotide": "latest",
+        "@alhadis/eslint-config": "latest",
+        "@alhaqhassan/wallet-kit": "latest",
+        "@alhdo/simple-image": "latest",
+        "@alheimsins/acos-innsyn": "latest",
+        "@alheimsins/b5-50-ipip-neo-pi-r": "latest",
+        "@alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r": "latest",
+        "@alheimsins/b5-johnson-120-ipip-neo-pi-r": "latest",
+        "@alheimsins/b5-result-text": "latest",
+        "@alheimsins/bigfive-calculate-score": "latest",
+        "@alheimsins/bmw-is-connected-to-charger": "latest",
+        "@alheimsins/calculate-cheapest-charging-schedule": "latest",
+        "@alheimsins/dager-fra-dato": "latest",
+        "@alheimsins/kor-client": "latest",
+        "@alheimsins/p360": "latest",
+        "@alheimsins/pdf-make": "latest",
+        "@alheimsins/react-google-charts": "latest",
+        "@alheimsins/tibber-get-price-info": "latest",
+        "@alheimsins/uker-fra-dato": "latest",
+        "@alheimsins/virkedager": "latest",
+        "@alheimsins/webquality": "latest",
+        "@alheimsins/zaptec-go-start-stop": "latest",
+        "@alhena/components": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-embi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "embibe-component-library": "latest",
+        "embiggen": "latest",
+        "embin-": "latest",
+        "embin-darwin": "latest",
+        "embin-linux": "latest",
+        "embittered": "latest"
+    }
+}

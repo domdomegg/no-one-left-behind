@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-msu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "msu": "latest",
+        "msu-cli": "latest",
+        "msu-js": "latest",
+        "msub": "latest",
+        "msui": "latest",
+        "msui-build": "latest",
+        "msuite-vue": "latest",
+        "msup": "latest",
+        "msurisetty-lib-example": "latest",
+        "msurisetty-mylib-example": "latest",
+        "msurisetty001-lib-service-example": "latest",
+        "msuryawanshi-frame-print": "latest",
+        "msutil": "latest",
+        "msutkowski-experimental-msw": "latest",
+        "msuxf": "latest"
+    }
+}

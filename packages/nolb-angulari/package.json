@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-angulari",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "angularic-ionicon": "latest",
+        "angularify": "latest",
+        "angularindexeddb": "latest",
+        "angularindiasvgmap": "latest",
+        "angularinput": "latest",
+        "angulario-number-input": "latest",
+        "angularis": "latest",
+        "angularise": "latest",
+        "angularisempty": "latest",
+        "angularity": "latest",
+        "angularity-build-task": "latest",
+        "angularity-jshint-reporter": "latest",
+        "angularize-wp": "latest"
+    }
+}

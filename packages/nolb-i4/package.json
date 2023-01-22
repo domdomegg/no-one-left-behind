@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-i4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "i4": "latest",
+        "i40": "latest",
+        "i40-aas-objects": "latest",
+        "i40xx-asm": "latest",
+        "i4i": "latest",
+        "i4i-main": "latest",
+        "i4im-components": "latest",
+        "i4k-find": "latest",
+        "i4m1k0su": "latest",
+        "i4q-dependencytrack": "latest",
+        "i4spin": "latest",
+        "i4t-forms": "latest"
+    }
+}

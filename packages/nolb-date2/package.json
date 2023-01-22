@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-date2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "date2": "latest",
+        "date2.js": "latest",
+        "date2block": "latest",
+        "date2buffer": "latest",
+        "date2calendar": "latest",
+        "date2cron": "latest",
+        "date2data": "latest",
+        "date2doy": "latest",
+        "date2imap": "latest",
+        "date2iso": "latest",
+        "date2json": "latest",
+        "date2literalstring": "latest",
+        "date2mysqlformat": "latest",
+        "date2obj": "latest",
+        "date2string": "latest",
+        "date2timestamp": "latest"
+    }
+}

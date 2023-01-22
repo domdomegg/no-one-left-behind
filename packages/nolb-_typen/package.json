@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_typen",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@typen/bool": "latest",
+        "@typen/enum-check-levels": "latest",
+        "@typen/enum-data-types": "latest",
+        "@typen/enum-object-types": "latest",
+        "@typen/enum-tabular-types": "latest",
+        "@typen/enums": "latest",
+        "@typen/infer-type": "latest",
+        "@typen/literal": "latest",
+        "@typen/nullish": "latest",
+        "@typen/num-loose": "latest",
+        "@typen/num-strict": "latest",
+        "@typen/numeral": "latest",
+        "@typen/typ": "latest",
+        "@typen/vector-type": "latest",
+        "@typenetwork/compass-importer": "latest",
+        "@typenetwork/compass-mixins": "latest",
+        "@typenode/agenda": "latest",
+        "@typenode/fetch-blob": "latest",
+        "@typenode/ioc": "latest",
+        "@typenode/node-fetch": "latest",
+        "@typenode/oauth2": "latest",
+        "@typenode/parse-cloud": "latest",
+        "@typenode/parse-server": "latest",
+        "@typenode/routing-controllers": "latest"
+    }
+}

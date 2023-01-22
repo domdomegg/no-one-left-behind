@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-asv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "asv": "latest",
+        "asv-dec-greet": "latest",
+        "asv-hlps": "latest",
+        "asv-hlps-css": "latest",
+        "asv-hlps-models": "latest",
+        "asv-hlps-pharma": "latest",
+        "asv-hlps-react": "latest",
+        "asv-hlps-store": "latest",
+        "asv-ui": "latest",
+        "asva-double-panel": "latest",
+        "asva-executors": "latest",
+        "asva-helpers": "latest",
+        "asva-vue-filters": "latest",
+        "asva-vue-modules": "latest",
+        "asventitag": "latest",
+        "asvn": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-clf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clf": "latest",
+        "clf-date": "latest",
+        "clf-deploy": "latest",
+        "clf-lambda-definition-2-postman-collection": "latest",
+        "clf-npm-thanh": "latest",
+        "clf-package": "latest",
+        "clf-parser": "latest",
+        "clf-product-card": "latest",
+        "clf_glumeter_server_api": "latest",
+        "clf_web_client_api": "latest",
+        "clfdemonpm": "latest",
+        "clfl": "latest",
+        "clfn": "latest",
+        "clformcontrols": "latest",
+        "clfu": "latest",
+        "clfunction": "latest"
+    }
+}

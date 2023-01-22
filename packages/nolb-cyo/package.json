@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-cyo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cyo": "latest",
+        "cyo-cli": "latest",
+        "cyoalexa": "latest",
+        "cyonutils": "latest",
+        "cyou-big-number": "latest",
+        "cyou-i18n": "latest",
+        "cyou-mbi": "latest",
+        "cyou-safe-get": "latest",
+        "cyourai-vue-dialog": "latest",
+        "cyourai-vue-json-editor": "latest",
+        "cyourai-vue-json-group": "latest",
+        "cyourai-vue-sku": "latest",
+        "cyourai-vue-tinymce": "latest"
+    }
+}

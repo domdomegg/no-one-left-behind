@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_asf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@asfal/mongoose-services": "latest",
+        "@asfandsh/rn-buttons": "latest",
+        "@asfandsh/rn-setup": "latest",
+        "@asfandsh/rn-theme-provider": "latest",
+        "@asfktz/cancelable": "latest",
+        "@asfris/resatypejs": "latest",
+        "@asfrom30/aop": "latest",
+        "@asfrom30/test-utils": "latest",
+        "@asfrom30/vue-component": "latest",
+        "@asfsl/cubu-elements": "latest",
+        "@asftickets/common": "latest",
+        "@asfweb/grpc-session": "latest",
+        "@asfy/rn-inputs": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-ds4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ds4": "latest",
+        "ds4-listener": "latest",
+        "ds4biz-cli": "latest",
+        "ds4biz-components": "latest",
+        "ds4biz-core": "latest",
+        "ds4biz-core-v2": "latest",
+        "ds4biz-hooks": "latest",
+        "ds4ds": "latest",
+        "ds4js": "latest"
+    }
+}

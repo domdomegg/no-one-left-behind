@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-thj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thj": "latest",
+        "thj-cli": "latest",
+        "thj-webpack-template": "latest",
+        "thj-webview-js-bridge": "latest",
+        "thjs": "latest",
+        "thjs-polyfillsd": "latest",
+        "thjsg-component-set": "latest"
+    }
+}

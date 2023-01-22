@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-coloru",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "colorui": "latest",
+        "colorui-cutheme": "latest",
+        "colorui-for-uniapp": "latest",
+        "colorui-theme": "latest",
+        "colorui-vue": "latest",
+        "coloruicss": "latest",
+        "colorum": "latest",
+        "colorupdate": "latest",
+        "colorutil": "latest",
+        "colorutilities": "latest",
+        "colorutility": "latest"
+    }
+}

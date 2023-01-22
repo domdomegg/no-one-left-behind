@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_prok",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@prokey-io/eth-prokey-keyring": "latest",
+        "@prokey-io/webcore": "latest",
+        "@prokopschield/argv": "latest",
+        "@prokopschield/base64": "latest",
+        "@prokopschield/filefind": "latest",
+        "@prokopschield/hexedit": "latest",
+        "@prokopschield/lvksh-logger": "latest",
+        "@prokopschield/matrix-ts": "latest",
+        "@prokopschield/mmap": "latest",
+        "@prokopschield/nstore": "latest",
+        "@prokopschield/password-generator": "latest",
+        "@prokopschield/registry": "latest",
+        "@prokopschield/scheduler": "latest",
+        "@prokopschield/semaphore": "latest",
+        "@prokopschield/simple-storage-server": "latest",
+        "@prokopschield/stdio": "latest",
+        "@prokopschield/stream-chunker": "latest",
+        "@prokopschield/website-screenshot": "latest"
+    }
+}

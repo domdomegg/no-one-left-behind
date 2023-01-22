@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-hapij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hapijs-ajv": "latest",
+        "hapijs-generator": "latest",
+        "hapijs-mongoose-rate-limit": "latest",
+        "hapijs-namespace": "latest",
+        "hapijs-node-postgres": "latest",
+        "hapijs-oidc-jwks-strategy": "latest",
+        "hapijs-react-views": "latest",
+        "hapijs-starter": "latest",
+        "hapijs-status-monitor": "latest"
+    }
+}

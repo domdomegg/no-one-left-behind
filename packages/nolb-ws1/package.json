@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-ws1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ws1-admin": "latest",
+        "ws1-sdk-react-native": "latest",
+        "ws12.9": "latest",
+        "ws18014-poe-hat": "latest"
+    }
+}

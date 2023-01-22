@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_ionr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ionre/editor": "latest",
+        "@ionre/html-gen": "latest",
+        "@ionre/linara": "latest",
+        "@ionre/lisp": "latest",
+        "@ionre/noise": "latest",
+        "@ionre/q-rand": "latest",
+        "@ionre/repl": "latest",
+        "@ionre/signal": "latest",
+        "@ionre/stream": "latest",
+        "@ionre/tree-editor": "latest",
+        "@ionre/utils": "latest",
+        "@ionre/warp-core": "latest",
+        "@ionre/xml-gen": "latest"
+    }
+}

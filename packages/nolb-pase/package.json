@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-pase",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "paseos": "latest",
+        "paservan-seo": "latest",
+        "paseto": "latest",
+        "paseto-browser": "latest",
+        "paseto-passport": "latest",
+        "paseto.js": "latest",
+        "pasetohlvl": "latest"
+    }
+}

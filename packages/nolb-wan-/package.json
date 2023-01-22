@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-wan-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wan-cli": "latest",
+        "wan-design-skill": "latest",
+        "wan-dex-sdk-wallet": "latest",
+        "wan-drawer": "latest",
+        "wan-flow": "latest",
+        "wan-lib": "latest",
+        "wan-mobile": "latest",
+        "wan-rand-fun": "latest",
+        "wan-rand-function": "latest",
+        "wan-server-line": "latest",
+        "wan-test": "latest",
+        "wan-ti-1": "latest",
+        "wan-trezor-keyring": "latest",
+        "wan-ui": "latest",
+        "wan-ui-2": "latest",
+        "wan-use": "latest",
+        "wan-web-wallet": "latest",
+        "wan-wns-namehash": "latest",
+        "wan-xui-design": "latest"
+    }
+}

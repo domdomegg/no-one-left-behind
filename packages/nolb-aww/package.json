@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-aww",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aww": "latest",
+        "aww-its-a-template": "latest",
+        "awwl": "latest",
+        "awwood": "latest",
+        "awws-client-lib-web": "latest",
+        "awwsm-react": "latest",
+        "awwwards": "latest",
+        "awwwards-best-of": "latest",
+        "awwwards-of-the-day": "latest",
+        "awwwards-stream": "latest"
+    }
+}

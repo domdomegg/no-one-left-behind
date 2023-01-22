@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-prc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "prc": "latest",
+        "prc-node-lib": "latest",
+        "prc.wangyc": "latest",
+        "prcalculator": "latest",
+        "prcek-ds-sample": "latest",
+        "prcek_pouchdb": "latest",
+        "prcheck": "latest",
+        "prchive": "latest",
+        "prcl": "latest",
+        "prclt-eslint-config": "latest",
+        "prcolinter": "latest",
+        "prcoords": "latest",
+        "prcore": "latest",
+        "prcosta": "latest",
+        "prcp": "latest",
+        "prcptv-account-helpers-module": "latest",
+        "prcptv-e2e-tests": "latest",
+        "prcptv-shared-types": "latest",
+        "prcptv-utils-module": "latest",
+        "prctv-e2e-tests": "latest",
+        "prctv-e2e-tests-utils": "latest",
+        "prcyjs": "latest"
+    }
+}

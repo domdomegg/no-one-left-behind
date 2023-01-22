@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-iny",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "iny": "latest",
+        "iny-bus": "latest",
+        "iny-router": "latest",
+        "iny-utils": "latest",
+        "iny-weapp": "latest",
+        "inyaa-import-components": "latest",
+        "inyaa-marked": "latest",
+        "inyaa-tocbot": "latest",
+        "inyaa-vue-components": "latest",
+        "inyad-design-system": "latest",
+        "inyad-design-system-k": "latest",
+        "inyector": "latest",
+        "inyourarea-deconstruct-api": "latest",
+        "inyourface": "latest"
+    }
+}

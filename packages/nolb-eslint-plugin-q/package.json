@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-eslint-plugin-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslint-plugin-qg": "latest",
+        "eslint-plugin-qi-react-intl": "latest",
+        "eslint-plugin-qinqubo": "latest",
+        "eslint-plugin-qjconfig": "latest",
+        "eslint-plugin-qml-js": "latest",
+        "eslint-plugin-quasar": "latest",
+        "eslint-plugin-quasarv1": "latest",
+        "eslint-plugin-query": "latest",
+        "eslint-plugin-queue-it-connectors": "latest",
+        "eslint-plugin-quick-prettier": "latest",
+        "eslint-plugin-quintoandar": "latest",
+        "eslint-plugin-qunar": "latest",
+        "eslint-plugin-qunit": "latest",
+        "eslint-plugin-qunit-dom": "latest",
+        "eslint-plugin-qwik": "latest",
+        "eslint-plugin-qx": "latest",
+        "eslint-plugin-qx-rules": "latest"
+    }
+}

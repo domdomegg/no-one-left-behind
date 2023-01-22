@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_dsp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dspacenet/maude": "latest",
+        "@dspacenet/sculp-parser": "latest",
+        "@dspacetools/web": "latest",
+        "@dspacev-bundle/highlight.js": "latest",
+        "@dspacev-bundle/openlayers": "latest",
+        "@dspacev-bundle/pinia": "latest",
+        "@dspacev-bundle/swiper": "latest",
+        "@dspacev-bundle/vant": "latest",
+        "@dspacev-bundle/vue-json-editor": "latest",
+        "@dspacev-bundle/vue3": "latest",
+        "@dsplay/react-template-components": "latest",
+        "@dsplay/react-template-utils": "latest",
+        "@dsplay/template-utils": "latest",
+        "@dsplce-co/feather-icons": "latest",
+        "@dspm/dspm-api": "latest",
+        "@dsps/client": "latest",
+        "@dspworkplace/ui": "latest"
+    }
+}

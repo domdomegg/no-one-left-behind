@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_re_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@re.d_beard./react-fonticonpicker": "latest",
+        "@re/mp4pssh": "latest",
+        "@re_point/re-react-page-slides": "latest",
+        "@re_point/react-carousel": "latest",
+        "@re_point/react-page-slides": "latest",
+        "@re_point/wavesurfer": "latest"
+    }
+}

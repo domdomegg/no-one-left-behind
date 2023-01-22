@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-gulpy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gulpy": "latest",
+        "gulpy-boiler-add-task-target": "latest",
+        "gulpy-boiler-config": "latest",
+        "gulpy-boiler-core": "latest",
+        "gulpy-boiler-lazy-task": "latest",
+        "gulpy-boiler-load-plugins": "latest",
+        "gulpy-boiler-require-dir": "latest",
+        "gulpy-boiler-task-ava": "latest",
+        "gulpy-boiler-task-eslint": "latest",
+        "gulpy-boiler-utils": "latest",
+        "gulpyostcss": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-lode",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lode": "latest",
+        "lode-more-tk": "latest",
+        "lode-types": "latest",
+        "lodef": "latest",
+        "lodepng": "latest",
+        "loder": "latest",
+        "loderr": "latest",
+        "lodestar": "latest",
+        "lodestar-ractive": "latest",
+        "lodestar-router": "latest",
+        "lodestone": "latest",
+        "lodestone-news": "latest",
+        "lodestone-parser": "latest",
+        "lodestonejs": "latest",
+        "lodex": "latest",
+        "lodex-processing": "latest",
+        "lodex-update-model": "latest",
+        "lodex-widget": "latest",
+        "lodex-widgets": "latest",
+        "lodey-table": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-loj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "loj": "latest",
+        "loja": "latest",
+        "loja-documentos": "latest",
+        "loja-integrada-deploy-tool": "latest",
+        "lojack": "latest",
+        "lojadelivros-ds": "latest",
+        "lojascem-ui-kit": "latest",
+        "lojban": "latest",
+        "lojects": "latest",
+        "lojects-dynamodb": "latest",
+        "lojic": "latest",
+        "lojk-ui": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-thm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thm": "latest",
+        "thm-api": "latest",
+        "thm-rentalmanagement-gv-md-pickers": "latest",
+        "thm-rm-gv-angular-cron-jobs": "latest",
+        "thm-rm-gv-angular-editor": "latest",
+        "thmaa": "latest",
+        "thmb": "latest",
+        "thmclrx": "latest",
+        "thmmy": "latest",
+        "thmmy-utils": "latest",
+        "thmsltmnn-ng-jhipster": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_m5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@m50_tickets/common": "latest",
+        "@m59/compose-middleware": "latest",
+        "@m59/disposer": "latest",
+        "@m59/error-cereal": "latest",
+        "@m59/fetch": "latest",
+        "@m59/gerbv-bin": "latest",
+        "@m59/qs": "latest",
+        "@m59/reload-client": "latest",
+        "@m59/reload-server": "latest",
+        "@m59/remove-directory": "latest",
+        "@m59/tap-parser": "latest",
+        "@m59/use-tmp-dir": "latest",
+        "@m59/workerize": "latest",
+        "@m59/yaml-to-json": "latest",
+        "@m5c/redux-action-creator": "latest",
+        "@m5d215/ts-omit": "latest",
+        "@m5r/adhan-ts": "latest",
+        "@m5r/eventsource-polyfill": "latest",
+        "@m5r/gatsby-transformer-blurhash": "latest",
+        "@m5r/quirrel": "latest",
+        "@m5r/react-awesome-toasts": "latest",
+        "@m5r/react-native-datepicker": "latest",
+        "@m5r/remix-auth": "latest"
+    }
+}

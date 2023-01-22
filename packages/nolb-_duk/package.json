@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_duk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dukaan/cli": "latest",
+        "@dukaan/dukaan-sdk": "latest",
+        "@dukanify/nuxt-multiple-facebook-pixel-module": "latest",
+        "@dukazzcruz/rn-pos-print": "latest",
+        "@duke-office-research-informatics/dracs": "latest",
+        "@dukeferdinand/ts-results": "latest",
+        "@dukeferdinand/ts-utils": "latest",
+        "@dukefun/js-auth": "latest",
+        "@dukefun/js-ext": "latest",
+        "@dukefun/mui-components": "latest",
+        "@dukefun/react-scripts": "latest",
+        "@dukenicols/cra-template-dynamic-dashboard": "latest",
+        "@dukes-wine/eslint-config-dukes-wine": "latest",
+        "@dukes-wine/js-log-library": "latest",
+        "@duketest111/calc": "latest",
+        "@dukethegiant/get-website-favicon": "latest",
+        "@dukkanjs/cli": "latest",
+        "@dukman/photouploader": "latest",
+        "@dukous/di": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-rch",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rch": "latest",
+        "rch-frame-print": "latest",
+        "rch-lib": "latest",
+        "rchain-api": "latest",
+        "rchain-client-api": "latest",
+        "rchain-token": "latest",
+        "rchain-toolkit": "latest",
+        "rchars": "latest",
+        "rchat": "latest",
+        "rchat-web-client": "latest",
+        "rchat-web-client-sdk": "latest",
+        "rchatreact": "latest",
+        "rcheck-ts": "latest",
+        "rchive-type": "latest",
+        "rchuluc-create-component": "latest",
+        "rchunk": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_aliz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alizain/coconut": "latest",
+        "@alizain/fsdb": "latest",
+        "@alizeait/flatto": "latest",
+        "@alizeait/unflatto": "latest",
+        "@alizeait/use-debounce": "latest",
+        "@alizeait/uuid": "latest",
+        "@aliziakhan52/authhelper": "latest",
+        "@alizurchik/ts-mixin": "latest",
+        "@alizw/debug-es5": "latest",
+        "@alizw/tesseract": "latest",
+        "@alizw/tesseract-extras": "latest",
+        "@alizw/ultron-buy": "latest",
+        "@alizw/ultron-buy-core": "latest",
+        "@alizw/ultron-core": "latest"
+    }
+}

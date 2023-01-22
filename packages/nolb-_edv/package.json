@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_edv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@edvinas108/parcel-bundler": "latest",
+        "@edvisor/product-language": "latest",
+        "@edvnz/blurwidget": "latest",
+        "@edvnz/bottom-sheet": "latest",
+        "@edvnz/circular-progress": "latest",
+        "@edvnz/components": "latest",
+        "@edvnz/container": "latest",
+        "@edvnz/native-icons": "latest",
+        "@edvnz/provider": "latest",
+        "@edvnz/refresh-control": "latest",
+        "@edvnz/skeletons": "latest",
+        "@edvnz/textinput": "latest",
+        "@edvnz/theme": "latest",
+        "@edvnz/utils": "latest"
+    }
+}

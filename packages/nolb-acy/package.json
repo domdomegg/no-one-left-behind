@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-acy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "acy": "latest",
+        "acy-jira-gui": "latest",
+        "acy-jira-gui-only-compiled": "latest",
+        "acyang97-lion": "latest",
+        "acyclic": "latest",
+        "acyclic-steps": "latest",
+        "acyclicgraph": "latest",
+        "acyclicgraph-webcomponents": "latest",
+        "acyclovir": "latest",
+        "acydienmwkjkltrp": "latest",
+        "acyort": "latest",
+        "acyort-donob-renderer": "latest",
+        "acyort-plugin-fetch-issues": "latest",
+        "acyort-plugin-ghpages": "latest",
+        "acyort-plugin-npm-state": "latest",
+        "acyort-plugin-rss": "latest",
+        "acyort-server": "latest",
+        "acyort-templates-donob-plus": "latest",
+        "acyort-toc": "latest",
+        "acyort-util-md": "latest"
+    }
+}

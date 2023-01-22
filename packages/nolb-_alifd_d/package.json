@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_alifd_d",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alifd/deep-template": "latest",
+        "@alifd/doc-parser": "latest",
+        "@alifd/document-client": "latest",
+        "@alifd/dpl-next-default": "latest",
+        "@alifd/dpl-www-test": "latest",
+        "@alifd/dpl-youlutest2-template": "latest",
+        "@alifd/dts-generator": "latest"
+    }
+}

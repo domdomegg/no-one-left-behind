@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-ws2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ws2111-gf": "latest",
+        "ws21_22": "latest",
+        "ws2801": "latest",
+        "ws2801-alexa": "latest",
+        "ws2801-client": "latest",
+        "ws2801-connect": "latest",
+        "ws2801-pi": "latest",
+        "ws2801-pi-webserver": "latest",
+        "ws2801-pi-webserver-client": "latest",
+        "ws2801-webserver": "latest",
+        "ws2812-pi": "latest",
+        "ws2812draw": "latest",
+        "ws281x-pi4": "latest",
+        "ws281x-spi": "latest",
+        "ws2mpd": "latest",
+        "ws2mqtt": "latest",
+        "ws2tcp": "latest",
+        "ws2tcp-proxy": "latest"
+    }
+}

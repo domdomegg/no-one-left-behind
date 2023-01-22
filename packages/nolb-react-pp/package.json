@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-pp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-PPT": "latest",
+        "react-pp-tc": "latest",
+        "react-ppi-sudoku": "latest",
+        "react-ppk": "latest",
+        "react-ppm": "latest",
+        "react-ppt": "latest",
+        "react-pptx": "latest"
+    }
+}

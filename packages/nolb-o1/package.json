@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-o1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "o1": "latest",
+        "o1-buliding": "latest",
+        "o11y": "latest",
+        "o11y-test1": "latest",
+        "o11y_schema": "latest",
+        "o18k-ts-aws": "latest",
+        "o18n": "latest"
+    }
+}

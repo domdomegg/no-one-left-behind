@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-dbw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dbw": "latest",
+        "dbw-chat": "latest",
+        "dbw-ui": "latest",
+        "dbwalker": "latest",
+        "dbweb-common": "latest",
+        "dbweb-core": "latest",
+        "dbweb-module-webpack-config": "latest",
+        "dbwebapi-client": "latest",
+        "dbwrkr": "latest",
+        "dbwrkr-mongodb": "latest",
+        "dbwrkr-pg": "latest",
+        "dbwrkr-rethinkdb": "latest"
+    }
+}

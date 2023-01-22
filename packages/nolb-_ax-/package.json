@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_ax-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ax-components/coupon-modal": "latest",
+        "@ax-design/acrylic": "latest",
+        "@ax-design/elevation": "latest",
+        "@ax-design/navigation": "latest",
+        "@ax-design/pressure": "latest",
+        "@ax-design/reveal-highlight": "latest"
+    }
+}

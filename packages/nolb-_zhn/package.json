@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_zhn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zhnoah/react-pagination": "latest",
+        "@zhnoah/react-pin": "latest",
+        "@zhnoah/react.pagination": "latest",
+        "@zhnoah/ztsts": "latest",
+        "@zhny/antd-comps": "latest",
+        "@zhny/antd-overided-css": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-smf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smf": "latest",
+        "smf-deep-diff": "latest",
+        "smf-dialog": "latest",
+        "smf-manifest-parser": "latest",
+        "smf-nw": "latest",
+        "smf-rbox-helper": "latest",
+        "smf-util": "latest",
+        "smf-web": "latest",
+        "smf-xcode": "latest",
+        "smf-xmlmerge-js": "latest",
+        "smf2notenumber": "latest",
+        "smfchat": "latest",
+        "smfdates": "latest",
+        "smfeeder": "latest",
+        "smfgen": "latest",
+        "smfjcvkwqbigrpkt": "latest",
+        "smfw": "latest"
+    }
+}

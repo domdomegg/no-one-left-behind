@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-randomu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "randomuppercase": "latest",
+        "randomuser": "latest",
+        "randomuser-json-export": "latest",
+        "randomuserme": "latest",
+        "randomusernames": "latest",
+        "randomuuid": "latest"
+    }
+}

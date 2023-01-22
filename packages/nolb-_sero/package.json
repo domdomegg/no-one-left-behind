@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_sero",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sero.run/sero": "latest",
+        "@serodigital/hedgehog-api-client": "latest",
+        "@serodigital/ies-api-client": "latest",
+        "@serodigital/national-grid-api-client": "latest",
+        "@serodigital/octopus-api-client": "latest",
+        "@serodigital/passport-api-client": "latest",
+        "@serodigital/pathways-gql-typings": "latest",
+        "@serodigital/sero-life-api-client": "latest",
+        "@serodigital/whs-api-client": "latest",
+        "@seromenho/material-table": "latest",
+        "@serosystems/leaflet-canvas-marker": "latest",
+        "@serotonin/chat": "latest",
+        "@serotonin/components": "latest",
+        "@serotonin/mojito-components": "latest"
+    }
+}

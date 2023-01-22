@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-hyn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hyn-lib": "latest",
+        "hyn_myset_1023": "latest",
+        "hync": "latest",
+        "hynetwork": "latest",
+        "hynfo": "latest",
+        "hynn-plugins": "latest",
+        "hynsmodule": "latest",
+        "hyntax": "latest",
+        "hyntax-yx": "latest",
+        "hynu-echarts": "latest",
+        "hynvue": "latest"
+    }
+}

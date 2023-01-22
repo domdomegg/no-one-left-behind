@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_gep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@geph/angular": "latest",
+        "@geph/common": "latest",
+        "@geph/common-backend": "latest",
+        "@geph/core": "latest",
+        "@geph/ionic": "latest",
+        "@geph/mongoose": "latest",
+        "@geph/serializable": "latest",
+        "@geph/sqlite": "latest",
+        "@geppettoengine/geppetto-client": "latest",
+        "@geprog/eslint-config": "latest",
+        "@geprog/gringotts-client": "latest",
+        "@geprog/gringotts-payments-client": "latest",
+        "@geprog/node-migrate-ts": "latest",
+        "@geprog/oauth-mock-server": "latest",
+        "@geprog/semantic-release-config": "latest",
+        "@geprog/use-feathers": "latest",
+        "@geprog/vite-plugin-env-config": "latest",
+        "@geps/geofs-types": "latest"
+    }
+}

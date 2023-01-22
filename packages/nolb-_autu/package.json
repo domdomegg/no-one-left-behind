@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_autu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@autume/sdk_test": "latest",
+        "@autumnblaze/bot-framework": "latest",
+        "@autumnblaze/coloured-ui-addon": "latest",
+        "@autumnblaze/eslint-config-h": "latest",
+        "@autumnblaze/ramda": "latest",
+        "@autumnblaze/webpack-chain": "latest",
+        "@autumnrowan/levensort": "latest",
+        "@auturge/config-resolver": "latest",
+        "@auturge/expect-cwd": "latest",
+        "@auturge/json-trim": "latest",
+        "@auturge/logger": "latest",
+        "@auturge/testing": "latest",
+        "@autushka/next-translate": "latest"
+    }
+}

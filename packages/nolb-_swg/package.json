@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_swg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@swg-cli-dev/command": "latest",
+        "@swg-cli-dev/core": "latest",
+        "@swg-cli-dev/exec": "latest",
+        "@swg-cli-dev/format-path": "latest",
+        "@swg-cli-dev/get-npm-info": "latest",
+        "@swg-cli-dev/init": "latest",
+        "@swg-cli-dev/log": "latest",
+        "@swg-cli-dev/package": "latest",
+        "@swg-cli-dev/utils": "latest",
+        "@swg-cli/cli": "latest",
+        "@swg-cli/command": "latest",
+        "@swg-cli/core": "latest",
+        "@swg-cli/exec": "latest",
+        "@swg-cli/get-npm-info": "latest",
+        "@swg-cli/init": "latest",
+        "@swg-cli/log": "latest",
+        "@swg-cli/package": "latest",
+        "@swg-cli/update": "latest",
+        "@swg-plugins/auto-api": "latest",
+        "@swg-plugins/auto-router": "latest",
+        "@swg-plugins/auto-uni-pages": "latest",
+        "@swg-template/admin": "latest",
+        "@swg-template/h5": "latest",
+        "@swg-template/uniapp": "latest",
+        "@swgoh-tools/comlink": "latest",
+        "@swgoh-utils/comlink": "latest",
+        "@swgrhck/scroll-monitor": "latest"
+    }
+}

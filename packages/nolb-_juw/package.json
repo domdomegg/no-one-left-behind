@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_juw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@juwa/ckeditor5-build-balloon-block": "latest",
+        "@juweber99/vigee-contract-abi": "latest",
+        "@juweber99/vigee-wallet-connector": "latest"
+    }
+}

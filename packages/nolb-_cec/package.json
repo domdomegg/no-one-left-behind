@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_cec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cec-commons/loading-panel": "latest",
+        "@cec-commons/sample": "latest",
+        "@cecalc/analisador-de-texto": "latest",
+        "@cecalc/utils": "latest",
+        "@cecdata-fe/create-tpl": "latest",
+        "@cecdata-fe/create-vue": "latest",
+        "@cece_eaze/dynamit-cli": "latest",
+        "@cecigiu2b/date-utils": "latest",
+        "@cecigiu2b/dropdown-menu": "latest",
+        "@cecigiu2b/dropdown-menu-react": "latest",
+        "@cecigiu2b/drowpdown-menu": "latest",
+        "@cecigiu2b/test1": "latest",
+        "@cecil_gymlib/screen_components": "latest",
+        "@cecil_su/dog-cli": "latest",
+        "@ceciliabdev/customselect": "latest",
+        "@ceciliabdev/react-modal": "latest",
+        "@ceciliabdev/react_modal": "latest",
+        "@ceciliaysy/lotide": "latest",
+        "@cecon-pub/envelope": "latest",
+        "@cecore/react-useform": "latest",
+        "@cecuima-lerna/core": "latest",
+        "@cecuima-lerna/utils": "latest",
+        "@cecy/use-clipboard": "latest"
+    }
+}

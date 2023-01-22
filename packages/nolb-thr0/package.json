@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-thr0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thr0ttle": "latest",
+        "thr0w-api": "latest",
+        "thr0w-client-module": "latest"
+    }
+}

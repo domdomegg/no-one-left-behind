@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-restp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "restpack": "latest",
+        "restpi": "latest",
+        "restpki-client": "latest",
+        "restpkicore-client": "latest",
+        "restpkicore-client-typescript": "latest",
+        "restponse": "latest",
+        "restpress": "latest",
+        "restpresso": "latest",
+        "restproxy": "latest"
+    }
+}

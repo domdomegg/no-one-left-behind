@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-gow",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gow": "latest",
+        "gowall": "latest",
+        "gowasm-runtime": "latest",
+        "goweb": "latest",
+        "gowebsecure": "latest",
+        "gowebsecure-react": "latest",
+        "gowen123-frame-print": "latest",
+        "gowento-image": "latest",
+        "gowento-logger": "latest",
+        "gowhere": "latest",
+        "gowiththeflow": "latest",
+        "gown": "latest",
+        "gown-beat": "latest",
+        "gown.js": "latest",
+        "gowod_interview_types": "latest",
+        "gowork": "latest",
+        "gowork-cli": "latest",
+        "gowork_common": "latest",
+        "gowritest": "latest",
+        "gowsps-js": "latest",
+        "gowtham-calendar": "latest",
+        "gowtham-initial": "latest",
+        "gowtham-node-app": "latest",
+        "gowtham-sample-library-1": "latest",
+        "gowtham-wc": "latest",
+        "gowtham_monaco": "latest",
+        "gowthamfsmod": "latest",
+        "gowthi123k": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-react-p5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-p5": "latest",
+        "react-p5-cli": "latest",
+        "react-p5-components": "latest",
+        "react-p5-fiber": "latest",
+        "react-p5-wrapper": "latest"
+    }
+}

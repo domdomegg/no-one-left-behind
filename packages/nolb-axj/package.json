@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-axj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "axj": "latest",
+        "axj-ab_": "latest",
+        "axj-gw-js": "latest",
+        "axj-test-return": "latest",
+        "axj_lru_map": "latest",
+        "axjs": "latest"
+    }
+}

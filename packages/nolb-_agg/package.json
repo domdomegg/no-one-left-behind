@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_agg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aggarwaldev/martian": "latest",
+        "@aggelia/client": "latest",
+        "@aggelia/client-js": "latest",
+        "@aggprakhar1/wasm-pack-npm": "latest",
+        "@aggre/ullr": "latest",
+        "@aggregate-intellect/firepad": "latest",
+        "@aggregator/geo-js": "latest",
+        "@aggregator/mn-validation": "latest",
+        "@aggregator/number-to-word": "latest",
+        "@aggregatorio/core": "latest",
+        "@aggregion/agg-bundle": "latest",
+        "@aggregion/agg-bundle-service": "latest",
+        "@aggregion/agg-cli": "latest",
+        "@aggregion/agr-client": "latest",
+        "@aggregion/agrjs": "latest",
+        "@aggregion/agrjs-ecc": "latest",
+        "@aggregion/binary-filter": "latest",
+        "@aggregion/blockchain-mq": "latest",
+        "@aggregion/dmp-contracts": "latest",
+        "@aggregion/enclave-core": "latest",
+        "@aggregion/enclave-script-api": "latest",
+        "@aggregion/gold-record-find": "latest",
+        "@aggregion/mongo-like-query-to-sql": "latest",
+        "@aggregion/mongoose-schema-export": "latest",
+        "@aggregion/sql-builders": "latest",
+        "@aggregion/yaan": "latest",
+        "@aggris2/ssz": "latest",
+        "@aggul/jquery.serializeobject": "latest"
+    }
+}

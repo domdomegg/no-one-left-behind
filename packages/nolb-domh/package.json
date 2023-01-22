@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-domh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "domhammer": "latest",
+        "domhandler": "latest",
+        "domhandler-daily": "latest",
+        "domhandler2": "latest",
+        "domhandler3": "latest",
+        "domheader": "latest",
+        "domhelper": "latest",
+        "domhelpers": "latest",
+        "domhis": "latest"
+    }
+}

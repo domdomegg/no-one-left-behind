@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-docg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "docgen": "latest",
+        "docgen-cli": "latest",
+        "docgen-cli-linux-xsixtyfour": "latest",
+        "docgen-cli-osx-xsixtyfour": "latest",
+        "docgen-cli-win-xsixtyfour": "latest",
+        "docgen-gatsby": "latest",
+        "docgen-lib": "latest",
+        "docgen-loader": "latest",
+        "docgen-nextjs": "latest",
+        "docgen-requirements": "latest",
+        "docgen-to-dts": "latest",
+        "docgen-tool": "latest",
+        "docgen-toolkit": "latest",
+        "docgen-x": "latest",
+        "docgenerator": "latest",
+        "docgennext": "latest",
+        "docgraph": "latest"
+    }
+}

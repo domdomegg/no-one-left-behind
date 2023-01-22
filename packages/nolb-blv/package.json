@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-blv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "blv-frw": "latest",
+        "blvd": "latest",
+        "blvd-cli": "latest",
+        "blvd-client": "latest",
+        "blvd-methods": "latest",
+        "blvd-server": "latest",
+        "blvd-sortable": "latest",
+        "blvd-ui-test": "latest",
+        "blvd-utils": "latest"
+    }
+}

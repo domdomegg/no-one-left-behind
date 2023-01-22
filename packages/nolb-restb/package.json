@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-restb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "restbase": "latest",
+        "restbase-cassandra": "latest",
+        "restbase-mod-table-cassandra": "latest",
+        "restbase-mod-table-isekai-mysql": "latest",
+        "restbase-mod-table-mysql": "latest",
+        "restbase-mod-table-spec": "latest",
+        "restbase-mod-table-sqlite": "latest",
+        "restbase-mod-table-sqlite-ng": "latest",
+        "restbee": "latest",
+        "restberry": "latest",
+        "restberry-errors": "latest",
+        "restberry-express": "latest",
+        "restberry-logger": "latest",
+        "restberry-mongoose": "latest",
+        "restberry-passport": "latest",
+        "restberry-passport-facebook": "latest",
+        "restberry-passport-github": "latest",
+        "restberry-passport-google": "latest",
+        "restberry-passport-local": "latest",
+        "restberry-passport-twitter": "latest",
+        "restberry-restify": "latest",
+        "restberry-utils": "latest",
+        "restbest": "latest",
+        "restbox": "latest",
+        "restbus": "latest"
+    }
+}

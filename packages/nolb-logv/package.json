@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-logv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "logv": "latest",
+        "logvac": "latest",
+        "logvent": "latest",
+        "logview": "latest",
+        "logviewer": "latest",
+        "logviewer.client.toolkit": "latest",
+        "logviewer.lvin": "latest",
+        "logviewer.plugin.ipc": "latest",
+        "logviewer.shell.env": "latest",
+        "logviewernode": "latest",
+        "logviking": "latest",
+        "logvis": "latest",
+        "logvr": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-twir",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "twirchat": "latest",
+        "twiri.js": "latest",
+        "twirl": "latest",
+        "twirl-hbs": "latest",
+        "twirl-js": "latest",
+        "twirler": "latest",
+        "twirp": "latest",
+        "twirp-rpc-client": "latest",
+        "twirp-ts": "latest",
+        "twirpscript": "latest"
+    }
+}

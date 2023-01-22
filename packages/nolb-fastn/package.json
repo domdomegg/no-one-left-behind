@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-fastn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fastn": "latest",
+        "fastn-markdown-component": "latest",
+        "fastn-svg-component": "latest",
+        "fastn-virtual-component": "latest",
+        "fastnews": "latest",
+        "fastng": "latest",
+        "fastnode": "latest",
+        "fastnodejs": "latest",
+        "fastnoise": "latest",
+        "fastnoise-lite": "latest",
+        "fastnoisejs": "latest",
+        "fastnote": "latest"
+    }
+}

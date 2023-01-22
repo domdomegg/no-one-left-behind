@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-sdz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sdz-icons": "latest",
+        "sdz-statorcrime": "latest",
+        "sdzh-commit": "latest",
+        "sdzh-tools": "latest",
+        "sdzy-element": "latest",
+        "sdzy-element-ui": "latest",
+        "sdzz-cli": "latest"
+    }
+}

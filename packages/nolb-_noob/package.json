@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_noob",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@noob-zeroo/chrono-trigger": "latest",
+        "@noob000/noobui": "latest",
+        "@noob0701/common": "latest",
+        "@noob12345/common": "latest",
+        "@noob9527/noob-dict-core": "latest",
+        "@noob9527/noob-dict-ecdict": "latest",
+        "@noob9527/noob-dict-net-engines": "latest",
+        "@noobjsperson/edit-json": "latest",
+        "@noobmdev/lc-middleware-core": "latest",
+        "@noobmdev/lc-middleware_core": "latest",
+        "@noobmdev/lightweight-charts": "latest",
+        "@noobmdev/presale-core": "latest",
+        "@noobshow/react-toastify": "latest",
+        "@noobshow/use-custom-compare": "latest",
+        "@noobtw/ptt-scr": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-nato",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nato": "latest",
+        "nato-alphabet": "latest",
+        "nato-cli": "latest",
+        "nato-pad": "latest",
+        "nato-phonetic": "latest",
+        "nato-phonetic-alphabet": "latest",
+        "natocrypt": "latest",
+        "nator": "latest",
+        "natori": "latest",
+        "natori.proxy": "latest",
+        "natoshka389test": "latest",
+        "natours": "latest",
+        "natours-rony": "latest",
+        "natours-sdk": "latest"
+    }
+}

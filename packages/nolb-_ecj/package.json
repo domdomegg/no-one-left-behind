@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_ecj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ecjia/ecjia-collect": "latest",
+        "@ecjia/ecjia-hook": "latest",
+        "@ecjia/ecjia-timer": "latest",
+        "@ecjia/notification-center": "latest"
+    }
+}

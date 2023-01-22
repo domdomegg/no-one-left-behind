@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-vite-plugin-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vite-plugin-obfuscator": "latest",
+        "vite-plugin-office-addin": "latest",
+        "vite-plugin-on-success": "latest",
+        "vite-plugin-one-code": "latest",
+        "vite-plugin-open-client": "latest",
+        "vite-plugin-open-graph": "latest",
+        "vite-plugin-openfl": "latest",
+        "vite-plugin-openinvscode": "latest",
+        "vite-plugin-optimize-css-modules": "latest",
+        "vite-plugin-optimize-persist": "latest",
+        "vite-plugin-optimizer": "latest",
+        "vite-plugin-oss": "latest",
+        "vite-plugin-oss-asset": "latest"
+    }
+}

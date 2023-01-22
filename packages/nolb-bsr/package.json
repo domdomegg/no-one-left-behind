@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-bsr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bsr-frame-print": "latest",
+        "bsr-tvmaze": "latest",
+        "bsreact2": "latest",
+        "bsrequest": "latest",
+        "bsrp": "latest",
+        "bsrunner": "latest",
+        "bsrx-ui": "latest"
+    }
+}

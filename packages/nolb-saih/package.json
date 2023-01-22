@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-saih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "saihnaa-packages": "latest",
+        "saihruday-first-package": "latest",
+        "saihte": "latest",
+        "saihu": "latest",
+        "saihubot": "latest",
+        "saihubot-cli-adapter": "latest",
+        "saihubot-cli-skill-qrcode": "latest",
+        "saihubot-html-adapter": "latest",
+        "saihubot-react-redux-adapter": "latest",
+        "saihubot-skill-diagnostics": "latest",
+        "saihubot-skill-search": "latest"
+    }
+}

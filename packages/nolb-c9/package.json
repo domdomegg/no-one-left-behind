@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-c9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "C9js": "latest",
+        "c9": "latest",
+        "c9-app": "latest",
+        "c9-map-portal": "latest",
+        "c9-npm_boilerplate": "latest",
+        "c9-react-scripts": "latest",
+        "c9.caniuse": "latest",
+        "c929-music-data": "latest",
+        "c99": "latest",
+        "c9config": "latest",
+        "c9cu-util": "latest",
+        "c9dryice": "latest",
+        "c9ext": "latest",
+        "c9h": "latest",
+        "c9kill": "latest",
+        "c9m": "latest",
+        "c9m-instrument-process-monitor": "latest",
+        "c9m-instrument-server-monitor": "latest",
+        "c9m-sensor-disk-usage": "latest",
+        "c9m-sensor-process-cpu-usage": "latest",
+        "c9m-sensor-process-info": "latest",
+        "c9m-sensor-process-memory": "latest",
+        "c9m-sensor-system-info": "latest",
+        "c9m-sensor-system-memory": "latest",
+        "c9npm": "latest"
+    }
+}

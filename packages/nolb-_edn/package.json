@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_edn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ednagc/ull-shape-ednagc": "latest",
+        "@ednagc/ull-shape-rectangle-ednagc": "latest",
+        "@ednagc/ull-shape-square-ednagc": "latest",
+        "@ednagc/ull-shape-triangle-ednagc": "latest",
+        "@edno/docusaurus2-graphql-doc-generator": "latest",
+        "@edns/sdk": "latest"
+    }
+}

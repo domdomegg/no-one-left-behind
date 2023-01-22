@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-jquery-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jquery-x": "latest",
+        "jquery-xdomainajax": "latest",
+        "jquery-xform": "latest",
+        "jquery-xframe": "latest",
+        "jquery-xhr-to-promise": "latest",
+        "jquery-xhrfilter": "latest",
+        "jquery-xml2json": "latest",
+        "jquery-xmlrpc": "latest",
+        "jquery-xpath": "latest",
+        "jquery-xpath-basic": "latest",
+        "jquery-xtable": "latest"
+    }
+}

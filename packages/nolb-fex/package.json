@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-fex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fex": "latest",
+        "fex-editor": "latest",
+        "fex-footer": "latest",
+        "fex-project": "latest",
+        "fex-react-cli": "latest",
+        "fex-swiper": "latest",
+        "fex-swiper-pro": "latest",
+        "fex-ui": "latest",
+        "fex-util": "latest",
+        "fex.js": "latest",
+        "fexa-utils": "latest",
+        "fexamples": "latest",
+        "fexec": "latest",
+        "fexfetch": "latest",
+        "fexml2json": "latest",
+        "fexr": "latest",
+        "fext": "latest",
+        "fextend": "latest",
+        "fexx": "latest",
+        "fexxxtest": "latest"
+    }
+}

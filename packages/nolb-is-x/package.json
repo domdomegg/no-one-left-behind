@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-is-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "is-x": "latest",
+        "is-x-date": "latest",
+        "is-x-time": "latest",
+        "is-xaea12": "latest",
+        "is-xcf": "latest",
+        "is-xfce": "latest",
+        "is-xhr": "latest",
+        "is-xid": "latest",
+        "is-xlsx": "latest",
+        "is-xml": "latest",
+        "is-xpath": "latest",
+        "is-xxx": "latest",
+        "is-xz": "latest"
+    }
+}

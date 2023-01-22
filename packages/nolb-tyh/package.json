@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-tyh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tyh": "latest",
+        "tyh-cli": "latest",
+        "tyh-ui": "latest",
+        "tyh-ui2": "latest",
+        "tyh-weapp-sdk": "latest",
+        "tyhauekbxfvcwsmo": "latest",
+        "tyhcore": "latest",
+        "tyhdevcli": "latest",
+        "tyhme": "latest",
+        "tyht": "latest",
+        "tyhydtest": "latest"
+    }
+}

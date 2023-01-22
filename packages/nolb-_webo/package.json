@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_webo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@webologie/react-icons": "latest",
+        "@webologie/vue-icons": "latest",
+        "@webonnx/wonnx-wasm": "latest",
+        "@webonyx/atlas-component-library": "latest",
+        "@webonyx/atlas-draft-js": "latest",
+        "@webonyx/atlas-utils": "latest",
+        "@webonyx/client-oauth2-boost": "latest",
+        "@webonyx/draft-js": "latest",
+        "@webonyx/react-apollo": "latest",
+        "@webonyx/react-atlas": "latest",
+        "@webonyx/react-auth": "latest",
+        "@webookrepo/commonp": "latest",
+        "@weboops/core": "latest",
+        "@weborg-io/pagexpress": "latest",
+        "@weborg-io/pagexpress-server": "latest",
+        "@webos/process": "latest",
+        "@webos/timers": "latest",
+        "@webos001/demo": "latest",
+        "@webosbrew/ares-cli-ext": "latest",
+        "@webosbrew/ares-lib": "latest",
+        "@webosbrew/compat-checker": "latest",
+        "@webosbrew/pub-utils": "latest",
+        "@webosose/ares-cli": "latest",
+        "@weboxapps/vue3-autocomplete": "latest"
+    }
+}

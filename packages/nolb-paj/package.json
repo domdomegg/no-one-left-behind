@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-paj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "paj": "latest",
+        "paj-md5.js": "latest",
+        "paja": "latest",
+        "pajama": "latest",
+        "pajama-angular": "latest",
+        "pajama-ssg": "latest",
+        "pajamas": "latest",
+        "pajamas-cli": "latest",
+        "pajarito-fn": "latest",
+        "pajaro": "latest",
+        "pajax": "latest",
+        "pajeet": "latest",
+        "pajeykit": "latest",
+        "paji-cli": "latest",
+        "paji-components": "latest",
+        "paji-sdk-test": "latest",
+        "pajination": "latest",
+        "pajk-lwip": "latest",
+        "pajk_ui": "latest",
+        "pajoohyar-api-driver": "latest",
+        "pajsassl": "latest",
+        "pajsdoc": "latest",
+        "pajv": "latest"
+    }
+}

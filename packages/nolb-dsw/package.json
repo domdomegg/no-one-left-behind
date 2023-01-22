@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-dsw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dsw": "latest",
+        "dsw-layout": "latest",
+        "dsw-layout-item": "latest",
+        "dsw-mq-listener": "latest",
+        "dsw-ruler": "latest",
+        "dsw-server": "latest",
+        "dsw-svelte-mc1": "latest",
+        "dswap-sdk": "latest",
+        "dswarm": "latest",
+        "dswarm-web": "latest",
+        "dswarmd": "latest",
+        "dsweb-cli": "latest",
+        "dsweeper": "latest",
+        "dswext": "latest",
+        "dswserver": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-ima-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ima-ad-player": "latest",
+        "ima-adpcm-decoder": "latest",
+        "ima-babel6-polyfill": "latest",
+        "ima-clientify": "latest",
+        "ima-components-xp": "latest",
+        "ima-examples": "latest",
+        "ima-gulp-task-loader": "latest",
+        "ima-gulp-tasks": "latest",
+        "ima-helpers": "latest",
+        "ima-plugin-analytic": "latest",
+        "ima-plugin-analytic-fb-pixel": "latest",
+        "ima-plugin-analytic-google": "latest",
+        "ima-plugin-halson-rest-client": "latest",
+        "ima-plugin-less-constants": "latest",
+        "ima-plugin-local-storage": "latest",
+        "ima-plugin-managed-component": "latest",
+        "ima-plugin-resource-loader": "latest",
+        "ima-plugin-rest-client": "latest",
+        "ima-plugin-script-loader": "latest",
+        "ima-plugin-select": "latest",
+        "ima-plugin-self-xss": "latest",
+        "ima-plugin-shared-cache": "latest",
+        "ima-plugin-style-loader": "latest",
+        "ima-plugin-useragent": "latest",
+        "ima-plugin-xhr": "latest",
+        "ima-server": "latest",
+        "ima-ui-atoms": "latest",
+        "ima-videojs-ads-player": "latest"
+    }
+}

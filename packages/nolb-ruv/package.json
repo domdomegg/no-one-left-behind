@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-ruv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ruv": "latest",
+        "ruvalter-business-card": "latest",
+        "ruve-angular-oauth2-oidc": "latest",
+        "ruve-ngrx-store-localstorage": "latest"
+    }
+}

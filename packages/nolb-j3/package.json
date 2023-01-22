@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-j3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "j3": "latest",
+        "j3-expr-engine": "latest",
+        "j3-sha3": "latest",
+        "j316-notificator": "latest",
+        "j316-translator": "latest",
+        "j3crypto": "latest",
+        "j3d": "latest",
+        "j3d-npm-sample": "latest",
+        "j3dcesium": "latest",
+        "j3dgis": "latest",
+        "j3dthree": "latest",
+        "j3gb3rt-cordova-plugin-local-notifications": "latest",
+        "j3ng-components": "latest",
+        "j3tinypng": "latest",
+        "j3x-lib01": "latest"
+    }
+}

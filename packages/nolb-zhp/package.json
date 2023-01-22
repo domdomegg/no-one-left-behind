@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-zhp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zhp": "latest",
+        "zhp-cli-demo": "latest",
+        "zhp-dropload": "latest",
+        "zhp-generator": "latest",
+        "zhp-shujuku": "latest",
+        "zhpe-cli": "latest",
+        "zhpkg-demo": "latest",
+        "zhpkg-demo2": "latest",
+        "zhpklk123654": "latest",
+        "zhpui": "latest"
+    }
+}

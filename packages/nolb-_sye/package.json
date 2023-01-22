@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_sye",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@syeadmaaz/react-native-accordion": "latest",
+        "@syed-ahmed/docusaurus-plugin-react-pdf": "latest",
+        "@syed-tickets/common": "latest",
+        "@syed.developer/react-native-circle-slider": "latest",
+        "@syed26/tiny": "latest",
+        "@syed_umair/electron-process-manager": "latest",
+        "@syed_umair/electron-redux": "latest",
+        "@syed_umair/electron-spellchecker": "latest",
+        "@syed_umair/electron-window-nspanel": "latest",
+        "@syed_umair/webcomponents-starter": "latest",
+        "@syedadeel2/vts": "latest",
+        "@syedbasim/jsenv": "latest",
+        "@syedfarhan55262/grid": "latest",
+        "@syedfarhan55262/my-password1": "latest",
+        "@syedhamzaasim/lotide": "latest",
+        "@syedhuzaifa007/package1": "latest",
+        "@syednashikaman/currying": "latest",
+        "@syednashikaman/flatten": "latest",
+        "@syedsadiqali/tiny": "latest",
+        "@syedsadiqali11/emoji-mart": "latest",
+        "@syedshahwar/test-lib": "latest",
+        "@syedu/nodetool-dingtalk": "latest",
+        "@syeutyu/eslint-config": "latest"
+    }
+}

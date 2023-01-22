@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-markdown-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "markdown-ui": "latest",
+        "markdown-up": "latest",
+        "markdown-url-checker": "latest",
+        "markdown-url-extract": "latest",
+        "markdown-url-validator": "latest",
+        "markdown-urls-check": "latest",
+        "markdown-util": "latest",
+        "markdown-utilities": "latest",
+        "markdown-utils": "latest"
+    }
+}

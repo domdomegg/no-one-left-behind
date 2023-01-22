@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-wiv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wiv": "latest",
+        "wiv.js": "latest",
+        "wivi": "latest",
+        "wivo-kit": "latest",
+        "wivo-ui-kit": "latest",
+        "wivu": "latest",
+        "wivw0306": "latest"
+    }
+}

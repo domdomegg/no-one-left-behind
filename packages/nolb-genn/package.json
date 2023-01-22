@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-genn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "genn": "latest",
+        "gennai-node": "latest",
+        "gennai-package": "latest",
+        "gennames": "latest",
+        "gennan": "latest",
+        "gennan-core": "latest",
+        "genner": "latest",
+        "gennet": "latest",
+        "gennex-app-edr": "latest",
+        "genng": "latest",
+        "gennie-calendar": "latest",
+        "gennifer": "latest",
+        "gennlife-doui": "latest",
+        "genno": "latest",
+        "gennode": "latest",
+        "gennode_acm": "latest",
+        "gennode_authorization_mw": "latest",
+        "gennode_registrar": "latest",
+        "gennotif": "latest",
+        "genny": "latest"
+    }
+}

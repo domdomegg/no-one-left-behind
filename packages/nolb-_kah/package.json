@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_kah",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kahasan/money-button": "latest",
+        "@kahbernardo/wa-lib_plus": "latest",
+        "@kahdeg/easybeauty.eos.interface": "latest",
+        "@kahi-ui/framework": "latest",
+        "@kahirokunn/oazapfts": "latest",
+        "@kahirokunn/prior-use-rtk-query": "latest",
+        "@kahirokunn/snake-case-keys": "latest",
+        "@kahirokunn/ts-concat": "latest",
+        "@kahirokunn/ts-curry": "latest",
+        "@kahirokunn/vue-jest": "latest",
+        "@kahirokunn/vue-type-check": "latest",
+        "@kahirokunn/vuedts": "latest",
+        "@kahless/echolot": "latest",
+        "@kahlil/blog-cli": "latest",
+        "@kahlil/flow-state": "latest",
+        "@kahlo/material-ui": "latest",
+        "@kahlo/preset": "latest",
+        "@kahmannf/iterable-transforms": "latest",
+        "@kahnu044/addmynumber": "latest",
+        "@kaholo/aws-plugin-library": "latest",
+        "@kaholo/plugin-library": "latest",
+        "@kaholodanielgrad/testpackage": "latest",
+        "@kahone/utils": "latest",
+        "@kahunacoder/gatsby-source-notion-database": "latest",
+        "@kahvi.patel/pensionbee-components": "latest",
+        "@kahvi.patel/pensionbee-components-assets": "latest",
+        "@kahvi.patel/vanilla-components": "latest",
+        "@kahwee/backbone-deep-model": "latest"
+    }
+}

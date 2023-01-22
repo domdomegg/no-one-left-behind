@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-csy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "csy": "latest",
+        "csy-cli-lib": "latest",
+        "csy-cli-test": "latest",
+        "csy-dicomweb-qido-rs": "latest",
+        "csy-dicomweb-wado-rs-uri": "latest",
+        "csy-pages": "latest",
+        "csy.db": "latest",
+        "csy.db-server": "latest",
+        "csy.js": "latest",
+        "csy233": "latest",
+        "csycms": "latest",
+        "csycms-core": "latest",
+        "csycms-core-test": "latest",
+        "csyixia": "latest",
+        "csyjk": "latest",
+        "csyl": "latest",
+        "csyl.io": "latest",
+        "csync": "latest",
+        "csync-canvas": "latest",
+        "csys-components": "latest",
+        "csytest": "latest",
+        "csyuptimer": "latest"
+    }
+}

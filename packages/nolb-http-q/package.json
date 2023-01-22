@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-http-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "http-qc": "latest",
+        "http-query-builder": "latest",
+        "http-query-parse": "latest",
+        "http-querystring-stringify": "latest",
+        "http-queue": "latest",
+        "http-queue-middleware": "latest"
+    }
+}

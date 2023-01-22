@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-yof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yof": "latest",
+        "yofc-angular-breadcrumb": "latest",
+        "yofc-com-event-emitter": "latest",
+        "yofc-custom-echarts": "latest",
+        "yofc-d3plus": "latest",
+        "yofc-element-selector": "latest",
+        "yofc-ng-dialog": "latest",
+        "yofc-ng-echarts": "latest",
+        "yofc-ng-multi-select": "latest",
+        "yofc-ng-table": "latest",
+        "yofc-qunee": "latest",
+        "yofc-react-native-vector-icons": "latest",
+        "yofc-react-native-wheel-picker": "latest",
+        "yofc-sm-index": "latest",
+        "yofc-vue-pdfjs": "latest",
+        "yoffee": "latest",
+        "yofi": "latest",
+        "yofile": "latest",
+        "yofine": "latest",
+        "yofz": "latest"
+    }
+}

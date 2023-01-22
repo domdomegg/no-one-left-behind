@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-cy_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cy.core": "latest",
+        "cy_api": "latest",
+        "cy_fastsort": "latest",
+        "cy_first": "latest",
+        "cy_mode": "latest",
+        "cy_promise": "latest",
+        "cy_static": "latest",
+        "cy_static_api": "latest"
+    }
+}

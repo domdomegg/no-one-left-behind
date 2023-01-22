@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_trd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trd-clarkdwain/trd-box-sdk": "latest",
+        "@trd-clarkdwain/web-zip-stream": "latest",
+        "@trdaya/enigma.js": "latest",
+        "@trdaya/qdt-components": "latest",
+        "@trdaya/uikit": "latest",
+        "@trdk/style": "latest",
+        "@trdthg/hello-wasm": "latest"
+    }
+}

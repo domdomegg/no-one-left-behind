@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-plag",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "plag": "latest",
+        "plagent": "latest",
+        "plageo": "latest",
+        "plagiarism": "latest",
+        "plagiarism-checker": "latest",
+        "plagiarize": "latest",
+        "plagiart": "latest",
+        "plagium": "latest",
+        "plagtool": "latest",
+        "plague": "latest",
+        "plague-api": "latest",
+        "plague-modeller": "latest",
+        "plague-rat": "latest",
+        "plague-sim": "latest",
+        "plagueis": "latest"
+    }
+}

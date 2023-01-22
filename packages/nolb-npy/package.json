@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-npy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "npy": "latest",
+        "npy-logging": "latest",
+        "npy-parser": "latest",
+        "npyio-ts": "latest",
+        "npyjs": "latest",
+        "npynu": "latest",
+        "npyz": "latest"
+    }
+}

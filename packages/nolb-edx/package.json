@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-edx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "edx": "latest",
+        "edx-archive": "latest",
+        "edx-bootstrap": "latest",
+        "edx-custom-a11y-rules": "latest",
+        "edx-db": "latest",
+        "edx-icon": "latest",
+        "edx-logger": "latest",
+        "edx-modulestore": "latest",
+        "edx-oauth-middleware": "latest",
+        "edx-pattern-library": "latest",
+        "edx-pdfjs": "latest",
+        "edx-proctoring-proctortrack": "latest",
+        "edx-scrapper": "latest",
+        "edx-test-course": "latest",
+        "edx-ui-toolkit": "latest",
+        "edx-xqueue-api": "latest",
+        "edx_cli": "latest",
+        "edxi-react-app": "latest",
+        "edxi_web_comp": "latest",
+        "edxi_web_module": "latest"
+    }
+}

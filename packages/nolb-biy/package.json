@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-biy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "biy": "latest",
+        "biyao": "latest",
+        "biyaode-chuangshang": "latest",
+        "biyebiye": "latest",
+        "biyeqingfeng": "latest",
+        "biyi-admin": "latest",
+        "biyi-capture": "latest",
+        "biyi-devops": "latest",
+        "biyi-dict-lib": "latest",
+        "biyi-form": "latest",
+        "biyi-form-design": "latest",
+        "biyi-form-web": "latest",
+        "biyi-kettle": "latest",
+        "biyi-multidic-test": "latest",
+        "biyi-pubinfo-multidic": "latest",
+        "biyi-workflow": "latest",
+        "biyi-workflow-design": "latest",
+        "biyifive-ui": "latest",
+        "biyilisttest-ui": "latest",
+        "biyils-ui": "latest",
+        "biyisix-ui": "latest",
+        "biyisys-ui": "latest",
+        "biyisystem-ui": "latest",
+        "biyixt-ui": "latest",
+        "biyomod_demo1-node": "latest",
+        "biyujiao": "latest",
+        "biyujiao20180709": "latest"
+    }
+}

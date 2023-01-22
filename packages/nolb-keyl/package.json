@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-keyl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "keylab": "latest",
+        "keylamia-md-links": "latest",
+        "keyleet": "latest",
+        "keyless": "latest",
+        "keyless-with-react-demo": "latest",
+        "keyless.node": "latest",
+        "keylife-node-rest-api": "latest",
+        "keylight": "latest",
+        "keylight-cove": "latest",
+        "keylime": "latest",
+        "keylimepie": "latest",
+        "keylimepie.js": "latest",
+        "keylisten": "latest",
+        "keyload": "latest",
+        "keylocal": "latest",
+        "keylock": "latest",
+        "keylog": "latest",
+        "keylog.io": "latest",
+        "keylogger": "latest",
+        "keylogger.js": "latest",
+        "keyly": "latest"
+    }
+}

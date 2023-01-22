@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_g5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@g51/hubi-components": "latest",
+        "@g51dhu/nano-preact-app": "latest",
+        "@g51dhu/nano-react-app": "latest"
+    }
+}

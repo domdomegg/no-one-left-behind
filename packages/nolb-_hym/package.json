@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_hym",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyman/nest-cli": "latest",
+        "@hyman/nest-log4js": "latest",
+        "@hyman/nestjsx-crud": "latest",
+        "@hyman/nesto": "latest",
+        "@hyman/schematics": "latest",
+        "@hymersia/continuum-ui": "latest"
+    }
+}

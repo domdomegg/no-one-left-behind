@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_shoa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shoaib76/shoaib76": "latest",
+        "@shoaibbhimani/common": "latest",
+        "@shoaibbhimani/main": "latest",
+        "@shoaibbhimani/repo-1": "latest",
+        "@shoaibbhimani/repo-2": "latest",
+        "@shoaibmalik/number-guessing-game": "latest",
+        "@shoaibmalik/qwerty": "latest",
+        "@shoaibmerchant/strapi-provider-upload-imagekit": "latest",
+        "@shoaltogether/protobuf-to-joi": "latest",
+        "@shoaltogether/saml2-js": "latest"
+    }
+}

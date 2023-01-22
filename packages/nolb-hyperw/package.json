@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-hyperw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hyperwakatime": "latest",
+        "hyperwallet": "latest",
+        "hyperwallet-node": "latest",
+        "hyperwallet-sdk": "latest",
+        "hyperwallet-sdk-paypal": "latest",
+        "hyperwallet-xdk": "latest",
+        "hyperwatch": "latest",
+        "hyperwave": "latest",
+        "hyperway": "latest",
+        "hyperweb": "latest",
+        "hyperweb-init": "latest",
+        "hyperwire": "latest",
+        "hyperwork": "latest",
+        "hyperworker": "latest",
+        "hyperworld": "latest",
+        "hyperworld-readline": "latest",
+        "hyperwrap": "latest",
+        "hyperwrapped-react": "latest"
+    }
+}

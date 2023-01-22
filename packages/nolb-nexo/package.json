@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-nexo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nexo": "latest",
+        "nexo-css": "latest",
+        "nexo-lib": "latest",
+        "nexo-lib-one": "latest",
+        "nexo-pro": "latest",
+        "nexo-user": "latest",
+        "nexojs": "latest",
+        "nexon": "latest",
+        "nexon-utils": "latest",
+        "nexosis-api-client": "latest",
+        "nexosis-styles": "latest",
+        "nexotn": "latest",
+        "nexoui": "latest"
+    }
+}

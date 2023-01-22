@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_u6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@u6x/jsext": "latest",
+        "@u6x/node_cls": "latest",
+        "@u6x/watch": "latest"
+    }
+}

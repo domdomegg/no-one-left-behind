@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_minc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@minchat/js": "latest",
+        "@minchat/react": "latest",
+        "@minchat/react-chat-ui": "latest",
+        "@minchat/react-native-chat-ui": "latest",
+        "@minchat/reactnative": "latest",
+        "@minchat/reactnativeui": "latest",
+        "@minchat/reactui": "latest",
+        "@minchopm/ngx-json-viewer": "latest",
+        "@mincloud/cli": "latest",
+        "@mincomk/normalizer": "latest",
+        "@mincord/rest": "latest"
+    }
+}

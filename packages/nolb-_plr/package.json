@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_plr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@plrabbit/cli": "latest",
+        "@plrthink/bizcharts": "latest",
+        "@plrthink/ionic-storage": "latest",
+        "@plrthink/react-dock": "latest",
+        "@plrthink/rollup-plugin-postcss": "latest",
+        "@plrthink/webpack-sentry-plugin": "latest",
+        "@plrthink_at_jinshuju/juuust-react-icon": "latest"
+    }
+}

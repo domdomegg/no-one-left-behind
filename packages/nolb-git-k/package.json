@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-git-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "git-ke-cli": "latest",
+        "git-keeper": "latest",
+        "git-kermit": "latest",
+        "git-key": "latest",
+        "git-kit": "latest",
+        "git-kitchen-sink": "latest",
+        "git-kommit": "latest"
+    }
+}

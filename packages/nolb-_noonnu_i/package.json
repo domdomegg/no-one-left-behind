@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_noonnu_i",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@noonnu/i-survive": "latest",
+        "@noonnu/ibm-plex-sans-kr-regular": "latest",
+        "@noonnu/ibmplexsanskr-bold": "latest",
+        "@noonnu/ibmplexsanskr-extralight": "latest",
+        "@noonnu/ibmplexsanskr-light": "latest",
+        "@noonnu/ibmplexsanskr-medium": "latest",
+        "@noonnu/ibmplexsanskr-regular": "latest",
+        "@noonnu/ibmplexsanskr-semibold": "latest",
+        "@noonnu/ibmplexsanskr-text": "latest",
+        "@noonnu/im-hyemin-bold": "latest",
+        "@noonnu/im-hyemin-regular": "latest",
+        "@noonnu/imcre-soojin": "latest",
+        "@noonnu/imcresoojin": "latest",
+        "@noonnu/independence-hall": "latest",
+        "@noonnu/infinity-sans-regular-a1": "latest",
+        "@noonnu/infinitysans-bolda1": "latest",
+        "@noonnu/infinitysans-condbolda1": "latest",
+        "@noonnu/infinitysans-regulara1": "latest",
+        "@noonnu/ink-lipquid": "latest",
+        "@noonnu/inklipquid": "latest",
+        "@noonnu/insungit-cutelivelyjisu": "latest",
+        "@noonnu/iropke-batang": "latest"
+    }
+}

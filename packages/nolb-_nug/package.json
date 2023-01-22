@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_nug",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nugaon/bee-dashboard": "latest",
+        "@nuggxyz/dotnugg-grammar": "latest",
+        "@nuggxyz/dotnugg-hardhat": "latest",
+        "@nuggxyz/dotnugg-sdk": "latest",
+        "@nuggxyz/nugg-kit-react": "latest",
+        "@nuggxyz/nugg-kit-react-native": "latest",
+        "@nuggxyz/nugg-kit-typescript": "latest",
+        "@nuggxyz/web3-react": "latest",
+        "@nugrhrizki/safe-utils": "latest"
+    }
+}

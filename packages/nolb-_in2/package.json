@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_in2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@in2cloud/in2cloud-cli": "latest",
+        "@in2core/react-scripts": "latest",
+        "@in2wise-khsunkh/label-studio": "latest"
+    }
+}

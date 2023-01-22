@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-ember-cli-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ember-cli-yadda": "latest",
+        "ember-cli-yadda-opinionated": "latest",
+        "ember-cli-yaml-config": "latest",
+        "ember-cli-yaml-module": "latest",
+        "ember-cli-yasgui": "latest",
+        "ember-cli-yitu": "latest",
+        "ember-cli-ym-bar": "latest",
+        "ember-cli-ym-juice-blueprints": "latest",
+        "ember-cli-youtube-modal": "latest",
+        "ember-cli-yt-tree": "latest",
+        "ember-cli-yuidoc": "latest"
+    }
+}

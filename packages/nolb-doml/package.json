@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-doml",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "doml": "latest",
+        "domla": "latest",
+        "domlang": "latest",
+        "domlastic": "latest",
+        "domlette": "latest",
+        "domlib": "latest",
+        "domlib.js": "latest",
+        "domlight": "latest",
+        "domlight.js": "latest",
+        "domlike": "latest",
+        "domliner": "latest",
+        "domlist": "latest",
+        "domlit": "latest",
+        "domliteral": "latest",
+        "domloaded": "latest",
+        "domloader": "latest",
+        "domlock": "latest",
+        "domlog": "latest",
+        "domlogger": "latest",
+        "domlt": "latest",
+        "domly": "latest",
+        "domly-liftoff": "latest",
+        "domlyify": "latest"
+    }
+}

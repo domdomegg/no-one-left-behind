@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-amt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "amt": "latest",
+        "amt-aaa": "latest",
+        "amt-felleskomponenter": "latest",
+        "amt-graphql": "latest",
+        "amt-types": "latest",
+        "amtal": "latest",
+        "amtech": "latest",
+        "amtf-proxy": "latest",
+        "amtk": "latest",
+        "amtrack-alp-components": "latest",
+        "amtrak": "latest",
+        "amtrak-cli": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_chep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chepe/angular-component-library": "latest",
+        "@chepe/dls-angular": "latest",
+        "@chepe/gibraltar-dls-react": "latest",
+        "@chepe/ui": "latest",
+        "@chepe/utils": "latest",
+        "@chepe263/vue-pregunta-y-respuestas-simples": "latest",
+        "@cheprasov/base-converter": "latest",
+        "@cheprasov/data-structures": "latest",
+        "@cheprasov/json-web-worker": "latest",
+        "@cheprasov/qrcode": "latest",
+        "@cheprasov/react-global-state": "latest",
+        "@cheprasov/react-qrcode": "latest",
+        "@cheprasov/url-query-params": "latest",
+        "@cheprasov/web-animation": "latest",
+        "@cheprasov/worker-thread": "latest",
+        "@chepuhasasha/v-container": "latest",
+        "@chepuhasasha/v-lang": "latest",
+        "@chepuhasasha/v-theme": "latest"
+    }
+}

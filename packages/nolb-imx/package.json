@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-imx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "imx": "latest",
+        "imx-accordion": "latest",
+        "imx-atomic-cli": "latest",
+        "imx-grid": "latest",
+        "imx-neos": "latest",
+        "imx-sdk": "latest",
+        "imx-sdk-alter": "latest",
+        "imx-widgets-react": "latest",
+        "imxinit": "latest",
+        "imxlss-first-npm-package": "latest",
+        "imxm-cli": "latest",
+        "imxquery": "latest"
+    }
+}

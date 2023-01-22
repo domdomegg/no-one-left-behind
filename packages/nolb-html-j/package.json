@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-html-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "html-janitor": "latest",
+        "html-jest-reporter": "latest",
+        "html-jison-parsing": "latest",
+        "html-joystick": "latest",
+        "html-js-cli": "latest",
+        "html-js-confirm": "latest",
+        "html-js-css": "latest",
+        "html-js-css-webpack-plugin": "latest",
+        "html-js-quiz": "latest",
+        "html-js-template": "latest",
+        "html-jsmart-loader": "latest",
+        "html-json": "latest",
+        "html-json-highlight": "latest",
+        "html-json-parser": "latest",
+        "html-json2canvas": "latest",
+        "html-jsonhtmlvn-beta": "latest",
+        "html-jsx": "latest",
+        "html-jsx-html": "latest",
+        "html-jsx-loader": "latest",
+        "html-juicer": "latest"
+    }
+}

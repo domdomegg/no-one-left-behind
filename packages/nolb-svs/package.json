@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-svs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svs": "latest",
+        "svs-datetime": "latest",
+        "svs-modules-library": "latest",
+        "svs-mui-modal-provider": "latest",
+        "svsbank-cli": "latest",
+        "svselect": "latest",
+        "svsession-generator": "latest",
+        "svsharedbutton": "latest",
+        "svstat": "latest",
+        "svsudo-windo-header": "latest",
+        "svsvnsnvsdjksjsdjscs": "latest"
+    }
+}

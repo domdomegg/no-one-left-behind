@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-chg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chg": "latest",
+        "chg-ui": "latest",
+        "chgcharset": "latest",
+        "chgk-parser": "latest",
+        "chgk-shiro": "latest",
+        "chglish": "latest",
+        "chglog": "latest",
+        "chglog-cli": "latest",
+        "chglog_grouping_generator": "latest"
+    }
+}

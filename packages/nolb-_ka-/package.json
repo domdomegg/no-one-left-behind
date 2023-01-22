@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_ka-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ka-nabellinc/deck-maker-web-components": "latest",
+        "@ka-react-components/footer": "latest",
+        "@ka-utils/compare-version": "latest",
+        "@ka-utils/hexcolor-rgba": "latest",
+        "@ka-utils/qrcode": "latest",
+        "@ka-utils/region": "latest",
+        "@ka-utils/safety-bottom": "latest",
+        "@ka-utils/select-group": "latest"
+    }
+}

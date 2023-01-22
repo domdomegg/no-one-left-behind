@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-metar",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "metar": "latest",
+        "metar-cli": "latest",
+        "metar-decoder": "latest",
+        "metar-js": "latest",
+        "metar-parser": "latest",
+        "metar-plot": "latest",
+        "metar-taf": "latest",
+        "metar-taf-parser": "latest",
+        "metarama-neo4j-graphql-js": "latest",
+        "metarefresh": "latest",
+        "metaregexp": "latest",
+        "metarepo": "latest",
+        "metaret": "latest",
+        "metarhia": "latest",
+        "metarhia-common": "latest",
+        "metarhia-jstp": "latest",
+        "metarobert-metatest": "latest",
+        "metarobot": "latest",
+        "metaroute": "latest",
+        "metarpheus": "latest",
+        "metarpheus-http-api": "latest",
+        "metarpheus-io-ts": "latest",
+        "metarpheus-js-http-api": "latest",
+        "metarpheus-tcomb": "latest",
+        "metarunnerjs": "latest"
+    }
+}

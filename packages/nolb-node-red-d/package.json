@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-node-red-d",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-dashboard": "latest",
+        "node-red-dashboard-es": "latest",
+        "node-red-dashboard-namgk": "latest",
+        "node-red-data-acquisition": "latest",
+        "node-red-datahub": "latest",
+        "node-red-davide-test": "latest",
+        "node-red-ddm": "latest",
+        "node-red-debugger": "latest",
+        "node-red-dev": "latest",
+        "node-red-devbus-modbustcp": "latest",
+        "node-red-device-configuration": "latest",
+        "node-red-dht-sensor": "latest",
+        "node-red-discord-alternative": "latest",
+        "node-red-drone": "latest",
+        "node-red-ds18b20-sensor": "latest",
+        "node-red-dygraphs": "latest"
+    }
+}

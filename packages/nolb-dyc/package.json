@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-dyc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dyc": "latest",
+        "dyc-ac-extend-package": "latest",
+        "dyc-common": "latest",
+        "dyc-components": "latest",
+        "dyc-dlzc": "latest",
+        "dyc-npm": "latest",
+        "dyc-project": "latest",
+        "dyc-webchat": "latest",
+        "dyc1-components": "latest",
+        "dyc_4.19": "latest",
+        "dycachejs": "latest",
+        "dycalendarjs": "latest",
+        "dycb": "latest",
+        "dyceman-ckeditor": "latest",
+        "dychttpserver": "latest",
+        "dyclockjs": "latest",
+        "dycodehighlighter": "latest",
+        "dyconf": "latest",
+        "dycountryjs": "latest",
+        "dycszujian": "latest",
+        "dyczujian": "latest"
+    }
+}

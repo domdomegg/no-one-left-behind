@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-createt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "createt": "latest",
+        "createtable": "latest",
+        "createtemp": "latest",
+        "createtemplate12": "latest",
+        "createtemplate999": "latest",
+        "createtile": "latest",
+        "createtoamcohen10": "latest",
+        "createtodo": "latest",
+        "createtracker": "latest",
+        "createtransaction": "latest",
+        "createtypenpm": "latest"
+    }
+}

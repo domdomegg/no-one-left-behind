@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-dyh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dyh": "latest",
+        "dyh-cookie": "latest",
+        "dyh-imooc-test-lib": "latest",
+        "dyh-scaffold-imooc-test": "latest",
+        "dyh-test-npm": "latest",
+        "dyh_utiles": "latest",
+        "dyhao": "latest"
+    }
+}

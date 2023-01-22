@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-stret",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stretch": "latest",
+        "stretch-canvas": "latest",
+        "stretch-checksummer": "latest",
+        "stretch-layout": "latest",
+        "stretch-resize": "latest",
+        "stretch-rollup": "latest",
+        "stretch-spider": "latest",
+        "stretch-transform": "latest",
+        "stretch.js": "latest",
+        "stretcher": "latest",
+        "stretcher-importer": "latest",
+        "stretcher-loader": "latest",
+        "stretchfs-sdk": "latest",
+        "stretchshop": "latest",
+        "stretchy": "latest",
+        "stretchy-cli": "latest",
+        "stretchy-tabs": "latest",
+        "stretchy-ts": "latest",
+        "stretchypants": "latest",
+        "stretzer": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-urm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "urm": "latest",
+        "urmar-api-client": "latest",
+        "urmar-axios-client": "latest",
+        "urmar-web-api": "latest",
+        "urmate-frame-print": "latest",
+        "urmclient": "latest",
+        "urmom": "latest",
+        "urmom.js": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_func-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@func-chain/core": "latest",
+        "@func-js/async": "latest",
+        "@func-js/core": "latest",
+        "@func-js/utils": "latest"
+    }
+}

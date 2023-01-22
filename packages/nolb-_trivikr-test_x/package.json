@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_trivikr-test_x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trivikr-test/xhr-http-handler": "latest",
+        "@trivikr-test/xml-builder": "latest",
+        "@trivikr-test/xml-builder-esm": "latest",
+        "@trivikr-test/xml-builder-esm-wrapper": "latest"
+    }
+}

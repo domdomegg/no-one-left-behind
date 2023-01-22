@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-juv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "juv": "latest",
+        "juve": "latest",
+        "juven1": "latest",
+        "juven2": "latest",
+        "juvenile": "latest",
+        "juvoft": "latest",
+        "juvs": "latest",
+        "juvy": "latest"
+    }
+}

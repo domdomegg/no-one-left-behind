@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_iny",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@inyono/changelog": "latest",
+        "@inyono/copyright-headers": "latest",
+        "@inyourarea/aard-client-js": "latest",
+        "@inyourarea/cdk-constructs": "latest",
+        "@inyourarea/cdk-scaffold": "latest",
+        "@inyourarea/config-service-client": "latest",
+        "@inyourarea/highland-parse-response": "latest",
+        "@inyourarea/http-client-builder": "latest",
+        "@inyourarea/profile-service": "latest",
+        "@inyourarea/subscription-service": "latest",
+        "@inyourarea/vapor-js": "latest",
+        "@inyur/bg-random-image": "latest",
+        "@inyur/nuxt-auth": "latest",
+        "@inyur/nuxt-axios": "latest",
+        "@inyur/nuxt-i18n": "latest",
+        "@inyur/nuxt-require-in-html": "latest",
+        "@inyur/nuxt-svg": "latest"
+    }
+}

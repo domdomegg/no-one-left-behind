@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-react-native-pp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-ppr-database": "latest",
+        "react-native-ppr-dialog": "latest",
+        "react-native-ppr-expandable-section-list": "latest",
+        "react-native-ppr-gradient": "latest",
+        "react-native-ppr-toast-view": "latest"
+    }
+}

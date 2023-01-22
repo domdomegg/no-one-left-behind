@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-rsy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rsylog2": "latest",
+        "rsync": "latest",
+        "rsync-backup": "latest",
+        "rsync-by-joe": "latest",
+        "rsync-dependencies": "latest",
+        "rsync-deploy": "latest",
+        "rsync-generator": "latest",
+        "rsync-glitch": "latest",
+        "rsync-ignore": "latest",
+        "rsync-parser": "latest",
+        "rsync-slim": "latest",
+        "rsync-snapshot": "latest",
+        "rsync-source": "latest",
+        "rsync-watch": "latest",
+        "rsynced": "latest",
+        "rsyncer": "latest",
+        "rsynconfig": "latest",
+        "rsynctask": "latest",
+        "rsyncwrapper": "latest",
+        "rsyncwrapper-rabhw": "latest",
+        "rsyncy": "latest",
+        "rsys-minimize": "latest",
+        "rsyslog": "latest",
+        "rsyslog-cee": "latest",
+        "rsyslog-manager": "latest",
+        "rsyslog-winston": "latest"
+    }
+}

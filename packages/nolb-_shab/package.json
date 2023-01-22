@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_shab",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shabados/database": "latest",
+        "@shabados/eslint-config": "latest",
+        "@shabados/gurmukhi-utils": "latest",
+        "@shabalayar/manueldb": "latest",
+        "@shabashab/exceljs": "latest",
+        "@shabbir_raza/colyseus_client_custom": "latest",
+        "@shabbyk/react-datetimerangepicker": "latest",
+        "@shabeebm369/common": "latest",
+        "@shabeerp15/react-form-builder2": "latest",
+        "@shaberman-forks/graphql-import": "latest",
+        "@shaberman-forks/husky": "latest",
+        "@shabin/mavely-demo": "latest",
+        "@shaburovpv/sticky-sidebar": "latest",
+        "@shabushabu/belay": "latest"
+    }
+}

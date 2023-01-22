@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-caj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "caj": "latest",
+        "caj-sample-stencil": "latest",
+        "caja-html-sanitizer": "latest",
+        "caja-sanitizer": "latest",
+        "cajache": "latest",
+        "cajacko": "latest",
+        "cajas": "latest",
+        "cajavar-random-messages": "latest",
+        "cajax": "latest",
+        "cajaxjs": "latest",
+        "cajole": "latest",
+        "cajoler": "latest",
+        "cajon": "latest",
+        "cajonfb": "latest",
+        "cajso": "latest",
+        "caju-components": "latest",
+        "caju-connector": "latest",
+        "caju-request": "latest"
+    }
+}

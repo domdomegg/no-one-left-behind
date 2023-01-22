@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-flog",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "flog": "latest",
+        "flog.io": "latest",
+        "flogg": "latest",
+        "flogger": "latest",
+        "flogger-log": "latest",
+        "flogger-ts": "latest",
+        "flogging": "latest",
+        "flogging.console_inputs": "latest",
+        "flogging.stream_base": "latest",
+        "flogging_redis": "latest",
+        "floggy": "latest",
+        "flogh-swagger": "latest",
+        "flogiks-test": "latest",
+        "flogin": "latest"
+    }
+}

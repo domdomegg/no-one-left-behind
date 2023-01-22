@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-vue-cli-plugin-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cli-plugin-jenkins": "latest",
+        "vue-cli-plugin-jessibuca": "latest",
+        "vue-cli-plugin-jest-puppeteer": "latest",
+        "vue-cli-plugin-jest-serializer-vue-tjw": "latest",
+        "vue-cli-plugin-jike": "latest",
+        "vue-cli-plugin-joinzht-lib": "latest",
+        "vue-cli-plugin-joykit": "latest",
+        "vue-cli-plugin-joypage": "latest",
+        "vue-cli-plugin-jq": "latest",
+        "vue-cli-plugin-jsonp-bundler": "latest",
+        "vue-cli-plugin-jungletron": "latest",
+        "vue-cli-plugin-jwmod": "latest",
+        "vue-cli-plugin-jxchenvip": "latest",
+        "vue-cli-plugin-jzy": "latest"
+    }
+}

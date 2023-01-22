@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_aws-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aws-quickstart/ecs-consul-mesh-extension": "latest",
+        "@aws-quickstart/eks-blueprints": "latest",
+        "@aws-quickstart/ssp-amazon-eks": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-rcr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rcr-skt": "latest",
+        "rcrai-cli-dev": "latest",
+        "rcrai-cli-test": "latest",
+        "rcrai-rainbow": "latest",
+        "rcre": "latest",
+        "rcre-core": "latest",
+        "rcre-runtime": "latest",
+        "rcre-runtime-syntax-transform": "latest",
+        "rcre-syntax-jsx": "latest",
+        "rcre-test-tools": "latest",
+        "rcreate": "latest",
+        "rcroadmap": "latest"
+    }
+}

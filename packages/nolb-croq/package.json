@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-croq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "croq-throttler": "latest",
+        "croque": "latest",
+        "croquet": "latest",
+        "croquet-3d-physics": "latest",
+        "croquet-bmfont-text": "latest",
+        "croquet-observable": "latest",
+        "croquet-proxy": "latest",
+        "croquet-react": "latest",
+        "croquette": "latest",
+        "croquis": "latest",
+        "croquis.js": "latest"
+    }
+}

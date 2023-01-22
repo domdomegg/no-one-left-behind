@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_noy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@noyainrain/micro": "latest",
+        "@noyama/hello-wasm": "latest",
+        "@noyami/mypackage": "latest",
+        "@noygal/deps-client": "latest",
+        "@noygal/deps-dev": "latest",
+        "@noyid/vue-typing": "latest",
+        "@noyobo/combine-source-map": "latest",
+        "@noyobo/inline-source-map": "latest",
+        "@noyobo/npm-publisher": "latest",
+        "@noyobo/vconsole": "latest"
+    }
+}

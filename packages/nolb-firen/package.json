@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-firen",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "firenas": "latest",
+        "firenest": "latest",
+        "firenet": "latest",
+        "firenext": "latest",
+        "firenote": "latest",
+        "firenze": "latest",
+        "firenze-adapter-localstorage": "latest",
+        "firenze-adapter-memory": "latest",
+        "firenze-adapter-mysql": "latest",
+        "firenze-adapter-redis": "latest",
+        "firenze-adapter-sqlite": "latest",
+        "firenze-adapter-sqlite3": "latest",
+        "firenze-behavior-slug": "latest",
+        "firenze-behavior-timestamp": "latest"
+    }
+}

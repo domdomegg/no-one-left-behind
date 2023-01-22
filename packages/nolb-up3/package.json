@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-up3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "up360": "latest",
+        "up360-h5-native": "latest",
+        "up360-js-native": "latest",
+        "up360-layer": "latest",
+        "up360-wx-share": "latest",
+        "up3d-test-ui": "latest"
+    }
+}

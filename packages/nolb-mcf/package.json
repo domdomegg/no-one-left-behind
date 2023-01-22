@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-mcf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mcf": "latest",
+        "mcf-button": "latest",
+        "mcf-cli": "latest",
+        "mcf-code-for-devcamp": "latest",
+        "mcf-components": "latest",
+        "mcf-content-container": "latest",
+        "mcf-cra": "latest",
+        "mcface": "latest",
+        "mcfe": "latest",
+        "mcfg": "latest",
+        "mcfgen": "latest",
+        "mcfilesaver": "latest",
+        "mcfinley-simple-react-router": "latest",
+        "mcfinley-simple-react-transition": "latest",
+        "mcfinley-webgl-2d": "latest",
+        "mcfloyd-frame-print": "latest",
+        "mcfly": "latest",
+        "mcfly-github": "latest",
+        "mcfly-semantic-release": "latest",
+        "mcfly-timezone": "latest",
+        "mcflyal": "latest",
+        "mcflyio": "latest",
+        "mcfm": "latest",
+        "mcfs": "latest",
+        "mcfsd": "latest",
+        "mcfswap-default-token-list": "latest",
+        "mcfswap-sdk": "latest",
+        "mcfui": "latest"
+    }
+}

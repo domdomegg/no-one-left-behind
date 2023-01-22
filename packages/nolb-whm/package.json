@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-whm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "whm-10.14-rk": "latest",
+        "whm-170717-npm": "latest",
+        "whm-ceshi1": "latest",
+        "whm111": "latest",
+        "whmcs": "latest",
+        "whmcs-api": "latest",
+        "whmcs-js": "latest",
+        "whmcs-node": "latest",
+        "whmcs-ts": "latest",
+        "whmk-amuse": "latest",
+        "whmk-library-demo": "latest",
+        "whms": "latest"
+    }
+}

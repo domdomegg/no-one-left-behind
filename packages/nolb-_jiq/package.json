@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_jiq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jiqbal/tiny": "latest",
+        "@jiqi/eslint-config": "latest",
+        "@jiqi/eslint-config-basic": "latest",
+        "@jiqi/eslint-config-prettier": "latest",
+        "@jiqi/eslint-config-react": "latest",
+        "@jiqi/eslint-config-ts": "latest",
+        "@jiqi/eslint-config-vue": "latest",
+        "@jiqi/react-helpers": "latest",
+        "@jiqi/shared": "latest",
+        "@jiqi/vue-helpers": "latest"
+    }
+}

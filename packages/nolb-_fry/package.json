@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_fry",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fry/base62": "latest",
+        "@fry/bits": "latest",
+        "@fry98/memoryjs": "latest",
+        "@fry_1991/npm-demo-module": "latest",
+        "@frysztak/openapi-generator": "latest"
+    }
+}

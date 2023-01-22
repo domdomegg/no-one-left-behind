@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-codea",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "codea": "latest",
+        "codeability-extension": "latest",
+        "codeact": "latest",
+        "codeagent-cli": "latest",
+        "codeages-design": "latest",
+        "codeages-design-vue": "latest",
+        "codeai": "latest",
+        "codeair": "latest",
+        "codeamigo-jest-lite": "latest",
+        "codeanalyzer": "latest",
+        "codeandpublish": "latest",
+        "codeandpush": "latest",
+        "codeandscript": "latest",
+        "codeanywhere-plugin-test": "latest",
+        "codeapp": "latest",
+        "codeappan": "latest",
+        "codeaprogram-shadow": "latest",
+        "codearea": "latest",
+        "codeart-cli": "latest",
+        "codeartifact-helper": "latest",
+        "codeartifact-login": "latest",
+        "codeartisan": "latest",
+        "codeartist-core": "latest",
+        "codeasy": "latest",
+        "codeaustria-firsttrial": "latest",
+        "codeaustria-ui-elements": "latest",
+        "codeauth": "latest"
+    }
+}

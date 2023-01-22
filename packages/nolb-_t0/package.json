@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_t0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@t000mas/sdk": "latest",
+        "@t00nday/nestjs-flagsmith": "latest",
+        "@t00nday/nestjs-got": "latest",
+        "@t00nday/nestjs-mailer": "latest",
+        "@t00nday/nestjs-oauth2-server": "latest",
+        "@t00nday/nestjs-pdf": "latest",
+        "@t0ast/dddd": "latest",
+        "@t0hacks/tohacks-sdk": "latest",
+        "@t0m1337/holidates": "latest",
+        "@t0mashawk/book-list": "latest",
+        "@t0mcr8se/blockstamp": "latest",
+        "@t0mcr8se/bnc-onboard": "latest",
+        "@t0mcr8se/safe-modules-deployments": "latest",
+        "@t0mcr8se/safe-singleton-factory": "latest",
+        "@t0ri/api": "latest",
+        "@t0ri/autocomplete": "latest",
+        "@t0ri/dates": "latest",
+        "@t0ri/math": "latest",
+        "@t0ri/openweathermap-essentials": "latest",
+        "@t0ri/strings": "latest"
+    }
+}

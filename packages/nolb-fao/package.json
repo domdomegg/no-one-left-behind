@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-fao",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fao": "latest",
+        "fao-design-system": "latest",
+        "faog-md-links": "latest",
+        "faogustavo-react-native-device-battery": "latest",
+        "faogustavo-react-native-dialogs": "latest",
+        "faogustavo-react-native-dropdown": "latest",
+        "faogustavo-react-native-grid-component": "latest",
+        "faogustavo-react-native-looped-carousel": "latest",
+        "faogustavo-react-native-orientation": "latest",
+        "faogustavo-react-native-swipe-out": "latest",
+        "faolkangaspfasnlkfsal": "latest",
+        "faora": "latest",
+        "faoziaziz": "latest"
+    }
+}

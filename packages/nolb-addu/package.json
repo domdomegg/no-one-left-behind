@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-addu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "addu": "latest",
+        "adduce": "latest",
+        "addui-store": "latest",
+        "adduo.finestra.package": "latest",
+        "addup": "latest",
+        "adduse": "latest",
+        "adduser-async": "latest",
+        "addusr": "latest",
+        "addutlisali": "latest",
+        "adduzkena": "latest"
+    }
+}

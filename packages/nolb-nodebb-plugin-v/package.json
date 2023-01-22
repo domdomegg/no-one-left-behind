@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-nodebb-plugin-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodebb-plugin-vbcode-to-markdown": "latest",
+        "nodebb-plugin-veegie-blog-comments": "latest",
+        "nodebb-plugin-veegie-custom-fields": "latest",
+        "nodebb-plugin-veegie-extended-markdown": "latest",
+        "nodebb-plugin-veegie-prefer-fullname": "latest",
+        "nodebb-plugin-verify-arknights": "latest",
+        "nodebb-plugin-vexflow": "latest",
+        "nodebb-plugin-vibration-notifications": "latest",
+        "nodebb-plugin-video": "latest",
+        "nodebb-plugin-video-embed": "latest",
+        "nodebb-plugin-video-link": "latest",
+        "nodebb-plugin-videoplayer": "latest",
+        "nodebb-plugin-vietnamese-slug": "latest",
+        "nodebb-plugin-view-votes": "latest",
+        "nodebb-plugin-vimcn": "latest",
+        "nodebb-plugin-vimeo": "latest",
+        "nodebb-plugin-vine": "latest",
+        "nodebb-plugin-vote-post": "latest",
+        "nodebb-plugin-vr-twitch-monitor": "latest",
+        "nodebb-plugin-vs-twitch-monitor": "latest"
+    }
+}

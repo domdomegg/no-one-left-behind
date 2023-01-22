@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_zhw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zhw2590582/issue-blog": "latest",
+        "@zhw2590582/srt.js": "latest"
+    }
+}

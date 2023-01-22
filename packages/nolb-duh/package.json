@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-duh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "duh": "latest",
+        "duh-bus": "latest",
+        "duh-core": "latest",
+        "duh-h": "latest",
+        "duh-ipxact": "latest",
+        "duh-mem": "latest",
+        "duh-om": "latest",
+        "duh-scala": "latest",
+        "duh-schema": "latest",
+        "duh-svd": "latest",
+        "duh-systemrdl": "latest",
+        "duh-verilog": "latest",
+        "duhaimodule": "latest",
+        "duhengpeng2021": "latest",
+        "duhoufu-time": "latest",
+        "duhovni": "latest",
+        "duhportinf": "latest",
+        "duhstar": "latest"
+    }
+}

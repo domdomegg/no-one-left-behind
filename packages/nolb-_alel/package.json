@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_alel",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aleleba/create-node-ts-graphql-server": "latest",
+        "@aleleba/create-react-component-library": "latest",
+        "@aleleba/create-react-ssr": "latest",
+        "@aleleba/ro-ut-ui": "latest"
+    }
+}

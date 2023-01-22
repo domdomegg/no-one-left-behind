@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-azj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "azj": "latest",
+        "azj-admin": "latest",
+        "azj-cli": "latest",
+        "azjfeng-add": "latest",
+        "azjjs": "latest",
+        "azjm": "latest",
+        "azjs": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-thew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thewall": "latest",
+        "thewarbelow-physics": "latest",
+        "thewarbelow-transceiver": "latest",
+        "thewatcher": "latest",
+        "thewatcher-gui": "latest",
+        "thewazaa-frame-print2": "latest",
+        "theweatherapi": "latest",
+        "theweblorem": "latest",
+        "theweekendgeek-components": "latest",
+        "theweeknum": "latest",
+        "theweishao-demo1": "latest",
+        "thewolf": "latest",
+        "theword": "latest",
+        "thewordsamples": "latest",
+        "theworld-client": "latest",
+        "theworld-client-react": "latest",
+        "thewrongpacakge": "latest"
+    }
+}

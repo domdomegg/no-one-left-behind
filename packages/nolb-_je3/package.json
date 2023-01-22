@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_je3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@je3f0o/jeefo_parser": "latest",
+        "@je3f0o/parser": "latest"
+    }
+}

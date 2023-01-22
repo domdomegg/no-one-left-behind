@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_aws-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aws-hackathon-2019-app-site-generator/app-site-template": "latest",
+        "@aws-hackathon-2019-app-site-generator/create-app-site": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-insa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "insa-hafas": "latest",
+        "insa-types": "latest",
+        "insac": "latest",
+        "insac-cli": "latest",
+        "insafe": "latest",
+        "insales": "latest",
+        "insales-autocomplete-address": "latest",
+        "insales-autocomplete-adress": "latest",
+        "insales-calculate-delivery": "latest",
+        "insales-uploader": "latest",
+        "insales-uploader-autoprefixer": "latest",
+        "insane": "latest",
+        "insane-cli": "latest",
+        "insane-mc": "latest",
+        "insane-openbazaar-api": "latest",
+        "insane-rot8000": "latest",
+        "insane-wkhtmltopdf": "latest",
+        "insane-zhc": "latest",
+        "insaneazka": "latest",
+        "insanehash": "latest",
+        "insaner": "latest",
+        "insanetransition": "latest",
+        "insanidi": "latest",
+        "insanity": "latest",
+        "insanytz": "latest",
+        "insapp": "latest"
+    }
+}

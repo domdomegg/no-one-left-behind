@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-sha3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sha3": "latest",
+        "sha3-256": "latest",
+        "sha3-js-wasm": "latest",
+        "sha3-mio": "latest",
+        "sha3-wasm": "latest",
+        "sha384-wasm": "latest"
+    }
+}

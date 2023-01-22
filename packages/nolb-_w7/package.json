@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_w7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@w782779431/hello-wasm": "latest",
+        "@w782779431/hello-wasm2": "latest",
+        "@w7it/prettier-config": "latest",
+        "@w7it/typescript-config": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-eau",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eau": "latest",
+        "eaui-elementui": "latest",
+        "eaura.npm.frontend": "latest",
+        "eauraform": "latest",
+        "eause": "latest",
+        "eauth": "latest",
+        "eauth.js": "latest"
+    }
+}

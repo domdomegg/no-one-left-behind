@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-react-tv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-tv": "latest",
+        "react-tv-app": "latest",
+        "react-tv-cli": "latest",
+        "react-tv-focus": "latest",
+        "react-tv-focusable": "latest",
+        "react-tv-horizontal-list": "latest",
+        "react-tv-list": "latest",
+        "react-tv-navigation": "latest",
+        "react-tv-slider": "latest",
+        "react-tv-ui": "latest",
+        "react-tvml": "latest",
+        "react-tvt": "latest"
+    }
+}

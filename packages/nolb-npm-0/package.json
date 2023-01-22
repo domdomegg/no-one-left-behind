@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-npm-0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "npm-000001": "latest",
+        "npm-001-hello": "latest",
+        "npm-01sum-zsj": "latest",
+        "npm-0chem-draw": "latest"
+    }
+}

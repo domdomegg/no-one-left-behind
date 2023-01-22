@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-semt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "semt": "latest",
+        "semtag": "latest",
+        "semtest": "latest",
+        "semtest-e2e": "latest",
+        "semtex": "latest",
+        "semtext-pairs_proto.2": "latest",
+        "semtip": "latest",
+        "semtonotes-client": "latest",
+        "semtonotes-utils": "latest",
+        "semtypes": "latest"
+    }
+}

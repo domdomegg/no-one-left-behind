@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-node-cd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-cd": "latest",
+        "node-cdblib": "latest",
+        "node-cdc": "latest",
+        "node-cdn": "latest",
+        "node-cdnconnect": "latest",
+        "node-cds-auth": "latest",
+        "node-cdx-bom": "latest"
+    }
+}

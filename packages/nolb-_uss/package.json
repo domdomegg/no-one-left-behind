@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_uss",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ussebastian/kitdigital-react": "latest",
+        "@usslc/channels-api": "latest",
+        "@ussu/chunk-manifest-webpack-plugin": "latest",
+        "@ussu/comp": "latest"
+    }
+}

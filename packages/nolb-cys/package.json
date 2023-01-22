@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-cys",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cys": "latest",
+        "cys-media-lib": "latest",
+        "cys-npm-react-hualaizhishi": "latest",
+        "cys-pkg-test": "latest",
+        "cys-tpl-loader": "latest",
+        "cys-ui": "latest",
+        "cys_hello": "latest",
+        "cysac": "latest",
+        "cyseed": "latest",
+        "cysentry": "latest",
+        "cysm-web-auth": "latest",
+        "cyspoon-resume": "latest",
+        "cystemagic": "latest",
+        "cystic": "latest"
+    }
+}

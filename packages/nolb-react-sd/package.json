@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-react-sd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-sd": "latest",
+        "react-sdk": "latest",
+        "react-sdk-mercadopago": "latest",
+        "react-sdk-plugin": "latest",
+        "react-sdk-test-david": "latest",
+        "react-sdke-package": "latest",
+        "react-sdm-button": "latest",
+        "react-sdm-slider": "latest",
+        "react-sdndk": "latest",
+        "react-sdom": "latest"
+    }
+}

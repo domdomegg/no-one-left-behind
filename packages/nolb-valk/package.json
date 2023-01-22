@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-valk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "valk": "latest",
+        "valk-pack": "latest",
+        "valka": "latest",
+        "valkana": "latest",
+        "valkctl": "latest",
+        "valkiria": "latest",
+        "valknut": "latest",
+        "valkompass-2022": "latest",
+        "valkretsar": "latest",
+        "valky": "latest",
+        "valkyr-ssh": "latest",
+        "valkyrie": "latest",
+        "valkyrie-cftemplate-scaffolder-default": "latest",
+        "valkyrie-library": "latest",
+        "valkyrie-logger": "latest",
+        "valkyrie-scaffolder-default": "latest",
+        "valkyrie-ts": "latest",
+        "valkyrie-ui": "latest",
+        "valkyriecoms-js": "latest",
+        "valkyrja": "latest",
+        "valkyrja-cc": "latest"
+    }
+}

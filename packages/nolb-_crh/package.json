@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_crh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@crh/vue": "latest",
+        "@crherman7/react-native-asset": "latest",
+        "@crherman7/reactor-bundle-app-icon": "latest",
+        "@crherman7/reactor-bundle-asset": "latest",
+        "@crherman7/reactor-bundle-maps": "latest",
+        "@crherman7/reactor-bundle-permissions": "latest",
+        "@crherman7/reactor-bundle-splash-screen": "latest",
+        "@crherman7/reactor-cli": "latest",
+        "@crherman7/reactor-core": "latest",
+        "@crherman7/reactor-env": "latest",
+        "@crherman7/tenant": "latest",
+        "@crhio/concrete": "latest",
+        "@crhio/offset": "latest",
+        "@crhio/vector": "latest",
+        "@crhio/vite": "latest",
+        "@crhr/crhr-front-lib": "latest"
+    }
+}

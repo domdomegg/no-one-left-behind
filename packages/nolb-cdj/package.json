@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-cdj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cdj-cache": "latest",
+        "cdjs-flvjs": "latest",
+        "cdjs-runner": "latest",
+        "cdjs-swiftjs-plug": "latest"
+    }
+}

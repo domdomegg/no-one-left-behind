@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-svge",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svgedit": "latest",
+        "svgedit-v6": "latest",
+        "svgeditor-client3d": "latest",
+        "svgeditor-simple-client": "latest",
+        "svgen": "latest",
+        "svgenerator": "latest",
+        "svgeo": "latest",
+        "svger": "latest",
+        "svger-biz-utils": "latest",
+        "svger-tools": "latest",
+        "svger-utils": "latest",
+        "svgerber": "latest",
+        "svgexport": "latest",
+        "svgexport-forked": "latest",
+        "svgexport-loader": "latest"
+    }
+}

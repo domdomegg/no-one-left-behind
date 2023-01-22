@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_jis",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jisc/front-end-foundations": "latest",
+        "@jisc/jisc-react-components": "latest",
+        "@jishankai/uniswap-v2-core": "latest",
+        "@jishi/game-jssdk": "latest",
+        "@jishida/react-awilix": "latest",
+        "@jishida/react-mvvm": "latest",
+        "@jishimi/sqs-poller": "latest",
+        "@jishnu-mpr/quiz-cli": "latest",
+        "@jishnu-org/microservices-base": "latest",
+        "@jishu-lowcode/cli": "latest",
+        "@jishuxin/dns": "latest",
+        "@jismete/theme": "latest",
+        "@jisp/runner": "latest",
+        "@jisp/utils": "latest",
+        "@jisr/common": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_testc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@testcafe-community/axe": "latest",
+        "@testcafe-community/nx-builder": "latest",
+        "@testcafe/json-hammerhead": "latest",
+        "@testcafe/testcafe": "latest",
+        "@testci/test-ci": "latest",
+        "@testcli/cli": "latest",
+        "@testcomplete/excelhandler": "latest",
+        "@testcomplete/filesystemutil": "latest",
+        "@testcomplete/keyboard": "latest",
+        "@testcomplete/lockmanager": "latest",
+        "@testcomplete/loggerutil": "latest",
+        "@testcomplete/sleep": "latest",
+        "@testcomplete/testcompletelibrarysetup": "latest",
+        "@testcomplete/usermanager": "latest"
+    }
+}

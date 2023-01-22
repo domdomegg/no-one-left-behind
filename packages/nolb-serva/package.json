@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-serva",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "serva": "latest",
+        "servaas-energie-packages": "latest",
+        "servable": "latest",
+        "serval": "latest",
+        "serval-backbone": "latest",
+        "serval-i18n": "latest",
+        "servalan-ol-maps": "latest",
+        "servana": "latest",
+        "servani": "latest",
+        "servant": "latest",
+        "servant-cli": "latest",
+        "servant-command": "latest",
+        "servant-fake-app-01": "latest",
+        "servant-fake-app-02": "latest",
+        "servant-sdk-node": "latest",
+        "servant-starter": "latest",
+        "servant-ts": "latest",
+        "servant.js": "latest",
+        "servante": "latest",
+        "servaria": "latest",
+        "servatron": "latest",
+        "servax": "latest",
+        "servax.express": "latest",
+        "servax.nunjucks": "latest"
+    }
+}

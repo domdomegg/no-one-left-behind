@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_datam",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datamatics_dataspa/shared": "latest",
+        "@datamatters/types-customer-service": "latest",
+        "@datamodels/3id-keychain": "latest",
+        "@datamodels/identity-accounts-crypto": "latest",
+        "@datamodels/identity-accounts-web": "latest",
+        "@datamodels/identity-profile-basic": "latest",
+        "@datamodels/social-connections": "latest",
+        "@datamodels/verifiable-credentials": "latest",
+        "@datamosh-js/seeder": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-mapw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mapwix-api": "latest",
+        "mapwize": "latest",
+        "mapwize-cordova": "latest",
+        "mapwize-node-api": "latest",
+        "mapwize-sdk-react-native": "latest",
+        "mapwize-ui": "latest",
+        "mapwize-ui-react-native": "latest",
+        "mapwms": "latest",
+        "mapwrap": "latest"
+    }
+}

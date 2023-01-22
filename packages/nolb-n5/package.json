@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-n5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "n5": "latest",
+        "n5-credit-calculator": "latest",
+        "n5-feature-boilerplate": "latest",
+        "n5-wasm": "latest",
+        "n52-sensorweb-client-core": "latest",
+        "n53-crawler": "latest",
+        "n53-ui": "latest",
+        "n5p2m": "latest"
+    }
+}

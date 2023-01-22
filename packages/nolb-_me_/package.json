@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_me_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@me.rinta/eslint-config-react": "latest",
+        "@me_slack/vue2easyform": "latest",
+        "@me_slack/vue3easyform": "latest"
+    }
+}

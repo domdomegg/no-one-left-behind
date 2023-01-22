@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-elementu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "elementui--j": "latest",
+        "elementui-aa": "latest",
+        "elementui-china-area": "latest",
+        "elementui-cusscroll": "latest",
+        "elementui-dynamic-form": "latest",
+        "elementui-enn": "latest",
+        "elementui-my-h": "latest",
+        "elementui-nd": "latest",
+        "elementui-tree-select": "latest",
+        "elementui-w": "latest",
+        "elementui-xyfsy": "latest",
+        "elementui-zzb": "latest",
+        "elementui22": "latest",
+        "elementui3": "latest",
+        "elementui_n9_v1": "latest",
+        "elementui_treegrid": "latest",
+        "elementui_zzch": "latest",
+        "elementum": "latest",
+        "elementum-challenge": "latest",
+        "elementum-tools": "latest",
+        "elementum-tools-cli": "latest"
+    }
+}

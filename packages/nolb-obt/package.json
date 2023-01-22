@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-obt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "obta": "latest",
+        "obtain": "latest",
+        "obtain-fetch": "latest",
+        "obtain-git-repo": "latest",
+        "obtain-github-app-installation-access-token": "latest",
+        "obtain-package-manager": "latest",
+        "obtain-unicode": "latest",
+        "obtain-uppercase": "latest",
+        "obtain.js": "latest",
+        "obtaincare_uikit": "latest",
+        "obtaintime": "latest",
+        "obten": "latest",
+        "obtener": "latest",
+        "obtenir": "latest",
+        "obter": "latest",
+        "obter-cpfs": "latest",
+        "obtile-styles": "latest",
+        "obtions": "latest",
+        "obtobase-title": "latest",
+        "obtool": "latest",
+        "obtotype": "latest",
+        "obtree": "latest",
+        "obtuse": "latest"
+    }
+}

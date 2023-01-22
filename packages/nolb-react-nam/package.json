@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-react-nam",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-name": "latest",
+        "react-name-pinyin": "latest",
+        "react-named-hooks-router": "latest",
+        "react-named-reducer": "latest",
+        "react-named-router": "latest",
+        "react-named-routes": "latest",
+        "react-named-state": "latest",
+        "react-namespaces": "latest",
+        "react-namita-text": "latest"
+    }
+}

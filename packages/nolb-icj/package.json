@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-icj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "icj": "latest",
+        "icjs-abi": "latest",
+        "icjs-accounts": "latest",
+        "icjs-block": "latest",
+        "icjs-blockchain": "latest",
+        "icjs-common": "latest",
+        "icjs-init-config": "latest",
+        "icjs-mpt": "latest",
+        "icjs-testing": "latest",
+        "icjs-tx": "latest",
+        "icjs-util": "latest",
+        "icjs-vm": "latest",
+        "icjs-wallet": "latest"
+    }
+}

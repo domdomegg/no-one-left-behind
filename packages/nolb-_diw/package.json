@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_diw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@diw1/mirrorx": "latest",
+        "@diwadidu/data-table": "latest",
+        "@diwala/auth": "latest",
+        "@diwala/configurator": "latest",
+        "@diwala/ed25519-verification-key-2020": "latest",
+        "@diwala/guardian": "latest",
+        "@diwala/killer-shrew": "latest",
+        "@diwala/logger": "latest",
+        "@diwala/types": "latest",
+        "@diwank/react-ssml-dom": "latest",
+        "@diwanshipandey/hello-wasm": "latest",
+        "@diwanshipandey/rust-and-wasm": "latest",
+        "@diwanshipandey/wasm-rust-triangle": "latest",
+        "@diwcop/random-number-generator": "latest",
+        "@diwotech/leaflet-distortableimage": "latest",
+        "@diwotech/react-leaflet-distortable-imageoverlay": "latest",
+        "@diwotech/testlib": "latest"
+    }
+}

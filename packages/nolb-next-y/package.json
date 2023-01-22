@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-next-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "next-yaml": "latest",
+        "next-yandex-metrika": "latest",
+        "next-yate": "latest",
+        "next-yate-compat": "latest",
+        "next-yesterday": "latest",
+        "next-ym": "latest",
+        "next-yup": "latest"
+    }
+}

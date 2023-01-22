@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-jow",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jow": "latest",
+        "jow-logger": "latest",
+        "jowa-au-input": "latest",
+        "jowar": "latest",
+        "jowar.array": "latest",
+        "jowar.boolean": "latest",
+        "jowar.iterable": "latest",
+        "jowar.object": "latest",
+        "jowar.string": "latest",
+        "joways_websocket": "latest",
+        "jowd-tiny-npm-package": "latest",
+        "joweb": "latest",
+        "jowl": "latest",
+        "jowo-editor-dev": "latest"
+    }
+}

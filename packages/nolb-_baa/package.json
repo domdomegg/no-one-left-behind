@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_baa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@baabouj/validator": "latest",
+        "@baadal-sdk/baadal-ui": "latest",
+        "@baadal-sdk/dapi": "latest",
+        "@baadal-sdk/utils": "latest",
+        "@baadc0de/audioworklet-polyfill": "latest",
+        "@baadc0de/grpc-generator": "latest",
+        "@baaldev/datamap": "latest",
+        "@baaldev/logger": "latest",
+        "@baaluo/bears-js": "latest",
+        "@baaluo/libcrypto": "latest",
+        "@baaluo/rpc-auth": "latest",
+        "@baam/cli": "latest",
+        "@baania/bestimate-sdk": "latest",
+        "@baanloh/cache": "latest",
+        "@baatomaps/baato-js-client": "latest",
+        "@baatomaps/baato-js-geocoder": "latest",
+        "@baaz/adapter": "latest",
+        "@baaz/babel-preset-adapter": "latest",
+        "@baaz/buildpack": "latest",
+        "@baaz/cli": "latest"
+    }
+}

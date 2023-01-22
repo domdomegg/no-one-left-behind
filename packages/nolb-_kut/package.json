@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_kut",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kutaloweb/bahar": "latest",
+        "@kutaloweb/mern": "latest",
+        "@kutaloweb/merng": "latest",
+        "@kutickets/common": "latest",
+        "@kutils/babel-plugin-react-docgen": "latest",
+        "@kutils/react-spinners-css": "latest",
+        "@kutluduman/lotide": "latest",
+        "@kutsan/config": "latest",
+        "@kutuluk/number-to-string": "latest"
+    }
+}

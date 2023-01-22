@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_ryf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryfow/react-native-windows": "latest",
+        "@ryfylke-react/create-api-slice": "latest",
+        "@ryfylke-react/rtk-query-loader": "latest",
+        "@ryfylke-react/ui": "latest"
+    }
+}

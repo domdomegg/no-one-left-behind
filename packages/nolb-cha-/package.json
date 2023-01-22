@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-cha-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cha-0": "latest",
+        "cha-1": "latest",
+        "cha-2": "latest",
+        "cha-3": "latest",
+        "cha-4": "latest",
+        "cha-5": "latest",
+        "cha-6": "latest",
+        "cha-7": "latest",
+        "cha-8": "latest",
+        "cha-9": "latest",
+        "cha-aishanglu": "latest",
+        "cha-cha-changes": "latest",
+        "cha-cli": "latest",
+        "cha-gulp": "latest",
+        "cha-load": "latest",
+        "cha-price": "latest",
+        "cha-publish-test": "latest",
+        "cha-target": "latest",
+        "cha-template": "latest",
+        "cha-ui": "latest",
+        "cha-ui-components": "latest",
+        "cha-watch": "latest"
+    }
+}

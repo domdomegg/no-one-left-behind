@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_webx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@webxander/models": "latest",
+        "@webxauth/webxauth-ui-react-native": "latest",
+        "@webxense/api-util": "latest",
+        "@webxense/contracts": "latest",
+        "@webxense/npm-api-util": "latest",
+        "@webxense/react-util": "latest",
+        "@webxense/ts-npm-package": "latest",
+        "@webxmsj/eslint-config": "latest",
+        "@webxmsj/eslint-config-basic": "latest",
+        "@webxmsj/eslint-config-react": "latest",
+        "@webxmsj/eslint-config-ts": "latest",
+        "@webxmsj/eslint-config-vue": "latest",
+        "@webxmsj/utils": "latest",
+        "@webxmsj/wechat-devtool": "latest",
+        "@webxp/shield-js": "latest",
+        "@webxp/wxp-plugin": "latest",
+        "@webxr-input-profiles/assets": "latest",
+        "@webxr-input-profiles/motion-controllers": "latest",
+        "@webxr-input-profiles/registry": "latest",
+        "@webxrd/cache": "latest",
+        "@webxrd/vite-plugin-svg": "latest",
+        "@webxstudio/nodejs-ms-ticketing-common": "latest"
+    }
+}

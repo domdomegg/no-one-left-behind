@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-mcj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mcj-cli": "latest",
+        "mcj-large-number": "latest",
+        "mcjb": "latest",
+        "mcjcloudann": "latest",
+        "mcjo": "latest",
+        "mcjs": "latest",
+        "mcjs-utils": "latest",
+        "mcjson": "latest",
+        "mcjsonapi": "latest",
+        "mcjsongen": "latest"
+    }
+}

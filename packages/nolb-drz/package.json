@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-drz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "drz": "latest",
+        "drzk-flex-grid": "latest",
+        "drzzle-dragula": "latest",
+        "drzzle-streamsaver": "latest"
+    }
+}

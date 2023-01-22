@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-aws-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aws-xray-koa-middleware": "latest",
+        "aws-xray-lambda-promise-subsegment": "latest",
+        "aws-xray-mock": "latest",
+        "aws-xray-parameter-whitelist": "latest",
+        "aws-xray-sdk": "latest",
+        "aws-xray-sdk-core": "latest",
+        "aws-xray-sdk-core-callback-wrapper": "latest",
+        "aws-xray-sdk-express": "latest",
+        "aws-xray-sdk-fastify": "latest",
+        "aws-xray-sdk-hapi": "latest",
+        "aws-xray-sdk-koa": "latest",
+        "aws-xray-sdk-koa2": "latest",
+        "aws-xray-sdk-mysql": "latest",
+        "aws-xray-sdk-node": "latest",
+        "aws-xray-sdk-postgres": "latest",
+        "aws-xray-sdk-restify": "latest",
+        "aws-xray-sequelize-pg-dialect": "latest",
+        "aws-xray-trace-id": "latest",
+        "aws-xray-ts-decorator": "latest"
+    }
+}

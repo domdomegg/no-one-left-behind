@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-v-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "v-yccf": "latest",
+        "v-ycf": "latest",
+        "v-year-calendar": "latest",
+        "v-year-peaker": "latest",
+        "v-yejiaxiang": "latest",
+        "v-ymap": "latest",
+        "v-yokozuna": "latest",
+        "v-youtube": "latest"
+    }
+}

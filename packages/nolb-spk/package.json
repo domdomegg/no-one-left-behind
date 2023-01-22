@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-spk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "spk": "latest",
+        "spk-antd": "latest",
+        "spk-auth-react": "latest",
+        "spk-cache": "latest",
+        "spk-cli": "latest",
+        "spk-cookie": "latest",
+        "spk-graph-client": "latest",
+        "spk-helper-react": "latest",
+        "spk-messages": "latest",
+        "spk-tables": "latest",
+        "spk-test-publish": "latest",
+        "spk-toast-test": "latest",
+        "spk-workflow": "latest",
+        "spk_api": "latest",
+        "spkac-ts": "latest",
+        "spkf-next-auth": "latest",
+        "spkg": "latest",
+        "spkg-a": "latest",
+        "spkg-b": "latest",
+        "spkg-c": "latest",
+        "spkgdru-frontend-project-lvl1": "latest",
+        "spkndrbxkzghiyqf": "latest",
+        "spknetwork-auth-monorepo": "latest",
+        "spkrid_test1": "latest"
+    }
+}

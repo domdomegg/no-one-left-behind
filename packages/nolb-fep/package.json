@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-fep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fep": "latest",
+        "fep-cli": "latest",
+        "fep-util": "latest",
+        "fepack": "latest",
+        "fepackages": "latest",
+        "fepackt": "latest",
+        "fepeleaks": "latest",
+        "fepi-cli": "latest",
+        "fepkg": "latest",
+        "fepkg-module1": "latest",
+        "feplet": "latest",
+        "fepm": "latest",
+        "fepp": "latest",
+        "fepper": "latest",
+        "fepper-cli": "latest",
+        "fepper-ui": "latest",
+        "fepper-utils": "latest",
+        "fepro": "latest",
+        "feproxy": "latest",
+        "fept": "latest"
+    }
+}

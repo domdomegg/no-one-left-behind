@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-drt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "drt": "latest",
+        "drt-button-duan-xu-xin-ting-ll": "latest",
+        "drt-devcamp-js-footer": "latest",
+        "drt-form-duan-xu-xin": "latest",
+        "drt-formitem-duan-xu-xin": "latest",
+        "drt-input-duan-xu-xin": "latest",
+        "drt-link": "latest",
+        "drt-steps-duan-xu-xin": "latest",
+        "drtech-printer": "latest",
+        "drtggh_fyhjj_fgyhj_": "latest",
+        "drtire-test-2019": "latest",
+        "drtis-color-palette-generator": "latest",
+        "drtodo": "latest",
+        "drtoms-nodehelpers": "latest",
+        "drtools": "latest",
+        "drtweb": "latest",
+        "drty": "latest",
+        "drty-facebook": "latest",
+        "drtyoshi-semantic-release-monorepo": "latest",
+        "drtyoshi-smash-native": "latest",
+        "drtyoshi-smash-web": "latest"
+    }
+}

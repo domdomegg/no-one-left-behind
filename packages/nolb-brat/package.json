@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-brat",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brat": "latest",
+        "brat-client": "latest",
+        "brat-frontend-editor": "latest",
+        "brat-frontend-minify": "latest",
+        "brat-vue-bulma-switch": "latest",
+        "brat-vue-modal-js": "latest",
+        "brat-widget": "latest",
+        "brat1package.json": "latest",
+        "bratann": "latest",
+        "brati": "latest",
+        "bratik": "latest",
+        "bratishka": "latest",
+        "bratislava-transit": "latest",
+        "bratu.io.colors": "latest",
+        "bratu.io.typography": "latest",
+        "bratus": "latest",
+        "bratus-bartosz-3ib1-test2": "latest",
+        "bratwurm-probabilities": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-conne",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-connec": "latest",
+        "@zalastax/nolb-connek": "latest",
+        "@zalastax/nolb-connel": "latest",
+        "@zalastax/nolb-conner": "latest",
+        "@zalastax/nolb-connex": "latest"
+    }
+}

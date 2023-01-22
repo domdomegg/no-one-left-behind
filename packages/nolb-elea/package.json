@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-elea",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eleadmin-testcli": "latest",
+        "eleanor": "latest",
+        "eleanor-split-test": "latest",
+        "eleanor01": "latest",
+        "eleanor02": "latest",
+        "eleanor03": "latest",
+        "elearning": "latest",
+        "elearning-frontend-core": "latest",
+        "elearning-player-bridge": "latest",
+        "elearning-webpack-engine": "latest",
+        "elearningmum2": "latest",
+        "eleave-user": "latest",
+        "eleazarbr-npmtests": "latest"
+    }
+}

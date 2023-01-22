@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_nij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nij/test1": "latest",
+        "@nij4t/jsonresume-theme-flat": "latest",
+        "@nij4t/resume-cli": "latest",
+        "@nij4t/resume-schema": "latest",
+        "@nijatbakhtiyarli/editor": "latest",
+        "@nijeesh4all/snowflake-js": "latest",
+        "@nijisog/checkaam": "latest",
+        "@nijisog/donation-common": "latest",
+        "@nijisog/todo_common": "latest",
+        "@nijisog/todotype-common": "latest",
+        "@nijooke/cra-template": "latest",
+        "@nijooke/create-react-app": "latest",
+        "@nijooke/react-scripts": "latest",
+        "@nijor/cli": "latest",
+        "@nijor/nijor": "latest",
+        "@nijor/nijor-rollup-plugin": "latest"
+    }
+}

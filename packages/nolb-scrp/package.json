@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-scrp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "scrp": "latest",
+        "scrp-proyect-786": "latest",
+        "scrpio-tools": "latest",
+        "scrpr": "latest",
+        "scrpt": "latest",
+        "scrptrs-kifly-modular": "latest",
+        "scrpts": "latest"
+    }
+}

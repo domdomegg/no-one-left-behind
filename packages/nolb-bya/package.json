@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-bya",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bya": "latest",
+        "bya-cli": "latest",
+        "byadammodule": "latest",
+        "byagihas": "latest",
+        "byakugan": "latest",
+        "byakugan-js": "latest",
+        "byanzhengyici": "latest",
+        "byarn": "latest"
+    }
+}

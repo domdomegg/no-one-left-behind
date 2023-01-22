@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_fors",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@forsaken87/gaming-buddy": "latest",
+        "@forsaken87/gaming-buddy-blizz-hots": "latest",
+        "@forsaken87/gaming-buddy-plugins": "latest",
+        "@forsaken87/screenshot-capture": "latest",
+        "@forsakesoul/large-number": "latest",
+        "@forscht/ddrive": "latest",
+        "@forscht/eslint-config": "latest",
+        "@forsee/console": "latest",
+        "@forsee/file-crypt": "latest",
+        "@forsee/life-circle": "latest",
+        "@forsee/link": "latest",
+        "@forsee/rollup-plugin-conditional": "latest",
+        "@forsee/sandbox": "latest",
+        "@forsellersapp/sui-reactjs": "latest",
+        "@forsigner/egg-typeorm": "latest",
+        "@forsigner/react-native-trtc": "latest"
+    }
+}

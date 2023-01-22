@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-jiv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jiv": "latest",
+        "jiva-lib": "latest",
+        "jive-angular": "latest",
+        "jive-angular-cli": "latest",
+        "jive-api": "latest",
+        "jive-c3r-ui": "latest",
+        "jive-persistence": "latest",
+        "jive-persistence-mongo": "latest",
+        "jive-persistence-postgres": "latest",
+        "jive-persistence-sqlite": "latest",
+        "jive-redux-starter-kit": "latest",
+        "jive-scheduler": "latest",
+        "jive-scheduler-kue": "latest",
+        "jive-sdk": "latest",
+        "jive-simple-api": "latest",
+        "jive-styling-toolkit": "latest",
+        "jive-testing-framework": "latest",
+        "jive-theme-upload": "latest",
+        "jive-use-persisted-state": "latest",
+        "jivejs": "latest",
+        "jivescript": "latest",
+        "jivf-cd": "latest",
+        "jivf-cli": "latest",
+        "jivinliu-test1": "latest",
+        "jivo-chat-initializer": "latest"
+    }
+}

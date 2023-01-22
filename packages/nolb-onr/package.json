@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-onr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "onr.js": "latest",
+        "onramp": "latest",
+        "onready": "latest",
+        "onreg-custom-lib": "latest",
+        "onrein": "latest",
+        "onrender": "latest",
+        "onrender-next-auth": "latest",
+        "onresize": "latest",
+        "onrm": "latest",
+        "onrmalize.cssl": "latest",
+        "onroad-testing-utilities": "latest",
+        "onroto-standings-scraper": "latest",
+        "onroutechange": "latest",
+        "onrush-swear-list": "latest"
+    }
+}

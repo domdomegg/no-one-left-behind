@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-babel-l",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-lab": "latest",
+        "babel-lambda-skeleton": "latest",
+        "babel-laoder": "latest",
+        "babel-lgl": "latest",
+        "babel-library-boilerplate": "latest",
+        "babel-library-register": "latest",
+        "babel-lit-jsx-plugin": "latest",
+        "babel-literal-to-ast": "latest",
+        "babel-live": "latest",
+        "babel-load-config": "latest",
+        "babel-load-on-demand-snow": "latest",
+        "babel-load-path-plugin": "latest",
+        "babel-loader": "latest",
+        "babel-loader-builder": "latest",
+        "babel-loader-exclude-node-modules-except": "latest",
+        "babel-loader-herbox": "latest",
+        "babel-loader-lerna-cra": "latest",
+        "babel-loader-lerna-cra-ts": "latest",
+        "babel-loader-lerna-cra2": "latest",
+        "babel-loader-wepack-5": "latest",
+        "babel-loadre": "latest",
+        "babel-loadsh-plugin": "latest",
+        "babel-lodash-replace": "latest",
+        "babel-log": "latest",
+        "babel-looks-like": "latest",
+        "babel-loqder": "latest",
+        "babel-lugin-dynamic-i9port-node": "latest"
+    }
+}

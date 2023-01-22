@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-karg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "karg": "latest",
+        "karga": "latest",
+        "kargale-player-initializer": "latest",
+        "kargale-player-screen-helper": "latest",
+        "kargo": "latest",
+        "kargo-logo": "latest",
+        "kargojs": "latest",
+        "kargv": "latest"
+    }
+}

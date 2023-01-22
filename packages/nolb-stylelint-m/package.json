@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-stylelint-m",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylelint-magento-standard": "latest",
+        "stylelint-magento-standard-mc": "latest",
+        "stylelint-magic-numbers": "latest",
+        "stylelint-max-lines": "latest",
+        "stylelint-max-root-rules": "latest",
+        "stylelint-max-selectors": "latest",
+        "stylelint-max-width-query": "latest",
+        "stylelint-media-use-custom-media": "latest",
+        "stylelint-mirego": "latest",
+        "stylelint-miszo": "latest",
+        "stylelint-mixin-extend-usage": "latest",
+        "stylelint-mocha-formatter": "latest"
+    }
+}

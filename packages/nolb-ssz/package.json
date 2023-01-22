@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-ssz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ssz": "latest",
+        "ssz-ui": "latest",
+        "sszlg-button": "latest",
+        "sszlg-form": "latest",
+        "sszlg-form-item": "latest",
+        "sszlg-input": "latest",
+        "sszlg-steps": "latest",
+        "ssznb": "latest",
+        "sszok": "latest",
+        "sszt-layouts": "latest",
+        "sszvis": "latest"
+    }
+}

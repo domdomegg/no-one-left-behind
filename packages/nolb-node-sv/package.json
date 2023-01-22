@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-node-sv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-svarut": "latest",
+        "node-svd": "latest",
+        "node-svg-fill": "latest",
+        "node-svg-inliner": "latest",
+        "node-svg2android": "latest",
+        "node-svg2img": "latest",
+        "node-svg2png": "latest",
+        "node-svg2png-es5": "latest",
+        "node-svgcaptcha": "latest",
+        "node-svgcatpcha": "latest",
+        "node-svgcleaner": "latest",
+        "node-svm": "latest",
+        "node-svm-smo": "latest",
+        "node-svm-wc": "latest",
+        "node-svn": "latest",
+        "node-svn-ultimate": "latest",
+        "node-svnlook": "latest",
+        "node-svnsync": "latest"
+    }
+}

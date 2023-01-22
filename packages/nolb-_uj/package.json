@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_uj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ujc/shebangify": "latest",
+        "@ujjawalsidhpura/lotide": "latest",
+        "@ujjual/cli-quiz": "latest",
+        "@ujjwalkadam/cli-tool": "latest",
+        "@ujl/clean-dir": "latest",
+        "@ujl/prettierrc": "latest",
+        "@ujl/shared": "latest",
+        "@ujl/vue-loading": "latest",
+        "@ujoteam/badges": "latest",
+        "@ujoteam/card": "latest",
+        "@ujoteam/config": "latest",
+        "@ujoteam/contracts-badges": "latest",
+        "@ujoteam/contracts-licensing": "latest",
+        "@ujoteam/contracts-oracle": "latest",
+        "@ujoteam/licensing": "latest",
+        "@ujoteam/sandbox": "latest",
+        "@ujoteam/utils": "latest"
+    }
+}

@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-passport-1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "passport-1crm-oauth": "latest",
+        "passport-1time": "latest"
+    }
+}

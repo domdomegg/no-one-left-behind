@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-noy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "noy": "latest",
+        "noy-react-scripts": "latest",
+        "noy_multiple": "latest",
+        "noya": "latest",
+        "noya-antd-plus": "latest",
+        "noya-cli": "latest",
+        "noya-desktop": "latest",
+        "noya-vue3-ts-lib": "latest",
+        "noyacg-app": "latest",
+        "noyalin": "latest",
+        "noyami": "latest",
+        "noyan": "latest",
+        "noyan-mobile": "latest",
+        "noyanjs": "latest",
+        "noyanse-cli-lib": "latest",
+        "noyanse-cli-test": "latest",
+        "noyarn": "latest",
+        "noyasiaads": "latest",
+        "noyau": "latest",
+        "noyb": "latest",
+        "noyd": "latest",
+        "noyeau-ngmodule-authentification": "latest",
+        "noyirmibir-react": "latest",
+        "noykou": "latest",
+        "noyo": "latest",
+        "noyteam": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_cl8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cl8n/rate-limiter": "latest",
+        "@cl8n/types": "latest",
+        "@cl8n/web-client": "latest"
+    }
+}

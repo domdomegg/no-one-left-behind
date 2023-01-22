@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-ui-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ui-observer": "latest",
+        "ui-offset": "latest",
+        "ui-omg": "latest",
+        "ui-optimizelib": "latest",
+        "ui-order-flow": "latest",
+        "ui-organization-card": "latest",
+        "ui-organizer": "latest",
+        "ui-organizer-monaco": "latest",
+        "ui-organizer-webpack-plugin": "latest",
+        "ui-overwatch": "latest",
+        "ui-overwatch-cli": "latest"
+    }
+}

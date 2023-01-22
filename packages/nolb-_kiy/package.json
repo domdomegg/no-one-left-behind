@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_kiy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kiy-ui/utils": "latest",
+        "@kiy/color": "latest",
+        "@kiyan/use-router": "latest",
+        "@kiyasov/apollo-multi-endpoint-link": "latest",
+        "@kiyasov/events": "latest",
+        "@kiyasov/graphql-redis-subscriptions": "latest",
+        "@kiyasov/nest-graphql": "latest",
+        "@kiyasov/noty": "latest",
+        "@kiyasov/qiwi": "latest",
+        "@kiyasov/sequelize-cli": "latest",
+        "@kiyasov/sticky-session": "latest",
+        "@kiyasov/wg": "latest",
+        "@kiyasov/yoomoney": "latest",
+        "@kiyo5hi/node-sql-parser": "latest",
+        "@kiyoaki_w/vue-context": "latest",
+        "@kiyoshi-tutos/common": "latest",
+        "@kiyoshidainagon/my-button": "latest",
+        "@kiyoshidainagon/zoi": "latest",
+        "@kiyoshiro/ts-wire": "latest",
+        "@kiyutink/fbp": "latest"
+    }
+}

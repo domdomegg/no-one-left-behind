@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-cra-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cra-js": "latest",
+        "cra-json-sass": "latest",
+        "cra-jsonapi": "latest"
+    }
+}

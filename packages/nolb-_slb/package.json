@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_slb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@slb-broker/search-group": "latest",
+        "@slb-broker/simple-table": "latest",
+        "@slbclicope/core": "latest",
+        "@slbclicope/get-npm-info": "latest",
+        "@slbclicope/log": "latest",
+        "@slbclicope/utils": "latest"
+    }
+}

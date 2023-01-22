@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_mep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mep.tech/instant": "latest",
+        "@mep.tech/instant-core": "latest",
+        "@mepcad/typings": "latest",
+        "@mepheser/wordpress-gulp": "latest",
+        "@mephistopheles1010/bsg-nodejs": "latest",
+        "@mephistowa/cra-template-typescript-redux-red-quick": "latest",
+        "@mephistowa/point-in-poly": "latest",
+        "@mephistowa/voronoi": "latest",
+        "@mephiztopheles/astcompiler": "latest",
+        "@mephiztopheles/countdown": "latest",
+        "@mephiztopheles/dom-element": "latest",
+        "@mephiztopheles/fancypromise": "latest",
+        "@mephiztopheles/jsfx": "latest",
+        "@mephiztopheles/lexer": "latest",
+        "@mephiztopheles/properties": "latest",
+        "@mephiztopheles/test": "latest",
+        "@mepps32/how-to-npm-test": "latest",
+        "@meproj/common": "latest"
+    }
+}

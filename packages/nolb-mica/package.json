@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-mica",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mica": "latest",
+        "mica-cards": "latest",
+        "mica-core": "latest",
+        "mica-electron": "latest",
+        "mica-graphql": "latest",
+        "mica-headings": "latest",
+        "mica-mongoose": "latest",
+        "mica-paragraph": "latest",
+        "mica-rn-web": "latest",
+        "mica-util": "latest",
+        "micache": "latest",
+        "micaela-first-node-js-package": "latest",
+        "micah-cli": "latest",
+        "micah-cli-lib": "latest",
+        "micajs": "latest",
+        "micapp": "latest",
+        "micate": "latest",
+        "micaui": "latest",
+        "micaui-plus": "latest",
+        "micaui-pro": "latest",
+        "micaui-react": "latest",
+        "micaui-uni": "latest",
+        "micaui-vue": "latest"
+    }
+}

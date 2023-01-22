@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-cordova-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cordova-validate-id": "latest",
+        "cordova-valley-installer": "latest",
+        "cordova-veoci-file-transfer": "latest",
+        "cordova-veoci-filechooser": "latest",
+        "cordova-veoci-firebase-crashlytics": "latest",
+        "cordova-version": "latest",
+        "cordova-version-bump": "latest",
+        "cordova-version-control": "latest",
+        "cordova-version-sync": "latest",
+        "cordova-version-updater": "latest",
+        "cordova-vilango-plugin-meteor-webapp": "latest",
+        "cordova-vito-plugin-android-permissions-vito": "latest",
+        "cordova-vito-plugin-inappbrowser-vito": "latest",
+        "cordova-vk": "latest",
+        "cordova-vk-alt": "latest",
+        "cordova-vk-login": "latest",
+        "cordova-voip-push-notifications": "latest",
+        "cordova-volume-control": "latest",
+        "cordova-voxeet": "latest",
+        "cordova-vr-player": "latest",
+        "cordova-vue": "latest",
+        "cordova-vuforia": "latest"
+    }
+}

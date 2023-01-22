@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-jid",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jid": "latest",
+        "jid-test": "latest",
+        "jida-frontend-compiler": "latest",
+        "jidai": "latest",
+        "jidan": "latest",
+        "jidan-test-first-package": "latest",
+        "jidang-ui": "latest",
+        "jidangeng": "latest",
+        "jidbits": "latest",
+        "jide": "latest",
+        "jide-musty-starwars-names": "latest",
+        "jidi": "latest",
+        "jidiao-cdn": "latest",
+        "jidu": "latest",
+        "jiduan-ziwo-jiushiwang": "latest",
+        "jidujiao-zhanxingxue": "latest"
+    }
+}

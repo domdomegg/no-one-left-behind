@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_h1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@h1-card/h1-fe-components": "latest",
+        "@h1-card/h1-fe-icons": "latest",
+        "@h1-card/h1-fe-theme": "latest",
+        "@h1/lemmy": "latest",
+        "@h1/native-butler": "latest",
+        "@h1402596199/hk-test": "latest",
+        "@h1ghbre4k3r/lighthouse.js": "latest",
+        "@h1h2/myfunctions": "latest",
+        "@h1mple/cli": "latest",
+        "@h1mple/utils": "latest",
+        "@h1nyc/eslint-config-precise": "latest",
+        "@h1r0yuk1/hello-wasm": "latest",
+        "@h1totsu/auth-shared": "latest",
+        "@h1totsu/mf-cli": "latest",
+        "@h1u2i3/modal-enhanced-react-native-web": "latest",
+        "@h1u2i3/modal-react-native-web": "latest",
+        "@h1u2i3/socket": "latest",
+        "@h1u2i3/socket-graphiql": "latest",
+        "@h1x4dev/node-addon-api": "latest"
+    }
+}

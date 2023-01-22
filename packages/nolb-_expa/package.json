@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_expa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@expandorg/api-client": "latest",
+        "@expandorg/app-account": "latest",
+        "@expandorg/app-auth": "latest",
+        "@expandorg/app-gemtokens": "latest",
+        "@expandorg/app-utils": "latest",
+        "@expandorg/app-web3": "latest",
+        "@expandorg/components": "latest",
+        "@expandorg/eslint-config": "latest",
+        "@expandorg/expand-token": "latest",
+        "@expandorg/expand-vault": "latest",
+        "@expandorg/form-editor": "latest",
+        "@expandorg/modules": "latest",
+        "@expandorg/richtext": "latest",
+        "@expandorg/uikit": "latest",
+        "@expandorg/utils": "latest",
+        "@expandorg/validation": "latest",
+        "@expanse/web3": "latest",
+        "@expantra/pipeline-widget-proto": "latest",
+        "@expantra/widget-framework-poc": "latest",
+        "@expat/xeno": "latest"
+    }
+}

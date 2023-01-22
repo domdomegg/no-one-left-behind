@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-weal",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wealdtech-solidity": "latest",
+        "weallbehave": "latest",
+        "weallcontribute": "latest",
+        "wealsegun-frame-print": "latest",
+        "wealth": "latest",
+        "wealth-healt": "latest",
+        "wealth-health-app": "latest",
+        "wealth-health-react-modal": "latest",
+        "wealthengine-node-sdk": "latest",
+        "wealthfit-scripts": "latest",
+        "wealthfront-javascript": "latest",
+        "wealtho2-assets": "latest",
+        "wealthor": "latest",
+        "wealthscope-partner-sdk": "latest",
+        "wealthsimple": "latest",
+        "wealthworks-redux-auth": "latest",
+        "wealthy-text-editor": "latest"
+    }
+}

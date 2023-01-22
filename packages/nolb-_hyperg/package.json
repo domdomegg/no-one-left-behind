@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_hyperg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyperg/create-sveltcoin": "latest",
+        "@hyperg/ts-ts": "latest",
+        "@hypergraph-xyz/cli": "latest",
+        "@hypergraph-xyz/editor": "latest",
+        "@hypergraph-xyz/wikidata-identifiers": "latest",
+        "@hypergraph/zeta": "latest"
+    }
+}

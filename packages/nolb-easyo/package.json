@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-easyo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "easyobserve": "latest",
+        "easyoctane": "latest",
+        "easyol": "latest",
+        "easyolmaps": "latest",
+        "easyoncloud": "latest",
+        "easyoncloud-sdk": "latest",
+        "easyorderstencil": "latest",
+        "easyorm": "latest",
+        "easyout": "latest",
+        "easyoxygen": "latest"
+    }
+}

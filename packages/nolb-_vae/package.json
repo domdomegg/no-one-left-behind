@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_vae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vaechy/tsnode-cli": "latest",
+        "@vaem-util/filesystem": "latest",
+        "@vaem/player": "latest",
+        "@vaezc/vae-components": "latest",
+        "@vaezc/vae-project": "latest",
+        "@vaezc/vae-utils": "latest"
+    }
+}

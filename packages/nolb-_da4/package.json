@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_da4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@da440dil/js-counter": "latest",
+        "@da440dil/js-locker": "latest",
+        "@da440dil/js-redis-script": "latest"
+    }
+}

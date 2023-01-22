@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-logz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "logz": "latest",
+        "logz-js": "latest",
+        "logzen-browser": "latest",
+        "logzen-node": "latest",
+        "logzilla": "latest",
+        "logzio-bunyan": "latest",
+        "logzio-client-side": "latest",
+        "logzio-logger": "latest",
+        "logzio-node-debug": "latest",
+        "logzio-node-tools": "latest",
+        "logzio-nodejs": "latest",
+        "logzio-nodejs-metrics": "latest",
+        "logzio-nodejs-metrics-alpha": "latest",
+        "logzio-nodejs-metrics-sdk": "latest",
+        "logzio-search-export": "latest",
+        "logzio-shipper": "latest",
+        "logzio-ts": "latest",
+        "logzone": "latest",
+        "logzoo": "latest",
+        "logzoro": "latest",
+        "logzultimate": "latest",
+        "logzy": "latest"
+    }
+}

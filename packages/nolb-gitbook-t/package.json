@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-gitbook-t",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gitbook-tester": "latest",
+        "gitbook-theme": "latest",
+        "gitbook-theme-appcelerator": "latest",
+        "gitbook-theme-bookstyle": "latest",
+        "gitbook-theme-clarity": "latest",
+        "gitbook-theme-comscore": "latest",
+        "gitbook-theme-dwbtest-block": "latest",
+        "gitbook-theme-fsmklabmanual": "latest",
+        "gitbook-theme-maxiang": "latest",
+        "gitbook-theme-roadmap-edu": "latest",
+        "gitbook-theme-terminus": "latest",
+        "gitbook-theme-webmaker": "latest",
+        "gitbook-themes": "latest",
+        "gitbook-to-gh-pages": "latest"
+    }
+}

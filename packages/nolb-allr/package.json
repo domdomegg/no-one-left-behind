@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-allr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "allready": "latest",
+        "allreq": "latest",
+        "allride-cli-template-react-umi": "latest",
+        "allride-cli-template-vue-element-admin": "latest",
+        "allround-list": "latest",
+        "allrounder": "latest",
+        "allrun": "latest"
+    }
+}

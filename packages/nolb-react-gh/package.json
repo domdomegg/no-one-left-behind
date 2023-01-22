@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-react-gh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-gh-comments": "latest",
+        "react-gh-corner": "latest",
+        "react-gh-emojis": "latest",
+        "react-gh-like-diff": "latest",
+        "react-gh-like-diff-fork": "latest",
+        "react-gh-repo-card": "latest",
+        "react-gh-repo-cards": "latest",
+        "react-ghfork": "latest",
+        "react-ghj": "latest",
+        "react-ghost": "latest",
+        "react-ghost-button": "latest",
+        "react-ghost-i18n": "latest",
+        "react-ghost-loader": "latest",
+        "react-ghost-test": "latest",
+        "react-ghost-view": "latest",
+        "react-ghseets-timeline": "latest",
+        "react-ghub-summary": "latest"
+    }
+}

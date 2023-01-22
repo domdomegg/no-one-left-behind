@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-discord-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discord-jabber-transport-bot": "latest",
+        "discord-javascript": "latest",
+        "discord-jax": "latest",
+        "discord-jesse": "latest",
+        "discord-jest": "latest",
+        "discord-jewel": "latest",
+        "discord-jinx": "latest",
+        "discord-job-panel": "latest",
+        "discord-jokenpo": "latest",
+        "discord-jokes": "latest",
+        "discord-js-cmdhandler-r": "latest",
+        "discord-js-cmdhandler-r-v2": "latest",
+        "discord-js-command-client": "latest",
+        "discord-js-command-handler": "latest",
+        "discord-js-commander": "latest",
+        "discord-js-emojify": "latest",
+        "discord-js-menus": "latest",
+        "discord-js-music-addon": "latest",
+        "discord-js-script": "latest",
+        "discord-js-snippets": "latest",
+        "discord-js-ui": "latest",
+        "discord-js-v13": "latest",
+        "discord-jsv11-new": "latest",
+        "discord-jsv11-new1": "latest",
+        "discord-jsx": "latest",
+        "discord-jukebox": "latest"
+    }
+}

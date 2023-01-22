@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_pht",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@phticket/common": "latest",
+        "@phticketing/common": "latest",
+        "@phtickets/common": "latest",
+        "@phtml/11ty": "latest",
+        "@phtml/css": "latest",
+        "@phtml/define": "latest",
+        "@phtml/doctype": "latest",
+        "@phtml/h-element": "latest",
+        "@phtml/image-alt": "latest",
+        "@phtml/image-size": "latest",
+        "@phtml/include": "latest",
+        "@phtml/js": "latest",
+        "@phtml/jsx": "latest",
+        "@phtml/markdown": "latest",
+        "@phtml/schema": "latest",
+        "@phtml/self-closing": "latest",
+        "@phtml/template": "latest",
+        "@phtnalaska/alaska-datepicker": "latest",
+        "@phtnalaska/alaska-navigation": "latest",
+        "@phtnalaska/alaska-navmenuitem": "latest",
+        "@phtorresdev/healthui": "latest",
+        "@phtorresdev/uihealth": "latest",
+        "@phts/eslint-config": "latest",
+        "@phts/prettier-config": "latest",
+        "@phts/tslint-config": "latest",
+        "@phtt/input-mask": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-1d",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "1d": "latest",
+        "1d-range-query": "latest",
+        "1d3": "latest",
+        "1data-business": "latest",
+        "1date-utils": "latest",
+        "1day": "latest",
+        "1day-1commit": "latest",
+        "1dd": "latest",
+        "1demo1": "latest",
+        "1deno": "latest",
+        "1designtokentesting": "latest",
+        "1devices": "latest",
+        "1dogeland-uikit": "latest",
+        "1dr-build-utilities": "latest",
+        "1dr-class-toggle": "latest",
+        "1dr-media-queries": "latest",
+        "1dr-twig-templating": "latest",
+        "1dr-utils": "latest",
+        "1dui": "latest",
+        "1duplicate1": "latest",
+        "1dv600-jwatcher": "latest"
+    }
+}

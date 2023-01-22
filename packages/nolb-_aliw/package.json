@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_aliw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aliwa/mapcache": "latest",
+        "@aliwa/npm_angular_echarts": "latest",
+        "@aliwa/npm_angular_ueditor": "latest",
+        "@aliwa/npm_react_echarts": "latest",
+        "@aliwa/npm_util": "latest",
+        "@aliwa/phantomjs": "latest",
+        "@aliwind/api-documenter": "latest",
+        "@aliwind/component": "latest",
+        "@aliwind/eslint-config-wind": "latest",
+        "@aliwind/fake-browser": "latest",
+        "@aliwind/rc-actions": "latest",
+        "@aliwind/rc-app-layout": "latest",
+        "@aliwind/rc-confirm": "latest",
+        "@aliwind/rc-console-menu": "latest",
+        "@aliwind/rc-data-fields": "latest",
+        "@aliwind/rc-info": "latest",
+        "@aliwind/rc-intl": "latest",
+        "@aliwind/rc-intl-context": "latest",
+        "@aliwind/rc-page": "latest",
+        "@aliwind/rc-select-list": "latest",
+        "@aliwind/rc-slide-panel": "latest",
+        "@aliwind/rc-status-indicator": "latest",
+        "@aliwind/rc-table": "latest",
+        "@aliwind/rc-truncate": "latest",
+        "@aliwind/theme": "latest",
+        "@aliwind/theme-underplate": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-svgp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svgp": "latest",
+        "svgpack": "latest",
+        "svgpack-loader": "latest",
+        "svgpackage": "latest",
+        "svgpackager": "latest",
+        "svgpantest": "latest",
+        "svgpantest2": "latest",
+        "svgpath": "latest",
+        "svgpath-toolkit": "latest",
+        "svgpath_2": "latest",
+        "svgpathify": "latest",
+        "svgpdf": "latest",
+        "svgpng": "latest",
+        "svgpolyfill": "latest",
+        "svgps": "latest",
+        "svgps-cli": "latest",
+        "svgpublish": "latest"
+    }
+}

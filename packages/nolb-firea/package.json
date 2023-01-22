@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-firea",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fireacg-core": "latest",
+        "fireact": "latest",
+        "fireaction": "latest",
+        "fireactive": "latest",
+        "fireactor": "latest",
+        "fireadmin": "latest",
+        "fireanalytics": "latest",
+        "fireant": "latest",
+        "fireant-cli": "latest",
+        "fireant-less": "latest",
+        "fireant-stylus": "latest",
+        "fireant-timestamp": "latest",
+        "fireant-uglify": "latest",
+        "fireapps-kit": "latest",
+        "firearch": "latest",
+        "firearm": "latest",
+        "fireasp": "latest",
+        "fireauth": "latest",
+        "fireauth_demo": "latest",
+        "fireaway": "latest"
+    }
+}

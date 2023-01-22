@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-geow",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "geowarp": "latest",
+        "geowat-test": "latest",
+        "geowave": "latest",
+        "geowave-cordova": "latest",
+        "geoway-leaflet-sdk": "latest",
+        "geoway-lf-sdk1": "latest",
+        "geowe-coordinate-utils": "latest",
+        "geowe-ui-js": "latest",
+        "geoweather": "latest",
+        "geoweb": "latest",
+        "geowebmap": "latest",
+        "geowords": "latest"
+    }
+}

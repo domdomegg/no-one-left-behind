@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-bros",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "Brosec": "latest",
+        "bros": "latest",
+        "brosay": "latest",
+        "broscript": "latest",
+        "broscript-client": "latest",
+        "brose-bootstrap": "latest",
+        "brose-cli": "latest",
+        "brose-include-html-loader": "latest",
+        "brose-mockjs": "latest",
+        "brose-range": "latest",
+        "brose-rsa": "latest",
+        "brose-slider": "latest",
+        "brose-zepto": "latest",
+        "broseiden": "latest",
+        "broser": "latest",
+        "brosewebpack-dev-server": "latest",
+        "brosir": "latest",
+        "broswer-polyfill-js": "latest",
+        "broswer-streams": "latest",
+        "broszslims-frame-print": "latest"
+    }
+}

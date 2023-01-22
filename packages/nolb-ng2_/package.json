@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-ng2_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ng2.logger": "latest",
+        "ng2_dart_modal": "latest",
+        "ng2_esign": "latest",
+        "ng2_module_library_datatable_frank": "latest",
+        "ng2_simply-component-kit": "latest"
+    }
+}

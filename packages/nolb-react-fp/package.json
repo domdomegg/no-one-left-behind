@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-react-fp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-fp": "latest",
+        "react-fp-context": "latest",
+        "react-fp-ts": "latest",
+        "react-fp-ts-router": "latest",
+        "react-fp-wizard": "latest",
+        "react-fph-library": "latest",
+        "react-fpoint": "latest",
+        "react-fps": "latest",
+        "react-fps-hk-qrcode": "latest",
+        "react-fps-stats": "latest"
+    }
+}

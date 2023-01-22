@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-er-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "er-aws-deploy": "latest",
+        "er-canvas": "latest",
+        "er-cli": "latest",
+        "er-com-ui": "latest",
+        "er-component-lib": "latest",
+        "er-console": "latest",
+        "er-content-component-lib": "latest",
+        "er-custom-hooks": "latest",
+        "er-det-fredag": "latest",
+        "er-det-lille-fredag": "latest",
+        "er-drawer": "latest",
+        "er-expresskit": "latest",
+        "er-frontend": "latest",
+        "er-intl": "latest",
+        "er-nodejs-pptx": "latest",
+        "er-notifications-client": "latest",
+        "er-react-alert": "latest",
+        "er-react-card": "latest",
+        "er-react-contact-chip": "latest",
+        "er-react-intl": "latest",
+        "er-react-login-form": "latest",
+        "er-react-metro-countdown": "latest",
+        "er-react-modal-image": "latest",
+        "er-react-slideshow": "latest",
+        "er-title": "latest",
+        "er-translations-fix": "latest",
+        "er-ui-demo": "latest",
+        "er-ui-react": "latest"
+    }
+}

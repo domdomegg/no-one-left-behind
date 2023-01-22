@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_azz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@azz/elementtree": "latest",
+        "@azz/generator-npm-package": "latest",
+        "@azz/prettier-config": "latest",
+        "@azzabihamza/essential-web-icons": "latest",
+        "@azzam/lotide": "latest",
+        "@azzamdaaboul/country-iso-3-to-2": "latest",
+        "@azzaya/freshdeskcti": "latest"
+    }
+}

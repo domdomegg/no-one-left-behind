@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-babel-po",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-polyfill": "latest",
+        "babel-polyfill-fix": "latest",
+        "babel-polyfill-fix-gopn": "latest",
+        "babel-polyfill-loader": "latest",
+        "babel-polyfill-safe": "latest",
+        "babel-polyfill-safer": "latest",
+        "babel-polyfill-silencer": "latest",
+        "babel-polyfill-udemy-website": "latest",
+        "babel-polyfills-generator": "latest",
+        "babel-polyflil": "latest",
+        "babel-polyscripted": "latest"
+    }
+}

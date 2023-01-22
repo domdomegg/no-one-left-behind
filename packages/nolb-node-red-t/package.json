@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-node-red-t",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-tagocore": "latest",
+        "node-red-tekos": "latest",
+        "node-red-tekos2": "latest",
+        "node-red-test-helper-tool": "latest",
+        "node-red-test1": "latest",
+        "node-red-test123": "latest",
+        "node-red-testfichier": "latest",
+        "node-red-trigger-atleast-every-x": "latest",
+        "node-red-tuya": "latest",
+        "node-red-twitter": "latest"
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-electroni",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "electronic": "latest",
+        "electronic-circuit": "latest",
+        "electronic-config": "latest",
+        "electronic-forms": "latest",
+        "electronic-institutions": "latest",
+        "electronic-invoice": "latest",
+        "electronic-kit-start": "latest",
+        "electronic-medical-record": "latest",
+        "electronic-post-message": "latest",
+        "electronic-scale": "latest",
+        "electronic-seal-form": "latest",
+        "electronic-stories": "latest",
+        "electronic-wechat": "latest",
+        "electronica": "latest",
+        "electronicdocument": "latest",
+        "electronicid-signatureid-client": "latest",
+        "electronics": "latest",
+        "electronify": "latest",
+        "electronify-server": "latest",
+        "electronify-site": "latest",
+        "electronight": "latest",
+        "electronim": "latest",
+        "electronite": "latest",
+        "electronite-packager": "latest",
+        "electronize": "latest"
+    }
+}

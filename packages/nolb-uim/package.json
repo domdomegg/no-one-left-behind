@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-uim",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "uim": "latest",
+        "uim-background": "latest",
+        "uim-cli": "latest",
+        "uim-sdk": "latest",
+        "uim-web-sdk": "latest",
+        "uim_node_pu": "latest",
+        "uimax-design": "latest",
+        "uimf-core": "latest",
+        "uimf-svelte3": "latest",
+        "uimf-vanilla": "latest",
+        "uimi": "latest",
+        "uimini": "latest",
+        "uimmutable": "latest",
+        "uimo": "latest",
+        "uimodules": "latest",
+        "uimport": "latest",
+        "uims-api": "latest"
+    }
+}

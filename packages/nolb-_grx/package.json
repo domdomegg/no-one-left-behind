@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_grx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@grxl/components": "latest",
+        "@grxl/sdk": "latest",
+        "@grxy/eslint-config": "latest",
+        "@grxy/test-lerna-publish": "latest"
+    }
+}

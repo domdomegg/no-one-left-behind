@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-react-cc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-cc": "latest",
+        "react-cc-audio-recorder": "latest",
+        "react-cc-basic-compoenents": "latest",
+        "react-cc-cards": "latest",
+        "react-cc-hooks": "latest",
+        "react-cc-number-formatter": "latest",
+        "react-cc-tagger": "latest",
+        "react-cc2fc": "latest",
+        "react-ccss": "latest",
+        "react-ccui-pagination": "latest",
+        "react-ccui-test": "latest"
+    }
+}

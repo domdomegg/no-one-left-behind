@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-ze-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ze-al_cli": "latest",
+        "ze-api": "latest",
+        "ze-components": "latest",
+        "ze-delivery-component": "latest",
+        "ze-delivery-serverless-next": "latest",
+        "ze-delivery-serverless-nextjs": "latest",
+        "ze-goggles": "latest",
+        "ze-helpers": "latest",
+        "ze-my-storybook-components": "latest",
+        "ze-notification": "latest",
+        "ze-react-component-library": "latest",
+        "ze-sass-base": "latest",
+        "ze-serverless-next": "latest",
+        "ze-system": "latest",
+        "ze-web-component": "latest"
+    }
+}

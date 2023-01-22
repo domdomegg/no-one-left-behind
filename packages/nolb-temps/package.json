@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-temps",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "temps": "latest",
+        "temps-gen": "latest",
+        "temps-js": "latest",
+        "temps-status": "latest",
+        "temps_lmq": "latest",
+        "tempsdk": "latest",
+        "tempsen": "latest",
+        "tempshow": "latest",
+        "tempsimonl892017": "latest",
+        "tempsite-react-particle": "latest",
+        "tempstream": "latest"
+    }
+}

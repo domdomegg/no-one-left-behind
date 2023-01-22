@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_ng_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ng.huyy/broker": "latest",
+        "@ng.huyy/cc_params_parse": "latest",
+        "@ng.huyy/dbm": "latest",
+        "@ng.huyy/express-minify": "latest",
+        "@ng.huyy/express_fastr": "latest",
+        "@ng.huyy/hdep": "latest",
+        "@ng.huyy/jslibs": "latest",
+        "@ng.huyy/jwt_auth": "latest",
+        "@ng.huyy/mailnotify": "latest",
+        "@ng.huyy/md5": "latest",
+        "@ng.huyy/mysqlconn": "latest",
+        "@ng.huyy/nbugs": "latest",
+        "@ng.huyy/nbugs-client": "latest",
+        "@ng.huyy/node-id3v2.4": "latest",
+        "@ng.huyy/node-xmpp-client": "latest",
+        "@ng.huyy/rd": "latest",
+        "@ng.huyy/rq": "latest",
+        "@ng.huyy/shortcode": "latest",
+        "@ng.huyy/simple-xmpp": "latest",
+        "@ng.huyy/tinybuild": "latest",
+        "@ng.huyy/vsysioapi": "latest",
+        "@ng.libs/animate": "latest",
+        "@ng.studio/autocomplete": "latest",
+        "@ng.studio/dialog": "latest"
+    }
+}

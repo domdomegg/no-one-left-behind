@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-awt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "awt": "latest",
+        "awt-grunt-ember-templates": "latest",
+        "awt-helmet-adherence": "latest",
+        "awt-iot-nad-controller": "latest",
+        "awt-li": "latest",
+        "awt-pj-ss22-video-streaming-mixer-library-1": "latest",
+        "awt-qr-scanner": "latest",
+        "awt-theme": "latest",
+        "awth": "latest",
+        "awtk-node-gen": "latest",
+        "awtln-ws1819": "latest",
+        "awto": "latest",
+        "awtokens": "latest",
+        "awtrix": "latest",
+        "awty": "latest"
+    }
+}

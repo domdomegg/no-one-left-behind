@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_jsg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jsg2021/git-state": "latest",
+        "@jsgames/minesweeper": "latest",
+        "@jsgames/sudoku": "latest",
+        "@jsgoku/mars-mobile-template": "latest",
+        "@jsgolden/hacker-chat-client": "latest",
+        "@jsgurucompany/components": "latest",
+        "@jsgurucompany/components-react": "latest",
+        "@jsgurucompany/jsg-components": "latest",
+        "@jsgurucompany/jsg-components-react": "latest",
+        "@jsgurucompany/jsg-design-token": "latest",
+        "@jsgurucompany/jsg-nestjs-common": "latest"
+    }
+}

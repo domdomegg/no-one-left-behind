@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-jese",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jese": "latest",
+        "jesed": "latest",
+        "jeseeq-draft-js": "latest",
+        "jeseeq-draft-js-utils": "latest",
+        "jeselvmo": "latest",
+        "jesep": "latest",
+        "jeser": "latest"
+    }
+}

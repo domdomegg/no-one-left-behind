@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_zhy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zhyabs1314/react-image-lightbox": "latest",
+        "@zhyabs1314/rmc-pull-to-refresh": "latest",
+        "@zhyabs1314/tinypng": "latest",
+        "@zhyafe/cli": "latest",
+        "@zhyafe/mock": "latest",
+        "@zhyafe/prettier-config": "latest",
+        "@zhyafe/services": "latest",
+        "@zhyao1684-cli/core": "latest",
+        "@zhyao1684-cli/init": "latest",
+        "@zhyao1684-cli/utils": "latest",
+        "@zhycorp/eslint-config": "latest",
+        "@zhycorporg/command-context": "latest",
+        "@zhycorporg/pino-logger": "latest",
+        "@zhyd1997/draftjs-to-latex": "latest",
+        "@zhyd1997/use-form-hooks": "latest",
+        "@zhyou_store/imooc-test": "latest",
+        "@zhytang/card": "latest",
+        "@zhytomyr_war_elefant/common": "latest"
+    }
+}

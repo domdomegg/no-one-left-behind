@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_fonto",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fontoxml/eslint-config": "latest",
+        "@fontoxml/fonto-benchmark-runner": "latest",
+        "@fontoxml/fontoxml-development-tools": "latest",
+        "@fontoxml/fontoxml-development-tools-module-connectors": "latest",
+        "@fontoxml/fontoxml-development-tools-module-core": "latest",
+        "@fontoxml/fontoxml-development-tools-module-editor": "latest",
+        "@fontoxml/fontoxml-development-tools-module-fcq": "latest",
+        "@fontoxml/fontoxml-development-tools-module-localization": "latest",
+        "@fontoxml/fontoxml-development-tools-module-operations": "latest",
+        "@fontoxml/fontoxml-development-tools-module-schema": "latest",
+        "@fontoxml/fontoxml-development-tools-utils": "latest"
+    }
+}

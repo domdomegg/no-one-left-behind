@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-egl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "egl": "latest",
+        "eglador-validation": "latest",
+        "eglady-1215": "latest",
+        "eglelizar-nodejs": "latest",
+        "eglence-fab-api": "latest",
+        "eglobal-one": "latest",
+        "eglu-library": "latest"
+    }
+}

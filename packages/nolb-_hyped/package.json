@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_hyped",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hypedevs/api-plugin-orders": "latest",
+        "@hypedevs/reaction-projecte-bundle": "latest",
+        "@hypedevs/reaction-projecte-jobs": "latest",
+        "@hypedevs/reactioncommerce-braintree-dropin": "latest",
+        "@hypedevs/reactioncommerce-mailsystemspace": "latest",
+        "@hypedevs/reactioncommerce-payments-paypal": "latest",
+        "@hypedis/pnt": "latest"
+    }
+}

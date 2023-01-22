@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_brg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@brgx/asset-swapper": "latest",
+        "@brgx/contract-addresses": "latest",
+        "@brgx/contract-artifacts": "latest",
+        "@brgx/contract-wrappers": "latest",
+        "@brgx/contracts-bridges-proxy": "latest",
+        "@brgx/contracts-erc20": "latest",
+        "@brgx/contracts-test-utils": "latest",
+        "@brgx/contracts-treasury": "latest",
+        "@brgx/contracts-utils": "latest",
+        "@brgx/contracts-zero-ex": "latest",
+        "@brgx/protocol-utils": "latest",
+        "@brgx/widget": "latest"
+    }
+}

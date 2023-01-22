@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-cordova-pa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cordova-pack": "latest",
+        "cordova-pack-flow": "latest",
+        "cordova-pack-old": "latest",
+        "cordova-panasonic-scanner": "latest",
+        "cordova-paramedic": "latest",
+        "cordova-paramedic-runner": "latest",
+        "cordova-parametic": "latest",
+        "cordova-parcel-template": "latest",
+        "cordova-pax-inner-printer": "latest",
+        "cordova-payhere-client": "latest",
+        "cordova-payhere-client-2": "latest",
+        "cordova-payment-plugin": "latest",
+        "cordova-paytm-allinonesdk": "latest",
+        "cordova-paytm-customuisdk": "latest",
+        "cordova-payu-checkoutpro": "latest"
+    }
+}

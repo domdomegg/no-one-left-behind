@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-google_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "Google_Plus_API": "latest",
+        "Google_Plus_Server_Library": "latest",
+        "google.cn-translate": "latest",
+        "google.com": "latest",
+        "google.dll": "latest",
+        "google.js": "latest",
+        "google.min.js": "latest",
+        "google_analytics": "latest",
+        "google_authenticator": "latest",
+        "google_auto_complete": "latest",
+        "google_directions": "latest",
+        "google_doc_utils": "latest",
+        "google_entity": "latest",
+        "google_geocoding-service": "latest",
+        "google_home_manager": "latest",
+        "google_language_forced_english": "latest",
+        "google_login_react_component": "latest",
+        "google_metadata": "latest",
+        "google_modes": "latest",
+        "google_my_business": "latest",
+        "google_places_autocomplete": "latest",
+        "google_recaptcha_validate": "latest",
+        "google_sheet_web_adapter": "latest",
+        "google_subscriptions": "latest",
+        "google_tag": "latest",
+        "google_translate_js": "latest",
+        "google_translate_new": "latest"
+    }
+}

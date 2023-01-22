@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-zez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zez": "latest",
+        "zezazo": "latest",
+        "zezdeml": "latest",
+        "zezedb": "latest",
+        "zezeping-vconsole": "latest",
+        "zezetest": "latest",
+        "zezeze": "latest"
+    }
+}

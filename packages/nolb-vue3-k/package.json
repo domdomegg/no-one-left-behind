@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-vue3-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue3-kakao-login": "latest",
+        "vue3-kakao-sdk": "latest",
+        "vue3-keep-ui": "latest",
+        "vue3-keycloak-js": "latest",
+        "vue3-keypress": "latest",
+        "vue3-kin-ui": "latest",
+        "vue3-klasha": "latest",
+        "vue3-konami-code": "latest",
+        "vue3-konva": "latest",
+        "vue3-kuangke": "latest"
+    }
+}

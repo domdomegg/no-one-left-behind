@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_pls",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pls2e/sdk": "latest",
+        "@pls2e/uikit": "latest",
+        "@plsankar/fileorganizer": "latest",
+        "@plsdontvacmeagain/ow-api": "latest",
+        "@plsr/pwa": "latest",
+        "@plstr/nextjs-cdk": "latest"
+    }
+}

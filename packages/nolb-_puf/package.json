@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_puf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@puffball/lotide": "latest",
+        "@puffin-studio/gsap": "latest",
+        "@puffin-studio/powered-by": "latest",
+        "@puffing/customlib": "latest",
+        "@puffing/maxobj01": "latest",
+        "@puffing/song": "latest",
+        "@puffing/susu": "latest",
+        "@puffmeow/test-pkg": "latest",
+        "@puffyfish/ddd-angular": "latest",
+        "@puffypanda/cdk": "latest",
+        "@puffypanda/environment": "latest"
+    }
+}

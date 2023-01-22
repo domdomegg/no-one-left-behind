@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-prd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "prd": "latest",
+        "prd-aivue": "latest",
+        "prd-cdk": "latest",
+        "prd-client": "latest",
+        "prd-react-test-component-library": "latest",
+        "prd_mysqrt": "latest",
+        "prdins-elements": "latest",
+        "prdisfiroozi": "latest",
+        "prdissfz": "latest",
+        "prdoij-frame-print": "latest"
+    }
+}

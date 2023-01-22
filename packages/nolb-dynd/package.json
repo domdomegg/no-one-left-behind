@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-dynd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dynd.js": "latest",
+        "dyndb": "latest",
+        "dyndef": "latest",
+        "dynder": "latest",
+        "dyndns": "latest",
+        "dyndns-client": "latest",
+        "dyndns-server": "latest",
+        "dyndoc-base": "latest"
+    }
+}

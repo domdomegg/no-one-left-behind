@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_swz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@swzry/npmtest20200310001": "latest",
+        "@swzry/satori-telws": "latest",
+        "@swzry/xterm-vue": "latest"
+    }
+}

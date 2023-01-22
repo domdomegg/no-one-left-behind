@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-u9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "u9": "latest",
+        "u9-app-angular-template": "latest",
+        "u9-iot-basic-template": "latest",
+        "u9-react-mobileui-template": "latest",
+        "u9-utils": "latest"
+    }
+}

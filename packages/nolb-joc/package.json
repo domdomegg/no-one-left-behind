@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-joc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "joc": "latest",
+        "joc-library": "latest",
+        "joc-mux.js": "latest",
+        "joc-vcard-js": "latest",
+        "jocal": "latest",
+        "jocelyn_lqz": "latest",
+        "jochemstoel": "latest",
+        "jochoi0707": "latest",
+        "jock": "latest",
+        "jocker": "latest",
+        "jockey": "latest",
+        "jockeyjs": "latest",
+        "jocly": "latest",
+        "joco-ui": "latest",
+        "jocoos-lodash": "latest",
+        "joctec-progressbar": "latest",
+        "joctec-svelte-ui": "latest",
+        "joctec-ui": "latest",
+        "joctec-ui-framework": "latest",
+        "joctodex": "latest"
+    }
+}

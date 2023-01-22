@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_grah",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@grahack/react-sheet-music-mirror": "latest",
+        "@graham.bedford/testlibrary": "latest",
+        "@graham.eades/material-ui-ie": "latest",
+        "@graham42/prettier-config": "latest",
+        "@graham768/yell": "latest",
+        "@grahamcrackers/commerce-events-collector": "latest",
+        "@grahamcrackers/commerce-events-sdk": "latest",
+        "@grahamcrackers/tiny": "latest",
+        "@grahamr/minui": "latest",
+        "@grahamsutton/factory": "latest",
+        "@grahlie/gatsby-theme-grahlie-atomic": "latest",
+        "@grahm/gatsby-plugin-google-analytics-gdpr": "latest"
+    }
+}

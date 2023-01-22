@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-treet",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "treet": "latest",
+        "treeta_ui": "latest",
+        "treetables": "latest",
+        "treetabular": "latest",
+        "treetagger": "latest",
+        "treeto": "latest",
+        "treetop": "latest",
+        "treetop-client": "latest",
+        "treetorn": "latest",
+        "treetracker-api": "latest",
+        "treetracker-web-map-core": "latest"
+    }
+}

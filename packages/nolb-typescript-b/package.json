@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-typescript-b",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typescript-babel-jest": "latest",
+        "typescript-base": "latest",
+        "typescript-base64-arraybuffer": "latest",
+        "typescript-basics": "latest",
+        "typescript-batch-compiler": "latest",
+        "typescript-begin": "latest",
+        "typescript-blocking-queue": "latest",
+        "typescript-blue": "latest",
+        "typescript-boilerplate": "latest",
+        "typescript-boilerplate-1992": "latest",
+        "typescript-boilerplate-2021": "latest",
+        "typescript-boilerplate-nearley": "latest",
+        "typescript-boilerplate-package": "latest",
+        "typescript-boilerplate-test": "latest",
+        "typescript-book": "latest",
+        "typescript-bootstrap": "latest",
+        "typescript-box": "latest",
+        "typescript-brunch": "latest",
+        "typescript-build": "latest",
+        "typescript-builder": "latest",
+        "typescript-bundle": "latest",
+        "typescript-bundle-linux": "latest",
+        "typescript-bundler": "latest",
+        "typescript-business-object-library": "latest",
+        "typescript-button-master": "latest",
+        "typescript-buttonwithprops": "latest"
+    }
+}

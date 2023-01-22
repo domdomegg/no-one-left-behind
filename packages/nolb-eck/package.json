@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-eck",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eck-autocomplete": "latest",
+        "eck-ionic-color-picker": "latest",
+        "eck-teams-plugin-template-data-model": "latest",
+        "ecka": "latest",
+        "eckey": "latest",
+        "eckey-util": "latest",
+        "eckey-utils": "latest",
+        "eckey.js": "latest",
+        "eckit": "latest",
+        "eckles": "latest",
+        "eckm-ui-v0": "latest",
+        "eckostermgame": "latest",
+        "eckspress": "latest"
+    }
+}

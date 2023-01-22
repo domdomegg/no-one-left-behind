@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-tem-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tem-acentos": "latest",
+        "tem-api-wrapper": "latest",
+        "tem-brand": "latest",
+        "tem-cli": "latest",
+        "tem-frontend-resource": "latest",
+        "tem-frontend-scaffold": "latest",
+        "tem-pro-ui": "latest",
+        "tem-rem-arr-dups": "latest"
+    }
+}

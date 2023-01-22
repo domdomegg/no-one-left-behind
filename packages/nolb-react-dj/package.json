@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-react-dj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-dj": "latest",
+        "react-dj-forms-builder": "latest",
+        "react-dj-player": "latest",
+        "react-dj-setting": "latest",
+        "react-dj-simple-month-picker": "latest",
+        "react-dj-table": "latest",
+        "react-django-selectable": "latest",
+        "react-djforms": "latest",
+        "react-djogo": "latest"
+    }
+}

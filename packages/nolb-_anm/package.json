@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_anm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@anmartinezd/platzimediaplayer": "latest",
+        "@anmarusic/counter": "latest",
+        "@anmeng/chu": "latest",
+        "@anmeng/test": "latest",
+        "@anmeng/utils": "latest",
+        "@anmerfrank/lotide": "latest",
+        "@anmiller3/npm-package-template": "latest",
+        "@anmiller3/tiny": "latest",
+        "@anmirza37/alchamist": "latest",
+        "@anmolm/react-use-checkbox": "latest",
+        "@anmup/vue-library": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-reactb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reactb": "latest",
+        "reactbase-test": "latest",
+        "reactbay": "latest",
+        "reactbay-client": "latest",
+        "reactbay-installer": "latest",
+        "reactbelt": "latest",
+        "reactbits-input": "latest",
+        "reactblockgen": "latest",
+        "reactblog": "latest",
+        "reactbm": "latest",
+        "reactboileplate": "latest",
+        "reactbone": "latest",
+        "reactbootsass": "latest",
+        "reactbootstrap-wizard-rb": "latest",
+        "reactbot": "latest",
+        "reactbox": "latest",
+        "reactboxs": "latest",
+        "reactbroadcast": "latest",
+        "reactbrowsershim": "latest",
+        "reactbsdatetimepicker": "latest",
+        "reactbsissue-dep": "latest",
+        "reactbulma": "latest",
+        "reactbutton-package-reusable": "latest"
+    }
+}

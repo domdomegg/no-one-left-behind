@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_mex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mex-cli-dev/core": "latest",
+        "@mex-cli-dev/utils": "latest",
+        "@mexamos/tii": "latest",
+        "@mexi/uikit": "latest",
+        "@mexican-man/cloudflare-worker-pages": "latest",
+        "@mexican-man/pages-csp-generator": "latest",
+        "@mexicocss/esc-pos-encoder-ts": "latest",
+        "@mexind/hwrld": "latest",
+        "@mext/ccr": "latest",
+        "@mext/compile": "latest",
+        "@mext/create": "latest",
+        "@mext/edom": "latest",
+        "@mext/route": "latest"
+    }
+}

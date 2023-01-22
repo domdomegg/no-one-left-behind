@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_cup",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cup-platform/adapter-api": "latest",
+        "@cup-platform/adapter-bluetooth": "latest",
+        "@cup-platform/shared": "latest",
+        "@cupcake-ds/cc-props": "latest",
+        "@cupcake-ds/cupcake": "latest",
+        "@cupcake-ds/cupcake-ag-grid-theme": "latest",
+        "@cupcake-ds/cupcake-legacy": "latest",
+        "@cupcake-ds/cupcake-sprinkles": "latest",
+        "@cupcake-ds/schematics": "latest",
+        "@cupcakes-sdk/common": "latest",
+        "@cupcakes-sdk/scw": "latest",
+        "@cupcakes-sdk/sdk": "latest",
+        "@cupella/react": "latest",
+        "@cupid-ui/css": "latest",
+        "@cupid-ui/react": "latest",
+        "@cupidstrick/reset": "latest",
+        "@cupitt-aviation/weather": "latest",
+        "@cupix-sdk/siteview4embed": "latest",
+        "@cupokyle/lotide": "latest",
+        "@cuppachino/logger": "latest",
+        "@cuppachino/type-space": "latest",
+        "@cuppazee/api": "latest",
+        "@cuppazee/db": "latest",
+        "@cuppazee/icons": "latest",
+        "@cuppazee/types": "latest",
+        "@cuppazee/utils": "latest",
+        "@cuppilekkia/event-tracker": "latest"
+    }
+}

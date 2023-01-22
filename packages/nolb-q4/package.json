@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-q4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "q4": "latest",
+        "q4-gabrielfercav-kencrypto": "latest",
+        "q4-studio-ui": "latest",
+        "q414231517": "latest",
+        "q42-cms-components": "latest",
+        "q43": "latest",
+        "q4j-reactjs-heap": "latest",
+        "q4q": "latest",
+        "q4web": "latest"
+    }
+}

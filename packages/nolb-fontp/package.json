@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-fontp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fontparsing": "latest",
+        "fontpath": "latest",
+        "fontpath-bmfont": "latest",
+        "fontpath-canvas": "latest",
+        "fontpath-draw-glyph": "latest",
+        "fontpath-gl": "latest",
+        "fontpath-glyph-iterator": "latest",
+        "fontpath-renderer": "latest",
+        "fontpath-shape2d": "latest",
+        "fontpath-simple-renderer": "latest",
+        "fontpath-test-fonts": "latest",
+        "fontpath-util": "latest",
+        "fontpath-vecmath": "latest",
+        "fontpath-wordwrap": "latest",
+        "fontpersianfree": "latest",
+        "fontpicker-jquery-plugin": "latest",
+        "fontpie": "latest",
+        "fontpie-calc": "latest",
+        "fontplop": "latest",
+        "fontpreload-webpack-plugin": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-css-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "css-obfuscator-yandex-task": "latest",
+        "css-obj": "latest",
+        "css-obj-loader": "latest",
+        "css-object": "latest",
+        "css-object-fit": "latest",
+        "css-object-loader": "latest",
+        "css-object-model": "latest",
+        "css-objectify-loader": "latest",
+        "css-observable": "latest",
+        "css-observe": "latest",
+        "css-oldschool": "latest",
+        "css-only-tooltip": "latest",
+        "css-opacity": "latest",
+        "css-operators": "latest",
+        "css-optimization": "latest",
+        "css-optimizer": "latest",
+        "css-optimum-generator": "latest",
+        "css-optimum-selector": "latest",
+        "css-orbit-controls": "latest",
+        "css-organizer": "latest",
+        "css-out-js": "latest",
+        "css-outlines": "latest",
+        "css-overflow": "latest"
+    }
+}

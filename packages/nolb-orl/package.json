@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-orl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "orl-common": "latest",
+        "orla01asierc": "latest",
+        "orlandini-sdk": "latest",
+        "orlando": "latest",
+        "orlando-car-title-loan": "latest",
+        "orlando-lib": "latest",
+        "orlando-urrea-example": "latest",
+        "orlando_math_example": "latest",
+        "orlandoandaur": "latest",
+        "orlandoburli-components": "latest",
+        "orlandonetto-lib": "latest",
+        "orle": "latest",
+        "orlo-components": "latest",
+        "orlog": "latest",
+        "orly": "latest",
+        "orlyfunctions": "latest"
+    }
+}

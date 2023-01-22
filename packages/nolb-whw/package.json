@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-whw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "whw": "latest",
+        "whw-front-001": "latest",
+        "whw-util": "latest",
+        "whwh1233": "latest",
+        "whwlala": "latest",
+        "whwumeimeitest": "latest"
+    }
+}

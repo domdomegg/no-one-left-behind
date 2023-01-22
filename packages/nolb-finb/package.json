@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-finb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "finbar-frame-print": "latest",
+        "finbar-utils": "latest",
+        "finbars": "latest",
+        "finbers-epr-ui": "latest",
+        "finboot-docusaurus-theme-test": "latest",
+        "finbox-bank-connect-js": "latest",
+        "finbox-cli": "latest",
+        "finbox-google-sheets": "latest",
+        "finbox-plugin-api-token": "latest",
+        "finboxio-ascii-table": "latest",
+        "finboxio-chartist-plugin-axistitle": "latest",
+        "finboxio-chartist-plugin-pointlabels": "latest",
+        "finboxio-dot-prop": "latest",
+        "finboxio-graphql-schema-gen": "latest",
+        "finboxio-jsep": "latest",
+        "finboxio-json2csv": "latest",
+        "finboxio-mockgo": "latest",
+        "finboxio-nock": "latest",
+        "finboxio-npm-check": "latest",
+        "finboxio-package-json": "latest",
+        "finboxio-qs": "latest",
+        "finboxio-react-avatar": "latest",
+        "finboxio-redoc": "latest",
+        "finboxio-redux-routing": "latest",
+        "finboxio-safestart": "latest",
+        "finboxio-uniques": "latest",
+        "finboxio-www-bundle": "latest",
+        "finboxio-yarn": "latest"
+    }
+}

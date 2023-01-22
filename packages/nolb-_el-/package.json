@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_el-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@el-bot/create-app": "latest",
+        "@el-bot/plugin-class-schedule": "latest",
+        "@el-bot/plugin-hitokoto": "latest",
+        "@el-bot/plugin-niubi": "latest",
+        "@el-bot/plugin-search": "latest",
+        "@el-bot/plugin-search-anime": "latest",
+        "@el-bot/plugin-search-image": "latest",
+        "@el-bot/plugin-setu": "latest",
+        "@el-chanclas-del-tianguis/react-ens-address": "latest",
+        "@el-chanclas-del-tianguis/web3-react-components": "latest",
+        "@el-chiang/vscode-webview": "latest",
+        "@el-common/common": "latest",
+        "@el-demo/button": "latest",
+        "@el-demo/dialog": "latest",
+        "@el-demo/modal": "latest",
+        "@el-demo/tree": "latest",
+        "@el-react/chart": "latest",
+        "@el-react/ui-core": "latest"
+    }
+}

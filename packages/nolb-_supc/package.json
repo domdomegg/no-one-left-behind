@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_supc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@supchat/tools": "latest",
+        "@supchat/widget": "latest",
+        "@supcon/redux-undo-redo": "latest"
+    }
+}

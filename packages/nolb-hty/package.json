@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-hty",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hty-cli": "latest",
+        "hty_test": "latest",
+        "htyceshi": "latest",
+        "htyl-react-mpa": "latest",
+        "htynmjh": "latest",
+        "htyt": "latest",
+        "htyx-cli": "latest"
+    }
+}

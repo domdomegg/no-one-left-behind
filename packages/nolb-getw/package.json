@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-getw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "getway": "latest",
+        "getweather": "latest",
+        "getweather-dp": "latest",
+        "getweather-mcuking": "latest",
+        "getweather-yd": "latest",
+        "getweather26": "latest",
+        "getweatherforcountryname": "latest",
+        "getweatherinfo": "latest",
+        "getweb": "latest",
+        "getwebapp.core": "latest",
+        "getwit": "latest",
+        "getword": "latest",
+        "getwordpress": "latest",
+        "getworkingimageurl": "latest",
+        "getws": "latest",
+        "getwtfpl": "latest"
+    }
+}

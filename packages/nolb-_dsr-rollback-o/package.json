@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_dsr-rollback-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-_dsr-rollback-oa": "latest",
+        "@zalastax/nolb-_dsr-rollback-ob": "latest",
+        "@zalastax/nolb-_dsr-rollback-oc": "latest",
+        "@zalastax/nolb-_dsr-rollback-od": "latest",
+        "@zalastax/nolb-_dsr-rollback-og": "latest",
+        "@zalastax/nolb-_dsr-rollback-oi": "latest",
+        "@zalastax/nolb-_dsr-rollback-ol": "latest",
+        "@zalastax/nolb-_dsr-rollback-om": "latest",
+        "@zalastax/nolb-_dsr-rollback-on": "latest",
+        "@zalastax/nolb-_dsr-rollback-oo": "latest",
+        "@zalastax/nolb-_dsr-rollback-or": "latest",
+        "@zalastax/nolb-_dsr-rollback-os": "latest",
+        "@zalastax/nolb-_dsr-rollback-ov": "latest",
+        "@zalastax/nolb-_dsr-rollback-ox": "latest"
+    }
+}

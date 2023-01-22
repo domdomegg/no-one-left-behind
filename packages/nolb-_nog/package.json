@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_nog",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nogard7491/vue-wsc": "latest",
+        "@nogard7491/wsc": "latest",
+        "@noggin/angular2-notifications": "latest",
+        "@noggle-kit/core": "latest",
+        "@nogn/gridsome-source-craft": "latest",
+        "@nogo0d-org/fe-bootstrap": "latest",
+        "@nogsantos/fn-cli": "latest",
+        "@nogsantos/hash": "latest",
+        "@nogsantos/js-base-lib": "latest",
+        "@noguzo/simple-react-slider": "latest"
+    }
+}

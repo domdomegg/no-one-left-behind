@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-im_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "im.class": "latest",
+        "im.dico.t2": "latest",
+        "im.dll": "latest",
+        "im.gl": "latest",
+        "im.jamesb__-x-replace-me": "latest",
+        "im.min.js": "latest",
+        "im.val": "latest",
+        "im.yangqiang.js.sak-js": "latest",
+        "im_captain": "latest",
+        "im_captain_jack_sparrow": "latest",
+        "im_core": "latest",
+        "im_electron_sdk": "latest",
+        "im_plugin": "latest",
+        "im_react_service": "latest",
+        "im_testing_it": "latest"
+    }
+}

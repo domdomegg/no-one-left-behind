@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-micr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-micro": "latest",
+        "@zalastax/nolb-micr-": "latest",
+        "@zalastax/nolb-micra": "latest",
+        "@zalastax/nolb-micre": "latest",
+        "@zalastax/nolb-micri": "latest",
+        "@zalastax/nolb-micrp": "latest",
+        "@zalastax/nolb-micru": "latest"
+    }
+}

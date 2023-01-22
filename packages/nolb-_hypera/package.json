@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_hypera",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyperactive/hyper": "latest",
+        "@hyperactive/node": "latest",
+        "@hyperapp-r/events": "latest",
+        "@hyperapp-r/random": "latest",
+        "@hyperapp-r/time": "latest",
+        "@hyperapp/dom": "latest",
+        "@hyperapp/events": "latest",
+        "@hyperapp/html": "latest",
+        "@hyperapp/logger": "latest",
+        "@hyperapp/render": "latest",
+        "@hyperapp/router": "latest",
+        "@hyperapp/svg": "latest",
+        "@hyperapp/time": "latest",
+        "@hyperaudio/transcript-converter": "latest",
+        "@hyperaudio/transcript-parser": "latest",
+        "@hyperaudio/transcript-renderer": "latest",
+        "@hyperauto/ui": "latest"
+    }
+}

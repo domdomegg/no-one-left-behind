@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-waz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "waz": "latest",
+        "waz-storage-js": "latest",
+        "wazdan-slot": "latest",
+        "waze": "latest",
+        "waze-api": "latest",
+        "waze-traffic": "latest",
+        "waze-travel-time": "latest",
+        "wazi": "latest",
+        "wazip": "latest",
+        "wazirx-api": "latest",
+        "waziup": "latest",
+        "waziup-dashboard": "latest",
+        "waziup-js": "latest",
+        "wazm": "latest",
+        "wazoo-framework": "latest",
+        "wazooie-api": "latest",
+        "wazooie-countries": "latest",
+        "wazowski": "latest",
+        "wazproxy": "latest",
+        "wazuh": "latest",
+        "wazuh-wui": "latest",
+        "wazum": "latest",
+        "wazup": "latest",
+        "wazx-ui": "latest",
+        "wazza": "latest",
+        "wazzaap": "latest",
+        "wazzup": "latest",
+        "wazzup-logger": "latest"
+    }
+}

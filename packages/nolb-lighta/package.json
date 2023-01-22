@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-lighta",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lightaccordion": "latest",
+        "lightalertjs": "latest",
+        "lightanim": "latest",
+        "lightapp": "latest",
+        "lightapp-http-client": "latest",
+        "lightapp-platform-common": "latest",
+        "lightappbuilder": "latest",
+        "lightappdemo": "latest",
+        "lightappvue": "latest",
+        "lightaudio": "latest"
+    }
+}

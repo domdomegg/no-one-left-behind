@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-newg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "newgen": "latest",
+        "newgen-ui": "latest",
+        "newgistics": "latest",
+        "newgistics-client": "latest",
+        "newgit": "latest",
+        "newgitlabtest": "latest",
+        "newgoob": "latest",
+        "newgqls4": "latest",
+        "newgrc": "latest",
+        "newgreeetinggs": "latest",
+        "newgrounds-boom": "latest",
+        "newgrounds-game-uploader": "latest",
+        "newgrounds.js": "latest",
+        "newgtong-ui": "latest",
+        "newguid-cli": "latest",
+        "newguy-first": "latest"
+    }
+}

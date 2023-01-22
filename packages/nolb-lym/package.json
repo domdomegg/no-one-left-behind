@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-lym",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lym": "latest",
+        "lym-cli": "latest",
+        "lym-first-model-test-random": "latest",
+        "lym-mui": "latest",
+        "lym-mui-demo": "latest",
+        "lym-rikao": "latest",
+        "lym-select": "latest",
+        "lym-tab": "latest",
+        "lym-utils": "latest",
+        "lym123": "latest",
+        "lym201997": "latest",
+        "lyma": "latest",
+        "lyman-co-wechat": "latest",
+        "lyman-egg-full-qiniu": "latest",
+        "lymbw_zhoukao": "latest",
+        "lyme": "latest",
+        "lymi-pubish": "latest",
+        "lymmusic": "latest",
+        "lymnee": "latest",
+        "lymon-npm-test": "latest",
+        "lymon-test-a": "latest",
+        "lymon-test-b": "latest",
+        "lymon-test-c": "latest",
+        "lymph-eventstore-dynamodb": "latest",
+        "lymplmm": "latest",
+        "lymui": "latest",
+        "lymui-node": "latest",
+        "lymysql": "latest"
+    }
+}

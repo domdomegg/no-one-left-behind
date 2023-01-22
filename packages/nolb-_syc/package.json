@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_syc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@syc-cli-dev/core": "latest",
+        "@syc-cli-dev/utils": "latest",
+        "@syc-x/syc-x": "latest",
+        "@syccure/authorization": "latest",
+        "@sycheon/hello-wasm": "latest",
+        "@sychevskiy/gaia-react.button": "latest",
+        "@sychevskiy/gaia-react.checkbox": "latest",
+        "@sychevskiy/gaia-react.chip": "latest",
+        "@sychevskiy/some-module-a": "latest",
+        "@sychevskiy/test-button": "latest",
+        "@sychevskiy/test.another-button": "latest",
+        "@sychevskiy/test.button": "latest",
+        "@sycompla/njuserservertest": "latest"
+    }
+}

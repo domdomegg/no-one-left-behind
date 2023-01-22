@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-thy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thy": "latest",
+        "thy-1824-03": "latest",
+        "thy-body-parser": "latest",
+        "thy-cli": "latest",
+        "thy-day02": "latest",
+        "thy_0920": "latest",
+        "thyago-test-components": "latest",
+        "thyashley-test-design-system": "latest",
+        "thyme": "latest",
+        "thyme-connect": "latest",
+        "thymeleaf": "latest",
+        "thymeleaf-inject-webpack-plugin": "latest",
+        "thymeleafjs-adapter": "latest",
+        "thymeline": "latest",
+        "thymer": "latest",
+        "thyming": "latest",
+        "thymol-node": "latest",
+        "thymol-node-server": "latest",
+        "thymus": "latest",
+        "thynogger": "latest",
+        "thyseus": "latest",
+        "thywill": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-axm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "axm": "latest",
+        "axmap": "latest",
+        "axmen": "latest",
+        "axmjs": "latest",
+        "axml": "latest",
+        "axml-loader": "latest",
+        "axml-parser": "latest",
+        "axml.js": "latest",
+        "axml2xml": "latest",
+        "axmlcss": "latest",
+        "axmonitoring": "latest"
+    }
+}

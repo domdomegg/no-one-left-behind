@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-whc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "whc": "latest",
+        "whc-json-to-class": "latest",
+        "whc-tailwind-flex-plugin": "latest",
+        "whc-windicss": "latest",
+        "whc1999": "latest",
+        "whc_test": "latest",
+        "whcamel": "latest",
+        "whcb-contact-form": "latest",
+        "whcg-five": "latest",
+        "whcg-one": "latest",
+        "whcg-select": "latest",
+        "whcg-three": "latest",
+        "whcg-two": "latest",
+        "whcharts-vue": "latest",
+        "whcity-oa-contacts": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_ect",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ectickets/common": "latest",
+        "@ecticketsrecent/common": "latest",
+        "@ecticketstest/common": "latest",
+        "@ecticketstest2/common": "latest",
+        "@ectocet/graphile-worker": "latest",
+        "@ectomigo/core": "latest",
+        "@ectomigo/ectomigo": "latest",
+        "@ectoparasite/wrap-base": "latest",
+        "@ectoparasite/wrap-eval-function": "latest",
+        "@ectoparasite/wrap-node": "latest",
+        "@ectoparasite/wrap-node-cache": "latest",
+        "@ectoparasite/wrap-node-module": "latest",
+        "@ectoparasite/wrap-node-vm2": "latest",
+        "@ector/cli": "latest",
+        "@ector/concept-network": "latest",
+        "@ector/core": "latest",
+        "@ector/samples": "latest",
+        "@ector/state": "latest"
+    }
+}

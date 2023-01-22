@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_cod3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cod3/ngx-resize-listener": "latest",
+        "@cod3/resize-listener": "latest",
+        "@cod3rkane/chatbot-ui": "latest"
+    }
+}

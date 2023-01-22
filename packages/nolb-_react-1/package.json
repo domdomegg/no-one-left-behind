@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_react-1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@react-18-pdf/fns": "latest",
+        "@react-18-pdf/font": "latest",
+        "@react-18-pdf/fontkit": "latest",
+        "@react-18-pdf/image": "latest",
+        "@react-18-pdf/layout": "latest",
+        "@react-18-pdf/pdfkit": "latest",
+        "@react-18-pdf/png-js": "latest",
+        "@react-18-pdf/primitives": "latest",
+        "@react-18-pdf/render": "latest",
+        "@react-18-pdf/renderer": "latest",
+        "@react-18-pdf/root": "latest",
+        "@react-18-pdf/stylesheet": "latest",
+        "@react-18-pdf/svgkit": "latest",
+        "@react-18-pdf/textkit": "latest",
+        "@react-18-pdf/types": "latest",
+        "@react-18-pdf/unicode-properties": "latest",
+        "@react-18-pdf/yoga": "latest"
+    }
+}

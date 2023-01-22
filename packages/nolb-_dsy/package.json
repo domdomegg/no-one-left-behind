@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_dsy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dsyd/babel-plugin-ds": "latest",
+        "@dsyd/cli": "latest",
+        "@dsyd/com": "latest",
+        "@dsyd/eslint-config-ds": "latest",
+        "@dsyd/utils": "latest",
+        "@dsykes28/lotide": "latest",
+        "@dsyncerek/node-steam-bot": "latest",
+        "@dsyncerek/node-steam-inventory": "latest",
+        "@dsyncerek/node-steam-prices": "latest",
+        "@dsyncerek/node-steam-userinfo": "latest",
+        "@dsystems/uikit": "latest",
+        "@dsyunda/node-red-contrib-picase": "latest",
+        "@dsyv/charts": "latest",
+        "@dsyv/numbers": "latest",
+        "@dsyv/three-map": "latest",
+        "@dsyx/custom-syntax-editor": "latest",
+        "@dsyx/formula-edit": "latest",
+        "@dsyx/json-tip": "latest",
+        "@dsyx/mark-textarea": "latest",
+        "@dsyx/table-echart-switch": "latest",
+        "@dsyx/table-show": "latest",
+        "@dsyx/text-avatar": "latest"
+    }
+}

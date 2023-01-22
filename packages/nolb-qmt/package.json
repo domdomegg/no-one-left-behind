@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-qmt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qmt": "latest",
+        "qmt-article-use1": "latest",
+        "qmt-article-use2": "latest",
+        "qmt-article-use3": "latest",
+        "qmt-map": "latest",
+        "qmt-project": "latest",
+        "qmtest": "latest",
+        "qmtv-file-cache": "latest",
+        "qmtv-fis-resource": "latest",
+        "qmtv-nunjucks-ext": "latest",
+        "qmtv-proxy-middleware": "latest",
+        "qmtv-svgaplayerweb": "latest",
+        "qmtv-view-nunjucks": "latest"
+    }
+}

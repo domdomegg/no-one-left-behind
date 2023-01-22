@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_grc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@grc.header.footer/ui": "latest",
+        "@grc/base": "latest",
+        "@grc/business": "latest",
+        "@grc/coach": "latest",
+        "@grc/mobile": "latest",
+        "@grcmichael/gscroll": "latest",
+        "@grcnhml/custom-button": "latest",
+        "@grconrad/vscode-binaries": "latest",
+        "@grconrad/vscode-extension-feedback": "latest",
+        "@grconrad/weighted-promise-pool": "latest"
+    }
+}

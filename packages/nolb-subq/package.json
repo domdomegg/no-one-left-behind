@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-subq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "subql": "latest",
+        "subquery-starter": "latest",
+        "subquery-ui": "latest",
+        "subquery-ui-library": "latest",
+        "subquery_starter2": "latest",
+        "subquest": "latest",
+        "subquest-cli": "latest"
+    }
+}

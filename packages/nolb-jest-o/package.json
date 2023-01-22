@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-jest-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jest-object": "latest",
+        "jest-observatory": "latest",
+        "jest-observer": "latest",
+        "jest-offline": "latest",
+        "jest-only": "latest",
+        "jest-openapi": "latest",
+        "jest-openapi-coverage": "latest",
+        "jest-openapi-generator": "latest",
+        "jest-os-detection": "latest"
+    }
+}

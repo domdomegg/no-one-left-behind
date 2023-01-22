@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-stringm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "StringMultiplier": "latest",
+        "stringman": "latest",
+        "stringmanolo-create-project": "latest",
+        "stringmap": "latest",
+        "stringmap-es5": "latest",
+        "stringmapping": "latest",
+        "stringmask-js": "latest",
+        "stringmatchbetween": "latest",
+        "stringmatcher": "latest",
+        "stringme": "latest",
+        "stringmerge": "latest",
+        "stringml": "latest",
+        "stringmodifpackage": "latest"
+    }
+}

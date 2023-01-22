@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-glm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "glMath": "latest",
+        "glm": "latest",
+        "glm-client-base": "latest",
+        "glm-js": "latest",
+        "glmap-react": "latest",
+        "glmaps": "latest",
+        "glmask": "latest",
+        "glmr": "latest",
+        "glmw": "latest"
+    }
+}

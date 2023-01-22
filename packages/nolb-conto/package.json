@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-conto",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "conto": "latest",
+        "conto-ecoista": "latest",
+        "contodo": "latest",
+        "contohkey": "latest",
+        "contohwrld": "latest",
+        "contoso": "latest",
+        "contour": "latest",
+        "contour-2d": "latest",
+        "contour-chart": "latest",
+        "contour-fw": "latest",
+        "contour-js": "latest",
+        "contour-orm": "latest",
+        "contour-require-directory": "latest",
+        "contour-ui-test": "latest",
+        "contour_plot": "latest",
+        "contouring": "latest",
+        "contourmap": "latest",
+        "contourmap2": "latest",
+        "contourmap3": "latest",
+        "contourmtg-components": "latest",
+        "contours": "latest",
+        "contours.ts": "latest"
+    }
+}

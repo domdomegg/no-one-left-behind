@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-aws-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aws-ui-runtime": "latest",
+        "aws-upgrade": "latest",
+        "aws-uploader-sdk": "latest",
+        "aws-url": "latest",
+        "aws-user": "latest",
+        "aws-user-service": "latest",
+        "aws-util": "latest",
+        "aws-utilities": "latest",
+        "aws-utilities-pkg": "latest",
+        "aws-utils": "latest"
+    }
+}

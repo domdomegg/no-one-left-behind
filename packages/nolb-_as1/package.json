@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_as1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@as1/ticketing-common": "latest",
+        "@as1024/wyrd-ui": "latest"
+    }
+}

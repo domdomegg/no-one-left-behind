@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-fij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fij": "latest",
+        "fijado": "latest",
+        "fijfij": "latest",
+        "fiji": "latest",
+        "fiji-foundation": "latest",
+        "fiji-foundation-node": "latest",
+        "fiji.js": "latest",
+        "fijismithyframe-print": "latest",
+        "fijn": "latest",
+        "fijs": "latest"
+    }
+}

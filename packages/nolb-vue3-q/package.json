@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-vue3-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue3-q-tel-input": "latest",
+        "vue3-qeelyn-antdv-components": "latest",
+        "vue3-qr-code-styled-component": "latest",
+        "vue3-qr-code-styling": "latest",
+        "vue3-qr-reader": "latest",
+        "vue3-qrcode": "latest",
+        "vue3-qrcode-reader": "latest",
+        "vue3-quasar-tel": "latest",
+        "vue3-query-builder": "latest",
+        "vue3-quick-layout": "latest",
+        "vue3-quick-tables": "latest",
+        "vue3-quill": "latest",
+        "vue3-quill-dev": "latest",
+        "vue3-quill-editor": "latest",
+        "vue3-quill-editor-vite": "latest",
+        "vue3-quill-for-aopeng": "latest",
+        "vue3-quilljs": "latest"
+    }
+}

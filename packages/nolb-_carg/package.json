@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_carg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cargo-eth/js": "latest",
+        "@cargobr/poseidon": "latest",
+        "@cargochain/sdk-js": "latest",
+        "@cargofast/common": "latest",
+        "@cargohq/keyval": "latest",
+        "@cargoplane/client": "latest",
+        "@cargoplane/cloud": "latest",
+        "@cargowebserver/cargowebcomponents": "latest",
+        "@cargozone/amazon-sp-api": "latest",
+        "@cargozone/spapi": "latest",
+        "@carguo/cordova-plugin-file-viewer": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_siy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@siyu/sdm2": "latest",
+        "@siyu/text-label": "latest",
+        "@siyu/toolbox": "latest",
+        "@siyuan0215/as-cli": "latest",
+        "@siyuan0215/rs-cli": "latest",
+        "@siyuetian/react-native": "latest"
+    }
+}

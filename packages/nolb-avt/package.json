@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-avt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "avt": "latest",
+        "avt-commom-component": "latest",
+        "avt-design": "latest",
+        "avt-package": "latest",
+        "avtale-templates": "latest",
+        "avtar": "latest",
+        "avtar-icon": "latest",
+        "avtest": "latest",
+        "avtimer": "latest",
+        "avto": "latest",
+        "avto-card-info": "latest",
+        "avtocod-plugin": "latest",
+        "avtodom-ui-kit": "latest",
+        "avtokod-client": "latest",
+        "avtools": "latest",
+        "avtoreg": "latest",
+        "avtr": "latest",
+        "avtv": "latest"
+    }
+}

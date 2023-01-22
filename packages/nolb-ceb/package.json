@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-ceb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ceb": "latest",
+        "ceb-helpers": "latest",
+        "ceb-licensee-components-test": "latest",
+        "ceb-watchtower": "latest",
+        "ceb_lib_front": "latest",
+        "cebbank": "latest",
+        "cebelerk.laravel-file-manager": "latest",
+        "cebg": "latest",
+        "cebo": "latest",
+        "cebola": "latest",
+        "cebolinha": "latest",
+        "cebra-plugin-test": "latest",
+        "cebra-test-1": "latest",
+        "cebrify": "latest",
+        "cebuano-stemmer": "latest",
+        "cebui": "latest"
+    }
+}

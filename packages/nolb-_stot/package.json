@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_stot",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stottle-platform/auth0-rxjs": "latest",
+        "@stottle-platform/ngrx-auth0": "latest",
+        "@stottle-platform/ngx-auth0-wrapper": "latest",
+        "@stottle-platform/ngx-auth0-wrapper-ngrx": "latest"
+    }
+}

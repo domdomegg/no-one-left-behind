@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-reck",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reck": "latest",
+        "reckle": "latest",
+        "reckon": "latest",
+        "reckon-js": "latest",
+        "reckon-js-test": "latest",
+        "reckon-token-validator": "latest",
+        "reckoner": "latest",
+        "reckoner-utilities": "latest",
+        "reckoning": "latest",
+        "reckonjs": "latest",
+        "recks": "latest",
+        "reckxl-media-component-library": "latest"
+    }
+}

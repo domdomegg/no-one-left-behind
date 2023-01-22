@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-easyn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "easync": "latest",
+        "easyneo": "latest",
+        "easynexmo": "latest",
+        "easyng": "latest",
+        "easynode": "latest",
+        "easynode-watch": "latest",
+        "easynodeapi": "latest",
+        "easynodejs": "latest",
+        "easynodelog": "latest",
+        "easynodemailer": "latest",
+        "easynodemvc": "latest",
+        "easynodeq": "latest",
+        "easynote": "latest",
+        "easynotify": "latest",
+        "easynpmdep": "latest",
+        "easynpmtest": "latest",
+        "easynquick-password-generator": "latest",
+        "easynumber": "latest",
+        "easynumber.js": "latest",
+        "easynvest-api": "latest",
+        "easynvest-react-scripts": "latest",
+        "easynwb": "latest"
+    }
+}

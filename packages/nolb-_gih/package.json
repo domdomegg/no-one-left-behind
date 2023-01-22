@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_gih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gihanmu/tiny": "latest",
+        "@gihong-park/hello-wasm": "latest",
+        "@gihooks/use_axios": "latest",
+        "@gihooks/use_before_leave": "latest",
+        "@gihooks/use_click": "latest",
+        "@gihooks/use_confirm": "latest",
+        "@gihooks/use_fadein": "latest",
+        "@gihooks/use_full_screen": "latest",
+        "@gihooks/use_input": "latest",
+        "@gihooks/use_network": "latest",
+        "@gihooks/use_notification": "latest",
+        "@gihooks/use_prevent_leave": "latest",
+        "@gihooks/use_scroll": "latest",
+        "@gihooks/use_tabs": "latest",
+        "@gihooks/use_title": "latest"
+    }
+}

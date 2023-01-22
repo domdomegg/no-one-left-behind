@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-tes-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tes-com-sam": "latest",
+        "tes-connectors-common": "latest",
+        "tes-google-api": "latest",
+        "tes-html": "latest",
+        "tes-int-matter": "latest",
+        "tes-modul-readme": "latest",
+        "tes-my-own-npm": "latest",
+        "tes-npm-guybeast": "latest",
+        "tes-number-61262": "latest",
+        "tes-p-laoda-oener": "latest",
+        "tes-package-neon": "latest",
+        "tes-react": "latest",
+        "tes-resource": "latest",
+        "tes-style-guide": "latest",
+        "tes-theme": "latest",
+        "tes-ui-library": "latest",
+        "tes-upload-recursiva": "latest",
+        "tes-webpack-main": "latest",
+        "tes-work": "latest"
+    }
+}

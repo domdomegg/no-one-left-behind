@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-dbp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dbp-games": "latest",
+        "dbp-react-cli-test": "latest",
+        "dbp-react-expres-mongo_db": "latest",
+        "dbpaas-amdocs-common": "latest",
+        "dbpaas-amdocs-microservice-common": "latest",
+        "dbpcli": "latest",
+        "dbpedia-entity-lookup": "latest",
+        "dbpedia-sparql-client": "latest",
+        "dbpedia-spotlight": "latest",
+        "dbpediaclient": "latest",
+        "dbpersonalworker": "latest",
+        "dbpf-tools": "latest",
+        "dbpouch": "latest",
+        "dbpromise": "latest",
+        "dbproto": "latest",
+        "dbprovider": "latest",
+        "dbpush": "latest"
+    }
+}

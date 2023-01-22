@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-bui-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bui-antd": "latest",
+        "bui-chart-canvas": "latest",
+        "bui-css": "latest",
+        "bui-dev-egg-mongodb-template": "latest",
+        "bui-dev-server-basic-template": "latest",
+        "bui-dev-vue3-vite-basic-template": "latest",
+        "bui-div-react18-vite-basic-template": "latest",
+        "bui-element": "latest",
+        "bui-element-plus": "latest",
+        "bui-library": "latest",
+        "bui-multiple-cascader": "latest",
+        "bui-next": "latest",
+        "bui-primarydemo": "latest",
+        "bui-r1111": "latest",
+        "bui-react": "latest",
+        "bui-utils": "latest",
+        "bui-weex": "latest",
+        "bui-weex-template": "latest",
+        "bui-weex-toolkit": "latest",
+        "bui-weex-yzc": "latest"
+    }
+}

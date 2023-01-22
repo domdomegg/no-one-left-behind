@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-omb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "omb": "latest",
+        "ombaq-ui": "latest",
+        "ombayus": "latest",
+        "ombayus_testlib": "latest",
+        "omber": "latest",
+        "ombi": "latest",
+        "ombodkhe": "latest",
+        "ombodkhe15": "latest",
+        "ombori.xovis": "latest",
+        "omborxona-f20": "latest",
+        "ombra": "latest",
+        "ombre-schema-ts-types": "latest",
+        "ombro": "latest",
+        "ombu": "latest",
+        "ombud": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-pae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pae": "latest",
+        "paeanzxy": "latest",
+        "paeckchen": "latest",
+        "paeckchen-cli": "latest",
+        "paeckchen-core": "latest",
+        "paeckchen-sorcery": "latest",
+        "paella": "latest",
+        "paella-basic-plugins": "latest",
+        "paella-core": "latest",
+        "paella-freakyloop-plugin": "latest",
+        "paella-layout-plugins": "latest",
+        "paella-slide-plugins": "latest",
+        "paella-superimage": "latest",
+        "paella-teltek-plugins": "latest",
+        "paella-user-tracking": "latest",
+        "paella-xmxgx": "latest",
+        "paella-zoom-plugin": "latest",
+        "paellaplayer": "latest",
+        "paenrichsdkplugin": "latest",
+        "paeonia-server": "latest",
+        "paercelworkframe": "latest",
+        "paes-lib": "latest",
+        "paessler-iconfont": "latest",
+        "paesslerag-node-red-contrib-prtg": "latest"
+    }
+}

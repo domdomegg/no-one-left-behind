@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-fontsource-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fontsource-waiting-for-the-sunrise": "latest",
+        "fontsource-wallpoet": "latest",
+        "fontsource-walter-turncoat": "latest",
+        "fontsource-warnes": "latest",
+        "fontsource-wellfleet": "latest",
+        "fontsource-wendy-one": "latest",
+        "fontsource-wire-one": "latest",
+        "fontsource-work-sans": "latest"
+    }
+}

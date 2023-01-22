@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_qf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@qf-sz/qf-test01-components": "latest",
+        "@qfagitest/common": "latest",
+        "@qfed/hoegaarden": "latest",
+        "@qfed/lilith": "latest",
+        "@qfed/lilith-compiler": "latest",
+        "@qfed/lilith-compiler-vue": "latest",
+        "@qfed/prometheus": "latest",
+        "@qfed/prometheus-ui": "latest",
+        "@qfen/lib-ethers": "latest",
+        "@qfi/ethbarcelonacli": "latest",
+        "@qfi/ethlatamcli": "latest",
+        "@qfi/ethpraguecli": "latest",
+        "@qfi/ethtaiwancli": "latest",
+        "@qfi/zkplaygroundcli": "latest",
+        "@qfin/logger": "latest",
+        "@qfin/schema": "latest",
+        "@qfin/schemas": "latest",
+        "@qfin/tools": "latest",
+        "@qfinex/react-scripts-ts": "latest",
+        "@qflyalltime/pack-a_test_test_test_test": "latest",
+        "@qfoooo/eslint": "latest",
+        "@qfoooo/eslint-plugin-base": "latest",
+        "@qform/core": "latest",
+        "@qform/ui": "latest",
+        "@qftjs/monorepo1": "latest",
+        "@qftjs/monorepo2": "latest"
+    }
+}

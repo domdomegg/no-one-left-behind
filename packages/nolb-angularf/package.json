@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-angularf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "angularfire": "latest",
+        "angularfire-andre": "latest",
+        "angularfire-browserify": "latest",
+        "angularfire-lite": "latest",
+        "angularfire-paginator": "latest",
+        "angularfire-redux": "latest",
+        "angularfire-resource": "latest",
+        "angularfire-seed": "latest",
+        "angularfire-storage-wrapper": "latest",
+        "angularfire1": "latest",
+        "angularfire2": "latest",
+        "angularfire2-cocept": "latest",
+        "angularfire2-exp": "latest",
+        "angularfire2-offline": "latest",
+        "angularfire2-offline-v5": "latest",
+        "angularfire4": "latest",
+        "angularfirebase-authentication-tutorial": "latest",
+        "angularfirecharts": "latest",
+        "angularfirestore-deep": "latest",
+        "angularfooter": "latest"
+    }
+}

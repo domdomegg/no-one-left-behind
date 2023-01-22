@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_traj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trajanmcgill/requestanimationframe": "latest",
+        "@traje/ckedit": "latest",
+        "@traje/ckedit2": "latest",
+        "@traje/ckedit3": "latest",
+        "@trajetoria-dev-ui/docs": "latest",
+        "@trajetoria-dev-ui/react": "latest",
+        "@trajetoria-dev-ui/tokens": "latest"
+    }
+}

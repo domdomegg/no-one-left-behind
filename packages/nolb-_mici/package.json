@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_mici",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@micimize/graphql-code-generator": "latest",
+        "@micimize/graphql-codegen-compiler": "latest",
+        "@micimize/graphql-codegen-generators": "latest",
+        "@micimize/jupyterlab-wikify": "latest",
+        "@micimize/material-ui": "latest",
+        "@micimize/material-ui-icons": "latest",
+        "@micimize/material-ui-lab": "latest",
+        "@micimize/react-native-animatable": "latest",
+        "@micity/core": "latest",
+        "@micity/gui": "latest",
+        "@micity/loaders": "latest",
+        "@micity/materials": "latest",
+        "@micity/serializers": "latest",
+        "@micity/vue-kit": "latest",
+        "@miciula/counters": "latest"
+    }
+}

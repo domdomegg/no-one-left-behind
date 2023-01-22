@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-nodejsr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "Nodejsricardo": "latest",
+        "nodejsreactions": "latest",
+        "nodejsrenwenhao": "latest",
+        "nodejsrestapi1_package": "latest",
+        "nodejsreststarter": "latest",
+        "nodejsrm": "latest"
+    }
+}

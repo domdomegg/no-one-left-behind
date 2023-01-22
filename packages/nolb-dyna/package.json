@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-dyna",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dyna": "latest",
+        "@zalastax/nolb-dynam": "latest",
+        "@zalastax/nolb-dyna-": "latest",
+        "@zalastax/nolb-dynab": "latest",
+        "@zalastax/nolb-dynac": "latest",
+        "@zalastax/nolb-dynad": "latest",
+        "@zalastax/nolb-dynaf": "latest",
+        "@zalastax/nolb-dynag": "latest",
+        "@zalastax/nolb-dynah": "latest",
+        "@zalastax/nolb-dynak": "latest",
+        "@zalastax/nolb-dynal": "latest",
+        "@zalastax/nolb-dynan": "latest",
+        "@zalastax/nolb-dynao": "latest",
+        "@zalastax/nolb-dynap": "latest",
+        "@zalastax/nolb-dynaq": "latest",
+        "@zalastax/nolb-dynar": "latest",
+        "@zalastax/nolb-dynas": "latest",
+        "@zalastax/nolb-dynat": "latest",
+        "@zalastax/nolb-dynav": "latest",
+        "@zalastax/nolb-dynaw": "latest",
+        "@zalastax/nolb-dynaz": "latest"
+    }
+}

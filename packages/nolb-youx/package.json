@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-youx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "youxi": "latest",
+        "youxi-inyilingse": "latest",
+        "youxi-jiasulun": "latest",
+        "youxiang": "latest",
+        "youxiansen": "latest",
+        "youxiaohou": "latest",
+        "youxin-hefei-icon": "latest",
+        "youxin_icon": "latest",
+        "youxiubaibing": "latest",
+        "youxixueyuanshejixiwangqiananhuishen": "latest",
+        "youxu-core": "latest",
+        "youxuan": "latest",
+        "youxue-mobile-library": "latest",
+        "youxue-public-library": "latest"
+    }
+}

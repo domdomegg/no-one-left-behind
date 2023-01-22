@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-iol",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "iol": "latest",
+        "iol-api-node-wrapper": "latest",
+        "iol-link": "latest",
+        "iol-packages": "latest",
+        "iola": "latest",
+        "iolaus": "latest",
+        "iolazyload": "latest",
+        "iolib": "latest",
+        "iolist.js": "latest",
+        "iolit": "latest",
+        "iolite": "latest",
+        "iolite-provider": "latest",
+        "iolite-web3": "latest",
+        "iollo": "latest",
+        "ioload": "latest"
+    }
+}

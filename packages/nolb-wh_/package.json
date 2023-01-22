@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-wh_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wh.ttin.plugin": "latest",
+        "wh_censorify": "latest",
+        "wh_components": "latest",
+        "wh_create": "latest",
+        "wh_feedback_h5": "latest",
+        "wh_pc_feedback": "latest",
+        "wh_sdk": "latest",
+        "wh_test_tree": "latest",
+        "wh_tguide": "latest",
+        "wh_unit": "latest",
+        "wh_vbasic": "latest"
+    }
+}

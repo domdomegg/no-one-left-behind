@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-mef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mef": "latest",
+        "mef-react-treebeard": "latest",
+        "mefa": "latest",
+        "mefei": "latest",
+        "mefes": "latest",
+        "meff-is-type": "latest",
+        "meff-storage": "latest",
+        "meffisto": "latest",
+        "mefirst": "latest",
+        "mefthos": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_finw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@finwo/auth_request": "latest",
+        "@finwo/di": "latest",
+        "@finwo/digest": "latest",
+        "@finwo/digest-common": "latest",
+        "@finwo/digest-md5": "latest",
+        "@finwo/digest-pbkdf2": "latest",
+        "@finwo/digest-ripemd160": "latest",
+        "@finwo/digest-sha1": "latest",
+        "@finwo/digest-sha256": "latest",
+        "@finwo/digest-sha512": "latest",
+        "@finwo/levelgraph": "latest",
+        "@finwo/observer": "latest",
+        "@finwo/router": "latest",
+        "@finwo/scandir": "latest",
+        "@finwo/typedi": "latest"
+    }
+}

@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-dsr-package-pup",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dsr-package-pupal-nicer-remit-porch": "latest",
+        "dsr-package-pupal-sooks-murre-upend": "latest"
+    }
+}

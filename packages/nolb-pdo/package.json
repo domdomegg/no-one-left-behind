@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-pdo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pdo": "latest",
+        "pdo-prototype-api": "latest",
+        "pdo-theme": "latest",
+        "pdoan3": "latest",
+        "pdoc": "latest",
+        "pdoc-csv": "latest",
+        "pdoc-parser": "latest",
+        "pdok-geoencoder": "latest",
+        "pdom": "latest",
+        "pdoreau-au-input": "latest"
+    }
+}

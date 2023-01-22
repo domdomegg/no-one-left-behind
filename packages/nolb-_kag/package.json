@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_kag",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kagamox/ecoapi": "latest",
+        "@kagamox/nps": "latest",
+        "@kagamox/sec.js": "latest",
+        "@kagamox/tonumber": "latest",
+        "@kagamox/utiljs": "latest",
+        "@kagari/auth": "latest",
+        "@kagari/database": "latest",
+        "@kagari/rbac": "latest",
+        "@kagari/restful": "latest",
+        "@kagari/ui": "latest",
+        "@kagarisoft/csc": "latest",
+        "@kagarisoft/csc-react": "latest",
+        "@kagarisoft/gmvu-cli": "latest",
+        "@kagchi/brainly.js": "latest",
+        "@kagchi/kag-api": "latest",
+        "@kage0x3b/class-transformer": "latest",
+        "@kagenlh/jsxfields": "latest",
+        "@kagin007/lotide": "latest",
+        "@kagol/helloworld": "latest",
+        "@kagol/ktools": "latest",
+        "@kagronick/kgauge-vue": "latest",
+        "@kagurabi/kagura-widget": "latest"
+    }
+}

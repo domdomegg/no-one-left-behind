@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-vay",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vay": "latest",
+        "vayder": "latest",
+        "vaye_koa_core": "latest",
+        "vayentha": "latest",
+        "vaykoactual-resume": "latest",
+        "vayne": "latest",
+        "vayne-plugin-angularjs": "latest",
+        "vayne-plugin-qiniu": "latest",
+        "vayne-plugin-stylelint": "latest",
+        "vayne-plugin-vue": "latest",
+        "vayo.mongodb": "latest",
+        "vayo.utilities": "latest",
+        "vayout": "latest",
+        "vayu": "latest",
+        "vayu-vue": "latest",
+        "vayupankh": "latest"
+    }
+}

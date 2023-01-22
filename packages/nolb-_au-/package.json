@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_au-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@au-design/au": "latest",
+        "@au-mcw/button": "latest",
+        "@au-mcw/ripple": "latest",
+        "@au-re/mosaik-events": "latest",
+        "@au-re/procgen": "latest",
+        "@au-re/ramen": "latest"
+    }
+}

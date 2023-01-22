@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-tht",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tht-buttons": "latest",
+        "tht-fcf-document-retriever": "latest",
+        "tht-firebase-api-wrappers": "latest",
+        "tht-uikit": "latest",
+        "tht-uu": "latest",
+        "thtbsc": "latest",
+        "thtml": "latest",
+        "thtp": "latest",
+        "thtpancake-uikit": "latest",
+        "thtrm-css": "latest",
+        "thts": "latest",
+        "thttpd-index-parser": "latest",
+        "thtyt9843nnfg": "latest"
+    }
+}

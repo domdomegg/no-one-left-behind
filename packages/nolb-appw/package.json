@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-appw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "appwalker": "latest",
+        "appwall": "latest",
+        "appwarp": "latest",
+        "appwatch": "latest",
+        "appway": "latest",
+        "appwhj": "latest",
+        "appwidget_l": "latest",
+        "appwise-component-nodejs": "latest",
+        "appwithmodule": "latest",
+        "appwoniu": "latest",
+        "appworks": "latest",
+        "appworks-cli": "latest",
+        "appworks-js": "latest",
+        "appworkshop-slimerjs": "latest",
+        "appworkspace": "latest",
+        "appwrite": "latest",
+        "appwrite-cli": "latest",
+        "appwrite-coll-list": "latest",
+        "appwrite-rn": "latest",
+        "appwrite-svelte": "latest",
+        "appwrite-types-generator": "latest",
+        "appwrk-random-number-genrator": "latest"
+    }
+}

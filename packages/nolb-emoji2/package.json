@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-emoji2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emoji2": "latest",
+        "emoji2base64png": "latest",
+        "emoji2png": "latest"
+    }
+}

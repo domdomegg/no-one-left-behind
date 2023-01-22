@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-parsei",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "parseid": "latest",
+        "parseini": "latest",
+        "parseint": "latest",
+        "parseint-loudfail": "latest",
+        "parseint-r": "latest",
+        "parseinteger": "latest",
+        "parseiro": "latest",
+        "parseit": "latest",
+        "parseit.js": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-ng2f",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ng2f-bootstrap": "latest",
+        "ng2f-server": "latest",
+        "ng2focus": "latest"
+    }
+}

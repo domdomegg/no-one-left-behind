@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_va1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@va11y/api": "latest",
+        "@va11y/geo": "latest",
+        "@va11y/geojson": "latest",
+        "@va11y/hyper": "latest",
+        "@va11y/meta": "latest",
+        "@va11y/mongo": "latest",
+        "@va11y/stream": "latest"
+    }
+}

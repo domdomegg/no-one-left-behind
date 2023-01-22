@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-flt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "FLTEST": "latest",
+        "flt": "latest",
+        "flt-components": "latest",
+        "flt-cr": "latest",
+        "flt-tools": "latest",
+        "flten-utils": "latest",
+        "fltr": "latest",
+        "fltr-react-jsonschema-form": "latest",
+        "fltrec": "latest",
+        "fltrjson": "latest",
+        "flts_cli": "latest"
+    }
+}

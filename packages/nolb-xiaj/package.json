@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-xiaj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "xiajie01-excel-export": "latest",
+        "xiajie01-miniprogram": "latest",
+        "xiajie01-myexpress": "latest",
+        "xiajie01-ui": "latest",
+        "xiajie01-vue-cli": "latest",
+        "xiajueqiong": "latest",
+        "xiajun": "latest",
+        "xiajun-test": "latest",
+        "xiajun_cd": "latest"
+    }
+}

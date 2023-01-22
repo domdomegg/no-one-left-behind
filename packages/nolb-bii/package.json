@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-bii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bii": "latest",
+        "biiif": "latest",
+        "biiif-cli": "latest",
+        "biin": "latest",
+        "biings-ds": "latest",
+        "biizcd4rts": "latest"
+    }
+}

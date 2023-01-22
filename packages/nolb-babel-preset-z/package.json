@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-babel-preset-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-preset-zapier": "latest",
+        "babel-preset-zavatta": "latest",
+        "babel-preset-zcs": "latest",
+        "babel-preset-zero": "latest",
+        "babel-preset-zfpx-preset": "latest",
+        "babel-preset-zhihu": "latest",
+        "babel-preset-zillow": "latest",
+        "babel-preset-zkit": "latest",
+        "babel-preset-zooper": "latest",
+        "babel-preset-zoro": "latest",
+        "babel-preset-zoro-base": "latest",
+        "babel-preset-zoro-node": "latest",
+        "babel-preset-zoro-proposal": "latest",
+        "babel-preset-zoro-react": "latest",
+        "babel-preset-zoro-rollup": "latest",
+        "babel-preset-zoro-vue": "latest",
+        "babel-preset-zoro-web": "latest",
+        "babel-preset-zuzuche": "latest"
+    }
+}

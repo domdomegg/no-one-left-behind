@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_fluentui-icon-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/fluentui-icon-open-filled": "latest",
+        "@hyper.fun/fluentui-icon-open-folder-filled": "latest",
+        "@hyper.fun/fluentui-icon-open-folder-regular": "latest",
+        "@hyper.fun/fluentui-icon-open-off-filled": "latest",
+        "@hyper.fun/fluentui-icon-open-off-regular": "latest",
+        "@hyper.fun/fluentui-icon-open-regular": "latest",
+        "@hyper.fun/fluentui-icon-options-filled": "latest",
+        "@hyper.fun/fluentui-icon-options-regular": "latest",
+        "@hyper.fun/fluentui-icon-organization-filled": "latest",
+        "@hyper.fun/fluentui-icon-organization-horizontal-filled": "latest",
+        "@hyper.fun/fluentui-icon-organization-horizontal-regular": "latest",
+        "@hyper.fun/fluentui-icon-organization-regular": "latest",
+        "@hyper.fun/fluentui-icon-orientation-filled": "latest",
+        "@hyper.fun/fluentui-icon-orientation-regular": "latest",
+        "@hyper.fun/fluentui-icon-oval-filled": "latest",
+        "@hyper.fun/fluentui-icon-oval-regular": "latest"
+    }
+}

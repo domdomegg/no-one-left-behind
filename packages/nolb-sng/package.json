@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-sng",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sng": "latest",
+        "sng-admin-pages": "latest",
+        "sng-page-navigation": "latest",
+        "sng-ui": "latest",
+        "sng-utilities": "latest",
+        "sngular-timezone": "latest",
+        "sngular_decoder": "latest",
+        "sngyai": "latest",
+        "sngyalp-ui": "latest"
+    }
+}

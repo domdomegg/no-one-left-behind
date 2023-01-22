@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_apc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@apchh/angular-azure-atlas": "latest",
+        "@apchh/apc-auth-ngxs": "latest",
+        "@apchh/apc-auth-rxjs": "latest",
+        "@apchh/hr-module": "latest",
+        "@apcoa/core": "latest",
+        "@apcoa/tsconfig": "latest",
+        "@apcoa/utils": "latest",
+        "@apcolony/marketplace-api": "latest",
+        "@apconic/apconic-mqtt-commons": "latest",
+        "@apcovernight/node-utils": "latest",
+        "@apct/utils": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-afm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "afm": "latest",
+        "afm-first-component": "latest",
+        "afm-info": "latest",
+        "afm-info2": "latest",
+        "afmasterpass": "latest",
+        "afms": "latest"
+    }
+}

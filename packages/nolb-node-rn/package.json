@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-node-rn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-rn": "latest",
+        "node-rncryptor": "latest",
+        "node-rnd": "latest",
+        "node-rnr": "latest",
+        "node-rnw-rpc": "latest"
+    }
+}

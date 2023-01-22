@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_tyn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tynes/redux-ws-server": "latest",
+        "@tynik/react-honey-form": "latest",
+        "@tynik/web-workers": "latest",
+        "@tynor/precis": "latest",
+        "@tynq/core": "latest",
+        "@tynsoft/common": "latest"
+    }
+}

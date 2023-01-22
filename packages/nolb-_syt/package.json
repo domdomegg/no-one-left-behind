@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_syt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sytan11/hello-wasm": "latest",
+        "@sytan11/hello_world": "latest",
+        "@syteai/eslint-config": "latest",
+        "@sytexa/tzdb": "latest",
+        "@sytexa/tzdb-revised": "latest",
+        "@sytherax/eth-batcher-contracts": "latest",
+        "@sytickets/common": "latest",
+        "@sytio/clickstatsio-common": "latest",
+        "@sytten/ts-node-dev": "latest",
+        "@sytws/esclu": "latest"
+    }
+}

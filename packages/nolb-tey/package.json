@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-tey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tey": "latest",
+        "teya": "latest",
+        "teyixing-cordova-sobot": "latest",
+        "teys-injector": "latest",
+        "teys-rest": "latest",
+        "teytattze-sv-core": "latest",
+        "teyvat-travel-guide": "latest"
+    }
+}

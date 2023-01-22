@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_aml",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aml-org/als-node-client": "latest",
+        "@aml-org/als-server": "latest",
+        "@aml-org/amf-antlr-parsers": "latest",
+        "@aml-org/amf-custom-validator": "latest",
+        "@aml-org/amf-custom-validator-web": "latest",
+        "@aml-org/generic-js-model-adapter": "latest",
+        "@aml-org/ruleset-development-cli": "latest",
+        "@aml360/nestjs-compression": "latest",
+        "@amlane/first-npm-package": "latest",
+        "@amlane/styles": "latest",
+        "@amlify/ory": "latest",
+        "@amloop/aml-css": "latest",
+        "@amlopez333/mrhyde": "latest"
+    }
+}

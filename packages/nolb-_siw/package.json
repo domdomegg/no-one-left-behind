@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_siw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@siwalikm/gatsby-plugin-dark-mode": "latest",
+        "@siwenfeng/ljm": "latest",
+        "@siwixtickets/common": "latest",
+        "@siwt/acq": "latest",
+        "@siwt/core": "latest",
+        "@siwt/react": "latest",
+        "@siwting/jssip": "latest",
+        "@siwting/ng2-simple-timer-lib": "latest"
+    }
+}

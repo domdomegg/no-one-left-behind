@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-babel-plugin-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-plugin-yate": "latest",
+        "babel-plugin-yjf": "latest",
+        "babel-plugin-ynw": "latest",
+        "babel-plugin-yo-yoify": "latest",
+        "babel-plugin-yui": "latest",
+        "babel-plugin-yui-compressor-fix-reserved-keywords": "latest",
+        "babel-plugin-yui3": "latest",
+        "babel-plugin-yxbj-icon": "latest"
+    }
+}

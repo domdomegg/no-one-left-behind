@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-remb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rembedme": "latest",
+        "rembg-node": "latest",
+        "rembg-nodejs": "latest",
+        "rembg-rembg": "latest",
+        "rembox": "latest",
+        "rembr-component": "latest",
+        "rembrain_streams": "latest",
+        "rembrandt": "latest",
+        "rembrant": "latest"
+    }
+}

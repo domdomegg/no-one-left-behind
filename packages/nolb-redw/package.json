@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-redw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "redwagon": "latest",
+        "redwagon-react": "latest",
+        "redwagon-splunk-log-try": "latest",
+        "redwagon-splunk-logger": "latest",
+        "redwagon-splunk-logger-1": "latest",
+        "redwagon-wrapper": "latest",
+        "redwing": "latest",
+        "redwire": "latest",
+        "redwire-harmony": "latest",
+        "redwolf-sdk": "latest",
+        "redwood": "latest",
+        "redwood-api-stafflink": "latest",
+        "redwood-auth-stafflink": "latest",
+        "redwood-client": "latest",
+        "redwood-client-test": "latest",
+        "redwood-express-api": "latest",
+        "redwood-library": "latest",
+        "redwood-nprogress": "latest",
+        "redwood-p2p-client": "latest",
+        "redwood-swag": "latest",
+        "redwoodblog": "latest",
+        "redwoodjs": "latest",
+        "redwoodjs-payments": "latest",
+        "redwoodjs-react-query-provider": "latest",
+        "redwoodjs-stripe": "latest",
+        "redwoodjs-v4-codemods": "latest",
+        "redwoods": "latest",
+        "redwrap": "latest"
+    }
+}

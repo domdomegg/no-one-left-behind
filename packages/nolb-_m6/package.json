@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_m6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@m6t/vue-material": "latest",
+        "@m6web/eslint-config": "latest",
+        "@m6web/eslint-plugin": "latest",
+        "@m6web/eslint-plugin-i18n": "latest",
+        "@m6web/eslint-plugin-react": "latest",
+        "@m6web/eslint-plugin-vue": "latest",
+        "@m6web/i18n-lint": "latest",
+        "@m6web/normalizer": "latest",
+        "@m6web/react-i18n": "latest"
+    }
+}

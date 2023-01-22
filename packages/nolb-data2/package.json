@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-data2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "data2": "latest",
+        "data222": "latest",
+        "data24": "latest",
+        "data2charts": "latest",
+        "data2code": "latest",
+        "data2crm-api-nodejs-sdk": "latest",
+        "data2csv": "latest",
+        "data2excel": "latest",
+        "data2file": "latest",
+        "data2firebase-mqtthook": "latest",
+        "data2googlesheets-mqtthook": "latest",
+        "data2graphics": "latest",
+        "data2grid": "latest",
+        "data2insights-test": "latest",
+        "data2level": "latest",
+        "data2model": "latest",
+        "data2string": "latest",
+        "data2svg": "latest",
+        "data2swagger": "latest",
+        "data2table": "latest",
+        "data2template": "latest",
+        "data2xml": "latest"
+    }
+}

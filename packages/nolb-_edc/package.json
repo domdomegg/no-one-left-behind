@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_edc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@edc-dev/ol-mapbox-style": "latest",
+        "@edcademy/imgur-auth": "latest",
+        "@edcarroll/class-discriminators": "latest",
+        "@edcarroll/code-style": "latest",
+        "@edcarroll/hydrate-mongodb-shortid": "latest",
+        "@edcarroll/koa-router-decorators": "latest",
+        "@edcarroll/ng2-dnd": "latest",
+        "@edcarroll/ngrx-ionic-storage": "latest",
+        "@edcarroll/normalizr-decorators": "latest",
+        "@edcarstens/tiny": "latest",
+        "@edcartech/ednpm": "latest",
+        "@edcartech/js-utils-pro": "latest",
+        "@edcore/net": "latest",
+        "@edcore/payment": "latest",
+        "@edcore/ui": "latest",
+        "@edcore/utils": "latest"
+    }
+}

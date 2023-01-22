@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-etl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "etl": "latest",
+        "etl-cli": "latest",
+        "etl-collections": "latest",
+        "etl-demo": "latest",
+        "etl-demo1": "latest",
+        "etl-demo2": "latest",
+        "etl-excel": "latest",
+        "etl-influx": "latest",
+        "etl-node-fw": "latest",
+        "etl-pipeline": "latest",
+        "etl-pipeline-cdk": "latest",
+        "etl-server": "latest",
+        "etl-test": "latest",
+        "etl-toolkit": "latest",
+        "etl-typings": "latest",
+        "etl-utils": "latest",
+        "etlbot": "latest",
+        "etldevtcpdf": "latest",
+        "etldevtcpdf-laravel": "latest",
+        "etleneum": "latest",
+        "etli": "latest",
+        "etljs": "latest",
+        "etlogger": "latest",
+        "etlogger-gcp-handler": "latest",
+        "etlogger-syslog-handler": "latest",
+        "etltools": "latest"
+    }
+}

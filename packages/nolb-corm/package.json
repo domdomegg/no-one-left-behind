@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-corm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "corm": "latest",
+        "corm-can": "latest",
+        "corm-can-koa": "latest",
+        "corm-jsonschema": "latest",
+        "corm-test-package-1": "latest",
+        "corm-test-package-2": "latest",
+        "cormack-modules": "latest",
+        "cormacmchaleaddnumber": "latest",
+        "cormen": "latest",
+        "cormie": "latest",
+        "cormo": "latest",
+        "cormo-graphql": "latest",
+        "cormobi": "latest",
+        "cormobitest": "latest",
+        "cormoran": "latest",
+        "cormorant": "latest",
+        "cormorants": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-confr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "confr-upload": "latest",
+        "confrc": "latest",
+        "confreaks": "latest",
+        "confres": "latest",
+        "confrodo": "latest",
+        "confront": "latest",
+        "confront-util": "latest"
+    }
+}

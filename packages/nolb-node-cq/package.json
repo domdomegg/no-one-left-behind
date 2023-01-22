@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-node-cq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-cqrs": "latest",
+        "node-cqrs-eventdenormalizer": "latest",
+        "node-cqrs-framework": "latest",
+        "node-cqrs-mongo": "latest",
+        "node-cqrs-toolkit": "latest",
+        "node-cqrs-tools": "latest",
+        "node-cqs": "latest",
+        "node-cqsocket": "latest"
+    }
+}

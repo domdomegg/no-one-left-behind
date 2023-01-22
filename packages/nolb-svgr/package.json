@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-svgr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svgr": "latest",
+        "svgr-component-generator": "latest",
+        "svgr-lite": "latest",
+        "svgr-loader": "latest",
+        "svgr-rollup-inferno": "latest",
+        "svgr-webpack-inferno": "latest",
+        "svgr.macro": "latest",
+        "svgrab": "latest",
+        "svgrady": "latest",
+        "svgreact": "latest",
+        "svgreindeer": "latest",
+        "svgrid": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-oneg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "onegamer": "latest",
+        "onegc": "latest",
+        "onegoddess": "latest",
+        "onegraph": "latest",
+        "onegraph-apollo-client": "latest",
+        "onegraph-apollo-server-auth": "latest",
+        "onegraph-auth": "latest",
+        "onegraph-materials": "latest",
+        "onegraph-meetup-plugin": "latest",
+        "onegraph-stripe-connect": "latest",
+        "onegraph-subscription-client": "latest"
+    }
+}

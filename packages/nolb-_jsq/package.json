@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_jsq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jsq/async-seq": "latest",
+        "@jsq/seq": "latest",
+        "@jsquash/avif": "latest",
+        "@jsquash/jpeg": "latest",
+        "@jsquash/png": "latest",
+        "@jsquash/webp": "latest"
+    }
+}

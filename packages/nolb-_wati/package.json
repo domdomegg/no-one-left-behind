@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_wati",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wati.io/botbuilder-adapter-whatsapp": "latest",
+        "@wati.io/dialogflow-adapter-whatsapp": "latest",
+        "@watickets/common": "latest",
+        "@watiko/bms-renderer": "latest",
+        "@watiko/react-app-rewire-css-modules": "latest",
+        "@watilde/c": "latest",
+        "@watilde/d": "latest",
+        "@watilde/droplet": "latest",
+        "@watilde/e": "latest",
+        "@watilde/hello-scoped-package": "latest",
+        "@watilde/nyan": "latest",
+        "@watilde/test": "latest",
+        "@watinha/arff": "latest"
+    }
+}

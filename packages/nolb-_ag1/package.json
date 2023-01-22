@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_ag1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ag1/atp-gen-mysql-entities-cli": "latest",
+        "@ag1/authorization-header": "latest",
+        "@ag1/auto-handle-mariadb-pool-connection": "latest",
+        "@ag1/aws_s3": "latest",
+        "@ag1/backend_utils": "latest",
+        "@ag1/check_req": "latest",
+        "@ag1/compare-env-key": "latest",
+        "@ag1/empty_object": "latest",
+        "@ag1/eslint-config": "latest",
+        "@ag1/ezfetch": "latest",
+        "@ag1/fastify-response-schema": "latest",
+        "@ag1/gen_mysql_entities_cli": "latest",
+        "@ag1/keyvalmem": "latest",
+        "@ag1/middleware_runner": "latest",
+        "@ag1/mysql_rx_wrapper": "latest",
+        "@ag1/nil": "latest",
+        "@ag1/phone-number": "latest",
+        "@ag1/regex": "latest",
+        "@ag1/return_switch": "latest",
+        "@ag1/rx-auto-handle-mariadb-pool-connection": "latest",
+        "@ag1/sql-antd-pagination": "latest",
+        "@ag1/text": "latest",
+        "@ag1/tsconfig": "latest",
+        "@ag1/tuple": "latest",
+        "@ag1/typebox": "latest",
+        "@ag1/validate_request": "latest",
+        "@ag1/wela": "latest"
+    }
+}

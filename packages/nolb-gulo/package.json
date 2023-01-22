@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-gulo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gulo": "latest",
+        "gulo-deom": "latest",
+        "gulog": "latest",
+        "gulog-js": "latest",
+        "gulog-node": "latest",
+        "gulog-react": "latest",
+        "guloggratis-ui": "latest",
+        "gulosity-components": "latest"
+    }
+}

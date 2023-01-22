@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-postcss-1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "postcss-100vh-fix": "latest",
+        "postcss-1px-border": "latest",
+        "postcss-1px2rem": "latest"
+    }
+}

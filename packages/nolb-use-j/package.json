@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-use-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "use-jahnun": "latest",
+        "use-javascript": "latest",
+        "use-jjc": "latest",
+        "use-jquery": "latest",
+        "use-jquery-plugin": "latest",
+        "use-json-api-react": "latest",
+        "use-json-comparison": "latest",
+        "use-json-param": "latest",
+        "use-jsonp": "latest",
+        "use-jsx": "latest",
+        "use-justified-layout": "latest",
+        "use-jv-toaster": "latest",
+        "use-jv-toggle": "latest",
+        "use-jwt": "latest",
+        "use-jwt-auth": "latest",
+        "use-jwt-manager": "latest"
+    }
+}

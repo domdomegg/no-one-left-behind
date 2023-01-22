@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-creater",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "creater": "latest",
+        "creater-cli": "latest",
+        "creater-tools": "latest",
+        "creater-ui": "latest",
+        "createractclass": "latest",
+        "createreactapp1": "latest",
+        "createreactappsycade": "latest",
+        "createreactcba": "latest",
+        "createreactcomponentfolder2": "latest",
+        "createreadupdatedelete.js": "latest",
+        "createreduxjs": "latest",
+        "createref": "latest",
+        "createrenextapp": "latest",
+        "createrest": "latest",
+        "createrest-express": "latest",
+        "createrest-koa": "latest",
+        "createroute-webpack-plugin": "latest",
+        "createrouterplugin": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-gatsby-plugin-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gatsby-plugin-objectpress": "latest",
+        "gatsby-plugin-offline": "latest",
+        "gatsby-plugin-offline-next": "latest",
+        "gatsby-plugin-og-image": "latest",
+        "gatsby-plugin-og-images": "latest",
+        "gatsby-plugin-ogi": "latest",
+        "gatsby-plugin-okta": "latest",
+        "gatsby-plugin-olark": "latest",
+        "gatsby-plugin-open-graph-images": "latest",
+        "gatsby-plugin-openpay": "latest",
+        "gatsby-plugin-opensearch": "latest",
+        "gatsby-plugin-optimize-svgs": "latest",
+        "gatsby-plugin-optin-scripts": "latest",
+        "gatsby-plugin-orga": "latest",
+        "gatsby-plugin-orga-theme-ui": "latest",
+        "gatsby-plugin-osano": "latest",
+        "gatsby-plugin-otion": "latest",
+        "gatsby-plugin-outbrain": "latest",
+        "gatsby-plugin-output": "latest",
+        "gatsby-plugin-owa": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-react-ip",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-ip": "latest",
+        "react-ip-details": "latest",
+        "react-ip-input": "latest",
+        "react-ipa-input": "latest",
+        "react-ipfs": "latest",
+        "react-ipfs-components": "latest",
+        "react-ipfs-dropzone": "latest",
+        "react-ipfs-image": "latest",
+        "react-ipfs-provider": "latest",
+        "react-ipfs-uploader": "latest",
+        "react-ipfs-url": "latest",
+        "react-ipgeolocation": "latest",
+        "react-ippopay": "latest",
+        "react-ipsum": "latest",
+        "react-iptv": "latest",
+        "react-ipynb": "latest",
+        "react-ipynb-renderer": "latest",
+        "react-ipynb-renderer-katex": "latest"
+    }
+}

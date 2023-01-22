@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_x9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@x99minutos/agave": "latest",
+        "@x99minutos/agave-apps": "latest",
+        "@x99minutos/agave-dnd": "latest",
+        "@x99minutos/agave-drawer": "latest",
+        "@x99minutos/agave-header": "latest",
+        "@x99minutos/agave-icons": "latest",
+        "@x99minutos/agave-material": "latest",
+        "@x99minutos/agave-modal": "latest",
+        "@x99minutos/agave-provider": "latest",
+        "@x99minutos/agave-select": "latest",
+        "@x99minutos/agave-user": "latest",
+        "@x99minutos/nextjs-auth0-extension": "latest",
+        "@x9libs-dev/win9x-jss": "latest",
+        "@x9libs-dev/win9x-ui-react": "latest"
+    }
+}

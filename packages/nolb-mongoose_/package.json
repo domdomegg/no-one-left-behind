@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-mongoose_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mongoose.helper": "latest",
+        "mongoose.models.autoload": "latest",
+        "mongoose_cache": "latest",
+        "mongoose_crud": "latest",
+        "mongoose_patch_history_v1": "latest",
+        "mongoose_record_replay": "latest",
+        "mongoose_rpc": "latest",
+        "mongoose_schema-json": "latest",
+        "mongoose_sharan": "latest",
+        "mongoose_sima": "latest",
+        "mongoose_tookit": "latest",
+        "mongoose_validator": "latest"
+    }
+}

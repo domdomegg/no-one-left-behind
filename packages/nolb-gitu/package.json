@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-gitu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gitui": "latest",
+        "gitui79": "latest",
+        "gitum": "latest",
+        "gitum-cli": "latest",
+        "gitumber": "latest",
+        "gitup": "latest",
+        "gitup-cli": "latest",
+        "gitupmyproject": "latest",
+        "gitur": "latest",
+        "giturl": "latest",
+        "giturlparse": "latest",
+        "giturlparser": "latest",
+        "gitus": "latest",
+        "gituser": "latest",
+        "gitutil": "latest",
+        "gitutilities": "latest",
+        "gitutils": "latest",
+        "gitux": "latest"
+    }
+}

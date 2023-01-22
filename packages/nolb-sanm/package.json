@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-sanm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sanm-mdlinks": "latest",
+        "sanma": "latest",
+        "sanmailer": "latest",
+        "sanmap": "latest",
+        "sanmi-bubble": "latest",
+        "sanmi-picker": "latest",
+        "sanmi-table": "latest",
+        "sanmi-ui": "latest",
+        "sanmi-writer": "latest",
+        "sanmu-concatfiles": "latest",
+        "sanmu-vue-start": "latest"
+    }
+}

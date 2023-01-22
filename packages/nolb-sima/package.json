@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-sima",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sima": "latest",
+        "sima-generator-cli": "latest",
+        "sima2geojson": "latest",
+        "sima_tools": "latest",
+        "sima_wxreq": "latest",
+        "simacan-react-mapbox-gl": "latest",
+        "simache": "latest",
+        "simafafaple-discord": "latest",
+        "simagar-ui-kit": "latest",
+        "simagdo-ui": "latest",
+        "simagdo-ui-2": "latest",
+        "simahe-javascript": "latest",
+        "simall-ui": "latest",
+        "simareeno-project-lvl1-s208": "latest",
+        "simargi-component": "latest",
+        "simargi-form-app": "latest",
+        "simarkdown": "latest",
+        "simasrug-frame-print": "latest",
+        "simate": "latest",
+        "simaya": "latest",
+        "simayics": "latest"
+    }
+}

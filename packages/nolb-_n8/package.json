@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_n8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@n8body/tiptap-spoiler": "latest",
+        "@n8d/htwoo-core": "latest",
+        "@n8d/htwoo-icons": "latest",
+        "@n8d/htwoo-patterns": "latest",
+        "@n8d/htwoo-react": "latest",
+        "@n8io/jelly-beans": "latest",
+        "@n8mellis/kyt": "latest",
+        "@n8n_io/client-oauth2": "latest",
+        "@n8n_io/eslint-config": "latest",
+        "@n8n_io/license-sdk": "latest",
+        "@n8n_io/n8n-demo-component": "latest",
+        "@n8n_io/riot-tmpl": "latest",
+        "@n8rzz/branches": "latest",
+        "@n8tb1t/use-scroll-position": "latest",
+        "@n8tive/multi-form": "latest"
+    }
+}

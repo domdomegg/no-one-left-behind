@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_drb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@drb0rn4gr8ness/match-handler": "latest",
+        "@drbackmischung/calendar-ui5": "latest",
+        "@drbackmischung/charts-ng": "latest",
+        "@drbackmischung/charts-ui5": "latest",
+        "@drbackmischung/notification-ui5": "latest",
+        "@drbgittix/common": "latest",
+        "@drblaster/pipe": "latest",
+        "@drblaster/svelte-qrcode": "latest",
+        "@drblmthw/testujsk_custom_ckeditor5": "latest",
+        "@drboard/biblio": "latest",
+        "@drbooking/common": "latest",
+        "@drbracewell/favicon-emoji": "latest",
+        "@drbracewell/random-tools": "latest",
+        "@drbtickets/common": "latest"
+    }
+}

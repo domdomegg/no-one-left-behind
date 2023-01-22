@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-cloudr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cloudr": "latest",
+        "cloudr-toolkit": "latest",
+        "cloudr-uikit": "latest",
+        "cloudrail-si": "latest",
+        "cloudreen": "latest",
+        "cloudrender-web": "latest",
+        "cloudresizer-react": "latest",
+        "cloudreve": "latest",
+        "cloudrive": "latest",
+        "cloudrod": "latest",
+        "cloudron": "latest",
+        "cloudron-backblaze-b2-storage": "latest",
+        "cloudron-davsync": "latest",
+        "cloudron-serve": "latest",
+        "cloudron-simpleauth-dev": "latest",
+        "cloudron-surfer": "latest",
+        "cloudron-sysadmin": "latest",
+        "cloudron-syslog": "latest",
+        "cloudron-version": "latest",
+        "cloudrun-stay-awake": "latest",
+        "cloudrunner": "latest",
+        "cloudryer": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-http-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "http-native": "latest",
+        "http-ndjson": "latest",
+        "http-negotiator": "latest",
+        "http-network-proxy": "latest",
+        "http-ng": "latest",
+        "http-ng-loading-bar": "latest",
+        "http-node": "latest",
+        "http-node-phpfpm": "latest",
+        "http-node-proxy-plugin": "latest",
+        "http-node-server": "latest",
+        "http-node-zanhesl": "latest",
+        "http-nodejs": "latest",
+        "http-notifer": "latest",
+        "http-notifier": "latest",
+        "http-noupgrade": "latest",
+        "http-npm": "latest"
+    }
+}

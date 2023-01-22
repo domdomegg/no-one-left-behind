@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_zhf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zhf-theme/zhf-theme-eleui": "latest",
+        "@zhf-theme/zhf-theme-naiveui": "latest",
+        "@zhfejs/create-app": "latest",
+        "@zhfejs/flexible": "latest",
+        "@zhfejs/webpack-git-revision-plugin": "latest"
+    }
+}

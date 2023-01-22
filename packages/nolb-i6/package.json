@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-i6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "i6": "latest",
+        "i6-core": "latest",
+        "i6-device": "latest",
+        "i6-driver-modbus": "latest",
+        "i6-driver-s7ip": "latest",
+        "i6-driver-virtual": "latest",
+        "i6-historian": "latest",
+        "i6-s7ip": "latest",
+        "i64": "latest",
+        "i64base": "latest"
+    }
+}

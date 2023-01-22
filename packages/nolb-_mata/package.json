@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_mata",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mata-ticketing/common": "latest",
+        "@mata0050/lotide": "latest",
+        "@matadesigns/ama-zing": "latest",
+        "@matajm/matrix-js": "latest",
+        "@matali/next-translate-ts": "latest",
+        "@matanamir10/nodesimple": "latest",
+        "@matanmaimon/react-mentions": "latest",
+        "@matanp/slugger": "latest",
+        "@matanshop/common": "latest",
+        "@matantickets/common": "latest",
+        "@matart15/fullstack-turborepo-starter": "latest",
+        "@matart15/turborepo-nest-prisma-next": "latest",
+        "@matataki/editor": "latest",
+        "@matatsuna/tweentime": "latest"
+    }
+}

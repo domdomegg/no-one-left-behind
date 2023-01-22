@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-boto",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "boto": "latest",
+        "boto-movie": "latest",
+        "boto-neural-network": "latest",
+        "boto3": "latest",
+        "boto3-thrift-client": "latest",
+        "botocore": "latest",
+        "botocrat": "latest",
+        "botogram": "latest",
+        "botomatic": "latest",
+        "botomatik": "latest",
+        "botometer": "latest",
+        "boton-component": "latest",
+        "boton-hola-javascript": "latest",
+        "boton-verde": "latest",
+        "botoncooler": "latest",
+        "botonic": "latest",
+        "botonic-plugin-proxy": "latest",
+        "botonic-react": "latest",
+        "botonix": "latest",
+        "botonsoftvision": "latest",
+        "botoract": "latest",
+        "botota": "latest",
+        "botox": "latest",
+        "botoxs2": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_kuo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kuo.sandys/simple-dynamic-interactions": "latest",
+        "@kuobrothers/web-push-kuobrothers": "latest",
+        "@kuoki/anymap": "latest",
+        "@kuoki/environment": "latest",
+        "@kuoki/environment-angular": "latest",
+        "@kuoki/race-condition": "latest",
+        "@kuonglv/sb-base": "latest",
+        "@kuonjialice/data-view-react": "latest",
+        "@kuoruan/class-names": "latest",
+        "@kuoruan/luci-types": "latest",
+        "@kuoruan/text-clamp": "latest",
+        "@kuoruan/throttle-debounce": "latest",
+        "@kuoruan/uuidv4": "latest",
+        "@kuoruan/webp-supported": "latest",
+        "@kuoruan/webpack-utils": "latest",
+        "@kuos/lib": "latest",
+        "@kuos/npm-playground": "latest",
+        "@kuos/proj": "latest",
+        "@kuos/react-component": "latest",
+        "@kuos/sbu": "latest",
+        "@kuotie/core": "latest",
+        "@kuotie/neural": "latest",
+        "@kuotie/vector": "latest"
+    }
+}

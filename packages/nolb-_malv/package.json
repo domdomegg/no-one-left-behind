@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_malv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@malva-labs/mali-mudrica-zadaci": "latest",
+        "@malven/eslint-config": "latest",
+        "@malven/eslint-config-react": "latest",
+        "@malven/eslint-config-typescript": "latest",
+        "@malven/gui": "latest",
+        "@malven/gulp-tasks": "latest",
+        "@malven/modu": "latest",
+        "@malven/sass-toolkit": "latest",
+        "@malven/scroll-position": "latest",
+        "@malven/stylelint-config": "latest",
+        "@malven/tailwind-toolkit": "latest",
+        "@malvfr/zap": "latest",
+        "@malvineous/gamearchive": "latest",
+        "@malvineous/gamecomp": "latest",
+        "@malvineous/opl": "latest",
+        "@malvineous/record-io-buffer": "latest",
+        "@malvinval/quotiful": "latest"
+    }
+}

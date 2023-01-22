@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-scx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "scx": "latest",
+        "scx-comlib-avt2comp": "latest",
+        "scx-element": "latest",
+        "scx-react": "latest",
+        "scx-react-sx": "latest",
+        "scx-react-xxx": "latest",
+        "scx-test": "latest",
+        "scx-ui": "latest",
+        "scxa-gene-search-form": "latest",
+        "scxa-homepage-panels": "latest",
+        "scxa-marker-gene-heatmap": "latest",
+        "scxcomlib": "latest",
+        "scxml-cli": "latest",
+        "scxml-morse-code-parser": "latest",
+        "scxml-test-framework": "latest",
+        "scxmld": "latest",
+        "scxsxtx": "latest",
+        "scxsxtx1": "latest",
+        "scxsxtx2": "latest",
+        "scxutils": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-soly",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "soly": "latest",
+        "solyard-sdk": "latest",
+        "solyd-box": "latest",
+        "solyd-bpmn-moddle": "latest",
+        "solyd-dht": "latest",
+        "solyd-dht-rpc": "latest",
+        "solyd-discovery": "latest",
+        "solyd-gossip": "latest",
+        "solyd-keys": "latest",
+        "solyd-moddle": "latest",
+        "solyd-network": "latest",
+        "solyd-oz-sdk": "latest",
+        "solyd-swarm": "latest",
+        "solydmodeler": "latest",
+        "solydscreen-builder": "latest"
+    }
+}

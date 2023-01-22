@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_vuel",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vuelaine-ecommerce/common": "latest",
+        "@vuelancer/extension-checker": "latest",
+        "@vuelderjs/common-frontend": "latest",
+        "@vuelement/keycloak": "latest",
+        "@vuelement/layout": "latest",
+        "@vuelicious/vuetour": "latest",
+        "@vuelidate/components": "latest",
+        "@vuelidate/core": "latest",
+        "@vuelidate/validators": "latest",
+        "@vuelif/vuelif": "latest",
+        "@vuelify/cli": "latest",
+        "@vuelify/identity-functions": "latest",
+        "@vuelify/vite-plugin-pages": "latest",
+        "@vuelify/vite-plugin-prerender": "latest",
+        "@vuelify/vite-plugin-vicons": "latest",
+        "@vuelog/front": "latest",
+        "@vuelog/sample-template": "latest",
+        "@vuels/modal": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-cln",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cln": "latest",
+        "cln-solidity": "latest",
+        "cln-tools": "latest",
+        "cln001": "latest",
+        "cln3": "latest",
+        "clndr": "latest",
+        "clndr_ngn": "latest",
+        "clnic": "latest",
+        "clnm": "latest",
+        "clnms": "latest",
+        "clny": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-htp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htp": "latest",
+        "htp-server": "latest",
+        "htpap": "latest",
+        "htpasswd": "latest",
+        "htpasswd-auth": "latest",
+        "htpasswd-authenticator": "latest",
+        "htpasswd-for-sinopia": "latest",
+        "htpasswd-js": "latest",
+        "htpasswd-manager": "latest",
+        "htpasswd-mgr": "latest",
+        "htpbean": "latest",
+        "htpc-proxy": "latest",
+        "htpl": "latest",
+        "htpl-cli": "latest",
+        "htpp-calculator": "latest",
+        "htproject": "latest",
+        "htproxy": "latest",
+        "htpsw": "latest",
+        "htptotocolcode": "latest"
+    }
+}

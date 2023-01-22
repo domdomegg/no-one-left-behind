@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-graphql-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graphql-jay": "latest",
+        "graphql-jay-hyperschema": "latest",
+        "graphql-jinn": "latest",
+        "graphql-jit": "latest",
+        "graphql-joda-types": "latest",
+        "graphql-johanatan": "latest",
+        "graphql-join": "latest",
+        "graphql-joker": "latest",
+        "graphql-js-client": "latest",
+        "graphql-js-client-compiler": "latest",
+        "graphql-js-query": "latest",
+        "graphql-js-schema": "latest",
+        "graphql-js-schema-fetch": "latest",
+        "graphql-js-tree": "latest",
+        "graphql-json": "latest",
+        "graphql-json-date": "latest",
+        "graphql-json-object-type": "latest",
+        "graphql-json-query": "latest",
+        "graphql-json-resolvers": "latest",
+        "graphql-json-schema": "latest",
+        "graphql-json-schema-fix": "latest",
+        "graphql-json-to-sdl": "latest",
+        "graphql-json-transform": "latest",
+        "graphql-judo": "latest",
+        "graphql-julia-codegen": "latest"
+    }
+}

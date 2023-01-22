@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-evg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "evg": "latest",
+        "evg-elama-test-semantic-npm": "latest",
+        "evg-pol-test-module-four": "latest",
+        "evg-pol-test-module-one": "latest",
+        "evg-pol-test-module-three": "latest",
+        "evg-pol-test-module-two": "latest",
+        "evg_observable": "latest",
+        "evg_tick_generator": "latest",
+        "evgames": "latest",
+        "evgeni-malkin-russia-best-text-creator": "latest",
+        "evgenii_gavrilin_test_project": "latest",
+        "evgeniya-server": "latest",
+        "evgeniykzsupermodule": "latest",
+        "evgeniymodule": "latest",
+        "evgeny": "latest",
+        "evgenyberezny14module": "latest",
+        "evgenyp-nothing-to-prod": "latest",
+        "evgenyp-nothing-to-prod-api": "latest",
+        "evgenytestnpm": "latest",
+        "evget_common": "latest",
+        "evget_form": "latest",
+        "evget_grid": "latest",
+        "evggames": "latest",
+        "evgsil-serverless-s3-deploy": "latest",
+        "evgsil-vis": "latest",
+        "evgvfv_brain-games": "latest"
+    }
+}

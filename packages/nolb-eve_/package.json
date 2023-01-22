@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-eve_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eve.js": "latest",
+        "eve_swagger_interface": "latest",
+        "eve_swagger_interface_nightcandle": "latest"
+    }
+}

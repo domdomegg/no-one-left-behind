@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-swam",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "swam": "latest",
+        "swambda": "latest",
+        "swami": "latest",
+        "swami-ai": "latest",
+        "swami-frame-print": "latest",
+        "swami-greet": "latest",
+        "swamiapp": "latest",
+        "swamikalagiri": "latest",
+        "swamm": "latest",
+        "swamp": "latest",
+        "swamp-compiler": "latest",
+        "swamp-run": "latest",
+        "swamp-thing": "latest",
+        "swampdragon": "latest",
+        "swamper": "latest",
+        "swamper-loader": "latest",
+        "swampjs": "latest",
+        "swampnutz": "latest",
+        "swamproot-frameprint-publishtest": "latest",
+        "swampyer": "latest",
+        "swamyjmymod": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-clig",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clig": "latest",
+        "cligames": "latest",
+        "cligentest": "latest",
+        "cligentest-meta": "latest",
+        "cliggy": "latest",
+        "clight": "latest",
+        "clightning-client": "latest",
+        "clightning-rpc": "latest",
+        "clightningd-client": "latest",
+        "clightningjs": "latest",
+        "clightsaber": "latest",
+        "cligit": "latest",
+        "cligmail": "latest",
+        "cligoogle": "latest",
+        "cligui2": "latest"
+    }
+}

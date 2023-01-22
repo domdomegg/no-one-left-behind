@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-crn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "crn": "latest",
+        "crn-cache-image": "latest",
+        "crn-cards": "latest",
+        "crn-carregamento": "latest",
+        "crn-cli": "latest",
+        "crn-common-utils": "latest",
+        "crn-local-qrcode": "latest",
+        "crn-local-ttf": "latest",
+        "crn-oss-upload": "latest",
+        "crn-react-native-tab-view": "latest",
+        "crn-velocimetro": "latest",
+        "crn-web": "latest",
+        "crna": "latest",
+        "crna-make-symlinks-for-yarn-workspaces": "latest",
+        "crnc": "latest",
+        "crng": "latest",
+        "crnk-filtering": "latest",
+        "crnoib": "latest",
+        "crnp": "latest",
+        "crns-json": "latest",
+        "crnt-logger": "latest",
+        "crnt-util": "latest",
+        "crnwa": "latest"
+    }
+}

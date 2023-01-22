@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_thl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@thlee/react-modal": "latest",
+        "@thlib/components": "latest",
+        "@thlim/react-hooks": "latest",
+        "@thlorenz/electron-mksnapshot": "latest",
+        "@thlorenz/function-origin": "latest",
+        "@thlorenz/marionette-client": "latest",
+        "@thlorenz/pretty-bytes": "latest"
+    }
+}

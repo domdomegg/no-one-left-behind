@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-qus",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qus": "latest",
+        "qusandboxcli": "latest",
+        "qusar": "latest",
+        "quse": "latest",
+        "quseitqiuweiming": "latest",
+        "qusetion": "latest",
+        "qusetion1": "latest",
+        "qush": "latest",
+        "qushi-yuanli-yinlun": "latest",
+        "qushi-yuzuopin-fenxi-shiyong-jiaocheng": "latest",
+        "qushixue-jichu-jiaocheng": "latest",
+        "qushixue-jichu-zhishi-wenda": "latest",
+        "qusly-core": "latest",
+        "qusortarr": "latest",
+        "qustory-interface": "latest",
+        "qustory-utils": "latest"
+    }
+}

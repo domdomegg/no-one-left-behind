@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-vsd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vsd": "latest",
+        "vsd-components": "latest",
+        "vsd-db-mongoose": "latest",
+        "vsd-i18n": "latest",
+        "vsd-plugin-fs": "latest",
+        "vsd-plugin-fs-watch": "latest",
+        "vsd-plugin-router": "latest",
+        "vsd-router-express": "latest",
+        "vsd-router-model": "latest",
+        "vsd-shared": "latest",
+        "vsd-utils": "latest",
+        "vsda": "latest",
+        "vsdc-sdk": "latest",
+        "vsdev": "latest",
+        "vsdg-functions": "latest",
+        "vsdg-javascript": "latest",
+        "vsdkjson2csv": "latest",
+        "vsdown": "latest",
+        "vsdp": "latest",
+        "vsdropdown": "latest",
+        "vsdropdown-frontend": "latest"
+    }
+}

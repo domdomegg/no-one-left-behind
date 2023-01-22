@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_h6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@h64/eslint-config": "latest",
+        "@h64/eslint-config-react": "latest",
+        "@h64/prettier-config": "latest",
+        "@h64m1/react-table-component": "latest",
+        "@h6s/calendar": "latest",
+        "@h6s/table": "latest",
+        "@h6you/timezone-names-cn": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-formw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "formwatcher": "latest",
+        "formwatcher-date-picker": "latest",
+        "formwatcher-hint": "latest",
+        "formwell": "latest",
+        "formwheels": "latest",
+        "formwiz-publicweb-controls": "latest",
+        "formwizard": "latest",
+        "formwood": "latest",
+        "formwork": "latest",
+        "formws": "latest"
+    }
+}

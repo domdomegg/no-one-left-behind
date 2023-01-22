@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-shiw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shiw-auth": "latest",
+        "shiw-auth-qyweixin-h5": "latest",
+        "shiw-cesium": "latest",
+        "shiw-cesium-component": "latest",
+        "shiw-cesium-js": "latest",
+        "shiw-cesium-test": "latest",
+        "shiw-overallview": "latest",
+        "shiw-overallview-base": "latest",
+        "shiw-three": "latest",
+        "shiw-three-test": "latest",
+        "shiwei-test-module": "latest",
+        "shiwenyuan2017": "latest",
+        "shiwurikaohaha": "latest"
+    }
+}

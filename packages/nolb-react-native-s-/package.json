@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-react-native-s-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-s-alipay": "latest",
+        "react-native-s-baidumap": "latest",
+        "react-native-s-baidumap-wu": "latest",
+        "react-native-s-contact": "latest"
+    }
+}

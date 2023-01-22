@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-fop",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fop": "latest",
+        "foparsearguments": "latest",
+        "fopen": "latest",
+        "fopjs": "latest",
+        "foppish": "latest",
+        "fops": "latest",
+        "fopspark": "latest",
+        "fopsy": "latest",
+        "foptaweome": "latest"
+    }
+}

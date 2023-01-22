@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-trir",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "trira": "latest",
+        "trireme": "latest",
+        "trireme-jdbc": "latest",
+        "trireme-support": "latest",
+        "trireme-xslt": "latest",
+        "tririga-carbon-addons-iot-react": "latest"
+    }
+}

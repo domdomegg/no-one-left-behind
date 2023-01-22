@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-magd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "magda-cli-package": "latest",
+        "magda-styles": "latest",
+        "magda-typescript-common": "latest",
+        "magdalena-components-lib": "latest",
+        "magdiel-github-example": "latest",
+        "magdum-header-library": "latest",
+        "magdy-hussien": "latest"
+    }
+}

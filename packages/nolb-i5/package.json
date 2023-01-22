@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-i5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "i5": "latest",
+        "i5-tk-webxr": "latest",
+        "i5docker": "latest",
+        "i5mi-numpad": "latest",
+        "i5ting": "latest",
+        "i5ting-hello-node": "latest",
+        "i5ting.react.tab": "latest",
+        "i5ting_toc": "latest"
+    }
+}

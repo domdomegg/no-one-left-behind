@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-node-ci",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-ci": "latest",
+        "node-cicd": "latest",
+        "node-cidr": "latest",
+        "node-cielo": "latest",
+        "node-ciks": "latest",
+        "node-cinetpay": "latest",
+        "node-cint64": "latest",
+        "node-cip": "latest",
+        "node-cipher": "latest",
+        "node-ciqs": "latest",
+        "node-circle-ci": "latest",
+        "node-circle-qrcode": "latest",
+        "node-circleci-autorelease": "latest",
+        "node-circuit-breaker": "latest",
+        "node-circulate": "latest",
+        "node-cisco-axl": "latest",
+        "node-cisco-logs": "latest",
+        "node-cisco-ris": "latest",
+        "node-ciscospark": "latest",
+        "node-ciscoxml": "latest",
+        "node-cityhash": "latest",
+        "node-cityhash-go": "latest",
+        "node-cityscoot": "latest",
+        "node-cityscoot-lite": "latest"
+    }
+}

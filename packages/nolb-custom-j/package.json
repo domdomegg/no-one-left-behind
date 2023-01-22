@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-custom-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "custom-jaghrati": "latest",
+        "custom-jcrop": "latest",
+        "custom-jdatepicker": "latest",
+        "custom-jeans": "latest",
+        "custom-joi-error": "latest",
+        "custom-jquery-matchers": "latest",
+        "custom-jquery-methods": "latest",
+        "custom-js-001": "latest",
+        "custom-js-console": "latest",
+        "custom-js-fun": "latest",
+        "custom-js-lib": "latest",
+        "custom-js-year-calendar": "latest",
+        "custom-json": "latest",
+        "custom-json-management": "latest",
+        "custom-json-server": "latest",
+        "custom-json2excel": "latest",
+        "custom-jsreport-chrome-pdf": "latest",
+        "custom-jss-cli": "latest",
+        "custom-jszip": "latest"
+    }
+}

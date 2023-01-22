@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-sc4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sc4": "latest",
+        "sc4datarequest": "latest",
+        "sc4fieldvalue-adapter": "latest",
+        "sc4itemselect": "latest",
+        "sc4mylitelement": "latest",
+        "sc4node": "latest",
+        "sc4quill": "latest",
+        "sc4ui5combobox": "latest",
+        "sc4ui5radiobutton": "latest"
+    }
+}

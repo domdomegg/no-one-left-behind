@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_keg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@keg-hub/appetite": "latest",
+        "@keg-hub/args-parse": "latest",
+        "@keg-hub/ask-it": "latest",
+        "@keg-hub/cli-utils": "latest",
+        "@keg-hub/docker-lib": "latest",
+        "@keg-hub/git-lib": "latest",
+        "@keg-hub/jsutils": "latest",
+        "@keg-hub/keg-components": "latest",
+        "@keg-hub/keg-core": "latest",
+        "@keg-hub/mobile-tasks": "latest",
+        "@keg-hub/parse-config": "latest",
+        "@keg-hub/re-theme": "latest",
+        "@keg-hub/react-native-camera": "latest",
+        "@keg-hub/rga4": "latest",
+        "@keg-hub/spawn-cmd": "latest",
+        "@keg-hub/tap-evf-sessions": "latest",
+        "@keg-hub/tap-resolver": "latest",
+        "@kegareactstorefront/cart": "latest",
+        "@kegareactstorefront/components": "latest",
+        "@kegareactstorefront/connector-magento2": "latest",
+        "@kegareactstorefront/core": "latest",
+        "@kegareactstorefront/elements": "latest",
+        "@kegi/react-library-template": "latest",
+        "@kegovc/platzimediaplayer": "latest",
+        "@kegovc/schema2joi": "latest",
+        "@kegovc/schema2mongoose": "latest",
+        "@kegshoe/tap-map": "latest"
+    }
+}

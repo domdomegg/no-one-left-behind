@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-cex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cex": "latest",
+        "cex-as-promised": "latest",
+        "cex-common": "latest",
+        "cex-crawler": "latest",
+        "cex-websocket": "latest",
+        "cexcel": "latest",
+        "cexceljs": "latest",
+        "cexchange": "latest",
+        "cexdb": "latest",
+        "cexio": "latest",
+        "cexio-api-node": "latest",
+        "cexio-prime-liquidity": "latest",
+        "cexoso_utils": "latest",
+        "cext": "latest",
+        "cextend": "latest"
+    }
+}

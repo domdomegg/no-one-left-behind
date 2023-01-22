@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-taq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "taq-node-web-tools": "latest",
+        "taqe-api-gateway": "latest",
+        "taqe-mfe-component-header-config": "latest",
+        "taqe-ms-company": "latest",
+        "taqe-test-module": "latest",
+        "taqtest": "latest",
+        "taqtile-dangerjs-plugin": "latest",
+        "taquante-api-client-js": "latest",
+        "taqueria": "latest",
+        "taquin-provider": "latest",
+        "taquin-rust-wasm": "latest",
+        "taquito": "latest",
+        "taquito-ledger-signer": "latest",
+        "taqz": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-myq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "myq-api": "latest",
+        "myq-api-2": "latest",
+        "myq-node": "latest",
+        "myqcontroller": "latest",
+        "myqiang": "latest",
+        "myqiqiweb-10": "latest",
+        "myqiqiweb-12": "latest",
+        "myqiuwen": "latest",
+        "myql": "latest",
+        "myqnode": "latest",
+        "myqptest": "latest",
+        "myqq": "latest",
+        "myqq_utils": "latest",
+        "myqqas": "latest",
+        "myqry": "latest",
+        "myqtest": "latest",
+        "myquariumfishs": "latest",
+        "myquery": "latest",
+        "myqueryjzt": "latest",
+        "myqueue": "latest",
+        "myquickdb": "latest",
+        "myquill-wlc": "latest",
+        "myquillwps": "latest",
+        "myquote": "latest",
+        "myqxf": "latest",
+        "myqyb": "latest",
+        "myqzy": "latest"
+    }
+}

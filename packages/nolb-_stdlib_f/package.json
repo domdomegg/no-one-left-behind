@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_stdlib_f",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stdlib/fs": "latest",
+        "@stdlib/fs-close": "latest",
+        "@stdlib/fs-exists": "latest",
+        "@stdlib/fs-open": "latest",
+        "@stdlib/fs-read-dir": "latest",
+        "@stdlib/fs-read-file": "latest",
+        "@stdlib/fs-read-file-list": "latest",
+        "@stdlib/fs-read-json": "latest",
+        "@stdlib/fs-read-wasm": "latest",
+        "@stdlib/fs-rename": "latest",
+        "@stdlib/fs-resolve-parent-path": "latest",
+        "@stdlib/fs-resolve-parent-path-by": "latest",
+        "@stdlib/fs-unlink": "latest",
+        "@stdlib/fs-write-file": "latest",
+        "@stdlib/function-ctor": "latest",
+        "@stdlib/function-to-string": "latest"
+    }
+}

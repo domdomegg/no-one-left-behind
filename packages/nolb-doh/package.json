@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-doh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "doh": "latest",
+        "doh-js-client": "latest",
+        "doh-query": "latest",
+        "doh-resolver": "latest",
+        "doh-sql": "latest",
+        "doha": "latest",
+        "dohamark": "latest",
+        "dohc": "latest",
+        "dohcli": "latest",
+        "dohdec": "latest",
+        "dohdec-cli": "latest",
+        "dohjs": "latest",
+        "dohnut": "latest",
+        "doho": "latest",
+        "dohodnina": "latest",
+        "dohone-sdk": "latest",
+        "dohp": "latest",
+        "dohtml": "latest",
+        "dohttp": "latest",
+        "dohwootest": "latest",
+        "dohyeung_test": "latest"
+    }
+}

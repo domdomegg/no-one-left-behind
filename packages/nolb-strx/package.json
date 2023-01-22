@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-strx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "strx-clients": "latest",
+        "strx-frontend-lib": "latest",
+        "strx-ms-auth": "latest",
+        "strx-ms-common": "latest",
+        "strxml": "latest",
+        "strxml-es": "latest"
+    }
+}

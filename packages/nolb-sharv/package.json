@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-sharv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sharvcan-waitnotifyjs": "latest",
+        "sharvit-flatten-js": "latest",
+        "sharvit-foreman-js-vendor": "latest",
+        "sharvit-foreman-js-vendor-core": "latest",
+        "sharvit-foreman-js-vendor-dev": "latest"
+    }
+}

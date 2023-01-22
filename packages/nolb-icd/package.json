@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-icd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "icd": "latest",
+        "icd-10-cm-core": "latest",
+        "icd-10-cm-parser": "latest",
+        "icd-custom-component-cli": "latest",
+        "icd10": "latest",
+        "icdeis": "latest",
+        "icdn": "latest",
+        "icdocsoc-email-generator": "latest",
+        "icdr-sdk": "latest"
+    }
+}

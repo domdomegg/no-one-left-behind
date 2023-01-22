@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-rcm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rcm": "latest",
+        "rcm-binder": "latest",
+        "rcm-calendar": "latest",
+        "rcm-design": "latest",
+        "rcm-mobile": "latest",
+        "rcm-package-test": "latest",
+        "rcm-service-sdk": "latest",
+        "rcm-tools": "latest",
+        "rcm_v_dbinder": "latest",
+        "rcmdesign_dbinder": "latest",
+        "rcmind": "latest",
+        "rcmp": "latest",
+        "rcmp-ui": "latest",
+        "rcmppppppp": "latest",
+        "rcms": "latest"
+    }
+}

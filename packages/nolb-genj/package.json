@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-genj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "genji": "latest",
+        "genji-core": "latest",
+        "genji-es": "latest",
+        "genji-esm": "latest",
+        "genji-mock": "latest",
+        "genji-notebook": "latest",
+        "genji-static": "latest",
+        "genji4mock": "latest",
+        "genji_framework": "latest",
+        "genjijs": "latest",
+        "genjijs-umd": "latest",
+        "genjo-ui": "latest",
+        "genjs": "latest",
+        "genjs-ecc": "latest",
+        "genjs-out": "latest",
+        "genjs-pass": "latest",
+        "genjs1": "latest",
+        "genjson": "latest",
+        "genjsondb": "latest",
+        "genjsx": "latest",
+        "genjutsu": "latest",
+        "genjutsu-dependencies": "latest"
+    }
+}

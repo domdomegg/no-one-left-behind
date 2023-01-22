@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_aby",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aby21/convert-time": "latest",
+        "@abyanm/lotide": "latest",
+        "@abyssaljs/core": "latest",
+        "@abyssaljs/plugin-graphql": "latest",
+        "@abysser/jit": "latest",
+        "@abysser/matter-lint": "latest",
+        "@abysser/spatula": "latest",
+        "@abytecurious/serum": "latest"
+    }
+}

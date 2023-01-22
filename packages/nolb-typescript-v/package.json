@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-typescript-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typescript-validate": "latest",
+        "typescript-validate-param": "latest",
+        "typescript-validation": "latest",
+        "typescript-validations": "latest",
+        "typescript-validator": "latest",
+        "typescript-validators": "latest",
+        "typescript-vast-parser": "latest",
+        "typescript-vector": "latest",
+        "typescript-venom-app": "latest",
+        "typescript-vezba": "latest",
+        "typescript-via-babel-react-scripts": "latest",
+        "typescript-video-player": "latest",
+        "typescript-vikingship": "latest",
+        "typescript-visitor-keys": "latest",
+        "typescript-vscode-sh-plugin": "latest",
+        "typescript-vue-plugin": "latest",
+        "typescript-vue-shared-module-across-repositories": "latest",
+        "typescript-vue-starter": "latest",
+        "typescript-vue-test": "latest",
+        "typescript-vue-tutorial": "latest"
+    }
+}

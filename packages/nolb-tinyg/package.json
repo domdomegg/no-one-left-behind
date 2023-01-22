@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-tinyg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tinyg": "latest",
+        "tinygallery": "latest",
+        "tinygame": "latest",
+        "tinygame.xyz": "latest",
+        "tinygen": "latest",
+        "tinygesture": "latest",
+        "tinyget": "latest",
+        "tinygif": "latest",
+        "tinygit": "latest",
+        "tinygl": "latest",
+        "tinygql": "latest",
+        "tinygradient": "latest",
+        "tinygraphs": "latest"
+    }
+}

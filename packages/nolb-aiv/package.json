@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-aiv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aiv": "latest",
+        "aiv367-baseclass": "latest",
+        "aiv367-browser-config": "latest",
+        "aiv367-browser-hotkey": "latest",
+        "aiv367-drag": "latest",
+        "aiv367-idb": "latest",
+        "aiv367-merge": "latest",
+        "aiv367-task": "latest",
+        "aiva": "latest",
+        "aivanov-profile-card": "latest",
+        "aivarask-react-scripts": "latest",
+        "aivdm-decoder": "latest",
+        "aivia": "latest",
+        "aivia-node-binance-api": "latest",
+        "aivid-onvif": "latest",
+        "aivideo": "latest",
+        "aiview": "latest",
+        "aivis-connect": "latest",
+        "aivo-dog-test": "latest",
+        "aivue-ui": "latest"
+    }
+}

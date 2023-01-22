@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-fastd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fastd-ui": "latest",
+        "fastdash": "latest",
+        "fastdc": "latest",
+        "fastdeploy": "latest",
+        "fastdev-jwks-verify": "latest",
+        "fastdev-psql": "latest",
+        "fastdev-tool": "latest",
+        "fastdev-utils": "latest",
+        "fastdfs": "latest",
+        "fastdfs-client": "latest",
+        "fastdi": "latest",
+        "fastdl": "latest",
+        "fastdns": "latest",
+        "fastdo-react": "latest",
+        "fastdoc": "latest",
+        "fastdom": "latest",
+        "fastdom-hidden": "latest",
+        "fastdom-js": "latest",
+        "fastdom-sequencer": "latest",
+        "fastdom-throttle": "latest",
+        "fastdomparse-node": "latest",
+        "fastdrag": "latest",
+        "fastdriver": "latest",
+        "fastdva-core": "latest"
+    }
+}

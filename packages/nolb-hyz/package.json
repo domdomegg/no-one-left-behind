@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-hyz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hyz-cli": "latest",
+        "hyz-components": "latest",
+        "hyz-components-test": "latest",
+        "hyz-npm-test": "latest",
+        "hyz-plugins": "latest",
+        "hyz-shepherd": "latest",
+        "hyz-t1": "latest",
+        "hyzed": "latest",
+        "hyzen": "latest",
+        "hyzhab": "latest",
+        "hyzone": "latest",
+        "hyzrikaofabao": "latest",
+        "hyzrikaofabao_1": "latest",
+        "hyzs-cli": "latest",
+        "hyztestcreatepackage": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_daj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dajianjian/nestjsmdblib": "latest",
+        "@dajinchu/react-beautiful-dnd": "latest",
+        "@dajk/react-carousel": "latest",
+        "@dajk/react-scripts": "latest",
+        "@dajuzi/client": "latest",
+        "@dajuzi/customers.api": "latest",
+        "@dajuzi/customers.ui": "latest",
+        "@dajuzi/database": "latest",
+        "@dajuzi/inventory.api": "latest",
+        "@dajuzi/inventory.ui": "latest",
+        "@dajuzi/model": "latest",
+        "@dajuzi/server": "latest",
+        "@dajuzi/ui": "latest",
+        "@dajuzi/utilities": "latest"
+    }
+}

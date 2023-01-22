@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_types_rx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@types/rx": "latest",
+        "@types/rx-angular": "latest",
+        "@types/rx-core": "latest",
+        "@types/rx-core-binding": "latest",
+        "@types/rx-dom": "latest",
+        "@types/rx-jquery": "latest",
+        "@types/rx-lite": "latest",
+        "@types/rx-lite-aggregates": "latest",
+        "@types/rx-lite-async": "latest",
+        "@types/rx-lite-backpressure": "latest",
+        "@types/rx-lite-coincidence": "latest",
+        "@types/rx-lite-experimental": "latest",
+        "@types/rx-lite-joinpatterns": "latest",
+        "@types/rx-lite-testing": "latest",
+        "@types/rx-lite-time": "latest",
+        "@types/rx-lite-virtualtime": "latest",
+        "@types/rx-node": "latest",
+        "@types/rx.wamp": "latest"
+    }
+}

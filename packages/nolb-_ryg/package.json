@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_ryg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@rygaa/react-ui-component": "latest",
+        "@rygaa/ui": "latest",
+        "@rygent/anilist": "latest",
+        "@rygent/igdb": "latest",
+        "@rygent/logger": "latest",
+        "@rygent/spotify": "latest",
+        "@rygine/eslint-plugin-import": "latest"
+    }
+}

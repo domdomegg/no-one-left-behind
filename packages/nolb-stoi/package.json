@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-stoi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stoi": "latest",
+        "stoic-portal": "latest",
+        "stoic-quotes": "latest",
+        "stoic-quotes-cli": "latest",
+        "stoiccoder-frame-print": "latest",
+        "stoicism-js-style": "latest",
+        "stoics-palindrome": "latest",
+        "stoik": "latest"
+    }
+}

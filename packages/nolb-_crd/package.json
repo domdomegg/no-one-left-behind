@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_crd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@crdant/cloud-config-client": "latest",
+        "@crdls/my-test-package": "latest",
+        "@crds_npm/crds-angular-auth": "latest",
+        "@crds_npm/crds-angular-auth-wrapper-lib": "latest",
+        "@crds_npm/crds-client-auth": "latest",
+        "@crds_npm/crds-components": "latest",
+        "@crds_npm/crds-content-block": "latest",
+        "@crds_npm/crds-okta-auth": "latest",
+        "@crds_npm/crds-vault-node": "latest",
+        "@crds_npm/graphql-directives": "latest",
+        "@crds_npm/rollup-plugin-content-blocks": "latest",
+        "@crds_npm/rollup-plugin-vault": "latest",
+        "@crdtech/auth-utils": "latest",
+        "@crdtech/express-audit-log-middleware": "latest",
+        "@crdtech/express-health-check-middleware": "latest",
+        "@crdtech/express-node-metrics": "latest",
+        "@crdtech/jwt-auth-middleware": "latest",
+        "@crdtech/jwt-auth-middleware-2": "latest",
+        "@crdtech/logger": "latest"
+    }
+}

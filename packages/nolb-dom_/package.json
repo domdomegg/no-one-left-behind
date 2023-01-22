@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-dom_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dom.js": "latest",
+        "dom.min.js": "latest",
+        "dom.position": "latest",
+        "dom.tpl": "latest",
+        "dom_0524z": "latest",
+        "dom_1812b_wxd": "latest",
+        "dom_basic_step": "latest",
+        "dom_dcy": "latest",
+        "dom_liu_sen": "latest",
+        "dom_lzf": "latest",
+        "dom_manipulation_lib": "latest",
+        "dom_mode_1812b": "latest",
+        "dom_ssw": "latest",
+        "dom_token_list-functions-class_list_monitor": "latest",
+        "dom_token_list-functions-contains_all": "latest",
+        "dom_token_list-functions-remove_all": "latest",
+        "dom_zhuzhiang": "latest"
+    }
+}

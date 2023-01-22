@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-swz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "swz": "latest",
+        "swz-chat-cli": "latest",
+        "swz-demo124444": "latest",
+        "swz-pages": "latest",
+        "swzdk_myfirstpackage": "latest",
+        "swzhao": "latest",
+        "swzhao_nav": "latest",
+        "swzj": "latest",
+        "swztestcom": "latest",
+        "swzx-for-react": "latest"
+    }
+}

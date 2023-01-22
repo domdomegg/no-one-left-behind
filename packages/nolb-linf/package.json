@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-linf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "linf-ui": "latest",
+        "linfan": "latest",
+        "linfangfangshishabi": "latest",
+        "linfaxiang-tools": "latest",
+        "linfaxiang-ui": "latest",
+        "linfe-utils": "latest",
+        "linfeiyang-ip-addr": "latest",
+        "linfeiyang-topsdk": "latest",
+        "linfeng-liuren-shizhan-jinjie-jingtong-shang": "latest",
+        "linfeng-liuren-shizhan-jinjie-jingtong-xia": "latest",
+        "linfeng-liuren-shizhan-jinjie-jingtong-zhong": "latest",
+        "linfeng-test": "latest",
+        "linfeng-tools": "latest",
+        "linfirstjs": "latest",
+        "linfit": "latest",
+        "linfudong-test": "latest"
+    }
+}

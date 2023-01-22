@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-lo-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lo-component": "latest",
+        "lo-customform": "latest",
+        "lo-customlib": "latest",
+        "lo-diff": "latest",
+        "lo-fi": "latest",
+        "lo-git-tool": "latest",
+        "lo-graph": "latest",
+        "lo-graph-sync": "latest",
+        "lo-jsondb": "latest",
+        "lo-key": "latest",
+        "lo-my-storybook-components": "latest",
+        "lo-product-card": "latest",
+        "lo-q": "latest",
+        "lo-que-sea-number-formatter": "latest",
+        "lo-ui": "latest",
+        "lo-utils": "latest",
+        "lo-utils-node": "latest"
+    }
+}

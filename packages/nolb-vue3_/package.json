@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-vue3_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue3.0-clipboard": "latest",
+        "vue3.0-image-viewer": "latest",
+        "vue3.0-infinite-scroll": "latest",
+        "vue3.0-pack-sanwujingnian": "latest",
+        "vue3.0-ui": "latest",
+        "vue3.0_ts_study": "latest",
+        "vue3.21test001": "latest",
+        "vue3_element": "latest",
+        "vue3_hel": "latest",
+        "vue3_jspreadsheet": "latest",
+        "vue3_lazy_components": "latest",
+        "vue3_lu_ui": "latest",
+        "vue3_news": "latest",
+        "vue3_npm": "latest",
+        "vue3_plate_num_input": "latest",
+        "vue3_project": "latest",
+        "vue3_temp": "latest",
+        "vue3_ts_tool": "latest",
+        "vue3_ts_wtyui": "latest",
+        "vue3_video_vk": "latest",
+        "vue3_vite_components_library": "latest",
+        "vue3_web_component": "latest"
+    }
+}

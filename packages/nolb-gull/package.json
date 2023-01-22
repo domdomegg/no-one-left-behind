@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-gull",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gull": "latest",
+        "gull-bot": "latest",
+        "gull-component": "latest",
+        "gull-seed": "latest",
+        "gullan": "latest",
+        "gullible": "latest",
+        "gullinbursti-": "latest",
+        "gullitmiranda-apollo-upload-client": "latest",
+        "gullocean-vue-components": "latest",
+        "gullwing": "latest",
+        "gullwing-transform-cardinals": "latest",
+        "gully": "latest"
+    }
+}

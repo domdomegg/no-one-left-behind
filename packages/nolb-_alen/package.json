@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_alen",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alen2020/v-auth": "latest",
+        "@alena0817/brix": "latest",
+        "@alenaksu/json-viewer": "latest",
+        "@alenaksu/neatjs": "latest",
+        "@alenjdev/ui-sdk": "latest",
+        "@alenon/grpc-mock-server": "latest",
+        "@alenosmanovic91x/angularx-social-login": "latest",
+        "@alentoma/react-native-selectable-text": "latest",
+        "@alentoma/usestate": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-serv-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "serv-imgs": "latest",
+        "serv-md": "latest",
+        "serv-monicord": "latest",
+        "serv-sim-react": "latest",
+        "serv-term": "latest",
+        "serv-vasya-t": "latest"
+    }
+}

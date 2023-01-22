@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-svgf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svgf": "latest",
+        "svgfile": "latest",
+        "svgfilter": "latest",
+        "svgfit": "latest",
+        "svgfixer": "latest",
+        "svgfmt": "latest",
+        "svgfont": "latest",
+        "svgfont-webpack-plugin": "latest",
+        "svgfont2glyphmap": "latest",
+        "svgfont2glyphs": "latest",
+        "svgfont2js": "latest",
+        "svgfont2svgicons": "latest",
+        "svgfont2svgs": "latest",
+        "svgfontview": "latest"
+    }
+}

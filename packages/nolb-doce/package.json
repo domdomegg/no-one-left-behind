@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-doce",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "doce": "latest",
+        "docean-dyn-dns": "latest",
+        "doceform": "latest",
+        "docend": "latest",
+        "docent": "latest",
+        "docent-ui": "latest",
+        "docenv": "latest",
+        "docer": "latest",
+        "docer-lint": "latest",
+        "docere-text-view": "latest",
+        "docermis-todo-lists": "latest",
+        "docermis-todo-widget": "latest",
+        "doces": "latest",
+        "docez": "latest"
+    }
+}

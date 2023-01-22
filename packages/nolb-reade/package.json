@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-reade",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "readeasy": "latest",
+        "readem": "latest",
+        "reader": "latest",
+        "reader-beware": "latest",
+        "reader-cli": "latest",
+        "reader-csv": "latest",
+        "reader-files": "latest",
+        "reader-future": "latest",
+        "reader-gtps": "latest",
+        "reader-line-iterator": "latest",
+        "reader-scraper": "latest",
+        "reader-stat": "latest",
+        "reader.css": "latest",
+        "readerjs": "latest",
+        "readers": "latest",
+        "readers-block-react": "latest",
+        "readers-writer-lock": "latest",
+        "readery": "latest",
+        "readesm": "latest",
+        "readesm-js": "latest"
+    }
+}

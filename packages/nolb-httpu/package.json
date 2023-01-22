@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-httpu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "httpu": "latest",
+        "httpunch": "latest",
+        "httpuppy": "latest",
+        "httpuppy-router": "latest",
+        "httpuppy-types": "latest",
+        "httpuppy-vfs": "latest",
+        "httpurl": "latest",
+        "httpush": "latest",
+        "httputil": "latest",
+        "httpuv": "latest"
+    }
+}

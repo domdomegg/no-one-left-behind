@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-clp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clp": "latest",
+        "clp-ui": "latest",
+        "clp-wasm": "latest",
+        "clp1912aling": "latest",
+        "clpacking-ui": "latest",
+        "clpage": "latest",
+        "clparser": "latest",
+        "clpchy-hello": "latest",
+        "clpiboard": "latest",
+        "clpiboardy": "latest",
+        "clpl": "latest",
+        "clpm": "latest",
+        "clpsm": "latest"
+    }
+}

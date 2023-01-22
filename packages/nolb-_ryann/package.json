@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_ryann",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryannerd/ember-toggle-button": "latest",
+        "@ryannerd/toggle-button": "latest",
+        "@ryannhg/elm-spa": "latest",
+        "@ryannhg/safe-json": "latest"
+    }
+}

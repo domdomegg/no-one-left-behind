@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_peq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pequehq/di": "latest",
+        "@pequehq/graphql": "latest",
+        "@pequehq/smb-client": "latest",
+        "@pequehq/smb-commons": "latest",
+        "@pequehq/smb-server": "latest",
+        "@pequity/eslint-config": "latest"
+    }
+}

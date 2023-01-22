@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-react-cf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-cf-component-account-create": "latest",
+        "react-cf-component-account-create-success": "latest",
+        "react-cf-component-account-user-activate": "latest",
+        "react-cf-component-account-user-login": "latest",
+        "react-cf-component-account-user-login-search": "latest",
+        "react-cf-component-account-user-logout": "latest",
+        "react-cf-component-account-user-profile": "latest",
+        "react-cf-component-crm-client": "latest",
+        "react-cf-component-landing-page": "latest",
+        "react-cf-component-layout-dashboard": "latest",
+        "react-cf-component-message-content": "latest",
+        "react-cf-component-not-found": "latest",
+        "react-cf-data-countries": "latest",
+        "react-cf-data-currencies": "latest",
+        "react-cf-data-locales": "latest",
+        "react-cf-data-timezones": "latest",
+        "react-cf-graphql-client": "latest",
+        "react-cf-helper-cdn": "latest",
+        "react-cf-helper-i18n": "latest",
+        "react-cf-turnstile": "latest",
+        "react-cfg": "latest"
+    }
+}

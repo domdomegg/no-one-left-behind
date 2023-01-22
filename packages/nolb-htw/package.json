@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-htw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htw-berlin-ds-webcomponents": "latest",
+        "htw-stencil-clock": "latest",
+        "htw-stencil-counter": "latest",
+        "htw-stencil-helloworld": "latest",
+        "htw-stencil-todo": "latest",
+        "htweather": "latest",
+        "htweb-cli": "latest",
+        "htweixin": "latest",
+        "htwins-angular-ui": "latest",
+        "htwins-hello": "latest",
+        "htwkstundenplan": "latest",
+        "htwr-brain-games": "latest"
+    }
+}

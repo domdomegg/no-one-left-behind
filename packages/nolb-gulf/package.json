@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-gulf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gulf": "latest",
+        "gulf-backend-blob-store": "latest",
+        "gulf-codemirror": "latest",
+        "gulf-contenteditable": "latest",
+        "gulf-editor-codemirror": "latest",
+        "gulf-editor-contenteditable": "latest",
+        "gulf-editor-quill": "latest",
+        "gulf-editor-socialcalc": "latest",
+        "gulf-editor-textarea": "latest",
+        "gulf-mongodb": "latest",
+        "gulf-mongoskin": "latest",
+        "gulf-quill": "latest",
+        "gulf-socialcalc": "latest",
+        "gulf-textarea": "latest"
+    }
+}

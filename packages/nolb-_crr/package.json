@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_crr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@crr257/random_jokes": "latest",
+        "@crrice/vali": "latest",
+        "@crrntly/babel-preset-react-app": "latest",
+        "@crrntly/eslint-config": "latest",
+        "@crrntly/eslint-config-react-app": "latest",
+        "@crross/button": "latest",
+        "@crross/design-system": "latest"
+    }
+}

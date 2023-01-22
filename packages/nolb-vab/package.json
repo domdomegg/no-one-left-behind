@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-vab",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vab": "latest",
+        "vab-config": "latest",
+        "vab-contextmenu": "latest",
+        "vab-count": "latest",
+        "vab-cron": "latest",
+        "vab-cropper": "latest",
+        "vab-croppers": "latest",
+        "vab-icon": "latest",
+        "vab-icons": "latest",
+        "vab-layouts": "latest",
+        "vab-magnifier": "latest",
+        "vab-player": "latest",
+        "vab-quill": "latest",
+        "vab-sso": "latest",
+        "vab-templates": "latest",
+        "vab-templates-vue3": "latest",
+        "vab-test-sym": "latest",
+        "vab-zepto": "latest",
+        "vabajaa": "latest",
+        "vabc123-test-package": "latest",
+        "vable": "latest",
+        "vabu-js": "latest",
+        "vabzepto": "latest"
+    }
+}

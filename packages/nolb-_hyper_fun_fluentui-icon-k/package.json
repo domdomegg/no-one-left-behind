@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_fluentui-icon-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/fluentui-icon-key-command-filled": "latest",
+        "@hyper.fun/fluentui-icon-key-command-regular": "latest",
+        "@hyper.fun/fluentui-icon-key-filled": "latest",
+        "@hyper.fun/fluentui-icon-key-multiple-filled": "latest",
+        "@hyper.fun/fluentui-icon-key-multiple-regular": "latest",
+        "@hyper.fun/fluentui-icon-key-regular": "latest",
+        "@hyper.fun/fluentui-icon-key-reset-filled": "latest",
+        "@hyper.fun/fluentui-icon-key-reset-regular": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-123-filled": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-123-regular": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-dock-filled": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-dock-regular": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-filled": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-layout-float-filled": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-layout-float-regular": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-layout-one-handed-left-filled": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-layout-one-handed-left-regular": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-layout-resize-filled": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-layout-resize-regular": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-layout-split-filled": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-layout-split-regular": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-regular": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-shift-filled": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-shift-regular": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-shift-uppercase-filled": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-shift-uppercase-regular": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-tab-filled": "latest",
+        "@hyper.fun/fluentui-icon-keyboard-tab-regular": "latest"
+    }
+}

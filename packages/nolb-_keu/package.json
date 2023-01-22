@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_keu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@keugs/keugsapis": "latest",
+        "@keunheekwon/atbot": "latest",
+        "@keunheekwon/censor": "latest",
+        "@keunheekwon/discord-auto": "latest",
+        "@keunheekwon/djs-": "latest",
+        "@keunheekwon/hi": "latest",
+        "@keunheekwon/jshelp": "latest",
+        "@keunheekwon/module": "latest",
+        "@keunheekwon/test": "latest",
+        "@keupoz/buildtools": "latest",
+        "@keupoz/colorwheel2": "latest",
+        "@keupoz/gulp-static": "latest",
+        "@keupoz/strict-queryselector": "latest",
+        "@keupoz/tson": "latest",
+        "@keupoz/typed-event-dispatcher": "latest",
+        "@keupoz/typescript-config": "latest",
+        "@keupoz/typescript-json": "latest"
+    }
+}

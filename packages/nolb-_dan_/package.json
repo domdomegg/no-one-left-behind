@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_dan_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dan.tovbein/meema-styled-elements": "latest",
+        "@dan/cryptocoins-icons": "latest",
+        "@dan/vcards": "latest"
+    }
+}

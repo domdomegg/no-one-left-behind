@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-funw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "funway": "latest",
+        "funwayalls": "latest",
+        "funweb-functions": "latest",
+        "funwebauth": "latest",
+        "funwithflags": "latest",
+        "funwithfries-cli": "latest",
+        "funwithnode": "latest",
+        "funwithpublish": "latest",
+        "funwork": "latest",
+        "funwork-js": "latest",
+        "funwrap": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-casd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "casder-succ-2": "latest",
+        "casdf": "latest",
+        "casdk": "latest",
+        "casdoor": "latest",
+        "casdoor-js-sdk": "latest",
+        "casdoor-nodejs-sdk": "latest",
+        "casdoor-react-sdk": "latest",
+        "casdoor-uniapp-sdk": "latest",
+        "casdoor-uniapp-sdk-t": "latest",
+        "casdoor-vue-sdk": "latest",
+        "casdoor-vue-sdk-test": "latest",
+        "casdsad": "latest"
+    }
+}

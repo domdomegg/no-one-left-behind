@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-scd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "scd": "latest",
+        "scd-access": "latest",
+        "scd-cli": "latest",
+        "scd-fp-util": "latest",
+        "scd30": "latest",
+        "scd30-cli": "latest",
+        "scd30-node": "latest",
+        "scd4x-node": "latest",
+        "scda": "latest",
+        "scdawangking123-test": "latest",
+        "scdc-console": "latest",
+        "scdev": "latest",
+        "scdevs": "latest",
+        "scdf": "latest",
+        "scdl": "latest",
+        "scdl-core": "latest",
+        "scdn": "latest",
+        "scdo-sdk-javascript": "latest",
+        "scdo.js": "latest",
+        "scdx": "latest"
+    }
+}

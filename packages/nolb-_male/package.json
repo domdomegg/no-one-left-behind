@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_male",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@malectro/rerouter": "latest",
+        "@malee/hello-wasm": "latest",
+        "@maleeshagimshan98/vuex-pagination-wrapper": "latest",
+        "@maleking/react-fancy-component": "latest",
+        "@maleking/react-native-calendar-picker": "latest",
+        "@maleking/react-native-jalali-calendar-picker": "latest",
+        "@maleking/react-native-scrollable-tab-view": "latest",
+        "@malekp/ng-dropdown": "latest",
+        "@maleon-fe/commonlib": "latest",
+        "@maleon-fe/configsider": "latest",
+        "@maleon-vue/number-transform": "latest",
+        "@maleon/config-sider": "latest",
+        "@maleon/configsider": "latest",
+        "@malept/cross-spawn-promise": "latest",
+        "@malept/electron-installer-flatpak": "latest",
+        "@malept/eslint-config": "latest",
+        "@malept/flatpak-bundler": "latest",
+        "@malereg/aowatch-client": "latest",
+        "@malereg/aowatch-dump": "latest",
+        "@malesela-bbd/what-time-is-it": "latest",
+        "@malessui/react": "latest",
+        "@malestroms/explorer": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-browserf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "browserfeatureschecker": "latest",
+        "browserfiles": "latest",
+        "browserframe": "latest",
+        "browserfs": "latest",
+        "browserfs-browsix-tmp": "latest",
+        "browserfs-esnext": "latest",
+        "browserfs-module": "latest",
+        "browserfs-stats-fix": "latest",
+        "browserfs-webdav": "latest",
+        "browserfs-zipfs-extras": "latest",
+        "browserfy": "latest"
+    }
+}

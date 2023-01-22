@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_yob",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yoba/private-scope": "latest",
+        "@yobe/ui-library": "latest",
+        "@yobo/queue": "latest",
+        "@yobo/ui": "latest",
+        "@yobta/stores": "latest",
+        "@yobta/ui": "latest",
+        "@yobta/validator": "latest",
+        "@yobuligo/collections.typescript": "latest"
+    }
+}

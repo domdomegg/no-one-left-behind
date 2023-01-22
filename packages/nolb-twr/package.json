@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-twr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "twr": "latest",
+        "twr-cli": "latest",
+        "twreplace": "latest",
+        "twreporter-keystone": "latest",
+        "twreporter-react": "latest",
+        "twreporter-react-article-components": "latest",
+        "twreporter-react-components": "latest",
+        "twreporter-react-footer-components": "latest",
+        "twreporter-react-header-components": "latest",
+        "twreporter-react-index-page": "latest",
+        "twreporter-react-index-page-components": "latest",
+        "twreporter-react-listing-components": "latest",
+        "twreporter-react-redux-registration": "latest",
+        "twreporter-redux": "latest",
+        "twriter": "latest",
+        "twrnc": "latest",
+        "twrtang": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-mt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-mt-svg-lines": "latest",
+        "react-mtfscrolllist": "latest",
+        "react-mtg-card": "latest",
+        "react-mtg-cards": "latest",
+        "react-mtg-playtester": "latest",
+        "react-mtooltip": "latest",
+        "react-mturk": "latest"
+    }
+}

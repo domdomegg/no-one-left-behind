@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-triz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "triz-helpers": "latest",
+        "triz-passport-kakao": "latest",
+        "triz-react-native-wordcloud": "latest",
+        "trizilla": "latest"
+    }
+}

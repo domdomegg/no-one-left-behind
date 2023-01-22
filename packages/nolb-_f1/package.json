@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_f1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@f11snipe/cli": "latest",
+        "@f1blog/common": "latest",
+        "@f1lt3r/ansi-parse": "latest",
+        "@f1lt3r/react-scripts": "latest",
+        "@f1sxher/bloxlinkapi": "latest",
+        "@f1tickets/common": "latest",
+        "@f1v/tslint-config-f1v": "latest",
+        "@f1v/zati": "latest"
+    }
+}

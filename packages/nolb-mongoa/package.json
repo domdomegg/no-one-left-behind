@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-mongoa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mongoaccess": "latest",
+        "mongoadmin": "latest",
+        "mongoadmingui": "latest",
+        "mongoamc": "latest",
+        "mongoapi4es": "latest",
+        "mongoapiconnect": "latest",
+        "mongoapp": "latest",
+        "mongoarchive": "latest",
+        "mongoasfs": "latest",
+        "mongoat": "latest",
+        "mongoauth": "latest",
+        "mongoauthentication": "latest"
+    }
+}

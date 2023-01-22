@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-seaw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "seawall": "latest",
+        "seawasp": "latest",
+        "seawave-ui": "latest",
+        "seaway-cli": "latest",
+        "seaways": "latest",
+        "seaweed": "latest",
+        "seaweedfs": "latest",
+        "seaweedfs-client": "latest",
+        "seaweedfs.js": "latest",
+        "seawind": "latest",
+        "seawn-module": "latest",
+        "seaworthy": "latest"
+    }
+}

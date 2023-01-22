@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-idw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "idw": "latest",
+        "idw-2019": "latest",
+        "idw-atividade-previa": "latest",
+        "idw-e-1": "latest",
+        "idw-e-2": "latest",
+        "idw-example-1": "latest",
+        "idw-example-1588": "latest",
+        "idw-example-2": "latest",
+        "idw-example-cristiano2": "latest",
+        "idw-example-cristiano3": "latest",
+        "idw-example-cristiano4": "latest",
+        "idw-example-cristiano5": "latest",
+        "idw-example-igti": "latest",
+        "idw-example-lfm": "latest",
+        "idw-example-rildo": "latest",
+        "idw-exemple": "latest",
+        "idw-exemplo-1": "latest",
+        "idw-teste-israel": "latest",
+        "idw_igti": "latest",
+        "idwall": "latest",
+        "idwise-web-sdk": "latest",
+        "idworker": "latest",
+        "idwpolygon": "latest"
+    }
+}

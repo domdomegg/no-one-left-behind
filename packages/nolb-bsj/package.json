@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-bsj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bsj-echarts": "latest",
+        "bsj-map": "latest",
+        "bsj-tree": "latest",
+        "bsjcli": "latest",
+        "bsjs": "latest"
+    }
+}

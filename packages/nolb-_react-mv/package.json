@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_react-mv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@react-mvc/builder": "latest",
+        "@react-mvc/cli": "latest",
+        "@react-mvc/model-controller": "latest",
+        "@react-mvi/cli": "latest",
+        "@react-mvi/core": "latest",
+        "@react-mvi/di": "latest",
+        "@react-mvi/event": "latest",
+        "@react-mvi/http": "latest",
+        "@react-mvi/testing": "latest"
+    }
+}

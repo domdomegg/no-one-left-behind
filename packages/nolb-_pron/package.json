@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_pron",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pron/vue-cli-plugin-dll": "latest",
+        "@pronestor/react-zoom-pan-pinch": "latest",
+        "@pronix/flux": "latest",
+        "@pronix/hyper-flow": "latest",
+        "@pronix/ttcodegen": "latest",
+        "@pronostix/colors": "latest",
+        "@prontopro/react-rating": "latest",
+        "@prontopro/react-scripts": "latest",
+        "@prontotools/eslint-config-react-app": "latest",
+        "@prontotools/react-scripts": "latest",
+        "@prontotv/displayapi-types-angular": "latest",
+        "@prontotv/schematics": "latest"
+    }
+}

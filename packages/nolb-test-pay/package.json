@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-test-pay",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "test-pay": "latest",
+        "test-pay-api-client-package-public-unpen-pervs-hoyed-overs": "latest",
+        "test-pay-api-client-package-unpen-pervs-hoyed-overs": "latest",
+        "test-payment-hub": "latest"
+    }
+}

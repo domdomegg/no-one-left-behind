@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_trb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trbl/eslint-config": "latest",
+        "@trbl/react-collapsibles": "latest",
+        "@trbl/react-css-grid": "latest",
+        "@trbl/react-html-element": "latest",
+        "@trbl/react-jumplist": "latest",
+        "@trbl/react-modal": "latest",
+        "@trbl/react-mouse-info": "latest",
+        "@trbl/react-node-position": "latest",
+        "@trbl/react-parallax": "latest",
+        "@trbl/react-scroll-info": "latest",
+        "@trbl/react-ui-components": "latest",
+        "@trbl/react-video": "latest",
+        "@trbl/react-window-info": "latest",
+        "@trbl/utils": "latest",
+        "@trbll/nodeimu": "latest",
+        "@trbll/sense-hat-led": "latest",
+        "@trblsncuddls/frost": "latest"
+    }
+}

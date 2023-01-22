@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-timeb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "timeball": "latest",
+        "timebank": "latest",
+        "timebase-web-admin": "latest",
+        "timebeam": "latest",
+        "timebean-cli": "latest",
+        "timebefore": "latest",
+        "timebelt": "latest",
+        "timebench": "latest",
+        "timeberry": "latest",
+        "timebirds-nodejs": "latest",
+        "timebloc-js": "latest",
+        "timebomb": "latest",
+        "timebomb-js": "latest",
+        "timebook": "latest",
+        "timebot": "latest",
+        "timebox": "latest",
+        "timeboxselect-aaron": "latest",
+        "timebridge-sc-artifacts": "latest",
+        "timebucket": "latest",
+        "timebug": "latest"
+    }
+}

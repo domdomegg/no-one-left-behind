@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-rans",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rans": "latest",
+        "ransac": "latest",
+        "ransac-lib": "latest",
+        "ransac-linear-fit": "latest",
+        "ransac-linear-fit-2d": "latest",
+        "ransack-search-element": "latest",
+        "ransdepm-frame-print": "latest",
+        "ranse": "latest",
+        "ransel-palindrome": "latest",
+        "ransh": "latest",
+        "ranshai_mz_1": "latest",
+        "ranshai_mz_111": "latest",
+        "ranshai_mz_1111": "latest",
+        "ranshatest": "latest",
+        "ranshatest-cli": "latest",
+        "ranshu-design": "latest",
+        "ranshu-rc": "latest",
+        "ransom32": "latest",
+        "ransomaware": "latest",
+        "ransomnote": "latest",
+        "ransomselect0": "latest",
+        "ransomware-maptail": "latest",
+        "ranstr": "latest"
+    }
+}

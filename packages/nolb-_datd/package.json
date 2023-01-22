@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_datd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datdp88/node-red-contrib-datdp-data-review": "latest",
+        "@datdp88/nodejs-datdp-pretty-console-log": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-cif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cif": "latest",
+        "cif-js": "latest",
+        "cif-parser": "latest",
+        "cif-to-json": "latest",
+        "cifar": "latest",
+        "cifar-10": "latest",
+        "cifar10": "latest",
+        "cifc": "latest",
+        "cifer_npm_test": "latest",
+        "ciffi": "latest",
+        "ciffi-frontend-generator": "latest",
+        "ciffi-js-router": "latest",
+        "ciffi-js-webpack": "latest",
+        "ciffi-js-webpack2": "latest",
+        "cifi-cli": "latest",
+        "cifi-design": "latest",
+        "cifi-res-feedback": "latest",
+        "cifloader3": "latest",
+        "ciforce": "latest",
+        "cifra": "latest",
+        "cifra-cesar": "latest",
+        "cifrado-apps-c": "latest",
+        "cifre": "latest",
+        "ciftools": "latest",
+        "ciftsp": "latest",
+        "cify": "latest"
+    }
+}

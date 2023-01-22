@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_phor",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@phorbas/hamt": "latest",
+        "@phorbas/opaque": "latest",
+        "@phorbas/store": "latest",
+        "@phork/phorkit": "latest",
+        "@phormal/component-vue3": "latest",
+        "@phormal/core": "latest",
+        "@phormal/theme-basic": "latest",
+        "@phormal/theme-material": "latest",
+        "@phormal/use-auto-capitalize": "latest",
+        "@phormal/use-email": "latest",
+        "@phormal/use-length": "latest",
+        "@phormal/use-regex": "latest",
+        "@phormal/use-required": "latest",
+        "@phormal/use-valid-zip": "latest"
+    }
+}

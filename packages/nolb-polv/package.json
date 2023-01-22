@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-polv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "polvo": "latest",
+        "polvo-cc": "latest",
+        "polvo-cs": "latest",
+        "polvo-css": "latest",
+        "polvo-html": "latest",
+        "polvo-jade": "latest",
+        "polvo-js": "latest",
+        "polvo-stylus": "latest",
+        "polvops-core": "latest",
+        "polvops-web": "latest"
+    }
+}

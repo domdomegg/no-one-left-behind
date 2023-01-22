@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-karma-d",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "karma-dart": "latest",
+        "karma-dart-sass-preprocessor": "latest",
+        "karma-dashing-reporter": "latest",
+        "karma-dbus-reporter": "latest",
+        "karma-debug-launcher": "latest",
+        "karma-dedup-junit-reporter": "latest",
+        "karma-defer-spec-reporter": "latest",
+        "karma-destoroyah": "latest",
+        "karma-detect-browsers": "latest",
+        "karma-dev-react-aws-s3-typescript": "latest",
+        "karma-dhtml-reporter": "latest",
+        "karma-directives-preprocessor": "latest",
+        "karma-dirname-preprocessor": "latest",
+        "karma-dirty-chai": "latest",
+        "karma-doc-reporter": "latest",
+        "karma-docker-launcher": "latest",
+        "karma-dojo": "latest",
+        "karma-dojo-wrapper": "latest",
+        "karma-dpc-preprocessor": "latest",
+        "karma-dpc-simple-preprocessor": "latest",
+        "karma-duo": "latest"
+    }
+}

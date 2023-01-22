@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_niq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@niq/ripple-core": "latest",
+        "@niq/ripple-core-types": "latest",
+        "@niq/ripple-keypairs": "latest",
+        "@niq/ripple-scripts": "latest",
+        "@niq/web-monetization-types": "latest"
+    }
+}

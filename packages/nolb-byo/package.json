@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-byo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "byo": "latest",
+        "byo-cli-sample": "latest",
+        "byoa-sdk": "latest",
+        "byob": "latest",
+        "byob-cms": "latest",
+        "byoboilerplate": "latest",
+        "byod": "latest",
+        "byod-app": "latest",
+        "byod-components": "latest",
+        "byon": "latest",
+        "byond-fetch": "latest",
+        "byond-infinity-lib": "latest",
+        "byond-methods": "latest",
+        "byond-parser": "latest",
+        "byondlink": "latest",
+        "byoneline": "latest",
+        "byopwa-components": "latest",
+        "byopwa-storybook": "latest",
+        "byos": "latest",
+        "byoskill-code-generator": "latest",
+        "byoskill-fish.net": "latest",
+        "byoskill-react-native-phone-input": "latest",
+        "byots": "latest",
+        "byoui": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-restd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "restd": "latest",
+        "restdb": "latest",
+        "restdb-cli": "latest",
+        "restdb-driver": "latest",
+        "restdiff": "latest",
+        "restdk": "latest",
+        "restdk-cli": "latest",
+        "restdk-nest": "latest",
+        "restdoc": "latest",
+        "restdoccer": "latest",
+        "restdock": "latest",
+        "restdocs-2-postman": "latest",
+        "restdocs-to-postman": "latest",
+        "restdone": "latest",
+        "restdone-mongoose": "latest",
+        "restdone-sequelize": "latest",
+        "restdot": "latest",
+        "restdouble": "latest",
+        "restdux": "latest"
+    }
+}

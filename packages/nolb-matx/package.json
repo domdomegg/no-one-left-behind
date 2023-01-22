@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-matx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "matx": "latest",
+        "matx-confirm-button": "latest",
+        "matx-dark": "latest",
+        "matx-gmap": "latest",
+        "matx.js": "latest"
+    }
+}

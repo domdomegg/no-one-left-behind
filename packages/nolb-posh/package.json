@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-posh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "posh": "latest",
+        "posh-git": "latest",
+        "posh-gulp": "latest",
+        "poshaughnessy-blueimp-load-image": "latest",
+        "poshery": "latest",
+        "poshit": "latest",
+        "poshtiban": "latest",
+        "poshtibannodejs": "latest",
+        "poshuriku": "latest",
+        "poshvine-login": "latest"
+    }
+}

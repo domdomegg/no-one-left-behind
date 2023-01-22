@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-lup",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lup": "latest",
+        "lup-caches": "latest",
+        "lup-expires": "latest",
+        "lup-express-ws": "latest",
+        "lup-language": "latest",
+        "lup-log-client": "latest",
+        "lup-module-1": "latest",
+        "lup-root": "latest",
+        "lup-ui": "latest",
+        "lupa": "latest",
+        "lupa-table": "latest",
+        "lupa-utils": "latest",
+        "lupackage": "latest",
+        "lupdo": "latest",
+        "lupdo-mysql": "latest",
+        "lupdo-postgres": "latest",
+        "lupdo-sqlite": "latest",
+        "lupe": "latest",
+        "luper-translate-test": "latest",
+        "lupin": "latest",
+        "lupinas-lullaby": "latest",
+        "lupo": "latest",
+        "luppa-ui": "latest",
+        "lupus": "latest",
+        "lupus-react-map": "latest",
+        "lupus-react-navbar": "latest",
+        "lupus-recorder": "latest",
+        "lupus-ui-design": "latest"
+    }
+}

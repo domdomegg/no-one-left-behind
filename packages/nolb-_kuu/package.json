@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_kuu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kuubi/eslint-config-kuubi": "latest",
+        "@kuubi/prettier-config-kuubi": "latest",
+        "@kuuhubb/fb-test-users": "latest",
+        "@kuuhubb/ioc": "latest",
+        "@kuuki/gios": "latest",
+        "@kuuki/gios-events": "latest",
+        "@kuuki/luftdaten": "latest",
+        "@kuuki/luftdaten-events": "latest",
+        "@kuunika/kupiga": "latest",
+        "@kuunika/openhim-util": "latest",
+        "@kuus/gatsby-i18n": "latest",
+        "@kuus/gatsby-plugin-i18n": "latest",
+        "@kuus/slick-themes": "latest",
+        "@kuus/yup": "latest"
+    }
+}

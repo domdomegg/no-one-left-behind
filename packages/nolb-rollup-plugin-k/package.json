@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-rollup-plugin-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rollup-plugin-karas": "latest",
+        "rollup-plugin-kb": "latest",
+        "rollup-plugin-kdu": "latest",
+        "rollup-plugin-keep-import": "latest",
+        "rollup-plugin-ko": "latest",
+        "rollup-plugin-ko-component": "latest",
+        "rollup-plugin-ko-component-lite": "latest",
+        "rollup-plugin-koa-devserver": "latest",
+        "rollup-plugin-kontra": "latest"
+    }
+}

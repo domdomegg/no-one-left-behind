@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-hexe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hexearweb": "latest",
+        "hexed": "latest",
+        "hexedit": "latest",
+        "hexel-view": "latest",
+        "hexells": "latest",
+        "hexengine": "latest",
+        "hexenginets": "latest",
+        "hexer": "latest",
+        "hexer-min": "latest",
+        "hexes": "latest",
+        "hexes-react-scripts": "latest",
+        "hexeye": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-gulpt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gulpt": "latest",
+        "gulptask": "latest",
+        "gulptaskhelper": "latest",
+        "gulptasks": "latest",
+        "gulptemplateforweb": "latest",
+        "gulptemplte": "latest",
+        "gulptest": "latest",
+        "gulptest-tutu": "latest",
+        "gulptool": "latest",
+        "gulptransformbase": "latest",
+        "gulptypscript": "latest"
+    }
+}

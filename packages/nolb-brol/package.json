@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-brol",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brolag": "latest",
+        "broleto": "latest",
+        "brolga-icons": "latest",
+        "broli": "latest",
+        "brolly": "latest",
+        "brolly-ui-box": "latest",
+        "brolly-ui-button": "latest",
+        "brolly-ui-components": "latest",
+        "brolly-ui-core": "latest",
+        "brolly-ui-variants": "latest",
+        "brolog": "latest",
+        "brologger": "latest",
+        "brologger-elasticsearch": "latest",
+        "brologger-slack": "latest",
+        "broly-bdfd": "latest",
+        "broly-logs": "latest"
+    }
+}

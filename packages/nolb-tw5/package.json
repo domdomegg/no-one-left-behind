@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-tw5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tw5-fontawesome": "latest",
+        "tw5-fusejs": "latest",
+        "tw5-plugin-packer": "latest",
+        "tw5-thirdflow": "latest",
+        "tw5-twtube": "latest",
+        "tw5-typed": "latest",
+        "tw591svgicon": "latest"
+    }
+}

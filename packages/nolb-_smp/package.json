@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_smp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@smpincode/passport-linkedin-oauth2v2": "latest",
+        "@smpio/kube": "latest",
+        "@smplfrs/angular-select2": "latest",
+        "@smplslaps/gatsby-theme-storefront-shopify": "latest",
+        "@smplygd/focuspoint-loader": "latest",
+        "@smplygd/google-analytics": "latest",
+        "@smpower-cli-dev/cli": "latest",
+        "@smpower-cli-dev/core": "latest",
+        "@smpower-cli-dev/utils": "latest",
+        "@smpx/babel-changed": "latest",
+        "@smpx/cfg": "latest",
+        "@smpx/knex-utils": "latest",
+        "@smpx/koa-request": "latest",
+        "@smpx/notify": "latest",
+        "@smpx/oak": "latest",
+        "@smpx/pg_backup": "latest",
+        "@smpx/slack": "latest",
+        "@smpx/snap-shot-core": "latest",
+        "@smpx/snap-shot-it": "latest",
+        "@smpx/tail": "latest",
+        "@smpx/web-push": "latest"
+    }
+}

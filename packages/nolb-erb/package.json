@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-erb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "erb": "latest",
+        "erb-cli": "latest",
+        "erb-icons-gen": "latest",
+        "erb-linter": "latest",
+        "erb-loader": "latest",
+        "erb-mux": "latest",
+        "erb-scripts": "latest",
+        "erb_lint": "latest",
+        "erbao-cli": "latest",
+        "erbium": "latest",
+        "erblo": "latest",
+        "erbridge": "latest",
+        "erbs-client": "latest",
+        "erbs-data": "latest",
+        "erbs-sdk": "latest",
+        "erbs-utilities": "latest",
+        "erbs-wiki-api": "latest",
+        "erbtrans": "latest",
+        "erbts-console-web": "latest",
+        "erbueno-my-lib": "latest",
+        "erbueno-nossa-biblioteca": "latest"
+    }
+}

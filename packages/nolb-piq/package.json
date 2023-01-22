@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-piq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "piq": "latest",
+        "piq-ember-cli-kss": "latest",
+        "piqel": "latest",
+        "piqiu-cli": "latest",
+        "piqiu-http": "latest",
+        "piqk": "latest",
+        "piquality": "latest",
+        "piquant": "latest",
+        "pique": "latest",
+        "pique-sous": "latest",
+        "piquinikis-color-picker": "latest",
+        "piquouze": "latest"
+    }
+}

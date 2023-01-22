@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_antf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@antfinance/eslint-config-antfinance": "latest",
+        "@antfinance/sdk": "latest",
+        "@antfinance/token-lists": "latest",
+        "@antfinance/uikit": "latest",
+        "@antfoo/package-a": "latest",
+        "@antfoo/package-b": "latest",
+        "@antfu/dts-from-thrift": "latest",
+        "@antfu/eslint-config": "latest",
+        "@antfu/eslint-config-basic": "latest",
+        "@antfu/eslint-config-react": "latest",
+        "@antfu/eslint-config-ts": "latest",
+        "@antfu/eslint-config-vue": "latest",
+        "@antfu/install-pkg": "latest",
+        "@antfu/ni": "latest",
+        "@antfu/p": "latest",
+        "@antfu/psvg": "latest",
+        "@antfu/shiki": "latest",
+        "@antfu/shiki-renderer-svg": "latest",
+        "@antfu/ts-event": "latest",
+        "@antfu/utils": "latest",
+        "@antfu/vite-plugin-voie": "latest",
+        "@antfu/vue-i18n-locale-message-vue3": "latest"
+    }
+}

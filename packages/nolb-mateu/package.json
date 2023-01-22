@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-mateu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mateus-native-lib": "latest",
+        "mateus-sdk": "latest",
+        "mateusapp-chatbot-react-native": "latest",
+        "mateusapp-nativelib": "latest",
+        "mateusduraes": "latest",
+        "mateusz-cieslak-css-test": "latest",
+        "mateusz-cieslak-demo-lib": "latest",
+        "mateusz-cieslak-lib2": "latest"
+    }
+}

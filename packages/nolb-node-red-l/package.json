@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-node-red-l",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-laravel-websockets": "latest",
+        "node-red-lazurite-test": "latest",
+        "node-red-linkedin": "latest",
+        "node-red-linky": "latest",
+        "node-red-little-ha-wechat": "latest",
+        "node-red-localfilesystem-one-file-per-tab": "latest",
+        "node-red-lower-case": "latest",
+        "node-red-lower-case-converter": "latest",
+        "node-red-lowercase": "latest",
+        "node-red-lzw": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-crav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "crave": "latest",
+        "crave-connect": "latest",
+        "crave-it": "latest",
+        "crave-time": "latest",
+        "crave_foods_test": "latest",
+        "cravex-podcast-parser": "latest",
+        "cravplus-frontend": "latest"
+    }
+}

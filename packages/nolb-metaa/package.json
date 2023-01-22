@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-metaa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "metaads-oraq": "latest",
+        "metaai": "latest",
+        "metaapi.cloud-copyfactory-sdk": "latest",
+        "metaapi.cloud-metastats-sdk": "latest",
+        "metaapi.cloud-risk-management-sdk": "latest",
+        "metaapi.cloud-sdk": "latest"
+    }
+}

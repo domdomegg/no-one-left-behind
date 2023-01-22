@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-mph",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mph": "latest",
+        "mph-to-kmh": "latest",
+        "mpharma-components-library": "latest",
+        "mphoto": "latest",
+        "mphsgtutils": "latest",
+        "mphuyel-frame-print": "latest"
+    }
+}

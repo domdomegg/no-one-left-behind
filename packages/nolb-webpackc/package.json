@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-webpackc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "webpackcc": "latest",
+        "webpackcf": "latest",
+        "webpackclidemo": "latest",
+        "webpackcomplement": "latest",
+        "webpackcomponent1": "latest",
+        "webpackcomponentnpm1": "latest",
+        "webpackcomponentnpm2": "latest",
+        "webpackcomponentnpm3": "latest",
+        "webpackcomponentnpm4": "latest",
+        "webpackcomponentnpm5": "latest",
+        "webpackcomponentnpm6": "latest",
+        "webpackconfig": "latest",
+        "webpackcpplugin": "latest",
+        "webpackcurplugin": "latest",
+        "webpackcutplugin": "latest"
+    }
+}

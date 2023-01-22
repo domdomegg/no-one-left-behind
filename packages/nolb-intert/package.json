@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-intert",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "intertag": "latest",
+        "intertelecom-parser": "latest",
+        "intertext": "latest",
+        "intertext-splitlines": "latest",
+        "intertron": "latest",
+        "intertron-client": "latest",
+        "intertween": "latest",
+        "intertwine": "latest",
+        "intertype": "latest",
+        "intertype-legacy": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-fontc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fontcdn-ariasaka": "latest",
+        "fontcheck": "latest",
+        "fontchi-cli": "latest",
+        "fontcolor": "latest",
+        "fontcomponents": "latest",
+        "fontconfig": "latest",
+        "fontconvert-tool": "latest",
+        "fontconverter-wasm": "latest",
+        "fontcustom": "latest",
+        "fontcut": "latest"
+    }
+}

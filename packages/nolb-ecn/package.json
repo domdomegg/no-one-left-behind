@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-ecn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ecn-open-api": "latest",
+        "ecn-viewer": "latest",
+        "ecnpmpt": "latest",
+        "ecns-ui": "latest",
+        "ecnu-map": "latest",
+        "ecnu-map-module": "latest",
+        "ecnu-outliner": "latest"
+    }
+}

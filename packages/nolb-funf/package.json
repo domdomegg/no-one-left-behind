@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-funf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "funf": "latest",
+        "funfact": "latest",
+        "funfair": "latest",
+        "funfix": "latest",
+        "funfix-core": "latest",
+        "funfix-effect": "latest",
+        "funfix-exec": "latest",
+        "funfix-types": "latest",
+        "funflow": "latest",
+        "funfo-cli-dev-lego-components": "latest",
+        "funfo-cli-dev-template-custom-vue3": "latest",
+        "funfo-cli-dev-template-vue-element-admin": "latest",
+        "funfo-cli-dev-template-vue3": "latest",
+        "funforday": "latest",
+        "funfun": "latest",
+        "funfunjs": "latest",
+        "funfunmentorship": "latest",
+        "funfunz": "latest",
+        "funfunzmc": "latest"
+    }
+}

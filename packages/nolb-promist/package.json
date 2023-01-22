@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-promist",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "promist": "latest",
+        "promistate": "latest",
+        "promistein": "latest",
+        "promistergram": "latest",
+        "promistreamus": "latest"
+    }
+}

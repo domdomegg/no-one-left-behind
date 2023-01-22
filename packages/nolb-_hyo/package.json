@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_hyo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyoban/eslint-config": "latest",
+        "@hyoban/eslint-config-basic": "latest",
+        "@hyoban/eslint-config-react": "latest",
+        "@hyoban/eslint-config-ts": "latest",
+        "@hyoban/eslint-config-vue": "latest",
+        "@hyoga/egg-mysql": "latest",
+        "@hyoga/mysql": "latest",
+        "@hyoga/uni-socket.io": "latest",
+        "@hyokosdeveloper/request-helper": "latest",
+        "@hyone-labs/aurora-vue": "latest",
+        "@hyone/core-ui": "latest",
+        "@hyone/hyone-ui": "latest",
+        "@hyong8023/eztool": "latest",
+        "@hyong8023/tool-box": "latest",
+        "@hyorax/react-native-progress-bar": "latest",
+        "@hyoungnamoh/react-native-easy-toast": "latest"
+    }
+}

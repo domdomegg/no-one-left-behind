@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-syo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "syobocal": "latest",
+        "syokinet": "latest",
+        "syokubai": "latest",
+        "syom": "latest",
+        "syom-state-management": "latest",
+        "syondbqvefzahmcl": "latest",
+        "syonet.namebeautifier": "latest",
+        "syook-table": "latest",
+        "syook-table-new": "latest",
+        "syook-table-v5": "latest",
+        "syosetu-api": "latest"
+    }
+}

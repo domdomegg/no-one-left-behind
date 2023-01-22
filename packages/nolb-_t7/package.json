@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_t7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@t7/accordion": "latest",
+        "@t7/accordion-multi": "latest",
+        "@t7/forms": "latest",
+        "@t7/image": "latest",
+        "@t7/list-inline": "latest",
+        "@t7/npm-example": "latest",
+        "@t7/paging": "latest",
+        "@t7/render": "latest",
+        "@t7/tabs": "latest",
+        "@t7/utils": "latest",
+        "@t70000s/math": "latest",
+        "@t70000s/test": "latest",
+        "@t7m/redux-generator": "latest",
+        "@t7wf/chart": "latest",
+        "@t7wf/checkbox": "latest",
+        "@t7wf/grid": "latest",
+        "@t7wf/pie-chart": "latest",
+        "@t7wf/select": "latest"
+    }
+}

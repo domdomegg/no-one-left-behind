@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-node-s3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-s3": "latest",
+        "node-s3-cdn": "latest",
+        "node-s3-encryption-client": "latest",
+        "node-s3-image-uploader": "latest",
+        "node-s3-proxy": "latest",
+        "node-s3-public-url": "latest",
+        "node-s3-uploader": "latest",
+        "node-s3-url-encode": "latest",
+        "node-s3-utils": "latest",
+        "node-s3ma": "latest",
+        "node-s3tc": "latest"
+    }
+}

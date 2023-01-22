@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_wab",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wabarc/archiver": "latest",
+        "@wabarc/broker": "latest",
+        "@wabarc/cairn": "latest",
+        "@wabarc/packer": "latest",
+        "@wabg/mobile-calendar": "latest",
+        "@wabg/node-seaweedfs": "latest",
+        "@wabg/node-setup": "latest",
+        "@wabilin/test-ts-package": "latest",
+        "@wabisque-web-forger/color": "latest",
+        "@wabisque-web-forger/colors": "latest",
+        "@wabisque-web-forger/dotenv": "latest",
+        "@wabisque-web-forger/env": "latest",
+        "@wabisque/toolbox": "latest",
+        "@wabisque/toolbox-node-js": "latest",
+        "@wabson/gulp-include": "latest",
+        "@wabson/list-dependencies": "latest",
+        "@wabson/mapbox-gl-feature-info": "latest",
+        "@wabson/mapbox-gl-style-switcher": "latest"
+    }
+}

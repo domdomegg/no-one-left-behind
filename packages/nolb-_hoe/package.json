@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_hoe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hoekma/redpop": "latest",
+        "@hoekma/redpopconsumer": "latest",
+        "@hoeks/use-abortable-fetch": "latest",
+        "@hoeks/use-persisted-state": "latest",
+        "@hoeks/use-persisted-state-sync": "latest",
+        "@hoektoe/flatpickr-af": "latest",
+        "@hoellein/custom-button": "latest",
+        "@hoenir/cli": "latest",
+        "@hoenir/core": "latest",
+        "@hoepel.app/angular-common": "latest",
+        "@hoepel.app/cloud-build-notifier": "latest",
+        "@hoepel.app/ddd-library": "latest",
+        "@hoepel.app/domain": "latest",
+        "@hoepel.app/events": "latest",
+        "@hoepel.app/events-framework": "latest",
+        "@hoepel.app/export-xlsx": "latest",
+        "@hoepel.app/firestore-admin-log": "latest",
+        "@hoepel.app/firestore-events": "latest",
+        "@hoepel.app/isomorphic-domain": "latest",
+        "@hoepel.app/old-events": "latest",
+        "@hoepel.app/schema-firestore": "latest",
+        "@hoepel.app/types": "latest",
+        "@hoeselm/nest-keycloak-connect": "latest",
+        "@hoeselm/nestjs-state-machine": "latest",
+        "@hoestreich/react-schema-form": "latest",
+        "@hoevelmanns/vcli": "latest"
+    }
+}

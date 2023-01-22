@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-vsi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vsi-formatter-library": "latest",
+        "vsi-proto-test": "latest",
+        "vsi-theme-khaadi": "latest",
+        "vsi-ui": "latest",
+        "vsid": "latest",
+        "vsimani": "latest",
+        "vsimba": "latest",
+        "vsinder-cli": "latest",
+        "vsingh36": "latest",
+        "vsino": "latest",
+        "vsiren": "latest",
+        "vsiteparser": "latest",
+        "vsix-info": "latest",
+        "vsize": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-codev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "codev": "latest",
+        "codev-jrwest-cleaning-batch": "latest",
+        "codev-traverse": "latest",
+        "codeval": "latest",
+        "codevasf-menu-lateral": "latest",
+        "codeverse": "latest",
+        "codevia-ui": "latest",
+        "codevider-scratch-gui": "latest",
+        "codevuets": "latest"
+    }
+}

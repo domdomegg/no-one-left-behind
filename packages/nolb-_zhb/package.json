@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_zhb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zhbhun/commitlint-config": "latest",
+        "@zhbhun/eslint-config-base": "latest",
+        "@zhbhun/eslint-config-node": "latest",
+        "@zhbhun/eslint-config-vue": "latest",
+        "@zhbhun/multi-semantic-release": "latest",
+        "@zhbhun/postcss-pxtorem": "latest",
+        "@zhbhun/prettier-config": "latest",
+        "@zhbhun/remodel": "latest",
+        "@zhbhun/semantic-release-npm": "latest",
+        "@zhbhun/stylelint-config": "latest",
+        "@zhbj/example-module": "latest"
+    }
+}

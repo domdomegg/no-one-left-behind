@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_maxo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@maxoki/common": "latest",
+        "@maxonor8218/max-ui": "latest",
+        "@maxonor8218/maxui": "latest",
+        "@maxotek/pipes": "latest",
+        "@maxoulfilou/private-module": "latest"
+    }
+}

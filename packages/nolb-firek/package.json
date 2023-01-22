@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-firek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "firek": "latest",
+        "firekeeper": "latest",
+        "firekeeper-cli": "latest",
+        "firekit": "latest",
+        "firekit-provider": "latest",
+        "firekyll": "latest",
+        "firekyll-generator-gulp-webapp": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-htmla",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htmlable": "latest",
+        "htmlacademy-stylelint-config": "latest",
+        "htmlalljade": "latest",
+        "htmlarkdown": "latest",
+        "htmlarray": "latest",
+        "htmlassert.js": "latest",
+        "htmlassertjs": "latest",
+        "htmlat-cli": "latest",
+        "htmlat-rich": "latest",
+        "htmlattributes-craft": "latest",
+        "htmlaudit": "latest",
+        "htmlautoscroll": "latest",
+        "htmlawed": "latest"
+    }
+}

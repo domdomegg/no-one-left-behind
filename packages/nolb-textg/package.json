@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-textg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "textgauge": "latest",
+        "textgears": "latest",
+        "textgears-api": "latest",
+        "textgen": "latest",
+        "textglass": "latest",
+        "textgmy": "latest",
+        "textgoose": "latest",
+        "textgraphic": "latest",
+        "textgrep": "latest",
+        "textgrid": "latest",
+        "textgun": "latest"
+    }
+}

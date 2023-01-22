@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-tain",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tain": "latest",
+        "tainan-excel": "latest",
+        "tainan-express": "latest",
+        "tainan-open-1999": "latest",
+        "tainan-open-1999-api": "latest",
+        "tainanle": "latest",
+        "tainanle-express": "latest",
+        "tainix-vue-session": "latest",
+        "taint": "latest",
+        "tainted": "latest",
+        "tainted_love": "latest",
+        "tainxia": "latest"
+    }
+}

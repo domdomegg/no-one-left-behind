@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_prol",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@prola/propulsion": "latest",
+        "@proladon/eslint-config-proladon": "latest",
+        "@prolaera/exceljs": "latest",
+        "@prolaera/prolaeracertificatetemplate": "latest",
+        "@prolaera/react-data-export-width": "latest",
+        "@prolibu/widget-cli": "latest",
+        "@prolifel/spoticli": "latest",
+        "@proload/core": "latest",
+        "@proload/plugin-dotfile": "latest",
+        "@proload/plugin-json": "latest",
+        "@proload/plugin-kdl": "latest",
+        "@proload/plugin-rc": "latest",
+        "@proload/plugin-tsm": "latest",
+        "@proload/plugin-typescript": "latest",
+        "@proload/plugin-yaml": "latest",
+        "@prolog-school/commons-api": "latest",
+        "@prolog-school/student-commons": "latest",
+        "@prolog-school/student-style": "latest",
+        "@prololo/sand-box": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-plx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "plx": "latest",
+        "plx-input-library": "latest",
+        "plx-inputs": "latest",
+        "plx-webtest": "latest",
+        "plxact": "latest",
+        "plxel": "latest",
+        "plxy-grid": "latest"
+    }
+}

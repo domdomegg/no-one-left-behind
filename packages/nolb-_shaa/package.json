@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_shaa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shaaakh/ngx-pubsub": "latest",
+        "@shaaakh/ngx-webstorage": "latest",
+        "@shaaawwwn/test": "latest",
+        "@shaack/auto-resize-textarea": "latest",
+        "@shaack/polyfills": "latest",
+        "@shaadi-response/react-scripts": "latest",
+        "@shaaditech/cc-number-formatter": "latest",
+        "@shaaditech/preload-webpack-plugin": "latest",
+        "@shaaditech/react-cc-validator": "latest",
+        "@shaaditech/react-redux": "latest",
+        "@shaaditech/react-scripts": "latest",
+        "@shaaditech/scroll-handler": "latest",
+        "@shaaditech/with-experiments": "latest",
+        "@shaahin.sh/test": "latest",
+        "@shaahinm/hello-wasm": "latest",
+        "@shaai/core": "latest",
+        "@shaai/react": "latest",
+        "@shaai/scroll-ink": "latest",
+        "@shaai/shaai": "latest",
+        "@shaaijs/shaai": "latest",
+        "@shaanhurley/datelib": "latest",
+        "@shaanhurley/string-package": "latest",
+        "@shaanhurley/trilliant": "latest",
+        "@shaanhurley/trilliant-package": "latest",
+        "@shaap/angular-crumbs": "latest",
+        "@shaarit/truuth-aws-lib": "latest",
+        "@shaarit/truuth-db": "latest",
+        "@shaarit/truuth-lib": "latest"
+    }
+}

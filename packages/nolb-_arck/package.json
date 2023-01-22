@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_arck",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@arck/architect": "latest",
+        "@arck/cli": "latest",
+        "@arck/core": "latest",
+        "@arck/crypto": "latest",
+        "@arck/http": "latest",
+        "@arck/portal": "latest",
+        "@arck/prisma": "latest",
+        "@arck/storage": "latest",
+        "@arck/test": "latest",
+        "@arckinteractive/eslint-config-noah-ui": "latest",
+        "@arckinteractive/express-ioc": "latest",
+        "@arckinteractive/noah-ui": "latest"
+    }
+}

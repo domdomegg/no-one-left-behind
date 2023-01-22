@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_aul",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aula-ignite-ui/docs": "latest",
+        "@aula-ignite-ui/react": "latest",
+        "@aula-ignite-ui/tokens": "latest",
+        "@aulamejor/bunyan-pretty-stream": "latest",
+        "@aulamejor/chronos": "latest",
+        "@aulamejor/isomorphic-url": "latest",
+        "@aulamejor/redux-persist": "latest",
+        "@aulamejor/sdk": "latest",
+        "@aulamejor/size-of": "latest",
+        "@aulamejor/sqlize": "latest",
+        "@aulasoftwarelibre/nestjs-eventstore": "latest",
+        "@auloin/test": "latest",
+        "@aultfarms/google": "latest",
+        "@aulton-cli/core": "latest",
+        "@aulton-cli/utils": "latest",
+        "@aulyaaryan/dex-app-sdk": "latest",
+        "@aulyaaryansyah/dex-sdk": "latest",
+        "@aulyaaryansyah/legionswap-sdk-mainnet": "latest",
+        "@aulyaaryansyah/legionswap-sdk-testnet": "latest"
+    }
+}

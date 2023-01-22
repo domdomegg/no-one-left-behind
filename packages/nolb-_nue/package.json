@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_nue",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nue/nue-demo": "latest",
+        "@nuebuild/fields": "latest",
+        "@nuebuild/vue-projects": "latest",
+        "@nueip/cross-token-access": "latest",
+        "@nuejason/react-native-secure-keystore": "latest",
+        "@nuejs/nue": "latest",
+        "@nuel/challonge-ts": "latest",
+        "@nuel/frogger": "latest",
+        "@nuel/uniformly": "latest",
+        "@nuento/eslint-config": "latest",
+        "@nuento/json-logic": "latest",
+        "@nuento/jsonrpc": "latest",
+        "@nuento/mobx-react-router": "latest",
+        "@nuento/prettier-config": "latest",
+        "@nuento/react-form": "latest",
+        "@nuento/react-stripe": "latest",
+        "@nueverahr/logger": "latest",
+        "@nuevolia/gatsby-theme-organization": "latest"
+    }
+}

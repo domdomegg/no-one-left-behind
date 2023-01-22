@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-epp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "epp": "latest",
+        "epp-button-test": "latest",
+        "epp-component-loader": "latest",
+        "epp-el-ui": "latest",
+        "epp-log4js": "latest",
+        "epp-mob-ui": "latest",
+        "epp-mob-web-ui": "latest",
+        "epp-proxy": "latest",
+        "epp-reg": "latest",
+        "epp-ui": "latest",
+        "epp-ui-test": "latest",
+        "epp-xircuit": "latest",
+        "epp2json": "latest",
+        "eppd": "latest",
+        "eppface": "latest",
+        "eppgate": "latest",
+        "eppm": "latest",
+        "epppdns": "latest"
+    }
+}

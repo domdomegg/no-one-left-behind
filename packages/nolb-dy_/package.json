@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-dy_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dy.js": "latest",
+        "dy_card": "latest",
+        "dy_create": "latest",
+        "dy_custom_library": "latest",
+        "dy_init": "latest",
+        "dy_mysql": "latest",
+        "dy_package": "latest",
+        "dy_test_vui2": "latest",
+        "dy_ui-test": "latest",
+        "dy_work_order": "latest"
+    }
+}

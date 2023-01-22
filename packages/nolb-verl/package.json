@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-verl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "verl-frame-print": "latest",
+        "verlag": "latest",
+        "verlauf": "latest",
+        "verlay-metadata": "latest",
+        "verlet": "latest",
+        "verlet-constraint": "latest",
+        "verlet-point": "latest",
+        "verlet-system": "latest",
+        "verlime": "latest",
+        "verlog": "latest"
+    }
+}

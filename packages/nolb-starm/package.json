@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-starm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "starm-ui": "latest",
+        "starmaint": "latest",
+        "starmaker": "latest",
+        "starman": "latest",
+        "starman-js": "latest",
+        "starmap": "latest",
+        "starmap-api": "latest",
+        "starmapjs": "latest",
+        "starme": "latest",
+        "starmer": "latest",
+        "starmine-login": "latest",
+        "starmusic": "latest",
+        "starmutt": "latest",
+        "starmytest": "latest"
+    }
+}

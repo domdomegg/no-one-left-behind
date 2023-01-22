@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-imageg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "imagegallery-diff": "latest",
+        "imagegalleryvue": "latest",
+        "imagegen": "latest",
+        "imagegenerator": "latest",
+        "imagegrab": "latest",
+        "imagegrabber": "latest"
+    }
+}

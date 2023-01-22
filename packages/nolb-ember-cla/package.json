@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-ember-cla",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ember-class-based-modifier": "latest",
+        "ember-class-constructor-fix": "latest",
+        "ember-class-list": "latest",
+        "ember-class-modifier": "latest",
+        "ember-class-names-helper": "latest",
+        "ember-classic-decorator": "latest",
+        "ember-classnames": "latest",
+        "ember-classy-computed": "latest",
+        "ember-classy-page-object": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-markdown-r",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "markdown-rambler": "latest",
+        "markdown-rc-loader": "latest",
+        "markdown-react": "latest",
+        "markdown-react-code-preview-loader": "latest",
+        "markdown-react-js": "latest",
+        "markdown-react-native": "latest",
+        "markdown-react-renderer": "latest",
+        "markdown-read": "latest",
+        "markdown-read-links": "latest",
+        "markdown-reader": "latest",
+        "markdown-reading-time": "latest",
+        "markdown-reference": "latest",
+        "markdown-regex": "latest",
+        "markdown-render": "latest",
+        "markdown-render-a11y-emojis": "latest",
+        "markdown-render-js": "latest",
+        "markdown-renderer": "latest",
+        "markdown-replace-section": "latest",
+        "markdown-repository": "latest",
+        "markdown-resume": "latest",
+        "markdown-resume-pdf": "latest",
+        "markdown-retro": "latest",
+        "markdown-reveal": "latest",
+        "markdown-review-to-issue": "latest",
+        "markdown-rss-feed-plugin": "latest",
+        "markdown-rss-generator-webpack-plugin": "latest",
+        "markdown-ruby": "latest"
+    }
+}

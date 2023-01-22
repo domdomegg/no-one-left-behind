@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-ds2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ds2": "latest",
+        "ds22b3": "latest",
+        "ds2482": "latest",
+        "ds2482-io": "latest",
+        "ds2482-temperature": "latest",
+        "ds2g": "latest"
+    }
+}

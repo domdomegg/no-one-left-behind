@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-avh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "avh": "latest",
+        "avh2ag-colormap": "latest",
+        "avh2ag-ngx-modal": "latest",
+        "avh2ag-uscolormap": "latest"
+    }
+}

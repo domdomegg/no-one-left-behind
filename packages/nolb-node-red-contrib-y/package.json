@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-node-red-contrib-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-contrib-yaas": "latest",
+        "node-red-contrib-yale-alarm": "latest",
+        "node-red-contrib-yamaha": "latest",
+        "node-red-contrib-yamaha-yxc": "latest",
+        "node-red-contrib-yamahaamplifier": "latest",
+        "node-red-contrib-yaml": "latest",
+        "node-red-contrib-yaml-storage": "latest",
+        "node-red-contrib-yaml-storage-plugin": "latest",
+        "node-red-contrib-yandex-alice-command": "latest",
+        "node-red-contrib-yandex-quasar": "latest",
+        "node-red-contrib-yandex-station-management": "latest",
+        "node-red-contrib-yeelight": "latest",
+        "node-red-contrib-yeelight-compat-hue": "latest",
+        "node-red-contrib-yield": "latest",
+        "node-red-contrib-ymedlop-gitlab": "latest",
+        "node-red-contrib-ymedlop-gitlab-fork": "latest",
+        "node-red-contrib-yoctopuce": "latest",
+        "node-red-contrib-yoctopuce-sensors": "latest",
+        "node-red-contrib-youless": "latest",
+        "node-red-contrib-youtube": "latest",
+        "node-red-contrib-yr": "latest",
+        "node-red-contrib-ys7": "latest",
+        "node-red-contrib-ytdl": "latest",
+        "node-red-contrib-yubaba": "latest"
+    }
+}

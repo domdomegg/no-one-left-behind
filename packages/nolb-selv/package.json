@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-selv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "selva": "latest",
+        "selva-directive-test": "latest",
+        "selva-lib": "latest",
+        "selva-risk-eval-btn": "latest",
+        "selva-riskeval": "latest",
+        "selva-server": "latest",
+        "selvam4win-pager": "latest",
+        "selvarajcse-my-lib": "latest",
+        "selvera-converter-units": "latest",
+        "selvera-pg": "latest",
+        "selvesmodule": "latest",
+        "selvinnpm": "latest"
+    }
+}

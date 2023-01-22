@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-imagel",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "imagelance-cli": "latest",
+        "imagelazyloader": "latest",
+        "imageless": "latest",
+        "imagelib": "latest",
+        "imagelightbox": "latest",
+        "imagelink": "latest",
+        "imagelinks-converter": "latest",
+        "imagelint": "latest",
+        "imagelint-lossless": "latest",
+        "imageloaderpack": "latest",
+        "imageloading": "latest",
+        "imagelogger": "latest",
+        "imagelogic-tools": "latest",
+        "imagelp": "latest",
+        "imagely": "latest"
+    }
+}

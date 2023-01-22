@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_w0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@w00d1f/vanilla-tools": "latest",
+        "@w00ing/nestjs-graphql": "latest",
+        "@w0s/eslint-config": "latest",
+        "@w0s/markuplint-config": "latest",
+        "@w0s/stylelint-config": "latest",
+        "@w0s/tsconfig": "latest"
+    }
+}

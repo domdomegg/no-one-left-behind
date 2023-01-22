@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_adw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@adwd/custom-elements-examples": "latest",
+        "@adwd/hackernews-client": "latest",
+        "@adwd/observe-component": "latest",
+        "@adwd/reactive-cache": "latest",
+        "@adwerx/lib-ruby-parser-bindings": "latest",
+        "@adwerx/lib-ruby-parser-wasm-bindings": "latest",
+        "@adwerx/prettier-plugin-ruby": "latest",
+        "@adwesh/common": "latest",
+        "@adwesh/service-desk": "latest",
+        "@adwesh/v2-common": "latest",
+        "@adwil800/vue-sidebar-menu": "latest",
+        "@adwonders/hello-wasm": "latest"
+    }
+}

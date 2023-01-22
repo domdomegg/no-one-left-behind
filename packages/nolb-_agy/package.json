@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_agy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@agychko/get-ip": "latest",
+        "@agychko/get-your-ip": "latest",
+        "@agychko/get_ip": "latest",
+        "@agychko/ip": "latest",
+        "@agyemanjp/auth": "latest",
+        "@agyemanjp/http": "latest",
+        "@agyemanjp/passport-digitalocean": "latest",
+        "@agyemanjp/passport-heroku": "latest",
+        "@agyemanjp/somatic": "latest",
+        "@agyemanjp/standard": "latest",
+        "@agyemanjp/storage": "latest",
+        "@agyemanjp/tsxui": "latest"
+    }
+}

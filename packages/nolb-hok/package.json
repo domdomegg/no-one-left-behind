@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-hok",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hok": "latest",
+        "hokage": "latest",
+        "hokan": "latest",
+        "hokdo-sdk": "latest",
+        "hokey": "latest",
+        "hokey-cokey": "latest",
+        "hokeylization": "latest",
+        "hokeylization-lite": "latest",
+        "hoki": "latest",
+        "hokkaido": "latest",
+        "hokku-core": "latest",
+        "hokku-core-dev": "latest",
+        "hokku-node": "latest",
+        "hokku-node-dev": "latest",
+        "hokku-web": "latest",
+        "hokku-web-dev": "latest",
+        "hokodo": "latest",
+        "hokodo-library": "latest",
+        "hoku": "latest",
+        "hokuryu": "latest",
+        "hokus": "latest",
+        "hokusai": "latest",
+        "hokuto": "latest",
+        "hokx": "latest",
+        "hokya": "latest"
+    }
+}

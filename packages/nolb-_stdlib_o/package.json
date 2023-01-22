@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_stdlib_o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stdlib/object-ctor": "latest",
+        "@stdlib/os": "latest",
+        "@stdlib/os-arch": "latest",
+        "@stdlib/os-byte-order": "latest",
+        "@stdlib/os-configdir": "latest",
+        "@stdlib/os-float-word-order": "latest",
+        "@stdlib/os-homedir": "latest",
+        "@stdlib/os-num-cpus": "latest",
+        "@stdlib/os-platform": "latest",
+        "@stdlib/os-tmpdir": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-node-rev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-rev": "latest",
+        "node-reveal": "latest",
+        "node-revel": "latest",
+        "node-reverse-image-search": "latest",
+        "node-reverse-proxy": "latest",
+        "node-reverse-wstunnel-lvidarte": "latest",
+        "node-reverseproxy-server": "latest",
+        "node-revlobot-api": "latest",
+        "node-revue": "latest"
+    }
+}

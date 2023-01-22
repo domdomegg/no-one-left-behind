@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_rop",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ropenflash/tiny": "latest",
+        "@roperetail/cli": "latest",
+        "@roperetail/ngx-ionic-ecommerce": "latest",
+        "@ropescore/components": "latest",
+        "@ropez/cypress-graphql-mock": "latest",
+        "@ropg/uniqarray": "latest",
+        "@rophil/audio-mixer": "latest",
+        "@ropo/common": "latest",
+        "@ropoko/r-chatt-client": "latest"
+    }
+}

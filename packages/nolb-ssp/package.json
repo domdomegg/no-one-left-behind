@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-ssp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ssp": "latest",
+        "ssp-artichoke": "latest",
+        "ssp-beton": "latest",
+        "ssp-cart": "latest",
+        "ssp-client": "latest",
+        "ssp-clients": "latest",
+        "ssp-components": "latest",
+        "ssp-config-management-tool": "latest",
+        "ssp-dos2unix": "latest",
+        "ssp-dos2unix-js": "latest",
+        "ssp-fake-storage": "latest",
+        "ssp-preprocessor": "latest",
+        "ssp-tarino": "latest",
+        "sspack": "latest",
+        "sspaf": "latest",
+        "sspai-libs": "latest",
+        "sspai-ui": "latest",
+        "sspantz-my-first-node-module": "latest",
+        "sspawn": "latest",
+        "sspf-ajs": "latest",
+        "sspi-client": "latest",
+        "ssports_fe_utils": "latest",
+        "ssppackages": "latest",
+        "ssprakhardotcom-url": "latest",
+        "ssprojet": "latest"
+    }
+}

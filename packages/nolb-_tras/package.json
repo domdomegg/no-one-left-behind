@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_tras",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trase/trase-atlas": "latest",
+        "@trash-maker/local-schematics": "latest",
+        "@trash-planet/extension-tools": "latest",
+        "@trash_dev/button": "latest",
+        "@trash_dev/core-ui": "latest",
+        "@trashed/apollo-link-analytics": "latest",
+        "@trashed/bs-amplitude": "latest",
+        "@trashed/bs-aws-amplify": "latest",
+        "@trashed/bs-aws-appsync": "latest",
+        "@trashed/bs-aws-sdk": "latest",
+        "@trashed/bs-sentry": "latest",
+        "@trashhalo/cheerio": "latest",
+        "@trashhalo/graphql-schema-typescript": "latest",
+        "@trashhalo/next": "latest",
+        "@trashhalo/node-summarizer": "latest",
+        "@trashhalo/saltpack": "latest",
+        "@trashman/ed25519-blake2b": "latest",
+        "@trashy/fastify-oauth-server": "latest",
+        "@trasis/shared-ui": "latest",
+        "@trasm/shared": "latest",
+        "@trasm/thrift-jsma": "latest",
+        "@trasukg/state-machine": "latest"
+    }
+}

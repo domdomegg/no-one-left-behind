@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-createf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "createfactory": "latest",
+        "createfang": "latest",
+        "createfile-cli-dom": "latest",
+        "createfile-cli-dome": "latest",
+        "createfile-zhangyu": "latest",
+        "createfilelf": "latest",
+        "createfirstnpmapp": "latest",
+        "createfolder": "latest",
+        "createfoldercli": "latest",
+        "createfoldervoyage": "latest"
+    }
+}

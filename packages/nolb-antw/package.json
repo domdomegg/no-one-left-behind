@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-antw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "antwar": "latest",
+        "antwar-aload-plugin": "latest",
+        "antwar-boilerplate": "latest",
+        "antwar-clean-theme": "latest",
+        "antwar-cli": "latest",
+        "antwar-default-theme": "latest",
+        "antwar-ga-plugin": "latest",
+        "antwar-helpers": "latest",
+        "antwar-highlight-plugin": "latest",
+        "antwar-interactive": "latest",
+        "antwar-minimal-boilerplate": "latest",
+        "antwar-minimal-theme": "latest",
+        "antwar-plugin-boilerplate": "latest",
+        "antwar-prevnext-plugin": "latest",
+        "antwar-rikki-theme": "latest",
+        "antwar-rss-plugin": "latest",
+        "antwatch": "latest",
+        "antwc": "latest",
+        "antwerp": "latest",
+        "antwerp-core-react-branding": "latest"
+    }
+}

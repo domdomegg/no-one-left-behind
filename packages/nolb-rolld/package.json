@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-rolld",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rolld": "latest",
+        "rolld20": "latest",
+        "rolldash": "latest",
+        "rolldate": "latest",
+        "rolldate-full": "latest",
+        "rolldemo": "latest",
+        "rolldice": "latest",
+        "rolldiceandreaardenti": "latest",
+        "rolldicedanielemauro": "latest",
+        "rolldicejs": "latest",
+        "rolldown": "latest",
+        "rollducks": "latest"
+    }
+}

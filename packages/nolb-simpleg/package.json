@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-simpleg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simplega": "latest",
+        "simplegammon": "latest",
+        "simplegdocserver": "latest",
+        "simplegeneric": "latest",
+        "simplegeo": "latest",
+        "simplegeo-client": "latest",
+        "simplegeo-thrift": "latest",
+        "simplegeoloc": "latest",
+        "simplegett": "latest",
+        "simplegi": "latest",
+        "simplegit": "latest",
+        "simplegitignore": "latest",
+        "simpleglob": "latest",
+        "simpleglobals": "latest",
+        "simplegmaps-js": "latest",
+        "simplegnu": "latest",
+        "simplego": "latest",
+        "simplegoals": "latest",
+        "simplegooglesheetsjs": "latest",
+        "simplegrad": "latest",
+        "simplegrammar": "latest",
+        "simplegraph": "latest",
+        "simplegraphjs": "latest",
+        "simplegreeting": "latest",
+        "simplegrid": "latest",
+        "simplegrubber2": "latest",
+        "simpleguytest": "latest"
+    }
+}

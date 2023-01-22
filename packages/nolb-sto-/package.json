@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-sto-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sto-areas": "latest",
+        "sto-course-related-data": "latest",
+        "sto-courses": "latest",
+        "sto-extensions": "latest",
+        "sto-helpers": "latest",
+        "sto-ivscode-extensions": "latest",
+        "sto-micro-app": "latest",
+        "sto-micro-app-h5": "latest",
+        "sto-navigation": "latest",
+        "sto-sis-time-parser": "latest",
+        "sto-theme-2nd": "latest",
+        "sto-ui": "latest",
+        "sto-upload": "latest",
+        "sto-webcall": "latest"
+    }
+}

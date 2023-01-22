@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-scw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "scw": "latest",
+        "scw-components": "latest",
+        "scw-contracts": "latest",
+        "scw-date": "latest",
+        "scw-excel-export": "latest",
+        "scw-loading": "latest",
+        "scw-miniprogram": "latest",
+        "scw-myexpress": "latest",
+        "scw-myvue-cli": "latest",
+        "scw-object-storage": "latest",
+        "scw-qs": "latest",
+        "scw-svg-captcha": "latest",
+        "scw-ui": "latest",
+        "scw-web-ext": "latest",
+        "scwanghaojie": "latest",
+        "scwb-ui": "latest",
+        "scwenjian": "latest",
+        "scwenjiana": "latest",
+        "scwenjiandemo": "latest",
+        "scws": "latest",
+        "scwsapi-react": "latest",
+        "scwserver": "latest",
+        "scwtest": "latest",
+        "scwzs-ui": "latest"
+    }
+}

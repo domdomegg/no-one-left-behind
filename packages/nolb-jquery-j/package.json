@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-jquery-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jquery-jcreate": "latest",
+        "jquery-jcrop": "latest",
+        "jquery-jcropping": "latest",
+        "jquery-jeditable": "latest",
+        "jquery-johnnys-path": "latest",
+        "jquery-joint-base": "latest",
+        "jquery-joint-colorbox": "latest",
+        "jquery-joint-scroll": "latest",
+        "jquery-joint-tabs": "latest",
+        "jquery-joules": "latest",
+        "jquery-jpostal-ja": "latest",
+        "jquery-jqgrid": "latest",
+        "jquery-jqtree": "latest",
+        "jquery-jquery": "latest",
+        "jquery-jscroll": "latest",
+        "jquery-jsdom": "latest",
+        "jquery-json": "latest",
+        "jquery-json-editor": "latest",
+        "jquery-json-form-binding": "latest",
+        "jquery-json-rpc": "latest",
+        "jquery-jsonify": "latest",
+        "jquery-jsonpp": "latest",
+        "jquery-jsonrpc": "latest",
+        "jquery-jsonrpcclient": "latest",
+        "jquery-jsonview": "latest",
+        "jquery-jt": "latest"
+    }
+}

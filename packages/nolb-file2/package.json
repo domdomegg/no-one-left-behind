@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-file2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "file2-loader": "latest",
+        "file2arraybuffer": "latest",
+        "file2base64": "latest",
+        "file2canvas": "latest",
+        "file2consul": "latest",
+        "file2datauri": "latest",
+        "file2html": "latest",
+        "file2html-dsv": "latest",
+        "file2html-epub": "latest",
+        "file2html-fiction-book": "latest",
+        "file2html-image": "latest",
+        "file2html-odf": "latest",
+        "file2html-ooxml": "latest",
+        "file2html-pages": "latest",
+        "file2html-text": "latest",
+        "file2ify": "latest",
+        "file2json": "latest",
+        "file2json-stream": "latest",
+        "file2lines": "latest",
+        "file2md5": "latest",
+        "file2oss": "latest",
+        "file2string": "latest",
+        "file2upload": "latest",
+        "file2variable-cli": "latest",
+        "file2variables-brunch": "latest"
+    }
+}

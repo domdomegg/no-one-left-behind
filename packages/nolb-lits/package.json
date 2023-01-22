@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-lits",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lits": "latest",
+        "lits-config": "latest",
+        "lits-extras": "latest",
+        "lits-logger": "latest",
+        "lits-parser": "latest",
+        "lits-redis": "latest",
+        "lits-template": "latest",
+        "litscript": "latest",
+        "litstart": "latest",
+        "litstudio": "latest",
+        "litsy": "latest"
+    }
+}

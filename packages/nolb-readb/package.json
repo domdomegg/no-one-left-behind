@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-readb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "readbeyond-plugin-commander": "latest",
+        "readbeyond-plugin-librarian": "latest",
+        "readbeyond-plugin-media": "latest",
+        "readbeyond-plugin-mediarb": "latest",
+        "readbeyond-plugin-unzipper": "latest",
+        "readbitmap": "latest",
+        "readblock": "latest",
+        "readbook": "latest",
+        "readbot": "latest",
+        "readbox": "latest",
+        "readboy-oa-login": "latest",
+        "readboy-parent-sdk": "latest",
+        "readbuf": "latest",
+        "readbyline": "latest",
+        "readbyte": "latest"
+    }
+}

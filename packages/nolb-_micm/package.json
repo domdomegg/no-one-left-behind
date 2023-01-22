@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_micm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@micmac/youtube": "latest",
+        "@micmania1/react-three-rapier": "latest",
+        "@micmnt/apis": "latest",
+        "@micmor-m/lotide": "latest"
+    }
+}

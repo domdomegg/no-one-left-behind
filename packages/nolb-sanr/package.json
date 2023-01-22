@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-sanr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sanra": "latest",
+        "sanrandry": "latest",
+        "sanraul_test": "latest",
+        "sanremo-cra": "latest",
+        "sanrout": "latest"
+    }
+}

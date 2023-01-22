@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-forl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "forlang": "latest",
+        "forlearn-ui-test": "latest",
+        "forlearningandtestingpublishingtscomponents": "latest",
+        "forljf": "latest",
+        "forloop": "latest",
+        "forloops": "latest",
+        "forly": "latest"
+    }
+}

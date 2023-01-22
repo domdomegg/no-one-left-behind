@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_stol",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stolaar/books-provider": "latest",
+        "@stolaar/components": "latest",
+        "@stolaar/flat-list": "latest",
+        "@stolaar/theme-provider": "latest",
+        "@stolaris/icons": "latest",
+        "@stolbivi/pirojok": "latest",
+        "@stolen_orange/versioning": "latest",
+        "@stolimate/cordova-plugin-infinea": "latest",
+        "@stolker/api-template": "latest",
+        "@stolker/core": "latest",
+        "@stolker/db-client": "latest",
+        "@stolksdorf/pico-db": "latest",
+        "@stolostron/react-data-view": "latest",
+        "@stolostron/security-middleware": "latest",
+        "@stolostron/ui-components": "latest",
+        "@stoly/eslint-plugin-react-hooks": "latest"
+    }
+}

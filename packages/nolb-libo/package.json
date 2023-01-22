@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-libo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "libo": "latest",
+        "libo-1804a-week1": "latest",
+        "libo-cli": "latest",
+        "libo-test": "latest",
+        "libo2020-ui": "latest",
+        "libo2130": "latest",
+        "libobs": "latest",
+        "libocc": "latest",
+        "liboccam": "latest",
+        "libofx": "latest",
+        "liboneandone": "latest",
+        "liboneandone-2": "latest",
+        "liboo": "latest",
+        "liboo-1804": "latest",
+        "libopaque": "latest",
+        "libopenssl": "latest",
+        "libopus.js": "latest",
+        "libopusutils": "latest",
+        "liboqs-node": "latest",
+        "liborm": "latest",
+        "libosmium": "latest",
+        "libosslisting": "latest",
+        "libowei111": "latest",
+        "libox": "latest",
+        "liboyu-tools": "latest"
+    }
+}

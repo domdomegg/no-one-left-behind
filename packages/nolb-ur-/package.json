@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-ur-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ur-bcd": "latest",
+        "ur-cli": "latest",
+        "ur-demo-pkg": "latest",
+        "ur-express-logger": "latest",
+        "ur-game": "latest",
+        "ur-hooks": "latest",
+        "ur-http": "latest",
+        "ur-humanize": "latest",
+        "ur-indexeddbshim": "latest",
+        "ur-json": "latest",
+        "ur-jsonpatch": "latest",
+        "ur-leaflet": "latest",
+        "ur-majorelle": "latest",
+        "ur-modal": "latest",
+        "ur-msgpack": "latest",
+        "ur-navigation": "latest",
+        "ur-react-contextmenu": "latest",
+        "ur-route-mapper": "latest",
+        "ur-rtde": "latest",
+        "ur-server": "latest",
+        "ur-templating-resources": "latest",
+        "ur-test": "latest",
+        "ur-ui": "latest",
+        "ur-uuid": "latest",
+        "ur-validator": "latest",
+        "ur-workbox-utils": "latest"
+    }
+}

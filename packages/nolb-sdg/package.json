@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-sdg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sdg": "latest",
+        "sdg-admin": "latest",
+        "sdg-cli": "latest",
+        "sdg-game-cli": "latest",
+        "sdg-global-channel": "latest",
+        "sdg-http": "latest",
+        "sdg-lib": "latest",
+        "sdg-loader": "latest",
+        "sdg-protobuf": "latest",
+        "sdg-rpc": "latest",
+        "sdg-sync": "latest",
+        "sdgc-cordova-launch-app": "latest",
+        "sdgc-cordova-native-dialogs": "latest",
+        "sdgds": "latest",
+        "sdgfs": "latest",
+        "sdgitheima_dss_wzw": "latest",
+        "sdgoo-tools": "latest",
+        "sdgroupdtp": "latest",
+        "sdgss": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-urk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "urkel": "latest",
+        "urkel-js": "latest",
+        "urkurua": "latest",
+        "urkwebyvaiktxqdc": "latest"
+    }
+}

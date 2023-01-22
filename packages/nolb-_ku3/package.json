@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_ku3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ku3mich/base": "latest",
+        "@ku3mich/injectable": "latest",
+        "@ku3mich/log": "latest",
+        "@ku3mich/mocha-misc": "latest",
+        "@ku3mich/spine.io": "latest",
+        "@ku3mich/test": "latest"
+    }
+}

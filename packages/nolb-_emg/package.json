@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_emg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@emgctickets/common": "latest",
+        "@emgee/deploy": "latest",
+        "@emgniddikur/frontend-tsconfig": "latest",
+        "@emgyrz/eslint-config": "latest"
+    }
+}

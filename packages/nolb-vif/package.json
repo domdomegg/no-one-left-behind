@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-vif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vif": "latest",
+        "vifa": "latest",
+        "vifa-alerts": "latest",
+        "vife": "latest",
+        "viff": "latest",
+        "viff-client": "latest",
+        "viff-components": "latest",
+        "viff-contracts": "latest",
+        "viffy": "latest",
+        "vifi": "latest",
+        "vifi-codemirror": "latest",
+        "vifi-components": "latest",
+        "vifi-proxy": "latest",
+        "vifont": "latest",
+        "viform": "latest",
+        "viframe": "latest",
+        "vifux": "latest",
+        "vify": "latest"
+    }
+}

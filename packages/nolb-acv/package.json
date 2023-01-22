@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-acv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "acv": "latest",
+        "acv-cli": "latest",
+        "acv-tonecurve": "latest",
+        "acvfer": "latest",
+        "acvlib": "latest",
+        "acvs": "latest"
+    }
+}

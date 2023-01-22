@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-ligo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ligo": "latest",
+        "ligo-foo": "latest",
+        "ligo-generic-fa2": "latest",
+        "ligo-list-helpers": "latest",
+        "ligo-set-helpers": "latest",
+        "ligo-snippet": "latest",
+        "ligo-snippets-css": "latest",
+        "ligo-test_2": "latest",
+        "ligo-vocab": "latest",
+        "ligo_test_1": "latest",
+        "ligolang": "latest",
+        "ligong": "latest",
+        "ligong-server": "latest",
+        "ligosnippets": "latest",
+        "ligosnippetwp1": "latest",
+        "ligosnippetwp2": "latest",
+        "ligosnippetwp3": "latest",
+        "ligosnippetwp4": "latest",
+        "ligosnippetwp5": "latest",
+        "ligosnippetwp7": "latest",
+        "ligoudan": "latest"
+    }
+}

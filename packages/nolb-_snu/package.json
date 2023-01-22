@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_snu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@snubes/auth-library": "latest",
+        "@snuffydev/adapter-cloudflare-cache": "latest",
+        "@snuffydev/fast-cli": "latest",
+        "@snug/core": "latest",
+        "@snug/modules": "latest",
+        "@snuggery/affected": "latest",
+        "@snuggery/angular": "latest",
+        "@snuggery/architect": "latest",
+        "@snuggery/core": "latest",
+        "@snuggery/global": "latest",
+        "@snuggery/node": "latest",
+        "@snuggery/schematics": "latest",
+        "@snuggery/snuggery": "latest",
+        "@snuggery/yarn": "latest",
+        "@snugjs/html": "latest",
+        "@snusoft/titre-article": "latest"
+    }
+}

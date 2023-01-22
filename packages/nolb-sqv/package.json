@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-sqv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sqv-lib": "latest",
+        "sqv-library": "latest",
+        "sqvue": "latest",
+        "sqvuelib": "latest",
+        "sqvuelibrary": "latest"
+    }
+}

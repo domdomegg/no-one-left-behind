@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_brb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@brb3d/lotide": "latest",
+        "@brbb/bot-farm-ts": "latest",
+        "@brbb/gem-farm-ts": "latest",
+        "@brbndigital/followupboss": "latest",
+        "@brbndigital/sidecar": "latest",
+        "@brbndigital/storyblok": "latest",
+        "@brbndigital/storyblok-type-generator": "latest",
+        "@brbtix/common": "latest"
+    }
+}

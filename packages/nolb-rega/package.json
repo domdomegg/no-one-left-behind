@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-rega",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rega": "latest",
+        "rega-mc": "latest",
+        "rega-router": "latest",
+        "regae": "latest",
+        "regain": "latest",
+        "regal": "latest",
+        "regal-bundler": "latest",
+        "regal-cli": "latest",
+        "regale": "latest",
+        "regalia": "latest",
+        "regalia-reverse": "latest",
+        "regaliator": "latest",
+        "regalius-authoring-lib": "latest",
+        "regaliz": "latest",
+        "regan-js-footer": "latest",
+        "regana": "latest",
+        "regantt": "latest",
+        "regap": "latest",
+        "regard": "latest",
+        "regard-js-client": "latest",
+        "regarde": "latest",
+        "regards": "latest",
+        "regards-mizar": "latest",
+        "regask-applicationinsights": "latest",
+        "regask-opentelemetry": "latest",
+        "regate": "latest",
+        "regauge": "latest"
+    }
+}

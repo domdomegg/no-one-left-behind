@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-zag",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zag": "latest",
+        "zag-agent": "latest",
+        "zag-backend-leveldb": "latest",
+        "zag-backend-pg": "latest",
+        "zag-daemon": "latest",
+        "zag-standalone": "latest",
+        "zag-tools": "latest",
+        "zag_gen_async": "latest",
+        "zag_parabola": "latest",
+        "zaga-smart-table": "latest",
+        "zagallo": "latest",
+        "zagbitz": "latest",
+        "zagg-stellar-base": "latest",
+        "zagg-stellar-sdk": "latest",
+        "zaggino.brackets-git": "latest",
+        "zagk-npm-dafx": "latest",
+        "zagnrm": "latest",
+        "zago": "latest",
+        "zagooo": "latest",
+        "zagqckhvirtmwfun": "latest",
+        "zagram": "latest",
+        "zagtree": "latest",
+        "zagula": "latest"
+    }
+}

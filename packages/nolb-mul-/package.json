@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-mul-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mul-2": "latest",
+        "mul-input": "latest",
+        "mul-promise": "latest",
+        "mul-sel-search": "latest",
+        "mul-sgmf-scripts": "latest",
+        "mul-szhm": "latest",
+        "mul-text-edit": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_akp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@akp-13/conversions": "latest",
+        "@akp-13/greetings": "latest",
+        "@akp-tools/advanced-userscript": "latest",
+        "@akp-tools/example-userscript": "latest",
+        "@akp-tools/parcel-config-userscript": "latest",
+        "@akp-tools/parcel-optimizer-userscript": "latest",
+        "@akp-tools/react-firebaseui-temp": "latest",
+        "@akpa125/first-test-package": "latest",
+        "@akphi/babel-preset": "latest",
+        "@akphi/component1": "latest",
+        "@akphi/dev-utils": "latest",
+        "@akphi/dev-utils1": "latest",
+        "@akphi/eslint-plugin": "latest",
+        "@akphi/lib1": "latest",
+        "@akpoflash/media-recorder": "latest",
+        "@akpro/common": "latest",
+        "@akpro/common2": "latest"
+    }
+}

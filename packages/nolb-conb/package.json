@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-conb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "conbaseor": "latest",
+        "conbine": "latest",
+        "conblem-preact-context": "latest",
+        "conbo": "latest",
+        "conbo-changehistory": "latest",
+        "conbo-cordova": "latest",
+        "conbo-cordova-nativestorage": "latest",
+        "conbo-jquery": "latest",
+        "conbo-objectproxy": "latest",
+        "conbo-routenavigator": "latest",
+        "conbo-simpleobjectproxy": "latest",
+        "conbo-viewnavigator": "latest"
+    }
+}

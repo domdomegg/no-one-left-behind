@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_doe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@doe-casl/verain-view": "latest",
+        "@doeanderson/tailwindcss-color-vars": "latest",
+        "@doenet/beta": "latest",
+        "@doenet/cloud": "latest",
+        "@doepnern1/cornerstone-core": "latest",
+        "@doepnern1/cornerstonejs-tools": "latest",
+        "@doepnern1/dicom-web-client": "latest",
+        "@doerjs/cli": "latest",
+        "@doerjs/eslint-config": "latest",
+        "@doerjs/plugin-less": "latest",
+        "@doerjs/plugin-mock": "latest",
+        "@doerjs/plugin-typescript": "latest",
+        "@doerjs/prettier-config": "latest",
+        "@doerjs/utils": "latest",
+        "@doers/core": "latest",
+        "@doers/react": "latest",
+        "@does/exist": "latest",
+        "@does/percent": "latest",
+        "@does/sortby": "latest",
+        "@doesrobbiedream/ci-tests": "latest",
+        "@doesrobbiedream/nest-catcher": "latest",
+        "@doesrobbiedream/ngx-themify": "latest",
+        "@doesrobbiedream/util-ts": "latest"
+    }
+}

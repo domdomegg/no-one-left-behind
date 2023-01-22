@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_duz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@duzc2-openblock/openblock-runtime": "latest",
+        "@duzhijie/constants": "latest",
+        "@duzhijie/core": "latest",
+        "@duzhijie/design": "latest",
+        "@duzhijie/preview": "latest",
+        "@duzhijie/resource": "latest",
+        "@duzhijie/utils": "latest",
+        "@duzticketing/common": "latest",
+        "@duzun/async-series": "latest"
+    }
+}

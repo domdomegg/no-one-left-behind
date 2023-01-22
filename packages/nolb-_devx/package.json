@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_devx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@devx-os/react-holmes": "latest",
+        "@devx11/my-test-package": "latest",
+        "@devxard/common": "latest",
+        "@devxjs/ng-form-builder": "latest",
+        "@devxjs/polaris-form-builder": "latest",
+        "@devxm/pick-chunks": "latest",
+        "@devxperience/eslint-config": "latest",
+        "@devxpo/ngforminput": "latest"
+    }
+}

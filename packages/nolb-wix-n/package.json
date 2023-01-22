@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-wix-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wix-new-cluster": "latest",
+        "wix-new-relic-ios": "latest",
+        "wix-new-relic-wrapper": "latest",
+        "wix-newrelic-testkit": "latest",
+        "wix-ng-aspect": "latest",
+        "wix-ng-lazy-loader": "latest",
+        "wix-node-app": "latest",
+        "wix-node-build": "latest",
+        "wix-node-configure": "latest",
+        "wix-node-docker-base-tests": "latest",
+        "wix-node-docker-base-tests-guildweek": "latest",
+        "wix-node-docker-versions": "latest",
+        "wix-node-domain": "latest",
+        "wix-node-i18n-cache": "latest",
+        "wix-node-react": "latest",
+        "wix-node-test-environment": "latest",
+        "wix-node-test-helpers": "latest",
+        "wix-node-versions": "latest",
+        "wix-note": "latest"
+    }
+}

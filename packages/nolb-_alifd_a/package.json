@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_alifd_a",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alifd/adaptor-generate": "latest",
+        "@alifd/adaptor-helper": "latest",
+        "@alifd/adaptor-render": "latest",
+        "@alifd/ali-lowcode-components": "latest",
+        "@alifd/api-extractor": "latest"
+    }
+}

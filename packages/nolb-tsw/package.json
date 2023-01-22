@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-tsw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tsw": "latest",
+        "tsw-generator": "latest",
+        "tsw-utilities": "latest",
+        "tsw-zkd8907": "latest",
+        "tsw.js": "latest",
+        "tswag": "latest",
+        "tswarm-js": "latest",
+        "tswc": "latest",
+        "tswebpack-demo": "latest",
+        "tswebto": "latest",
+        "tsweex-x": "latest",
+        "tswhctestpkg": "latest",
+        "tswhome": "latest",
+        "tswhome1": "latest",
+        "tswind": "latest",
+        "tswiper": "latest",
+        "tswitch": "latest",
+        "tswjs-cli": "latest",
+        "tswjs-generator": "latest",
+        "tswlib": "latest",
+        "tsworks": "latest",
+        "tswrap": "latest",
+        "tsws": "latest",
+        "tswschwartz-frame-print": "latest",
+        "tswx": "latest"
+    }
+}

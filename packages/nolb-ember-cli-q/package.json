@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-ember-cli-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ember-cli-qiniu": "latest",
+        "ember-cli-qrcode": "latest",
+        "ember-cli-quaggajs": "latest",
+        "ember-cli-quantities-shim": "latest",
+        "ember-cli-qunit": "latest",
+        "ember-cli-qunit-eslint": "latest",
+        "ember-cli-qunit-parameterize": "latest",
+        "ember-cli-qunit-runtime": "latest",
+        "ember-cli-qunit-screenshot": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-next1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "next10-intl": "latest",
+        "next13-fetch-data-turbo": "latest",
+        "next14342-block": "latest",
+        "next145-block": "latest"
+    }
+}

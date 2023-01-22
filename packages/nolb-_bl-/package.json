@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_bl-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bl-cli/command-init": "latest",
+        "@bl-cli/commands": "latest",
+        "@bl-cli/core": "latest",
+        "@bl-cli/models": "latest",
+        "@bl-cli/utils": "latest",
+        "@bl-microapp/main-react": "latest",
+        "@bl-microapp/sub-react": "latest",
+        "@bl-packs/custom-errors": "latest",
+        "@bl-packs/eslint-config-base": "latest",
+        "@bl-packs/inversify": "latest",
+        "@bl-packs/inversify-express-utils": "latest",
+        "@bl-pnpm/cli-a": "latest",
+        "@bl-pnpm/cli-b": "latest",
+        "@bl-pnpm/cli-log": "latest",
+        "@bl-pnpm/cli-utils": "latest",
+        "@bl-storybook/bls-components": "latest",
+        "@bl-ui/docs": "latest",
+        "@bl-ui/react": "latest",
+        "@bl-ui/tokens": "latest"
+    }
+}

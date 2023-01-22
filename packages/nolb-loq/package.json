@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-loq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "loq": "latest",
+        "loqate": "latest",
+        "loqate-api-wrapper": "latest",
+        "loqate-geocoder": "latest",
+        "loqate-node": "latest",
+        "loqed-api": "latest",
+        "loqel": "latest",
+        "loql": "latest",
+        "loql-cache": "latest",
+        "loql-marketplace": "latest",
+        "loqs": "latest",
+        "loqu": "latest",
+        "loquat": "latest",
+        "loquat-axios": "latest",
+        "loquat-char": "latest",
+        "loquat-combinators": "latest",
+        "loquat-core": "latest",
+        "loquat-expr": "latest",
+        "loquat-form-design": "latest",
+        "loquat-monad": "latest",
+        "loquat-prim": "latest",
+        "loquat-qo": "latest",
+        "loquat-token": "latest",
+        "loqui": "latest",
+        "loquillo": "latest",
+        "loquire": "latest",
+        "loquitor": "latest"
+    }
+}

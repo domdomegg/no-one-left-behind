@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-traa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "traaaalala": "latest",
+        "traaitt-rpc": "latest",
+        "traaitt-wallet-backend": "latest",
+        "traaittcash-rpc": "latest",
+        "traaittcash-wallet-backend": "latest",
+        "traaittplatform-crypto": "latest",
+        "traaittplatform-ha": "latest",
+        "traaittplatform-node-monitor": "latest",
+        "traaittplatform-pool-monitor": "latest",
+        "traaittplatform-rpc": "latest",
+        "traaittplatform-utils": "latest",
+        "traaittplatform-wallet-backend": "latest",
+        "traaittplatformd-ha": "latest"
+    }
+}

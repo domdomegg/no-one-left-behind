@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-nodebb-plugin-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodebb-plugin-yingying-ldap": "latest",
+        "nodebb-plugin-yitu": "latest",
+        "nodebb-plugin-youtube": "latest",
+        "nodebb-plugin-youtube-embed": "latest",
+        "nodebb-plugin-youtube-lite": "latest",
+        "nodebb-plugin-yukar-shell": "latest"
+    }
+}

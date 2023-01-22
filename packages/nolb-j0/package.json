@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-j0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "j001-my-awesome-nodejs-module": "latest",
+        "j040-roman-numerals-cli": "latest",
+        "j08": "latest",
+        "j0e": "latest",
+        "j0shu4": "latest"
+    }
+}

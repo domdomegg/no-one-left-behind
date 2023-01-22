@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_evk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@evkj/bugatti-notify": "latest",
+        "@evkj/log4js-kafka-appender": "latest",
+        "@evkj/magic-box": "latest",
+        "@evkj/ui-taro": "latest",
+        "@evkj/wm-bus": "latest",
+        "@evkj/x-site": "latest",
+        "@evkj/x-site-admin": "latest",
+        "@evkj/x-site-admin-client": "latest",
+        "@evkj/x-site-api": "latest",
+        "@evkj/x-site-common": "latest",
+        "@evkj/x-site-core-osd": "latest",
+        "@evkj/x-site-database": "latest",
+        "@evkj/x-site-dll": "latest",
+        "@evkj/x-site-jwt": "latest",
+        "@evkj/x-site-kit": "latest",
+        "@evkj/x-site-openapi": "latest",
+        "@evkj/x-site-render": "latest",
+        "@evkj/x-site-roach": "latest",
+        "@evkj/x-site-tpl-develop": "latest",
+        "@evkj/x-site-ui-base": "latest",
+        "@evkj/x-site-ui-server": "latest",
+        "@evkj/x-site-web-client": "latest",
+        "@evkj/xsite-editor": "latest",
+        "@evkj/xsite-widget-bar-loader": "latest"
+    }
+}

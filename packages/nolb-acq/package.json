@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-acq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "acq": "latest",
+        "acq-ng-metadata": "latest",
+        "acqua": "latest",
+        "acqua-holo-bazooka": "latest",
+        "acqua-lib": "latest",
+        "acquaint": "latest",
+        "acquaint-api": "latest",
+        "acquarella": "latest",
+        "acqueon-loading-full-screen-orange": "latest",
+        "acquerello": "latest",
+        "acquia-cloud-client": "latest",
+        "acquia-lift": "latest",
+        "acquiesce": "latest",
+        "acquire": "latest",
+        "acquire-anchor": "latest",
+        "acquire-exports": "latest",
+        "acquire-module": "latest",
+        "acquire-port": "latest",
+        "acquire-webrtc": "latest",
+        "acquire.js": "latest",
+        "acquireio": "latest",
+        "acquit": "latest",
+        "acquit-ignore": "latest",
+        "acquit-markdown": "latest",
+        "acquit-require": "latest",
+        "acqur": "latest",
+        "acqur-cli": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_vuu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vuu-ui/data-grid": "latest",
+        "@vuu-ui/data-remote": "latest",
+        "@vuu-ui/data-store": "latest",
+        "@vuu-ui/data-types": "latest",
+        "@vuu-ui/data-worker": "latest",
+        "@vuu-ui/datagrid-parsers": "latest",
+        "@vuu-ui/layout": "latest",
+        "@vuu-ui/parsed-input": "latest",
+        "@vuu-ui/react-utils": "latest",
+        "@vuu-ui/shell": "latest",
+        "@vuu-ui/theme": "latest",
+        "@vuu-ui/ui-controls": "latest",
+        "@vuu-ui/utils": "latest",
+        "@vuu-ui/vuu-data": "latest",
+        "@vuu-ui/vuu-data-ag-grid": "latest",
+        "@vuu-ui/vuu-datagrid": "latest",
+        "@vuu-ui/vuu-datagrid-types": "latest",
+        "@vuu-ui/vuu-datatable": "latest",
+        "@vuu-ui/vuu-filter-types": "latest",
+        "@vuu-ui/vuu-filters": "latest",
+        "@vuu-ui/vuu-layout": "latest",
+        "@vuu-ui/vuu-popups": "latest",
+        "@vuu-ui/vuu-protocol-types": "latest",
+        "@vuu-ui/vuu-shell": "latest",
+        "@vuu-ui/vuu-theme": "latest",
+        "@vuu-ui/vuu-utils": "latest",
+        "@vuuvv/reactsx": "latest",
+        "@vuuvv/reactx": "latest"
+    }
+}

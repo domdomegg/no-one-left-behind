@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_aun",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@auncel/common": "latest",
+        "@auncel/diff-dom-core": "latest",
+        "@aunited/beholder-cli": "latest",
+        "@aunited/beholder-formatter-commitlint": "latest",
+        "@aunited/beholder-formatter-common": "latest",
+        "@aunited/beholder-formatter-jest": "latest",
+        "@aunited/beholder-formatter-tsc": "latest",
+        "@aunited/beholder-formatter-tslint": "latest",
+        "@aunited/tinkoff-api": "latest",
+        "@aunovis/beam-nodes": "latest",
+        "@auntodev/displicit": "latest",
+        "@auntodev/displicit-local": "latest",
+        "@auntodev/hcaptcha": "latest",
+        "@auntodev/safe-browsing": "latest",
+        "@aunz/simple-template": "latest"
+    }
+}

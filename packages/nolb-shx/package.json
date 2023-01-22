@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-shx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shx": "latest",
+        "shx-commonasd": "latest",
+        "shx-cordova-saveb64-image": "latest",
+        "shx-cordova-sqlite": "latest",
+        "shx-design-system": "latest",
+        "shx-myui": "latest",
+        "shx-start-test": "latest",
+        "shx-ui-components": "latest",
+        "shx-utils": "latest",
+        "shx2-my-lib": "latest",
+        "shxsz1_mobile": "latest",
+        "shxx-myvue-cli": "latest"
+    }
+}

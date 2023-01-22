@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-react-fb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-fb": "latest",
+        "react-fb-auth": "latest",
+        "react-fb-components": "latest",
+        "react-fb-image-grid": "latest",
+        "react-fb-image-grid-wo-css": "latest",
+        "react-fb-image-video-grid": "latest",
+        "react-fb-like": "latest",
+        "react-fb-login": "latest",
+        "react-fb-photoselector": "latest",
+        "react-fb-pixel": "latest",
+        "react-fb-player": "latest",
+        "react-fb-signin": "latest",
+        "react-fb-social-login": "latest",
+        "react-fblike-loader": "latest",
+        "react-fbmessenger": "latest",
+        "react-fbq": "latest"
+    }
+}

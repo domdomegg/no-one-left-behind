@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-genm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "genma": "latest",
+        "genmake": "latest",
+        "genman": "latest",
+        "genmark": "latest",
+        "genmath": "latest",
+        "genmdm-parser": "latest",
+        "genme": "latest",
+        "genmite": "latest",
+        "genmo": "latest",
+        "genmock": "latest",
+        "genmodel": "latest"
+    }
+}

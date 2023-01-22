@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-je-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "je-cli": "latest",
+        "je-di": "latest",
+        "je-express-did-auth": "latest",
+        "je-format-time": "latest",
+        "je-formik-builder": "latest",
+        "je-global-component-library": "latest",
+        "je-id-core": "latest",
+        "je-jedate": "latest",
+        "je-jest-helper": "latest",
+        "je-library": "latest",
+        "je-marketing-components": "latest",
+        "je-moeder": "latest",
+        "je-rns-lw-resolver": "latest",
+        "je-transcore": "latest"
+    }
+}

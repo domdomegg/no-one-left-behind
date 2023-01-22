@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-postca",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "postcache": "latest",
+        "postcallfornodepers": "latest",
+        "postcaptain": "latest",
+        "postcard": "latest",
+        "postcard-js": "latest",
+        "postcardcreator": "latest",
+        "postcardtrip-ui-library": "latest",
+        "postcast": "latest",
+        "postcat-apispace": "latest",
+        "postcat-export-openapi": "latest",
+        "postcat-export-postcat": "latest",
+        "postcat-import-eolink": "latest",
+        "postcat-import-openapi": "latest",
+        "postcat-import-postcat": "latest",
+        "postcat-import-postman": "latest",
+        "postcat-opendlp": "latest",
+        "postcat-push-eolink": "latest",
+        "postcat-tapdata": "latest"
+    }
+}

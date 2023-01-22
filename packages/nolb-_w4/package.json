@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_w4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@w4-tech/logistics": "latest",
+        "@w4-tech/mobius": "latest",
+        "@w4b/main": "latest",
+        "@w4b/wapp": "latest",
+        "@w4b/wapp-mongo": "latest",
+        "@w4b/wapp-static": "latest",
+        "@w4f/lgtv": "latest",
+        "@w4spe/node-trace": "latest",
+        "@w4spe/request-service": "latest",
+        "@w4wind/juen-test": "latest"
+    }
+}

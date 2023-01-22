@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_plar",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@plark/bitbox-sdk": "latest",
+        "@plark/changelly-client": "latest",
+        "@plark/wallet-core": "latest",
+        "@plark/wallettopup": "latest"
+    }
+}

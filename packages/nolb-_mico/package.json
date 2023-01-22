@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_mico",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@micoach/js-sdk": "latest",
+        "@micosmo/aframe": "latest",
+        "@micosmo/core": "latest",
+        "@micosmo/ticker": "latest",
+        "@micowsky/scrollevent": "latest"
+    }
+}

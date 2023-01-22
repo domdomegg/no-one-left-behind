@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-eslint-config-4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslint-config-4catalyzer": "latest",
+        "eslint-config-4catalyzer-flow": "latest",
+        "eslint-config-4catalyzer-flow-react": "latest",
+        "eslint-config-4catalyzer-jest": "latest",
+        "eslint-config-4catalyzer-react": "latest",
+        "eslint-config-4catalyzer-typescript": "latest",
+        "eslint-config-4front": "latest"
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_hyc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyc-cli/core": "latest",
+        "@hyc-cli/utils": "latest",
+        "@hycner/webext-redux": "latest",
+        "@hycommu/discord-giveaways": "latest",
+        "@hycomponents-native/badge": "latest",
+        "@hycomponents-native/bottom-sheet": "latest",
+        "@hycomponents-native/button": "latest",
+        "@hycomponents-native/checkbox": "latest",
+        "@hycomponents-native/helpers": "latest",
+        "@hycomponents-native/horizontal-scroll": "latest",
+        "@hycomponents-native/icon": "latest",
+        "@hycomponents-native/input": "latest",
+        "@hycomponents-native/inputv2": "latest",
+        "@hycomponents-native/playground": "latest",
+        "@hycomponents-native/radio": "latest",
+        "@hycomponents-native/slider": "latest",
+        "@hycomponents-native/stepper": "latest",
+        "@hycomponents-native/storybook": "latest",
+        "@hycomponents-native/switch": "latest",
+        "@hycomponents-native/text": "latest",
+        "@hycomponents-native/theme": "latest",
+        "@hycomponents-web/theme": "latest"
+    }
+}

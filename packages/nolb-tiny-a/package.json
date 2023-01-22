@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-tiny-a",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tiny-admin": "latest",
+        "tiny-aes": "latest",
+        "tiny-ajax": "latest",
+        "tiny-alert": "latest",
+        "tiny-ali-oss": "latest",
+        "tiny-aman-deploy": "latest",
+        "tiny-anchor": "latest",
+        "tiny-animator": "latest",
+        "tiny-ansi-colors": "latest",
+        "tiny-answer": "latest",
+        "tiny-aop": "latest",
+        "tiny-aop-monitor": "latest",
+        "tiny-api": "latest",
+        "tiny-application-layer-protocol": "latest",
+        "tiny-array": "latest",
+        "tiny-asl-machine": "latest",
+        "tiny-assert": "latest",
+        "tiny-asset-pipeline": "latest",
+        "tiny-async-pool": "latest",
+        "tiny-async-pool-browser": "latest",
+        "tiny-async-queue": "latest",
+        "tiny-async-task-queue": "latest",
+        "tiny-atom": "latest",
+        "tiny-attribution-generator": "latest",
+        "tiny-axios": "latest",
+        "tiny-axios-wrap": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_wob",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wobbleian/wobble-engine": "latest",
+        "@wobius/dialog": "latest",
+        "@wobius/file-input": "latest",
+        "@wobius/folder": "latest",
+        "@wobo-paulm/github-repos-search": "latest",
+        "@wobo-paulm/say-hello": "latest",
+        "@wobsoriano/eslint-config": "latest",
+        "@wobwob/react-swipe-to-delete-ios": "latest",
+        "@wobwob/tinycrc32": "latest"
+    }
+}

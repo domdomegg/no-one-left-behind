@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-rollup-i",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rollup-import-alias": "latest",
+        "rollup-importable-module": "latest",
+        "rollup-include-all": "latest"
+    }
+}

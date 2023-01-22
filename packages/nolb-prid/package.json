@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-prid",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "prid": "latest",
+        "prid.js": "latest",
+        "pride": "latest",
+        "pride-flags": "latest",
+        "pride-fonts": "latest",
+        "pride-test": "latest",
+        "pridedivar": "latest",
+        "pridemo": "latest",
+        "pridepack": "latest",
+        "pridig-ckeditor5-custom": "latest"
+    }
+}

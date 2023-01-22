@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_r0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@r007/react-styled-flexboxgrid": "latest",
+        "@r00dy/lerna-test-first": "latest",
+        "@r00dy/lerna-test-second": "latest",
+        "@r00dy/lerna-test-third": "latest",
+        "@r00dy/storefront-ui": "latest",
+        "@r00t80y/js-window-resize": "latest",
+        "@r00t80y/primary-navigation": "latest",
+        "@r00t80y/resize-delay": "latest",
+        "@r00t80y/resize-event": "latest",
+        "@r00t80y/toggle-button": "latest",
+        "@r0b0t/itcss": "latest",
+        "@r0b0t3d/react-native-carousel": "latest",
+        "@r0b0t3d/react-native-collapsible": "latest",
+        "@r0b0t3d/react-native-hooks": "latest",
+        "@r0b0t3d/react-native-lazy-component": "latest",
+        "@r0b0t3d/react-native-swipeable": "latest",
+        "@r0bl0x10501050/nodegithub": "latest",
+        "@r0den/convert-conventions": "latest",
+        "@r0hit-tickets/common": "latest",
+        "@r0mflip/logtag": "latest",
+        "@r0mm4k/jsonapi-fractal": "latest",
+        "@r0neko/osuparser": "latest",
+        "@r0neko/vector2lib": "latest",
+        "@r0sari0/ts-timer": "latest",
+        "@r0ulit/pouet": "latest",
+        "@r0ulit/react-rating": "latest"
+    }
+}

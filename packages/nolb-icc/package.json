@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-icc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "icc": "latest",
+        "icc-api": "latest",
+        "icc-api-pouched": "latest",
+        "icc-brands-svg": "latest",
+        "icc-cli": "latest",
+        "icc-common-lib": "latest",
+        "icc-contracts": "latest",
+        "icc-d3": "latest",
+        "icc-duotone-svg": "latest",
+        "icc-light-svg": "latest",
+        "icc-msg-5g-lib": "latest",
+        "icc-msg-email-lib": "latest",
+        "icc-msg-jpush-lib": "latest",
+        "icc-msg-sms-lib": "latest",
+        "icc-msg-tiktok-lib": "latest",
+        "icc-msg-voice-lib": "latest",
+        "icc-msg-wechat-lib": "latest",
+        "icc-msg-workwx-lib": "latest",
+        "icc-solid-svg": "latest",
+        "icc9": "latest",
+        "iccap": "latest",
+        "iccfe": "latest",
+        "iccli-test": "latest",
+        "iccry": "latest",
+        "icctest": "latest",
+        "icculus": "latest"
+    }
+}

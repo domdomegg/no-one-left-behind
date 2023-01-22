@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-vuk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "Vuk": "latest",
+        "vuk": "latest",
+        "vuk-video": "latest",
+        "vuk-view-photo": "latest",
+        "vuk8x1": "latest",
+        "vukan-app": "latest",
+        "vukan71-f-print": "latest",
+        "vukasin-frame-print": "latest",
+        "vukasinvujic-frame-print": "latest",
+        "vuke": "latest",
+        "vuker": "latest",
+        "vukit": "latest",
+        "vukkyutils": "latest",
+        "vukoa": "latest",
+        "vukoa-bodyparsepatch": "latest",
+        "vukoa-session": "latest",
+        "vukoa-util": "latest",
+        "vukoa-view": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-ngg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ngGeolocation": "latest",
+        "ngg": "latest",
+        "ngg-icons": "latest",
+        "ngg-loading": "latest",
+        "ngg-tools": "latest",
+        "ngg-vis": "latest",
+        "ngga-loadable": "latest",
+        "nggar-palindrome": "latest",
+        "nggen": "latest",
+        "nggeolocation": "latest",
+        "nggitres": "latest",
+        "nggm": "latest",
+        "nggrid-library": "latest",
+        "nggridify2": "latest",
+        "nggs": "latest",
+        "nggtm": "latest"
+    }
+}

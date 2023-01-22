@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_clx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@clxmedia/credstore-client": "latest",
+        "@clxmedia/xperience-config-loader": "latest",
+        "@clxmedia/xperience-mailjet-client": "latest",
+        "@clxx/adaptive": "latest",
+        "@clxx/alert": "latest",
+        "@clxx/base": "latest",
+        "@clxx/calendar": "latest",
+        "@clxx/cascade-picker": "latest",
+        "@clxx/clickable": "latest",
+        "@clxx/countdown": "latest",
+        "@clxx/datetime-picker": "latest",
+        "@clxx/dialog": "latest",
+        "@clxx/effect": "latest",
+        "@clxx/image-editor": "latest",
+        "@clxx/image-picker": "latest",
+        "@clxx/image-preview": "latest",
+        "@clxx/layout": "latest",
+        "@clxx/lazyimage": "latest",
+        "@clxx/loading": "latest",
+        "@clxx/loadmore-list": "latest",
+        "@clxx/lottery": "latest",
+        "@clxx/picker": "latest",
+        "@clxx/region-picker": "latest",
+        "@clxx/rolling-notice": "latest",
+        "@clxx/scrollview": "latest",
+        "@clxx/swiper": "latest",
+        "@clxx/toast": "latest",
+        "@clxx/waterfall": "latest"
+    }
+}

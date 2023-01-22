@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-imagec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "imageCDN-webpack-loader": "latest",
+        "imagecache": "latest",
+        "imagecache-sharp": "latest",
+        "imagecachejs": "latest",
+        "imagecalc": "latest",
+        "imagecap": "latest",
+        "imagecenterd": "latest",
+        "imagecolor": "latest",
+        "imagecolorpallette": "latest",
+        "imagecolors": "latest",
+        "imagecomponentve": "latest",
+        "imagecompress-mini": "latest",
+        "imagecompression": "latest",
+        "imageconcat": "latest",
+        "imageconvert": "latest",
+        "imagecrop": "latest",
+        "imagecropper": "latest"
+    }
+}

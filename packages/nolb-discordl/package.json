@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-discordl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discordlink": "latest",
+        "discordlist.js": "latest",
+        "discordlist.space": "latest",
+        "discordlistapp-api": "latest",
+        "discordlistology": "latest",
+        "discordlists": "latest",
+        "discordlite": "latest",
+        "discordlm": "latest"
+    }
+}

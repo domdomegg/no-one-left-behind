@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_mu5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mu5h3r/react-ui": "latest",
+        "@mu5h3r/uikit": "latest",
+        "@mu5h3r/uikit-core": "latest",
+        "@mu5h3r/uikit-react": "latest"
+    }
+}

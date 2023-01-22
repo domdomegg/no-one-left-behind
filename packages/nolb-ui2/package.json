@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-ui2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ui2": "latest",
+        "ui2020": "latest",
+        "ui2022": "latest",
+        "ui202301": "latest",
+        "ui206": "latest",
+        "ui27febnode": "latest",
+        "ui2c": "latest",
+        "ui2p": "latest"
+    }
+}

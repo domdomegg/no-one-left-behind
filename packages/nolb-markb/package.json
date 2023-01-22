@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-markb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "markback": "latest",
+        "markbello-iguazu-rest": "latest",
+        "markbench": "latest",
+        "markbeta": "latest",
+        "markbin": "latest",
+        "markbind": "latest",
+        "markbind-cli": "latest",
+        "markbind-cli-test-package": "latest",
+        "markbind-core": "latest",
+        "markbind-vue-components": "latest",
+        "markblock": "latest",
+        "markboard": "latest",
+        "markbody": "latest",
+        "markbook": "latest",
+        "markbox": "latest"
+    }
+}

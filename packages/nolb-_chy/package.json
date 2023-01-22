@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_chy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chy-ccw/c-echarts": "latest",
+        "@chy2022/report-design": "latest",
+        "@chy_swap/sdk": "latest",
+        "@chy_swap/uikit": "latest",
+        "@chyan/ioc": "latest",
+        "@chybatronik/react_sortable": "latest",
+        "@chydan/babel-preset-h5": "latest",
+        "@chydan/babel-preset-pc": "latest",
+        "@chydan/eslint-config-samoa": "latest",
+        "@chydan/samoa-plugin-lint": "latest",
+        "@chydan/samoa-plugin-react": "latest",
+        "@chydan/samoa-preset-h5": "latest",
+        "@chydan/samoa-preset-pc": "latest",
+        "@chydan/stylelint-config-samoa": "latest",
+        "@chylvina/ailab": "latest",
+        "@chymz/DaStrap": "latest",
+        "@chymz/DaUsers": "latest",
+        "@chymz/nunjucks": "latest",
+        "@chymz/promise-utils": "latest",
+        "@chypriote/percentage-format": "latest",
+        "@chyroc/aliyundrive": "latest",
+        "@chyroc/lark": "latest",
+        "@chyroc/netease-music-controller": "latest",
+        "@chyroc/v2ex-api": "latest"
+    }
+}

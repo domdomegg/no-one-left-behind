@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-smar",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-smart": "latest",
+        "@zalastax/nolb-smar-": "latest",
+        "@zalastax/nolb-smara": "latest",
+        "@zalastax/nolb-smarc": "latest",
+        "@zalastax/nolb-smare": "latest",
+        "@zalastax/nolb-smarg": "latest",
+        "@zalastax/nolb-smark": "latest",
+        "@zalastax/nolb-smarp": "latest",
+        "@zalastax/nolb-smarq": "latest",
+        "@zalastax/nolb-smars": "latest"
+    }
+}

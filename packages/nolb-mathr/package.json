@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-mathr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mathram": "latest",
+        "mathrendermodule": "latest",
+        "mathrix-module": "latest",
+        "mathrix-provider": "latest",
+        "mathrix-sm": "latest",
+        "mathrix-sm2": "latest",
+        "mathrix-v4-core": "latest",
+        "mathrixproviders": "latest",
+        "mathrry": "latest"
+    }
+}

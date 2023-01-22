@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-htt-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htt-cli": "latest",
+        "htt-jsbridge": "latest",
+        "htt-loader": "latest",
+        "htt-rollup-cli": "latest"
+    }
+}

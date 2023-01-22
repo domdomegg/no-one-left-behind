@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_reacts",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reactsax/reactsax": "latest",
+        "@reactscreens/swiper": "latest",
+        "@reactseals/react-native-leanback": "latest",
+        "@reactseals/react-native-snap-scrollview": "latest",
+        "@reactseals/renative-template-chat": "latest",
+        "@reactseed/antd-template": "latest",
+        "@reactseed/antd-theme": "latest",
+        "@reactseed/cli": "latest",
+        "@reactseed/create-app": "latest",
+        "@reactseed/devserver": "latest",
+        "@reactseed/template": "latest",
+        "@reactseed/template-antd": "latest",
+        "@reactseed/template-antd-i18n": "latest",
+        "@reactseed/template-antd-vite": "latest",
+        "@reactseed/template-vite": "latest",
+        "@reactseed/use-redux": "latest",
+        "@reactseed/use-request": "latest",
+        "@reactsmile/components": "latest",
+        "@reactsmile/icons": "latest",
+        "@reactstack/svelte-query": "latest",
+        "@reactstarter/eslint-config": "latest",
+        "@reactswap/default-token-list": "latest",
+        "@reactswap/sdk": "latest",
+        "@reactswap/uikit": "latest"
+    }
+}

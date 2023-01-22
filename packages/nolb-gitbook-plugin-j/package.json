@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-gitbook-plugin-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gitbook-plugin-japanese-support": "latest",
+        "gitbook-plugin-java-playpen": "latest",
+        "gitbook-plugin-javadeps": "latest",
+        "gitbook-plugin-jazer": "latest",
+        "gitbook-plugin-jazer2": "latest",
+        "gitbook-plugin-jd-ipdhome": "latest",
+        "gitbook-plugin-jdjr-copybtn": "latest",
+        "gitbook-plugin-jdjr-secdoc": "latest",
+        "gitbook-plugin-jira": "latest",
+        "gitbook-plugin-jizhi77": "latest",
+        "gitbook-plugin-jkom": "latest",
+        "gitbook-plugin-journal-summary": "latest",
+        "gitbook-plugin-jquery-book": "latest",
+        "gitbook-plugin-js-console": "latest",
+        "gitbook-plugin-js-sequence-diagram": "latest",
+        "gitbook-plugin-js-sequence-diagram-full": "latest",
+        "gitbook-plugin-js-sequence-hand-diagram": "latest",
+        "gitbook-plugin-jsbin": "latest",
+        "gitbook-plugin-jsdoc": "latest",
+        "gitbook-plugin-jsfiddle": "latest",
+        "gitbook-plugin-json": "latest",
+        "gitbook-plugin-json-parse": "latest",
+        "gitbook-plugin-json-schema": "latest",
+        "gitbook-plugin-json-sidebar": "latest",
+        "gitbook-plugin-jsoneon": "latest"
+    }
+}

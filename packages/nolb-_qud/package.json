@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_qud",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@qudgns9/vue-components": "latest",
+        "@qudian_mobile/qd-react-native-ash-progress-hud": "latest",
+        "@qudian_mobile/qd-react-native-fix-text-view": "latest",
+        "@qudian_mobile/qd-react-native-image-pan-zoom": "latest",
+        "@qudian_mobile/qd-react-native-image-viewer": "latest",
+        "@qudian_mobile/qd-react-native-navigation": "latest",
+        "@qudian_mobile/qd-react-native-share": "latest",
+        "@qudian_mobile/qd-react-native-snap-carousel": "latest",
+        "@qudian_mobile/qd-react-native-storage": "latest",
+        "@qudian_mobile/qd-react-native-tool-kit": "latest",
+        "@qudian_mobile/qd-react-native-ui": "latest",
+        "@qudian_mobile/qd-react-native-upgrade-tools": "latest",
+        "@qudian_mobile/qd-react-native-webview": "latest",
+        "@qudian_mobile/react-native-create-library": "latest",
+        "@qudian_mobile/react-native-dialog": "latest",
+        "@qudian_mobile/react-native-navigation": "latest",
+        "@qudtlib/allunits": "latest",
+        "@qudtlib/core": "latest"
+    }
+}

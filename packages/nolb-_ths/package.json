@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_ths",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ths-cli/compress": "latest",
+        "@thscom/mars-cli": "latest",
+        "@thscore/helper-dev-internal": "latest",
+        "@thscore/lib-api-express-js": "latest",
+        "@thsoon/log-cli": "latest",
+        "@thsoon/log-core": "latest",
+        "@thsq/thsq-prod-tests": "latest",
+        "@thszk/loki": "latest"
+    }
+}

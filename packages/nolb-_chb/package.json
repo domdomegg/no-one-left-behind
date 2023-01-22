@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_chb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chb.wang/ace-ui": "latest",
+        "@chb.wang/zero-ui": "latest",
+        "@chbernat/stencil-cli": "latest",
+        "@chbphone55/classnames": "latest",
+        "@chbphone55/pretty-bytes": "latest",
+        "@chbrown/arrays": "latest",
+        "@chbrown/bind": "latest",
+        "@chbrown/react-vis": "latest",
+        "@chbrown/tslint-config": "latest"
+    }
+}

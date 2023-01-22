@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_itt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@itt.dev/create-ts-library-starter": "latest",
+        "@ittai/builder": "latest",
+        "@itthiporn/storybook-design-system": "latest",
+        "@ittia987/ng-zorro-antd": "latest",
+        "@itticketing/common": "latest",
+        "@ittickets/common": "latest",
+        "@ittinc/stylelint": "latest",
+        "@ittkm/exchangeratesapi": "latest",
+        "@ittkm/exchangeratesapi-wrapper": "latest",
+        "@ittlr-test/lerna-repo-one": "latest",
+        "@ittlr-test/lerna-repo-two": "latest",
+        "@ittlr/ali_flow-cli": "latest",
+        "@ittlr/j-cli": "latest",
+        "@ittlr/nest-auth": "latest",
+        "@ittlr/nest-common": "latest",
+        "@ittlr/test-scope": "latest",
+        "@ittybit/sdk": "latest"
+    }
+}

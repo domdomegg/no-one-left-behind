@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_hyl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyl2015/react-native-proximity": "latest",
+        "@hylia/plugin-base": "latest",
+        "@hyliss-widget/common": "latest",
+        "@hylo/babel-plugin-react-css-modules": "latest",
+        "@hylo/redux-orm": "latest",
+        "@hylong/cli": "latest",
+        "@hylozoic/react-holochain-hooks": "latest"
+    }
+}

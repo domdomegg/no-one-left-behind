@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-wixc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wixcode-animations": "latest",
+        "wixcode-authentication": "latest",
+        "wixcode-bookings": "latest",
+        "wixcode-crm": "latest",
+        "wixcode-dashboard": "latest",
+        "wixcode-events": "latest",
+        "wixcode-example": "latest",
+        "wixcode-experiments": "latest",
+        "wixcode-fedops": "latest",
+        "wixcode-integration": "latest",
+        "wixcode-integration-tests": "latest",
+        "wixcode-jsdoc-tags": "latest",
+        "wixcode-namespaces": "latest",
+        "wixcode-paid-plans": "latest",
+        "wixcode-pay": "latest",
+        "wixcode-private": "latest",
+        "wixcode-realtime": "latest",
+        "wixcode-search": "latest",
+        "wixcode-seo": "latest",
+        "wixcode-stores": "latest",
+        "wixcode-users": "latest",
+        "wixcomponents": "latest"
+    }
+}

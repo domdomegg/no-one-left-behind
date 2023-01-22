@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-twt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "twt": "latest",
+        "twt-angular-datatable": "latest",
+        "twt-api": "latest",
+        "twt-cli": "latest",
+        "twt-cmd": "latest",
+        "twt-component-lib": "latest",
+        "twt-dl-cli": "latest",
+        "twt-ngx-datatable": "latest",
+        "twt-ngx-type-ahead": "latest",
+        "twt-sso": "latest",
+        "twt-webapp-events": "latest",
+        "twt.js": "latest",
+        "twt_utils": "latest",
+        "twtcer-remove-console-webpack-plugin": "latest",
+        "twtcst": "latest",
+        "twtimage": "latest",
+        "twtkrjs": "latest",
+        "twtrbot": "latest",
+        "twtree": "latest",
+        "twttr": "latest",
+        "twttr-pulse": "latest",
+        "twtxt": "latest",
+        "twtxt-cli": "latest"
+    }
+}

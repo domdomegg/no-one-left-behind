@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_elh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@elhakim/access-model": "latest",
+        "@elhakim/centered-abs": "latest",
+        "@elhakim/loader": "latest",
+        "@elhakim/material-card": "latest",
+        "@elham-oss/light-localize-router": "latest",
+        "@elham-oss/loadable": "latest",
+        "@elhammir/lotide": "latest",
+        "@elhaw/mylib": "latest",
+        "@elhenry/ellogger": "latest",
+        "@elhil/components": "latest",
+        "@elhss/backpack_router": "latest",
+        "@elhss/backpack_server1": "latest"
+    }
+}

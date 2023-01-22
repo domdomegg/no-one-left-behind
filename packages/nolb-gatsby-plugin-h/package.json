@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-gatsby-plugin-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gatsby-plugin-hardal": "latest",
+        "gatsby-plugin-haven": "latest",
+        "gatsby-plugin-head-seo": "latest",
+        "gatsby-plugin-heap": "latest",
+        "gatsby-plugin-hello-dev": "latest",
+        "gatsby-plugin-hide-undefined-elements": "latest",
+        "gatsby-plugin-hidenames": "latest",
+        "gatsby-plugin-hn": "latest",
+        "gatsby-plugin-hoofd": "latest",
+        "gatsby-plugin-hooked-head": "latest",
+        "gatsby-plugin-hotjar": "latest",
+        "gatsby-plugin-hotjar-tracking": "latest",
+        "gatsby-plugin-htaccess": "latest",
+        "gatsby-plugin-htaccess-redirects": "latest",
+        "gatsby-plugin-html-attributes": "latest",
+        "gatsby-plugin-html-comments": "latest",
+        "gatsby-plugin-html-minifier": "latest",
+        "gatsby-plugin-html2amp": "latest",
+        "gatsby-plugin-html2amp-dev": "latest",
+        "gatsby-plugin-html2amp-gtag": "latest",
+        "gatsby-plugin-html2amp-vendedores": "latest",
+        "gatsby-plugin-html2amp-vendor": "latest",
+        "gatsby-plugin-html2amp-vendor1": "latest",
+        "gatsby-plugin-hubspot": "latest",
+        "gatsby-plugin-hubspot-new": "latest",
+        "gatsby-plugin-humans-txt": "latest",
+        "gatsby-plugin-hummhive-react-web-data": "latest"
+    }
+}

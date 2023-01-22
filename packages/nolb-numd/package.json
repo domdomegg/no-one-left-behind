@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-numd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "numd": "latest",
+        "numdad": "latest",
+        "numdefined": "latest",
+        "numdemo12": "latest",
+        "numdemo123": "latest",
+        "numdly": "latest",
+        "numdynamic": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_ch-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ch-apfm/ui": "latest",
+        "@ch-cli-dev/core": "latest",
+        "@ch-cli-dev/utils": "latest",
+        "@ch-custom-hook/use-title": "latest",
+        "@ch-post-common/common-web-frontend": "latest",
+        "@ch-sridhar15/ckeditor5-file-upload": "latest"
+    }
+}

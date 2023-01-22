@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-sha_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sha.js": "latest",
+        "sha.js-browser": "latest",
+        "sha_node_study": "latest",
+        "sha_tools": "latest"
+    }
+}

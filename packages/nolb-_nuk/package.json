@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_nuk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nuka/state": "latest",
+        "@nukalabs/nukaui": "latest",
+        "@nukeorlas/baraxum": "latest",
+        "@nuker/dom-options": "latest",
+        "@nuker/share": "latest",
+        "@nukisman/openapi-typescript-codegen": "latest",
+        "@nukisman/utils": "latest",
+        "@nukisman/vector": "latest",
+        "@nukleox/configurator": "latest",
+        "@nukleox/logger": "latest",
+        "@nukleox/nats-message-bus": "latest",
+        "@nukleox/react-client": "latest",
+        "@nukleus/auth-openiddict": "latest",
+        "@nukleus/components": "latest",
+        "@nukleus/core": "latest",
+        "@nukopy-dev/client": "latest",
+        "@nukopy-dev/server": "latest",
+        "@nukosuke/gatsby-transformer-orga": "latest",
+        "@nukr/eslint-config": "latest",
+        "@nukr/multiconfig": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_codm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@codmi-aman/mapbox__mapbox-gl-hand-free-draw-test": "latest",
+        "@codmi/codmi-compat-craco": "latest",
+        "@codmi/codmi-util": "latest",
+        "@codmi/git-coding": "latest",
+        "@codmi/git-core": "latest",
+        "@codmi/react-scripts": "latest"
+    }
+}

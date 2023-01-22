@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-bux",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bux": "latest",
+        "bux-ui": "latest",
+        "bux_brc": "latest",
+        "buxianglu_zuoye1": "latest",
+        "buxin-ui": "latest",
+        "buxizhizhou-array_no_same": "latest",
+        "buxlabs.amd-deps": "latest",
+        "buxlabs.amd-inline": "latest",
+        "buxlabs.amd-to-es6": "latest",
+        "buxlabs.bricks": "latest",
+        "buxlabs.comments": "latest",
+        "buxlabs.hot-reload": "latest",
+        "buxlabs.shared.core": "latest",
+        "buxlabs.simpleload": "latest",
+        "buxt": "latest",
+        "buxton": "latest"
+    }
+}

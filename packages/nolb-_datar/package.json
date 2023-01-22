@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_datar",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datarangers/sdk-electron": "latest",
+        "@datarangers/sdk-electron-tracker-plugin": "latest",
+        "@datarangers/sdk-javascript": "latest",
+        "@datarangers/sdk-mp": "latest",
+        "@datarangers/sdk-mp-devtool": "latest",
+        "@datarangers/sdk-qg": "latest",
+        "@datarangers/sdk-quick": "latest",
+        "@dataremark/material-table": "latest",
+        "@dataroad/dataroad-magic-form": "latest",
+        "@dataroad/dataroad-sdk-nodejs": "latest",
+        "@dataroad/mongoose-query-parser": "latest",
+        "@datarockets/react-native-template-js": "latest",
+        "@datarockets/react-native-template-ts": "latest",
+        "@datarose/scrollreveal": "latest",
+        "@datarpm/event-engine": "latest"
+    }
+}

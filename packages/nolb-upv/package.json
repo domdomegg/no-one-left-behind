@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-upv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "upv-editor-lib-1": "latest",
+        "upv-ui": "latest",
+        "upver": "latest",
+        "upvest-adapter": "latest",
+        "upvhas-vue-tes": "latest",
+        "upvista": "latest",
+        "upvlab21p": "latest",
+        "upvn": "latest",
+        "upvorg": "latest",
+        "upvote": "latest",
+        "upvote-page-helper": "latest",
+        "upvue": "latest"
+    }
+}

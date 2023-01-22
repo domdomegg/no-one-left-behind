@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-cli-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cli-h-project-init": "latest",
+        "cli-hander": "latest",
+        "cli-handle-error": "latest",
+        "cli-handle-unhandled": "latest",
+        "cli-handler": "latest",
+        "cli-hao": "latest",
+        "cli-har": "latest",
+        "cli-harrypotterquiz-easy": "latest",
+        "cli-head": "latest",
+        "cli-hello": "latest",
+        "cli-helloworld": "latest",
+        "cli-help": "latest",
+        "cli-helper": "latest",
+        "cli-helpers": "latest",
+        "cli-highlight": "latest",
+        "cli-highlight-esm": "latest",
+        "cli-highlighter": "latest",
+        "cli-hjd": "latest",
+        "cli-holidates-cli": "latest",
+        "cli-hq": "latest",
+        "cli-html": "latest",
+        "cli-html-c": "latest",
+        "cli-html-optimize": "latest",
+        "cli-http-proxy": "latest",
+        "cli-huballin": "latest"
+    }
+}

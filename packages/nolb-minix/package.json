@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-minix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "minix": "latest",
+        "minix-cli": "latest",
+        "minix-monitor": "latest",
+        "minix-template": "latest",
+        "minixhr": "latest",
+        "minixt": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-yoi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yoi": "latest",
+        "yoi-instance": "latest",
+        "yoichi-original-tutorial": "latest",
+        "yoid": "latest",
+        "yoil": "latest",
+        "yoimo-ui": "latest",
+        "yoink": "latest",
+        "yoink-css": "latest",
+        "yoink.js": "latest",
+        "yoinkit": "latest",
+        "yoitzcoco-frame-print": "latest",
+        "yoix": "latest"
+    }
+}

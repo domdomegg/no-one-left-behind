@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_muj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mujey/mcli": "latest",
+        "@mujib517/reactive": "latest",
+        "@mujihtt/media-process": "latest",
+        "@mujihtt/my-first-npm": "latest",
+        "@mujihtt/yuno": "latest",
+        "@mujo/box": "latest",
+        "@mujo/eslint-config": "latest",
+        "@mujo/ingress": "latest",
+        "@mujo/jest-webextension-mock": "latest",
+        "@mujo/plugins": "latest",
+        "@mujo/raf": "latest",
+        "@mujo/ui": "latest",
+        "@mujo/utils": "latest"
+    }
+}

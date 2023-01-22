@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_rye",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryefimchuk/promise-each": "latest",
+        "@ryefimchuk/promise-lazy-each": "latest",
+        "@ryegaspar/vuedatatable": "latest",
+        "@ryel/arguments": "latest",
+        "@ryel/multiline": "latest",
+        "@ryel/sequence": "latest",
+        "@ryel/xml": "latest",
+        "@ryersonlibrary/building-info-system": "latest",
+        "@ryersonlibrary/floorplans": "latest",
+        "@ryersonlibrary/stencil-mdc": "latest",
+        "@ryersonlibrary/web-components": "latest",
+        "@ryexley/boxelder": "latest",
+        "@ryexley/mdx-deck-extensions": "latest",
+        "@ryexley/service-core": "latest"
+    }
+}

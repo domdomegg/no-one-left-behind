@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-hyperv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hyperv": "latest",
+        "hyperval": "latest",
+        "hypervallhalla": "latest",
+        "hypervault": "latest",
+        "hypervault-rest-server": "latest",
+        "hypervdux": "latest",
+        "hyperverge": "latest",
+        "hyperverse-react": "latest",
+        "hypervert": "latest",
+        "hyperview": "latest",
+        "hyperviewify": "latest",
+        "hyperviews": "latest",
+        "hypervision": "latest",
+        "hypervisor": "latest",
+        "hypervue": "latest"
+    }
+}

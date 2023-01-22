@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_skg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@skg-global/rendertron-middleware": "latest",
+        "@skg-global/scrapeer1": "latest",
+        "@skg-global/sharp_client": "latest",
+        "@skg-global/skg_sharp_client": "latest",
+        "@skgandikota/docusaurus-plugin-facebook-chat": "latest",
+        "@skgandikota/docusaurus-plugin-facebookchat": "latest",
+        "@skgandikota/facebookchat-docusaurus-plugin": "latest",
+        "@skgittix/common": "latest"
+    }
+}

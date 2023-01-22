@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-cli-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cli-kang": "latest",
+        "cli-ken": "latest",
+        "cli-killer": "latest",
+        "cli-kit": "latest",
+        "cli-koa": "latest",
+        "cli-koa2-test": "latest",
+        "cli-kodeku": "latest"
+    }
+}

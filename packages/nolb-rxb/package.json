@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-rxb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rxb": "latest",
+        "rxb-template-ui-kit": "latest",
+        "rxbase": "latest",
+        "rxbeach": "latest",
+        "rxbf": "latest",
+        "rxbot": "latest",
+        "rxbox": "latest",
+        "rxbroker": "latest",
+        "rxbus": "latest"
+    }
+}

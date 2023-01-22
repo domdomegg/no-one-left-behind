@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_bew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bewb/cli": "latest",
+        "@bewb/npm-modules": "latest",
+        "@bewd/colors": "latest",
+        "@bewd/logger": "latest",
+        "@beweb/dao": "latest",
+        "@bewithjonam/mapbox-gl": "latest",
+        "@bewithjonam/mapboxgl-spiderifier": "latest",
+        "@bewweb/uikit-workshop-ecas": "latest"
+    }
+}

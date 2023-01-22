@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-jqv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jqvico": "latest",
+        "jqvis": "latest",
+        "jqvm": "latest",
+        "jqvmap": "latest",
+        "jqvmap-noexploits": "latest",
+        "jqvmap-novulnerability": "latest",
+        "jqvmap-svgconverter": "latest"
+    }
+}

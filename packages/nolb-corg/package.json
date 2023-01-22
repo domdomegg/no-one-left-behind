@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-corg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "corgee-base-component": "latest",
+        "corgee-custom-fields-component": "latest",
+        "corgee-globals-components": "latest",
+        "corgi": "latest",
+        "corgi-box": "latest",
+        "corgi-cli": "latest",
+        "corgi-lang": "latest",
+        "corgi-test-css": "latest",
+        "corgi-theme": "latest",
+        "corgial-player": "latest",
+        "corgicss": "latest",
+        "corgie": "latest",
+        "corgie-plugin-mail": "latest",
+        "corgisay": "latest",
+        "corgiserver": "latest",
+        "corgiswap-sdk": "latest",
+        "corgiswap-uikit": "latest",
+        "corgit": "latest",
+        "corglyui": "latest",
+        "corgy": "latest",
+        "corgy-frontend": "latest"
+    }
+}

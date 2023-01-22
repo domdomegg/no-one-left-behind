@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-graphql-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graphql-validate": "latest",
+        "graphql-validate-directive": "latest",
+        "graphql-validate-fixtures": "latest",
+        "graphql-validated-types": "latest",
+        "graphql-validation": "latest",
+        "graphql-validation-complexity": "latest",
+        "graphql-validation-complexity-dh": "latest",
+        "graphql-validation-complexity-types": "latest",
+        "graphql-validation-helper": "latest",
+        "graphql-validator": "latest",
+        "graphql-validity": "latest",
+        "graphql-vcr": "latest",
+        "graphql-verified": "latest",
+        "graphql-versioned-transformer": "latest",
+        "graphql-vision": "latest",
+        "graphql-vision-plugin": "latest",
+        "graphql-vision-react-dashboard": "latest",
+        "graphql-vogels": "latest",
+        "graphql-voyager": "latest",
+        "graphql-voyager-fastify-plugin": "latest",
+        "graphql-voyager-lxwang2": "latest",
+        "graphql-voyager-no-creds": "latest"
+    }
+}

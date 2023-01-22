@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_unir",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@unirealchain/sdk": "latest",
+        "@unirealchain/uikit": "latest",
+        "@unirep/circuits": "latest",
+        "@unirep/contracts": "latest",
+        "@unirep/core": "latest",
+        "@unirep/crypto": "latest",
+        "@unirep/utils": "latest",
+        "@unirepo/example-util": "latest",
+        "@unirepo/placeholder": "latest",
+        "@uniroma1/auth": "latest",
+        "@uniroma1/auth2": "latest",
+        "@uniroma1/prova": "latest"
+    }
+}

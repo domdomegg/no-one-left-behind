@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_mara",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mara/cli": "latest",
+        "@mara/create": "latest",
+        "@mara/devkit": "latest",
+        "@mara/friendly-errors-webpack-plugin": "latest",
+        "@mara/image-loader": "latest",
+        "@mara/picshare-loader": "latest",
+        "@mara/plugin-extract-comp-meta": "latest",
+        "@mara/schema-utils": "latest",
+        "@mara/x": "latest",
+        "@marahand/holidates": "latest",
+        "@marahand/npx-card": "latest",
+        "@marain/stylelint-plugin": "latest",
+        "@marais/prettier": "latest",
+        "@marais/tsconfig": "latest",
+        "@maramih/lion-lib": "latest",
+        "@maramqdah/lotide": "latest",
+        "@mararun/create-sca": "latest",
+        "@maraschino/cherry": "latest",
+        "@maratbar/css-lib": "latest",
+        "@maratgumerof/codejar": "latest",
+        "@marathonhq/marathon": "latest",
+        "@maratstyle/css-lib": "latest",
+        "@marawu/pocket-utils": "latest",
+        "@maray-ai/blog-os-code": "latest",
+        "@maray-ai/ilona-agency-code": "latest",
+        "@maray-ai/maray-ai-code": "latest"
+    }
+}

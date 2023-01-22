@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_luj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lujiaosama/egg-vue-admin": "latest",
+        "@lujjjh/react": "latest",
+        "@lujjjh/react-dom": "latest",
+        "@lujs/di": "latest",
+        "@lujs/middleware": "latest",
+        "@lujs/mvp": "latest",
+        "@lujs/react-mvp-adaptor": "latest",
+        "@lujs/upload-image": "latest",
+        "@lujs/use-reactive-state": "latest",
+        "@lujx-cli-dev/core": "latest"
+    }
+}

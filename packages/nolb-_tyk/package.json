@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_tyk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tyk-technologies/graphiql": "latest",
+        "@tyk-technologies/tyk-ui": "latest",
+        "@tykle/cghd": "latest",
+        "@tykntech/indy-zmq-lib": "latest",
+        "@tyku/xdocgen": "latest"
+    }
+}

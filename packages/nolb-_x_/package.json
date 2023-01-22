@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_x_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@x./storybook-cli": "latest",
+        "@x/log": "latest",
+        "@x/socket": "latest",
+        "@x/socket.auth": "latest",
+        "@x/types": "latest",
+        "@x_c_li/lotide": "latest",
+        "@x_g/ask_for": "latest",
+        "@x_m/eslint-config-xm-homepage": "latest",
+        "@x_m/eslint-config-xm-package": "latest",
+        "@x_m/event-emitter": "latest",
+        "@x_m/hooks": "latest",
+        "@x_m/interact": "latest",
+        "@x_m/interact-dom": "latest",
+        "@x_m/prize-wheel": "latest",
+        "@x_m/prize-wheel-helper": "latest",
+        "@x_m/story-helper": "latest",
+        "@x_m/type-utils": "latest",
+        "@x_m/utils": "latest"
+    }
+}

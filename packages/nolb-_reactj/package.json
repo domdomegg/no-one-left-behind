@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_reactj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reactjs-notebook/local-api": "latest",
+        "@reactjs-notebook/local-client": "latest",
+        "@reactjs-player/use-autoplay": "latest",
+        "@reactjs-player/use-flvjs": "latest",
+        "@reactjs-player/use-fullscreen": "latest",
+        "@reactjs-player/use-hlsjs": "latest",
+        "@reactjs-player/use-native": "latest",
+        "@reactjs-player/use-pip": "latest",
+        "@reactjs-player/use-playback-rate": "latest",
+        "@reactjs-player/use-state": "latest",
+        "@reactjs-player/use-time": "latest",
+        "@reactjs-player/use-volume": "latest",
+        "@reactjs-tailwindcss/toggle": "latest",
+        "@reactjs-webinar/general": "latest",
+        "@reactjs-webinar/theme": "latest",
+        "@reactjscalendar/react-js-calendar": "latest",
+        "@reactjser/revant-markdown-loader": "latest",
+        "@reactjsf/as-table": "latest",
+        "@reactjsf/core": "latest",
+        "@reactjsf/fabric-ui": "latest",
+        "@reactjsonview/react-json-tree": "latest"
+    }
+}

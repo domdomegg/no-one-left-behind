@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-nex-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nex-abp-angular": "latest",
+        "nex-api": "latest",
+        "nex-c-sharp": "latest",
+        "nex-c-sharp-operations": "latest",
+        "nex-callback-processor": "latest",
+        "nex-callbacks": "latest",
+        "nex-cli": "latest",
+        "nex-client": "latest",
+        "nex-dev-component": "latest",
+        "nex-dom-utils": "latest",
+        "nex-engines": "latest",
+        "nex-file-simple": "latest",
+        "nex-file-simple1": "latest",
+        "nex-global": "latest",
+        "nex-global-dependencies": "latest",
+        "nex-greet": "latest",
+        "nex-link-dependencies": "latest",
+        "nex-mitsubishi": "latest",
+        "nex-parse-server": "latest",
+        "nex-pkg": "latest",
+        "nex-scraper": "latest",
+        "nex-server": "latest",
+        "nex-symlinks": "latest",
+        "nex-test": "latest",
+        "nex-ui": "latest",
+        "nex-utils": "latest",
+        "nex-validator": "latest"
+    }
+}

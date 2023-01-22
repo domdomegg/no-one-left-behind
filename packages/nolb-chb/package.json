@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-chb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chb": "latest",
+        "chb-nx-map": "latest",
+        "chb-semver-test": "latest",
+        "chb-servers": "latest",
+        "chb-tools": "latest",
+        "chb-ui2": "latest",
+        "chb3906ui": "latest",
+        "chb_bao": "latest",
+        "chb_demo": "latest",
+        "chb_npm_test": "latest",
+        "chb_sun_1": "latest",
+        "chb_test": "latest",
+        "chb_youya": "latest",
+        "chbb-rest-nodejs-sdk": "latest",
+        "chbindata": "latest",
+        "chbindemo": "latest"
+    }
+}

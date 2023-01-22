@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_digiv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@digival-test/stencil-demo-haziq-comp": "latest",
+        "@digivance/applogger": "latest",
+        "@digiventures.stack/instructions-executor": "latest",
+        "@digiventures.stack/utils-helper": "latest",
+        "@digivolv/lotide": "latest",
+        "@digivorefr/asterix-scss": "latest"
+    }
+}

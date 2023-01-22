@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-flw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "flw": "latest",
+        "flw-large-number": "latest",
+        "flw-modal": "latest",
+        "flw-notif": "latest",
+        "flw-notifier": "latest",
+        "flw-ts": "latest",
+        "flwlss": "latest",
+        "flwrap": "latest",
+        "flwww": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-ched",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ched": "latest",
+        "ched-shred": "latest",
+        "cheddar": "latest",
+        "cheddar-getter": "latest",
+        "cheddar-lang": "latest",
+        "cheddar-lang-beta": "latest",
+        "cheddar-parser": "latest",
+        "cheddargetter": "latest",
+        "cheddarjs": "latest",
+        "chedder": "latest",
+        "cheddr-components": "latest",
+        "cheditor": "latest",
+        "chedqwq": "latest"
+    }
+}

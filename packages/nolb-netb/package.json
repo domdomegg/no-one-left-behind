@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-netb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "netbank": "latest",
+        "netbank-js": "latest",
+        "netbase": "latest",
+        "netbeansify": "latest",
+        "netbeast": "latest",
+        "netbeast-cli": "latest",
+        "netbee": "latest",
+        "netbind": "latest",
+        "netbios-name": "latest",
+        "netbios-name-service": "latest",
+        "netbios-names": "latest",
+        "netbios-session": "latest",
+        "netbird": "latest",
+        "netblackhole": "latest",
+        "netboilerplatemodular-ui": "latest",
+        "netboilerplatemodular-ui-map": "latest",
+        "netboing": "latest",
+        "netbot": "latest",
+        "netbotify": "latest",
+        "netbox": "latest",
+        "netboxjs": "latest",
+        "netbuffer": "latest",
+        "netbug": "latest"
+    }
+}

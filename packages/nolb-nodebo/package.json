@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-nodebo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "NodeBonocarmiol": "latest",
+        "nodeboilerplate": "latest",
+        "nodebone": "latest",
+        "nodebook": "latest",
+        "nodebook-ch03-censorify": "latest",
+        "nodebook-cli": "latest",
+        "nodebook-ignite": "latest",
+        "nodebook-nbql": "latest",
+        "nodebook-storage-base": "latest",
+        "nodebooks": "latest",
+        "nodebootlib": "latest",
+        "nodebootstrap": "latest",
+        "nodebootstrap-clustering": "latest",
+        "nodebootstrap-htmlapp": "latest",
+        "nodebootstrap-server": "latest",
+        "nodebootstrap-server-test": "latest",
+        "nodebot": "latest",
+        "nodebot-remote-control": "latest",
+        "nodebot-server": "latest",
+        "nodebot-workshop": "latest",
+        "nodebotanist": "latest",
+        "nodebots-hcsr04": "latest",
+        "nodebots-interchange": "latest",
+        "nodebotsdaymed13": "latest",
+        "nodebotui": "latest",
+        "nodebowl": "latest",
+        "nodebox-framework": "latest"
+    }
+}

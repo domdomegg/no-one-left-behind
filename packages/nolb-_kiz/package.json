@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_kiz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kiza/logger": "latest",
+        "@kiza/utils": "latest",
+        "@kizahasi/flocon-core": "latest",
+        "@kizahasi/flocon-script": "latest",
+        "@kizahasi/option": "latest",
+        "@kizahasi/ot-string": "latest",
+        "@kizahasi/result": "latest",
+        "@kizahasi/util": "latest",
+        "@kizer/global-event-hub-core": "latest",
+        "@kizivat/svelte-autoscroll": "latest",
+        "@kizmann/nano-ui": "latest",
+        "@kizmann/pico-js": "latest",
+        "@kizmo04/test": "latest",
+        "@kizu/react-container-query": "latest",
+        "@kizu/react-table-v6": "latest",
+        "@kizu/resize-observer-lite": "latest",
+        "@kizwolak/newdropdownmenu": "latest",
+        "@kizzlebot/hapi-plugins": "latest",
+        "@kizzlebot/kiz-di": "latest",
+        "@kizzlebot/nestjs-microservices": "latest",
+        "@kizzlebot/ramda": "latest",
+        "@kizzlebot/react-blur-admin": "latest",
+        "@kizzlebot/react-flex-proto": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-asynci",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "asyncify": "latest",
+        "asyncify-express": "latest",
+        "asyncify-wasm": "latest",
+        "asyncify.js": "latest",
+        "asyncifyjs": "latest",
+        "asyncinloop": "latest",
+        "asyncinterval": "latest",
+        "asyncinterval2": "latest",
+        "asyncio": "latest",
+        "asyncit": "latest",
+        "asynciterable": "latest",
+        "asynciteration": "latest",
+        "asynciterator": "latest",
+        "asynciterator-promiseproxy": "latest",
+        "asynciterator-union": "latest",
+        "asynciterator.prototype": "latest",
+        "asynciteratorjs": "latest",
+        "asynciterators": "latest",
+        "asyncitt": "latest"
+    }
+}

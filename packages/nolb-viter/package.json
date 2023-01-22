@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-viter",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "viter": "latest",
+        "viterbi-casino-dice": "latest",
+        "viterbi-lcs": "latest",
+        "viterbi-pairwise-alignment": "latest",
+        "viterbimodel": "latest",
+        "viteron": "latest",
+        "viters": "latest",
+        "vitery": "latest"
+    }
+}

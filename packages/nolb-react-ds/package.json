@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-react-ds",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-ds": "latest",
+        "react-ds-audio-player": "latest",
+        "react-dsbykov-components": "latest",
+        "react-dsfr": "latest",
+        "react-dsgov": "latest",
+        "react-dsi18n": "latest",
+        "react-dsl": "latest",
+        "react-dsv-import": "latest",
+        "react-dsx": "latest"
+    }
+}

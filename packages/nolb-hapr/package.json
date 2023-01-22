@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-hapr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "haprimary.pkg": "latest",
+        "hapromo": "latest",
+        "haproxy": "latest",
+        "haproxy-api": "latest",
+        "haproxy-autoscaling": "latest",
+        "haproxy-controller": "latest",
+        "haproxy-doc-scraper-jquery-plugin": "latest",
+        "haproxy-log": "latest",
+        "haproxy-log-generator": "latest",
+        "haproxy-log-parse": "latest",
+        "haproxy-rest-client": "latest",
+        "haproxy-sdk": "latest",
+        "haproxy-sock-handler": "latest",
+        "haproxy-stat": "latest",
+        "haproxy-stats": "latest",
+        "haproxy-stats-json": "latest",
+        "haproxy-upstart-wrapper": "latest",
+        "haproxy-watch": "latest",
+        "haprpc": "latest"
+    }
+}

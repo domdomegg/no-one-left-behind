@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_stai",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@staiia/ngx-container": "latest",
+        "@staiia/ngx-dynamic-router": "latest",
+        "@staiia/ngx-json": "latest",
+        "@staiia/ngx-tui-editor": "latest",
+        "@staiia/super-tiny-icons": "latest",
+        "@stail/core": "latest",
+        "@stail/css": "latest",
+        "@stail/react": "latest",
+        "@stainii/portal-image": "latest",
+        "@stainii/react-native-native-mail": "latest",
+        "@staircase/partner-credentials-widget": "latest",
+        "@staircase/persistence-widget": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-subj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "subject": "latest",
+        "subject-cli": "latest",
+        "subject-editor-plugin": "latest",
+        "subject-extractor": "latest",
+        "subject-intent-service": "latest",
+        "subject-matter": "latest",
+        "subject-object": "latest",
+        "subject-service": "latest",
+        "subject-shown-test": "latest",
+        "subject-with-filter": "latest",
+        "subjective": "latest",
+        "subjectize": "latest",
+        "subjects": "latest",
+        "subjects-ts": "latest",
+        "subjects-utils": "latest",
+        "subjlog1707-pmb": "latest",
+        "subjs": "latest",
+        "subjx": "latest",
+        "subjxx": "latest"
+    }
+}

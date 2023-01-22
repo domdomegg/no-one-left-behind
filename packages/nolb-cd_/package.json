@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-cd_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cd.dll": "latest",
+        "cd.min.js": "latest",
+        "cd_bloodmap": "latest",
+        "cd_server": "latest",
+        "cd_ued_common_modules": "latest"
+    }
+}

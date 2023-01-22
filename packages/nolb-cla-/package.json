@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-cla-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cla-complete": "latest",
+        "cla-mapper": "latest",
+        "cla-mina": "latest",
+        "cla-node": "latest",
+        "cla-rn": "latest",
+        "cla-web": "latest",
+        "cla-wrapper": "latest"
+    }
+}

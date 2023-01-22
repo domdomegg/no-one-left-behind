@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-jey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jey": "latest",
+        "jey-cli": "latest",
+        "jeyaker-socket": "latest",
+        "jeydin21-anime-scraper": "latest",
+        "jeye": "latest",
+        "jeygeethanmedia-bootstrap-datetimepicker": "latest",
+        "jeygodoy": "latest",
+        "jeymediaplayer": "latest",
+        "jeymerbot": "latest",
+        "jeyo-distans": "latest",
+        "jeyson": "latest",
+        "jeytery.findmaxint": "latest",
+        "jeytery.test": "latest"
+    }
+}

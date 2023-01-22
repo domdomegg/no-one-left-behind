@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-vue-ds",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-dS": "latest",
+        "vue-ds-tree": "latest",
+        "vue-dsigital-keyboard": "latest",
+        "vue-dsq": "latest",
+        "vue-dsu": "latest",
+        "vue-dsv-tree": "latest"
+    }
+}

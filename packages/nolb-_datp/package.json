@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_datp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datpd/demo-lib": "latest",
+        "@datpd/react-medium-profile": "latest",
+        "@datproject/dat-swarm-defaults": "latest"
+    }
+}

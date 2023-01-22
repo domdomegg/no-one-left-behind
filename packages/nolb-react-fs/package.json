@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-react-fs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-fs": "latest",
+        "react-fs-components": "latest",
+        "react-fs-renderer": "latest",
+        "react-fs-router": "latest",
+        "react-fs-tree": "latest",
+        "react-fs-treeview": "latest",
+        "react-fsm": "latest",
+        "react-fsm-component": "latest",
+        "react-fsm-router": "latest",
+        "react-fsx": "latest"
+    }
+}

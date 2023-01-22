@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-supe-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "supe-addon-citizen-request": "latest",
+        "supe-addon-citizen-supervision-api": "latest",
+        "supe-addon-log-citizen-lifecycle": "latest",
+        "supe-addon-log-citizen-output": "latest",
+        "supe-addon-start-citizen-signal": "latest",
+        "supe-citizen-output-logger": "latest",
+        "supe-citizen-rabbitmq": "latest",
+        "supe-citizen-redis": "latest",
+        "supe-ui": "latest"
+    }
+}

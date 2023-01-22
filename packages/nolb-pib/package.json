@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-pib",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "piball": "latest",
+        "piball-docker": "latest",
+        "pibberish": "latest",
+        "pibench-parser": "latest",
+        "piblishssss": "latest",
+        "pibot": "latest",
+        "pibot-basic": "latest",
+        "pibrary": "latest"
+    }
+}

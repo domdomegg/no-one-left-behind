@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_minj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@minjs/cdn-node-ssh": "latest",
+        "@minjs/duiba-sprite": "latest",
+        "@minjs/editor-core": "latest",
+        "@minjs/toolkit": "latest",
+        "@minjs1cn/any-cli": "latest",
+        "@minjs1cn/compiler": "latest",
+        "@minjs1cn/file-hash": "latest",
+        "@minjs1cn/inquirer": "latest",
+        "@minjs1cn/js-paste": "latest",
+        "@minjs1cn/toolkits": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-atk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "atk": "latest",
+        "atk-cli": "latest",
+        "atk-ui-pantry": "latest",
+        "atk-vue-parser": "latest",
+        "atk14js": "latest",
+        "atk_infinity-module_test": "latest",
+        "atk_infinity-qs": "latest",
+        "atk_nautilus": "latest",
+        "atkinson-dither": "latest"
+    }
+}

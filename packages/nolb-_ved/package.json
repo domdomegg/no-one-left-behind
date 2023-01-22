@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_ved",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@veda-ui-kits/react-tailwind": "latest",
+        "@veda1612/lotide": "latest",
+        "@vedantsharma/reddit": "latest",
+        "@vedcoder/tiny": "latest",
+        "@vedhaslabs/ckeditor5-build-decoupled-document-with-font-and-bg-color": "latest",
+        "@vedicium/auth0-actions-sdk": "latest",
+        "@vedicium/sermo-socket": "latest",
+        "@vedrax/material": "latest",
+        "@vedrax/vedrax-material-utility": "latest",
+        "@vedrax/vedrax-web": "latest",
+        "@vedux/vedudb": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-monq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "monq": "latest",
+        "monq-broker": "latest",
+        "monq-mongoose": "latest",
+        "monqa": "latest",
+        "monqade-dev-schemas": "latest",
+        "monqade-query-builder": "latest",
+        "monqade-schema": "latest",
+        "monqade-shared": "latest",
+        "monql": "latest",
+        "monqodb": "latest",
+        "monqoise": "latest",
+        "monqoose": "latest",
+        "monqsoon": "latest",
+        "monquery": "latest",
+        "monqueue": "latest",
+        "monquizedusseau-resume": "latest"
+    }
+}

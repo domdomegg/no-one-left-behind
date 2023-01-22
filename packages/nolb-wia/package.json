@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-wia",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wia": "latest",
+        "wiagl-components": "latest",
+        "wiagl-wrapper": "latest",
+        "wialon": "latest",
+        "wialonjs-api": "latest"
+    }
+}

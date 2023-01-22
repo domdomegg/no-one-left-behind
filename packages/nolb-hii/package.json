@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-hii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hii": "latest",
+        "hiii-aws-cdk-utils": "latest",
+        "hiii-construct-utils": "latest",
+        "hiiii": "latest",
+        "hiiker_geojson_to_kml": "latest",
+        "hiiki666_read": "latest",
+        "hiiki666_readf": "latest",
+        "hiiki666_testapp": "latest",
+        "hiintec32": "latest",
+        "hiio": "latest",
+        "hiipack": "latest",
+        "hiit_timer": "latest"
+    }
+}

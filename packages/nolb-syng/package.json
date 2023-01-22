@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-syng",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "syng.desctop": "latest",
+        "syngen": "latest",
+        "syngenio_licensecheck": "latest",
+        "syngenta-maps": "latest"
+    }
+}

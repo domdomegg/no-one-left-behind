@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-typescript-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typescript-jairus": "latest",
+        "typescript-jest": "latest",
+        "typescript-jokes-rahul": "latest",
+        "typescript-js-handler": "latest",
+        "typescript-jsdoctag-completions-plugin": "latest",
+        "typescript-jsend": "latest",
+        "typescript-json": "latest",
+        "typescript-json-api": "latest",
+        "typescript-json-as-const-plugin": "latest",
+        "typescript-json-check": "latest",
+        "typescript-json-decoder": "latest",
+        "typescript-json-model": "latest",
+        "typescript-json-object-mapper": "latest",
+        "typescript-json-schema": "latest",
+        "typescript-json-schema-faker": "latest",
+        "typescript-json-schema-generator": "latest",
+        "typescript-json-schema-jakutis": "latest",
+        "typescript-json-schema-jb": "latest",
+        "typescript-json-schema-pub": "latest",
+        "typescript-json-schema-watch": "latest",
+        "typescript-json-schema2": "latest",
+        "typescript-json-serializer": "latest",
+        "typescript-json-typesafe": "latest",
+        "typescript-json-validator": "latest",
+        "typescript-jsx-native-dom": "latest",
+        "typescript-jupyter-kernel": "latest",
+        "typescript-jwt": "latest"
+    }
+}

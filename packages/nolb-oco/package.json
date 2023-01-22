@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-oco",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "oco": "latest",
+        "oco-research-nodejs-sdk": "latest",
+        "ococv": "latest",
+        "ocode-cli": "latest",
+        "ocoder": "latest",
+        "ocoke-osg": "latest",
+        "ocolus": "latest",
+        "ocomp": "latest",
+        "ocomp-logic": "latest",
+        "ocomponent": "latest",
+        "ocomponents": "latest",
+        "ocon": "latest",
+        "oconf": "latest",
+        "oconfig": "latest",
+        "oconnect": "latest",
+        "ocono_insights_offermanager": "latest",
+        "ocono_insights_testone": "latest",
+        "ocono_insights_testtwo": "latest",
+        "oconsole": "latest",
+        "ocoofofo_trr": "latest",
+        "ocordova": "latest"
+    }
+}

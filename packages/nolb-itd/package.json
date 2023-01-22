@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-itd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "itd": "latest",
+        "itdabai-yuan": "latest",
+        "itdar-branch-cordova-sdk": "latest",
+        "itdart": "latest",
+        "itdc-brand-assets": "latest",
+        "itdcx-tools": "latest",
+        "itdemo": "latest",
+        "itdev": "latest",
+        "itdev-core": "latest",
+        "itdk": "latest",
+        "itdong": "latest",
+        "itdqf-tools": "latest",
+        "itdragon-orm": "latest",
+        "itdreaam-tools": "latest"
+    }
+}

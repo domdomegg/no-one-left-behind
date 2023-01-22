@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_clm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@clmeida/ngxdatepicker": "latest",
+        "@clmeida/vss-app-modal": "latest",
+        "@clmicrotix/common": "latest",
+        "@clmmatteo/type-safe-template-literal": "latest",
+        "@clmystes/mynewcli": "latest",
+        "@clmystes/webcola": "latest"
+    }
+}

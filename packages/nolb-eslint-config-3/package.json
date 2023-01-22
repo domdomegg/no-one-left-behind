@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-eslint-config-3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslint-config-360fy": "latest",
+        "eslint-config-360medics-base": "latest",
+        "eslint-config-360medics-react": "latest",
+        "eslint-config-36node": "latest",
+        "eslint-config-3box": "latest",
+        "eslint-config-3bp": "latest",
+        "eslint-config-3introspection": "latest"
+    }
+}

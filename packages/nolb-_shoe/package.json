@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_shoe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shoelace-style/animations": "latest",
+        "@shoelace-style/localize": "latest",
+        "@shoelace-style/react": "latest",
+        "@shoelace-style/react-wrapper": "latest",
+        "@shoelace-style/shoelace": "latest",
+        "@shoelace-style/shoemaker": "latest",
+        "@shoelace-style/vue-sl-model": "latest",
+        "@shoemate-interactive/dx-web-components": "latest",
+        "@shoesofprey/classnames": "latest",
+        "@shoesofprey/three-orbit-controls-es": "latest",
+        "@shoestrong/build-i18n-lang-config": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-ipm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ipm": "latest",
+        "ipm-usage": "latest",
+        "ipman-79": "latest",
+        "ipmap": "latest",
+        "ipmapjs": "latest",
+        "ipmask": "latest",
+        "ipmatcher": "latest",
+        "ipmcloud": "latest",
+        "ipmd": "latest",
+        "ipmdcontrols": "latest",
+        "ipmerge": "latest",
+        "ipmfiscal": "latest",
+        "ipmi": "latest",
+        "ipmo_v_dbinder": "latest",
+        "ipmodbinder": "latest",
+        "ipmp-db": "latest",
+        "ipmp-paginate": "latest",
+        "ipmp-request": "latest",
+        "ipmp-ui": "latest",
+        "ipmp-utils": "latest",
+        "ipms-components": "latest",
+        "ipms-master-data": "latest",
+        "ipms-toolkit": "latest"
+    }
+}

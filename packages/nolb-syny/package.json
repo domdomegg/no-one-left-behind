@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-syny",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "synyi-annotation-tool": "latest",
+        "synyi-faas": "latest",
+        "synyi-icon-update": "latest",
+        "synyi-zorro-icon-update": "latest"
+    }
+}

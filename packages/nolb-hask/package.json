@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-hask",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hask": "latest",
+        "haskade": "latest",
+        "haske": "latest",
+        "haske-data-parser": "latest",
+        "haskell": "latest",
+        "haskell-hanshushi-chengxu-sheji": "latest",
+        "haskell-loader": "latest",
+        "haskell-stack": "latest",
+        "haskellstream": "latest",
+        "haskey": "latest",
+        "haskind": "latest",
+        "hasky": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_coe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@coedder/json-storage": "latest",
+        "@coedder/parse-request-data": "latest",
+        "@coedder/test": "latest",
+        "@coedl/elastic-query-builder": "latest",
+        "@coedl/nocfl-js": "latest",
+        "@coedl/ocfl": "latest",
+        "@coedl/transcription-parsers": "latest",
+        "@coelhoinc/common": "latest",
+        "@coeli/ui": "latest",
+        "@coemponents/app": "latest",
+        "@coemponents/card": "latest",
+        "@coemponents/click-out-side": "latest",
+        "@coemponents/title": "latest",
+        "@coenschutte/npm-cronly-wrapper": "latest",
+        "@coenvanvliet/immer-components": "latest",
+        "@coeps/https-reverse-proxy": "latest",
+        "@coerver/schema": "latest",
+        "@coestim/coestim-sdk": "latest",
+        "@coetry/simpletypes": "latest",
+        "@coeurofbear/g-table": "latest",
+        "@coeurofbear/g-table-row": "latest",
+        "@coex/geosearch": "latest",
+        "@coexyaedi/cyb-sdk": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-textn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "textng": "latest",
+        "textnode-offset": "latest",
+        "textnode1": "latest",
+        "textnotdownload": "latest",
+        "textnow": "latest",
+        "textnow-api": "latest",
+        "textnow-bot-new": "latest",
+        "textnow.js": "latest",
+        "textnpm0528": "latest"
+    }
+}

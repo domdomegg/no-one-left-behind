@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-wixs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wixstore-client-worker": "latest",
+        "wixstores-client-checkout": "latest",
+        "wixstores-client-common-components": "latest",
+        "wixstores-client-core": "latest",
+        "wixstores-coupons-client": "latest",
+        "wixstores-dashboard-abandoned-carts": "latest",
+        "wixstores-dashboard-business-manager-components": "latest",
+        "wixstores-dashboard-catalog": "latest",
+        "wixstores-dashboard-facebook": "latest",
+        "wixstores-dashboard-orders": "latest",
+        "wixstores-dashboard-promotion-modal": "latest",
+        "wixstores-dashboard-shipping-and-tax": "latest",
+        "wixstores-dashboard-store-settings": "latest",
+        "wixstores-dashboard-storemanager-common": "latest",
+        "wixstores-graphql-schema": "latest",
+        "wixstores-server-precommit": "latest",
+        "wixstores-wixcode-db-driver": "latest"
+    }
+}

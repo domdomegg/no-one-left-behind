@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_foe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@foealke/discordbotframework": "latest",
+        "@foerster-technologies/phonenumbers": "latest",
+        "@foes/react-i18n-routing": "latest",
+        "@foestauf/rodash": "latest",
+        "@foestauf/rodash-android-arm-eabi": "latest",
+        "@foestauf/rodash-android-arm64": "latest",
+        "@foestauf/rodash-darwin-arm64": "latest",
+        "@foestauf/rodash-darwin-x64": "latest",
+        "@foestauf/rodash-freebsd-x64": "latest",
+        "@foestauf/rodash-linux-arm-gnueabihf": "latest",
+        "@foestauf/rodash-linux-arm64-gnu": "latest",
+        "@foestauf/rodash-linux-arm64-musl": "latest",
+        "@foestauf/rodash-linux-x64-gnu": "latest",
+        "@foestauf/rodash-linux-x64-musl": "latest",
+        "@foestauf/rodash-win32-arm64-msvc": "latest",
+        "@foestauf/rodash-win32-ia32-msvc": "latest",
+        "@foestauf/rodash-win32-x64-msvc": "latest"
+    }
+}

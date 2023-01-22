@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-glx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "glx": "latest",
+        "glx-ckeditor5": "latest",
+        "glx-ckeditor5-with-mathtype": "latest",
+        "glx-uikit": "latest",
+        "glxwin": "latest",
+        "glxy-apollo-be-cms-mlproj": "latest",
+        "glxy-apollo-be-cms-services": "latest"
+    }
+}

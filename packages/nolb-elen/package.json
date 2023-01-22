@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-elen",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "elen": "latest",
+        "elena": "latest",
+        "elena-editor": "latest",
+        "elena-react-ui": "latest",
+        "elena-ui": "latest",
+        "elena_paraschiv26": "latest",
+        "elenajs": "latest",
+        "elenajs-swig": "latest",
+        "elenajs-tools": "latest",
+        "elenamodule": "latest",
+        "elenatorro-carto-vl": "latest",
+        "elenauseapihook": "latest",
+        "elenchus": "latest",
+        "elency-config": "latest",
+        "elenext": "latest",
+        "elenext-ui": "latest",
+        "elenore": "latest",
+        "elenoredesign": "latest",
+        "elenpi": "latest",
+        "elenpi-html-parser": "latest",
+        "elenpi-simple-function-call-parser": "latest",
+        "elens": "latest",
+        "elentari": "latest"
+    }
+}

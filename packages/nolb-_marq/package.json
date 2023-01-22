@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_marq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@marqroldan/react-native-image-capinsets": "latest",
+        "@marqroldan/react-native-push-notification": "latest",
+        "@marqtickets/common": "latest",
+        "@marqueefy/marqueefy": "latest",
+        "@marquesmath/poc-web-components-stencil": "latest",
+        "@marquicas2/components-lib": "latest",
+        "@marquis2021/lotide": "latest"
+    }
+}

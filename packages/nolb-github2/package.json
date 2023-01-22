@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-github2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "github2": "latest",
+        "github2aws": "latest",
+        "github2cocoon": "latest",
+        "github2es": "latest",
+        "github2md": "latest",
+        "github2npm-repo": "latest",
+        "github2pdf": "latest",
+        "github2range": "latest",
+        "github2slack": "latest"
+    }
+}

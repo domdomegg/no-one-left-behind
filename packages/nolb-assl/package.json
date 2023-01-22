@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-assl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "assl.cli-sample": "latest",
+        "assl.custom-module-sample": "latest",
+        "assl.helloworld": "latest",
+        "asslint": "latest",
+        "assload": "latest",
+        "assload-image": "latest"
+    }
+}

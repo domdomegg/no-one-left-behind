@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_dsq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dsquare-gbu/kuroshiro": "latest",
+        "@dsquare-gbu/vue-app": "latest",
+        "@dsquare-gbu/vue-bus": "latest",
+        "@dsquare-gbu/vue-helpers": "latest",
+        "@dsquare-gbu/vue-router": "latest",
+        "@dsquare-gbu/vue-services": "latest",
+        "@dsquare-gbu/vue-uses": "latest",
+        "@dsquare-gbu/vue-utils": "latest",
+        "@dsquares/design-system": "latest",
+        "@dsquares/gamification": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-frp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "frp": "latest",
+        "frp-adventure": "latest",
+        "frp-cli-custom": "latest",
+        "frp-client": "latest",
+        "frp-keyboard": "latest",
+        "frp-middleware": "latest",
+        "frp-my-storybook-components": "latest",
+        "frp-product-card-test": "latest",
+        "frp-promise": "latest",
+        "frp-station-logo": "latest",
+        "frp-tick": "latest",
+        "frp-timer": "latest",
+        "frp-ts": "latest",
+        "frpa-frame-print": "latest",
+        "frpc": "latest",
+        "frpc-manager": "latest",
+        "frpfsm": "latest",
+        "frpjs": "latest",
+        "frpm": "latest",
+        "frproject": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-hello-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hello-yang": "latest",
+        "hello-yangfan": "latest",
+        "hello-yankai": "latest",
+        "hello-yarn": "latest",
+        "hello-yaya": "latest",
+        "hello-yayoc-npm": "latest",
+        "hello-ybw-webpack-plugin": "latest",
+        "hello-yokishava": "latest",
+        "hello-yuan": "latest",
+        "hello-yue-ui": "latest"
+    }
+}

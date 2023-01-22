@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-scr-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "scr-chart": "latest",
+        "scr-cli-day2": "latest",
+        "scr-common": "latest",
+        "scr-koa-1": "latest",
+        "scr-koa-2": "latest",
+        "scr-koa-3": "latest",
+        "scr-koa-4": "latest",
+        "scr-koa-5": "latest",
+        "scr-pipe": "latest",
+        "scr-sdk": "latest",
+        "scr-test-table": "latest",
+        "scr-to-svg": "latest"
+    }
+}

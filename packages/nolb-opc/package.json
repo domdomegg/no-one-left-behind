@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-opc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "opc": "latest",
+        "opc-dataflow-trace": "latest",
+        "opc-lib": "latest",
+        "opc-severn": "latest",
+        "opc-simulator": "latest",
+        "opc-utils": "latest",
+        "opc-via-udp": "latest",
+        "opcalc": "latest",
+        "opclean": "latest",
+        "opcli": "latest",
+        "opcmodal": "latest",
+        "opcnft": "latest",
+        "opcode-demo-lib": "latest",
+        "opcodes": "latest",
+        "opcommands": "latest",
+        "opcroak": "latest",
+        "opcua": "latest",
+        "opcua-commander": "latest"
+    }
+}

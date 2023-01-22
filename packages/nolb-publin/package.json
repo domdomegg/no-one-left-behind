@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-publin",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "publink-city": "latest",
+        "publink-cti-js-sdk": "latest",
+        "publink-divider": "latest",
+        "publink-egg-mysql-typescript-lib": "latest",
+        "publink-form": "latest",
+        "publink-get-qrcode-barcode": "latest",
+        "publink-inject-html-log-util": "latest",
+        "publink-koa-webpack": "latest",
+        "publink-layx": "latest",
+        "publink-load-more": "latest",
+        "publink-page-model": "latest",
+        "publink-qr-scanner": "latest",
+        "publink-qrcodejs2": "latest",
+        "publink-react-native-tab-navigator": "latest",
+        "publink-remote-selector": "latest",
+        "publink-test-pc": "latest",
+        "publink-test-static": "latest",
+        "publink-ui": "latest",
+        "publink-vue-waterfall2": "latest",
+        "publint": "latest"
+    }
+}

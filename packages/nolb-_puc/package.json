@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_puc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pucelle/event-emitter": "latest",
+        "@pucelle/ff": "latest",
+        "@pucelle/flit": "latest",
+        "@pucelle/flit-basis": "latest",
+        "@pucelle/flit-ui": "latest",
+        "@pucelle/ignore-walk": "latest",
+        "@pucelle/webpack-svg-loader": "latest",
+        "@pucerontriton/holidates": "latest",
+        "@pucerontriton/vcard": "latest",
+        "@pucherico/geom": "latest",
+        "@pucherico/simplelib": "latest",
+        "@puchupala/homebridge-nature-remo-multi-toggle-light": "latest",
+        "@puckit/create-app": "latest",
+        "@puckit/dev-utils": "latest",
+        "@puckit/scripts": "latest",
+        "@puckit/template": "latest",
+        "@puckjs/mongoose-cli": "latest",
+        "@puckjs/svg-sprite": "latest",
+        "@puckjs/utils": "latest",
+        "@puckwang/qr-code": "latest",
+        "@puckwang/vue-slot-machine": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-typescript-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typescript-udptool": "latest",
+        "typescript-ui5": "latest",
+        "typescript-uml": "latest",
+        "typescript-uni-management-system": "latest",
+        "typescript-union": "latest",
+        "typescript-unkown-parser": "latest",
+        "typescript-unwrap-or-return": "latest",
+        "typescript-urban-airship-client": "latest",
+        "typescript-urlmaki": "latest",
+        "typescript-use": "latest",
+        "typescript-util": "latest",
+        "typescript-utilities": "latest",
+        "typescript-utility-kit": "latest",
+        "typescript-utility-types": "latest",
+        "typescript-utils": "latest"
+    }
+}

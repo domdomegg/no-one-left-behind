@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-easyi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "easyi18n": "latest",
+        "easyi2c": "latest",
+        "easyid": "latest",
+        "easyify": "latest",
+        "easyify-cli": "latest",
+        "easyimage": "latest",
+        "easyimage-tmpfix": "latest",
+        "easyinput": "latest",
+        "easyinstaller": "latest",
+        "easyinvoice": "latest",
+        "easyioc": "latest",
+        "easyip": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-asyncs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "AsyncStorage": "latest",
+        "asyncStorage": "latest",
+        "asyncscript": "latest",
+        "asyncshell": "latest",
+        "asyncstack": "latest",
+        "asyncstorage": "latest",
+        "asyncstorage-down": "latest",
+        "asyncstorage-inspector-flipper": "latest",
+        "asyncstorage-mock": "latest",
+        "asyncstorage-mock-another": "latest",
+        "asyncstorage-test": "latest",
+        "asyncstorageapi": "latest",
+        "asyncstoragefixed": "latest",
+        "asyncstoragehandler": "latest",
+        "asyncstore": "latest",
+        "asyncsystemjsurl": "latest"
+    }
+}

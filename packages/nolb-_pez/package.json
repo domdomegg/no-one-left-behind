@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_pez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pezeshk-book/ui-kit": "latest",
+        "@pezetter/ng-select": "latest",
+        "@pezetter/pezevents-lib": "latest",
+        "@pezhmanparsaee/react-custom-scrollbars": "latest",
+        "@pezhmanparsaee/react-lazyload": "latest",
+        "@pezhmanparsaee/react-truncate": "latest",
+        "@pezhmanparsaee/tiny": "latest",
+        "@pezng/threejs": "latest",
+        "@pezza/tailwind-cli": "latest"
+    }
+}

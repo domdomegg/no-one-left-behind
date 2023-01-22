@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-karv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "karv": "latest",
+        "karve": "latest",
+        "karve-core": "latest",
+        "karve-features": "latest",
+        "karvi": "latest",
+        "karvipr": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-gatsby-plugin-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gatsby-plugin-valine": "latest",
+        "gatsby-plugin-valine-comment": "latest",
+        "gatsby-plugin-vanilla-extract": "latest",
+        "gatsby-plugin-vercel": "latest",
+        "gatsby-plugin-vercel-deploy": "latest",
+        "gatsby-plugin-vercel-dynamic-routes": "latest",
+        "gatsby-plugin-verify-bing": "latest",
+        "gatsby-plugin-verify-brave": "latest",
+        "gatsby-plugin-visiosto": "latest",
+        "gatsby-plugin-vk-pixel": "latest",
+        "gatsby-plugin-vwo": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-multid",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "multid": "latest",
+        "multidat": "latest",
+        "multidatastore": "latest",
+        "multidatastore-b2": "latest",
+        "multidatastore-postgres": "latest",
+        "multidatastore-rethinkdb": "latest",
+        "multidatastore-s3": "latest",
+        "multidb": "latest",
+        "multidb_connects": "latest",
+        "multidefine-library-webpack-plugin": "latest",
+        "multidep": "latest",
+        "multidev-proxy": "latest",
+        "multidexor": "latest",
+        "multidim-array-index": "latest",
+        "multidimensional": "latest",
+        "multidimensional-map": "latest",
+        "multidimensional-proxy-addressing": "latest",
+        "multidisplaycomponent": "latest",
+        "multidisplaycomponent1": "latest",
+        "multidither": "latest",
+        "multidm": "latest",
+        "multido": "latest",
+        "multidoc": "latest",
+        "multidoctransactions": "latest",
+        "multidomain-simple-sitemap": "latest",
+        "multidownloader": "latest",
+        "multidrive": "latest"
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-react-reu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-reusable": "latest",
+        "react-reusable-autocomplete": "latest",
+        "react-reusable-button-library": "latest",
+        "react-reusable-comp": "latest",
+        "react-reusable-comp-sample": "latest",
+        "react-reusable-component": "latest",
+        "react-reusable-component-sample": "latest",
+        "react-reusable-components": "latest",
+        "react-reusable-components-durgapatra": "latest",
+        "react-reusable-components-library": "latest",
+        "react-reusable-components-pg": "latest",
+        "react-reusable-hooks": "latest",
+        "react-reusable-modals": "latest",
+        "react-reusable-select": "latest",
+        "react-reusable-table": "latest",
+        "react-reusable-tabs": "latest",
+        "react-reusable-white-space": "latest",
+        "react-reusables": "latest",
+        "react-reuse": "latest",
+        "react-reuse-comp-lib": "latest",
+        "react-reuse-components": "latest",
+        "react-reused-components": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-ng2-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ng2-QppWs": "latest",
+        "ng2-qgrid": "latest",
+        "ng2-qiniu-icons-view": "latest",
+        "ng2-qiniu-img-input": "latest",
+        "ng2-qppservices": "latest",
+        "ng2-qppws": "latest",
+        "ng2-qrcode": "latest",
+        "ng2-qrcode-reader": "latest",
+        "ng2-qrcode-reader-support-angular-10": "latest",
+        "ng2-query-builder": "latest",
+        "ng2-query-input": "latest",
+        "ng2-quill": "latest",
+        "ng2-quill-editor": "latest",
+        "ng2-quill-editor-compiled": "latest",
+        "ng2-quiz": "latest"
+    }
+}

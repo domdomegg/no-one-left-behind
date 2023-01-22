@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-drw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "drw-hello-world-package": "latest",
+        "drw-react": "latest",
+        "drw-test": "latest",
+        "drwaer": "latest",
+        "drwaky-react-component-library": "latest",
+        "drweide-jiaoyu-baodian-erlingyiqilingjiu-erlingyibalingsan": "latest",
+        "drweide-jiaoyu-baodian-erlingyiqilingsan-lingba": "latest",
+        "drwffjbwkwxsvyo": "latest",
+        "drwine-umeng-push": "latest",
+        "drwordcounter": "latest"
+    }
+}

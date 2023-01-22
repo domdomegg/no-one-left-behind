@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-google-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "google-v3-recaptchas": "latest",
+        "google-vcall": "latest",
+        "google-vision-api": "latest",
+        "google-vision-api-client": "latest",
+        "google-visualization-converter": "latest",
+        "google-voice-api": "latest",
+        "google-vue-maps": "latest"
+    }
+}

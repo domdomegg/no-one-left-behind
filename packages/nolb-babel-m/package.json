@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-babel-m",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-macro-goober": "latest",
+        "babel-macros": "latest",
+        "babel-maker": "latest",
+        "babel-matrix": "latest",
+        "babel-me": "latest",
+        "babel-merge": "latest",
+        "babel-messages": "latest",
+        "babel-meta": "latest",
+        "babel-microtest": "latest",
+        "babel-middleware": "latest",
+        "babel-middleware-stzhang": "latest",
+        "babel-minify": "latest",
+        "babel-minify-loader": "latest",
+        "babel-minify-preset-generator": "latest",
+        "babel-minify-standalone": "latest",
+        "babel-minify-webpack-plugin": "latest",
+        "babel-minify-webpack-plugin-marcello": "latest",
+        "babel-mixin": "latest",
+        "babel-mocha-es6-compiler": "latest",
+        "babel-module-indexes-example": "latest",
+        "babel-monther": "latest",
+        "babel-multi-env": "latest",
+        "babel-multi-target-plugin": "latest"
+    }
+}

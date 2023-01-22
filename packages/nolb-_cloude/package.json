@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_cloude",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cloudedots/enhanced-express": "latest",
+        "@cloudedots/express-session-token": "latest",
+        "@cloudedots/flex-css-classes": "latest",
+        "@cloudedots/redis-token-store": "latest",
+        "@cloudedots/svelte-forms": "latest",
+        "@cloudelements/doctor-core": "latest",
+        "@cloudelements/jmespath": "latest",
+        "@clouden-cdk/aws-lambda-typescript": "latest",
+        "@clouden/react-notification-system": "latest",
+        "@cloudengines/ceutil": "latest",
+        "@cloudentity/auth": "latest",
+        "@cloudentity/passport-oauth2": "latest",
+        "@cloudever/apollo-link-rest": "latest",
+        "@cloudexible/gatsby-theme-storefront-shopify": "latest",
+        "@cloudexperts/common": "latest"
+    }
+}

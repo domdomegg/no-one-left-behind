@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-mule",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mule": "latest",
+        "mule-application-manager-cli": "latest",
+        "mule-uploader": "latest",
+        "muleanzty-test": "latest",
+        "mulei-test": "latest",
+        "muleify": "latest",
+        "muleinthedust": "latest",
+        "mulemmc": "latest",
+        "mulepack": "latest",
+        "muler": "latest",
+        "mules-gruntr": "latest",
+        "mules-logger": "latest",
+        "mules-sql-wrapper": "latest",
+        "mulesoft-docs-site-generator": "latest",
+        "muletrain": "latest"
+    }
+}

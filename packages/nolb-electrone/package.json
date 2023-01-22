@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-electrone",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "electroner": "latest",
+        "electroneum-nodejs": "latest",
+        "electroneum-rpc-nodejs": "latest",
+        "electroneumjs": "latest",
+        "electronext": "latest"
+    }
+}

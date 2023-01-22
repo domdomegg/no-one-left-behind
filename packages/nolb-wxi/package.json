@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-wxi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wxi-flavored-markdown": "latest",
+        "wxiao": "latest",
+        "wxin-xxx": "latest",
+        "wxing-wjkcu-wieiokj": "latest",
+        "wxinlineplayer_alv_render": "latest",
+        "wxinstrct": "latest",
+        "wxio": "latest",
+        "wxios": "latest"
+    }
+}

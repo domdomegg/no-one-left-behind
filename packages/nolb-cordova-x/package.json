@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-cordova-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cordova-x-filter": "latest",
+        "cordova-x5webview-plugin": "latest",
+        "cordova-x5webview-plugin-file-support": "latest",
+        "cordova-xiao-location-amap": "latest",
+        "cordova-xitter-googledrive": "latest",
+        "cordova-xml": "latest",
+        "cordova-xml-tcp-plugin": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_fik",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fika/gatsby-source-cockpit": "latest",
+        "@fikani/br-validations": "latest",
+        "@fikani/forms": "latest",
+        "@fikani/ngx-pubsub": "latest",
+        "@fikrikarim/local-echo": "latest",
+        "@fikrys-dev/common": "latest"
+    }
+}

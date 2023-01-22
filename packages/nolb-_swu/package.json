@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_swu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@swufexlm/js-hashcode": "latest",
+        "@swup/a11y-plugin": "latest",
+        "@swup/body-class-plugin": "latest",
+        "@swup/cli": "latest",
+        "@swup/custom-payload-plugin": "latest",
+        "@swup/debug-plugin": "latest",
+        "@swup/fade-theme": "latest",
+        "@swup/forms-plugin": "latest",
+        "@swup/ga-plugin": "latest",
+        "@swup/gia-plugin": "latest",
+        "@swup/gtm-plugin": "latest",
+        "@swup/head-plugin": "latest",
+        "@swup/js-plugin": "latest",
+        "@swup/livewire-plugin": "latest",
+        "@swup/matomo-plugin": "latest",
+        "@swup/overlay-theme": "latest",
+        "@swup/plugin": "latest",
+        "@swup/preload-plugin": "latest",
+        "@swup/prettier-config": "latest",
+        "@swup/progress-plugin": "latest",
+        "@swup/route-name-plugin": "latest",
+        "@swup/scripts-plugin": "latest",
+        "@swup/scroll-plugin": "latest",
+        "@swup/slide-theme": "latest",
+        "@swup/test": "latest",
+        "@swup/testing-repo": "latest",
+        "@swup/theme": "latest",
+        "@swup/webpack-config": "latest"
+    }
+}

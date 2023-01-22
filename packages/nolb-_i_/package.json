@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_i_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@i.am.root/is-wtf": "latest",
+        "@i.com/xlsx": "latest",
+        "@i.w/react": "latest",
+        "@i.w/trip-plan": "latest",
+        "@i_mustafa/npx-card": "latest",
+        "@i_myke/phone-number-formatter": "latest",
+        "@i_oleksandr/prcomponents": "latest",
+        "@i_syed2000/loggermodule": "latest",
+        "@i_syed2000/nodejsconfigurationmodule": "latest"
+    }
+}

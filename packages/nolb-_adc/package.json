@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_adc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@adc-cli/core": "latest",
+        "@adc-cli/log": "latest",
+        "@adc-component/components": "latest",
+        "@adc-component/utils": "latest",
+        "@adc-ops/autocore-js": "latest",
+        "@adc/date": "latest",
+        "@adc/forms": "latest",
+        "@adc/pay": "latest",
+        "@adc9tickets/common": "latest",
+        "@adchirita/lotide": "latest",
+        "@adchitects/browserslist-config": "latest",
+        "@adchitects/eslint-config": "latest",
+        "@adchitects/markdownlint-config": "latest",
+        "@adchitects/prettier-config": "latest",
+        "@adchitects/stylelint-config": "latest",
+        "@adchitects/syncpack-config": "latest",
+        "@adchitects/tsup-config": "latest",
+        "@adchitects/typescript-config": "latest",
+        "@adcombo/adc-ui": "latest",
+        "@adcommon/common": "latest"
+    }
+}

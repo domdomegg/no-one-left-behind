@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-async-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "async-zip": "latest",
+        "async-zip-reader": "latest",
+        "async-zip-stream": "latest"
+    }
+}

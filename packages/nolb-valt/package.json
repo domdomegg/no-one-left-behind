@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-valt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "valt": "latest",
+        "valtan-shared": "latest",
+        "valtech": "latest",
+        "valtech-avh": "latest",
+        "valtech-lunch": "latest",
+        "valtech-sd-next": "latest",
+        "valtech-sd-tsconfig": "latest",
+        "valtech-sd-utils": "latest",
+        "valtech-storybook": "latest",
+        "valtech-testing-framework": "latest",
+        "valtechonepage": "latest",
+        "valtify": "latest",
+        "valtio": "latest",
+        "valtio-connect": "latest",
+        "valtio-element": "latest",
+        "valtio-form": "latest",
+        "valtio-persist": "latest",
+        "valtio-signal": "latest",
+        "valtio-svelte": "latest",
+        "valtio-uncontrolled": "latest",
+        "valtio-yjs": "latest",
+        "valtio-yyh": "latest",
+        "valtors": "latest",
+        "valtree": "latest",
+        "valtypes": "latest"
+    }
+}

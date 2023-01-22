@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-restu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "restu-garzon-virtual": "latest",
+        "restu-util": "latest",
+        "restuhaqza": "latest",
+        "restup": "latest",
+        "restup-cli": "latest",
+        "resturant-page": "latest",
+        "resture": "latest",
+        "resturlify": "latest",
+        "restuta-react-dropzone-s3-uploader": "latest",
+        "restutils-client": "latest",
+        "restutils-helpers": "latest",
+        "restutils-host": "latest",
+        "restux": "latest",
+        "restux-test": "latest"
+    }
+}

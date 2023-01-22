@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-thik",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thikkra-bulma": "latest",
+        "thiko.address.book.library": "latest",
+        "thiko.address.book.library.2": "latest",
+        "thiko.address.book.library.3": "latest"
+    }
+}

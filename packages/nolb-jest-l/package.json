@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-jest-l",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jest-label": "latest",
+        "jest-lambda-runner": "latest",
+        "jest-large-snapshot-warning": "latest",
+        "jest-launchdarkly-mock": "latest",
+        "jest-ld-mock": "latest",
+        "jest-leak-detector": "latest",
+        "jest-leak-fixer": "latest",
+        "jest-less": "latest",
+        "jest-less-loader": "latest",
+        "jest-less-transformer": "latest",
+        "jest-liferay-resolver": "latest",
+        "jest-light-runner": "latest",
+        "jest-lighthouse": "latest",
+        "jest-lights": "latest",
+        "jest-lite": "latest",
+        "jest-livescript-preprocessor": "latest",
+        "jest-liveserver": "latest",
+        "jest-loader": "latest",
+        "jest-localstorage-mock": "latest",
+        "jest-location-mock": "latest",
+        "jest-log-failure-reporter": "latest",
+        "jest-logger": "latest",
+        "jest-loose-matcher": "latest",
+        "jest-lsp": "latest"
+    }
+}

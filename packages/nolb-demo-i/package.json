@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-demo-i",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "demo-icon": "latest",
+        "demo-icon-123xx": "latest",
+        "demo-iconfont": "latest",
+        "demo-imports-issue-dep": "latest",
+        "demo-imports-issue-dep-dep": "latest",
+        "demo-inc-aap": "latest",
+        "demo-index-demo": "latest",
+        "demo-init": "latest",
+        "demo-internal-package": "latest",
+        "demo-intro": "latest",
+        "demo-iotest": "latest",
+        "demo-is-even": "latest",
+        "demo-is-odd": "latest",
+        "demo-istsos": "latest",
+        "demo-itshare-mydixi": "latest",
+        "demo-ivgomez": "latest"
+    }
+}

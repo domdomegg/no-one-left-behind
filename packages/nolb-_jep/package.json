@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_jep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jep/npm_test_package": "latest",
+        "@jep/test_comp": "latest",
+        "@jephuff/canvg": "latest",
+        "@jephuff/shopify-react-web-worker": "latest",
+        "@jephuff/shopify-web-worker": "latest",
+        "@jeppech/generic-builder-ts": "latest",
+        "@jeppech/typed-emitter": "latest",
+        "@jeppevinkel/steam-search": "latest",
+        "@jeptickets/common": "latest",
+        "@jepz20/conman": "latest",
+        "@jepz20/conman-memory-source": "latest",
+        "@jepz20/conman-nconf-source": "latest",
+        "@jepz20/conman-object-source": "latest",
+        "@jepz20/conman-s3-source": "latest"
+    }
+}

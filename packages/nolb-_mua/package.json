@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_mua",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@muaadahmed123/lotide": "latest",
+        "@muaazh/datepicker": "latest",
+        "@muab/common": "latest",
+        "@muadzict/turf-voronoi-muadzict": "latest",
+        "@muaen/tinymce": "latest",
+        "@muaen/vxe-table": "latest",
+        "@muath-ye/tiny": "latest",
+        "@muathime/crc16-teltonika": "latest",
+        "@muathnahhas/active-button": "latest",
+        "@muaz-khan/getscreenid": "latest",
+        "@muazothman/aws-viz": "latest"
+    }
+}

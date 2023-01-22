@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-runp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "runp": "latest",
+        "runp5": "latest",
+        "runpack": "latest",
+        "runpier-cli": "latest",
+        "runpigjs": "latest",
+        "runpipe": "latest",
+        "runplan": "latest",
+        "runplaywright": "latest",
+        "runpm": "latest",
+        "runpostman": "latest",
+        "runps": "latest",
+        "runpy": "latest"
+    }
+}

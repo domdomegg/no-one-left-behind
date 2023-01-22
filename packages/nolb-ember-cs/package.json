@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-ember-cs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ember-css-animation-triggers": "latest",
+        "ember-css-element-queries": "latest",
+        "ember-css-modules": "latest",
+        "ember-css-modules-active-route": "latest",
+        "ember-css-modules-reporter": "latest",
+        "ember-css-modules-sass": "latest",
+        "ember-css-modules-stylelint": "latest",
+        "ember-css-properties": "latest",
+        "ember-css-routes": "latest",
+        "ember-css-transitions": "latest",
+        "ember-css-transitions-modifiers": "latest",
+        "ember-css-url": "latest",
+        "ember-css-vars": "latest",
+        "ember-cssnext": "latest",
+        "ember-csv": "latest",
+        "ember-csz": "latest"
+    }
+}

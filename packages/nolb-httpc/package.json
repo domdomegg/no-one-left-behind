@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-httpc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "httpc": "latest",
+        "httpc-comp6461": "latest",
+        "httpcache": "latest",
+        "httpcallback": "latest",
+        "httpcas": "latest",
+        "httpcat": "latest",
+        "httpception": "latest",
+        "httpceptor": "latest",
+        "httpcheck": "latest",
+        "httpclient-digest": "latest",
+        "httpclient-fe-ml": "latest",
+        "httpclient-haolue": "latest",
+        "httpclient-loading-bar": "latest",
+        "httpclient-nodejs": "latest",
+        "httpclient.js": "latest",
+        "httpclientrc": "latest",
+        "httpcode": "latest",
+        "httpcodelookup": "latest",
+        "httpcontroller": "latest",
+        "httpcord": "latest"
+    }
+}

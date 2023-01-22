@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-wix-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wix-hadron-sample-app": "latest",
+        "wix-hadron-test-app": "latest",
+        "wix-hadron-testkit": "latest",
+        "wix-header-and-footer": "latest",
+        "wix-height-updater": "latest",
+        "wix-hmac-signer": "latest",
+        "wix-hooks": "latest",
+        "wix-hotels-mobile-app": "latest",
+        "wix-html-editor-api-proto": "latest",
+        "wix-html-editor-info-api": "latest",
+        "wix-html-live-site-data-api": "latest",
+        "wix-http-client-support": "latest",
+        "wix-http-client-testkit": "latest",
+        "wix-http-functions": "latest",
+        "wix-http-headers": "latest",
+        "wix-http-test-client": "latest",
+        "wix-http-testkit": "latest"
+    }
+}

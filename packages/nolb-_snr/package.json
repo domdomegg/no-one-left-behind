@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_snr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@snr1kor/jupiter-engine": "latest",
+        "@snr1kor/jupiter-engine-native": "latest",
+        "@snr1kor/shared-ui-styleguids": "latest",
+        "@snrogers/monads": "latest"
+    }
+}

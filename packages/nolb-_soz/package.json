@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_soz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sozialhelden/a11yjson": "latest",
+        "@sozialhelden/ac-format": "latest",
+        "@sozialhelden/fetch-cache": "latest",
+        "@sozialhelden/focus-trap-react": "latest",
+        "@sozialhelden/hamster-cache": "latest",
+        "@sozialhelden/ietf-language-tags": "latest",
+        "@sozialhelden/survey-editor": "latest",
+        "@sozialhelden/twelve-factor-dotenv": "latest",
+        "@soztrk/reactjs_ui": "latest"
+    }
+}

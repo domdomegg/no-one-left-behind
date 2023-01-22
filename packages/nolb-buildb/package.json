@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-buildb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "BuildBox": "latest",
+        "buildblink": "latest",
+        "buildboard": "latest",
+        "buildbot-build-common": "latest",
+        "buildbot-data": "latest",
+        "buildbot-data-js": "latest",
+        "buildbot-github": "latest",
+        "buildbot-vue-plugin-boilerplate": "latest",
+        "buildbranch": "latest",
+        "buildbro": "latest",
+        "buildbug": "latest"
+    }
+}

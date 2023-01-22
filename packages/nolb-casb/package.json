@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-casb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "casb-button": "latest",
+        "casbah": "latest",
+        "casbin": "latest",
+        "casbin-basic-adapter": "latest",
+        "casbin-basic-adapter2": "latest",
+        "casbin-core": "latest",
+        "casbin-couchbase-adapter": "latest",
+        "casbin-dynamodb-adapter": "latest",
+        "casbin-express-authz": "latest",
+        "casbin-file-adapter": "latest",
+        "casbin-firestore-adapter": "latest",
+        "casbin-jwt-express": "latest",
+        "casbin-knex-adapter": "latest",
+        "casbin-mikroorm-adapter": "latest",
+        "casbin-mongodb-adapter": "latest",
+        "casbin-mongodb-adapter-for-npm": "latest",
+        "casbin-mongoose": "latest",
+        "casbin-mongoose-adapter": "latest",
+        "casbin-objection-adapter": "latest",
+        "casbin-pg-adapter": "latest",
+        "casbin-pg-watcher": "latest",
+        "casbin-prisma-adapter": "latest",
+        "casbin-redis-adapter": "latest",
+        "casbin-sequelize-adapter": "latest",
+        "casbin-wasm-test": "latest",
+        "casbin.js": "latest",
+        "casbinjs-server-tool": "latest"
+    }
+}

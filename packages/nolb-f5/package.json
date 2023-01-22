@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-f5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "f5": "latest",
+        "f5-conx-core": "latest",
+        "f5-corkscrew": "latest",
+        "f5-entoli": "latest",
+        "f5-icontrol-rest": "latest",
+        "f5-invoicing-components": "latest",
+        "f5-logger": "latest",
+        "f5-nodejs": "latest",
+        "f5-sdk-js": "latest",
+        "f5-waf-policy": "latest",
+        "f5endpointstest": "latest",
+        "f5fg": "latest",
+        "f5g4v8": "latest",
+        "f5stegojs": "latest"
+    }
+}

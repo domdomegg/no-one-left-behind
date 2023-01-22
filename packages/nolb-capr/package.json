@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-capr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "caprcore": "latest",
+        "capre": "latest",
+        "caprece": "latest",
+        "capreleaser": "latest",
+        "caprese": "latest",
+        "capri": "latest",
+        "capri-create": "latest",
+        "capriccio": "latest",
+        "capriccio.js": "latest",
+        "capriceloren-resume": "latest",
+        "capricious": "latest",
+        "capricorn": "latest",
+        "capricorn-cli": "latest",
+        "capricorn-swap-sdk": "latest",
+        "capricorn-ui": "latest",
+        "capricorns": "latest",
+        "capriko-restful": "latest",
+        "caprine": "latest",
+        "caprison": "latest",
+        "capritable": "latest",
+        "capriza-json-form": "latest",
+        "caprover": "latest",
+        "caprover-lib": "latest"
+    }
+}

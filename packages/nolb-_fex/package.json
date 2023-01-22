@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_fex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fex-cli/core": "latest",
+        "@fex-cli/utils": "latest",
+        "@fext/vue-form-builder": "latest",
+        "@fext/vue-use": "latest",
+        "@fexyler/nodejs-express-boilerplate": "latest",
+        "@fexzy/optimal-select": "latest"
+    }
+}

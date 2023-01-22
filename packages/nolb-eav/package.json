@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-eav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eav": "latest",
+        "eav-private-service": "latest",
+        "eav-ui": "latest",
+        "eavesTool": "latest",
+        "eavesdocker": "latest",
+        "eavesdrop": "latest",
+        "eavesdrop-app": "latest",
+        "eavio-vue-full-calendar": "latest",
+        "eavnitech-test01": "latest",
+        "eavx": "latest"
+    }
+}

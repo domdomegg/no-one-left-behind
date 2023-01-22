@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_mip",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mip-studio/common": "latest",
+        "@mip-studio/components": "latest",
+        "@miphas/auto-view": "latest",
+        "@miphas/check-auto-view-plugin": "latest",
+        "@miphas/videocount": "latest",
+        "@mipke/pyramid": "latest",
+        "@mipong/payments": "latest",
+        "@mipong/utils": "latest",
+        "@mipqim/lotide": "latest",
+        "@mipsial/randomid-generator": "latest",
+        "@miptickets/common": "latest"
+    }
+}

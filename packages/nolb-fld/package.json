@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-fld",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fld-grd": "latest",
+        "fldabb": "latest",
+        "fldabc": "latest",
+        "fldao": "latest",
+        "fldetail": "latest",
+        "fldigi-node": "latest",
+        "fldr": "latest",
+        "fldr-utils": "latest",
+        "fldsmdfr": "latest",
+        "fldvuetest": "latest"
+    }
+}

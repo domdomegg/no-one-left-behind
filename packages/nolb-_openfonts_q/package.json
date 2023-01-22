@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_openfonts_q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@openfonts/quando_latin": "latest",
+        "@openfonts/quando_latin-ext": "latest",
+        "@openfonts/quantico_latin": "latest",
+        "@openfonts/quattrocento-sans_latin": "latest",
+        "@openfonts/quattrocento-sans_latin-ext": "latest",
+        "@openfonts/quattrocento_latin": "latest",
+        "@openfonts/quattrocento_latin-ext": "latest",
+        "@openfonts/questrial_all": "latest",
+        "@openfonts/questrial_latin": "latest",
+        "@openfonts/questrial_latin-ext": "latest",
+        "@openfonts/questrial_vietnamese": "latest",
+        "@openfonts/quicksand_all": "latest",
+        "@openfonts/quicksand_latin": "latest",
+        "@openfonts/quicksand_latin-ext": "latest",
+        "@openfonts/quicksand_vietnamese": "latest",
+        "@openfonts/quintessential_latin": "latest",
+        "@openfonts/quintessential_latin-ext": "latest",
+        "@openfonts/qwigley_latin": "latest",
+        "@openfonts/qwigley_latin-ext": "latest"
+    }
+}

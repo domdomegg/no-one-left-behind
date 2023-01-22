@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-r7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "r7": "latest",
+        "r7-blobs": "latest",
+        "r7-component": "latest",
+        "r7-proportion-div": "latest",
+        "r76module": "latest",
+        "r7f-masonry": "latest",
+        "r7h9-say_hello": "latest",
+        "r7insight_docker": "latest",
+        "r7insight_js": "latest",
+        "r7insight_node": "latest",
+        "r7k12_counter": "latest",
+        "r7su": "latest"
+    }
+}

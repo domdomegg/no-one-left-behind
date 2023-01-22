@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-cdr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cdr": "latest",
+        "cdr-camelize": "latest",
+        "cdr-pascalize": "latest",
+        "cdrake-se": "latest",
+        "cdramacdn-core": "latest",
+        "cdrator": "latest",
+        "cdrc-css-sass-framework": "latest",
+        "cdrc-sass-structure": "latest",
+        "cdrc-template-base": "latest",
+        "cdrd": "latest",
+        "cdrd-app-ui": "latest",
+        "cdreplacewords": "latest",
+        "cdrepo": "latest",
+        "cdreyer-utilities": "latest",
+        "cdri": "latest",
+        "cdri-react-datasheet": "latest",
+        "cdrive": "latest",
+        "cdrn": "latest",
+        "cdrop": "latest"
+    }
+}

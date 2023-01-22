@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-zog",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zog": "latest",
+        "zogra-engine": "latest",
+        "zogra-renderer": "latest",
+        "zogxray-vue-html5-editor": "latest"
+    }
+}

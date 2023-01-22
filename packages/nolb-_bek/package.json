@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_bek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bekacode/cli": "latest",
+        "@bekacode/core": "latest",
+        "@bekacode/log": "latest",
+        "@bekacode/util": "latest",
+        "@bekacode/utils": "latest",
+        "@bekerco/hello-world": "latest",
+        "@bekerco/hello-worlds": "latest",
+        "@beketickets/common": "latest",
+        "@bekhruzmm/paycom-sandbox-api": "latest",
+        "@bekindsoft/eslint-config-bekind": "latest",
+        "@bekit/scrypted-prometheus": "latest",
+        "@bekk/storybook": "latest"
+    }
+}

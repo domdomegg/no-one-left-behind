@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-puc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "puc": "latest",
+        "puc-minas-santa-rita": "latest",
+        "puc-shared-component-menu": "latest",
+        "puc-shared-components": "latest",
+        "puc-shared-components-menu": "latest",
+        "pucapi": "latest",
+        "pucclass": "latest",
+        "puce": "latest",
+        "puche": "latest",
+        "puchi": "latest",
+        "puck": "latest",
+        "puck-cli": "latest",
+        "puck-lang": "latest",
+        "puck-mqtt": "latest",
+        "puck-ui": "latest",
+        "puck-util": "latest",
+        "puckages": "latest",
+        "puckchain": "latest",
+        "pucket": "latest",
+        "puckman": "latest",
+        "puclic_abc": "latest",
+        "puclic_sum": "latest",
+        "puclictest": "latest",
+        "pucminas.atividadepratica1": "latest",
+        "pucomponents19": "latest"
+    }
+}

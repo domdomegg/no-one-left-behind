@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_ecu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ecualead/auth": "latest",
+        "@ecualead/msg": "latest",
+        "@ecualead/oauth-server": "latest",
+        "@ecualead/server": "latest",
+        "@ecubed/brackdown": "latest",
+        "@ecubed/code-editor": "latest",
+        "@ecubed/ng-app-essentials": "latest",
+        "@ecubed/ng-app-security": "latest",
+        "@ecubed/ng-crud-components": "latest",
+        "@ecubed/ng-dialog": "latest",
+        "@ecubed/ng-foundations": "latest",
+        "@ecubed/ng-net": "latest",
+        "@ecubed/ng-responsive": "latest",
+        "@ecubed/ng-upload": "latest",
+        "@ecubed/ng-widgets": "latest",
+        "@ecubed/react-app-essentials": "latest",
+        "@ecubed/react-core": "latest",
+        "@ecubed/react-widgets": "latest",
+        "@ecubed/trivial-ts-lib": "latest",
+        "@ecubelabs/date": "latest",
+        "@ecubelabs/koa-joi-router": "latest",
+        "@ecubelabs/prettier-config": "latest",
+        "@ecubelabs/seed": "latest",
+        "@ecubelabs/storybook-addon-intl": "latest",
+        "@ecubelabs/tsconfig": "latest",
+        "@ecubelabs/typedi": "latest",
+        "@ecurrah/valheim-manager": "latest"
+    }
+}

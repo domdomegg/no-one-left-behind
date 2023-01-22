@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-babel5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel5-loader": "latest",
+        "babel5-plugin-module-alias": "latest",
+        "babel5-plugin-strip-class-callcheck": "latest",
+        "babel5-plugin-strip-heimdall": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_sha1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sha1n/about-time": "latest",
+        "@sha1n/dagraph": "latest",
+        "@sha1n/fungus": "latest",
+        "@sha1n/on-time": "latest",
+        "@sha1n/ontime": "latest",
+        "@sha1n/pipelines": "latest"
+    }
+}

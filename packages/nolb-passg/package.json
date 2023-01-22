@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-passg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "passgate": "latest",
+        "passgen": "latest",
+        "passgen-1": "latest",
+        "passgen-cli": "latest",
+        "passgen-cli2": "latest",
+        "passgen-dm": "latest",
+        "passgen.js": "latest",
+        "passgenerate": "latest",
+        "passgenerator-js": "latest",
+        "passgenn": "latest",
+        "passget": "latest",
+        "passgit": "latest"
+    }
+}

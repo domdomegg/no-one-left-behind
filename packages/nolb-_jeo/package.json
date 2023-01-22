@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_jeo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jeomet/hellogoodbye": "latest",
+        "@jeomet/mod-hello-jt": "latest",
+        "@jeomet/testhello": "latest",
+        "@jeonbg/amazon-chime-sdk-component-library-react": "latest",
+        "@jeong-cli-dev/core": "latest",
+        "@jeong-cli-dev/utils": "latest",
+        "@jeongbin/rocatdog-pkg": "latest",
+        "@jeonghojeong/ctl": "latest",
+        "@jeonghojeong/fc-test-temp": "latest",
+        "@jeonghojeong/fc21-test-pkg": "latest",
+        "@jeongj99/lotide": "latest",
+        "@jeongminchoi/lotide": "latest",
+        "@jeongyk92/react-bigcard": "latest",
+        "@jeongyk92/react-customform": "latest",
+        "@jeonsoft/devextreme": "latest",
+        "@jeonsoft/devextreme-react": "latest",
+        "@jeonsoft/utils": "latest",
+        "@jeonys_hooks/use-title": "latest"
+    }
+}

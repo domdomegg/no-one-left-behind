@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-vsw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vswagger-cli": "latest",
+        "vswap-uikit": "latest",
+        "vsweb": "latest",
+        "vswift-base": "latest",
+        "vswift-cli": "latest",
+        "vswipe": "latest",
+        "vswr": "latest"
+    }
+}

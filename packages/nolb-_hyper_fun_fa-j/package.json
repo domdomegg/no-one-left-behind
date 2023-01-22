@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_fa-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/fa-java": "latest",
+        "@hyper.fun/fa-jedi": "latest",
+        "@hyper.fun/fa-jedi-order": "latest",
+        "@hyper.fun/fa-jenkins": "latest",
+        "@hyper.fun/fa-jira": "latest",
+        "@hyper.fun/fa-joget": "latest",
+        "@hyper.fun/fa-joint": "latest",
+        "@hyper.fun/fa-joomla": "latest",
+        "@hyper.fun/fa-journal-whills": "latest",
+        "@hyper.fun/fa-js": "latest",
+        "@hyper.fun/fa-js-square": "latest",
+        "@hyper.fun/fa-jsfiddle": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-flap",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "flap": "latest",
+        "flap-app-launcher": "latest",
+        "flaper": "latest",
+        "flapi": "latest",
+        "flapjack-bytes": "latest",
+        "flapjack-swap-sdk-npm": "latest",
+        "flapjack-toolkit": "latest",
+        "flapjack-util": "latest",
+        "flapjacks": "latest",
+        "flapjax": "latest",
+        "flapp": "latest",
+        "flapper": "latest",
+        "flapper-news": "latest",
+        "flappy": "latest",
+        "flappy-bird-cli": "latest",
+        "flappy-heart": "latest",
+        "flappybird": "latest",
+        "flappybird-game2d": "latest",
+        "flappybird-minigame": "latest",
+        "flappycat": "latest",
+        "flappycoin": "latest",
+        "flappyjs": "latest",
+        "flappysonic-client": "latest",
+        "flaps": "latest",
+        "flaps-logger": "latest",
+        "flapstacks": "latest",
+        "flapto": "latest",
+        "flapyy": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_ic3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ic3/reporting-api": "latest",
+        "@ic3m3n/cookie-consent": "latest",
+        "@ic3m4n/eslint-config": "latest"
+    }
+}

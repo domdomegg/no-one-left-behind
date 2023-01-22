@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-json8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "json8": "latest",
+        "json8-clone": "latest",
+        "json8-equal": "latest",
+        "json8-is": "latest",
+        "json8-isArray": "latest",
+        "json8-isBoolean": "latest",
+        "json8-isJSON": "latest",
+        "json8-isNull": "latest",
+        "json8-isNumber": "latest",
+        "json8-isObject": "latest",
+        "json8-isPrimitive": "latest",
+        "json8-isString": "latest",
+        "json8-isStructure": "latest",
+        "json8-merge-patch": "latest",
+        "json8-merge-patch-to-patch": "latest",
+        "json8-parse": "latest",
+        "json8-patch": "latest",
+        "json8-pointer": "latest",
+        "json8-schema": "latest",
+        "json8-serialize": "latest",
+        "json8-text-sequence": "latest",
+        "json8-type": "latest",
+        "json8-types": "latest",
+        "json8-valid": "latest"
+    }
+}

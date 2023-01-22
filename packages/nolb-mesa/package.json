@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-mesa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mesa": "latest",
+        "mesa-cli": "latest",
+        "mesa-find": "latest",
+        "mesa-js-client": "latest",
+        "mesa-prom-client": "latest",
+        "mesa-sentry": "latest",
+        "mesa-verde": "latest",
+        "mesabuca": "latest",
+        "mesage-random": "latest",
+        "mesaic-api": "latest",
+        "mesaj": "latest",
+        "mesajes-aleatorio-splatzi": "latest",
+        "mesalva-react-native-onboarding": "latest",
+        "mesan-form-view": "latest",
+        "mesan-react-native-components": "latest"
+    }
+}

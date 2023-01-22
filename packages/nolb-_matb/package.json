@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_matb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@matb85/base-pack": "latest",
+        "@matb85/photoeditor": "latest",
+        "@matb85/svelte-pack": "latest",
+        "@matb85/vue-pack": "latest",
+        "@matbico/biconomy-data-module": "latest",
+        "@matbueno-ignite-ui/docs": "latest",
+        "@matbueno-ignite-ui/react": "latest",
+        "@matbueno-ignite-ui/tokens": "latest",
+        "@matbueno/custom-react-hooks": "latest",
+        "@matbueno/custom-use-state": "latest",
+        "@matbueno/react-boilerplate": "latest"
+    }
+}

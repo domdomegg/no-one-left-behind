@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_do4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@do4mother/nuxtjs-auth": "latest",
+        "@do4mother/vue-plyr": "latest",
+        "@do4ng/console": "latest",
+        "@do4ng/yux": "latest",
+        "@do4way/jest-dynamodb": "latest",
+        "@do4way/react-csv": "latest"
+    }
+}

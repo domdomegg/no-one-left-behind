@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_pho-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pho-nomenal/5-minute-github-demo": "latest",
+        "@pho-nomenal/james-nodejs-demo-oct": "latest"
+    }
+}

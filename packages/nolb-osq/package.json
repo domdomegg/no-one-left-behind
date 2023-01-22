@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-osq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "osql": "latest",
+        "osqlite": "latest",
+        "osqp": "latest",
+        "osquery": "latest",
+        "osquery-extension": "latest",
+        "osquery-extension-manager": "latest",
+        "osquery-fleetctl": "latest",
+        "osquery-rest-adapter": "latest",
+        "osquiddy-frame-print": "latest",
+        "osquiddy-html2pdf-test": "latest"
+    }
+}

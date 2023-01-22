@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_datafire_d",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datafire/d7networks": "latest",
+        "@datafire/daisycon": "latest",
+        "@datafire/daniweb": "latest",
+        "@datafire/data.gov": "latest",
+        "@datafire/data2crm": "latest",
+        "@datafire/data_gov": "latest",
+        "@datafire/dataatwork": "latest",
+        "@datafire/dataflowkit": "latest",
+        "@datafire/datumbox": "latest",
+        "@datafire/deeparteffects": "latest",
+        "@datafire/departureboard": "latest",
+        "@datafire/deutschebahn_betriebsstellen": "latest",
+        "@datafire/deutschebahn_fahrplan": "latest",
+        "@datafire/deutschebahn_fasta": "latest",
+        "@datafire/deutschebahn_flinkster": "latest",
+        "@datafire/deutschebahn_reisezentren": "latest",
+        "@datafire/deutschebahn_stada": "latest",
+        "@datafire/digitallinguistics": "latest",
+        "@datafire/docker_engine": "latest",
+        "@datafire/docusign": "latest",
+        "@datafire/domainsdb_info": "latest",
+        "@datafire/dracoon_team": "latest",
+        "@datafire/dropbox_content": "latest",
+        "@datafire/dropbox_data": "latest",
+        "@datafire/dropx": "latest",
+        "@datafire/dweet": "latest"
+    }
+}

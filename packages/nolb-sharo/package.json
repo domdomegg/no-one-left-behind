@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-sharo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sharo": "latest",
+        "sharo-scripts": "latest",
+        "sharomonk-frame-print": "latest",
+        "sharon": "latest",
+        "sharon-docsify-customize": "latest",
+        "sharon-storage": "latest",
+        "sharon-storage-provisional": "latest",
+        "sharon-test-library": "latest",
+        "sharon666": "latest",
+        "sharon888": "latest",
+        "sharon943": "latest",
+        "sharonann-test-components": "latest",
+        "sharonhq": "latest",
+        "sharonhq-md-links": "latest"
+    }
+}

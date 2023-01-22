@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-node-rec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-recaptcha": "latest",
+        "node-recaptcha-v2": "latest",
+        "node-recaptcha2": "latest",
+        "node-recastnavigation": "latest",
+        "node-rechnung": "latest",
+        "node-reco": "latest",
+        "node-recode": "latest",
+        "node-recommendations": "latest",
+        "node-reconfix": "latest",
+        "node-reconnect": "latest",
+        "node-reconnect-ws": "latest",
+        "node-record": "latest",
+        "node-record-lpcm16": "latest",
+        "node-record-lpcm16-customizable": "latest",
+        "node-record-lpcmat": "latest",
+        "node-recorder": "latest",
+        "node-recurly": "latest",
+        "node-recurly-client": "latest",
+        "node-recurly-ssl3": "latest",
+        "node-recurly-tls": "latest",
+        "node-recurly-updated": "latest",
+        "node-recurring": "latest",
+        "node-recurse": "latest",
+        "node-recursive": "latest",
+        "node-recursive-directory": "latest"
+    }
+}

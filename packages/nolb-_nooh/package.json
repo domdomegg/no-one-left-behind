@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_nooh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@noohle/antd": "latest",
+        "@noohle/core": "latest",
+        "@noohle/designer": "latest",
+        "@noohle/shared": "latest",
+        "@noohle/ui": "latest"
+    }
+}

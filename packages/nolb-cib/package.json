@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-cib",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cib": "latest",
+        "cib-markdown": "latest",
+        "cib-test": "latest",
+        "cib-trie-cli": "latest",
+        "cib-ui": "latest",
+        "ciba": "latest",
+        "ciba-alfred-workflow": "latest",
+        "cibeidelang": "latest",
+        "cibi-first": "latest",
+        "cibtc-ointention": "latest",
+        "cibtest-ui": "latest",
+        "cibulka-gulp-deps": "latest",
+        "cibulka-gulpfile": "latest",
+        "cibulka-js": "latest",
+        "cibulka-node-utils": "latest",
+        "cibulka-sass": "latest"
+    }
+}

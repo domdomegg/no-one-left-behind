@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-bek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bek": "latest",
+        "bek-ui": "latest",
+        "beka": "latest",
+        "bekbekak": "latest",
+        "beken-engine": "latest",
+        "beken-market": "latest",
+        "bekhzod96-frame-print": "latest",
+        "bekicons": "latest",
+        "bekit": "latest",
+        "bekk-chromotome": "latest",
+        "bekky": "latest",
+        "beko-test-library": "latest",
+        "beks-button": "latest",
+        "beks-pagination": "latest",
+        "beky": "latest",
+        "bekzod-lightbox-gallery": "latest"
+    }
+}

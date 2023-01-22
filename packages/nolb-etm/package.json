@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-etm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "etm": "latest",
+        "etm-fcm": "latest",
+        "etm-react-native-google-places-autocomplete": "latest",
+        "etm-react-native-map-link": "latest",
+        "etm-react-native-rave": "latest",
+        "etm-react-native-swiper": "latest",
+        "etmface": "latest",
+        "etmgen": "latest",
+        "etmo-utils": "latest",
+        "etms-dashboards-web": "latest",
+        "etmx": "latest"
+    }
+}

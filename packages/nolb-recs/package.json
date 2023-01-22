@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-recs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "recs": "latest",
+        "recsam": "latest",
+        "recsive-read9dir": "latest",
+        "recss": "latest",
+        "recsst": "latest",
+        "recsys-utils": "latest"
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-cse",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cse": "latest",
+        "cse-cli": "latest",
+        "cse-integration": "latest",
+        "cse-sdk": "latest",
+        "cse110-spatch": "latest",
+        "cse498capstonewit": "latest",
+        "cse512": "latest",
+        "cse_toolchain_user_management_api": "latest",
+        "csearch": "latest",
+        "csec": "latest",
+        "cseg": "latest",
+        "csel-solid-router": "latest",
+        "cselect": "latest",
+        "cselector": "latest",
+        "csep": "latest",
+        "cses-api": "latest",
+        "cses-cli": "latest",
+        "cset": "latest",
+        "csexe": "latest",
+        "csext": "latest",
+        "csextends": "latest",
+        "csezc": "latest"
+    }
+}

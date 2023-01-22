@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_wif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wifi-s3tup/cli": "latest",
+        "@wifi-s3tup/manager": "latest",
+        "@wifi-s3tup/server": "latest",
+        "@wifi-s3tup/util": "latest",
+        "@wifi-s3tup/utils": "latest",
+        "@wiforge/averos": "latest"
+    }
+}

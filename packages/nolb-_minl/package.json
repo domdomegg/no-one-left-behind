@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_minl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@minlamp/local-store": "latest",
+        "@minlamp/util": "latest",
+        "@minlamp/validate-field-decorator": "latest",
+        "@minlare/berkeley-vue-cli-plugin-pwa": "latest",
+        "@minlare/dsa-vue-loader": "latest",
+        "@minlare/dsa-vue-template-compiler": "latest",
+        "@minlare/gulp-bemlint-html": "latest",
+        "@minlare/html-webpack-multi-build-plugin": "latest",
+        "@minlare/vue-cli-plugin-berkeley-pwa": "latest",
+        "@minlare/webpack-plugin-output-files": "latest",
+        "@minlaxz/ss": "latest",
+        "@minlia/belt": "latest",
+        "@minlia/ngx-translate-router": "latest",
+        "@minlia/ngx-translate-router-http-loader": "latest",
+        "@minlia/nuxtjs-auth": "latest",
+        "@minlia/sig": "latest",
+        "@minlia/types": "latest",
+        "@minlib/min": "latest",
+        "@minlib/min-async-await": "latest",
+        "@minlib/min-wxapi": "latest",
+        "@minlib/minx": "latest"
+    }
+}

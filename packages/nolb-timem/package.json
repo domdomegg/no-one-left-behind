@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-timem",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "timem": "latest",
+        "timemachine": "latest",
+        "timemachinelmy": "latest",
+        "timemakeformat": "latest",
+        "timemanager": "latest",
+        "timemanager-clientjs": "latest",
+        "timemark": "latest",
+        "timemarkdate": "latest",
+        "timemarkdebug": "latest",
+        "timeme": "latest",
+        "timeme.js": "latest",
+        "timemeet": "latest",
+        "timemitter": "latest",
+        "timemodule": "latest"
+    }
+}

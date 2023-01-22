@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_slp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@slp/ng-admin": "latest",
+        "@slp/nx-cli": "latest",
+        "@slpayment/payment-element": "latest",
+        "@slplus/core": "latest",
+        "@slpv/httpstatus": "latest"
+    }
+}

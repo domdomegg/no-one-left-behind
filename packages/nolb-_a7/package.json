@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_a7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@a7/icons": "latest",
+        "@a7/rsvg": "latest",
+        "@a7/vgm-logger": "latest",
+        "@a73/get-all-files-ts": "latest",
+        "@a736921/logging": "latest",
+        "@a752559/devops": "latest",
+        "@a7gm/core": "latest",
+        "@a7gm/js-marker-clusterer": "latest",
+        "@a7gm/snazzy-info-window": "latest",
+        "@a7md0/angular-skyhook": "latest",
+        "@a7sc11u/scramble": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-graphqlz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graphqlzero": "latest",
+        "graphqlzero-api": "latest",
+        "graphqlzero-web": "latest"
+    }
+}

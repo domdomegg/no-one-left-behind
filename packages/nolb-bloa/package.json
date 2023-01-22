@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-bloa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bloader": "latest",
+        "bloat": "latest",
+        "bloat-loader": "latest",
+        "bloatedmath": "latest",
+        "bloater": "latest",
+        "bloater-rule-engine": "latest",
+        "bloato": "latest",
+        "bloatware": "latest"
+    }
+}

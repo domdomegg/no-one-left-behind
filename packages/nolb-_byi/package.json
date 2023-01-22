@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_byi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@byiam/iam-api-js": "latest",
+        "@byiam/iam-api-user-bucket-js": "latest",
+        "@byiam/iam-myaccount-api-js": "latest",
+        "@byiam/iam-token": "latest",
+        "@byiam/iam-workspace-api-js": "latest",
+        "@byiam/keycloak-admin": "latest",
+        "@byin-design/web-vue": "latest",
+        "@byintera/eslint-config": "latest",
+        "@byintera/prettier-config": "latest",
+        "@byintera/tsconfig": "latest",
+        "@byinti/printer-js": "latest",
+        "@byinti/qztray-printer": "latest",
+        "@byinti/risk-management-js": "latest"
+    }
+}

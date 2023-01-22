@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_ruy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ruyadorno/create-index": "latest",
+        "@ruyadorno/create-test": "latest",
+        "@ruyadorno/dep-bar": "latest",
+        "@ruyadorno/dep-foo": "latest",
+        "@ruyadorno/dep-sub-no-funding": "latest",
+        "@ruyadorno/dep-sub-no-funding-dep": "latest",
+        "@ruyadorno/dep-with-a-link": "latest",
+        "@ruyadorno/depend-on-a-slow-lifecycle-script": "latest",
+        "@ruyadorno/git-pr": "latest",
+        "@ruyadorno/outdated": "latest",
+        "@ruyadorno/package-with-added-bin": "latest",
+        "@ruyadorno/peer-dep-beta-caret": "latest",
+        "@ruyadorno/peer-dep-cycle-conflict": "latest",
+        "@ruyadorno/peer-dep-cycle-conflict-a": "latest",
+        "@ruyadorno/peer-dep-range": "latest",
+        "@ruyadorno/postinstall-failure": "latest",
+        "@ruyadorno/redact": "latest",
+        "@ruyadorno/slow-lifecycle-script": "latest",
+        "@ruyadorno/tap-with-mocks": "latest",
+        "@ruyadorno/test-funding-dep": "latest",
+        "@ruyadorno/test-funding-dep-sub": "latest",
+        "@ruyadorno/test-funding-dep-sub-sub": "latest",
+        "@ruyadorno/test-funding-dep-sub-sub-sub": "latest",
+        "@ruydo/ngx-phone-number": "latest"
+    }
+}

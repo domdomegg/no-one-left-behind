@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-ligl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ligle-addon-captcha": "latest",
+        "ligle-addon-permission": "latest",
+        "ligle-db": "latest",
+        "ligle-engine": "latest",
+        "ligle-midware": "latest",
+        "ligle-model": "latest",
+        "ligle-model-member": "latest",
+        "ligle-odm": "latest",
+        "ligle-plugin-globals": "latest",
+        "ligle-util": "latest"
+    }
+}

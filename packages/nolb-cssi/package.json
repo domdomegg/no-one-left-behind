@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-cssi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cssi": "latest",
+        "cssicon": "latest",
+        "cssidjs": "latest",
+        "cssidreplace-loader": "latest",
+        "cssified-html": "latest",
+        "cssify": "latest",
+        "cssify-to-json": "latest",
+        "cssify-to-json-class-index": "latest",
+        "cssify2": "latest",
+        "cssimply": "latest",
+        "cssimport": "latest",
+        "cssimportant-loader": "latest",
+        "cssimports": "latest",
+        "cssin": "latest",
+        "cssing": "latest",
+        "cssinjs-animations": "latest",
+        "cssinjstojson": "latest",
+        "cssiojs": "latest",
+        "cssisjs": "latest",
+        "cssist": "latest",
+        "cssist-cli": "latest"
+    }
+}

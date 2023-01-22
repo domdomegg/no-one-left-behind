@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-parsed",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "parsed": "latest",
+        "parsed-body": "latest",
+        "parsed-config": "latest",
+        "parsed-digital-ocean-api-documentation": "latest",
+        "parsed-icons": "latest",
+        "parsed-path": "latest",
+        "parsed-tsconfig": "latest",
+        "parsed-url": "latest",
+        "parsedate": "latest",
+        "parsedb": "latest",
+        "parsedbf": "latest",
+        "parsedmessage": "latest",
+        "parsedoc": "latest",
+        "parsedurl": "latest"
+    }
+}

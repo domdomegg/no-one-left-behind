@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-ali_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ali.gnode": "latest",
+        "ali.iconv": "latest",
+        "ali.koa-router": "latest",
+        "ali.regenerator": "latest",
+        "ali_dns": "latest",
+        "ali_http_func": "latest",
+        "ali_test": "latest"
+    }
+}

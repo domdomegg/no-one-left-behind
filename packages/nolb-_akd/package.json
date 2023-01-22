@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_akd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@akdelivery/custom": "latest",
+        "@akdor1154/cordova-plugin-example-bare-id": "latest",
+        "@akdor1154/cordova-plugin-example-scoped-id": "latest",
+        "@akdor1154/npmbug3": "latest",
+        "@akdrms/ckeditor5-build-classic-placeholder": "latest"
+    }
+}

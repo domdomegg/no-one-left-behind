@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-spp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "spp": "latest",
+        "spp-form": "latest",
+        "spp-msg": "latest",
+        "spp-test-lib": "latest",
+        "sppackage": "latest",
+        "sppagecontextinfo": "latest",
+        "spplayer": "latest",
+        "spply": "latest",
+        "sppro-iframe-modal": "latest",
+        "sppro-image-annote": "latest",
+        "sppro-moment-business-days": "latest",
+        "sppro-ng-annote": "latest",
+        "sppro-react-bootstrap-typeahead": "latest",
+        "sppro-sfa-animations": "latest",
+        "spprt": "latest",
+        "sppull": "latest",
+        "sppurge": "latest"
+    }
+}

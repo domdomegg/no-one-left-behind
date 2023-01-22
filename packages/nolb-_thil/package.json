@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_thil",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@thilakshan.arulnesan/lotide": "latest",
+        "@thilan-tran/qss": "latest",
+        "@thilina-piyasundara/npm-play": "latest",
+        "@thilina_prasad/tester": "latest",
+        "@thilllon/core": "latest",
+        "@thilllon/google-analytics": "latest",
+        "@thilllon/server": "latest",
+        "@thilllon/starwars-cli": "latest",
+        "@thilllon/test2": "latest",
+        "@thilllon/utils": "latest"
+    }
+}

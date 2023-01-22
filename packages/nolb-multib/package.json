@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-multib",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "multibar": "latest",
+        "multibase": "latest",
+        "multibimap": "latest",
+        "multibin": "latest",
+        "multibit": "latest",
+        "multible": "latest",
+        "multiblob": "latest",
+        "multiblob-http": "latest",
+        "multiblox.js": "latest",
+        "multibot": "latest",
+        "multibtns": "latest",
+        "multibuffer": "latest",
+        "multibuffer-stream": "latest",
+        "multibuild": "latest",
+        "multibumper-a": "latest",
+        "multibumper-b": "latest",
+        "multibumper-c": "latest",
+        "multibundle": "latest",
+        "multibundle-mapper": "latest",
+        "multibuttonengagement": "latest",
+        "multibyr": "latest",
+        "multibyte-length": "latest",
+        "multibyte-substr": "latest"
+    }
+}

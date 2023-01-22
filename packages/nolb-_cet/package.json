@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_cet",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ceta/hello-wasm": "latest",
+        "@cetaris/create-with": "latest",
+        "@cetc-cli/command": "latest",
+        "@cetc-cli/core": "latest",
+        "@cetc-cli/exec": "latest",
+        "@cetc-cli/format-path": "latest",
+        "@cetc-cli/get-npm-info": "latest",
+        "@cetc-cli/init": "latest",
+        "@cetc-cli/log": "latest",
+        "@cetc-cli/package": "latest",
+        "@cetc-cli/request": "latest",
+        "@cetc-cli/utils": "latest",
+        "@ceteio/chakra-capsize": "latest",
+        "@ceteio/cloudinary-memory-server": "latest",
+        "@ceteio/next-layout-loader": "latest",
+        "@ceteio/styled-components-rhythm": "latest",
+        "@cetfox24/pathfinding-js": "latest",
+        "@cetfox24/shortcuts": "latest",
+        "@cether/platzimediaplayer": "latest",
+        "@cetickets/common": "latest",
+        "@cettox/prettier-config": "latest",
+        "@cetusprotocol/cetus-clmm-aptos-sdk": "latest"
+    }
+}

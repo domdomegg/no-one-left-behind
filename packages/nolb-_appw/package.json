@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_appw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@appwise/express-dto-router": "latest",
+        "@appwise/node-generator": "latest",
+        "@appwise/oauth2-server": "latest",
+        "@appwise/vue-oauth2": "latest",
+        "@appworks/cli": "latest",
+        "@appworks/codemod": "latest",
+        "@appworks/common-service": "latest",
+        "@appworks/config": "latest",
+        "@appworks/configure": "latest",
+        "@appworks/connector": "latest",
+        "@appworks/constant": "latest",
+        "@appworks/doctor": "latest",
+        "@appworks/doctor-ui": "latest",
+        "@appworks/eslint-plugin-best-practices": "latest",
+        "@appworks/i18n": "latest",
+        "@appworks/logger": "latest",
+        "@appworks/material-engine": "latest",
+        "@appworks/material-ui": "latest",
+        "@appworks/material-utils": "latest",
+        "@appworks/project-service": "latest",
+        "@appworks/project-utils": "latest",
+        "@appworks/recorder": "latest",
+        "@appworks/spec": "latest",
+        "@appworks/storage": "latest",
+        "@appworks/user-service": "latest",
+        "@appworks/vscode-generator": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-mongoose-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mongoose-jobqueue": "latest",
+        "mongoose-joi-schema": "latest",
+        "mongoose-joins": "latest",
+        "mongoose-jojen": "latest",
+        "mongoose-json-diff": "latest",
+        "mongoose-json-patch": "latest",
+        "mongoose-json-patch-history": "latest",
+        "mongoose-json-patch-upd": "latest",
+        "mongoose-json-schema": "latest",
+        "mongoose-json-select": "latest",
+        "mongoose-jsonapi-filter": "latest",
+        "mongoose-jsondiffpatch": "latest",
+        "mongoose-jsonform": "latest",
+        "mongoose-jsonld": "latest",
+        "mongoose-jsonschema": "latest",
+        "mongoose-jsonschema-validation": "latest",
+        "mongoose-jumblator": "latest",
+        "mongoose-just": "latest"
+    }
+}

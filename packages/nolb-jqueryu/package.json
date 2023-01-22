@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-jqueryu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jqueryui": "latest",
+        "jqueryui-amd": "latest",
+        "jqueryui-browser": "latest",
+        "jqueryui-cc": "latest",
+        "jqueryui-commonjs": "latest",
+        "jqueryui-detached": "latest",
+        "jqueryui-detached-1.11": "latest",
+        "jqueryui-timepicker-browser": "latest",
+        "jqueryuify": "latest",
+        "jqueryumsbreakpoints": "latest",
+        "jqueryumsmustache": "latest"
+    }
+}

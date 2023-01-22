@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-woz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "woz": "latest",
+        "woz-npm-upload": "latest",
+        "woza": "latest",
+        "wozai-renjian-yulingjie-duihua": "latest",
+        "wozai-renjiande-lingjie-shijianbu": "latest",
+        "wozaizzl-pack-1": "latest",
+        "wozhangdehenshuai-rating": "latest",
+        "wozhendeshitule": "latest",
+        "wozheshiyigeceshi": "latest",
+        "wozhidao-nizai-xiangshenme": "latest",
+        "wozhimai-shangzhanggu": "latest",
+        "woziji": "latest",
+        "wozijidevideo": "latest",
+        "wozixun": "latest",
+        "wozixun1": "latest",
+        "wozlang": "latest",
+        "wozlla-wpm": "latest",
+        "wozlla.dragonbone.js": "latest",
+        "wozlla.js": "latest",
+        "wozlla.puremvc.js": "latest",
+        "wozllajs": "latest",
+        "wozu": "latest",
+        "wozuidiao": "latest",
+        "wozuimei": "latest",
+        "wozzbot-sdk": "latest"
+    }
+}

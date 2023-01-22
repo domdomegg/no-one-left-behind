@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-cky",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cky-blog-static": "latest",
+        "cky-fish-bone": "latest",
+        "cky-image-public": "latest",
+        "cky-meta": "latest",
+        "cky-mongo-decay": "latest",
+        "cky-page": "latest",
+        "cky_ui_lib": "latest",
+        "cky_utils_lib": "latest"
+    }
+}

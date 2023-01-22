@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_roz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@rozanovskii/node-red-contrib-wasp-frame": "latest",
+        "@rozar/lambda-auth": "latest",
+        "@rozbehsharahi/file-store": "latest",
+        "@rozbehsharahi/save-shortcut": "latest",
+        "@rozbehsharahi/shortcuts": "latest",
+        "@rozhkovv/vue-animated": "latest",
+        "@roziscoding/format": "latest",
+        "@roziscoding/grammy-autoquote": "latest",
+        "@roziscoding/grammy-web": "latest",
+        "@rozklad/usebox": "latest",
+        "@rozwel/bintest": "latest",
+        "@rozzzly/babel-plugin-module-extension-resolver": "latest",
+        "@rozzzly/custom-electron-titlebar": "latest"
+    }
+}

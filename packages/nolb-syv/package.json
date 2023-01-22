@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-syv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "syv": "latest",
+        "syvak-test-core": "latest",
+        "syven-layout-lib": "latest",
+        "syvia-ui": "latest",
+        "syviaship": "latest",
+        "syvision": "latest",
+        "syvn-cli-builder": "latest",
+        "syvn-cli-demo": "latest",
+        "syvn-test-lib": "latest",
+        "syvnaaaas": "latest",
+        "syvue-cli": "latest"
+    }
+}

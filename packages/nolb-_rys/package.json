@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_rys",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@rys-fe/commitlint": "latest",
+        "@rys-fe/eslint-config": "latest",
+        "@rys-fe/eslint-config-basic": "latest",
+        "@rys-fe/eslint-config-react": "latest",
+        "@rys-fe/eslint-config-ts": "latest",
+        "@rys-fe/eslint-config-vue": "latest",
+        "@rys-fe/eslint-config-vue2": "latest",
+        "@rys-fe/eslint-config-vue2-ts": "latest",
+        "@rys-fe/prettier": "latest",
+        "@rys-fe/stylelint": "latest",
+        "@rys-fe/vite-plugin-theme": "latest",
+        "@rys/choice": "latest",
+        "@rys/test-comp-lib": "latest",
+        "@ryse/hooks": "latest",
+        "@ryse/observable": "latest",
+        "@ryse/react-insta-stories": "latest",
+        "@ryse/typebook": "latest",
+        "@rysiek/randomid-generator": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-co2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "co2": "latest",
+        "co2-compensator": "latest",
+        "co2-data": "latest",
+        "co2-felix-test-a": "latest",
+        "co2-monitor": "latest",
+        "co2-monitor-exporter": "latest",
+        "co2accounting": "latest",
+        "co2certificate-validator": "latest",
+        "co2monitor": "latest",
+        "co2offset": "latest",
+        "co2offset-jquery": "latest",
+        "co2offset.io": "latest"
+    }
+}

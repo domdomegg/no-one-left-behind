@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-l0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "l0": "latest",
+        "l0-css-wrap": "latest",
+        "l0-gulp-css-wrap": "latest",
+        "l0-r5-t000030": "latest",
+        "l0-r5-t000180": "latest",
+        "l0-util": "latest",
+        "l00g.in": "latest",
+        "l00p": "latest",
+        "l0g": "latest",
+        "l0gg3r": "latest"
+    }
+}

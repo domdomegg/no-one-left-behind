@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-extp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "extpay": "latest",
+        "extplanejs": "latest",
+        "extplug-advanced-autocomplete": "latest",
+        "extplug-autowoot": "latest",
+        "extplug-chat-images": "latest",
+        "extplug-chat-markup": "latest",
+        "extplug-chat-notifications": "latest",
+        "extplug-cli": "latest",
+        "extplug-colored-users": "latest",
+        "extplug-compact-history": "latest",
+        "extplug-custom-emoji": "latest",
+        "extplug-emoji-picker": "latest",
+        "extplug-hide-badges": "latest",
+        "extplug-inline-user-info": "latest",
+        "extplug-meh-icons": "latest",
+        "extplug-rollover-blurb": "latest",
+        "extplug-room-styles": "latest",
+        "extplug-show-deleted": "latest",
+        "extplug-user-profiles": "latest",
+        "extplug-vote-lists": "latest",
+        "extpoint-yii2": "latest",
+        "extpromise": "latest",
+        "extpt-lib": "latest"
+    }
+}

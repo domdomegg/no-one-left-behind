@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_zey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zeyadomran/nc": "latest",
+        "@zeyber/master-list-anki-provider": "latest",
+        "@zeyber/master-list-facebook-provider": "latest",
+        "@zeyber/master-list-github-provider": "latest",
+        "@zeyber/master-list-google-provider": "latest",
+        "@zeyber/master-list-instagram-provider": "latest",
+        "@zeyber/master-list-system-provider": "latest",
+        "@zeydi/react-js-modal": "latest",
+        "@zeyneppkaya/lotide": "latest",
+        "@zeytech/auth0-adonisjs": "latest",
+        "@zeytech/cache-adonisjs": "latest",
+        "@zeytech/cognito-adonisjs": "latest",
+        "@zeytech/error-reporting-adonisjs": "latest",
+        "@zeytech/error-reporting-file-driver": "latest",
+        "@zeytech/file-upload-adonisjs": "latest",
+        "@zeytin/mongoose-nanoid": "latest",
+        "@zeyuri/azure-function-express": "latest"
+    }
+}

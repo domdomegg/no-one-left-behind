@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-boob",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "booba": "latest",
+        "boobbot": "latest",
+        "booben-async-utils": "latest",
+        "booben-codegen": "latest",
+        "booben-common-tree": "latest",
+        "booben-eslint-config-client": "latest",
+        "booben-eslint-config-common": "latest",
+        "booben-eslint-config-server": "latest",
+        "booben-graphql-schema": "latest",
+        "booben-html-meta": "latest",
+        "booben-metadata": "latest",
+        "booben-types": "latest",
+        "booble-modal": "latest",
+        "booble-toast": "latest",
+        "boobool": "latest",
+        "boobreaks": "latest",
+        "boobst": "latest"
+    }
+}

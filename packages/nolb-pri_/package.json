@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-pri_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pri.alertsnav": "latest",
+        "pri.jzoom2": "latest",
+        "pri.preloader": "latest",
+        "pri.scaleblocks": "latest",
+        "pri_cnip_module_capture": "latest"
+    }
+}

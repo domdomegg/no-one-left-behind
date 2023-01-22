@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-pubo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pubo": "latest",
+        "pubo-node": "latest",
+        "pubo-scripts": "latest",
+        "pubo-utils": "latest",
+        "pubo-web": "latest",
+        "pubodsajofajs": "latest",
+        "puboi812sdf": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-fso",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fso": "latest",
+        "fso-ts-generator": "latest",
+        "fso-ts-generator-cli": "latest",
+        "fsobj": "latest",
+        "fsobject": "latest",
+        "fsociety": "latest",
+        "fsocket.js": "latest",
+        "fsoft-http-proxy": "latest",
+        "fson": "latest",
+        "fson-db": "latest",
+        "fsoprano-palindrome": "latest",
+        "fsos": "latest",
+        "fsox": "latest"
+    }
+}

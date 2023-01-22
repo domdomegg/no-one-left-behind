@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_grv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@grv2927/uikit": "latest",
+        "@grvcoelho/lint-diff": "latest",
+        "@grvsh02/homezy-design-system": "latest"
+    }
+}

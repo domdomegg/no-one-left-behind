@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_dib",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@diba/react-datepicker": "latest",
+        "@dibakarhalder/tiny": "latest",
+        "@dibanka/demo": "latest",
+        "@dibanka/ui": "latest",
+        "@dibend/dirmanager-dibend": "latest",
+        "@dibgram/tdweb": "latest",
+        "@dibgram/tdweb-test": "latest",
+        "@dibs-tech/dibs-error-handler": "latest",
+        "@dibs-tech/mail-client": "latest",
+        "@dibs-tech/models": "latest",
+        "@dibs-tech/redis-interface": "latest",
+        "@dibsy-components/react-dibsy.js": "latest",
+        "@dibug/core": "latest",
+        "@dibyaprakash/custom-package-number": "latest",
+        "@dibyo/griddle-react": "latest"
+    }
+}

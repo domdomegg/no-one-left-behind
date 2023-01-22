@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_digib",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@digib2b/api": "latest",
+        "@digibank/react-native-idnow": "latest",
+        "@digibear/curl": "latest",
+        "@digibear/demo-react-lib": "latest",
+        "@digibear/graph": "latest",
+        "@digibear/hello-package": "latest",
+        "@digibear/middleware": "latest",
+        "@digibear/mucmds": "latest",
+        "@digibear/mush-format": "latest",
+        "@digibear/rhost-wrapper": "latest",
+        "@digibear/socket-bridge": "latest",
+        "@digibear/tags": "latest",
+        "@digibearapp/digibear-common-types": "latest",
+        "@digibearapp/digibear-icons-angular": "latest",
+        "@digibearapp/digibear-icons-react": "latest",
+        "@digibearapp/digibear-icons-vue": "latest",
+        "@digibearapp/digibear-svg-core": "latest",
+        "@digibearapp/digibear-svg-icons": "latest",
+        "@digibearapp/svg-icons": "latest",
+        "@digibib/deichman-admin-frontend-common": "latest",
+        "@digibib/deichman-ui": "latest",
+        "@digibuild/js-sdk": "latest",
+        "@digibytes/markdownit": "latest"
+    }
+}

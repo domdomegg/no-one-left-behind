@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_ngm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ngmanh/scratch-blocks": "latest",
+        "@ngmartinezs-npm/ecommercelib": "latest",
+        "@ngmartinezs-npm/orm-dinamicsentence-pg": "latest",
+        "@ngmatthew227/react-quill2": "latest",
+        "@ngmi/core": "latest",
+        "@ngmi/message": "latest",
+        "@ngmikeng/node-console-rateprogressbar": "latest",
+        "@ngmiracle/bootstrap": "latest",
+        "@ngmodule/material-carousel": "latest",
+        "@ngmpool/sdk": "latest"
+    }
+}

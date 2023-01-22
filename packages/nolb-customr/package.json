@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-customr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "customradiocheckbox": "latest",
+        "customreactcomponent": "latest",
+        "customreactselect_by_kabeer": "latest",
+        "customrealms": "latest",
+        "customrecurrence": "latest",
+        "customrecurrence-lib": "latest",
+        "customregisterlib": "latest",
+        "customreport": "latest",
+        "customreporter": "latest",
+        "customreporter_newman": "latest"
+    }
+}

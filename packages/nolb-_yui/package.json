@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_yui",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yui-demo/cli": "latest",
+        "@yui-demo/cli-shared-utils": "latest",
+        "@yui-design/components": "latest",
+        "@yui-design/icons": "latest",
+        "@yui-design/themes": "latest",
+        "@yui540/react-message-modal": "latest",
+        "@yuiblog/markdown": "latest",
+        "@yuiblog/types": "latest",
+        "@yuicer/npm-hello": "latest",
+        "@yuicer/vue-toast": "latest",
+        "@yuicer/vuepress-plugin-sorted-pages": "latest",
+        "@yuicer/vuepress-theme-yuicer": "latest",
+        "@yuigoto/abst": "latest",
+        "@yuigoto/async-image": "latest",
+        "@yuigoto/ctrl": "latest",
+        "@yuigoto/infiniship-js": "latest",
+        "@yuigoto/validators": "latest",
+        "@yuigoto/zero-ts": "latest",
+        "@yuiirax/hello-world-npm": "latest",
+        "@yuion/svg-viewer": "latest",
+        "@yuiseki/gyazo": "latest",
+        "@yuiseki/twiseki": "latest"
+    }
+}

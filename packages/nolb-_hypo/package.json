@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_hypo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hypo808/elastic-apm-sourcemap-webpack-plugin": "latest",
+        "@hypo808/mcc-mnc-list": "latest",
+        "@hypobox/react": "latest",
+        "@hypofriend/gulp-cloudfront-invalidate-aws-publish": "latest",
+        "@hypofriend/icon": "latest",
+        "@hypofriend/manifest": "latest",
+        "@hypofriend/meta": "latest",
+        "@hypofriend/onesignal": "latest",
+        "@hypofriend/pwa": "latest",
+        "@hypofriend/vee-validate": "latest",
+        "@hypofriend/vue-segment-analytics": "latest",
+        "@hypofriend/web-session-counter": "latest",
+        "@hypofriend/workbox": "latest",
+        "@hypothesi/sass-string-utils": "latest",
+        "@hypothesis/frontend-build": "latest",
+        "@hypothesis/frontend-shared": "latest",
+        "@hypothesisapp/ckeditor5": "latest",
+        "@hypothesisapp/js": "latest",
+        "@hypothesisapp/logger": "latest"
+    }
+}

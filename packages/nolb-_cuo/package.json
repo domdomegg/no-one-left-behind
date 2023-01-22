@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_cuo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cuo9958/local_cache": "latest",
+        "@cuong.lv2/modal-form": "latest",
+        "@cuong.lv2/table": "latest",
+        "@cuong020900/node-solana": "latest",
+        "@cuongdq/js-orm": "latest",
+        "@cuonggosu97/ramda": "latest",
+        "@cuonghx.gu-tech/erc20-basic": "latest",
+        "@cuonghx.gu-tech/erc721-basic": "latest",
+        "@cuonghx.gu-tech/gu-erc20-basic": "latest",
+        "@cuonghx.gu-tech/gu-wallet-connector": "latest",
+        "@cuonghx.gu-tech/react-nft-viewer-basic": "latest",
+        "@cuonghx.gu-tech/wallet-detector": "latest",
+        "@cuongnm/demo-app": "latest",
+        "@cuongnm48/react-nestable": "latest",
+        "@cuongpv/npm_demo": "latest",
+        "@cuongweallnet/rn-gifted-chat": "latest",
+        "@cuora/cuora-frontend-sdk": "latest"
+    }
+}

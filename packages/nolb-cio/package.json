@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-cio",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cio": "latest",
+        "cio-auth": "latest",
+        "ciobanudann-lotr-sdk": "latest",
+        "ciobanudann_ckeditor5-build-classic12": "latest",
+        "ciojs": "latest",
+        "ciomanip": "latest",
+        "cion": "latest",
+        "cion-menu-button": "latest",
+        "cion-server-utils": "latest",
+        "cione-cli": "latest",
+        "cione-test": "latest",
+        "cionstring": "latest",
+        "ciontek-cs10-print": "latest",
+        "cioo": "latest",
+        "ciot": "latest",
+        "ciot-databus-client": "latest",
+        "ciouco": "latest"
+    }
+}

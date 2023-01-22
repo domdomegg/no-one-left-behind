@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_enu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@enuesaa/simple-string-length-cli": "latest",
+        "@enum-all/gender": "latest",
+        "@enum/erate": "latest",
+        "@enumatech/hybrid-cache": "latest",
+        "@enumatech/onedrive-cli": "latest",
+        "@enumatech/secp256k1-js": "latest",
+        "@enumeratejs/enumerate-log": "latest",
+        "@enumiton/renum": "latest",
+        "@enumsoftware/core": "latest",
+        "@enumsoftware/ui-components": "latest",
+        "@enuves/eslint-config": "latest",
+        "@enuwat/elixir": "latest",
+        "@enuyguncom/enuygun-npm-test": "latest",
+        "@enuyguncom/inputmask": "latest",
+        "@enuyguncom/phone-input": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_datn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datnguyentickets/common": "latest",
+        "@datnn/helloworld-npm": "latest",
+        "@datnq/react-tw": "latest",
+        "@datns/api": "latest",
+        "@datns/contextual-modules": "latest",
+        "@datns/load-more": "latest",
+        "@datns/render-json": "latest",
+        "@datns/render-xml": "latest",
+        "@datns/service-worker": "latest",
+        "@datns/store-configuration": "latest",
+        "@datns/store-modules": "latest",
+        "@datns/toolbox": "latest",
+        "@datns/tslint-config": "latest",
+        "@datns/utils": "latest",
+        "@datntdev/cra-template": "latest",
+        "@datntdev/cra-template-redux-router": "latest",
+        "@datntoc/shared": "latest"
+    }
+}

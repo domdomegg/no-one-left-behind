@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_syf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@syfnick-cli/core": "latest",
+        "@syfnick-cli/utils": "latest",
+        "@syfrm/antd-online-beta220": "latest",
+        "@syfwl/filter-loader": "latest",
+        "@syfwl/png.js": "latest",
+        "@syfwl/suyi-cli": "latest",
+        "@syfxlin/depker": "latest",
+        "@syfxlin/depker-cli": "latest",
+        "@syfxlin/depker-client": "latest",
+        "@syfxlin/depker-plugin-mysql": "latest",
+        "@syfxlin/depker-plugin-pgsql": "latest",
+        "@syfxlin/depker-server": "latest",
+        "@syfxlin/gatsby-graphql-source-toolkit": "latest",
+        "@syfxlin/tiptap-starter-kit": "latest",
+        "@syfxlin/ustyled": "latest"
+    }
+}

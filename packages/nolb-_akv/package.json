@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_akv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@akv-demo/pkg1": "latest",
+        "@akv-demo2/pkg1": "latest",
+        "@akvaliya/ckeditor5-classic-doctoolbar": "latest",
+        "@akvdemo/pkg1": "latest",
+        "@akveo/ng2-completer": "latest",
+        "@akveo/nga-auth": "latest",
+        "@akveo/nga-theme": "latest"
+    }
+}

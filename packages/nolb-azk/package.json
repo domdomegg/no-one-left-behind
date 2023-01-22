@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-azk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "azk": "latest",
+        "azk-benchmark": "latest",
+        "azk-core": "latest",
+        "azk-dev": "latest",
+        "azk-parser": "latest",
+        "azk1": "latest",
+        "azk1510b": "latest",
+        "azka-server": "latest",
+        "azka_ui": "latest",
+        "azkaban_scheduler": "latest",
+        "azkar": "latest",
+        "azkhacorekhan-test-package": "latest",
+        "azkivam": "latest",
+        "azkvb": "latest",
+        "azkvs": "latest"
+    }
+}

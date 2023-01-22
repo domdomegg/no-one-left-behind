@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-gr8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gr8": "latest",
+        "gr8-dev": "latest",
+        "gr8-googleapis-aws": "latest",
+        "gr8-util": "latest",
+        "gr8m8-lib": "latest",
+        "gr8r": "latest"
+    }
+}

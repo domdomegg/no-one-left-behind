@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_axt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@axtell/esdoc-publish-html-plugin": "latest",
+        "@axtell/esdoc-standard-plugin": "latest",
+        "@axtg/moos-components": "latest",
+        "@axtickets/common": "latest",
+        "@axtk/event-manager": "latest",
+        "@axtk/immutable-store": "latest",
+        "@axtk/memory-storage": "latest",
+        "@axtk/react-router": "latest",
+        "@axtk/react-store": "latest",
+        "@axtk/router": "latest",
+        "@axtk/store": "latest",
+        "@axtk/volatile-storage": "latest",
+        "@axtlive-cli-dev/core": "latest",
+        "@axtlive-cli-dev/utils": "latest",
+        "@axtlive/demo": "latest",
+        "@axton-cli/core": "latest",
+        "@axton-cli/exec": "latest",
+        "@axton-cli/format-path": "latest",
+        "@axton-cli/get-npm-info": "latest",
+        "@axton-cli/init": "latest",
+        "@axton-cli/log": "latest",
+        "@axton-cli/package": "latest",
+        "@axton-cli/utils": "latest"
+    }
+}

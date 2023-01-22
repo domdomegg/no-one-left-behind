@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-packr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "packr": "latest",
+        "packr-cli": "latest",
+        "packr-win": "latest",
+        "packr-win-lin": "latest",
+        "packrat": "latest",
+        "packrat-ui": "latest",
+        "packratjs": "latest",
+        "packrattle": "latest",
+        "packrel": "latest",
+        "packrjs": "latest",
+        "packrup": "latest"
+    }
+}

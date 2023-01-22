@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_evd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@evd-components/react-lib": "latest",
+        "@evd3v/canvas-lottery-wheel": "latest",
+        "@evd3v/weather-cli": "latest",
+        "@evdatsion/cuspstakejs": "latest",
+        "@evdhiggins/airtable-sync": "latest",
+        "@evdhiggins/automate-this": "latest",
+        "@evdy-consumer/cloudcms-api-proxy": "latest",
+        "@evdy-consumer/cloudcms-caching": "latest",
+        "@evdy-consumer/cloudcms-internal-api": "latest",
+        "@evdy-consumer/cloudcms-internal-api-client": "latest",
+        "@evdy-consumer/cloudcms-workflow": "latest",
+        "@evdy-consumer/core-content-types": "latest",
+        "@evdy-consumer/do-content-types": "latest",
+        "@evdy-consumer/hydra-load-testing": "latest",
+        "@evdy-consumer/ma-ci-scripts": "latest",
+        "@evdy-consumer/ma-content-types": "latest"
+    }
+}

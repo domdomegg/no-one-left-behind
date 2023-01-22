@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-maro",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "maro": "latest",
+        "maro-rn": "latest",
+        "marocchino": "latest",
+        "marock-frame-print": "latest",
+        "marom": "latest",
+        "maron-cli": "latest",
+        "maronato-vue-cli-plugin-apollo": "latest",
+        "marong": "latest",
+        "marooka": "latest",
+        "maroom-ui": "latest",
+        "maroom-ui-kit": "latest",
+        "maroon": "latest",
+        "maroon-loader": "latest",
+        "maroon-react-crossword": "latest",
+        "maroon2": "latest",
+        "maroonlis-utils": "latest",
+        "marooon": "latest",
+        "maropost": "latest",
+        "maropost.api": "latest",
+        "marosharedcomponent": "latest",
+        "marotte": "latest"
+    }
+}

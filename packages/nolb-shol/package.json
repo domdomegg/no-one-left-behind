@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-shol",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sholat-api": "latest",
+        "sholat-api-riska": "latest",
+        "sholat-api-riska2": "latest",
+        "shold": "latest",
+        "sholiardi": "latest",
+        "sholom-ui-elements": "latest",
+        "sholom-workspace": "latest",
+        "sholomkasupermodule": "latest"
+    }
+}

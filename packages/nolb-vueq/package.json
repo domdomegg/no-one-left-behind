@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-vueq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vueq": "latest",
+        "vueq-dev": "latest",
+        "vueq-mobile-ui": "latest",
+        "vueqr-new": "latest",
+        "vuequery": "latest",
+        "vuequeryfilter": "latest",
+        "vuequill": "latest",
+        "vuequilleditor": "latest",
+        "vueqy": "latest",
+        "vueqyt": "latest"
+    }
+}

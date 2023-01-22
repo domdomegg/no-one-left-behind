@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-react-native-ts",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-ts": "latest",
+        "react-native-ts-atomic-template": "latest",
+        "react-native-ts-generator": "latest",
+        "react-native-ts-google-autocomplete": "latest",
+        "react-native-ts-to-mp4": "latest",
+        "react-native-ts-weston-template": "latest",
+        "react-native-tsc-print-manager-test": "latest",
+        "react-native-tscodegen": "latest",
+        "react-native-tscodegen-parser": "latest",
+        "react-native-tscodegen-types": "latest",
+        "react-native-tsingoct-tools": "latest",
+        "react-native-tss-app": "latest",
+        "react-native-tstyles": "latest",
+        "react-native-tsx": "latest"
+    }
+}

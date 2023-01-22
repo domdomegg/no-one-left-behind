@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_al-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@al-c/flatten-path": "latest",
+        "@al-chaudhari/ig": "latest",
+        "@al-custom-chips/ngx-chips": "latest",
+        "@al-ecomm/common": "latest",
+        "@al-engine/animation": "latest",
+        "@al-engine/asset": "latest",
+        "@al-engine/camera": "latest",
+        "@al-engine/collider": "latest",
+        "@al-engine/core": "latest",
+        "@al-engine/game_object": "latest",
+        "@al-engine/key_inputs": "latest",
+        "@al-engine/loading": "latest",
+        "@al-engine/message": "latest",
+        "@al-engine/message_ua": "latest",
+        "@al-engine/render": "latest",
+        "@al-engine/scale": "latest",
+        "@al-gfs-testing/my-lib": "latest",
+        "@al-mart/npm-course": "latest",
+        "@al-sh/test123": "latest",
+        "@al-soup/ts-utilities": "latest",
+        "@al-ticketing-dev/common": "latest",
+        "@al-un/wcl-build": "latest",
+        "@al-un/wcl-core": "latest",
+        "@al-un/wcl-lit-ts": "latest",
+        "@al-un/wcl-main": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-craa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "craa-template": "latest",
+        "craa-template-oracledb-helper": "latest",
+        "craaa-app": "latest",
+        "craazy": "latest"
+    }
+}

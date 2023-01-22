@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-marx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "marx": "latest",
+        "marx-compile": "latest",
+        "marx-core": "latest",
+        "marx-css": "latest",
+        "marx-editor": "latest",
+        "marx-editor-vc": "latest",
+        "marx-tool": "latest",
+        "marx_test": "latest",
+        "marxdown": "latest",
+        "marxian": "latest",
+        "marxieu": "latest",
+        "marxist": "latest",
+        "marxjs": "latest",
+        "marxup": "latest",
+        "marxx-gatsby-theme-intro": "latest"
+    }
+}

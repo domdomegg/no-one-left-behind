@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-ember-cli-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ember-cli-o": "latest",
+        "ember-cli-observe-all": "latest",
+        "ember-cli-octicons": "latest",
+        "ember-cli-odyssey": "latest",
+        "ember-cli-offline-js": "latest",
+        "ember-cli-offscreen-nav": "latest",
+        "ember-cli-ohmyval": "latest",
+        "ember-cli-olark": "latest",
+        "ember-cli-ololo": "latest",
+        "ember-cli-once": "latest",
+        "ember-cli-one-script": "latest",
+        "ember-cli-opal-rb": "latest",
+        "ember-cli-opbeat": "latest",
+        "ember-cli-open": "latest",
+        "ember-cli-openapi-generate": "latest",
+        "ember-cli-opendata-pages": "latest",
+        "ember-cli-openfin-excel-shim": "latest",
+        "ember-cli-openlayers-builder": "latest",
+        "ember-cli-openpgp-shim": "latest",
+        "ember-cli-opentok": "latest",
+        "ember-cli-opentok-calls": "latest",
+        "ember-cli-opinionated": "latest",
+        "ember-cli-optimize": "latest",
+        "ember-cli-opus-recorder": "latest",
+        "ember-cli-orgchart": "latest",
+        "ember-cli-origin-trials": "latest",
+        "ember-cli-owl-carousel": "latest"
+    }
+}

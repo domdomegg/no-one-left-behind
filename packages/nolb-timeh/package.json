@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-timeh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "timehandle": "latest",
+        "timehandlr": "latest",
+        "timehash": "latest",
+        "timehat": "latest",
+        "timehaze": "latest",
+        "timehelper": "latest",
+        "timehut-backup": "latest",
+        "timehut-backup-mac": "latest",
+        "timehut-backup-win": "latest",
+        "timehutbackup-win32": "latest"
+    }
+}

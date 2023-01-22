@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-random-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "random-jabo": "latest",
+        "random-japanese-characters": "latest",
+        "random-jcgr07": "latest",
+        "random-jg-messages": "latest",
+        "random-joke": "latest",
+        "random-joke-generator": "latest",
+        "random-joke-getter": "latest",
+        "random-jokes": "latest",
+        "random-jokes-api": "latest",
+        "random-jokes-gen": "latest",
+        "random-jpeg": "latest",
+        "random-jpn-emoji": "latest",
+        "random-js": "latest",
+        "random-js-no-node": "latest",
+        "random-json": "latest",
+        "random-json-generator": "latest",
+        "random-json-stream": "latest",
+        "random-json-users": "latest",
+        "random-jungle": "latest"
+    }
+}

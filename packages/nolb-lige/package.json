@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-lige",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ligeia_small_talk": "latest",
+        "liger-core": "latest",
+        "liger-periphery": "latest",
+        "liger-toolkit": "latest",
+        "ligero": "latest",
+        "ligerswap-sdk": "latest",
+        "ligerswap-uikit": "latest",
+        "ligeruiautodoc": "latest",
+        "liget": "latest",
+        "ligewei": "latest"
+    }
+}

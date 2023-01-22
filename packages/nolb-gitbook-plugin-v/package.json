@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-gitbook-plugin-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gitbook-plugin-validate-links": "latest",
+        "gitbook-plugin-valine": "latest",
+        "gitbook-plugin-valine-memfire": "latest",
+        "gitbook-plugin-variables": "latest",
+        "gitbook-plugin-vcharts": "latest",
+        "gitbook-plugin-verifications": "latest",
+        "gitbook-plugin-versioning": "latest",
+        "gitbook-plugin-versions": "latest",
+        "gitbook-plugin-versions-ory": "latest",
+        "gitbook-plugin-versions-select": "latest",
+        "gitbook-plugin-versions-select-revised": "latest",
+        "gitbook-plugin-video": "latest",
+        "gitbook-plugin-video-7dtime": "latest",
+        "gitbook-plugin-video2": "latest",
+        "gitbook-plugin-videoclips": "latest",
+        "gitbook-plugin-videos": "latest",
+        "gitbook-plugin-viewer": "latest",
+        "gitbook-plugin-vis": "latest",
+        "gitbook-plugin-visiondoc": "latest",
+        "gitbook-plugin-vistors-github": "latest",
+        "gitbook-plugin-visualizer": "latest",
+        "gitbook-plugin-viz": "latest",
+        "gitbook-plugin-viz.js": "latest",
+        "gitbook-plugin-vomer": "latest",
+        "gitbook-plugin-vuxcode": "latest"
+    }
+}

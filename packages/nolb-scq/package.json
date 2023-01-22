@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-scq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "scq": "latest",
+        "scq-input": "latest",
+        "scq-toast": "latest",
+        "scq-zk": "latest",
+        "scqnpm": "latest",
+        "scqs-sheets-stratpoint": "latest",
+        "scqy-vue-admin": "latest"
+    }
+}

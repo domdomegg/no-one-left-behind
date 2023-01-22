@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-matf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "matfin-slider": "latest",
+        "matflap": "latest",
+        "matfork-test-react-shared-app": "latest",
+        "matfork-test-react-shared-deep-app": "latest"
+    }
+}

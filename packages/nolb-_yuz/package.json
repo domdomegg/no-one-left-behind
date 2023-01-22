@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_yuz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yuzc/oceanjs": "latest",
+        "@yuzedong/egg-born": "latest",
+        "@yuzedong/egg-born-bin": "latest",
+        "@yuzedong/egg-born-init-config": "latest",
+        "@yuzedong/egg-init": "latest",
+        "@yuzedong/wantcms-front": "latest",
+        "@yuzhakova/lotide": "latest",
+        "@yuzhang9804/eslint-config": "latest",
+        "@yuzhang9804/eslint-config-basic": "latest",
+        "@yuzhang9804/eslint-config-react": "latest",
+        "@yuzhang9804/eslint-config-ts": "latest",
+        "@yuzhang9804/eslint-config-typescript": "latest",
+        "@yuzhang9804/eslint-config-vue": "latest",
+        "@yuzhiboyouzhu/mooneyetoast": "latest",
+        "@yuzhouu/editor-pro": "latest",
+        "@yuzhouu/editor-tables": "latest",
+        "@yuzhouu/prosemirror-utils": "latest",
+        "@yuzhouu/quiet": "latest",
+        "@yuzhouu/quiet-theme-dazzle": "latest",
+        "@yuzu-hq/stock-price-badge": "latest",
+        "@yuzu441/is-ulid": "latest",
+        "@yuzu441/prettier-config": "latest",
+        "@yuzulabo/any-router": "latest",
+        "@yuzulabo/eslint-config": "latest",
+        "@yuzulabo/prettier-config": "latest",
+        "@yuzulabo/query-types": "latest",
+        "@yuzuswap/eslint-config-yuzu": "latest",
+        "@yuzuswap/uikit": "latest"
+    }
+}

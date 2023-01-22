@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_gup",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gup-front/date-picker": "latest",
+        "@gup-front/webpack_guide": "latest",
+        "@guploader/invariant": "latest",
+        "@guploader/tapable": "latest",
+        "@guppsy/npmtest": "latest",
+        "@gupshup-io/gupshup-onedirect": "latest",
+        "@gupshup-io/samplepackage2": "latest",
+        "@gupshup/custom-component": "latest",
+        "@gupshup/reusable-custom-component": "latest",
+        "@gupshup/reusable-custom-components": "latest",
+        "@gupta-ji6/use-spotify": "latest",
+        "@gupta_anesh/mypackage": "latest",
+        "@guptak2/iiht_2": "latest",
+        "@guptak2/myownmodule": "latest",
+        "@guptak2/node": "latest",
+        "@guptak2/nodejs": "latest",
+        "@guptak2/scope_iiht": "latest",
+        "@guptak2/scope_package": "latest",
+        "@guptart/opensea": "latest",
+        "@guptart/sdk": "latest",
+        "@guptart/x2y2-sdk": "latest",
+        "@guptasiddhant/react-trigger": "latest",
+        "@guptasiddhant/theme-manager-js": "latest",
+        "@guptat/spfx-spstencil": "latest",
+        "@gupy-io/gupy-env": "latest"
+    }
+}

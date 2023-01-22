@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_ecc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ecc-npm/auth-common": "latest",
+        "@eccenca/dotfiles": "latest",
+        "@eccenca/gui-elements": "latest",
+        "@eccenca/gulp-tasks": "latest",
+        "@eccenca/material-design-lite": "latest",
+        "@eccenca/messagebus": "latest",
+        "@eccenca/superagent": "latest",
+        "@eccenca/utils": "latest",
+        "@eccentric-j/highland": "latest",
+        "@eccentric_dev/vuetimeline_custom_plus": "latest",
+        "@eccheuma/crusoris": "latest",
+        "@ecco-xyz/ecco-xyz-js": "latest",
+        "@eccocar/wizard-component": "latest",
+        "@eccosolutions/rjsf-antd": "latest",
+        "@eccosolutions/rjsf-bootstrap-4": "latest",
+        "@eccosolutions/rjsf-core": "latest",
+        "@eccosolutions/rjsf-fluent-ui": "latest",
+        "@eccosolutions/rjsf-material-ui": "latest",
+        "@eccosolutions/rjsf-semantic-ui": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-geok",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "geokan": "latest",
+        "geokbd-angular": "latest",
+        "geokbd.js": "latest",
+        "geokdbush": "latest",
+        "geokey": "latest",
+        "geokeyboard": "latest",
+        "geokit": "latest",
+        "geoko": "latest",
+        "geoko_test": "latest"
+    }
+}

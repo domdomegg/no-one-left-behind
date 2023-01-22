@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-crai",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "craie": "latest",
+        "craig": "latest",
+        "craig-common": "latest",
+        "craig-npm-foo-module": "latest",
+        "craig-test": "latest",
+        "craigaholliday.mvp.css": "latest",
+        "craiglister": "latest",
+        "craigslist-apa-parse": "latest",
+        "craigslist-api": "latest",
+        "craigslist-automation": "latest",
+        "craigslist-json-search": "latest",
+        "craigslist-scout": "latest",
+        "craigslist-search": "latest",
+        "craigslist-searcher": "latest",
+        "craigslist-stream": "latest",
+        "craigslist-utils": "latest",
+        "craigslist-watcher": "latest",
+        "craigslist-wayback-apa": "latest",
+        "craigslist.js": "latest",
+        "craigslistparser": "latest",
+        "craigsssmith-react-scripts": "latest",
+        "craigy": "latest",
+        "crainzo_function": "latest",
+        "craisp-palindrome": "latest",
+        "craitz-broker": "latest",
+        "craiyon": "latest"
+    }
+}

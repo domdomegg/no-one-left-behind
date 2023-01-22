@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-twis",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "twisearch": "latest",
+        "twiser": "latest",
+        "twist": "latest",
+        "twist-and-move": "latest",
+        "twist-api": "latest",
+        "twist-device-csv": "latest",
+        "twist-dl": "latest",
+        "twist-ui": "latest",
+        "twist900-test-package": "latest",
+        "twisted": "latest",
+        "twisted-axios": "latest",
+        "twisted-deferred": "latest",
+        "twisted-node": "latest",
+        "twisted-palindrome": "latest",
+        "twister-lib-js": "latest",
+        "twistermw-angular-component-generator": "latest",
+        "twisters": "latest",
+        "twisto-node-api": "latest",
+        "twistseed": "latest",
+        "twisttext": "latest",
+        "twisty": "latest",
+        "twistybot": "latest",
+        "twistz-tools": "latest"
+    }
+}

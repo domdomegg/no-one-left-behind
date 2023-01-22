@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-react-um",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-umami": "latest",
+        "react-umbrella": "latest",
+        "react-umd-boilerplate": "latest",
+        "react-umd-component-loader": "latest",
+        "react-umd-demo": "latest",
+        "react-umd-loader": "latest",
+        "react-umd-loader-uni": "latest",
+        "react-umeditor": "latest",
+        "react-umeditor-ali": "latest",
+        "react-umeditor-eatwood": "latest",
+        "react-umeditor-good": "latest",
+        "react-umeditor-ie": "latest",
+        "react-umeditor-pans": "latest",
+        "react-umeditor-roface": "latest",
+        "react-umeditor-thinker": "latest",
+        "react-umeditor-tiny": "latest",
+        "react-umeditor-zhj": "latest",
+        "react-umg": "latest",
+        "react-umw": "latest"
+    }
+}

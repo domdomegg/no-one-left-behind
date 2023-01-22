@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_n2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@n2/common": "latest",
+        "@n2/core": "latest",
+        "@n2/net": "latest",
+        "@n2/updater": "latest",
+        "@n22/cli": "latest",
+        "@n2liquid/graceful-fs": "latest",
+        "@n2ptune/pluto-ui": "latest",
+        "@n2tddt/common": "latest",
+        "@n2tnotes/local-api": "latest",
+        "@n2tnotes/local-client": "latest"
+    }
+}

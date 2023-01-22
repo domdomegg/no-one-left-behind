@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-ecv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ecv": "latest",
+        "ecv-dev-vgimonnet-tp2-exo1": "latest",
+        "ecv-paypal": "latest",
+        "ecv_nodeapi_tp2": "latest",
+        "ecvlaurentpackage": "latest",
+        "ecvrf": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-qio",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qio-design-tokens": "latest",
+        "qio-loading-indicator": "latest",
+        "qioajiyezuishuai": "latest",
+        "qioc": "latest",
+        "qiokian": "latest",
+        "qiokok": "latest",
+        "qiong": "latest",
+        "qiongguide-ziwo-jiushu": "latest",
+        "qiongren-jieli-furen-maili": "latest",
+        "qiongyin-zhiyuan-erlingereryiling": "latest",
+        "qiot-glob": "latest",
+        "qiot-id-gen": "latest",
+        "qiot-io-cli": "latest",
+        "qiot-io-kafka": "latest",
+        "qiot-io-logger": "latest",
+        "qiov-sortablejs": "latest",
+        "qiov-vehicle-login-core": "latest"
+    }
+}

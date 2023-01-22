@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_fek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@feki.de/semantic-release-yarn": "latest",
+        "@fekit/cookie": "latest",
+        "@fekit/fixed": "latest",
+        "@fekit/floor": "latest",
+        "@fekit/idcard": "latest",
+        "@fekit/inview": "latest",
+        "@fekit/lazyload": "latest",
+        "@fekit/mc-base": "latest",
+        "@fekit/mc-reset": "latest",
+        "@fekit/message": "latest",
+        "@fekit/react-iscroll": "latest",
+        "@fekit/react-layer": "latest",
+        "@fekit/react-store": "latest",
+        "@fekit/react-usestate-callback": "latest",
+        "@fekit/scale": "latest",
+        "@fekit/scrollto": "latest",
+        "@fekit/storage": "latest",
+        "@fekit/toast": "latest",
+        "@fekit/url": "latest",
+        "@fekit/utils": "latest",
+        "@fekit/vis": "latest",
+        "@fekit/vue-layer": "latest"
+    }
+}

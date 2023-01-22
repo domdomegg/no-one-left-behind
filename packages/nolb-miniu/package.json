@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-miniu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "miniu": "latest",
+        "miniu-lyra-dist": "latest",
+        "miniu-miniu-app": "latest",
+        "miniu-miniu-plugin": "latest",
+        "miniui-angular": "latest",
+        "miniui-components": "latest",
+        "miniui-jquery": "latest",
+        "miniui-plus": "latest",
+        "miniui-react": "latest",
+        "miniui-vue": "latest",
+        "minium": "latest",
+        "minium-node": "latest",
+        "minium-theme": "latest",
+        "miniup": "latest"
+    }
+}

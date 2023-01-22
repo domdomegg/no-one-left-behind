@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-slam",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "slam": "latest",
+        "slam-js": "latest",
+        "slamax": "latest",
+        "slambda": "latest",
+        "slambda-aws-dynamo": "latest",
+        "slambda-aws-lambda": "latest",
+        "slambda-local": "latest",
+        "slambda-utils": "latest",
+        "slambdack": "latest",
+        "slamby-api": "latest",
+        "slamby-sdk": "latest",
+        "slamby-sdk-angular2": "latest",
+        "slamdash": "latest",
+        "slamdb": "latest",
+        "slamdunk": "latest",
+        "slammy-router": "latest"
+    }
+}

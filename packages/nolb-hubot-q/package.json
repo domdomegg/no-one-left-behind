@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-hubot-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hubot-qagif-reactions": "latest",
+        "hubot-qiita": "latest",
+        "hubot-qiscus": "latest",
+        "hubot-qq": "latest",
+        "hubot-qr": "latest",
+        "hubot-qr-generator": "latest",
+        "hubot-quay": "latest",
+        "hubot-qubole": "latest",
+        "hubot-question-of-the-day": "latest",
+        "hubot-questionnaire-framework": "latest",
+        "hubot-queue": "latest",
+        "hubot-quiet": "latest",
+        "hubot-quip": "latest",
+        "hubot-quizbot": "latest",
+        "hubot-quizzfr": "latest",
+        "hubot-quote": "latest",
+        "hubot-quote-database": "latest",
+        "hubot-quote-grab": "latest",
+        "hubot-quotefile": "latest",
+        "hubot-quran": "latest",
+        "hubot-qwant": "latest",
+        "hubot-qwe": "latest",
+        "hubot-qwe123": "latest"
+    }
+}

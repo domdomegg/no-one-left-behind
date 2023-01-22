@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-hyj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hyj": "latest",
+        "hyj-better-scroll-react": "latest",
+        "hyj-cli": "latest",
+        "hyj-echarts-react": "latest",
+        "hyj-func": "latest",
+        "hyj-lib": "latest",
+        "hyj-test": "latest",
+        "hyj-test-npm": "latest",
+        "hyj-ui": "latest",
+        "hyj-user-auth": "latest",
+        "hyj-vue-cli": "latest",
+        "hyj123456": "latest",
+        "hyjack": "latest",
+        "hyjs": "latest",
+        "hyjssdk": "latest",
+        "hyjwall": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-juf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "juf": "latest",
+        "juf-gonzalo": "latest",
+        "juf_plguins": "latest",
+        "jufang": "latest",
+        "juff-mf-slider": "latest",
+        "juff-reddit-cli": "latest",
+        "juffer-xor": "latest",
+        "jufubao-base": "latest",
+        "jufubao-cashier": "latest",
+        "jufubao-movie": "latest"
+    }
+}

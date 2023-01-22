@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-homen",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "homenavies": "latest",
+        "homenavy": "latest",
+        "homenet": "latest",
+        "homenet-app": "latest",
+        "homenet-core": "latest",
+        "homenet-core-tsd": "latest",
+        "homenet-nodes": "latest",
+        "homenet-plugin-flic": "latest",
+        "homenet-plugin-hue": "latest",
+        "homenet-plugin-milight": "latest",
+        "homenet-plugin-ninjablock": "latest",
+        "homenet-plugin-zway": "latest",
+        "homeninja-nodehelper": "latest",
+        "homenode-master": "latest",
+        "homenode-node": "latest"
+    }
+}

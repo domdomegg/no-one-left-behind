@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-docf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "docfalcon-sdk": "latest",
+        "docfge": "latest",
+        "docfish": "latest",
+        "docflux": "latest",
+        "docfmt": "latest",
+        "docforce": "latest",
+        "docforge": "latest",
+        "docformats": "latest",
+        "docfragify": "latest",
+        "docframe": "latest",
+        "docfree": "latest",
+        "docfree-component-loader": "latest",
+        "docfree-components": "latest",
+        "docfree-generate": "latest",
+        "docfree-loader": "latest",
+        "docfree-prop-types": "latest",
+        "docfree-resolver": "latest",
+        "docfree-template": "latest",
+        "docfree-utils": "latest",
+        "docfree-webpack": "latest",
+        "docfx": "latest",
+        "docfx-dev": "latest",
+        "docfx-project": "latest",
+        "docfx-templates-basicblog": "latest",
+        "docfxjs": "latest",
+        "docfy": "latest"
+    }
+}

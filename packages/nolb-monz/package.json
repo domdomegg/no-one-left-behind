@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-monz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "monz": "latest",
+        "monz-toolkit": "latest",
+        "monza": "latest",
+        "monzgration": "latest",
+        "monzil-aglio": "latest",
+        "monzilla": "latest",
+        "monzilnepali-drafter": "latest",
+        "monzo": "latest",
+        "monzo-adaptor": "latest",
+        "monzo-api": "latest",
+        "monzo-bank": "latest",
+        "monzo-cli": "latest",
+        "monzo-js": "latest",
+        "monzo-node": "latest",
+        "monzo-oauth": "latest",
+        "monzo-ts": "latest",
+        "monzode": "latest",
+        "monzolib": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-stream2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stream2": "latest",
+        "stream2_varghese": "latest",
+        "stream2asynciter": "latest",
+        "stream2buffer": "latest",
+        "stream2file": "latest",
+        "stream2lines": "latest",
+        "stream2loggly": "latest",
+        "stream2multipart": "latest",
+        "stream2tv": "latest"
+    }
+}

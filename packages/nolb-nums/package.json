@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-nums",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nums": "latest",
+        "nums-from-array": "latest",
+        "nums-to-words-ru-lang": "latest",
+        "nums2eng": "latest",
+        "nums2persian": "latest",
+        "numscale": "latest",
+        "numschange": "latest",
+        "numscrubberjs": "latest",
+        "numsep": "latest",
+        "numseq": "latest",
+        "numsjs": "latest",
+        "numspell": "latest",
+        "numsploder": "latest",
+        "numstr": "latest",
+        "numstree": "latest",
+        "numsum": "latest",
+        "numsys": "latest"
+    }
+}

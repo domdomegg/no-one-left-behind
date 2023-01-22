@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-flax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "flax": "latest",
+        "flax-api": "latest",
+        "flax-dashboard-satellite": "latest",
+        "flax-dashboard-satellite-mg": "latest",
+        "flax-jsc": "latest",
+        "flaxa": "latest",
+        "flaxage": "latest",
+        "flaxc": "latest",
+        "flaxdy": "latest",
+        "flaxe": "latest",
+        "flaxom": "latest",
+        "flaxs": "latest",
+        "flaxx": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_apk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@apkahym/plugins": "latest",
+        "@apkasahil/tiny": "latest",
+        "@apkawa/liquor-tree": "latest",
+        "@apkawa/muicss": "latest",
+        "@apkawa/react-phone-input": "latest",
+        "@apkawa/vue-jstree": "latest",
+        "@apkjsnote/local-api": "latest",
+        "@apkjsnote/local-client": "latest",
+        "@apkudo/hive-module-app-config": "latest"
+    }
+}

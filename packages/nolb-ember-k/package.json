@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-ember-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ember-k": "latest",
+        "ember-k-codemod": "latest",
+        "ember-katex": "latest",
+        "ember-kayako": "latest",
+        "ember-keen": "latest",
+        "ember-keen-querying": "latest",
+        "ember-keen-tracking": "latest",
+        "ember-kendo-ui": "latest",
+        "ember-key-manager": "latest",
+        "ember-key-navigation": "latest",
+        "ember-key-responder": "latest",
+        "ember-keyboard": "latest",
+        "ember-keyboard-navigable-list": "latest",
+        "ember-keyboard-service": "latest",
+        "ember-keyboard-shortcuts": "latest",
+        "ember-keycloak-auth": "latest",
+        "ember-keyset-pagination": "latest",
+        "ember-keyword-complete": "latest",
+        "ember-kioskboard": "latest",
+        "ember-kiss-metrics": "latest",
+        "ember-kitchen-table": "latest",
+        "ember-kiwi": "latest",
+        "ember-kohactivated": "latest",
+        "ember-kojac": "latest",
+        "ember-konami": "latest",
+        "ember-konami-code": "latest",
+        "ember-konva": "latest"
+    }
+}

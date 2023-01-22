@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_test_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@test.virta/test_npm": "latest",
+        "@test_1/my_1_1_test": "latest",
+        "@test_1/test": "latest",
+        "@test_1/test1": "latest",
+        "@test_colin/npm-test-001": "latest",
+        "@test_colin/npm-test-002": "latest",
+        "@test_common/auth": "latest",
+        "@test_hehe/animation-fade-in": "latest",
+        "@test_leaf/leaf": "latest",
+        "@test_next/whds-component-library": "latest",
+        "@test_npm_publish/cms-components": "latest",
+        "@test_npm_publish/test_first_npm_publish": "latest",
+        "@test_plamfy/api": "latest",
+        "@test_plamfy/ui": "latest",
+        "@test_tcs_v/npm_commands": "latest",
+        "@test_ticketing/common": "latest"
+    }
+}

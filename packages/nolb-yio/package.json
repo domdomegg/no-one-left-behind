@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-yio",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yio": "latest",
+        "yio-app": "latest",
+        "yio-cli": "latest",
+        "yio-core": "latest",
+        "yio-elements": "latest",
+        "yio-q": "latest",
+        "yio-scaffold-pure": "latest",
+        "yio-test": "latest",
+        "yioa": "latest",
+        "yioio-js-fun": "latest",
+        "yiome": "latest",
+        "yion": "latest",
+        "yion-body-parser": "latest",
+        "yion-megaquery": "latest",
+        "yion-mongodb": "latest",
+        "yion-mongodb-socket": "latest",
+        "yion-oauth": "latest",
+        "yion-pug": "latest",
+        "yiot-sdk-rust": "latest",
+        "yiou-css-base": "latest"
+    }
+}

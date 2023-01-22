@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-objt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "objt": "latest",
+        "objtalk": "latest",
+        "objtojs": "latest",
+        "objtojs-oculushut": "latest",
+        "objtojson": "latest",
+        "objtools": "latest",
+        "objtoquery": "latest",
+        "objtrans": "latest",
+        "objtranspose": "latest",
+        "objtree": "latest",
+        "objts": "latest",
+        "objtube-avataaars": "latest"
+    }
+}

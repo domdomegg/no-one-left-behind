@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_luv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@luv.wadhwani/library-vx-utopus": "latest",
+        "@luv.wadhwani/utopus-vx-library": "latest",
+        "@luvargas1/enjoyhint": "latest",
+        "@luvella/discordia": "latest",
+        "@luvella/eslint-config": "latest",
+        "@luvella/firework": "latest",
+        "@luvies/business-rules": "latest",
+        "@luvies/config": "latest",
+        "@luvies/cors-proxy": "latest",
+        "@luvies/evaluator": "latest",
+        "@luvies/lazy": "latest",
+        "@luvies/publish-test-pkg": "latest",
+        "@luvies/publish-test-pkg2": "latest",
+        "@luvies/take": "latest",
+        "@luvio/adapter-test-library": "latest",
+        "@luvio/cli": "latest",
+        "@luvio/compiler": "latest",
+        "@luvio/engine": "latest",
+        "@luvio/environments": "latest",
+        "@luvio/graphql-parser": "latest",
+        "@luvio/lwc-lds": "latest",
+        "@luvio/lwc-luvio": "latest",
+        "@luvio/recipes": "latest",
+        "@luvkatie/tiny-prettier": "latest",
+        "@luvsharma1931/memory-profiler": "latest",
+        "@luvsic/himalaya": "latest",
+        "@luvuong-le/deep-comparison": "latest",
+        "@luvuong-le/rust-webassembly": "latest"
+    }
+}

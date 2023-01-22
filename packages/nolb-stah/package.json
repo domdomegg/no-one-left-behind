@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-stah",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stahlwerk": "latest",
+        "stahnout-pisnicky": "latest",
+        "stahp": "latest",
+        "stahp-theme-default": "latest",
+        "stahp-theme-jordan": "latest",
+        "stahpwatch": "latest",
+        "stahr-tools": "latest"
+    }
+}

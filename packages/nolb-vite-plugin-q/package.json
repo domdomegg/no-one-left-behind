@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-vite-plugin-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vite-plugin-qiankun": "latest",
+        "vite-plugin-qiankun-for-if": "latest",
+        "vite-plugin-qiankunjs": "latest",
+        "vite-plugin-qing-flexible": "latest",
+        "vite-plugin-qiniu": "latest",
+        "vite-plugin-qiniu-oss": "latest",
+        "vite-plugin-qrcode": "latest",
+        "vite-plugin-qrcode-terminal": "latest",
+        "vite-plugin-qwer": "latest"
+    }
+}

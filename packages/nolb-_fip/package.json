@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_fip",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fipnooone/hooks": "latest",
+        "@fipnooone/react-env": "latest",
+        "@fipnooone/react-modal": "latest",
+        "@fipp/compliments": "latest",
+        "@fippli/action-creator": "latest",
+        "@fippli/action-logger": "latest",
+        "@fippli/api-utils": "latest",
+        "@fippli/array-utils": "latest",
+        "@fippli/express-utils": "latest",
+        "@fippli/file-extensions": "latest",
+        "@fippli/flatuicolors.com": "latest",
+        "@fippli/generate-id": "latest",
+        "@fippli/math-utils": "latest",
+        "@fippli/nice-error": "latest",
+        "@fippli/snake-case-to-camel-case": "latest",
+        "@fippli/update-in": "latest",
+        "@fippli/youtube-url-parser": "latest"
+    }
+}

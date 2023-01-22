@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_aws-p",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aws-play/cdk-apigateway": "latest",
+        "@aws-play/cdk-cicd": "latest",
+        "@aws-play/cdk-constants": "latest",
+        "@aws-play/cdk-core": "latest",
+        "@aws-play/cdk-lambda": "latest",
+        "@aws-play/cdk-web": "latest",
+        "@aws-play/config-commitlint": "latest",
+        "@aws-play/eslint-config": "latest",
+        "@aws-play/tool-hygen": "latest",
+        "@aws-prototyping-sdk/aws-arch": "latest",
+        "@aws-prototyping-sdk/awsui-react-ts-website": "latest",
+        "@aws-prototyping-sdk/cdk-graph": "latest",
+        "@aws-prototyping-sdk/cdk-graph-plugin-diagram": "latest",
+        "@aws-prototyping-sdk/cloudscape-react-ts-website": "latest",
+        "@aws-prototyping-sdk/identity": "latest",
+        "@aws-prototyping-sdk/nx-monorepo": "latest",
+        "@aws-prototyping-sdk/open-api-gateway": "latest",
+        "@aws-prototyping-sdk/pdk-nag": "latest",
+        "@aws-prototyping-sdk/pipeline": "latest",
+        "@aws-prototyping-sdk/static-website": "latest"
+    }
+}

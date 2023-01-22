@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-supery",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "superyanui": "latest",
+        "superyay": "latest",
+        "superyoung": "latest",
+        "superyoung-js": "latest",
+        "superyoung-ui": "latest",
+        "superyq-npm-demo": "latest",
+        "superyq-userbox": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-db2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "db2": "latest",
+        "db2-on-cloud-rest": "latest",
+        "db2-rest-client": "latest",
+        "db2-wrapper": "latest",
+        "db23devcamp-js-footer": "latest",
+        "db2crud": "latest",
+        "db2doc": "latest",
+        "db2geojson": "latest",
+        "db2graphql": "latest",
+        "db2lib": "latest",
+        "db2md": "latest",
+        "db2md-cli": "latest",
+        "db2nodemod": "latest",
+        "db2objection": "latest",
+        "db2orm": "latest",
+        "db2pool": "latest",
+        "db2r": "latest"
+    }
+}

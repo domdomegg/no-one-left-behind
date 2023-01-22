@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-plv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "plv8": "latest",
+        "plv8-git": "latest",
+        "plv8-mantle": "latest",
+        "plv8-turbo": "latest",
+        "plv8ify": "latest",
+        "plv8ts": "latest",
+        "plv8x": "latest",
+        "plvx-evaluation-flow-test": "latest",
+        "plvylist": "latest"
+    }
+}

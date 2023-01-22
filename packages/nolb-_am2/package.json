@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_am2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@am271/my-package": "latest",
+        "@am271/phone-book": "latest",
+        "@am271/phonebook": "latest",
+        "@am271/url-shortener": "latest"
+    }
+}

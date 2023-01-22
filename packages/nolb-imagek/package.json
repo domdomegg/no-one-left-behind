@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-imagek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "imagekit": "latest",
+        "imagekit-ckeditor5-plugin": "latest",
+        "imagekit-javascript": "latest",
+        "imagekit-media-library-widget": "latest",
+        "imagekit-react": "latest",
+        "imagekit-react-hook": "latest",
+        "imagekit-ui-kit": "latest",
+        "imagekit-uppy-plugin": "latest",
+        "imagekit-vue3": "latest",
+        "imagekitio-angular": "latest",
+        "imagekitio-react": "latest",
+        "imagekitio-vue": "latest"
+    }
+}

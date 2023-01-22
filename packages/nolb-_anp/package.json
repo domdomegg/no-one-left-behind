@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_anp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@anpanman/opencv-wasm": "latest",
+        "@anpanman/opencv_ts": "latest",
+        "@anpanswap-libs/anpan-swap-core": "latest",
+        "@anpanswap-libs/eslint-config-anpan": "latest",
+        "@anpanswap-libs/sdk": "latest",
+        "@anpanswap-libs/uikit": "latest",
+        "@anpanswap/anpans-swap-core": "latest",
+        "@anpanswap/eslint-config-anpans": "latest",
+        "@anpanswap/sdk": "latest",
+        "@anpanswap/uikit": "latest",
+        "@anpato/super-clone": "latest",
+        "@anpham1925/nestjs": "latest",
+        "@anphung/hello-wasm": "latest",
+        "@anpingli/database": "latest",
+        "@anpingli/diplomat": "latest",
+        "@anpingli/mrm-preset": "latest"
+    }
+}

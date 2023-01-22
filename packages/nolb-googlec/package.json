@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-googlec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "googlecalander": "latest",
+        "googlecalendersaswati": "latest",
+        "googlecli": "latest",
+        "googleclient-srdn": "latest",
+        "googleclientlogin": "latest",
+        "googlecloud-edge-locations": "latest",
+        "googlecn": "latest",
+        "googlecn-translate-api": "latest",
+        "googlecn-translate-token": "latest",
+        "googlecontacts": "latest",
+        "googlecustomsearch": "latest"
+    }
+}

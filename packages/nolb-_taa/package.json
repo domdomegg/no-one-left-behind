@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_taa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@taadis/s-cli": "latest",
+        "@taadis/san-cli": "latest",
+        "@taaesan-lab/common": "latest",
+        "@taal-enterprise/shared-components": "latest",
+        "@taalpha/react-downloader": "latest",
+        "@taariql/cosmwasm-faucet": "latest",
+        "@taariql/irisnet-crypto": "latest",
+        "@taariql/salad_client": "latest"
+    }
+}

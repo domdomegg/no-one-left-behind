@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_lah",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lahaus-web-components/lhwc-documents": "latest",
+        "@lahautesociete/data-store": "latest",
+        "@lahautesociete/jquery-component": "latest",
+        "@lahautesociete/load-grunt-tasks": "latest",
+        "@lahautesociete/parallax": "latest",
+        "@lahautesociete/styledown": "latest",
+        "@lahautesociete/styleguide": "latest",
+        "@lahautesociete/vue-parallax": "latest",
+        "@lahav/auto-pagination": "latest",
+        "@lahcene-dergham-tickets/common": "latest",
+        "@lahfir/url-extractor": "latest",
+        "@lahiru98/react-dynamic-forms": "latest",
+        "@lahmatiy/jison": "latest",
+        "@lahoco/node-red-contrib-lahoco-core": "latest",
+        "@lahoco/node-red-contrib-lahoco-extras": "latest",
+        "@lahzenegar/bbcode-to-react": "latest",
+        "@lahzenegar/emoji-mart": "latest",
+        "@lahzenegar/moment-jalaali": "latest",
+        "@lahzenegar/react-checkbox-group": "latest",
+        "@lahzenegar/react-drop-n-crop": "latest",
+        "@lahzenegar/react-tv-navigation": "latest",
+        "@lahzenegar/video-react": "latest"
+    }
+}

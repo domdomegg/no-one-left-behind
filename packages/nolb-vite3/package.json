@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-vite3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vite3-plugin-express": "latest",
+        "vite3-plugin-glslify": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-dsn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dsn": "latest",
+        "dsn-parser": "latest",
+        "dsn-scripts": "latest",
+        "dsn.js": "latest",
+        "dsn_hello_world": "latest",
+        "dsncore": "latest",
+        "dsnet": "latest",
+        "dsnet.js": "latest",
+        "dsnippets": "latest",
+        "dsnit-core": "latest",
+        "dsny-component-library": "latest",
+        "dsny_dashboard": "latest",
+        "dsnyauto": "latest"
+    }
+}

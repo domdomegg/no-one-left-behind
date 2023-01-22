@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-openx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "openx": "latest",
+        "openxcom-namegen": "latest",
+        "openxln": "latest",
+        "openxml": "latest",
+        "openxml-js": "latest",
+        "openxnft-sdk": "latest",
+        "openxs": "latest",
+        "openxswap-sdk": "latest",
+        "openxum": "latest",
+        "openxxx": "latest"
+    }
+}

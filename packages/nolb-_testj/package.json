@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_testj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@testjcrui/core": "latest",
+        "@testjcrui/table": "latest",
+        "@testjcrui/tools": "latest",
+        "@testjg/nativescript-datetimeselector": "latest",
+        "@testjg/nativescript-filepicker": "latest",
+        "@testjg/nativescript-guid": "latest",
+        "@testjg/nativescript-http": "latest",
+        "@testjg/nativescript-nfc": "latest",
+        "@testjg/nativescript-sqlite": "latest",
+        "@testjs_/testjs": "latest",
+        "@testjub/test-scope": "latest"
+    }
+}

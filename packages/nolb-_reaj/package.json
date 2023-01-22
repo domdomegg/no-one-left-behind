@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_reaj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reajet/last-npm-release": "latest",
+        "@reajet/validate-commit": "latest",
+        "@reajure/hscript": "latest",
+        "@reajure/native": "latest",
+        "@reajuria/account-common": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-fisx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fisx": "latest",
+        "fisx-amd": "latest",
+        "fisx-command-cache": "latest",
+        "fisx-command-init": "latest",
+        "fisx-command-install": "latest",
+        "fisx-command-list": "latest",
+        "fisx-command-search": "latest",
+        "fisx-command-server": "latest",
+        "fisx-command-uninstall": "latest",
+        "fisx-command-update": "latest",
+        "fisx-helper": "latest",
+        "fisx-hook-amd": "latest",
+        "fisx-hook-relative": "latest",
+        "fisx-package": "latest",
+        "fisx-packager-static": "latest",
+        "fisx-parser-vue": "latest",
+        "fisx-prepackager-babel": "latest",
+        "fisx-preprocessor-amd": "latest",
+        "fisx-preprocessor-babel": "latest",
+        "fisx-vue-loader": "latest",
+        "fisx-vue1-loader": "latest"
+    }
+}

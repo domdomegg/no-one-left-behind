@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-lion-f",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lion-fathi-lib": "latest",
+        "lion-fd": "latest",
+        "lion-fir_yy98989": "latest",
+        "lion-firasu": "latest",
+        "lion-fixture": "latest",
+        "lion-flib-ferlohacks": "latest",
+        "lion-form": "latest"
+    }
+}

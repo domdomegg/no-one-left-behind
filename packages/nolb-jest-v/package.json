@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-jest-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jest-validate": "latest",
+        "jest-verify-node-version": "latest",
+        "jest-video-reporter": "latest",
+        "jest-vim-reporter": "latest",
+        "jest-visual-regression": "latest",
+        "jest-vtu": "latest",
+        "jest-vue": "latest",
+        "jest-vue-emotion": "latest",
+        "jest-vue-matcher": "latest",
+        "jest-vue-preprocessor": "latest",
+        "jest-vue-preprocessor-wsm": "latest",
+        "jest-vue-report": "latest"
+    }
+}

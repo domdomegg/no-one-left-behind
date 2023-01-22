@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_material-icon-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/material-icon-yard-filled": "latest",
+        "@hyper.fun/material-icon-yard-outlined": "latest",
+        "@hyper.fun/material-icon-yard-round": "latest",
+        "@hyper.fun/material-icon-yard-sharp": "latest",
+        "@hyper.fun/material-icon-yard-twotone": "latest",
+        "@hyper.fun/material-icon-youtube-searched-for-filled": "latest",
+        "@hyper.fun/material-icon-youtube-searched-for-outlined": "latest",
+        "@hyper.fun/material-icon-youtube-searched-for-round": "latest",
+        "@hyper.fun/material-icon-youtube-searched-for-sharp": "latest",
+        "@hyper.fun/material-icon-youtube-searched-for-twotone": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_mett",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@metta/mt-v-alert": "latest",
+        "@metta/mt-v-auth": "latest",
+        "@metta/mt-v-barrasuperior": "latest",
+        "@metta/mt-v-calendar": "latest",
+        "@metta/mt-v-datatable-crud": "latest",
+        "@metta/mt-v-dialog": "latest",
+        "@metta/mt-v-filepond": "latest",
+        "@metta/mt-v-form": "latest",
+        "@metta/mt-v-icon": "latest",
+        "@metta/mt-v-iconevoltar": "latest",
+        "@metta/mt-v-loading": "latest",
+        "@metta/mt-v-menubloco": "latest",
+        "@metta/mt-v-menucircular-usuario": "latest",
+        "@metta/mt-v-plugin-global": "latest",
+        "@metta/mt-vue-framework": "latest",
+        "@mettius/create-discord-bot": "latest",
+        "@mettl/codemirror-ts": "latest",
+        "@mettl/mettl-corporate-header": "latest",
+        "@mettl/rr-dblysis-react-web": "latest",
+        "@mettrr/vue-components": "latest",
+        "@mettz/nano-react-cli": "latest"
+    }
+}

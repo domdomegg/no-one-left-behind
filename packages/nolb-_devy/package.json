@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_devy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@devyboy/streak-counter": "latest",
+        "@devyeshtandon/ck5-custom-build-mm": "latest",
+        "@devyourcar/api-utils": "latest",
+        "@devyourcar/autoplay-client": "latest",
+        "@devyourcar/eslint-config-jnprt": "latest",
+        "@devyourcar/generator": "latest",
+        "@devyourcar/utils": "latest",
+        "@devyr/mdl2-ui-icons": "latest",
+        "@devyr/vuejs-webpack-template": "latest",
+        "@devyuga/yml-migrator": "latest"
+    }
+}

@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_am0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@am0nshi/react-preloaders": "latest",
+        "@am0nshi/react-yandex-metrika": "latest"
+    }
+}

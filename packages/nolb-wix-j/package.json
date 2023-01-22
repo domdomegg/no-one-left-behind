@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-wix-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wix-jaeger-testkit": "latest",
+        "wix-js-framework": "latest",
+        "wix-js-stack": "latest",
+        "wix-js-stack-test-mantas": "latest",
+        "wix-jsdoc-babel": "latest",
+        "wix-json-rpc-client": "latest",
+        "wix-json-rpc-metering": "latest",
+        "wix-json-rpc-server": "latest",
+        "wix-json-schema-utils": "latest",
+        "wix-jvm-bootstrap-testkit": "latest",
+        "wix-jvm-tool": "latest",
+        "wix-jws-signer": "latest"
+    }
+}

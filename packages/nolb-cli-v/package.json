@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-cli-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cli-vanilla": "latest",
+        "cli-vbox": "latest",
+        "cli-vda-fyc": "latest",
+        "cli-version-checker": "latest",
+        "cli-version-marker": "latest",
+        "cli-view": "latest",
+        "cli-vive": "latest",
+        "cli-voice": "latest",
+        "cli-vue": "latest",
+        "cli-vue-map": "latest",
+        "cli-vue-mpa": "latest",
+        "cli-vue2": "latest"
+    }
+}

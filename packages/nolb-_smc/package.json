@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_smc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@smc-ens-dig/plugin-child": "latest",
+        "@smc-ens-dig/plugin-parent": "latest",
+        "@smc-ens-dig/plugin-second-order-child": "latest",
+        "@smc-gateway/test": "latest",
+        "@smccarrick/sm-config": "latest",
+        "@smclab/create-react-app-liferay-proxy": "latest",
+        "@smclab/liferay-theme-autoprefixer-hook": "latest",
+        "@smclab/liferay-theme-babel-hook": "latest",
+        "@smclab/stylelint-dxp-theme": "latest",
+        "@smcloudstore/aws-s3": "latest",
+        "@smcloudstore/azure-storage": "latest",
+        "@smcloudstore/backblaze-b2": "latest",
+        "@smcloudstore/core": "latest",
+        "@smcloudstore/generic-s3": "latest",
+        "@smcloudstore/google-cloud-storage": "latest",
+        "@smcloudstore/minio": "latest",
+        "@smcp/core": "latest",
+        "@smctickets/common": "latest",
+        "@smcv/babel-preset": "latest",
+        "@smcv/eslint-config": "latest",
+        "@smcv/eslint-config-browser": "latest",
+        "@smcv/eslint-config-vue": "latest",
+        "@smcv/parcel-config": "latest",
+        "@smcv/stylelint-config": "latest"
+    }
+}

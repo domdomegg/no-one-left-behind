@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-eslint-e",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslint-ebay": "latest",
+        "eslint-ecma-features": "latest",
+        "eslint-embedded-rules-docs": "latest",
+        "eslint-emit-reporter": "latest",
+        "eslint-engine": "latest",
+        "eslint-env-default": "latest",
+        "eslint-error-visualization": "latest",
+        "eslint-errors-visualizer": "latest",
+        "eslint-es6-promoter": "latest",
+        "eslint-eslines": "latest",
+        "eslint-etc": "latest",
+        "eslint-etcdigital": "latest",
+        "eslint-evaluator": "latest",
+        "eslint-explainer": "latest",
+        "eslint-ext": "latest",
+        "eslint-extends-callbacks": "latest",
+        "eslint-extjs": "latest"
+    }
+}

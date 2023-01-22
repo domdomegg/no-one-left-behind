@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-pan_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pan.js": "latest",
+        "pan.ts": "latest",
+        "pan_12_121": "latest",
+        "pan_baoke12.15rkxzxxkslx": "latest",
+        "pan_baokediyicirekao": "latest",
+        "pan_components": "latest",
+        "pan_copyme": "latest",
+        "pan_zagloba": "latest",
+        "pan_zagloba_react": "latest"
+    }
+}

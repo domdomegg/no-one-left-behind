@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-webpack-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "webpack-qc-iconfont-plugin": "latest",
+        "webpack-qiniu": "latest",
+        "webpack-qiniu-cdn-plugin": "latest",
+        "webpack-qiniu-plugin": "latest",
+        "webpack-qiniu-upload": "latest",
+        "webpack-qiniu-upload-plugin": "latest",
+        "webpack-qrcode-plugin": "latest",
+        "webpack-quanbo-dome1": "latest",
+        "webpack-querify": "latest",
+        "webpack-query-creator": "latest",
+        "webpack-query-loader": "latest",
+        "webpack-quickly-starter": "latest",
+        "webpack-quotes": "latest"
+    }
+}

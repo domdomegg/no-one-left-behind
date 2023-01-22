@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-cyh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cyh": "latest",
+        "cyh-imooc-test": "latest",
+        "cyh-imooc-test-lib": "latest",
+        "cyh-test33": "latest",
+        "cyh-utils": "latest",
+        "cyh.zk1": "latest",
+        "cyheroes": "latest",
+        "cyhlesson0": "latest",
+        "cyhlesson2": "latest",
+        "cyhtest": "latest",
+        "cyhui111": "latest"
+    }
+}

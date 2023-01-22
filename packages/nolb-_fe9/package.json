@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_fe9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fe92star/eslint-config": "latest",
+        "@fe92star/eslint-config-basic": "latest",
+        "@fe92star/eslint-config-prettier": "latest",
+        "@fe92star/eslint-config-react": "latest",
+        "@fe92star/eslint-config-ts": "latest",
+        "@fe92star/eslint-config-vue": "latest"
+    }
+}

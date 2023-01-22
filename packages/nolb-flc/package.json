@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-flc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "flc": "latest",
+        "flc-api": "latest",
+        "flc-component": "latest",
+        "flc-pokemon-gen": "latest",
+        "flcl-delhivery": "latest",
+        "flclient": "latest",
+        "flclover": "latest",
+        "flclover-boilerplate-simple": "latest",
+        "flclover-cors": "latest",
+        "flclover-init": "latest",
+        "flclover-init-config": "latest",
+        "flclover-memory-store": "latest",
+        "flclover-mongoose": "latest",
+        "flclover-proxy": "latest",
+        "flclover-schedule": "latest",
+        "flcoder-packagejs": "latest",
+        "flcoderjs": "latest",
+        "flcom": "latest",
+        "flcommunity": "latest",
+        "flcomponents": "latest",
+        "flconf": "latest",
+        "flcreate": "latest",
+        "flcronoscli": "latest",
+        "flcsb": "latest",
+        "flcss": "latest",
+        "flczh": "latest",
+        "flczs": "latest",
+        "flczz": "latest"
+    }
+}

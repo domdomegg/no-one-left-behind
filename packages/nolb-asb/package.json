@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-asb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "asb-admin": "latest",
+        "asb-cli": "latest",
+        "asb-dnd": "latest",
+        "asb-jwk": "latest",
+        "asb-library": "latest",
+        "asb-library-test": "latest",
+        "asb-screenmode": "latest",
+        "asb-ui-icons": "latest",
+        "asb-vue-components": "latest",
+        "asbanday-react-native-stopwatch-timer": "latest",
+        "asbestos": "latest",
+        "asbestos.domain": "latest",
+        "asbmodules": "latest",
+        "asbox": "latest",
+        "asbs-lib": "latest",
+        "asbs-server": "latest",
+        "asbui": "latest",
+        "asbuild": "latest",
+        "asbundle": "latest",
+        "asbycountry": "latest"
+    }
+}

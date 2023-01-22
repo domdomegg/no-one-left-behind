@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-axl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "axl": "latest",
+        "axl-browser-tools": "latest",
+        "axl-cli": "latest",
+        "axl-hls.js": "latest",
+        "axl-js-toolbox": "latest",
+        "axl-mock-proxy": "latest",
+        "axl-node-soap": "latest",
+        "axl-node-toolbox": "latest",
+        "axl-react-countdown": "latest",
+        "axl-react-fixed-nav": "latest",
+        "axlam": "latest",
+        "axle": "latest",
+        "axlejs": "latest",
+        "axles": "latest",
+        "axletree": "latest",
+        "axletree-command-create": "latest",
+        "axletree-command-init": "latest",
+        "axletree-kernel": "latest",
+        "axloader": "latest",
+        "axlog": "latest",
+        "axls": "latest",
+        "axlsign": "latest",
+        "axlsort": "latest"
+    }
+}

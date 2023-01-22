@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-dyy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dyy": "latest",
+        "dyy-button": "latest",
+        "dyy-cli": "latest",
+        "dyy-utils": "latest",
+        "dyy-vue-components": "latest",
+        "dyy-xy-list": "latest",
+        "dyy_project_node": "latest",
+        "dyy_ui": "latest",
+        "dyyao-cli": "latest",
+        "dyyao-cli-lib": "latest",
+        "dyylearnone": "latest",
+        "dyymyappdd": "latest",
+        "dyymytooljs": "latest",
+        "dyyoutubejs": "latest",
+        "dyyoutubelazyloadjs": "latest",
+        "dyys-hiprint": "latest",
+        "dyytestm": "latest",
+        "dyyyl": "latest"
+    }
+}

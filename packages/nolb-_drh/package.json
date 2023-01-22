@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_drh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@drhalley/first-module": "latest",
+        "@drhuy/event": "latest",
+        "@drhuy/event-handle": "latest",
+        "@drhuy/game-base": "latest",
+        "@drhuy/infobase": "latest",
+        "@drhuy/loto-base": "latest",
+        "@drhuy/player": "latest",
+        "@drhuy/request-base": "latest",
+        "@drhuy/rooms": "latest",
+        "@drhuy/rooms_base": "latest",
+        "@drhuy/socket-app-base": "latest",
+        "@drhuy/socket-rooms": "latest"
+    }
+}

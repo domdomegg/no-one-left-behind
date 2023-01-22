@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_typesh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@typeshell/cmd-type": "latest",
+        "@typeshell/crypto": "latest",
+        "@typeshell/env": "latest",
+        "@typeshell/iterator": "latest",
+        "@typeshell/iterator-utils": "latest",
+        "@typeshell/nodeshell": "latest",
+        "@typeshell/os-command": "latest",
+        "@typeshell/process-utils": "latest",
+        "@typeshell/promise": "latest",
+        "@typeshell/promise-utils": "latest",
+        "@typeshell/repl3": "latest",
+        "@typeshell/semantic": "latest",
+        "@typeshell/stream": "latest",
+        "@typeshell/stream-utils": "latest",
+        "@typeshell/string-utils": "latest",
+        "@typeshell/tslint-rules": "latest",
+        "@typeshield/http": "latest",
+        "@typeshield/stype": "latest"
+    }
+}

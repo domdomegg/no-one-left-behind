@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-semp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "semperis-assets": "latest",
+        "semplate": "latest",
+        "sempli": "latest",
+        "sempli-cli": "latest",
+        "sempli-i18n": "latest",
+        "sempli-website-lib": "latest",
+        "semplice": "latest",
+        "semplice-cli": "latest",
+        "semplice-client": "latest",
+        "semplice-watch": "latest",
+        "semplices": "latest",
+        "semppl": "latest",
+        "semptian-components-ui": "latest",
+        "sempub": "latest"
+    }
+}

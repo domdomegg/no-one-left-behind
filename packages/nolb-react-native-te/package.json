@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-react-native-te",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-te": "latest",
+        "@zalastax/nolb-react-native-tea": "latest",
+        "@zalastax/nolb-react-native-tec": "latest",
+        "@zalastax/nolb-react-native-tek": "latest",
+        "@zalastax/nolb-react-native-tel": "latest",
+        "@zalastax/nolb-react-native-tem": "latest",
+        "@zalastax/nolb-react-native-ten": "latest",
+        "@zalastax/nolb-react-native-ter": "latest",
+        "@zalastax/nolb-react-native-tes": "latest",
+        "@zalastax/nolb-react-native-tet": "latest",
+        "@zalastax/nolb-react-native-tex": "latest"
+    }
+}

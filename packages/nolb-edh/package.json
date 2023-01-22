@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-edh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "edh-js-arrays": "latest",
+        "edh-random-string": "latest",
+        "edh-widgets": "latest",
+        "edhexlet2": "latest",
+        "edhi_validation": "latest",
+        "edhrec-new-cards-tracker": "latest"
+    }
+}

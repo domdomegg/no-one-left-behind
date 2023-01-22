@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-s9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "s9": "latest",
+        "s900": "latest",
+        "s91-cli": "latest",
+        "s935613": "latest",
+        "s94-editor": "latest",
+        "s94-file": "latest",
+        "s94-imgclip": "latest",
+        "s94-inputdate": "latest",
+        "s94-node": "latest",
+        "s94-require": "latest",
+        "s94-web": "latest",
+        "s98-to-vgm": "latest",
+        "s9a": "latest",
+        "s9s-angular-templates": "latest",
+        "s9s-cloudlink": "latest",
+        "s9s-cloudlink-api": "latest",
+        "s9s-docs": "latest",
+        "s9s-filesystem": "latest",
+        "s9s-http": "latest",
+        "s9s-jsdox": "latest",
+        "s9s-loader": "latest",
+        "s9s-namespace": "latest",
+        "s9s-objects": "latest",
+        "s9s-plugin-mail": "latest",
+        "s9s-plugin-pagerduty": "latest",
+        "s9s-ssh": "latest"
+    }
+}

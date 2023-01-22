@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_tsn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tsndr/aws-lambda-router": "latest",
+        "@tsndr/cloudflare-worker-jwt": "latest",
+        "@tsndr/cloudflare-worker-router": "latest",
+        "@tsndr/npm-test-repo": "latest",
+        "@tsnobip/isotrope": "latest",
+        "@tsnobip/reason-lambda": "latest",
+        "@tsnote/local-api": "latest",
+        "@tsnote/local-client": "latest",
+        "@tsnotebook/local-api": "latest",
+        "@tsnotebook/local-client": "latest",
+        "@tsnp/ongit": "latest"
+    }
+}

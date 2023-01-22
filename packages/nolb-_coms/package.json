@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_coms",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@comsci/js-practice": "latest",
+        "@comsemrel/interfaces": "latest",
+        "@comsemrel/typescript-vfs-compiler": "latest",
+        "@comsma/apollo-datasource-grpc": "latest",
+        "@comsoc/gatsby-mdast-copy-linked-files": "latest",
+        "@comsoc/gatsby-transformer-mdast": "latest",
+        "@comsoc/timothy": "latest"
+    }
+}

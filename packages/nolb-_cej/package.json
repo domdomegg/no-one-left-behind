@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_cej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cejixo3dr/ckeditor5-build-decoupled-document": "latest",
+        "@cejixo3dr/ckeditor5-image": "latest",
+        "@cejixo3dr/core-framework-angular": "latest"
+    }
+}

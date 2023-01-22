@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-appu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "appui": "latest",
+        "appulang": "latest",
+        "appunfol-plugin": "latest",
+        "appunfold-admin-plugin": "latest",
+        "appunfold-plugin": "latest",
+        "appunfold-sdk-plugin": "latest",
+        "appunto-data-grid": "latest",
+        "appup": "latest",
+        "appup-comp-form": "latest",
+        "appupdate": "latest",
+        "appupdate_erelego": "latest",
+        "appupdatejson": "latest",
+        "appupdateplugin": "latest",
+        "appupgrade-cli": "latest",
+        "appupworkflow": "latest",
+        "appuri-event-api-client": "latest",
+        "appuri-event-validator": "latest",
+        "appuri-highwatermark": "latest",
+        "appuri-loader-transform": "latest",
+        "appurl": "latest",
+        "apputility": "latest",
+        "apputilnode": "latest",
+        "apputils": "latest"
+    }
+}

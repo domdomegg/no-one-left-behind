@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-xiam",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "xiamen": "latest",
+        "xiamenbest": "latest",
+        "xiami": "latest",
+        "xiami-decoder": "latest",
+        "xiami-vue-cli": "latest",
+        "xiamidaxia": "latest",
+        "xiamo0201": "latest",
+        "xiamo0201-cli": "latest",
+        "xiamomo": "latest",
+        "xiamu-util": "latest"
+    }
+}

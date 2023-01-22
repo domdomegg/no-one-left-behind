@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-webpi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "webpie-01": "latest",
+        "webpiecedemo": "latest",
+        "webpimagereact": "latest",
+        "webpinfo": "latest",
+        "webpinfog": "latest",
+        "webpinger": "latest",
+        "webpipe": "latest",
+        "webpivottable": "latest",
+        "webpizi": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-magm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "magma": "latest",
+        "magma-canvas": "latest",
+        "magma-cli": "latest",
+        "magma-component-library": "latest",
+        "magma-components": "latest",
+        "magma-elements": "latest",
+        "magma-install": "latest",
+        "magma-script-runner": "latest",
+        "magma-sdk": "latest",
+        "magma-shell": "latest",
+        "magma-theme": "latest",
+        "magmar": "latest",
+        "magmarath": "latest",
+        "magmel": "latest",
+        "magmo-wallet": "latest",
+        "magmo-wallet-client": "latest",
+        "magmo-wallet-common": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_skt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@skt-t1-byungi/array-every": "latest",
+        "@skt-t1-byungi/array-filter": "latest",
+        "@skt-t1-byungi/array-find": "latest",
+        "@skt-t1-byungi/array-find-index": "latest",
+        "@skt-t1-byungi/array-flat": "latest",
+        "@skt-t1-byungi/array-flat-map": "latest",
+        "@skt-t1-byungi/array-for-each": "latest",
+        "@skt-t1-byungi/array-includes": "latest",
+        "@skt-t1-byungi/array-map": "latest",
+        "@skt-t1-byungi/array-reduce": "latest",
+        "@skt-t1-byungi/array-reduce-right": "latest",
+        "@skt-t1-byungi/array-some": "latest",
+        "@skt-t1-byungi/event-emitter": "latest",
+        "@skt-t1-byungi/parcel-plugin-server": "latest",
+        "@skt99/script-2-cli": "latest",
+        "@skthrone/throneteki-deck-helper-sk": "latest",
+        "@sktickethub/common": "latest",
+        "@skticketing/common": "latest",
+        "@skticketingproject/common": "latest",
+        "@skticketings/common": "latest",
+        "@sktickets/common": "latest",
+        "@sktickets1/common": "latest",
+        "@skticknode/common": "latest",
+        "@sktklaus/vue-components": "latest"
+    }
+}

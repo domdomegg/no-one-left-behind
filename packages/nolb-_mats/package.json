@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_mats",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mats-maker/schedule-calendar": "latest",
+        "@mats31/shaders": "latest",
+        "@mats_/react-gradient-button": "latest",
+        "@mats_/react-rate-card": "latest",
+        "@matscard/mediaplayer": "latest",
+        "@matschik/lz-string": "latest",
+        "@matschik/svelte-calendar": "latest",
+        "@matsgottenbos/eslint-plugin-import-alias": "latest",
+        "@matski/vuntils-client": "latest",
+        "@matsoebi/pa-terminfindung-client-dev": "latest",
+        "@matsos/expected-wins": "latest",
+        "@matssaku/hello-wasm": "latest",
+        "@matsuikazuto/hello-wasm": "latest",
+        "@matsumana/centraldogma-nodejs": "latest",
+        "@matsumana/winston-transport-prometheus": "latest",
+        "@matsumos/reactour": "latest",
+        "@matsun/reactiscapslockactive": "latest",
+        "@matsuri.ch/hello-wasm": "latest",
+        "@matsutake/api-client": "latest",
+        "@matsutake/chialisp": "latest",
+        "@matsutake/crypto": "latest",
+        "@matsutake/wallets": "latest",
+        "@matsuyan/ddd-codegen": "latest",
+        "@matsuyan/zod-prisma": "latest",
+        "@matsve/solitaire": "latest",
+        "@matsve/ts-term": "latest"
+    }
+}

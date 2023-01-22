@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_chel",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chelium/disharmony": "latest",
+        "@chelletuerk/count-vehicles": "latest",
+        "@chelms21/24-7-discord.js-bot-template": "latest",
+        "@chelmsfordbeer/html-pdf-node-core": "latest",
+        "@chelmsfordbeer/pdf-creator-node": "latest",
+        "@chelmsfordbeer/windows": "latest",
+        "@chelonia/cli": "latest",
+        "@chelouche/common": "latest",
+        "@chelpis/eslint-config": "latest",
+        "@chelpis/prettier-config": "latest",
+        "@chelseas/git-start": "latest",
+        "@chelseawagner/lotide": "latest"
+    }
+}

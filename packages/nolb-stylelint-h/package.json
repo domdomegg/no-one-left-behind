@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-stylelint-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylelint-high-performance-animation": "latest",
+        "stylelint-html-formatter": "latest",
+        "stylelint-html-reporter": "latest",
+        "stylelint-html-reporter-stzhang": "latest",
+        "stylelint-hyext": "latest",
+        "stylelint-hyperupcall": "latest"
+    }
+}

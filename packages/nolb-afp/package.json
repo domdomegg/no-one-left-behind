@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-afp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "afp": "latest",
+        "afp-capital-ui": "latest",
+        "afp-d3-format": "latest",
+        "afp-effiliation": "latest",
+        "afp-forecast-view": "latest",
+        "afp-ng": "latest",
+        "afpdb-data": "latest",
+        "afpf": "latest",
+        "afpkg": "latest",
+        "afpl": "latest",
+        "afplay": "latest",
+        "afplugin": "latest",
+        "afpnews-api": "latest",
+        "afpushnotificationservicesdk-nodejs": "latest"
+    }
+}

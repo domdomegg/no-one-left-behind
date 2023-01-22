@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-node-reds",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-redshift": "latest",
+        "node-redshift-connector": "latest",
+        "node-redshift-v2": "latest",
+        "node-redsys-api": "latest"
+    }
+}

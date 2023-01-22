@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-antv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "antv": "latest",
+        "antv-cli": "latest",
+        "antv-dom-util-patch": "latest",
+        "antv-f2": "latest",
+        "antv-f2-react": "latest",
+        "antv-f2-wx": "latest",
+        "antv-form-design": "latest",
+        "antv-g2-tooltip-float": "latest",
+        "antv-graphin-components-vue": "latest",
+        "antv-graphin-vue": "latest",
+        "antv-orgtree": "latest",
+        "antv-random-function": "latest",
+        "antv-site-demo-rc": "latest",
+        "antv-tree-graph": "latest",
+        "antv-ts-demo": "latest",
+        "antv-x6-component": "latest",
+        "antv-x6-html2": "latest",
+        "antv-x6-lit": "latest",
+        "antv-x6-react": "latest",
+        "antv-x6-vue": "latest",
+        "antv-x6-vue-teleport-view": "latest",
+        "antvalidation": "latest",
+        "antvcomsui": "latest",
+        "antvoice": "latest"
+    }
+}

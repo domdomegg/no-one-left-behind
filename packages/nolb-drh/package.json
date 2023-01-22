@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-drh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "drhj-draw": "latest",
+        "drhj-utils": "latest",
+        "drhouse-hello-world": "latest",
+        "drhouse-package-1": "latest",
+        "drhouse-package-2": "latest"
+    }
+}

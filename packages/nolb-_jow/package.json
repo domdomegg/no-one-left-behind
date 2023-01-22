@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_jow",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jow/bd-bundle-deployer": "latest",
+        "@jow/bd-widget-deployer": "latest",
+        "@jow/com-autocomplete": "latest",
+        "@jow/com-form": "latest",
+        "@jow/com-form-templates": "latest",
+        "@jow/com-form-validation": "latest",
+        "@jow/com-modal": "latest",
+        "@jow/com-root-styles": "latest",
+        "@jow/create-bd-project": "latest",
+        "@jow/mod-bd-api": "latest",
+        "@jow/mod-dom": "latest",
+        "@jow/mod-func": "latest",
+        "@jow/mod-http": "latest",
+        "@jow/mod-time": "latest",
+        "@jowe81/lg": "latest",
+        "@jowe81/lotide": "latest",
+        "@jowstafford/github-pkg-demo": "latest"
+    }
+}

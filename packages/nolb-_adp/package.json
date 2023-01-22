@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_adp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@adp-psych/eslint-plugin-sonarjs": "latest",
+        "@adp-psych/jspsych": "latest",
+        "@adp-psych/stylelint-media-use-custom-media": "latest",
+        "@adp-psych/stylelint-no-indistinguishable-colors": "latest",
+        "@adp-psych/stylelint-use-logical": "latest",
+        "@adp-psych/stylelint-use-nesting": "latest",
+        "@adp-psych/stylelint-value-no-unknown-custom-properties": "latest",
+        "@adplata/html-validate-offline": "latest",
+        "@adplata/string-to-slug": "latest",
+        "@adpt/cli": "latest",
+        "@adpt/cloud": "latest",
+        "@adpt/core": "latest",
+        "@adpt/dom-parser": "latest",
+        "@adpt/plugin-help": "latest",
+        "@adpt/testutils": "latest",
+        "@adpt/utils": "latest"
+    }
+}

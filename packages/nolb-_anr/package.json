@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_anr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@anrenyil/common-buttons": "latest",
+        "@anrenyil/lerna-test-1": "latest",
+        "@anrenyil/tokens": "latest",
+        "@anrivera/elegant-picture-box": "latest",
+        "@anrivera/react-awesome-mouse-effect": "latest",
+        "@anrivera/react-time-count-down": "latest",
+        "@anruosu/area": "latest",
+        "@anruosu/bb": "latest",
+        "@anryzhov/storyb": "latest",
+        "@anryzhov/storybook": "latest"
+    }
+}

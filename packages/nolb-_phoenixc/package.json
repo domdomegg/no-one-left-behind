@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_phoenixc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@phoenixchain/web3-core": "latest",
+        "@phoenixchain/web3-core-helpers": "latest",
+        "@phoenixchain/web3-core-method": "latest",
+        "@phoenixchain/web3-core-requestmanager": "latest",
+        "@phoenixchain/web3-providers-http": "latest",
+        "@phoenixchain/web3-providers-ws": "latest",
+        "@phoenixcontactusa/node-red-contrib-tcrouter": "latest",
+        "@phoenixcontactusa/node-tcrouter": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-simb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simba": "latest",
+        "simba-cli": "latest",
+        "simba-clock": "latest",
+        "simba-ui": "latest",
+        "simba_demo": "latest",
+        "simba_vaild": "latest",
+        "simbajs": "latest",
+        "simbals_row": "latest",
+        "simbers": "latest",
+        "simbi": "latest",
+        "simbl": "latest",
+        "simble": "latest",
+        "simblox.js": "latest",
+        "simbo-demo": "latest",
+        "simbol": "latest",
+        "simbolmina": "latest",
+        "simboss-nodejs-sdk": "latest",
+        "simbox-po-theme": "latest",
+        "simbrary": "latest"
+    }
+}

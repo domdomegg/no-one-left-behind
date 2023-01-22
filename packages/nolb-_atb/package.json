@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_atb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@atb-as/elm-format": "latest",
+        "@atb-as/generate-assets": "latest",
+        "@atb-as/theme": "latest",
+        "@atb/lattice-crypto": "latest",
+        "@atbeta/components": "latest",
+        "@atbtech/antd-scss-theme-plugin": "latest"
+    }
+}

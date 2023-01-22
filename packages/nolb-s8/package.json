@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-s8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "s8": "latest",
+        "s8-dragula": "latest",
+        "s8-forestry-tools": "latest",
+        "s8-http-server": "latest",
+        "s8-menu": "latest",
+        "s8_rune_build": "latest",
+        "s8d": "latest",
+        "s8fleet": "latest",
+        "s8ly": "latest"
+    }
+}

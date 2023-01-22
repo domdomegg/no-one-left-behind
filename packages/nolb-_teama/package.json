@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_teama",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@teamapdan/deplate": "latest",
+        "@teamawesome/access": "latest",
+        "@teamawesome/multi-dict": "latest",
+        "@teamawesome/tiny-batch": "latest",
+        "@teamawesome/transform": "latest",
+        "@teamaxolotl/orpheus": "latest"
+    }
+}

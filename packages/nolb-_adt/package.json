@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_adt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@adt-it/config-loader": "latest",
+        "@adt-it/express-tools": "latest",
+        "@adt-it/rate-limiter": "latest",
+        "@adt-it/rethink-init": "latest",
+        "@adt/datatable": "latest",
+        "@adt/event-emitter": "latest",
+        "@adt/exceptions": "latest",
+        "@adt/form-logic": "latest",
+        "@adt/json-rpc": "latest",
+        "@adt/json-rpc-client": "latest",
+        "@adt/json-rpc-transport-providers": "latest",
+        "@adt/message-tracker": "latest",
+        "@adt/rpc-client": "latest",
+        "@adtan/node_weather_check": "latest",
+        "@adtechiumpublic/knex": "latest",
+        "@adtickets/common": "latest",
+        "@adtkcn/hb-cli": "latest",
+        "@adtoma/fusion-client-side-script": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_as2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@as207111/whois": "latest",
+        "@as2network/ethereum-types": "latest",
+        "@as2network/file-copier": "latest",
+        "@as2network/snapshot": "latest"
+    }
+}

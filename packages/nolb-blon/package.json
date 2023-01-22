@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-blon",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "blon": "latest",
+        "blond": "latest",
+        "blonde": "latest",
+        "blonder": "latest",
+        "blonder-num.json": "latest",
+        "blondie-components": "latest",
+        "blondie-files": "latest",
+        "blondie-flow": "latest",
+        "blondie-inc-filtrex": "latest",
+        "blondie-inc-google-docs-mustaches": "latest",
+        "blondie-inc-react-native-http": "latest",
+        "blondie-inc-react-window-sortable": "latest",
+        "blondie-material-ui-treeview": "latest",
+        "blondie-platform-apps-desktop": "latest",
+        "blondie-platform-common": "latest",
+        "blondie-platform-functions": "latest",
+        "blondie-platform-react": "latest",
+        "blondie-platform-reports": "latest",
+        "blondie-platform-sdk": "latest",
+        "blondie-platform-sources-big-query": "latest",
+        "blondie-platform-sources-common": "latest",
+        "blondie-platform-sources-microsoft-dynamics-crm": "latest",
+        "blondie-platform-web": "latest",
+        "blondie-react-native-navigation": "latest",
+        "blondie-redux-firestore": "latest",
+        "blondie-zoho": "latest",
+        "blondie2": "latest"
+    }
+}

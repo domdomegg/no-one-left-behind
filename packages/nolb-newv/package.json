@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-newv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "newv-charts": "latest",
+        "newv-drag-attr-plugins": "latest",
+        "newvalue": "latest",
+        "newversionnodeapp": "latest",
+        "newview": "latest",
+        "newview-ui": "latest",
+        "newvinayak": "latest",
+        "newvue": "latest"
+    }
+}

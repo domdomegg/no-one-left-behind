@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_phoenix-plugin-registry_z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@phoenix-plugin-registry/zaggino.brackets-coffeelint": "latest",
+        "@phoenix-plugin-registry/zaggino.brackets-eslint": "latest",
+        "@phoenix-plugin-registry/zaggino.brackets-git": "latest",
+        "@phoenix-plugin-registry/zaggino.brackets-snippets": "latest",
+        "@phoenix-plugin-registry/zahid_wakeel.plasma-light": "latest",
+        "@phoenix-plugin-registry/zamiere-dark": "latest",
+        "@phoenix-plugin-registry/zd-theme-dark": "latest",
+        "@phoenix-plugin-registry/zeedijk": "latest",
+        "@phoenix-plugin-registry/zenburn-theme": "latest",
+        "@phoenix-plugin-registry/zeus-code-hinter": "latest",
+        "@phoenix-plugin-registry/zombie-theme": "latest",
+        "@phoenix-plugin-registry/zoomview": "latest"
+    }
+}

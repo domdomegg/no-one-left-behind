@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-hexo-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hexo-zeronet-comments": "latest",
+        "hexo-zh2en": "latest",
+        "hexo-zngw-asset-image": "latest",
+        "hexo-zngw-sshpull": "latest",
+        "hexo-zood": "latest"
+    }
+}

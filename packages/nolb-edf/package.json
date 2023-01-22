@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-edf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "edf": "latest",
+        "edf-app-loader": "latest",
+        "edf-header-visualization": "latest",
+        "edf-meta-engine": "latest",
+        "edf-rc-select": "latest",
+        "edf-server": "latest",
+        "edf-service-auth": "latest",
+        "edf-service-dubbox": "latest",
+        "edf-service-utils": "latest",
+        "edf-to-html-converter": "latest",
+        "edf-utils": "latest",
+        "edfToHtmlConverter": "latest",
+        "edfapi": "latest",
+        "edfdecoder": "latest",
+        "edfjs": "latest",
+        "edflib": "latest",
+        "edfora-core": "latest",
+        "edfsm": "latest"
+    }
+}

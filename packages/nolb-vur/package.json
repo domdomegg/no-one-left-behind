@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-vur",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vur": "latest",
+        "vur-panel-toast": "latest",
+        "vur-rr-component": "latest",
+        "vuraul94": "latest",
+        "vuravel-catalog": "latest",
+        "vuravel-ckeditor": "latest",
+        "vuravel-components": "latest",
+        "vuravel-dashboard": "latest",
+        "vuravel-elements": "latest",
+        "vuravel-flatpickr": "latest",
+        "vuravel-form": "latest",
+        "vuravel-googlemaps": "latest",
+        "vuravel-menu": "latest",
+        "vuravel-translatable": "latest",
+        "vuravel-trix": "latest",
+        "vurbalize-js": "latest",
+        "vure": "latest",
+        "vurea": "latest",
+        "vurj": "latest",
+        "vurl": "latest",
+        "vurles-md-links": "latest",
+        "vurpress-ui-ionic": "latest",
+        "vurrito": "latest",
+        "vurt": "latest",
+        "vurts-logger": "latest",
+        "vurts-validator": "latest",
+        "vurx": "latest"
+    }
+}

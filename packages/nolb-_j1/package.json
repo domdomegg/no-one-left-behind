@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_j1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@j123npm/jupyterlab-dash": "latest",
+        "@j123npm/qgrid2": "latest",
+        "@j127/embed-discourse": "latest",
+        "@j127/prettier-config": "latest",
+        "@j12934/whatis": "latest",
+        "@j12934/whatis-core": "latest",
+        "@j154004/boron-text-editor": "latest",
+        "@j154004/dirmods": "latest",
+        "@j154004/eslint-config": "latest",
+        "@j154004/generator-react-hot": "latest",
+        "@j154004/generator-react-redux": "latest",
+        "@j154004/react-image-upload-dialog": "latest",
+        "@j154004/react-tree": "latest",
+        "@j154004/yeoman-assert": "latest",
+        "@j17hernandez/button-component": "latest",
+        "@j1m/rcc": "latest",
+        "@j1m/rsa": "latest",
+        "@j1mb0-1/cra-template-redux-clean-arch-typescript": "latest",
+        "@j1nhu/laravel-echo-server": "latest",
+        "@j1p/ngx-mat-intl-tel-input2": "latest",
+        "@j1sc2s/angular": "latest",
+        "@j1sc2s/angular-web-components": "latest",
+        "@j1sc2s/button": "latest",
+        "@j1sc2s/cb-button": "latest",
+        "@j1sc2s/core": "latest",
+        "@j1shin/rollup-plugin-lit-sass": "latest",
+        "@j1ung/core": "latest",
+        "@j1ung/utils": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-smartm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smartmail": "latest",
+        "smartmap": "latest",
+        "smartmatch": "latest",
+        "smartmd": "latest",
+        "smartme-protobuf-parser": "latest",
+        "smartmenu-frontend-models": "latest",
+        "smartmenus": "latest",
+        "smartmenus-bootstrap": "latest",
+        "smartmenus-bootstrap-4": "latest",
+        "smartmenus-keyboard": "latest",
+        "smartmenus-namespace": "latest",
+        "smartmessage": "latest",
+        "smartmeter": "latest",
+        "smartmeter-obis": "latest",
+        "smartmeter-oracle": "latest",
+        "smartmeter2mqtt": "latest",
+        "smartmind.js": "latest",
+        "smartmirror-shared": "latest",
+        "smartmocker": "latest",
+        "smartmockups-cli": "latest",
+        "smartmood": "latest",
+        "smartmoov-vue-h5p": "latest",
+        "smartmpk": "latest"
+    }
+}

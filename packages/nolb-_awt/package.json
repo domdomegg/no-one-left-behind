@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_awt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@awt-256/wasm-parser": "latest",
+        "@awticket/common": "latest",
+        "@awtickets/common": "latest",
+        "@awtrix/app": "latest",
+        "@awtrix/common": "latest",
+        "@awtrix/dev": "latest"
+    }
+}

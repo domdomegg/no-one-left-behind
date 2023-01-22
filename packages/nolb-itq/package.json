@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-itq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "itq": "latest",
+        "itqfrontendgulpsimple": "latest",
+        "itqgj": "latest",
+        "itqi-models": "latest",
+        "itqi-tools": "latest",
+        "itqian": "latest",
+        "itqianduan-tools": "latest",
+        "itqinjiu-tools": "latest",
+        "itqt-tools": "latest",
+        "itquanduan-tools": "latest"
+    }
+}

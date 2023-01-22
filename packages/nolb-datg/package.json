@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-datg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "datgsd": "latest",
+        "datguivr": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-gitk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gitk": "latest",
+        "gitkan": "latest",
+        "gitkatt": "latest",
+        "gitke": "latest",
+        "gitkeep": "latest",
+        "gitkeeper": "latest",
+        "gitkemull": "latest",
+        "gitkit": "latest",
+        "gitkit-widgets": "latest",
+        "gitkit.js": "latest",
+        "gitkitclient": "latest",
+        "gitkoning": "latest",
+        "gitkraken-cli": "latest",
+        "gitkraken-i18n": "latest",
+        "gitkurs": "latest"
+    }
+}

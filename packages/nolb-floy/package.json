@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-floy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "floy": "latest",
+        "floyd": "latest",
+        "floyd-cli": "latest",
+        "floyd-rivest": "latest",
+        "floyd-samuel": "latest",
+        "floyd-steinberg": "latest",
+        "floyd-steinberg-dithering": "latest",
+        "floyd-warshall": "latest",
+        "floyd-warshall-shortest": "latest",
+        "floyda-npm-test": "latest",
+        "floydmac-frame-print": "latest",
+        "floydspace-cordova-plugin-fabric": "latest",
+        "floydspace-cordova-plugin-firebase": "latest",
+        "floydspace-cordova-plugin-geofence": "latest",
+        "floydspace-cordova-plugin-googleplus": "latest",
+        "floydspace-cordova-plugin-imagepicker": "latest",
+        "floydspace-cordova-plugin-splashscreen": "latest",
+        "floydspace-cordova-plugin-twitter": "latest",
+        "floydspace-cordova-plugin-wkwebview-file-xhr": "latest"
+    }
+}

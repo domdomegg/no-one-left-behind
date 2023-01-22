@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-graph2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graph2": "latest",
+        "graph2app-core": "latest",
+        "graph2app-drawio-graph-builder": "latest",
+        "graph2app-drawio2vuejs": "latest",
+        "graph2app-vue-core": "latest",
+        "graph2d": "latest",
+        "graph2d.js": "latest"
+    }
+}

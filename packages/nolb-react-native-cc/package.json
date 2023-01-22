@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-react-native-cc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-cc-rongcloud": "latest",
+        "react-native-cc-test-libary": "latest",
+        "react-native-cccd-dev": "latest",
+        "react-native-ccjd-payment-alipay": "latest",
+        "react-native-ccl": "latest",
+        "react-native-ccs-actionsheet": "latest",
+        "react-native-ccs-frame": "latest",
+        "react-native-ccs-kakaosdk": "latest",
+        "react-native-ccs-navbar": "latest",
+        "react-native-ccs-naver-login": "latest",
+        "react-native-cctvpoc": "latest",
+        "react-native-ccyy-common": "latest",
+        "react-native-ccyy-navigation": "latest"
+    }
+}

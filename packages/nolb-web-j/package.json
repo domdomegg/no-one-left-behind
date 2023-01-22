@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-web-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "web-j": "latest",
+        "web-java": "latest",
+        "web-javascript": "latest",
+        "web-ji06": "latest",
+        "web-jietu": "latest",
+        "web-jockey": "latest",
+        "web-js": "latest",
+        "web-js-kits": "latest",
+        "web-js-tool": "latest",
+        "web-js-utils": "latest",
+        "web-js_js-libs": "latest",
+        "web-json-storage": "latest",
+        "web-json-view": "latest",
+        "web-jsx": "latest"
+    }
+}

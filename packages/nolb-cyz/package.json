@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-cyz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cyz": "latest",
+        "cyz-cli": "latest",
+        "cyz-ease-ui": "latest",
+        "cyz-js_utils": "latest",
+        "cyz-test-ui": "latest",
+        "cyz-ui": "latest",
+        "cyz.tools": "latest",
+        "cyz39600_oauth": "latest",
+        "cyz968": "latest",
+        "cyzhu-test": "latest",
+        "cyzj-cli": "latest",
+        "cyzserver": "latest"
+    }
+}

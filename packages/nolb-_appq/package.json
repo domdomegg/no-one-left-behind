@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_appq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@appq/node-cli-1": "latest",
+        "@appq/react-use-router": "latest",
+        "@appquality/appq-button": "latest",
+        "@appquality/appq-colors": "latest",
+        "@appquality/appq-functions": "latest",
+        "@appquality/appq-palette": "latest",
+        "@appquality/appquality-design-system": "latest",
+        "@appquality/craftjs-core": "latest",
+        "@appquality/craftjs-utils": "latest",
+        "@appquality/unguess-design-system": "latest",
+        "@appquality/wp-auth": "latest"
+    }
+}

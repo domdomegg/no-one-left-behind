@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_rea-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@rea-app/currency-symbol-map": "latest",
+        "@rea-app/docusaurus": "latest",
+        "@rea-app/react-native-camera-roll-picker": "latest",
+        "@rea-app/react-pdf": "latest",
+        "@rea-app/react-scripts": "latest",
+        "@rea-app/react-sketch": "latest",
+        "@rea-hole/core": "latest",
+        "@rea-hole/icons": "latest",
+        "@rea-jet/babel-config": "latest",
+        "@rea-jet/babel-preset-rea": "latest",
+        "@rea-jet/devtools": "latest",
+        "@rea-jet/documentation-theme": "latest",
+        "@rea-jet/fast-xml-parser": "latest",
+        "@rea-jet/fp-helpers": "latest",
+        "@rea-jet/rea-xml2js": "latest",
+        "@rea-jet/react-scripts": "latest",
+        "@rea-jet/ssdp-discover": "latest",
+        "@rea-jet/xml2js": "latest"
+    }
+}

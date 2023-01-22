@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_trik",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trikanna/clarito": "latest",
+        "@trikanna/core-styles": "latest",
+        "@triko-app/hooks": "latest",
+        "@triko-app/providers": "latest",
+        "@triko-app/session": "latest",
+        "@triko-app/theme-provider": "latest",
+        "@triko-app/translation": "latest",
+        "@triko-app/utils": "latest",
+        "@trikoder/trim": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-conk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "conkaa-soap": "latest",
+        "conkat": "latest",
+        "conker": "latest",
+        "conkie": "latest",
+        "conkie-stats": "latest",
+        "conkie-stats-mpris": "latest",
+        "conkie-theme-default": "latest",
+        "conkitty": "latest",
+        "conkitty-app": "latest",
+        "conkitty-route": "latest",
+        "conkitty-scratch": "latest",
+        "conkool": "latest"
+    }
+}

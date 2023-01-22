@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-ts-2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ts-2": "latest",
+        "ts-2-cs": "latest",
+        "ts-2-npm-module": "latest",
+        "ts-2022-axios": "latest",
+        "ts-2d-geometry": "latest"
+    }
+}

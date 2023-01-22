@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_maxr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@maxrafferty/on-console-open": "latest",
+        "@maxrewards/better-scroll-view": "latest",
+        "@maxrewards/log": "latest",
+        "@maxrisk/react-native-wechat": "latest",
+        "@maxrngl-software/common": "latest",
+        "@maxrolon/testing": "latest",
+        "@maxrsb/config-client-node": "latest",
+        "@maxrumsey/hangupsjs": "latest",
+        "@maxrumsey/hangupsjs-tokencopy": "latest"
+    }
+}

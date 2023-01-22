@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_onn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@onn-software/dependency-graph": "latest",
+        "@onny/immutable": "latest",
+        "@onny/logger": "latest",
+        "@onny/logger-pretty": "latest",
+        "@onny/scheduler": "latest",
+        "@onny/utils": "latest",
+        "@onny/validate": "latest"
+    }
+}

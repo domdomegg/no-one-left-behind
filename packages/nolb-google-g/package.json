@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-google-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "google-game-services": "latest",
+        "google-gax": "latest",
+        "google-geo-decoder": "latest",
+        "google-geocode": "latest",
+        "google-geocode-client": "latest",
+        "google-geocode-parser": "latest",
+        "google-geocode-parser-custom": "latest",
+        "google-geocoder": "latest",
+        "google-geocoder-cli": "latest",
+        "google-geocoding": "latest",
+        "google-geocoding-cheka": "latest",
+        "google-geolocation": "latest",
+        "google-geotargeting-node-module": "latest",
+        "google-git-repo": "latest",
+        "google-glass": "latest",
+        "google-gmail-validator": "latest",
+        "google-gmap": "latest",
+        "google-google-cloud-storage-sync": "latest",
+        "google-graphql-functions": "latest",
+        "google-group-manager": "latest"
+    }
+}

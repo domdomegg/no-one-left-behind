@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_opr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@opra/angular": "latest",
+        "@opra/angular-client": "latest",
+        "@opra/client": "latest",
+        "@opra/common": "latest",
+        "@opra/core": "latest",
+        "@opra/exception": "latest",
+        "@opra/i18n": "latest",
+        "@opra/nestjs": "latest",
+        "@opra/node-client": "latest",
+        "@opra/optionals": "latest",
+        "@opra/schema": "latest",
+        "@opra/sqb": "latest",
+        "@opra/testing": "latest",
+        "@opra/url": "latest",
+        "@opresults/common": "latest",
+        "@opresults/match": "latest",
+        "@opresults/optional": "latest",
+        "@opresults/react": "latest",
+        "@oprokidnev/amazing-time-picker": "latest",
+        "@oprysk.sofia/magic-predictions": "latest"
+    }
+}

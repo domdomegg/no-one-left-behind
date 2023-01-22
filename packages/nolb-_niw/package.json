@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_niw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@niwaringo/tinify": "latest",
+        "@niweera/node-asterer": "latest",
+        "@niweera/node-complexer": "latest",
+        "@niwim/npm-test": "latest",
+        "@niwini/auth": "latest",
+        "@niwini/eslint-config-base": "latest",
+        "@niwini/eslint-config-react": "latest",
+        "@niwini/eslint-config-react-typescript": "latest",
+        "@niwini/eslint-config-typescript": "latest",
+        "@niwini/kafka": "latest",
+        "@niwini/mongo": "latest",
+        "@niwini/redis": "latest",
+        "@niwini/thrift": "latest",
+        "@niwini/tracer": "latest",
+        "@niwini/utils": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-thh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thh-components-test": "latest",
+        "thh-css": "latest",
+        "thh-npm-test": "latest",
+        "thh-todolist-test": "latest",
+        "thh-utils-test": "latest",
+        "thhan--myvue-cli": "latest",
+        "thhomasbernal-super-random": "latest"
+    }
+}

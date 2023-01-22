@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-rsf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rsf": "latest",
+        "rsf-auth": "latest",
+        "rsf-calendar": "latest",
+        "rsf-cli": "latest",
+        "rsf-collect-participants": "latest",
+        "rsf-collect-responses": "latest",
+        "rsf-commercetools-connector": "latest",
+        "rsf-contactable": "latest",
+        "rsf-http-register": "latest",
+        "rsf-mattermostable": "latest",
+        "rsf-pairwise-comparison": "latest",
+        "rsf-reader-writer": "latest",
+        "rsf-response-for-each": "latest",
+        "rsf-router": "latest",
+        "rsf-smsable": "latest",
+        "rsf-telegram-bot": "latest",
+        "rsf-telegramable": "latest",
+        "rsf-template": "latest",
+        "rsf-test": "latest",
+        "rsf-textable": "latest",
+        "rsf-toast-calendar": "latest",
+        "rsf-twilio-bot": "latest",
+        "rsf-types": "latest",
+        "rsfc": "latest",
+        "rsfs": "latest"
+    }
+}

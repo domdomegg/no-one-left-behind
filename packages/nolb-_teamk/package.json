@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_teamk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@teamkeel/functions-runtime": "latest",
+        "@teamkeel/runtime": "latest",
+        "@teamkeel/sdk": "latest",
+        "@teamkeel/testing": "latest",
+        "@teamkeel/wasm": "latest",
+        "@teamkitten/draft-js-markdown-shortcuts-plugin": "latest",
+        "@teamkkb/kkb-keygen": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-rett",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rett": "latest",
+        "retta": "latest",
+        "rettc-cli": "latest",
+        "rettc-deploy": "latest",
+        "retter": "latest",
+        "retter-scripts": "latest",
+        "retter-test-ui": "latest",
+        "retter-test-ui-2": "latest",
+        "retticle-frame-print": "latest",
+        "rettle": "latest",
+        "retty": "latest"
+    }
+}

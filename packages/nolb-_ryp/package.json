@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_ryp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@rypen-dev/dealer-shared-components": "latest",
+        "@rypen-dev/helpers": "latest",
+        "@rypen-dev/react-shared-components": "latest",
+        "@rypen-dev/shared-components": "latest",
+        "@rypen-dev/test-package": "latest",
+        "@rypock/az-blob": "latest",
+        "@rypock/express-backend": "latest",
+        "@rypock/nosql": "latest",
+        "@rypock/react-frontend": "latest",
+        "@rypock/redis": "latest",
+        "@rypock/shared": "latest",
+        "@rypock/toolchain": "latest",
+        "@rypock/utils": "latest",
+        "@rypock/winston-logger": "latest"
+    }
+}

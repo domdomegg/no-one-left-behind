@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-simplej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simplejack": "latest",
+        "simplejencounter": "latest",
+        "simplejob": "latest",
+        "simplejquery": "latest",
+        "simplejs": "latest",
+        "simplejs-rate-limiter": "latest",
+        "simplejs-upload": "latest",
+        "simplejs2xml": "latest",
+        "simplejsbench": "latest",
+        "simplejsgithubapiwrapper": "latest",
+        "simplejson": "latest",
+        "simplejsonconf": "latest",
+        "simplejsondb": "latest",
+        "simplejsonhtml": "latest",
+        "simplejsonrequire": "latest",
+        "simplejsonrpc": "latest",
+        "simplejsonvalidator": "latest",
+        "simplejsparsermatharithmetic": "latest",
+        "simplejsparsermathfunarithmetic": "latest",
+        "simplejsstatemachine": "latest",
+        "simplejswidget": "latest"
+    }
+}

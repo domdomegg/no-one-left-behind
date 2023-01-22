@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_sua",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@suadelabs/vue3-multiselect": "latest",
+        "@suahyl/vue3-pdfjs": "latest",
+        "@suami/element-ui": "latest",
+        "@suamkftickets/common": "latest",
+        "@suankularb-components/css": "latest",
+        "@suankularb-components/react": "latest",
+        "@suanlafen/cli": "latest",
+        "@suanlafen/core": "latest",
+        "@suanlafen/get-npm-info": "latest",
+        "@suanlafen/log": "latest",
+        "@suanlafen/utils": "latest",
+        "@suanlafen/vue-basic-template": "latest",
+        "@suanlafen/vue3-ts-template": "latest",
+        "@suanzao/code-editor": "latest",
+        "@suanzao/npm-test": "latest",
+        "@suanzao/tiny": "latest",
+        "@suar/awesome-package": "latest",
+        "@suar/custom-themes": "latest",
+        "@suares01/js-useful": "latest",
+        "@suarsan/ngx-duallistbox": "latest",
+        "@suarsan/ngx-flipboardtext": "latest",
+        "@suarsan/ngx-keyvalue": "latest",
+        "@suary/fancy-env": "latest",
+        "@suaveslow/nest-agenda": "latest"
+    }
+}

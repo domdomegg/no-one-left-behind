@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-2-webcomponent": "latest",
+        "react-2d": "latest",
+        "react-2d-canvas": "latest",
+        "react-2fa-verification-input": "latest",
+        "react-2gis": "latest",
+        "react-2j-ui-kit": "latest",
+        "react-2step-range": "latest"
+    }
+}

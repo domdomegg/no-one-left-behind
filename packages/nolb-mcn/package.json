@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-mcn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mcn_core": "latest",
+        "mcnbt": "latest",
+        "mcnet": "latest",
+        "mcnleandro-ts-lib-test": "latest",
+        "mcnleandro-ts-vue-lib-test": "latest",
+        "mcnleanro-react-npm-test": "latest",
+        "mcnode": "latest"
+    }
+}

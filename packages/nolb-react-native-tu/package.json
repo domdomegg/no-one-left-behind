@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-react-native-tu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-tualo-broadcast-receiver": "latest",
+        "react-native-tuesday": "latest",
+        "react-native-tuibida": "latest",
+        "react-native-tung": "latest",
+        "react-native-tungva-component": "latest",
+        "react-native-tungva-coordinator": "latest",
+        "react-native-tungva-coordinator-view": "latest",
+        "react-native-tunion": "latest",
+        "react-native-tunnel": "latest",
+        "react-native-turbo": "latest",
+        "react-native-turbo-battery": "latest",
+        "react-native-turbo-device-info": "latest",
+        "react-native-turbo-mock-location-detector": "latest",
+        "react-native-turbo-styles": "latest",
+        "react-native-turbolinks": "latest",
+        "react-native-turn-off-optimization": "latest",
+        "react-native-turntable": "latest",
+        "react-native-turtle-save-record": "latest",
+        "react-native-turtle-species-record": "latest",
+        "react-native-tus-client": "latest",
+        "react-native-tutorial": "latest",
+        "react-native-tutorial-overlay": "latest",
+        "react-native-tutorial-slider": "latest",
+        "react-native-tuya-minisdk": "latest",
+        "react-native-tuya-sdk": "latest"
+    }
+}

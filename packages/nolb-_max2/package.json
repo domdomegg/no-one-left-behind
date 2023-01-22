@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_max2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@max210/widgets": "latest",
+        "@max2204/widget-with-charity": "latest",
+        "@max26292/react-mitt": "latest"
+    }
+}

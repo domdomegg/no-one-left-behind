@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-packw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "packw": "latest",
+        "packwallet_roxe": "latest",
+        "packwatch": "latest",
+        "packweb": "latest",
+        "packwerk": "latest",
+        "packwrap": "latest"
+    }
+}

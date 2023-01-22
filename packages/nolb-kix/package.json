@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-kix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "kix": "latest",
+        "kix-dom": "latest",
+        "kix-js": "latest",
+        "kix-mvc": "latest",
+        "kix-router": "latest",
+        "kixdesign": "latest",
+        "kixx": "latest",
+        "kixx-assert": "latest",
+        "kixx-lib-es6": "latest",
+        "kixx-logger": "latest",
+        "kixx-middleware": "latest",
+        "kixx-rynodb": "latest",
+        "kixx-server-errors": "latest",
+        "kixx-test": "latest",
+        "kixx-test-node": "latest",
+        "kixx-throttle": "latest",
+        "kixxjs": "latest"
+    }
+}

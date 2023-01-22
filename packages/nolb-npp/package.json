@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-npp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "npp": "latest",
+        "npp-analytics": "latest",
+        "npp2ts": "latest",
+        "nppack": "latest",
+        "nppi": "latest",
+        "nppm": "latest",
+        "nppm02w": "latest",
+        "nppmm": "latest",
+        "npptesttypes": "latest"
+    }
+}

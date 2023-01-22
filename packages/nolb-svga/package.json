@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-svga",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svga": "latest",
+        "svga-compress-lqy": "latest",
+        "svga-egret": "latest",
+        "svga-egret-ts": "latest",
+        "svga-loader": "latest",
+        "svga-parser": "latest",
+        "svga-player-vue": "latest",
+        "svga-preview": "latest",
+        "svga-web": "latest",
+        "svga.js": "latest",
+        "svga.lite": "latest",
+        "svga.lite.protobufjs": "latest",
+        "svga.lite.zlibjs": "latest",
+        "svgapi": "latest",
+        "svgaplayer": "latest",
+        "svgaplayer-didi": "latest",
+        "svgaplayer-react-native": "latest",
+        "svgaplayer-weapp": "latest",
+        "svgaplayerweb": "latest",
+        "svgaplayerweb-cc": "latest",
+        "svgar": "latest",
+        "svgar-server": "latest",
+        "svgart": "latest",
+        "svgasset": "latest"
+    }
+}

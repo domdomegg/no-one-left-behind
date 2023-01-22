@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_itx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@itxadummy/demo-lib": "latest",
+        "@itxbornfire/react-query": "latest",
+        "@itxhamza/create-fwk-node": "latest",
+        "@itxhamza/fwk-node": "latest",
+        "@itxhamza/uuid": "latest",
+        "@itxura/eslint-config": "latest",
+        "@itxura/react": "latest",
+        "@itxura/styles": "latest",
+        "@itxura/vue": "latest"
+    }
+}

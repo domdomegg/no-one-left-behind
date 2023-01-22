@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-grap",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grap": "latest",
+        "@zalastax/nolb-graph": "latest",
+        "@zalastax/nolb-grapa": "latest",
+        "@zalastax/nolb-grape": "latest",
+        "@zalastax/nolb-grapi": "latest",
+        "@zalastax/nolb-grapl": "latest",
+        "@zalastax/nolb-grapn": "latest",
+        "@zalastax/nolb-grapp": "latest",
+        "@zalastax/nolb-grapr": "latest"
+    }
+}

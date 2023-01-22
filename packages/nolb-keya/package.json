@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-keya",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "keya": "latest",
+        "keyan-yyds": "latest",
+        "keyan_components": "latest",
+        "keyanim": "latest",
+        "keyanyun-components": "latest",
+        "keyarmory": "latest",
+        "keyarray": "latest",
+        "keyarray-delete": "latest",
+        "keyarray-get": "latest",
+        "keyarray-has": "latest",
+        "keyarray-set": "latest",
+        "keyauth": "latest",
+        "keyauth-central": "latest",
+        "keyauth-consumer": "latest",
+        "keyauth-js-module": "latest",
+        "keyauth-provider": "latest",
+        "keyauth-seller-api": "latest",
+        "keyauth.js": "latest",
+        "keyauthsellersdk": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-randn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "randn": "latest",
+        "randname": "latest",
+        "randname-ag": "latest",
+        "randnjs": "latest",
+        "randnum": "latest",
+        "randnum-generator": "latest",
+        "randnumb": "latest",
+        "randnums-gen": "latest",
+        "randnums-genumbers": "latest"
+    }
+}

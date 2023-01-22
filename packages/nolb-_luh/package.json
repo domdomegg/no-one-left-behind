@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_luh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@luharjs/docs": "latest",
+        "@luharjs/example-hello-world": "latest",
+        "@luharjs/example-rest-service": "latest",
+        "@luhengchang228/example-block-2": "latest",
+        "@luhengchang228/monorepo-pkg-a": "latest",
+        "@luhengchang228/monorepo-pkg-b": "latest",
+        "@luhengchang228/monorepo-pkg-c": "latest",
+        "@luhengchang228/package-a": "latest",
+        "@luhengchang228/package-b": "latest",
+        "@luhengchang228/test": "latest",
+        "@luhuiguo/annotorious-selector-pack": "latest"
+    }
+}

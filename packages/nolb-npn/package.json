@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-npn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "npn": "latest",
+        "npn-demo": "latest",
+        "npn-demo-package": "latest",
+        "npn-search": "latest",
+        "npn-slider": "latest",
+        "npn-test": "latest",
+        "npn_training": "latest",
+        "npnative": "latest",
+        "npncon": "latest",
+        "npnworksomya": "latest"
+    }
+}

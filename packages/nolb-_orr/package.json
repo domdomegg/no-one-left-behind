@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_orr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@orrin_hatch/emotion": "latest",
+        "@orrin_hatch/remark-emoji": "latest",
+        "@orrisroot/react-html-parser": "latest"
+    }
+}

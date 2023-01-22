@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_tabler-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/tabler-gas-station": "latest",
+        "@hyper.fun/tabler-gauge": "latest",
+        "@hyper.fun/tabler-gavel": "latest",
+        "@hyper.fun/tabler-geometry": "latest",
+        "@hyper.fun/tabler-ghost": "latest",
+        "@hyper.fun/tabler-gift": "latest",
+        "@hyper.fun/tabler-git-branch": "latest",
+        "@hyper.fun/tabler-git-commit": "latest",
+        "@hyper.fun/tabler-git-compare": "latest",
+        "@hyper.fun/tabler-git-fork": "latest",
+        "@hyper.fun/tabler-git-merge": "latest",
+        "@hyper.fun/tabler-git-pull-request": "latest",
+        "@hyper.fun/tabler-git-pull-request-closed": "latest",
+        "@hyper.fun/tabler-git-pull-request-draft": "latest",
+        "@hyper.fun/tabler-glass": "latest",
+        "@hyper.fun/tabler-glass-full": "latest",
+        "@hyper.fun/tabler-glass-off": "latest",
+        "@hyper.fun/tabler-globe": "latest",
+        "@hyper.fun/tabler-golf": "latest",
+        "@hyper.fun/tabler-gps": "latest",
+        "@hyper.fun/tabler-grain": "latest",
+        "@hyper.fun/tabler-grid-dots": "latest",
+        "@hyper.fun/tabler-grid-pattern": "latest",
+        "@hyper.fun/tabler-grill": "latest",
+        "@hyper.fun/tabler-grip-horizontal": "latest",
+        "@hyper.fun/tabler-grip-vertical": "latest",
+        "@hyper.fun/tabler-growth": "latest"
+    }
+}

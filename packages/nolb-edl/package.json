@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-edl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "edl-genius": "latest",
+        "edl-to-yt": "latest",
+        "edl_composer": "latest",
+        "edlectron": "latest",
+        "edlesstoast": "latest",
+        "edlink-js": "latest",
+        "edls-components": "latest",
+        "edls-theme": "latest"
+    }
+}

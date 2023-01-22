@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-basc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "baschainqwyyds": "latest",
+        "baschainqwyydsd": "latest",
+        "bascii": "latest",
+        "bascodes": "latest",
+        "bascule-cli": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-orp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "orp": "latest",
+        "orpakone": "latest",
+        "orpakone-cognito-interface": "latest",
+        "orpc": "latest",
+        "orpex": "latest",
+        "orph": "latest",
+        "orphan": "latest",
+        "orphanage": "latest",
+        "orphanarium": "latest",
+        "orpheus": "latest",
+        "orpheus-gql": "latest",
+        "orpheus-osmd": "latest",
+        "orphic-cypress": "latest",
+        "orpk-vue-ui-2": "latest",
+        "orpk-vue-ui-test": "latest",
+        "orpl-publish-subscribe-server": "latest",
+        "orpmes-huggorm-2k-yolo-face": "latest"
+    }
+}

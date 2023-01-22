@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-mul_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mul_and_sum": "latest",
+        "mul_and_sum_numbers": "latest",
+        "mul_speech_recogn": "latest"
+    }
+}

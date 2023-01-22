@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-easo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eason-parser": "latest",
+        "eason_npm_demo": "latest",
+        "easondns": "latest",
+        "easonfather": "latest",
+        "easonfather-excel-export": "latest",
+        "easonfather-myexpress": "latest",
+        "easonfather-svg": "latest",
+        "easonfather-ui": "latest",
+        "easonfirstcalc": "latest",
+        "easonkoo-norepeat": "latest",
+        "easonlams": "latest",
+        "easonmother": "latest",
+        "easonpin": "latest",
+        "easons-ui": "latest",
+        "easonvience-qss": "latest",
+        "easonvience-svg": "latest"
+    }
+}

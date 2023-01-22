@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-publi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "publi": "latest",
+        "@zalastax/nolb-publis": "latest",
+        "@zalastax/nolb-publib": "latest",
+        "@zalastax/nolb-public": "latest",
+        "@zalastax/nolb-publid": "latest",
+        "@zalastax/nolb-publie": "latest",
+        "@zalastax/nolb-publif": "latest",
+        "@zalastax/nolb-publin": "latest",
+        "@zalastax/nolb-publio": "latest",
+        "@zalastax/nolb-publip": "latest",
+        "@zalastax/nolb-publiq": "latest",
+        "@zalastax/nolb-publir": "latest",
+        "@zalastax/nolb-publit": "latest",
+        "@zalastax/nolb-publiu": "latest",
+        "@zalastax/nolb-publix": "latest"
+    }
+}

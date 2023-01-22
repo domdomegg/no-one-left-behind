@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-juz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "juz": "latest",
+        "juzhang-ui": "latest",
+        "juzhenfe-scan-code": "latest",
+        "juzheng": "latest",
+        "juzi": "latest",
+        "juzi-riyu-erlingeryilingsan-erlingererlingsi": "latest",
+        "juzi-ui": "latest",
+        "juzi-wechaty-puppet-1.0-migration": "latest",
+        "juziju": "latest",
+        "juziju1": "latest",
+        "juziju2": "latest",
+        "juziju3": "latest",
+        "juzishu-ui": "latest",
+        "juziweidechabeimao": "latest",
+        "juzo-api.beta": "latest",
+        "juzt": "latest",
+        "juzz": "latest"
+    }
+}

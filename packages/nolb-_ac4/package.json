@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_ac4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ac4y/ac4y-command": "latest",
+        "@ac4y/ac4y-command-manager": "latest",
+        "@ac4y/ac4y-command-message": "latest",
+        "@ac4y/ac4y-command-service": "latest",
+        "@ac4y/ac4y-common": "latest",
+        "@ac4y/ac4y-ecosystem": "latest",
+        "@ac4y/ac4y-flow": "latest",
+        "@ac4y/ac4y-lifecycle": "latest",
+        "@ac4y/ac4y-logger": "latest",
+        "@ac4y/ac4y-object": "latest",
+        "@ac4y/ac4y-onthefly": "latest",
+        "@ac4y/ac4y-scheduler": "latest",
+        "@ac4y/ac4y-service": "latest",
+        "@ac4y/ac4y-service-common": "latest",
+        "@ac4y/ac4y-service-message": "latest",
+        "@ac4y/ac4y-service-operation": "latest",
+        "@ac4y/ac4y-timer": "latest",
+        "@ac4y/ac4y-usertext": "latest",
+        "@ac4y/ac4y-utility": "latest",
+        "@ac4y/informator": "latest",
+        "@ac4y/operational-tester": "latest",
+        "@ac4y/operational-tester-partner": "latest"
+    }
+}

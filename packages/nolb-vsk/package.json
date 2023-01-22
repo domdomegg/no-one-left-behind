@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-vsk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vskavgaci": "latest",
+        "vskc_myapp": "latest",
+        "vskc_newapp": "latest",
+        "vsko-datepicker": "latest",
+        "vsky-devextreme-react": "latest",
+        "vsky-react-cli": "latest",
+        "vsky_devextreme": "latest"
+    }
+}

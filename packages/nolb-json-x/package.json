@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-json-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "json-x": "latest",
+        "json-x-loader": "latest",
+        "json-xdr": "latest",
+        "json-xformer": "latest",
+        "json-xhr": "latest",
+        "json-xhr-promise": "latest",
+        "json-xlsx": "latest",
+        "json-xlsx-simply": "latest",
+        "json-xml": "latest",
+        "json-xml-json": "latest",
+        "json-xml-parse": "latest",
+        "json-xml-parser": "latest",
+        "json-xpath": "latest"
+    }
+}

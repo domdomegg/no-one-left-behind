@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-cdx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cdx": "latest",
+        "cdx-bower-bom": "latest",
+        "cdx-button": "latest",
+        "cdx-concats-cli": "latest",
+        "cdx-handler-loader": "latest",
+        "cdx-library": "latest",
+        "cdx-starter-package": "latest",
+        "cdxj": "latest",
+        "cdxj-interface-framework": "latest",
+        "cdxj-service-utils": "latest",
+        "cdxjs": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-fry",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fry": "latest",
+        "fry-fx": "latest",
+        "fry-meme-generator": "latest",
+        "fry-utils": "latest",
+        "frycz-npm-tut": "latest",
+        "fryd": "latest",
+        "fryer": "latest",
+        "frylord": "latest",
+        "frynpm": "latest",
+        "frypan-knockout-grid": "latest",
+        "frypan-react-mobx-grid": "latest",
+        "fryst": "latest",
+        "frytki": "latest",
+        "fryui": "latest"
+    }
+}

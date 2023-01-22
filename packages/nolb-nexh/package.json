@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-nexh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nexhome-docx": "latest",
+        "nexhome-hls-player": "latest",
+        "nexhome-web-devops-util": "latest",
+        "nexhome-web-player": "latest",
+        "nexhome-web-player-h264": "latest"
+    }
+}

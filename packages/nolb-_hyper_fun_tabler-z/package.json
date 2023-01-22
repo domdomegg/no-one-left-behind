@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_tabler-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/tabler-zodiac-aquarius": "latest",
+        "@hyper.fun/tabler-zodiac-aries": "latest",
+        "@hyper.fun/tabler-zodiac-cancer": "latest",
+        "@hyper.fun/tabler-zodiac-capricorn": "latest",
+        "@hyper.fun/tabler-zodiac-gemini": "latest",
+        "@hyper.fun/tabler-zodiac-leo": "latest",
+        "@hyper.fun/tabler-zodiac-libra": "latest",
+        "@hyper.fun/tabler-zodiac-pisces": "latest",
+        "@hyper.fun/tabler-zodiac-sagittarius": "latest",
+        "@hyper.fun/tabler-zodiac-scorpio": "latest",
+        "@hyper.fun/tabler-zodiac-taurus": "latest",
+        "@hyper.fun/tabler-zodiac-virgo": "latest",
+        "@hyper.fun/tabler-zoom-cancel": "latest",
+        "@hyper.fun/tabler-zoom-check": "latest",
+        "@hyper.fun/tabler-zoom-in": "latest",
+        "@hyper.fun/tabler-zoom-money": "latest",
+        "@hyper.fun/tabler-zoom-out": "latest",
+        "@hyper.fun/tabler-zoom-question": "latest"
+    }
+}

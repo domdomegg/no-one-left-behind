@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_trio",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@triotech/bootstrap-vue": "latest",
+        "@triotech/commitlint": "latest",
+        "@triotech/vue-core": "latest",
+        "@trioxis/aws-backup-manager": "latest",
+        "@trioxis/generator-react-cafe-spa": "latest",
+        "@trioxis/immutable-react-form": "latest",
+        "@trioxis/react-cafe-cms": "latest",
+        "@trioxis/roar-mongo": "latest",
+        "@trioxis/ui": "latest"
+    }
+}

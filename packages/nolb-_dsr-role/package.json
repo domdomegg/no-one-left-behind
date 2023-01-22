@@ -1,0 +1,11 @@
+
+{
+    "name": "@zalastax/nolb-_dsr-role",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dsr-roles-pughs-jilts-aliya/dsr-package-public-roles-pughs-jilts-aliya": "latest"
+    }
+}

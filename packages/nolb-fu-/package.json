@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-fu-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fu-apikey": "latest",
+        "fu-check": "latest",
+        "fu-cli": "latest",
+        "fu-component": "latest",
+        "fu-deploy": "latest",
+        "fu-design": "latest",
+        "fu-dialog": "latest",
+        "fu-doc": "latest",
+        "fu-es": "latest",
+        "fu-filemanage": "latest",
+        "fu-filepreview": "latest",
+        "fu-kit": "latest",
+        "fu-manchu": "latest",
+        "fu-node-cli": "latest",
+        "fu-rao": "latest",
+        "fu-scripts": "latest",
+        "fu-ui": "latest",
+        "fu-ui-vite": "latest",
+        "fu-weixin-verification": "latest",
+        "fu-yong-npm": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_ecw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ecweb/cli": "latest",
+        "@ecweb/cli-commands-init": "latest",
+        "@ecweb/cli-core-core": "latest",
+        "@ecweb/cli-core-exec": "latest",
+        "@ecweb/cli-models-command": "latest",
+        "@ecweb/cli-models-package": "latest",
+        "@ecweb/cli-template-custom-vue3-vbase": "latest",
+        "@ecweb/cli-template-page-vue3-stbase": "latest",
+        "@ecweb/cli-template-vue3-component-base": "latest",
+        "@ecweb/cli-template-vue3-vbase": "latest",
+        "@ecweb/cli-template-vue3-vpra": "latest",
+        "@ecweb/cli-utils-assert": "latest",
+        "@ecweb/cli-utils-ec-server-api": "latest",
+        "@ecweb/cli-utils-fileop": "latest",
+        "@ecweb/cli-utils-loading": "latest",
+        "@ecweb/cli-utils-log": "latest",
+        "@ecweb/cli-utils-npm-info": "latest",
+        "@ecweb/cli-utils-run": "latest",
+        "@ecweb/cli-utils-sys-compatibility": "latest",
+        "@ecwenze1/vue-datepicker": "latest",
+        "@ecwid/gatsby-plugin-ecwid": "latest",
+        "@ecwid/nextjs-ecwid-plugin": "latest",
+        "@ecwid/sdk": "latest",
+        "@ecwyne/amqp-utils": "latest"
+    }
+}

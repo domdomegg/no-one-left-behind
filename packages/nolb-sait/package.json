@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-sait",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "saitama": "latest",
+        "saitama-core": "latest",
+        "saiteja-arr_to_obj": "latest",
+        "saiteja396": "latest",
+        "saitek": "latest",
+        "saitlabs-sui": "latest",
+        "saito": "latest",
+        "saito-asuka": "latest",
+        "saitron-fusion-ui": "latest",
+        "saitron-lowcode-materials": "latest",
+        "saitron_gauge_tool": "latest"
+    }
+}

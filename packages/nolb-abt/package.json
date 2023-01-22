@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-abt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "abt": "latest",
+        "abt-alis": "latest",
+        "abt-bencode": "latest",
+        "abt-node-launcher": "latest",
+        "abt.api.web": "latest",
+        "abtest": "latest",
+        "abtest-cli": "latest",
+        "abtest-core": "latest",
+        "abtest-node": "latest",
+        "abtest-react": "latest",
+        "abtest-util": "latest",
+        "abtest-web": "latest",
+        "abtesting-node": "latest",
+        "abtesting-web": "latest",
+        "abtestly": "latest",
+        "abtion-test-design-system": "latest",
+        "abtnode": "latest",
+        "abtool-amqp": "latest",
+        "abtool-plugin": "latest"
+    }
+}

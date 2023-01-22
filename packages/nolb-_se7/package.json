@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_se7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@se7enmiles/noto_sans_armenian_webfont": "latest",
+        "@se7ensky/webiny-api-page-builder-page-settings-additional": "latest",
+        "@se7ensky/webiny-api-page-builder-page-settings-connections": "latest",
+        "@se7ensky/webiny-api-page-builder-unpublish-page": "latest",
+        "@se7ensky/webiny-app-page-builder-classname": "latest",
+        "@se7ensky/webiny-app-page-builder-custom-google-map": "latest",
+        "@se7ensky/webiny-app-page-builder-custom-image-hovered": "latest",
+        "@se7ensky/webiny-app-page-builder-custom-image-link": "latest",
+        "@se7ensky/webiny-app-page-builder-custom-video": "latest",
+        "@se7ensky/webiny-app-page-builder-custom-video-bg": "latest",
+        "@se7ensky/webiny-app-page-builder-duplicate-page": "latest",
+        "@se7ensky/webiny-app-page-builder-element-groups": "latest",
+        "@se7ensky/webiny-app-page-builder-images-carousel": "latest",
+        "@se7ensky/webiny-app-page-builder-page-settings-additional": "latest",
+        "@se7ensky/webiny-app-page-builder-page-settings-connections": "latest",
+        "@se7ensky/webiny-app-page-builder-slider": "latest",
+        "@se7ensky/webiny-app-page-builder-unpublish-page": "latest",
+        "@se7entyse7en/react-data-viz": "latest",
+        "@se7enwang/ffmpeg": "latest",
+        "@se7enwang/ghost-qn-store": "latest",
+        "@se7enwang/npm-test": "latest",
+        "@se7rgo/lotide": "latest"
+    }
+}

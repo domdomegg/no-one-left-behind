@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-v7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "v7": "latest",
+        "v7-components": "latest",
+        "v7-cordova": "latest",
+        "v7-shared-components": "latest",
+        "v777": "latest",
+        "v7_lib": "latest",
+        "v7app": "latest",
+        "v7ext": "latest",
+        "v7softphone": "latest",
+        "v7softphone_2015": "latest",
+        "v7softphone_test": "latest",
+        "v7ui": "latest"
+    }
+}

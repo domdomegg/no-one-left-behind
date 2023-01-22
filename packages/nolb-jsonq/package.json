@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-jsonq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jsonq": "latest",
+        "jsonq-js": "latest",
+        "jsonql": "latest",
+        "jsonql-cli": "latest",
+        "jsonql-js": "latest",
+        "jsonql-totaljs": "latest",
+        "jsonqlweb": "latest",
+        "jsonqr": "latest",
+        "jsonqs": "latest",
+        "jsonque": "latest",
+        "jsonquery": "latest",
+        "jsonquery-engine": "latest",
+        "jsonquerybuilder": "latest",
+        "jsonqueryjs": "latest",
+        "jsonquerylanguage": "latest",
+        "jsonquest": "latest",
+        "jsonqueue": "latest"
+    }
+}

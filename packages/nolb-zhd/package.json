@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-zhd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zhd_sk_npm": "latest",
+        "zhdaily": "latest",
+        "zhdate": "latest",
+        "zhdc-im": "latest",
+        "zhdd-im": "latest",
+        "zhdd-map": "latest",
+        "zhdd-map-wx": "latest",
+        "zhdd-maps": "latest",
+        "zhdd-request": "latest",
+        "zhdd-web-im": "latest",
+        "zhding-webpack-numbers": "latest",
+        "zhdsh": "latest",
+        "zhdsh-blazy": "latest",
+        "zhdsh-loader": "latest",
+        "zhdsh-xscroll": "latest",
+        "zhdst-commodity-center-vue": "latest",
+        "zhdst-common-utils": "latest",
+        "zhdst-common-vue": "latest",
+        "zhdst-model-js": "latest",
+        "zhdst-permission-vue": "latest",
+        "zhdst-pwb-vue": "latest",
+        "zhdst-rule-moddle": "latest",
+        "zhdtest": "latest",
+        "zhduer-rtc": "latest",
+        "zhdun": "latest",
+        "zhdwinnergaileyougaihahaha": "latest"
+    }
+}

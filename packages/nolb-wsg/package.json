@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-wsg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wsg": "latest",
+        "wsg-app-context": "latest",
+        "wsg-code-examples": "latest",
+        "wsg-data": "latest",
+        "wsg-env": "latest",
+        "wsg-file-context": "latest",
+        "wsg-file-header": "latest",
+        "wsg-file-renderer": "latest",
+        "wsg-file-scanner": "latest",
+        "wsg-generator": "latest",
+        "wsg-plugin-copy": "latest",
+        "wsg-plugin-css": "latest",
+        "wsg-plugin-javascript": "latest",
+        "wsg-plugin-manager": "latest",
+        "wsg-plugin-markdown": "latest",
+        "wsg-plugin-mustache": "latest",
+        "wsg-plugin-sass": "latest",
+        "wsg-project-config": "latest",
+        "wsg-schema": "latest",
+        "wsg-until": "latest",
+        "wsg-web-dev": "latest",
+        "wsgateway": "latest",
+        "wsgcomponents": "latest",
+        "wsget": "latest",
+        "wsgif": "latest",
+        "wsgilite": "latest",
+        "wsgrpc": "latest",
+        "wsgw": "latest"
+    }
+}

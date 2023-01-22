@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_jev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jevakallio/graphql-binding": "latest",
+        "@jevaughn_w/lotide": "latest",
+        "@jeve/lyrics-finder": "latest",
+        "@jeverschue/customcheckbox": "latest",
+        "@jevin/echarts": "latest",
+        "@jevon617/eslint-config-basic": "latest",
+        "@jevon617/eslint-config-ts": "latest",
+        "@jevon617/eslint-config-vue": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_i5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@i5920/uni-socket": "latest",
+        "@i5920/uni-socket-promise": "latest",
+        "@i5irin-monorepo-training/greet": "latest",
+        "@i5irin-monorepo-training/say": "latest",
+        "@i5o/cli": "latest"
+    }
+}

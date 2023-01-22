@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-dateu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dateup": "latest",
+        "dateutil": "latest",
+        "dateutility-aslam": "latest",
+        "dateutils": "latest",
+        "dateutils-esm": "latest"
+    }
+}

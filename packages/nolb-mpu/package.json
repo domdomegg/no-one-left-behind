@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-mpu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mpu": "latest",
+        "mpu-cli-app": "latest",
+        "mpu6050": "latest",
+        "mpu6050-dmp": "latest",
+        "mpu6050-gyro": "latest",
+        "mpu6050-wiringpi": "latest",
+        "mpu9150": "latest",
+        "mpu9250": "latest",
+        "mpublic": "latest",
+        "mpublish": "latest",
+        "mpubsub": "latest",
+        "mpugach-angular2-jsonapi": "latest",
+        "mpui": "latest",
+        "mpui-react-flexible-switch": "latest",
+        "mpulse": "latest",
+        "mpulse-design-system": "latest",
+        "mpulse-query": "latest",
+        "mpulsemobile-react-component-library": "latest",
+        "mpup": "latest",
+        "mpush": "latest",
+        "mpush-sdk": "latest",
+        "mput-pg": "latest",
+        "mpuzzlesye": "latest"
+    }
+}

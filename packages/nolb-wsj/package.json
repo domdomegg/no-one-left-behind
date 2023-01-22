@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-wsj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wsj": "latest",
+        "wsj-banji": "latest",
+        "wsj-test-pulic": "latest",
+        "wsj.gatsby-source-git": "latest",
+        "wsj.vue-observe-visibility": "latest",
+        "wsj.vue-resize": "latest",
+        "wsj.vue-socket.io": "latest",
+        "wsj.vue-virtual-scroller": "latest",
+        "wsj.vue3-echarts": "latest",
+        "wsj_111111": "latest",
+        "wsj_123456": "latest",
+        "wsj_1911a_2411": "latest",
+        "wsj_22222": "latest",
+        "wsj_456": "latest",
+        "wsj_node11": "latest",
+        "wsjls-design": "latest",
+        "wsjls-test": "latest",
+        "wsjs-cli": "latest",
+        "wsjt-reader": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-ocf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ocf": "latest",
+        "ocf-converter-sdk": "latest",
+        "ocf-desktop-notifications": "latest",
+        "ocf-emoji": "latest",
+        "ocf-gravatar": "latest",
+        "ocf-history": "latest",
+        "ocf-markdown": "latest",
+        "ocf-online-user-search": "latest",
+        "ocf-plugin": "latest",
+        "ocf-random-username": "latest",
+        "ocf-typing-indicator": "latest",
+        "ocf-unread-messages": "latest",
+        "ocf-uploadcare": "latest",
+        "ocfe": "latest",
+        "ocfe-cli": "latest",
+        "ocfl": "latest",
+        "ocframework": "latest",
+        "ocframework-test": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_ce1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ce1cecl/discord-tictactoe": "latest",
+        "@ce1pers/date-helpers": "latest",
+        "@ce1pers/logger-helpers": "latest",
+        "@ce1pers/random-helpers": "latest",
+        "@ce1pers/storage-helpers": "latest",
+        "@ce1pers/use-animation": "latest",
+        "@ce1pers/use-array": "latest",
+        "@ce1pers/use-class": "latest",
+        "@ce1pers/use-datetime": "latest",
+        "@ce1pers/use-image": "latest",
+        "@ce1pers/use-number": "latest",
+        "@ce1pers/use-page": "latest",
+        "@ce1pers/use-password": "latest",
+        "@ce1pers/use-resource": "latest",
+        "@ce1pers/use-screen": "latest",
+        "@ce1pers/use-sort": "latest",
+        "@ce1pers/use-window": "latest",
+        "@ce1pers/window-helpers": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-grapp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grapp": "latest",
+        "grapp-common": "latest",
+        "grapp-common-se": "latest",
+        "grapple": "latest",
+        "grapplehound": "latest",
+        "grappler": "latest",
+        "grappler-deploy-heroku": "latest",
+        "grappler-hook-github": "latest",
+        "grappler-logger-stdout": "latest",
+        "grappling": "latest",
+        "grappling-hook": "latest",
+        "grappling-hook-lounge": "latest",
+        "grappq2": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_dsl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dsl-cc/schematics": "latest",
+        "@dsla-protocol/contracts": "latest",
+        "@dsla-protocol/core": "latest",
+        "@dslak/staples": "latest",
+        "@dslaporte/luizalabs_commons_nestjs": "latest",
+        "@dslate/component": "latest",
+        "@dslate/core": "latest",
+        "@dslate/dslate": "latest",
+        "@dslate/plugin": "latest",
+        "@dslate/semi": "latest",
+        "@dslc/antd-lowcode-materials": "latest",
+        "@dslc/antd-materials": "latest",
+        "@dslc/antd-plugins": "latest",
+        "@dslc/antd-setters": "latest",
+        "@dslc/formily-materials": "latest",
+        "@dslc/fusion-ui": "latest",
+        "@dslc/lowcode-code-generator": "latest",
+        "@dslc/lowcode-engine-ext": "latest",
+        "@dslc/lowcode-materials": "latest",
+        "@dslc/pro-layout": "latest",
+        "@dsludwig/depcheck": "latest",
+        "@dslzuha/my-package": "latest",
+        "@dslzuha/statuskit": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_alih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alihajeb/ckeditor5-build-classic-persian": "latest",
+        "@alihashemi86/lotide": "latest",
+        "@alihasnain/tag-selector": "latest",
+        "@alihassan0/html-screen-capture-js": "latest",
+        "@aliho3ein/rnid": "latest",
+        "@alihooks/next": "latest"
+    }
+}

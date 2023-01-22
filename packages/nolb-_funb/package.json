@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_funb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@funborg/dices": "latest",
+        "@funboxteam/api-validator": "latest",
+        "@funboxteam/babel-plugin-typograf": "latest",
+        "@funboxteam/beatrix": "latest",
+        "@funboxteam/blueprinter": "latest",
+        "@funboxteam/chronos": "latest",
+        "@funboxteam/crafter": "latest",
+        "@funboxteam/diamonds": "latest",
+        "@funboxteam/eslint-config": "latest",
+        "@funboxteam/eslint-plugin-no-only-tests": "latest",
+        "@funboxteam/fazio": "latest",
+        "@funboxteam/free-port-finder": "latest",
+        "@funboxteam/frontend-tests-runner": "latest",
+        "@funboxteam/harold": "latest",
+        "@funboxteam/languagetool-node": "latest",
+        "@funboxteam/markdown-lint": "latest",
+        "@funboxteam/optimizt": "latest",
+        "@funboxteam/phantom-lord": "latest",
+        "@funboxteam/rebuild-in-progress-webpack-plugin": "latest",
+        "@funboxteam/scss-imports-loader": "latest",
+        "@funboxteam/scss-lint-config": "latest",
+        "@funboxteam/scss-utils": "latest",
+        "@funboxteam/scss-vars-loader": "latest",
+        "@funboxteam/stylelint-rules": "latest",
+        "@funboxteam/webpack-dev-server-firewall": "latest"
+    }
+}

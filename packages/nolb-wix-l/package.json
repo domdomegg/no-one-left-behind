@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-wix-l",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wix-laboratory-api": "latest",
+        "wix-laboratory-server-api": "latest",
+        "wix-labs-pdf-viewer-statics": "latest",
+        "wix-lifecycle-api": "latest",
+        "wix-lifecycle-facade": "latest",
+        "wix-locale-data": "latest",
+        "wix-locales": "latest",
+        "wix-location": "latest",
+        "wix-log-file-testkit": "latest",
+        "wix-logger": "latest",
+        "wix-logging-adapter-testkit": "latest",
+        "wix-logging-client": "latest",
+        "wix-logging-client-support": "latest",
+        "wix-logging-cluster-plugin": "latest",
+        "wix-logging-console-adapter": "latest",
+        "wix-logging-debug-adapter": "latest",
+        "wix-logging-log4js-adapter": "latest"
+    }
+}

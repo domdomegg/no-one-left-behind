@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-formc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "formcache": "latest",
+        "formcarry": "latest",
+        "formcarry-cli": "latest",
+        "formcast": "latest",
+        "formcaster": "latest",
+        "formcat": "latest",
+        "formcheck": "latest",
+        "formcheck3": "latest",
+        "formchecker": "latest",
+        "formcheckk": "latest",
+        "formcheckr": "latest",
+        "formchen": "latest",
+        "formchimp": "latest",
+        "formcoil": "latest",
+        "formcompare": "latest",
+        "formcomponents-stencil": "latest",
+        "formconv": "latest",
+        "formcore": "latest",
+        "formcore-js": "latest",
+        "formcore-lang": "latest",
+        "formcorelint": "latest",
+        "formcreator-dynamic": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-markdownd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "markdownd": "latest",
+        "markdowndb.macro": "latest",
+        "markdowndeep": "latest",
+        "markdowndoc": "latest",
+        "markdowndoc-markdown-parser": "latest",
+        "markdowndoc-theme-default": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-in2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "in2-flow": "latest",
+        "in2-game-front": "latest",
+        "in2-game-util": "latest",
+        "in2-webhooks-js": "latest",
+        "in2iframeconsent": "latest",
+        "in2itbot": "latest",
+        "in2itchatbottest": "latest",
+        "in2pos": "latest"
+    }
+}

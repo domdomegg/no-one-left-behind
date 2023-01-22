@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-ran_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ran.json": "latest",
+        "ran_no_gen": "latest",
+        "ran_optimointi": "latest",
+        "ran_str_module": "latest"
+    }
+}

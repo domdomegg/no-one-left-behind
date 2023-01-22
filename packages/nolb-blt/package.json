@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-blt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "blt": "latest",
+        "blt-demo": "latest",
+        "blt-node-mock-server": "latest",
+        "blt-react-dates": "latest",
+        "blt-translate-api": "latest",
+        "blt-vue-input-code": "latest",
+        "blt-vue-template": "latest",
+        "bltest": "latest",
+        "bltjs": "latest",
+        "bltvue3-cli": "latest"
+    }
+}

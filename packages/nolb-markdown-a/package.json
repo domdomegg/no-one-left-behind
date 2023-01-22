@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-markdown-a",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "markdown-abstract": "latest",
+        "markdown-air": "latest",
+        "markdown-all": "latest",
+        "markdown-all-in-one-customized": "latest",
+        "markdown-alt": "latest",
+        "markdown-amp": "latest",
+        "markdown-anchor": "latest",
+        "markdown-api": "latest",
+        "markdown-api-parser": "latest",
+        "markdown-app": "latest",
+        "markdown-area-element": "latest",
+        "markdown-article-format": "latest",
+        "markdown-article-to-html": "latest",
+        "markdown-ast": "latest",
+        "markdown-ast-loader": "latest",
+        "markdown-ast-to-tree": "latest",
+        "markdown-attachment-p2p": "latest",
+        "markdown-attr": "latest",
+        "markdown-autodocs": "latest",
+        "markdown-av": "latest"
+    }
+}

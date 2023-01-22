@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-geoa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "geoadmin": "latest",
+        "geoadv-account": "latest",
+        "geoadv-app": "latest",
+        "geoadv-entities": "latest",
+        "geoadv-linters": "latest",
+        "geoadv-proptypes-codegen": "latest",
+        "geoadv-ts-codegen": "latest",
+        "geoanime": "latest",
+        "geoapi": "latest",
+        "geoapi-cli": "latest",
+        "geoapi12312341": "latest",
+        "geoarea": "latest",
+        "geoareafast": "latest",
+        "geoauth": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-lightt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lighttable-bin": "latest",
+        "lighttalk_nodes": "latest",
+        "lighttalk_relay_nodes": "latest",
+        "lighttalk_schedule_no_mqtt": "latest",
+        "lighttalk_schedule_nodes": "latest",
+        "lighttest": "latest",
+        "lighttoken": "latest",
+        "lighttp": "latest",
+        "lighttree-game": "latest"
+    }
+}

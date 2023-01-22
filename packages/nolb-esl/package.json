@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-esl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "esl": "latest",
+        "@zalastax/nolb-esli": "latest",
+        "@zalastax/nolb-esl-": "latest",
+        "@zalastax/nolb-esl7": "latest",
+        "@zalastax/nolb-esla": "latest",
+        "@zalastax/nolb-esle": "latest",
+        "@zalastax/nolb-eslj": "latest",
+        "@zalastax/nolb-eslo": "latest",
+        "@zalastax/nolb-esls": "latest",
+        "@zalastax/nolb-eslu": "latest"
+    }
+}

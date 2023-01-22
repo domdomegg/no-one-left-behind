@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_tue",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tueeeeno/url-builder": "latest",
+        "@tueik/test": "latest",
+        "@tuentyfaiv/gallery-react": "latest",
+        "@tuentyfaiv/mediaplayer": "latest",
+        "@tueri/react": "latest",
+        "@tueri/react-tueri": "latest"
+    }
+}

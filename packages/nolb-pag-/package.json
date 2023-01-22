@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-pag-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pag-cli": "latest",
+        "pag-cli-8486": "latest",
+        "pag-demo": "latest",
+        "pag-miniprogram": "latest",
+        "pag-sjx123": "latest",
+        "pag-template-node-module": "latest",
+        "pag-zfpx": "latest"
+    }
+}

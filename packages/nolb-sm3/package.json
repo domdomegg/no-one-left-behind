@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-sm3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sm3": "latest",
+        "sm3.js": "latest",
+        "sm3d-categories": "latest",
+        "sm3d-forgot-password": "latest",
+        "sm3d-login": "latest",
+        "sm3d-products": "latest",
+        "sm3d-register": "latest",
+        "sm3d-sample": "latest",
+        "sm3d-search": "latest",
+        "sm3d-second-test": "latest",
+        "sm3d-simple-test": "latest"
+    }
+}

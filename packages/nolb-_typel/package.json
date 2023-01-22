@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_typel",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@typeless/deep-extend": "latest",
+        "@typeless/jss": "latest",
+        "@typeless/jss-preset-default": "latest",
+        "@typeless/murmurhash-js": "latest",
+        "@typeless/object-assign": "latest",
+        "@typeless/warning": "latest",
+        "@typelib/eslint-plugin": "latest",
+        "@typelib/facades": "latest",
+        "@typelib/framework": "latest",
+        "@typelib/functions": "latest",
+        "@typelib/shared-config": "latest",
+        "@typelib/typescript-types": "latest",
+        "@typelikeme/tlmjs": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-coms",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "coms": "latest",
+        "coms-cli": "latest",
+        "coms-color-button": "latest",
+        "coms-ui": "latest",
+        "comsa-components": "latest",
+        "comsat": "latest",
+        "comscore": "latest",
+        "comscroll": "latest",
+        "comsel": "latest",
+        "comshare": "latest",
+        "comsharewfs": "latest",
+        "comsigapp": "latest",
+        "comsis_jmy": "latest",
+        "comsis_jmy_admin": "latest",
+        "comsness": "latest",
+        "comsrfhgftygygjhygyyygyyy": "latest",
+        "comst": "latest",
+        "comstock": "latest",
+        "comstock-storage": "latest",
+        "comsu": "latest",
+        "comsummation": "latest",
+        "comsvr": "latest",
+        "comsvr-ast": "latest",
+        "comsvr-random": "latest",
+        "comsvr-time": "latest",
+        "comsync": "latest"
+    }
+}

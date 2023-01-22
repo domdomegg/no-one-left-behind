@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-react-stl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-stl-file-viewer": "latest",
+        "react-stl-obj-viewer": "latest",
+        "react-stl-obj-viewer-fork": "latest",
+        "react-stl-viewer": "latest",
+        "react-stlloader-component": "latest"
+    }
+}

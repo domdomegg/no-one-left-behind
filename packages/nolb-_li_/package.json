@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_li_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@li.shaon/ckeditor5-build": "latest",
+        "@li.shaon/vue-cal": "latest",
+        "@li_shen/canvas": "latest",
+        "@li_shengyou/xmysql": "latest",
+        "@li_shifeng/li-test": "latest",
+        "@li_shifeng/li-test-lib": "latest",
+        "@li_xiaopeng/time_formate": "latest",
+        "@li_yuheng/common_javascript": "latest",
+        "@li_zzj/verify": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_shaq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shaquillehinds/graphql-query-builder": "latest",
+        "@shaquillehinds/react-native-components-transitions": "latest",
+        "@shaquillehinds/react-native-draggable-flatlist": "latest"
+    }
+}

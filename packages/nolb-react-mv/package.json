@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-react-mv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-mvc": "latest",
+        "react-mvc-schelet": "latest",
+        "react-mvi": "latest",
+        "react-mvp": "latest",
+        "react-mvp-ts": "latest",
+        "react-mvvm": "latest",
+        "react-mvvm-generator": "latest",
+        "react-mvvm-like": "latest",
+        "react-mvx": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_panp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@panpan31415/simple_calculator": "latest",
+        "@panpress/cli": "latest",
+        "@panpress/webapp": "latest",
+        "@panprices/install-structlog": "latest"
+    }
+}

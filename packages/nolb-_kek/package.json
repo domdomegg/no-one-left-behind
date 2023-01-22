@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_kek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kekalma/language-selector": "latest",
+        "@kekalma/switch": "latest",
+        "@kekefreedog/luckyjs": "latest",
+        "@kekele/myplugins": "latest",
+        "@kekkarinfotech/kekkartest": "latest",
+        "@kekkorider/vue-three": "latest",
+        "@kekse.biz/lib.js": "latest",
+        "@kekse/lib.js": "latest",
+        "@kektus/kafka-utils": "latest",
+        "@kekupua/web-components": "latest",
+        "@kekwchat/ws": "latest"
+    }
+}

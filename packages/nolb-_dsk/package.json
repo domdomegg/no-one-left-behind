@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_dsk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dskkato/hello-wasm": "latest",
+        "@dskop/jssip": "latest",
+        "@dskrepps/config": "latest",
+        "@dsks/access-module": "latest",
+        "@dsks/simple-pagination": "latest",
+        "@dsktickets/common": "latest",
+        "@dsktschy/chokidar": "latest",
+        "@dsktschy/laravel-mix-pug": "latest",
+        "@dsky1990/sdk": "latest"
+    }
+}

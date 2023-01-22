@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-smarti",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smarti18n": "latest",
+        "smartid-auth": "latest",
+        "smartid-calls": "latest",
+        "smartie": "latest",
+        "smarties": "latest",
+        "smartify-oauth2-server": "latest",
+        "smartify-schema": "latest",
+        "smartiles": "latest",
+        "smartimage": "latest",
+        "smartimob-cli": "latest",
+        "smartinfo-component": "latest",
+        "smartinput": "latest",
+        "smartintent": "latest",
+        "smartinterval": "latest",
+        "smartinvoice-sdk": "latest",
+        "smartip": "latest",
+        "smartisan-component": "latest",
+        "smartisan-ui": "latest",
+        "smartisan-utils": "latest",
+        "smartisanos": "latest",
+        "smartiterator": "latest"
+    }
+}

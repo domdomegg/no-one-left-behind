@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-ipx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ipx": "latest",
+        "ipx-client": "latest",
+        "ipx-s3-middleware": "latest",
+        "ipxe": "latest",
+        "ipxksnruvewdzbgm": "latest",
+        "ipxpiechart": "latest"
+    }
+}

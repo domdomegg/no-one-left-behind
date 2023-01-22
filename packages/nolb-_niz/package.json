@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_niz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@niz10/common": "latest",
+        "@nizamcse/ckeditor5-build-classic": "latest",
+        "@nizza/core": "latest",
+        "@nizza/customize-live": "latest",
+        "@nizza/event-products": "latest",
+        "@nizza/player": "latest",
+        "@nizzle94/ethereum-sdk-demo": "latest"
+    }
+}

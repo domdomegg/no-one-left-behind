@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_myf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@myf-test-components/button": "latest",
+        "@myf-test-components/button-group": "latest",
+        "@myfan/auth": "latest",
+        "@myfan/core": "latest",
+        "@myfan/react-phone-input-2": "latest",
+        "@myfarms/mf-mask": "latest",
+        "@myfarms/mf-select": "latest",
+        "@myfave/aws4-react-native": "latest",
+        "@myfave/promise-timeout": "latest",
+        "@myfave/react-native-android-wifi": "latest",
+        "@myfave/react-native-barcode-scanner-google": "latest",
+        "@myfave/react-native-rest-client": "latest",
+        "@myfin/convenience-functions": "latest",
+        "@myfintech/material-ui": "latest",
+        "@myfintech/react-dimensions": "latest",
+        "@myfish/mychain": "latest",
+        "@myfrom/iron-swipeable-pages": "latest",
+        "@myfrom/logger": "latest",
+        "@myfrom/notifier": "latest",
+        "@myfrom/paper-calendar": "latest",
+        "@myfrom/paper-pager": "latest",
+        "@myfrontframejs/keepalive": "latest"
+    }
+}

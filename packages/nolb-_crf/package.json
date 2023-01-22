@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_crf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@crfd/cs-models": "latest",
+        "@crft/appsync-gateway": "latest",
+        "@crft/crfonts": "latest",
+        "@crft/jsonata-code-completion": "latest",
+        "@crft/jsonizer": "latest",
+        "@crft/prettier-config": "latest",
+        "@crft/react-split-pane": "latest",
+        "@crft/shortid": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_tria",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@triact/message-bus.core": "latest",
+        "@triad-ltd/curo-react-components": "latest",
+        "@triadica/touch-control": "latest",
+        "@trialcard/npmtakeover": "latest",
+        "@trialspark/getter-to-string": "latest",
+        "@trialspark/react-big-calendar": "latest",
+        "@trian/mv-label": "latest",
+        "@triangular/bootstrap-icons": "latest",
+        "@triangular/fluid-simulation": "latest",
+        "@triangular/font-awesome-icons": "latest",
+        "@triangular/material-icons": "latest",
+        "@triangular/noto-emoji-icons": "latest",
+        "@triangular/password-checker": "latest",
+        "@triangular/rpg-awesome-icons": "latest",
+        "@triangular/shader": "latest",
+        "@triangulostecnologia/flow": "latest",
+        "@triarius/pipeline-schema": "latest",
+        "@triaxio/node-router": "latest",
+        "@triaxio/node-xwhois": "latest",
+        "@triazic/rc-dock": "latest",
+        "@triazic/redux-utils": "latest"
+    }
+}

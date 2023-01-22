@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-css-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "css-name": "latest",
+        "css-name-optimizer-plugin": "latest",
+        "css-named-colors": "latest",
+        "css-namespacing": "latest",
+        "css-namespacing-loader": "latest",
+        "css-navigation-library": "latest",
+        "css-neat-grid": "latest",
+        "css-neo": "latest",
+        "css-ngx-quill": "latest",
+        "css-node": "latest",
+        "css-node-extract": "latest",
+        "css-normalize": "latest",
+        "css-normalize-value": "latest",
+        "css-npm-package": "latest",
+        "css-npm-practice": "latest",
+        "css-npm-publish-demo-1": "latest",
+        "css-ns": "latest"
+    }
+}

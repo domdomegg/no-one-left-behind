@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-fod",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fod": "latest",
+        "fod-component": "latest",
+        "foda": "latest",
+        "fodash": "latest",
+        "fodchart": "latest",
+        "fodder": "latest",
+        "fodder-first-package": "latest",
+        "fode": "latest",
+        "fodselsnummer": "latest",
+        "fodselsnummer-generator": "latest",
+        "fody": "latest",
+        "fody-app": "latest",
+        "fody-html-layout": "latest",
+        "fody-redux": "latest",
+        "fody-redux-app": "latest"
+    }
+}

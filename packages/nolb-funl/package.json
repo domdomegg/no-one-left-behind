@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-funl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "funl": "latest",
+        "funland": "latest",
+        "funland-laws": "latest",
+        "funlayer": "latest",
+        "funlazy": "latest",
+        "funlee-gulp": "latest",
+        "funlee-webpack": "latest",
+        "funless": "latest",
+        "funlibrary": "latest",
+        "funlinify": "latest",
+        "funlo-wui": "latest",
+        "funlog": "latest",
+        "funlogger": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_inh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@inh-lib/common": "latest",
+        "@inh-lib/ddd": "latest",
+        "@inhaltone/double-agent-scroll": "latest",
+        "@inharul/luto": "latest",
+        "@inhauth/core": "latest",
+        "@inhauth/solid": "latest",
+        "@inheaden/ihe": "latest",
+        "@inheap/bunyan-mqtt": "latest",
+        "@inheap/utils": "latest",
+        "@inhibitor1217/coffee-hmm-common": "latest",
+        "@inhibitor1217/mighty-eslint-config": "latest",
+        "@inhibitor1217/react-swipeablepanel": "latest",
+        "@inhouze/test": "latest"
+    }
+}

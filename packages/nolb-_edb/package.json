@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_edb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@edb-qro/ckeditor5-build-edb": "latest",
+        "@edb-qro/ng-edb-draggable": "latest",
+        "@edb-qro/ng-select": "latest",
+        "@edbenote/local-api": "latest",
+        "@edbenote/local-client": "latest",
+        "@edbstu/cwp_22_rev": "latest",
+        "@edbzn/nuxt": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-itv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "itv": "latest",
+        "itv-node-splunk": "latest",
+        "itv-plugin": "latest",
+        "itv-services": "latest",
+        "itv-splunklog": "latest",
+        "itv-ui": "latest",
+        "itv_server": "latest",
+        "itval": "latest",
+        "itvector-weathercli": "latest",
+        "itvihan-tools": "latest",
+        "itvrepo": "latest",
+        "itvtest": "latest"
+    }
+}

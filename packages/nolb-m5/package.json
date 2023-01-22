@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-m5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "m5": "latest",
+        "m5-cli": "latest",
+        "m5-npm-test-a": "latest",
+        "m5-npm-test-b": "latest",
+        "m5-npm-test-c": "latest",
+        "m512-countdown": "latest",
+        "m5att-facebookutil": "latest",
+        "m5att-gautil": "latest",
+        "m5att-sass-mixins": "latest",
+        "m5att-utils": "latest",
+        "m5d": "latest",
+        "m5js": "latest",
+        "m5stackjs": "latest",
+        "m5stickcjs": "latest",
+        "m5ui": "latest"
+    }
+}

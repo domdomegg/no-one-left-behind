@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-supi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "supi": "latest",
+        "supi-glitch": "latest",
+        "supick": "latest",
+        "supin-sp-breadcrumb": "latest",
+        "supin-sp-button": "latest",
+        "supin-sp-cascader": "latest",
+        "supin-sp-checkbox": "latest",
+        "supin-sp-collapse": "latest",
+        "supin-sp-form": "latest",
+        "supin-sp-input": "latest",
+        "supin-sp-inputnumber": "latest",
+        "supin-sp-mult-selector": "latest",
+        "supin-sp-nav": "latest",
+        "supin-sp-pagination": "latest",
+        "supin-sp-radio": "latest",
+        "supin-sp-selector": "latest",
+        "supin-sp-table": "latest",
+        "supin-sp-tabs": "latest",
+        "supin-sp-tag": "latest",
+        "supin-sp-textarea": "latest",
+        "supin-sp-toast": "latest",
+        "supin-sp-tree": "latest",
+        "supine": "latest"
+    }
+}

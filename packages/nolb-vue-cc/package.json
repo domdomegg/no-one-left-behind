@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-vue-cc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cc": "latest",
+        "vue-cc-input": "latest",
+        "vue-cc-quaggajs": "latest",
+        "vue-cc-ui": "latest",
+        "vue-ccard": "latest",
+        "vue-ccb-web": "latest",
+        "vue-ccpt": "latest"
+    }
+}

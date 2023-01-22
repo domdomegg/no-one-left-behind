@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_ioc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@iocast/array-utilities": "latest",
+        "@iocast/aurelia-mdc-plugin": "latest",
+        "@iocast/aurelia-value-converters": "latest",
+        "@iocast/koa-i18next": "latest",
+        "@iocmd/hold-up": "latest",
+        "@iocmd/wait": "latest",
+        "@ioco-dev/ioco-framework": "latest"
+    }
+}

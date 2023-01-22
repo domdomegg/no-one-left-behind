@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-k9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "k9": "latest",
+        "k9-mysql": "latest",
+        "k9-test-package": "latest",
+        "k9bot": "latest",
+        "k9vmg": "latest"
+    }
+}

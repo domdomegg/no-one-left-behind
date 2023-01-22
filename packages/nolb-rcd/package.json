@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-rcd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rcd": "latest",
+        "rcd-button": "latest",
+        "rcd-ci": "latest",
+        "rcd-cli": "latest",
+        "rcd-common-style": "latest",
+        "rcd-link": "latest",
+        "rcd-tweaked": "latest",
+        "rcd-ui": "latest",
+        "rcd-ui-sys": "latest",
+        "rcd-ui-system1": "latest",
+        "rcd-ui-system2": "latest",
+        "rcd-ui-system3": "latest",
+        "rcd-ui-test": "latest",
+        "rcd-ui-test-system": "latest",
+        "rcd-ui-test1": "latest",
+        "rcd-ui-test2": "latest",
+        "rcd-ui-test3": "latest",
+        "rcd-utils": "latest",
+        "rcd-websocket-sdk": "latest",
+        "rcd-wsnoti-sdk": "latest",
+        "rcdasm-2020": "latest",
+        "rcdasm-maria": "latest",
+        "rcdasm-myles": "latest",
+        "rcdb": "latest",
+        "rcdk": "latest",
+        "rcdk-patterns": "latest",
+        "rcdm": "latest",
+        "rcdoc-theme-default": "latest"
+    }
+}

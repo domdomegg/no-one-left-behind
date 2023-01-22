@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-promisel",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "promiseland": "latest",
+        "promiseland-compiler": "latest",
+        "promiseland-pg": "latest",
+        "promiseland-webframework": "latest",
+        "promiselite": "latest",
+        "promisell": "latest",
+        "promiseloop": "latest",
+        "promisely": "latest",
+        "promisely-fs": "latest"
+    }
+}

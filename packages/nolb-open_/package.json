@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-open_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "open.core": "latest",
+        "open.sen.se": "latest",
+        "open_api_eps": "latest",
+        "open_api_petstore": "latest",
+        "open_api_ti_inquiry": "latest",
+        "open_bilrost": "latest",
+        "open_bilrost_cli": "latest",
+        "open_book_api_reference": "latest",
+        "open_browser": "latest",
+        "open_castings_components": "latest",
+        "open_dragon_dirs": "latest",
+        "open_dragon_init": "latest",
+        "open_fs_button": "latest",
+        "open_fs_button-example": "latest",
+        "open_id_2.0_client": "latest",
+        "open_jetbrains_ide": "latest",
+        "open_mongo_dbs": "latest",
+        "open_party_api": "latest",
+        "open_payments_cloud_application_api": "latest",
+        "open_sans": "latest",
+        "open_secrets": "latest",
+        "open_stats": "latest",
+        "open_trails": "latest",
+        "open_zip": "latest"
+    }
+}

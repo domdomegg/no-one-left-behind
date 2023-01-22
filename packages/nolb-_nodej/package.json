@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_nodej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nodejavascript/array-key-sum": "latest",
+        "@nodejayes/data_factory": "latest",
+        "@nodeject/build": "latest",
+        "@nodeject/nodeject-build": "latest",
+        "@nodeject/nodeject-grunt-build": "latest",
+        "@nodeject/nodeject-wbs": "latest",
+        "@nodejh/draftjs-to-html": "latest",
+        "@nodejh/react-draft-wysiwyg": "latest",
+        "@nodejscart/core": "latest",
+        "@nodejscart/mysql-query-builder": "latest",
+        "@nodejunkie/json-schema-class": "latest"
+    }
+}

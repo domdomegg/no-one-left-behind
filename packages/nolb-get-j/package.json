@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-get-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "get-js": "latest",
+        "get-js-object-key-value": "latest",
+        "get-json": "latest",
+        "get-json-basename": "latest",
+        "get-json-body": "latest",
+        "get-json-config": "latest",
+        "get-json-data": "latest",
+        "get-json-hq": "latest",
+        "get-json-lite": "latest",
+        "get-json-patches": "latest",
+        "get-json-plz": "latest",
+        "get-json-promise": "latest",
+        "get-json-value": "latest",
+        "get-json22": "latest",
+        "get-jsx-factory": "latest",
+        "get-jwks": "latest"
+    }
+}

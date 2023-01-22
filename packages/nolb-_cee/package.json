@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_cee",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ceebr/register": "latest",
+        "@ceecko/acme-client": "latest",
+        "@ceecko/en-debounce": "latest",
+        "@ceecko/form-generator": "latest",
+        "@ceed/colors": "latest",
+        "@ceed/core": "latest",
+        "@ceed/query": "latest",
+        "@ceed/themes": "latest",
+        "@ceed/ui": "latest",
+        "@ceeety/core": "latest",
+        "@ceeghee/deploy-js": "latest",
+        "@ceeghee/deploy-nest": "latest",
+        "@ceejbot/dirac": "latest",
+        "@ceejbot/jumphash": "latest",
+        "@ceejbot/pagerduty-trigger": "latest",
+        "@ceejbot/restify-monitor": "latest",
+        "@ceejbot/tarot": "latest",
+        "@ceephax/document": "latest",
+        "@ceephax/parent-package": "latest",
+        "@ceesargtz/platzom": "latest",
+        "@ceesystems/valid-objects-ts": "latest",
+        "@ceez/utils": "latest",
+        "@ceezv6/tiny": "latest"
+    }
+}

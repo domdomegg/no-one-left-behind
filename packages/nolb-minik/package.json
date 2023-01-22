@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-minik",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "minik": "latest",
+        "minikeys": "latest",
+        "minikin": "latest",
+        "minikin-router": "latest",
+        "minikube-cli": "latest",
+        "minikube-docker-port-mapper": "latest",
+        "minikube-ip": "latest",
+        "minikube-test-2017": "latest",
+        "minikube-test-2017-2": "latest",
+        "minikube-test-2017-3": "latest",
+        "minikube-test-2017-4": "latest",
+        "minikube-test-2017-5": "latest",
+        "minikube-test-2017-6": "latest",
+        "minikuna": "latest"
+    }
+}

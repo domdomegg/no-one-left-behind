@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-d4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "d4": "latest",
+        "d4-analogue-sensor": "latest",
+        "d4-counter-sensor-component": "latest",
+        "d4-counter-sensor-graph": "latest",
+        "d41d8cd98f00b204e9800998ecf8427e": "latest",
+        "d42paas_ideserver": "latest",
+        "d4a-cloudui": "latest",
+        "d4axios": "latest",
+        "d4c-manager": "latest",
+        "d4c-queue": "latest",
+        "d4c437936cad6b1482f911538ef115e6": "latest",
+        "d4ch-cv-cli": "latest",
+        "d4data-archive-process-lib": "latest",
+        "d4devil-nodejs1": "latest",
+        "d4dpocket": "latest",
+        "d4g-global-search": "latest",
+        "d4g-vehicle-compartment": "latest",
+        "d4hines-comby.js": "latest",
+        "d4hines-roam-research-private-api": "latest",
+        "d4k": "latest",
+        "d4kui": "latest",
+        "d4m-test-npm": "latest",
+        "d4rkdev-footer": "latest",
+        "d4rsen": "latest",
+        "d4sd": "latest",
+        "d4sign": "latest",
+        "d4test-pg1": "latest",
+        "d4tree": "latest"
+    }
+}

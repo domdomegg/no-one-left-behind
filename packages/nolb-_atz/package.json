@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_atz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@atz3n/ardorjs": "latest",
+        "@atz3n/did-provider-ethr-fork": "latest",
+        "@atz3n/express-utils": "latest",
+        "@atz3n/kraken-invest-common": "latest",
+        "@atz3n/kraken-invest-lib": "latest",
+        "@atzomx/ui": "latest"
+    }
+}

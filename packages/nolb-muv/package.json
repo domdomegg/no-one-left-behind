@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-muv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "muv": "latest",
+        "muv-007": "latest",
+        "muvalidate": "latest",
+        "muvc": "latest",
+        "muve": "latest",
+        "muve-osm-location": "latest",
+        "muvebackgroundlocalisation": "latest",
+        "muvement": "latest",
+        "muveso": "latest",
+        "muvi": "latest",
+        "muvi-banner-one": "latest",
+        "muvi-content-test": "latest",
+        "muvi-emitter": "latest",
+        "muvi-header-one": "latest",
+        "muvi-regis": "latest",
+        "muvi-user-test": "latest",
+        "muvicms_library": "latest",
+        "muvinai-expo-template": "latest",
+        "muvjs": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_ab-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ab-dev/abde-styles": "latest",
+        "@ab-devwork/design-system": "latest",
+        "@ab-elements/angular": "latest",
+        "@ab-elements/theme": "latest",
+        "@ab-inbev-z-tech/fintech-checkout": "latest",
+        "@ab-inbev-z-tech/fintech-identity": "latest",
+        "@ab-itickets/common": "latest",
+        "@ab-learn-org/common": "latest",
+        "@ab-semi/common": "latest",
+        "@ab-task/react-tool-belt": "latest",
+        "@ab-task/rtb": "latest",
+        "@ab-tickets/common": "latest"
+    }
+}

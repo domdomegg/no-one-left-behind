@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_js4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@js4cytoscape/cx-viz-converter": "latest",
+        "@js4cytoscape/cx2js": "latest",
+        "@js4cytoscape/cyannotation-cx2js": "latest",
+        "@js4cytoscape/js4cytoscape": "latest",
+        "@js4cytoscape/ndex-client": "latest"
+    }
+}

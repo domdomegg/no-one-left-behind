@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-ccw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ccw": "latest",
+        "ccw-frontend-component": "latest",
+        "ccw-test": "latest",
+        "ccw2q": "latest",
+        "ccwb": "latest",
+        "ccwebpack": "latest",
+        "ccwork-debug": "latest",
+        "ccwork-js-sdk": "latest",
+        "ccwork-jsbridge": "latest",
+        "ccws": "latest",
+        "ccwt.js": "latest",
+        "ccwxhttp": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-edk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "edk": "latest",
+        "edk-route-verifier": "latest",
+        "edk-storybook": "latest",
+        "edkeys": "latest",
+        "edkf-portfolio-cli": "latest",
+        "edkit": "latest",
+        "edkk-api": "latest",
+        "edkk-redux": "latest"
+    }
+}

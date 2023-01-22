@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-z1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "z1": "latest",
+        "z1-core": "latest",
+        "z1-design": "latest",
+        "z1-token-guard-client": "latest",
+        "z1015yuanzhik": "latest",
+        "z1028yuanzhik": "latest",
+        "z1031yuanzhik": "latest",
+        "z1036yuanzhik": "latest",
+        "z1038yuanzhik": "latest",
+        "z1048yuanzhik": "latest",
+        "z1049yuanzhik": "latest",
+        "z1050yuanzhik": "latest",
+        "z1051yuanzhik": "latest",
+        "z1052yuanzhik": "latest",
+        "z1054yuanzhik": "latest",
+        "z1055yuanzhik": "latest",
+        "z111k": "latest",
+        "z12321y01": "latest",
+        "z1233y": "latest",
+        "z1808b": "latest",
+        "z1data-geocoder": "latest",
+        "z1key.phonegap.plugins.pindialog": "latest",
+        "z1p": "latest",
+        "z1p.ua": "latest",
+        "z1pcode-jp": "latest"
+    }
+}

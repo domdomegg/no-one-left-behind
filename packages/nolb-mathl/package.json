@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-mathl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mathlab": "latest",
+        "mathleet": "latest",
+        "mathlete-athlete": "latest",
+        "mathlex": "latest",
+        "mathlex_server_friendly": "latest",
+        "mathlib": "latest",
+        "mathlib-maxtech": "latest",
+        "mathlib-n": "latest",
+        "mathlib07": "latest",
+        "mathlib1313132": "latest",
+        "mathlibjs": "latest",
+        "mathlibrary": "latest",
+        "mathlifier": "latest",
+        "mathlifier2": "latest",
+        "mathlify": "latest",
+        "mathlines": "latest",
+        "mathlion-lib": "latest",
+        "mathlive": "latest",
+        "mathly": "latest"
+    }
+}

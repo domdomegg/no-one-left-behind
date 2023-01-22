@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-chz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chz-large_number": "latest",
+        "chz-libphonenumber-js": "latest",
+        "chz_rikao": "latest",
+        "chzhjk-components": "latest",
+        "chzipmega": "latest",
+        "chzzidemo1": "latest",
+        "chzzy-npm-demo": "latest"
+    }
+}

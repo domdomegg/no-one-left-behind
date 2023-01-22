@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-tempg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tempgen": "latest",
+        "tempgenpack": "latest",
+        "tempgraph": "latest",
+        "tempgulp4": "latest",
+        "tempgulp4-cli": "latest"
+    }
+}

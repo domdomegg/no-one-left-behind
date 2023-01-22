@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-eslint-d",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslint-dashboard": "latest",
+        "eslint-dbxd": "latest",
+        "eslint-defaults": "latest",
+        "eslint-define-config": "latest",
+        "eslint-delta": "latest",
+        "eslint-demo": "latest",
+        "eslint-dep": "latest",
+        "eslint-detailed-reporter": "latest",
+        "eslint-diff": "latest",
+        "eslint-dirty": "latest",
+        "eslint-disable": "latest",
+        "eslint-disable-commenter": "latest",
+        "eslint-disable-inserter": "latest",
+        "eslint-disable-loader": "latest",
+        "eslint-disable-parsing": "latest",
+        "eslint-disable-table": "latest",
+        "eslint-disabled-stats": "latest",
+        "eslint-discover": "latest",
+        "eslint-doc-generator": "latest",
+        "eslint-docgen": "latest",
+        "eslint-docs": "latest",
+        "eslint-doctor": "latest"
+    }
+}

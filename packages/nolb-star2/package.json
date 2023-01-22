@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-star2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "star2018": "latest",
+        "star2star-error-formatter": "latest",
+        "star2star-js-ms-sdk": "latest",
+        "star2star-utilities": "latest"
+    }
+}

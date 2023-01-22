@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_reactw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reactway/api-builder": "latest",
+        "@reactway/dropdown": "latest",
+        "@reactway/eslint-config": "latest",
+        "@reactway/forms": "latest",
+        "@reactway/forms-core": "latest",
+        "@reactway/forms-validators": "latest",
+        "@reactway/forms-validators-lt": "latest",
+        "@reactway/image-loader": "latest",
+        "@reactway/react-scripts": "latest",
+        "@reactway/tiny-emitter": "latest",
+        "@reactway/webpack-builder": "latest",
+        "@reactway/webpack-builder-plugin-clean": "latest",
+        "@reactway/webpack-builder-plugin-html": "latest",
+        "@reactway/webpack-builder-plugin-images": "latest",
+        "@reactway/webpack-builder-plugin-styles": "latest",
+        "@reactway/webpack-builder-plugin-typescript": "latest",
+        "@reactway/webpack-builder-plugin-web-dev": "latest",
+        "@reactway/webpack-builder-plugin-write-file": "latest",
+        "@reactwind/core": "latest"
+    }
+}

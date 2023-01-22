@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-react-native-2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-2-side-menus": "latest",
+        "react-native-24": "latest",
+        "react-native-24h-timepicker": "latest",
+        "react-native-25-material-switch": "latest"
+    }
+}

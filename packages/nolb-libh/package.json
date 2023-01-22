@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-libh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "libhack.js": "latest",
+        "libhanzzok": "latest",
+        "libhbaapi": "latest",
+        "libhdate": "latest",
+        "libheif-js": "latest",
+        "libheif-wasm": "latest",
+        "libheif-web": "latest",
+        "libhello-js": "latest",
+        "libhex": "latest",
+        "libhid": "latest",
+        "libhidtelephony": "latest",
+        "libhoney": "latest",
+        "libhoney-promise": "latest",
+        "libhoney-simple-js": "latest",
+        "libhrc": "latest",
+        "libhttp": "latest",
+        "libhub": "latest",
+        "libhunt": "latest"
+    }
+}

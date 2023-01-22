@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-ckn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ckn": "latest",
+        "ckn.communication": "latest",
+        "ckn.data": "latest",
+        "ckn.db": "latest",
+        "ckn.file": "latest",
+        "ckn.server": "latest",
+        "ckn.systems": "latest",
+        "ckn.systems.backend": "latest",
+        "ckn.systems.backend.database": "latest",
+        "ckn.systems.backend.file": "latest",
+        "ckn.systems.backend.mail": "latest",
+        "ckn.systems.console": "latest",
+        "ckn.systems.frontend": "latest",
+        "ckn.ui": "latest",
+        "cknewsletter_hook": "latest",
+        "cknights": "latest"
+    }
+}

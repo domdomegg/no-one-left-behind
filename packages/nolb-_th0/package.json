@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_th0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@th0masb/eth-client": "latest",
+        "@th0rn13/empty": "latest",
+        "@th0rn13/react-final-form": "latest"
+    }
+}

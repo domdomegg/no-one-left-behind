@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_gow",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@goweiss/automatic-install": "latest",
+        "@goweiss/gotenberg-client": "latest",
+        "@gowerstreet/fetch": "latest",
+        "@gowerstreet/infintestimal": "latest",
+        "@gowerstreet/route66": "latest",
+        "@gowerstreet/twiglet": "latest",
+        "@gowest/iq_medien_nuxt_module": "latest",
+        "@gowest/vue-data-table": "latest",
+        "@gowin100/jspdf-font-sourcehansanstc": "latest",
+        "@gowiny/gy-dev-test": "latest",
+        "@gowiny/js-utils": "latest",
+        "@gowiny/uni-router": "latest",
+        "@gowiny/vue-class": "latest",
+        "@gowiny/vue-class-extend": "latest",
+        "@gowiz/searchbar": "latest",
+        "@goworks/async-select": "latest",
+        "@goworks/mdict": "latest",
+        "@goworks/paging": "latest",
+        "@gowravshekar/nps-utils": "latest",
+        "@gowthamrodda/diet": "latest",
+        "@gowthamselvam/common-validation": "latest",
+        "@gowthamvenkat2605/jsonquery": "latest"
+    }
+}

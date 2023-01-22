@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-npa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "npa": "latest",
+        "npa-cli": "latest",
+        "npa-fm": "latest",
+        "npa-mat-datepicker": "latest",
+        "npa-ums": "latest",
+        "npa2": "latest",
+        "npabcdef-test": "latest",
+        "npac": "latest",
+        "npac-nats-adapter": "latest",
+        "npac-nats-rxjs-gw": "latest",
+        "npac-pdms-hemera-adapter": "latest",
+        "npac-webserver-adapter": "latest",
+        "npac-wsgw-adapters": "latest",
+        "npack": "latest",
+        "npack-scripts": "latest",
+        "npackage": "latest",
+        "npackr": "latest",
+        "npad": "latest",
+        "npaerhgaehsfasfashrthser": "latest",
+        "npage": "latest",
+        "npapi-requests": "latest",
+        "npargv": "latest",
+        "nparse": "latest",
+        "npasgfasdsam": "latest",
+        "npasse": "latest",
+        "npath": "latest"
+    }
+}

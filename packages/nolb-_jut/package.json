@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_jut",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jutaz/transform-parser": "latest",
+        "@jutsu-co/core-pt1": "latest",
+        "@jutsu-co/mono-one": "latest",
+        "@jutsu-co/mono-three": "latest",
+        "@jutsu-co/mono-two": "latest",
+        "@jutsu-co/utils-pt1": "latest",
+        "@juturu/electron-remote": "latest",
+        "@juturu/yarn": "latest"
+    }
+}

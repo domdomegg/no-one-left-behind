@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-next-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "next-offline": "latest",
+        "next-offline-ts": "latest",
+        "next-offline-v4-fixed": "latest",
+        "next-og-image": "latest",
+        "next-og-utils": "latest",
+        "next-on-cf": "latest",
+        "next-on-netlify": "latest",
+        "next-on-pages": "latest",
+        "next-on-rails": "latest",
+        "next-one": "latest",
+        "next-open-ui": "latest",
+        "next-optimized-classnames": "latest",
+        "next-optimized-images": "latest",
+        "next-optimized-images-2": "latest",
+        "next-optimized-images-fork-by-ulibka": "latest",
+        "next-optimized-imgs": "latest",
+        "next-orga": "latest",
+        "next-oriql": "latest",
+        "next-oss": "latest",
+        "next-oss-webpack-plugin": "latest",
+        "next-overlay": "latest"
+    }
+}

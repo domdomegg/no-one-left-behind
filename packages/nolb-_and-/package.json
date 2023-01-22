@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_and-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@and-cru/eslint-config": "latest",
+        "@and-cru/use-foreground": "latest",
+        "@and-digital/and-ui": "latest",
+        "@and-digital/andi": "latest",
+        "@and-digital/api": "latest",
+        "@and-end/linkedin-auth-client": "latest",
+        "@and-or/api": "latest",
+        "@and-or/ears-birds": "latest",
+        "@and-or/land-events": "latest",
+        "@and-or/land-trace": "latest",
+        "@and-or/utils": "latest",
+        "@and-ui/react": "latest",
+        "@and-ui/style": "latest",
+        "@and-xx/axis": "latest",
+        "@and-xx/npm": "latest",
+        "@and-xx/test": "latest",
+        "@and-xx/time": "latest",
+        "@and-xx/up-file": "latest"
+    }
+}

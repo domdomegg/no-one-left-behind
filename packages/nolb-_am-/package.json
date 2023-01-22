@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_am-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@am-77/p-gen": "latest",
+        "@am-chris-ke/multer-gridfs-storage-fixed": "latest",
+        "@am-cli-dev/core": "latest",
+        "@am-cli-dev/utils": "latest",
+        "@am-cli/core": "latest",
+        "@am-cli/utils": "latest",
+        "@am-gittix/common": "latest",
+        "@am-holt/onuw-server-api": "latest",
+        "@am-hooks/use-axios": "latest",
+        "@am-hooks/use-beforeunload": "latest",
+        "@am-hooks/use-click": "latest",
+        "@am-hooks/use-confirm": "latest",
+        "@am-hooks/use-fade-in": "latest",
+        "@am-hooks/use-full-screen": "latest",
+        "@am-hooks/use-hover": "latest",
+        "@am-hooks/use-input": "latest",
+        "@am-hooks/use-mouseleave": "latest",
+        "@am-hooks/use-network": "latest",
+        "@am-hooks/use-notification": "latest",
+        "@am-hooks/use-scroll": "latest",
+        "@am-hooks/use-tab": "latest",
+        "@am-hooks/use-title": "latest",
+        "@am-tickets/common": "latest"
+    }
+}

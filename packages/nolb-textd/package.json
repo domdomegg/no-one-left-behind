@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-textd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "textdate": "latest",
+        "textdate-ken": "latest",
+        "textdb": "latest",
+        "textdemolib": "latest",
+        "textdemozhangqihao": "latest",
+        "textdiff-create": "latest",
+        "textdiff-patch": "latest",
+        "textdirective": "latest",
+        "textdisplay": "latest",
+        "textdome": "latest",
+        "textdown": "latest",
+        "textdudu1234": "latest"
+    }
+}

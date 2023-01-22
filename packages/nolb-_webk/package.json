@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_webk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@webk1d/leaflet-curve": "latest",
+        "@webkadiz/event-emitter": "latest",
+        "@webkadiz/utils": "latest",
+        "@webkar-co/devops-practice-common": "latest",
+        "@webkits/depcheck": "latest",
+        "@webkitty/geo-rev": "latest",
+        "@webkitty/searchbox": "latest",
+        "@webkn/storage": "latest",
+        "@webkoils/doppler-sync": "latest",
+        "@webkoils/ssm-sync": "latest",
+        "@webkom/lego-editor": "latest",
+        "@webkom/react-meter-bar": "latest",
+        "@webkom/react-prepare": "latest",
+        "@webkrafters/ordercss": "latest",
+        "@webkrafters/react-hoc-memo": "latest",
+        "@webkrafters/react-observable-context": "latest",
+        "@webkrafters/route-params-resolver": "latest",
+        "@webkrafters/timed-map": "latest"
+    }
+}

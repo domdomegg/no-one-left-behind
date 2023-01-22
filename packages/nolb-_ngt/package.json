@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_ngt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ngtek/nodejssdk": "latest",
+        "@ngthuc/react-fui": "latest",
+        "@ngti/jwt-ed25519": "latest",
+        "@ngti/parse-server-mailgun": "latest",
+        "@ngtickets/common": "latest",
+        "@ngtive/unicode": "latest",
+        "@ngtmuzi/samba-client": "latest",
+        "@ngtoolbox/hello-world": "latest",
+        "@ngtools/json-schema": "latest",
+        "@ngtools/logger": "latest",
+        "@ngtools/webpack": "latest",
+        "@ngtw/breadcrumbs": "latest",
+        "@ngtw/button-group": "latest",
+        "@ngtw/datetime-picker": "latest",
+        "@ngtw/dropdown": "latest",
+        "@ngtw/dynamic-component-factory": "latest",
+        "@ngtw/input": "latest",
+        "@ngtw/panel": "latest",
+        "@ngtw/popup": "latest",
+        "@ngtw/range": "latest",
+        "@ngtw/stepper": "latest",
+        "@ngtw/table": "latest",
+        "@ngtw/tabs": "latest",
+        "@ngtw/toaster": "latest",
+        "@ngtw/toggle": "latest"
+    }
+}

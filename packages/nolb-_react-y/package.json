@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_react-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@react-yuki/hooks": "latest",
+        "@react-yuki/icons": "latest",
+        "@react-yuki/ui": "latest"
+    }
+}

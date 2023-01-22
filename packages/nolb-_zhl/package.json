@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_zhl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zhl/algorithms": "latest",
+        "@zhl0791/flat": "latest",
+        "@zhlim/prettier": "latest",
+        "@zhlix/color-ui": "latest",
+        "@zhlix/egg-common": "latest",
+        "@zhlix/egg-sequelize": "latest",
+        "@zhlix/egg-sequelize-ts": "latest",
+        "@zhlix/node-pre-gyp": "latest",
+        "@zhlix/node-tools": "latest",
+        "@zhlix/tegg-plugin-sequelize": "latest",
+        "@zhlix/tools": "latest",
+        "@zhlix/ui": "latest",
+        "@zhlix/vue-development-tools": "latest",
+        "@zhlix/vue3-decorators": "latest",
+        "@zhlix/vue3-request": "latest",
+        "@zhlix/vue3-tools": "latest",
+        "@zhlix/vuex-module-decorators": "latest",
+        "@zhlx-cli/core": "latest",
+        "@zhlx-cli/utils": "latest",
+        "@zhlyzv/eslint-config": "latest",
+        "@zhlyzv/eslint-config-zhlyzv": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-react-g-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-g-analytics": "latest",
+        "react-g-analytics-x": "latest",
+        "react-g-canvas": "latest",
+        "react-g-cli": "latest",
+        "react-g-hover": "latest",
+        "react-g-infinite-scroll": "latest",
+        "react-g-init": "latest",
+        "react-g-input-mask": "latest",
+        "react-g-lang": "latest"
+    }
+}

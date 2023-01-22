@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_expo-google-fonts_q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@expo-google-fonts/qahiri": "latest",
+        "@expo-google-fonts/quando": "latest",
+        "@expo-google-fonts/quantico": "latest",
+        "@expo-google-fonts/quattrocento": "latest",
+        "@expo-google-fonts/quattrocento-sans": "latest",
+        "@expo-google-fonts/questrial": "latest",
+        "@expo-google-fonts/quicksand": "latest",
+        "@expo-google-fonts/quintessential": "latest",
+        "@expo-google-fonts/qwigley": "latest",
+        "@expo-google-fonts/qwitcher-grypen": "latest"
+    }
+}

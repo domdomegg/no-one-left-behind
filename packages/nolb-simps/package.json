@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-simps",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simpserv": "latest",
+        "simpson-response": "latest",
+        "simpsonify": "latest",
+        "simpsonphile-ui": "latest",
+        "simpsons-http-codes": "latest",
+        "simpsons-names": "latest",
+        "simpsons-quote-api": "latest",
+        "simpsons-status": "latest",
+        "simpstyle": "latest"
+    }
+}

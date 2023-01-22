@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-datau",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "datau-chart": "latest",
+        "datau-gas": "latest",
+        "datauniverse-utils": "latest",
+        "dataunwrapper": "latest",
+        "datauri": "latest",
+        "datauri-brunch": "latest",
+        "datauri-cli": "latest",
+        "datauri-dimensions": "latest",
+        "datauri-download": "latest",
+        "datauri-stream": "latest",
+        "datauri-to-clipboard": "latest",
+        "datauri-to-uint8-array": "latest",
+        "datauri-transform": "latest",
+        "datauri-type": "latest",
+        "datauri.template": "latest",
+        "dataurify": "latest",
+        "dataurify-html": "latest",
+        "datauritoblob": "latest",
+        "dataurl": "latest",
+        "dataurl-": "latest",
+        "dataurl-brunch": "latest",
+        "dataurl-to-blob": "latest",
+        "dataurl2": "latest",
+        "dataurlify": "latest",
+        "datautil": "latest",
+        "datautils": "latest",
+        "datautils_way": "latest",
+        "datauxview": "latest"
+    }
+}

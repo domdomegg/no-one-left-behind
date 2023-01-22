@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_expos",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@exposition/core": "latest",
+        "@exposition/integrations": "latest",
+        "@exposition/sdk": "latest",
+        "@exposition/web": "latest",
+        "@exposium/common": "latest",
+        "@exposure-lib/core": "latest",
+        "@exposure-lib/polyfill": "latest",
+        "@exposure-lib/vue": "latest",
+        "@exposure-lib/vue2": "latest",
+        "@exposuredesign/gatsby-theme-events": "latest",
+        "@exposuredesign/gatsby-theme-seen-alpha": "latest",
+        "@exposuredesign/gatsby-theme-seen-test": "latest",
+        "@exposuredesign/gatsby-theme-seen-test-alt": "latest",
+        "@exposuredesign/gatsby-theme-test": "latest",
+        "@exposuredigital/strapi-fetch": "latest"
+    }
+}

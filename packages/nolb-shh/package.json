@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-shh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shh": "latest",
+        "shh-loading": "latest",
+        "shh-node-http": "latest",
+        "shh-signal": "latest",
+        "shh-ssh": "latest",
+        "shh-ui": "latest",
+        "shh-utils": "latest",
+        "shh33": "latest",
+        "shh_toast": "latest",
+        "shhh": "latest",
+        "shhjs": "latest",
+        "shhnode": "latest",
+        "shhshahshha": "latest",
+        "shhunziker-frame-print": "latest",
+        "shhwallet": "latest"
+    }
+}

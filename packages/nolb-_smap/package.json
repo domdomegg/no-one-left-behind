@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_smap",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@smapiot/netflix-piral-demo": "latest",
+        "@smapiot/pilet-template-angular": "latest",
+        "@smapiot/pilet-template-default": "latest",
+        "@smapiot/pilet-template-empty": "latest",
+        "@smapiot/pilet-template-svelte": "latest",
+        "@smapiot/piral-cli-integration-tests": "latest",
+        "@smapiot/piral-cloud-browser": "latest",
+        "@smapiot/piral-cloud-node": "latest",
+        "@smapiot/piral-template-default": "latest",
+        "@smapiot/piral-template-empty": "latest",
+        "@smapiot/template-utils": "latest",
+        "@smapiot/tractor-piral-demo": "latest",
+        "@smappee/node-red-contrib-smappee": "latest",
+        "@smappee/node-red-contrib-smappee-device": "latest",
+        "@smappee/node-red-contrib-smappee-ev": "latest",
+        "@smappee/node-red-contrib-smappee-knx": "latest",
+        "@smappee/node-red-contrib-smappee-solar": "latest"
+    }
+}

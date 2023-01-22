@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_max_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@max.desplanches/stunning-palm-tree": "latest",
+        "@max.lutsenko/ngx-imageviewer": "latest",
+        "@max.power/test-package": "latest",
+        "@max_biaggi/get-color": "latest",
+        "@max_namazov/react-scripts": "latest",
+        "@max_namazov/react-scripts-with-babelrc": "latest",
+        "@max_wagner/element-ui": "latest"
+    }
+}

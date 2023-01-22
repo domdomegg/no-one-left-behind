@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-typescript-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typescript-g2apay-integration-api": "latest",
+        "typescript-gantt": "latest",
+        "typescript-generate": "latest",
+        "typescript-generator": "latest",
+        "typescript-generic-datastructures": "latest",
+        "typescript-generic-sdk": "latest",
+        "typescript-generics": "latest",
+        "typescript-github-action-template": "latest",
+        "typescript-gradually": "latest",
+        "typescript-graph": "latest",
+        "typescript-graphql": "latest",
+        "typescript-graphql-patch": "latest",
+        "typescript-graphql-request": "latest",
+        "typescript-graphql-request-with-retries": "latest",
+        "typescript-graphql-typed-files-modules": "latest",
+        "typescript-grpc": "latest",
+        "typescript-grpc-server": "latest",
+        "typescript-guessing-game": "latest",
+        "typescript-guid": "latest",
+        "typescript-gulp-sam": "latest"
+    }
+}

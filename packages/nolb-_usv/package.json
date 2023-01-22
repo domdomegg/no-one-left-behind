@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_usv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@usvc/boilerplate": "latest",
+        "@usvc/component-logger": "latest",
+        "@usvc/component-request": "latest",
+        "@usvc/component-server": "latest",
+        "@usvc/component-tracer": "latest",
+        "@usvc/logger-application": "latest",
+        "@usvc/logger-request": "latest",
+        "@usvc/middleware-request-logger": "latest",
+        "@usvc/request": "latest",
+        "@usvc/server": "latest",
+        "@usvc/tooling-version-repo": "latest",
+        "@usvc/tracer": "latest"
+    }
+}

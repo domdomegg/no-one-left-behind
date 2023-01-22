@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-electronn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "electronn": "latest",
+        "electronnet.host": "latest",
+        "electronngwebapp": "latest",
+        "electronnodist": "latest"
+    }
+}

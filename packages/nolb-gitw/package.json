@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-gitw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gitw": "latest",
+        "gitwalk": "latest",
+        "gitwar": "latest",
+        "gitwatch": "latest",
+        "gitwatch-client": "latest",
+        "gitwatcher": "latest",
+        "gitwebhookapiendpoint": "latest",
+        "gitwed": "latest",
+        "gitwiki": "latest",
+        "gitwin": "latest",
+        "gitwip": "latest",
+        "gitwithnode": "latest",
+        "gitwork": "latest",
+        "gitwrap": "latest",
+        "gitwrapper": "latest",
+        "gitwrite": "latest",
+        "gitwrite-cli": "latest"
+    }
+}

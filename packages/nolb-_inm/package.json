@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_inm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@inmanishy/button-component": "latest",
+        "@inmanlabs/core": "latest",
+        "@inmanlabs/design": "latest",
+        "@inmanlabs/location": "latest",
+        "@inmar/twine-browser": "latest",
+        "@inmar/twine-core": "latest",
+        "@inmar/twine-node": "latest",
+        "@inmation/inmation-api-client": "latest",
+        "@inmation/inmation-compose-cli": "latest",
+        "@inmation/node-red-contrib-inmation": "latest",
+        "@inmemori/imutils": "latest",
+        "@inmeng/makeit-captcha": "latest",
+        "@inmeng/naive-admin": "latest",
+        "@inmeng/request": "latest",
+        "@inmoment/angular-expandable-panel-list": "latest",
+        "@inmortalqueen/svelte-input-price-formatter": "latest",
+        "@inmortalqueen/svelte-price-formatter": "latest",
+        "@inmotio/material-ui-nested-menu-item": "latest",
+        "@inmotionnow/momentum-components": "latest",
+        "@inmotionnow/momentum-icons": "latest",
+        "@inmotionnow/momentum-tokens": "latest"
+    }
+}

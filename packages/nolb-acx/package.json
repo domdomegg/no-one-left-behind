@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-acx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "acx": "latest",
+        "acx-io": "latest",
+        "acx-webcomponents": "latest",
+        "acx-webcomponents-lit": "latest",
+        "acx_666": "latest"
+    }
+}

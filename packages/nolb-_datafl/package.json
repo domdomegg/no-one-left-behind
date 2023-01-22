@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_datafl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dataflow-designer/dataflow-aws": "latest",
+        "@dataflow-designer/dataflow-aws-cloudwatch": "latest",
+        "@dataflow-designer/dataflow-aws-s3": "latest",
+        "@dataflow-designer/dataflow-core": "latest",
+        "@dataflow-designer/dataflow-file": "latest",
+        "@dataflow-designer/dataflow-graphql": "latest",
+        "@dataflow-designer/dataflow-limit": "latest",
+        "@dataflow-designer/dataflow-nodered": "latest",
+        "@dataflow-designer/dataflow-sample": "latest",
+        "@dataflow-designer/dataflow-sqlite": "latest",
+        "@dataflow-designer/dataflow-url": "latest",
+        "@dataflow-designer/dataflow-util": "latest",
+        "@dataflow-designer/dataflow-validate-schema": "latest",
+        "@dataflow-designer/node-red-dataflow": "latest",
+        "@dataflow-designer/node-red-dataflow-file": "latest",
+        "@dataflow-designer/stupendous-parser": "latest"
+    }
+}

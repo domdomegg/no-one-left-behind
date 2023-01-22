@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-v-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "v-h5plus": "latest",
+        "v-hd-application": "latest",
+        "v-hd-core": "latest",
+        "v-hd-mobile": "latest",
+        "v-header": "latest",
+        "v-header-component": "latest",
+        "v-heles": "latest",
+        "v-hello-world": "latest",
+        "v-helper": "latest",
+        "v-hero": "latest",
+        "v-hidebar": "latest",
+        "v-highlight": "latest",
+        "v-highlight-3": "latest",
+        "v-highlight-component": "latest",
+        "v-highlightjs": "latest",
+        "v-hiprint": "latest",
+        "v-honk": "latest",
+        "v-hooks": "latest",
+        "v-horizontal-scroll": "latest",
+        "v-hotkey": "latest",
+        "v-hotkey-ssr": "latest",
+        "v-hotkey-yyf": "latest",
+        "v-hotkey3": "latest",
+        "v-house": "latest",
+        "v-hover": "latest",
+        "v-html-to-excel": "latest",
+        "v-hub": "latest"
+    }
+}

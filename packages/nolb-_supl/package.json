@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_supl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@supl.biz_tech/components": "latest",
+        "@suplabstudio/data-gql-nains": "latest",
+        "@suplabstudio/default-token-nains": "latest",
+        "@suplabstudio/limit-order-pair-list-nains": "latest",
+        "@suplabstudio/limitorder-sdk-nains": "latest",
+        "@suplabstudio/nains-sdk": "latest",
+        "@suplabstudio/whitelist-chain-nains": "latest",
+        "@suplink/jssdk": "latest",
+        "@suplink/message": "latest"
+    }
+}

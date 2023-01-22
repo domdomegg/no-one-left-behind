@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-gic",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gic": "latest",
+        "gic-thread-pool": "latest",
+        "gic-xml-parser": "latest",
+        "gicagicaferyy-frame-print": "latest",
+        "gici": "latest",
+        "gici-swagger-ui-express": "latest",
+        "gickos-fs-boilerplates": "latest",
+        "gicon": "latest",
+        "gicreator": "latest",
+        "gics": "latest",
+        "gictivity": "latest",
+        "gictivity-cli": "latest",
+        "gicxmllayout-cli": "latest"
+    }
+}

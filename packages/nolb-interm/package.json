@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-interm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "intermatic": "latest",
+        "intermec-printer-plugin": "latest",
+        "intermedia-my-menu": "latest",
+        "intermedia-my-menu-w": "latest",
+        "intermediary": "latest",
+        "intermediate-component-sa": "latest",
+        "intermezzo": "latest",
+        "intermine-homologues-finder": "latest",
+        "intermine-tables": "latest",
+        "interminimal": "latest",
+        "intermittent": "latest",
+        "intermix": "latest",
+        "intermix-dashboard": "latest",
+        "intermix-dashboard-mui": "latest",
+        "intermix-design-system": "latest",
+        "intermix-library-react": "latest",
+        "intermix-menu-item": "latest",
+        "intermix-search": "latest",
+        "intermix-styleguide": "latest",
+        "intermix-tile": "latest",
+        "intermock": "latest",
+        "intermodular": "latest"
+    }
+}

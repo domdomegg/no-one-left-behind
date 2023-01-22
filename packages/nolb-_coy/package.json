@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_coy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@coya/contact": "latest",
+        "@coya/counter": "latest",
+        "@coya/database": "latest",
+        "@coya/logger": "latest",
+        "@coya/logs": "latest",
+        "@coya/puppy": "latest",
+        "@coya/services": "latest",
+        "@coya/task-manager": "latest",
+        "@coya/time": "latest",
+        "@coya/utils": "latest",
+        "@coya/web-scraper": "latest",
+        "@coyle-club/kubectl-ts": "latest",
+        "@coyoapp/catalyst": "latest",
+        "@coyoapp/catalyst-angular": "latest",
+        "@coyoda/core": "latest",
+        "@coyoda/coyoda": "latest",
+        "@coyote-labs/ember-accessibility": "latest",
+        "@coyote-labs/ember-fingerprint-assets": "latest",
+        "@coyote-labs/html-lint": "latest",
+        "@coyote-logistics-mobile/react-native-background-geolocation": "latest",
+        "@coyote-logistics-mobile/react-native-navigation": "latest",
+        "@coyotesqrl/usng2": "latest",
+        "@coyotte508/mongo-query": "latest",
+        "@coyotte508/swagger": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-angular-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "angular-ya-onscreen-material-keyboard": "latest",
+        "angular-yandex-map": "latest",
+        "angular-yandex-map-suggest-view": "latest",
+        "angular-yandex-maps": "latest",
+        "angular-yandex-suggest-view": "latest",
+        "angular-yao-utils": "latest",
+        "angular-yasqe-component": "latest",
+        "angular-yasr-component": "latest",
+        "angular-yeahmaker": "latest",
+        "angular-yearless-locale": "latest",
+        "angular-yii2-model": "latest",
+        "angular-ymaps": "latest",
+        "angular-youtube-api-factory": "latest",
+        "angular-youtube-embed": "latest",
+        "angular-youtube-lite": "latest",
+        "angular-youtube-mb": "latest",
+        "angular-youtube-player": "latest",
+        "angular-youtube-search": "latest",
+        "angular-ys-directive-only-number": "latest",
+        "angular-ys-factory-keyboard": "latest",
+        "angular-ys-service-keyboard": "latest"
+    }
+}

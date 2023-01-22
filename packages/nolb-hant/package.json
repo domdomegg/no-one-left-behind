@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-hant",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hant": "latest",
+        "hant-tools": "latest",
+        "hanta-monaco-editor": "latest",
+        "hantd": "latest",
+        "hantenabookmark-replace-tags": "latest",
+        "hantong-live2d-api": "latest",
+        "hantools": "latest",
+        "hantransfer": "latest",
+        "hantry-js-core": "latest",
+        "hantry-js-node": "latest",
+        "hantry-js-profiler": "latest",
+        "hantry-js-react": "latest",
+        "hantry-js-utils": "latest",
+        "hantry-webpack": "latest"
+    }
+}

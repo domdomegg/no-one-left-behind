@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-edz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "edz-cli": "latest",
+        "edz-my-storybook-components": "latest",
+        "edz-product-card": "latest",
+        "edzevproject1": "latest",
+        "edzif-converter": "latest",
+        "edzif-validator": "latest",
+        "edzif-validator-browser": "latest"
+    }
+}

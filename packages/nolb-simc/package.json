@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-simc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simcalcmodhub66": "latest",
+        "simcapi": "latest",
+        "simceredx-cli": "latest",
+        "simcfg": "latest",
+        "simchecker_np": "latest",
+        "simcho-frame-print": "latest",
+        "simcli": "latest",
+        "simclimat-lib": "latest",
+        "simcloud-chart-engine": "latest",
+        "simco": "latest",
+        "simcode": "latest",
+        "simcoles-calculator": "latest",
+        "simcom": "latest",
+        "simcomponents-test": "latest",
+        "simconfig": "latest",
+        "simconnect-cli": "latest",
+        "simcosta-lib": "latest",
+        "simcrypt": "latest",
+        "simctl": "latest",
+        "simctl2": "latest",
+        "simcusdi": "latest"
+    }
+}

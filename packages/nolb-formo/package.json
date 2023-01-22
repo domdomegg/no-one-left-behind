@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-formo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "formo": "latest",
+        "formo-form": "latest",
+        "formobj": "latest",
+        "formobx": "latest",
+        "formodeljs": "latest",
+        "formoid": "latest",
+        "formoj": "latest",
+        "formok": "latest",
+        "formol": "latest",
+        "formology": "latest",
+        "formook": "latest",
+        "formoose": "latest",
+        "formor": "latest",
+        "formorama": "latest",
+        "formosa": "latest",
+        "formosa-material-ui": "latest",
+        "formosa-material-ui-v0": "latest",
+        "formosa-material-ui-v3": "latest",
+        "formosa-semantic-ui-react": "latest",
+        "formost": "latest",
+        "formotor": "latest",
+        "formous": "latest",
+        "formover": "latest"
+    }
+}

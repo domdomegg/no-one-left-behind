@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-firet",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "firetable": "latest",
+        "firetable-actions": "latest",
+        "firetable-cli": "latest",
+        "firetail": "latest",
+        "firetail-api": "latest",
+        "firetail-js-lib": "latest",
+        "firetaxi": "latest",
+        "firetender": "latest",
+        "firetine": "latest",
+        "firetool": "latest",
+        "firetower-scores": "latest",
+        "firetpl": "latest",
+        "firetrack": "latest",
+        "firetree": "latest",
+        "firetruck": "latest",
+        "firetruck.js": "latest",
+        "firetruss": "latest",
+        "firetruss-plugin-runtime": "latest",
+        "firetruss-worker": "latest",
+        "firetv-autoplay": "latest",
+        "firetxt": "latest"
+    }
+}

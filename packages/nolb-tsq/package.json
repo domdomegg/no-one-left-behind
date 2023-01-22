@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-tsq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tsq": "latest",
+        "tsq-cli": "latest",
+        "tsq-gallery": "latest",
+        "tsq-lib": "latest",
+        "tsq-uikit": "latest",
+        "tsq-webpack-numbers": "latest",
+        "tsqaut": "latest",
+        "tsqjs": "latest",
+        "tsql": "latest",
+        "tsqlite": "latest",
+        "tsqljs": "latest",
+        "tsqllint": "latest",
+        "tsqlreader": "latest",
+        "tsqlstring": "latest",
+        "tsqm": "latest",
+        "tsqt": "latest",
+        "tsqtest12345": "latest",
+        "tsquat": "latest",
+        "tsquat-dev-a": "latest",
+        "tsquat-dev-b": "latest",
+        "tsquery-parser": "latest",
+        "tsqueue": "latest"
+    }
+}

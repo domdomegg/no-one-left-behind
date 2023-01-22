@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_leu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@leu/hyperpage-components": "latest",
+        "@leu/leu-web-components": "latest",
+        "@leualmeida/dotenv-bootstrap": "latest",
+        "@leuducquy/react-native-template": "latest",
+        "@leukeleu/ci-npm-publish-test": "latest",
+        "@leukeleu/frontend-checks": "latest",
+        "@leukeleu/prettier-config": "latest",
+        "@leukeleu/stylelint-config": "latest",
+        "@leumasme/parallelizer": "latest",
+        "@leungcnie/lotide": "latest",
+        "@leusmaximus/brain-games": "latest",
+        "@leuven2030/core": "latest",
+        "@leuven2030/ui": "latest"
+    }
+}

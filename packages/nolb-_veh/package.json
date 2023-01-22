@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_veh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vehick-network/core": "latest",
+        "@vehiclehistory/nuxt-prune-html": "latest",
+        "@vehiclehistory/ui": "latest",
+        "@vehiclehistory/vue-swiper": "latest",
+        "@vehicleops/vehicles": "latest",
+        "@vehiculum/test": "latest",
+        "@vehikl/epic-spinners": "latest",
+        "@vehikl/igloo-server-proxy": "latest",
+        "@vehikl/react-native-fab": "latest",
+        "@vehikl/react-native-horizontalpicker": "latest",
+        "@vehikl/react-native-sqlite-storage": "latest",
+        "@veho-tech/deploy-meteor": "latest",
+        "@veho-tech/error": "latest",
+        "@veho-tech/material-icons-react": "latest",
+        "@veho-tech/react-native-aws3": "latest"
+    }
+}

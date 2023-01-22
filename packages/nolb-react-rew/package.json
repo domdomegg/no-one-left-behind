@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-react-rew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-rewards": "latest",
+        "react-rewaterfall": "latest",
+        "react-rewire": "latest",
+        "react-rewire-css-modules": "latest",
+        "react-rewire-dll": "latest",
+        "react-rewire-env": "latest",
+        "react-rewire-hot-loader": "latest",
+        "react-rewire-less": "latest",
+        "react-rewire-sass": "latest",
+        "react-rewire-standard": "latest",
+        "react-rewired": "latest",
+        "react-rewired-buildtime-env": "latest",
+        "react-rewired-mfe": "latest",
+        "react-rewiremock": "latest",
+        "react-rewires-less": "latest",
+        "react-rework-flex": "latest",
+        "react-rewrap": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_team2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@team23/commitlint-config": "latest",
+        "@team23/design-system": "latest",
+        "@team23/eslint-config-team23-angular": "latest",
+        "@team23/eslint-config-team23-ngrx": "latest",
+        "@team23/eslint-config-team23-standard": "latest",
+        "@team23/eslint-config-team23-ts": "latest",
+        "@team23/ng-icon-component": "latest",
+        "@team23/stylelint-config-team23-scss": "latest",
+        "@team23/stylelint-config-team23-standard": "latest"
+    }
+}

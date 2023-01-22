@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-axa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "axa": "latest",
+        "axa-design-system-stencil-library": "latest",
+        "axa-design-system-stencil-library-react": "latest",
+        "axa-rc-lib": "latest",
+        "axa-react-web-tabs": "latest",
+        "axa-reminder": "latest",
+        "axa-rn-web-view": "latest",
+        "axa-stencil-library": "latest",
+        "axa-stencil-library-react": "latest",
+        "axa-ui-components": "latest",
+        "axagarcia-math_example": "latest",
+        "axaj": "latest",
+        "axal": "latest",
+        "axapi-genie": "latest",
+        "axapi-module": "latest",
+        "axaptalino-device-detector": "latest",
+        "axar-sde": "latest",
+        "axar-telemetry": "latest",
+        "axarva-palindrome": "latest",
+        "axax": "latest",
+        "axaxaxssss": "latest"
+    }
+}

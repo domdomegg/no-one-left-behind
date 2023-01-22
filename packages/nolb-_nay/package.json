@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_nay",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nayaflex/wifi-access": "latest",
+        "@nayanika-test/common": "latest",
+        "@nayanodejscourse/slugger": "latest",
+        "@nayeemahmedshaik/ui-package": "latest",
+        "@nayeshdaggula/dropdown-date-picker": "latest",
+        "@nayiem/client": "latest",
+        "@nayiem/crypto": "latest",
+        "@nayiem/ledger-transport": "latest",
+        "@naylortickets/common": "latest",
+        "@nayms/contracts": "latest",
+        "@nayms/contracts-next": "latest",
+        "@nayotta/metathings-node": "latest",
+        "@nayotta/mta-fetch": "latest",
+        "@nayotta/mta-fission-onion": "latest",
+        "@nayotta/mta-logger": "latest",
+        "@nayotta/mta-wechat-mp": "latest",
+        "@naysoewin/common": "latest",
+        "@naytev/draft-js-emoji-plugin": "latest",
+        "@naytev/draft-js-mention-plugin": "latest",
+        "@naytev/grapheme-splitter": "latest",
+        "@naytun/react-native-lockscreen": "latest",
+        "@nayuta-cli/core": "latest",
+        "@nayuta-cli/platform": "latest",
+        "@nayya/braze-expo-plugin": "latest"
+    }
+}

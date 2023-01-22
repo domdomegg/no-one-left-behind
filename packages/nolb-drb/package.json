@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-drb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "drb": "latest",
+        "drbd": "latest",
+        "drbeat": "latest",
+        "drbent-js-client": "latest",
+        "drbent_client": "latest",
+        "drbfirst": "latest",
+        "drbg.js": "latest",
+        "drblms": "latest",
+        "drblog": "latest",
+        "drblogtest": "latest",
+        "drbm-storybook": "latest",
+        "drbm-storybook-test": "latest",
+        "drboom": "latest",
+        "drboom-gatepost": "latest",
+        "drboom-joi": "latest",
+        "drboom-pg": "latest",
+        "drboom-seaquell": "latest",
+        "drboom-tedious": "latest",
+        "drboom-tedius": "latest",
+        "drbracewell-random-tools": "latest",
+        "drbx-js": "latest",
+        "drbx-js-backbone": "latest"
+    }
+}

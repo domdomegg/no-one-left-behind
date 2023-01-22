@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_teaml",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@teamlck/listenport": "latest",
+        "@teamleader/api": "latest",
+        "@teamleader/ddd-action-string": "latest",
+        "@teamleader/dev-certificates": "latest",
+        "@teamleader/generator-tl-create-component": "latest",
+        "@teamleader/i18n": "latest",
+        "@teamleader/react-hooks-api": "latest",
+        "@teamleader/ui": "latest",
+        "@teamleader/ui-animations": "latest",
+        "@teamleader/ui-colors": "latest",
+        "@teamleader/ui-icons": "latest",
+        "@teamleader/ui-illustrations": "latest",
+        "@teamleader/ui-typography": "latest",
+        "@teamleader/ui-utilities": "latest",
+        "@teamloick/key.gen": "latest",
+        "@teamloick/turnstile.js": "latest",
+        "@teamlunaris/eslint-config": "latest",
+        "@teamlunaris/prettier-config": "latest",
+        "@teamlycl/cra-template": "latest",
+        "@teamlycl/react-native-template": "latest"
+    }
+}

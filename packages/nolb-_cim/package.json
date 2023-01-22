@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_cim",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cimacmillan/refunc": "latest",
+        "@cimanna/npm-resume": "latest",
+        "@cimb/mint-button": "latest",
+        "@cimb/mint-buttons": "latest",
+        "@cime/breeze-bridge-angular": "latest",
+        "@cime/breeze-client": "latest",
+        "@cime/ngx-dnd": "latest",
+        "@cime/ngx-select": "latest",
+        "@cime/ngx-slim-loading-bar": "latest",
+        "@cime/ngx-toasty": "latest",
+        "@cimeco/arc-assets": "latest",
+        "@cimeco/feature-card": "latest",
+        "@cimeco/ui": "latest",
+        "@cimeco/utils": "latest",
+        "@cimi/murmurhash3js": "latest",
+        "@cimo88/tiny": "latest",
+        "@cimok/faceit.js": "latest",
+        "@cimonitor/parcel-transformer-package-version": "latest",
+        "@cimpresscloud/ecs-publish": "latest",
+        "@cimpresscloud/metafig": "latest"
+    }
+}

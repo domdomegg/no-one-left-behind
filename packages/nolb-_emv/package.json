@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_emv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@emvi/api": "latest",
+        "@emvicify/base": "latest",
+        "@emvicify/cli": "latest",
+        "@emvicify/mongoose": "latest",
+        "@emvicify/socket.io-driver": "latest",
+        "@emvu/react-scripts": "latest"
+    }
+}

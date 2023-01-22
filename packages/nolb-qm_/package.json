@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-qm_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qm_pie_chart": "latest",
+        "qm_round_progress": "latest",
+        "qm_tool": "latest",
+        "qm_widget_places_reviews": "latest"
+    }
+}

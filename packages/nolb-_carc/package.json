@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_carc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@carc1n0gen/matchcase": "latest",
+        "@carcabot/tiktok-signature": "latest",
+        "@carcar/flexbox-grid-sass": "latest",
+        "@carcastillo/platzimediaplayer": "latest",
+        "@carchain/cities": "latest",
+        "@carchy/gulp": "latest",
+        "@carchy/jtlib": "latest"
+    }
+}

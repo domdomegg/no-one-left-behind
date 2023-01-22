@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-insy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "insync": "latest",
+        "insync-date": "latest",
+        "insync-discovery": "latest",
+        "insync-master": "latest",
+        "insync-settings-api-exporter": "latest",
+        "insync-slave": "latest",
+        "insync-stage-handler": "latest",
+        "insync-stage-importer": "latest",
+        "insynctive": "latest",
+        "insynctive-layout": "latest",
+        "insynsregistret": "latest",
+        "insys-input-component": "latest",
+        "insys-tools": "latest",
+        "insyselements": "latest"
+    }
+}

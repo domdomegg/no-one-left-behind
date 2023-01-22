@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_webj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@webj2eedev/history-plus-plus": "latest",
+        "@webj2eedev/react-router-plus-plus": "latest",
+        "@webjet/react": "latest",
+        "@webjet/react-icons": "latest",
+        "@webjohny/nestjs-telegraf": "latest",
+        "@webjunto/dozn-angular": "latest",
+        "@webjunto/dozn-ionic": "latest",
+        "@webjunto/voyage-svg": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_smr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@smrcdev/audiohandler-beta": "latest",
+        "@smrcdev/drawaudio": "latest",
+        "@smreece/datatypes": "latest",
+        "@smrgtx/common": "latest",
+        "@smrk/calculate": "latest",
+        "@smroutesorg/grid": "latest",
+        "@smrq/openscad-js": "latest",
+        "@smrtka/scroll-carousel": "latest",
+        "@smrubin/lazy-load-image": "latest"
+    }
+}

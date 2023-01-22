@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-rund",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rund": "latest",
+        "rundale": "latest",
+        "rundata": "latest",
+        "runde-cli": "latest",
+        "rundeck": "latest",
+        "rundeck-job-proxy": "latest",
+        "rundef": "latest",
+        "rundemo": "latest",
+        "rundev": "latest",
+        "rundexter": "latest",
+        "rundfunk": "latest",
+        "rundist": "latest",
+        "rundiz-scroll-pagination": "latest",
+        "rundiz-template-for-admin": "latest",
+        "rundle": "latest",
+        "rundle-element": "latest",
+        "rundle-elementui": "latest",
+        "rundom-colors-inon": "latest",
+        "rundotenv": "latest",
+        "rundown": "latest",
+        "rundown-ui": "latest"
+    }
+}

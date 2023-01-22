@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_wae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@waeco/dbus-as-promised": "latest",
+        "@waeco/dbus-network-manager": "latest",
+        "@wael-zoaiter/nodejs": "latest",
+        "@wael14/github_clone_all": "latest",
+        "@waelio/ustore": "latest",
+        "@waelio/utils": "latest",
+        "@waellet/ledger": "latest"
+    }
+}

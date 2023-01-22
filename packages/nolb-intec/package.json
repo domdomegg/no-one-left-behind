@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-intec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "intecbrussel": "latest",
+        "intech-expo-publish": "latest",
+        "intech-react-components": "latest",
+        "intech-read-mb": "latest",
+        "intech-read-mb-input": "latest",
+        "intech-todo": "latest",
+        "intech-write-mb": "latest",
+        "intech-write-mb-multiples": "latest",
+        "intecon-soap": "latest"
+    }
+}

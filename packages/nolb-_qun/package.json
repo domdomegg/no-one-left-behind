@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_qun",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@qunarjk/dwasm": "latest",
+        "@qunbotop/md-editor": "latest",
+        "@qunitjs/browserstack-runner": "latest",
+        "@qunity/cli": "latest",
+        "@qunity/core": "latest",
+        "@qunity/planck": "latest",
+        "@qunity/scene": "latest"
+    }
+}

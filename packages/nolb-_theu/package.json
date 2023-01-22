@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_theu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@theui/component-core": "latest",
+        "@theui/core": "latest",
+        "@theui/sveltekit-components": "latest",
+        "@theuiguy/dynamic-list": "latest",
+        "@theuiteam/continuous-container": "latest",
+        "@theuiteam/foldable": "latest",
+        "@theuiteam/lib-builder": "latest",
+        "@theunacceptables/next-gen-js": "latest",
+        "@theunderscorer/aws": "latest",
+        "@theunderscorer/do-not-disturb": "latest",
+        "@theunderscorer/nx-semantic-release": "latest",
+        "@theunderscorer/playground-aws": "latest",
+        "@theunderscorer/playground-elastic": "latest",
+        "@theunderscorer/playground-localstack": "latest",
+        "@theunderscorer/playground-postgres": "latest",
+        "@theunderscorer/utils": "latest",
+        "@theunderscorer/when": "latest",
+        "@theunit/bnc-onboard": "latest",
+        "@theuniversity/common": "latest",
+        "@theunreal/cordova-plugin-admobx": "latest",
+        "@theuntraceable/discord-rpc": "latest",
+        "@theurbans/uniform": "latest",
+        "@theurbansociety/mega-menu": "latest",
+        "@theurgi/prettier-config": "latest",
+        "@theuybv/beton-cli": "latest",
+        "@theuybv/configs": "latest",
+        "@theuybv/use-todos": "latest"
+    }
+}

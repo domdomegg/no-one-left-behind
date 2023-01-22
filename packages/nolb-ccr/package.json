@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-ccr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ccr": "latest",
+        "ccr-aes-path": "latest",
+        "ccr-cli": "latest",
+        "ccr-file": "latest",
+        "ccr-my-lib": "latest",
+        "ccr-with-types": "latest",
+        "ccr39-assets": "latest",
+        "ccramaroc-auth-bundle": "latest",
+        "ccrandom": "latest",
+        "ccrawler": "latest",
+        "ccreact": "latest",
+        "ccreator": "latest",
+        "ccredis": "latest",
+        "ccrendertexture": "latest",
+        "ccresloadermod": "latest",
+        "ccript_module": "latest",
+        "ccrm": "latest",
+        "ccrpc-node": "latest",
+        "ccrpg": "latest",
+        "ccrs": "latest",
+        "ccrypto": "latest"
+    }
+}

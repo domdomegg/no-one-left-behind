@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-grat",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grate": "latest",
+        "grateful": "latest",
+        "grateful-git": "latest",
+        "gratemodule": "latest",
+        "grater": "latest",
+        "grater-cli": "latest",
+        "grater-react": "latest",
+        "grater-utils": "latest",
+        "grater-utils-ts": "latest",
+        "grater-vue": "latest",
+        "grater-vue-flag": "latest",
+        "grathite-js-footer": "latest",
+        "gratico": "latest",
+        "gratin": "latest",
+        "gratipay": "latest",
+        "gratis": "latest",
+        "gratis-server": "latest",
+        "gratitude": "latest",
+        "gratka-api": "latest"
+    }
+}

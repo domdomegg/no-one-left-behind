@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-neq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "neq": "latest",
+        "neqeq": "latest",
+        "neqndeq": "latest",
+        "nequalszero-data-structures": "latest",
+        "nequalszero-npm-package-test": "latest",
+        "nequeobase": "latest",
+        "nequi": "latest",
+        "nequi-api-cliet-vue": "latest",
+        "nequi-api-utils": "latest",
+        "nequire": "latest"
+    }
+}

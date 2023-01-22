@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-nodebb-plugin-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodebb-plugin-q-a-zn": "latest",
+        "nodebb-plugin-qingqing-login": "latest",
+        "nodebb-plugin-qingqing-storage": "latest",
+        "nodebb-plugin-qiniu": "latest",
+        "nodebb-plugin-qiniu-all": "latest",
+        "nodebb-plugin-qiniu-file": "latest",
+        "nodebb-plugin-qiniu-img": "latest",
+        "nodebb-plugin-qn": "latest",
+        "nodebb-plugin-qn-imagemin": "latest",
+        "nodebb-plugin-qn-upload": "latest",
+        "nodebb-plugin-qnt-auto-login": "latest",
+        "nodebb-plugin-qqvideo": "latest",
+        "nodebb-plugin-qtdream-cms": "latest",
+        "nodebb-plugin-qtdream-homepage": "latest",
+        "nodebb-plugin-question-and-answer": "latest",
+        "nodebb-plugin-question-and-answer-fr": "latest",
+        "nodebb-plugin-question-and-answer-modded": "latest",
+        "nodebb-plugin-question-and-answer-niuniu": "latest",
+        "nodebb-plugin-question-and-answer-pl": "latest",
+        "nodebb-plugin-quickstart": "latest",
+        "nodebb-plugin-quickstart-demo": "latest",
+        "nodebb-plugin-quickstart-niuniu": "latest",
+        "nodebb-plugin-quiz": "latest",
+        "nodebb-plugin-quote": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-snb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "snb": "latest",
+        "snb-box": "latest",
+        "snb-components": "latest",
+        "snb-fabric": "latest",
+        "snb-mock-middleware": "latest",
+        "snb-react-input-type": "latest",
+        "snb-test-component": "latest",
+        "snb-ui": "latest",
+        "snbank-button": "latest",
+        "snbank-ui": "latest",
+        "snbbgs2020": "latest",
+        "snbinder": "latest",
+        "snbplgui": "latest"
+    }
+}

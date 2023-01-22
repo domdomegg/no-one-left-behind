@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-fsn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fsn-client": "latest",
+        "fsn-sass": "latest",
+        "fsnake": "latest",
+        "fsnap": "latest",
+        "fsndomainjs": "latest",
+        "fsnip": "latest",
+        "fsnodepkg": "latest",
+        "fsnotifier": "latest",
+        "fsnphaser": "latest",
+        "fsnpm-test": "latest",
+        "fsnuc-three": "latest",
+        "fsnuke": "latest",
+        "fsny-lib": "latest"
+    }
+}

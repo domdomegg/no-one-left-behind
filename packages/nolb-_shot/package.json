@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_shot",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shota_kudo/hello-wasm": "latest",
+        "@shotacoffee/utilhooks": "latest",
+        "@shotamatsuda/rollup-plugin-glslify": "latest",
+        "@shotamatsuda/rollup-plugin-image": "latest",
+        "@shotamatsuda/rollup-plugin-nullify": "latest",
+        "@shotamatsuda/rollup-plugin-three-example": "latest",
+        "@shotanue/eslint-config": "latest",
+        "@shotanue/eslint-config-basic": "latest",
+        "@shotanue/eslint-config-typescript": "latest",
+        "@shotanue/eslint-config-vue": "latest",
+        "@shotanue/jsonforms-antdv": "latest",
+        "@shotazi/react-slick": "latest",
+        "@shotclock/core": "latest",
+        "@shotcode/ticketdevcommon": "latest",
+        "@shotero/dbmigrator": "latest",
+        "@shotero/gen-api": "latest",
+        "@shotero/gen-model": "latest",
+        "@shotero/gen-schema": "latest",
+        "@shotgun_dibs/simple-loader": "latest",
+        "@shotor/ts-gql-sdk": "latest",
+        "@shotputter/api": "latest",
+        "@shotputter/browser": "latest",
+        "@shotskydiver/gulp-lintspaces": "latest",
+        "@shotskydiver/material-ui-dropzone": "latest",
+        "@shotzoom/redux-reqres": "latest",
+        "@shotzoom/redux-tracking": "latest"
+    }
+}

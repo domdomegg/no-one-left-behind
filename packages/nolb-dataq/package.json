@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-dataq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dataq-cli": "latest",
+        "dataqin-test": "latest",
+        "dataqin-test-lib": "latest",
+        "dataqin-tools": "latest",
+        "dataql": "latest",
+        "dataqlick-ui-components": "latest",
+        "dataquack": "latest",
+        "dataqualityclientrules2lib": "latest",
+        "dataquchong": "latest",
+        "dataquery": "latest",
+        "dataquiver-mqtt-manager": "latest"
+    }
+}

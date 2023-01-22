@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-clog",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clog": "latest",
+        "clog-analysis": "latest",
+        "clog-cli": "latest",
+        "clog-js": "latest",
+        "clog-logger": "latest",
+        "clog-proto": "latest",
+        "clog-style": "latest",
+        "clog-transport": "latest",
+        "clog1801-pmb": "latest",
+        "clog4js": "latest",
+        "clog_js": "latest",
+        "cloga": "latest",
+        "clogcat": "latest",
+        "clogged": "latest",
+        "clogger": "latest",
+        "clogger-storm": "latest",
+        "cloggie": "latest",
+        "cloggy": "latest",
+        "clogic-auth": "latest",
+        "clogit": "latest",
+        "clogjs": "latest",
+        "clogreader": "latest",
+        "clogs": "latest",
+        "clogsjs": "latest",
+        "clogster": "latest",
+        "clogy": "latest",
+        "clogz": "latest"
+    }
+}

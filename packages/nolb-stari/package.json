@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-stari",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "starify-discord": "latest",
+        "starify-discord-br": "latest",
+        "starii": "latest",
+        "starikov": "latest",
+        "starikov.dev": "latest",
+        "starinfo": "latest",
+        "starit-admin": "latest"
+    }
+}

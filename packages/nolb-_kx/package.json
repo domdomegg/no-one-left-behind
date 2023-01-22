@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_kx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kx-cli-dev/core": "latest",
+        "@kx-cli-dev/utils": "latest",
+        "@kxb-cli/core": "latest",
+        "@kxb-cli/utils": "latest",
+        "@kxghnpm/kx-file-lister-sync": "latest",
+        "@kxghnpm/kx-iqcaptcha": "latest",
+        "@kxghnpm/kx-shredder-sync": "latest",
+        "@kxgo/easy-mock": "latest",
+        "@kxk911/react-orgchart": "latest",
+        "@kxt5258/common": "latest",
+        "@kxticketing/common": "latest",
+        "@kxtickets/common": "latest",
+        "@kxxt/patch-package": "latest",
+        "@kxxxl/animal-web-vue-ui": "latest",
+        "@kxxxl/justtest": "latest",
+        "@kxxxl/test": "latest",
+        "@kxxxl/test-button": "latest",
+        "@kxxxl/testtemplate": "latest"
+    }
+}

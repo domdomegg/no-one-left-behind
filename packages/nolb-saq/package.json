@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-saq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "saq": "latest",
+        "saqib": "latest",
+        "saqib-lib-first-1": "latest",
+        "saqib.rehman-frame-print": "latest",
+        "saqing-autobahn": "latest",
+        "saqing-worker-loader": "latest",
+        "saqlain-cal": "latest",
+        "saqlain-cal-v1": "latest",
+        "saqovish-learnstorybook-design-system": "latest",
+        "saqr": "latest",
+        "saquib-test": "latest",
+        "saquib-test-pckg": "latest",
+        "saquib-webauthn-test-pckg": "latest"
+    }
+}

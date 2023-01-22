@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_g7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@g749/plugin-node-data-inheritance": "latest",
+        "@g749/plugin-node-faker": "latest",
+        "@g749/spotify-web-api-node": "latest",
+        "@g7495x/helper-library": "latest",
+        "@g7dao/public-project-webhooks": "latest",
+        "@g7fe/eslint-config-g7": "latest"
+    }
+}

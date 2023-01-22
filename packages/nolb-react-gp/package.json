@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-react-gp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-gpickr": "latest",
+        "react-gplot": "latest",
+        "react-gpplot": "latest",
+        "react-gpt": "latest",
+        "react-gpt-ad": "latest",
+        "react-gpt-ads": "latest",
+        "react-gpt-domain": "latest",
+        "react-gpt-for-prebid": "latest",
+        "react-gpt-manager": "latest",
+        "react-gpt-prebid": "latest",
+        "react-gpu": "latest",
+        "react-gpu-fingerprint": "latest"
+    }
+}

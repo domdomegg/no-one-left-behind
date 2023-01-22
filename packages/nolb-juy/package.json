@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-juy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "juy": "latest",
+        "juypter_weav": "latest",
+        "juyuan-cli": "latest",
+        "juyuan-gulp": "latest",
+        "juyuan-gulp-rev": "latest",
+        "juyuan-gulp-rev-collector": "latest",
+        "juyuan-rev-path": "latest"
+    }
+}

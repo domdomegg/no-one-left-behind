@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-wix-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wix-visitors-mobile-app": "latest",
+        "wix-visitors-server": "latest",
+        "wix-visitors-web": "latest",
+        "wix-vod-adi-utils": "latest",
+        "wix-vod-cards": "latest",
+        "wix-vod-sdk": "latest",
+        "wix-vod-shared": "latest"
+    }
+}

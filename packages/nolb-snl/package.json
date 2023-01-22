@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-snl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "snl": "latest",
+        "snl-anno": "latest",
+        "snl-dom": "latest",
+        "snl-headers4": "latest",
+        "snl-headers5": "latest",
+        "snl-ui": "latest",
+        "snlivesol": "latest",
+        "snlog": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_voe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@voejs/animate": "latest",
+        "@voejs/runtime": "latest",
+        "@voejs/server": "latest",
+        "@voejs/voe": "latest",
+        "@voerkai18n/formatters": "latest",
+        "@voerkai18n/react": "latest",
+        "@voerkai18n/utils": "latest",
+        "@voerkai18n/vite": "latest",
+        "@voerkai18n/vue": "latest",
+        "@voerro/calamansi-js": "latest",
+        "@voerro/vue-modal": "latest",
+        "@voerro/vue-notifications": "latest",
+        "@voerro/vue-tagsinput": "latest",
+        "@voezy-kit/awesome-viewer": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-kiz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "kiz": "latest",
+        "kizai": "latest",
+        "kizazi": "latest",
+        "kizen-date-range-picker": "latest",
+        "kizuna": "latest",
+        "kizuna-design-kit": "latest",
+        "kizuna-react-kit": "latest",
+        "kizunanocoin": "latest",
+        "kizunanocoin-cli": "latest",
+        "kizunanocoin-web": "latest",
+        "kizunapi": "latest",
+        "kizye": "latest",
+        "kizz": "latest",
+        "kizz-export": "latest",
+        "kizz-guess-tags": "latest",
+        "kizz-markdown": "latest",
+        "kizz-theme-default": "latest",
+        "kizz-theme-paper": "latest",
+        "kizzy": "latest"
+    }
+}

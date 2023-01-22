@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-newy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "newy-weather-widget": "latest",
+        "newyancong": "latest",
+        "newyear-cli": "latest",
+        "newyear-iszaogao": "latest",
+        "newyearwishes": "latest",
+        "newyork": "latest",
+        "newyork-element-ui": "latest",
+        "newyorktimes": "latest",
+        "newyqhpostdata": "latest",
+        "newysshandsontable": "latest",
+        "newysshandsontablevue": "latest",
+        "newyuanjia-ui": "latest",
+        "newyvgchjfvftgx": "latest"
+    }
+}

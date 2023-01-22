@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-icg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "icg": "latest",
+        "icg-cli": "latest",
+        "icg-crawler": "latest",
+        "icg-cron-service-manager": "latest",
+        "icg-data-management-service": "latest",
+        "icg-gm": "latest",
+        "icg-griddle-react": "latest",
+        "icg-json-to-xlsx": "latest",
+        "icg-json-to-xlsx-browserify-shim": "latest",
+        "icg-json-to-xlsx-gps": "latest",
+        "icg-json-to-xlsx-gps-plan": "latest",
+        "icg-request-ntlm": "latest",
+        "icg-rest-client": "latest",
+        "icg-soda": "latest",
+        "icg-task-queue": "latest",
+        "icg-task-service-manager": "latest",
+        "icgen": "latest",
+        "icglr": "latest"
+    }
+}

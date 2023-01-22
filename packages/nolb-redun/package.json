@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-redun",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "redun": "latest",
+        "redun1": "latest",
+        "redundancyjs": "latest",
+        "redundant-1": "latest",
+        "redundant-a": "latest",
+        "redundant-crypto-price-management": "latest",
+        "redundant-rpc-provider": "latest",
+        "redunk": "latest"
+    }
+}

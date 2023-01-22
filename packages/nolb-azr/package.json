@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-azr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "azr": "latest",
+        "azra": "latest",
+        "azraael-djs": "latest",
+        "azrael": "latest",
+        "azrael-djs": "latest",
+        "azrail-brain-games": "latest",
+        "azrail-check-difference": "latest",
+        "azrequests": "latest",
+        "azro_exercise": "latest",
+        "azronzin": "latest",
+        "azrul-react-logger": "latest",
+        "azrun": "latest",
+        "azry-component-library": "latest",
+        "azry-components": "latest",
+        "azry-icon": "latest",
+        "azry-muc": "latest",
+        "azry-mui-components": "latest"
+    }
+}

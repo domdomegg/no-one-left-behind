@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-html-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "html-obfuscator": "latest",
+        "html-obj": "latest",
+        "html-object": "latest",
+        "html-onefile": "latest",
+        "html-oninput": "latest",
+        "html-outline": "latest",
+        "html-overlays": "latest"
+    }
+}

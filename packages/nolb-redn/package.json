@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-redn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rednet-google-contacts": "latest",
+        "rednex": "latest",
+        "rednib": "latest",
+        "rednomic": "latest",
+        "rednomic-upload": "latest",
+        "rednone": "latest",
+        "rednose-oauth1": "latest",
+        "rednose-ui": "latest",
+        "rednot": "latest",
+        "rednov-ui": "latest",
+        "rednpm": "latest",
+        "redns": "latest"
+    }
+}

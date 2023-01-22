@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-twp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "twp": "latest",
+        "twp-alert": "latest",
+        "twp-components": "latest",
+        "twp-devtools-test": "latest",
+        "twp-editor-plugin-schematics": "latest",
+        "twp-login-component": "latest",
+        "twp-login-component-temp": "latest",
+        "twp-login-component-temp-hotfix": "latest",
+        "twpack": "latest",
+        "twpage": "latest",
+        "twpm": "latest",
+        "twpulgin": "latest",
+        "twpx": "latest"
+    }
+}

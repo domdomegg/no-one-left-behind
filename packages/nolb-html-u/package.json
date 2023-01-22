@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-html-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "html-uglify": "latest",
+        "html-ui": "latest",
+        "html-ui-hunter": "latest",
+        "html-unit": "latest",
+        "html-url-attributes": "latest",
+        "html-url-loader": "latest",
+        "html-urls": "latest",
+        "html-utf8": "latest",
+        "html-util": "latest",
+        "html-util-element": "latest",
+        "html-utilites": "latest",
+        "html-utilities": "latest",
+        "html-utility": "latest",
+        "html-utils": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_tys",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tyscorp/redux-form": "latest",
+        "@tyson_tlo/bootstrap-form-populator": "latest",
+        "@tysonalcorn/est-helpers": "latest",
+        "@tysonalcorn/est-parser": "latest",
+        "@tysonium-rapid/testnpmpkg": "latest",
+        "@tysontredger/css-framework": "latest"
+    }
+}

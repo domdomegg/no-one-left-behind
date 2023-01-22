@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_fua",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fuadmuhtaz/nestjs-typeorm-paginate": "latest",
+        "@fuadop/koa-proxy": "latest",
+        "@fuadop/react-native-store": "latest",
+        "@fuads96/game-dice": "latest",
+        "@fuads96/game-dice-2": "latest",
+        "@fualfie/easy-server": "latest",
+        "@fualfie/test-npm-module": "latest",
+        "@fualfie/websocket-server": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-styl-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "styl-abstract-theme": "latest",
+        "styl-brunch": "latest",
+        "styl-comp-test": "latest",
+        "styl-easing": "latest",
+        "styl-file-compile": "latest",
+        "styl-font-face": "latest",
+        "styl-helpers": "latest",
+        "styl-injector": "latest",
+        "styl-modulesify": "latest",
+        "styl-resources-loader": "latest",
+        "styl-shen": "latest",
+        "styl-stream": "latest",
+        "styl-utils": "latest"
+    }
+}

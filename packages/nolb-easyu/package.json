@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-easyu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "EasyUI": "latest",
+        "easyui": "latest",
+        "easyui-186": "latest",
+        "easyui-core": "latest",
+        "easyui-draganddrop": "latest",
+        "easyui-explorer": "latest",
+        "easyui-jsx": "latest",
+        "easyui-layout": "latest",
+        "easyui-richtextarea": "latest",
+        "easyuibutton": "latest",
+        "easyuichen": "latest",
+        "easyuijs": "latest",
+        "easyuploader": "latest",
+        "easyupnp": "latest",
+        "easyurban": "latest",
+        "easyurlparser": "latest",
+        "easyusb": "latest",
+        "easyuse": "latest",
+        "easyutil": "latest",
+        "easyutil-discordjs": "latest",
+        "easyutility": "latest",
+        "easyutils": "latest",
+        "easyutilsbackend": "latest"
+    }
+}

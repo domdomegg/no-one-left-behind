@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-zha-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zha-cli": "latest",
+        "zha-vue-npm": "latest",
+        "zha-zha-dateformat": "latest",
+        "zha-zha-excel": "latest",
+        "zha-zha-myvue-cli": "latest",
+        "zha-zha-qs": "latest",
+        "zha-zha-ui": "latest"
+    }
+}

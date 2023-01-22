@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_grg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@grglaz/nodetestpackage": "latest",
+        "@grgmgd/app-badge": "latest",
+        "@grgmgd/brainhubeu-react-carousel": "latest",
+        "@grgmgd/restyle": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-cax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cax": "latest",
+        "cax-gl": "latest",
+        "cax4sablejs": "latest",
+        "caxa": "latest",
+        "caxa-form": "latest",
+        "caxh_video": "latest",
+        "caxhcipher": "latest",
+        "caxhe": "latest",
+        "caxinha": "latest",
+        "caxinha.js": "latest",
+        "caxios": "latest",
+        "caxios2020": "latest",
+        "caxs-design": "latest",
+        "caxton": "latest",
+        "caxy-anchorme": "latest",
+        "caxy-babel-preset-react-app": "latest",
+        "caxy-create-react-app": "latest",
+        "caxy-eslint-config-react-app": "latest",
+        "caxy-react-dev-utils": "latest",
+        "caxy-react-error-overlay": "latest",
+        "caxy-react-scripts": "latest",
+        "caxy-styleguide-core": "latest",
+        "caxy-styleguide-webpack-plugin": "latest"
+    }
+}

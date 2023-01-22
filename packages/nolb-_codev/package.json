@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_codev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@codevachon/classnames": "latest",
+        "@codevachon/enigma": "latest",
+        "@codevachon/react-common": "latest",
+        "@codevachon/utilities": "latest",
+        "@codevadmin/flashphoner-api": "latest",
+        "@codevadmin/jquery-popunder": "latest",
+        "@codevadmin/jquery-tmpl": "latest",
+        "@codevadmin/mdn-custom-event-polyfill": "latest",
+        "@codevadmin/owl.carousel": "latest",
+        "@codevalor/collection": "latest",
+        "@codevault/codevault-cli": "latest",
+        "@codevault/sql-logging": "latest",
+        "@codevault/sql-poc": "latest",
+        "@codevco/pino-logtail": "latest",
+        "@codever/npm-execute-submodules": "latest",
+        "@codeverse/cryptex": "latest",
+        "@codeverse/ember-data-has-many-query": "latest",
+        "@codeverse/envcrypt": "latest",
+        "@codeverse/eslint-config": "latest",
+        "@codeverse/eslint-config-codeverse": "latest",
+        "@codeverse/react-shuttle": "latest",
+        "@codevise/activeadmin-searchable_select": "latest",
+        "@codevor/js-http-status": "latest",
+        "@codevor/js-is-empty": "latest",
+        "@codevor/js-is-type": "latest",
+        "@codevor/js-semaphore": "latest",
+        "@codevor/logger.js": "latest"
+    }
+}

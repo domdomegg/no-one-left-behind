@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-gez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gez": "latest",
+        "gezhiheng": "latest",
+        "gezhipengs": "latest",
+        "gezi": "latest",
+        "gezi-core": "latest",
+        "gezi-demo": "latest",
+        "gezitunes.org": "latest"
+    }
+}

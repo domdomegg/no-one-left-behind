@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_r1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@r1000ru/jsonrpc-server": "latest",
+        "@r104/studio-configurations": "latest",
+        "@r104/studio-directive": "latest",
+        "@r104/studio-framework": "latest",
+        "@r146023/colemen-jsutils": "latest",
+        "@r14c/async-utils": "latest",
+        "@r1chm8/eslint-plugin-sort-destructure-keys": "latest",
+        "@r1o/primereact": "latest",
+        "@r1oga/eslint-config": "latest",
+        "@r1oga/eslint-config-react": "latest",
+        "@r1oga/passport-reddit": "latest",
+        "@r1oga/prettier-config": "latest",
+        "@r1ogatix/common": "latest",
+        "@r1q/gatsby-plugin-onesignal": "latest",
+        "@r1tsuu/constructor-ui": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-acp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "acp": "latest",
+        "acp-aws-amplify-serverless-plugin": "latest",
+        "acp-node-lib": "latest",
+        "acp-request": "latest",
+        "acp-types": "latest",
+        "acpc_table": "latest",
+        "acpi": "latest",
+        "acpiclient": "latest",
+        "acpl": "latest",
+        "acplayer": "latest",
+        "acpr_notifications": "latest",
+        "acpradhumn": "latest"
+    }
+}

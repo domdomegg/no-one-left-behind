@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_rao",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@rao.relewise/rao-test-js-client": "latest",
+        "@rao_relewise/rao-test-js-client": "latest",
+        "@rao_relewise_worker/rao-test-js-client": "latest",
+        "@raofahadkhan/fahadnodelib": "latest",
+        "@raohassan/package-hassan": "latest",
+        "@raohassan/pkg-hassan-2": "latest",
+        "@raoinfotech/ngx-file-dnd": "latest",
+        "@raona/components": "latest",
+        "@raona/ga": "latest",
+        "@raona/graph": "latest",
+        "@raona/icalendar-link": "latest",
+        "@raona/joyride": "latest",
+        "@raona/sp": "latest",
+        "@raoni/cooldates-cli": "latest",
+        "@raornl-lerna-monorepo/graph": "latest",
+        "@raornl-lerna-monorepo/powerbi": "latest",
+        "@raosev/html-purifier": "latest",
+        "@raosev/html-purifier-tmp": "latest",
+        "@raoufchebri/create-scylla-app": "latest",
+        "@raouldeheer/tstypes": "latest",
+        "@raozi83/r-input": "latest"
+    }
+}

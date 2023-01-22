@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_kif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kifka81/minimalista": "latest",
+        "@kifly/core": "latest",
+        "@kifly/env": "latest",
+        "@kifs-common/classnames": "latest",
+        "@kifs-react/context-reducer": "latest",
+        "@kifuan/json-db": "latest"
+    }
+}

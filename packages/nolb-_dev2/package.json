@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_dev2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dev2919/cmd-palette": "latest",
+        "@dev2919/js-components-test": "latest",
+        "@dev2919/test-cmd-palette": "latest",
+        "@dev2919/test-command-palette": "latest",
+        "@dev2alert/sa-mp": "latest",
+        "@dev2cloud/gofire": "latest",
+        "@dev2world/mongo": "latest",
+        "@dev2world/mysql": "latest",
+        "@dev2world/test-package": "latest",
+        "@dev2you/brazilian-states": "latest",
+        "@dev2you/hello-simpaul": "latest"
+    }
+}

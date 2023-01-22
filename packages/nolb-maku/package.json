@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-maku",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "maku": "latest",
+        "maku-cli": "latest",
+        "maku-test-package": "latest",
+        "maku.js": "latest",
+        "makuai": "latest",
+        "makubxmodule": "latest",
+        "makula": "latest",
+        "makumba": "latest",
+        "makup": "latest",
+        "makuro": "latest",
+        "makuro-client": "latest",
+        "makurosu_api": "latest",
+        "makuta-test": "latest",
+        "makuta_mongocollection": "latest"
+    }
+}

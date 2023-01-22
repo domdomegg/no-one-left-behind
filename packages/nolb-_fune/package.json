@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_fune",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@funeralguide/eslint-plugin-test-selectors": "latest",
+        "@funeralguide/react-form-validation-hoc": "latest",
+        "@funexp/interpreter": "latest",
+        "@funexp/webpack-loader": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-1e",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "1e": "latest",
+        "1e14-async": "latest",
+        "1e14-flow": "latest",
+        "1e14-fp": "latest",
+        "1e14-mux": "latest",
+        "1e14-time": "latest",
+        "1ee": "latest",
+        "1esm": "latest",
+        "1ex19-test": "latest",
+        "1ex_test_card": "latest"
+    }
+}

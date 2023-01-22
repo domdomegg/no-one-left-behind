@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-byc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "byc": "latest",
+        "byc-bell-vue-3-components": "latest",
+        "byc-popup": "latest",
+        "byc-t1": "latest",
+        "bycbutton": "latest",
+        "bycedric": "latest",
+        "bycg-ui": "latest",
+        "bycgxss-weather": "latest",
+        "bycgxss-weather-cli": "latest",
+        "bychance-components": "latest",
+        "bychance-recommendation-list": "latest",
+        "bychrisme-npm-test": "latest",
+        "bychrisme-react-library": "latest",
+        "bycli": "latest",
+        "byclient": "latest",
+        "byclient-axios": "latest",
+        "bycoders-ui-react": "latest",
+        "bycomponent": "latest",
+        "bycons": "latest",
+        "bycontext-javascript-sdk": "latest",
+        "bycontract": "latest",
+        "bycontract-plus": "latest"
+    }
+}

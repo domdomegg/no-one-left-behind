@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-byg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "byg": "latest",
+        "byg-elixir-tag": "latest",
+        "byg-ui": "latest",
+        "bygaga63": "latest",
+        "bygg": "latest",
+        "bygg-browserify": "latest",
+        "bygg-examples": "latest",
+        "bygg-plugins": "latest",
+        "bygg-plugins-light": "latest",
+        "bygg-rename": "latest",
+        "bygg-uglify": "latest",
+        "bygg-vue-form": "latest",
+        "byggare-bob": "latest",
+        "bygone": "latest",
+        "bygracemodule": "latest"
+    }
+}

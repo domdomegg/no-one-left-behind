@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-dev3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dev3": "latest",
+        "dev3-sdk": "latest",
+        "dev3-vplugin-dictselect": "latest",
+        "dev32-react-library": "latest",
+        "dev361-front-builder": "latest",
+        "dev387-seven-cli": "latest",
+        "dev387-seven-cli-ui": "latest",
+        "dev3cli": "latest",
+        "dev3s-react-native-prompt": "latest"
+    }
+}

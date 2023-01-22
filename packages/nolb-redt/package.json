@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-redt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "redtail": "latest",
+        "redtail-embeddable-ringcentral-phone": "latest",
+        "redtape": "latest",
+        "redtea": "latest",
+        "redtie": "latest",
+        "redtie.io": "latest",
+        "redtool": "latest",
+        "redtop": "latest",
+        "redtube": "latest"
+    }
+}

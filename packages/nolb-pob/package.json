@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-pob",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pob": "latest",
+        "pob-babel": "latest",
+        "pob-commit": "latest",
+        "pob-dependencies": "latest",
+        "pob-lcov-reporter": "latest",
+        "pob-release": "latest",
+        "pobb-charts": "latest",
+        "pobeda-ui": "latest",
+        "pobedit": "latest",
+        "pobem": "latest",
+        "pobems": "latest",
+        "poberezhnyk_module": "latest",
+        "poblado": "latest",
+        "pobot": "latest",
+        "pobox-regex": "latest",
+        "poboy": "latest",
+        "pobp-trace": "latest",
+        "pobpack-browser": "latest",
+        "pobpack-node": "latest",
+        "pobpack-types": "latest",
+        "pobpack-utils": "latest"
+    }
+}

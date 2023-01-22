@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-antp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "antp": "latest",
+        "antp-cli": "latest",
+        "antp-template-cli": "latest",
+        "antpack": "latest",
+        "antpack-ui": "latest",
+        "antpackauth": "latest",
+        "antpb": "latest",
+        "antplug": "latest",
+        "antpress": "latest",
+        "antpro-cli": "latest",
+        "antprots": "latest"
+    }
+}

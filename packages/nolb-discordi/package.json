@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-discordi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discordi.js": "latest",
+        "discordia": "latest",
+        "discordial": "latest",
+        "discordian-date": "latest",
+        "discordianquotes": "latest",
+        "discordians.js": "latest",
+        "discordie": "latest",
+        "discordify": "latest",
+        "discordimate": "latest",
+        "discordinfo.js": "latest",
+        "discordinfos": "latest",
+        "discordinjections": "latest",
+        "discordinvite": "latest",
+        "discordinvites_api": "latest",
+        "discordinvitesqw3": "latest",
+        "discordio-2.0": "latest",
+        "discordio-backup": "latest",
+        "discordion": "latest",
+        "discordipbot": "latest",
+        "discordium": "latest"
+    }
+}

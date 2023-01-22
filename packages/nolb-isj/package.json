@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-isj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "isj": "latest",
+        "isjesustest": "latest",
+        "isjez": "latest",
+        "isjpeg": "latest",
+        "isjs": "latest",
+        "isjsonobj": "latest",
+        "isjsonstring": "latest"
+    }
+}

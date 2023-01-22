@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-rollup-plugin-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rollup-plugin-ue2": "latest",
+        "rollup-plugin-uglify": "latest",
+        "rollup-plugin-uglify-es": "latest",
+        "rollup-plugin-unassert": "latest",
+        "rollup-plugin-underscorify": "latest",
+        "rollup-plugin-uniroll-css": "latest",
+        "rollup-plugin-uniroll-svelte": "latest",
+        "rollup-plugin-uniroll-vue": "latest",
+        "rollup-plugin-uniroll-worker": "latest",
+        "rollup-plugin-unpkg": "latest",
+        "rollup-plugin-unused": "latest",
+        "rollup-plugin-upload-sourcemap": "latest",
+        "rollup-plugin-url": "latest",
+        "rollup-plugin-url-emit": "latest",
+        "rollup-plugin-url-import": "latest",
+        "rollup-plugin-url-resolve": "latest",
+        "rollup-plugin-url2": "latest",
+        "rollup-plugin-urlroot": "latest",
+        "rollup-plugin-use-client": "latest",
+        "rollup-plugin-userscript": "latest",
+        "rollup-plugin-userscript-css": "latest",
+        "rollup-plugin-userscript-header": "latest",
+        "rollup-plugin-userscript-metablock": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-webpack2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "webpack2": "latest",
+        "webpack2-ejs-render-loader": "latest",
+        "webpack2-env-boilerplate": "latest",
+        "webpack2-env-loader-plugin": "latest",
+        "webpack2-es7-boilerplate": "latest",
+        "webpack2-externals-plugin": "latest",
+        "webpack2-fail-plugin": "latest",
+        "webpack2-general-config": "latest",
+        "webpack2-polyfill-plugin": "latest",
+        "webpack2-react-env-boilerplate": "latest",
+        "webpack2-react-es7-boilerplate": "latest",
+        "webpack2-react-sass-env-boilerplate": "latest",
+        "webpack2-react-sass-es7-boilerplate": "latest",
+        "webpack2-relative-aliases": "latest",
+        "webpack2-replace-loader": "latest",
+        "webpack2-sentry-plugin": "latest",
+        "webpack2-stream-watch": "latest",
+        "webpack2-svgstore-plugin-fix-absolute-url": "latest",
+        "webpack2-validator": "latest",
+        "webpack2k18": "latest",
+        "webpack2ts-cli": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_z_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@z.aourzag/nekos.life-aero": "latest",
+        "@z.aourzag/plugzs": "latest",
+        "@z_hyun/yunui": "latest",
+        "@z_means_ji/times-ago": "latest",
+        "@z_npm/request": "latest"
+    }
+}

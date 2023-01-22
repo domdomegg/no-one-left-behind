@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-react-gt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-gtag": "latest",
+        "react-gtex-viz": "latest",
+        "react-gtk": "latest",
+        "react-gtm": "latest",
+        "react-gtm-components": "latest",
+        "react-gtm-consent-module": "latest",
+        "react-gtm-module": "latest",
+        "react-gtm-module-custom-domain": "latest",
+        "react-gtm-module-defer": "latest",
+        "react-gtm-module-dnp": "latest",
+        "react-gtm-module-fix-jest": "latest",
+        "react-gtm-module-lifetri": "latest",
+        "react-gtm-module-nonce": "latest",
+        "react-gtm-module-onetrust": "latest",
+        "react-gtm-module-with-nonce": "latest",
+        "react-gtm-track": "latest",
+        "react-gtm-ts": "latest"
+    }
+}

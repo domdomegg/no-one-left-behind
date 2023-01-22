@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-gek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gek": "latest",
+        "gek-auth": "latest",
+        "gek-email": "latest",
+        "gek-oss": "latest",
+        "gek-pusher": "latest",
+        "gek-request": "latest",
+        "gek-sms": "latest",
+        "gek-util": "latest",
+        "gek-worker": "latest",
+        "gek_ui": "latest",
+        "gekaaptebrieven-client": "latest",
+        "gekafindmax": "latest",
+        "gekkebult": "latest",
+        "gekkio": "latest",
+        "gekko": "latest",
+        "gekko-api-client": "latest",
+        "gekko-bittrex": "latest",
+        "gekko-broker-poloniex": "latest",
+        "gekko-exchanges": "latest",
+        "gekkota": "latest",
+        "gekky": "latest",
+        "geko-lib": "latest",
+        "gekoq": "latest"
+    }
+}

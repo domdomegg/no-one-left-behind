@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_enb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@enbiso/auth": "latest",
+        "@enbiso/dialog": "latest",
+        "@enbiso/multi-input": "latest",
+        "@enbiso/ngrx-operators": "latest",
+        "@enbiso/ngrx-route": "latest",
+        "@enbiso/object-input": "latest",
+        "@enbiso/rest-client": "latest",
+        "@enbiso/rxjs-operators": "latest",
+        "@enbiso/utils-string": "latest",
+        "@enbiso/utils-url": "latest",
+        "@enbock/application-router": "latest",
+        "@enbock/simple-storage": "latest",
+        "@enbock/state-value-observer": "latest",
+        "@enbock/string-helper-ts": "latest",
+        "@enbock/ts-jsx": "latest",
+        "@enbrandsfe/buried_point": "latest",
+        "@enbrandsfe/buried_point_sdk_qimen": "latest",
+        "@enbrandsfe/interacte-com-vue3": "latest",
+        "@enbrandsfe/interacte_com_vue3": "latest",
+        "@enbrandsfe/member-base-services": "latest",
+        "@enbrandsfe/type-my": "latest",
+        "@enbytronics/json-htmlify": "latest"
+    }
+}

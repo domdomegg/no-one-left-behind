@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_orh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@orh/vue-chunk-upload": "latest",
+        "@orh/vue-kityminder": "latest",
+        "@orh/vue-markdown-editor": "latest",
+        "@orh/vue-nprogress": "latest",
+        "@orhanemree/cli-chat": "latest",
+        "@orhanemree/create-template": "latest",
+        "@orhanemree/spacex-cli": "latest"
+    }
+}

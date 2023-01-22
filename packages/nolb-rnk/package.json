@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-rnk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rnk": "latest",
+        "rnker-config": "latest",
+        "rnkit": "latest",
+        "rnkit-actionsheet-picker": "latest",
+        "rnkit-actionsheet-picker-mistfz": "latest",
+        "rnkit-alert-view": "latest",
+        "rnkit-amap-location": "latest",
+        "rnkit-bqs-device-finger-printing": "latest",
+        "rnkit-city-list": "latest",
+        "rnkit-code-push": "latest",
+        "rnkit-code-push-cli": "latest",
+        "rnkit-excard": "latest",
+        "rnkit-excard-idcard": "latest",
+        "rnkit-fraudmetrix-device": "latest",
+        "rnkit-in-app-update": "latest",
+        "rnkit-linkface": "latest",
+        "rnkit-linkface-fork": "latest",
+        "rnkit-linkface-n": "latest",
+        "rnkit-meiqia": "latest",
+        "rnkit-mobile": "latest",
+        "rnkit-pay": "latest",
+        "rnkit-splash-screen": "latest",
+        "rnkit_moxie": "latest",
+        "rnkit_sensor": "latest",
+        "rnkit_verify": "latest",
+        "rnkuaishou": "latest"
+    }
+}

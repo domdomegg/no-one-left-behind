@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_com-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@com-chain/jsc3l": "latest",
+        "@com-chain/jsc3l-browser": "latest",
+        "@com-tiles/maplibre-provider": "latest",
+        "@com-tiles/mbtiles-converter": "latest",
+        "@com-tiles/provider": "latest",
+        "@com-tiles/spec": "latest",
+        "@com-web-cli/core": "latest",
+        "@com-web-cli/get-npm-info": "latest",
+        "@com-web-cli/log": "latest",
+        "@com-web-cli/utils": "latest"
+    }
+}

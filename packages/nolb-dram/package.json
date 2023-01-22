@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-dram",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dram": "latest",
+        "dram-sql": "latest",
+        "drama": "latest",
+        "drama-core": "latest",
+        "drama_mobile": "latest",
+        "dramacdn": "latest",
+        "dramacdn-jw-hlsjs": "latest",
+        "dramacdn-p2p-core": "latest",
+        "dramacdn-p2p-hlsjs": "latest",
+        "dramalf-ui": "latest",
+        "dramatis-personae": "latest",
+        "dramkov-note": "latest"
+    }
+}

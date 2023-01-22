@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-ng2d",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ng2d-sidebar": "latest",
+        "ng2d3": "latest",
+        "ng2datastore": "latest",
+        "ng2datepicker": "latest",
+        "ng2datepickernevent": "latest",
+        "ng2dialog": "latest",
+        "ng2draggable": "latest",
+        "ng2ds-preloader": "latest",
+        "ng2ds-user-alerts": "latest",
+        "ng2dt": "latest"
+    }
+}

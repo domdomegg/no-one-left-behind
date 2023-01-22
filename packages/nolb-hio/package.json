@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-hio",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hio": "latest",
+        "hioathemetpl": "latest",
+        "hioc": "latest",
+        "hiocs-front-boot": "latest",
+        "hiologger": "latest",
+        "hionline": "latest",
+        "hios-framework-base": "latest",
+        "hios-framework-components": "latest",
+        "hios-framework-core": "latest",
+        "hioshop": "latest",
+        "hiot-api": "latest",
+        "hiot-app": "latest",
+        "hiot-circuit-breaker": "latest",
+        "hiot-kafka": "latest",
+        "hiot-led-native": "latest",
+        "hiot-messaging": "latest",
+        "hiot-mongodb": "latest",
+        "hiot-restify": "latest",
+        "hiot-restify-cors": "latest",
+        "hiot-restify5": "latest",
+        "hiot-wait-for": "latest",
+        "hiotter-cli": "latest"
+    }
+}

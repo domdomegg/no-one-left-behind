@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-ste-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ste-browser": "latest",
+        "ste-component-lib": "latest",
+        "ste-core": "latest",
+        "ste-events": "latest",
+        "ste-promise-events": "latest",
+        "ste-promise-signals": "latest",
+        "ste-promise-simple-events": "latest",
+        "ste-react-core": "latest",
+        "ste-signals": "latest",
+        "ste-simple-events": "latest",
+        "ste-test-demo1": "latest",
+        "ste-test-demo2": "latest",
+        "ste-ui": "latest"
+    }
+}

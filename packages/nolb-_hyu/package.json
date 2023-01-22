@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_hyu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyu/s3-cnpm": "latest",
+        "@hyuckkim/hello-wasm": "latest",
+        "@hyugo/plugin": "latest",
+        "@hyugo/plugin-douban": "latest",
+        "@hyukyu/grid": "latest",
+        "@hyun__/mypackage": "latest",
+        "@hyunainternational/lambda-respond": "latest",
+        "@hyunjin/snow": "latest",
+        "@hyunjun19/barreler": "latest",
+        "@hyunjun19/rest-url": "latest",
+        "@hyunjun529/hello-wasm": "latest",
+        "@hyunseob/countdown": "latest",
+        "@hyuntony/lotide": "latest",
+        "@hyurl/fetch": "latest",
+        "@hyurl/goroutine": "latest",
+        "@hyurl/schematize": "latest",
+        "@hyurl/structured-clone": "latest",
+        "@hyurl/utils": "latest",
+        "@hyuuu/amcuitest": "latest"
+    }
+}

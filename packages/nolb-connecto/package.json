@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-connecto",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "connectome": "latest",
+        "connector": "latest",
+        "connector-api": "latest",
+        "connector-builder": "latest",
+        "connector-email-plugdo": "latest",
+        "connector-events": "latest",
+        "connector-explang": "latest",
+        "connector-firestore-api": "latest",
+        "connector-js": "latest",
+        "connector-mocky-po": "latest",
+        "connector-model": "latest",
+        "connector-observable": "latest",
+        "connector-openpay": "latest",
+        "connector-servicenow-generic": "latest",
+        "connector-smartclide": "latest",
+        "connector-to-db": "latest",
+        "connector-uploader": "latest",
+        "connector-utils": "latest",
+        "connector_node": "latest",
+        "connectorapp": "latest",
+        "connectordb": "latest",
+        "connectors": "latest",
+        "connectors-custom-wss": "latest",
+        "connectors-dropbox": "latest",
+        "connectors-sdk": "latest",
+        "connectors-twitter": "latest",
+        "connectorx": "latest"
+    }
+}

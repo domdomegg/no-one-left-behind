@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_devg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@devgaoy/axios-strong": "latest",
+        "@devgaoy/data-view": "latest",
+        "@devgaoy/datav": "latest",
+        "@devgaoy/libs": "latest",
+        "@devgaoy/tineco-mobile-ui": "latest",
+        "@devgaram/eslint-config": "latest",
+        "@devgateway/wp-react-lib": "latest",
+        "@devgdx/gdx-angular-ui": "latest",
+        "@devgetting/components": "latest",
+        "@devgetting/design": "latest",
+        "@devgetting/react-init": "latest",
+        "@devggm/react-native-adyen-dropin": "latest",
+        "@devggm/react-native-ui-lib": "latest",
+        "@devggm/react-native-wheel-pick": "latest",
+        "@devgioele/winged": "latest",
+        "@devgl96/hacker-chat-client": "latest",
+        "@devguchi/hello-wasm": "latest",
+        "@devguy221/prettier-plugin-tailwindcss": "latest",
+        "@devgw-react/blank-modal": "latest",
+        "@devgw-react/outside-click": "latest"
+    }
+}

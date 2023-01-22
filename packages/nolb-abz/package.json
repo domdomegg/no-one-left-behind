@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-abz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "abz": "latest",
+        "abz-chat": "latest",
+        "abz-components-library": "latest",
+        "abzar": "latest",
+        "abzav": "latest",
+        "abzavcc": "latest",
+        "abzu-integration": "latest"
+    }
+}

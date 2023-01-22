@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-afs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "afs": "latest",
+        "afs-button": "latest",
+        "afs-my-storybook-components": "latest",
+        "afs-product-card": "latest",
+        "afs-shared": "latest",
+        "afsar-is-null-or-empty": "latest",
+        "afsdgfhg": "latest",
+        "afsdgfhog": "latest",
+        "afselectbox": "latest",
+        "afshar": "latest",
+        "afshar-ui-kit": "latest",
+        "afsharzadeh": "latest",
+        "afshin-zang": "latest",
+        "afsm": "latest",
+        "afsokoni-ga": "latest",
+        "afspawnservice": "latest",
+        "afssequelize": "latest",
+        "afst": "latest",
+        "afstatsd": "latest",
+        "afstest": "latest",
+        "afstream": "latest",
+        "afsudoku": "latest"
+    }
+}

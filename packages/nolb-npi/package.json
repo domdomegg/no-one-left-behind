@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-npi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "npi": "latest",
+        "npi-js": "latest",
+        "npid": "latest",
+        "npie": "latest",
+        "npig": "latest",
+        "npinit": "latest",
+        "npio": "latest",
+        "npip-v2": "latest",
+        "npipe": "latest",
+        "npipe-plugin-json": "latest",
+        "npipes": "latest",
+        "npipes-client": "latest"
+    }
+}

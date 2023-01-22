@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-node-sr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-sr-crawler": "latest",
+        "node-srcapi": "latest",
+        "node-srec": "latest",
+        "node-sri": "latest",
+        "node-srini-sample": "latest",
+        "node-srls": "latest",
+        "node-sro": "latest",
+        "node-srp": "latest",
+        "node-srt": "latest",
+        "node-srutils": "latest",
+        "node-srv": "latest",
+        "node-srv-utils": "latest"
+    }
+}

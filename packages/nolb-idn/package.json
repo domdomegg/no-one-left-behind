@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-idn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "idn": "latest",
+        "idn-allowed-code-points": "latest",
+        "idn-allowed-code-points-regex": "latest",
+        "idn-eai": "latest",
+        "idn_schools_client": "latest",
+        "idna": "latest",
+        "idna-normalize": "latest",
+        "idna-uts46": "latest",
+        "idna-uts46-hx": "latest",
+        "idnaive": "latest",
+        "idnnnms-widget-auth-service": "latest",
+        "idnow-auto-library": "latest",
+        "idnow-auto-library-2": "latest",
+        "idnow-auto-library-3": "latest",
+        "idnowplugin": "latest",
+        "idnpoker": "latest",
+        "idnt": "latest",
+        "idntfy": "latest",
+        "idntty": "latest",
+        "idnumbervalidator": "latest"
+    }
+}

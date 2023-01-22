@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_vuee",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vueent/core": "latest",
+        "@vueent/mix-models": "latest",
+        "@vueent/reactive": "latest",
+        "@vueent/store": "latest"
+    }
+}

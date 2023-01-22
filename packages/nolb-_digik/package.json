@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_digik",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@digikare/custiconify": "latest",
+        "@digikare/nestjs-azure-appconfig": "latest",
+        "@digikare/nestjs-azure-eventhub": "latest",
+        "@digikare/nestjs-prom": "latest",
+        "@digikare/ngx-fullpage-modal": "latest",
+        "@digikare/ngx-md-feedback": "latest",
+        "@digikare/ngx-offline-interceptor": "latest",
+        "@digikare/ngx-tour-console": "latest",
+        "@digikare/ngx-tour-core": "latest",
+        "@digikare/ngx-tour-md-menu": "latest",
+        "@digikare/ngx-tour-ng-bootstrap": "latest",
+        "@digikare/ngx-tour-ngx-bootstrap": "latest"
+    }
+}

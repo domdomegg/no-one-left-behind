@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_saz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sazanya/cwp21": "latest",
+        "@sazze/acl": "latest",
+        "@sazze/amqp": "latest",
+        "@sazze/envoy-nodejs": "latest",
+        "@sazze/envoy-thrift": "latest",
+        "@sazze/liner": "latest",
+        "@sazze/ops-cli": "latest",
+        "@sazze/ops-client": "latest",
+        "@sazze/rc-client": "latest",
+        "@sazze/rc-protocol": "latest",
+        "@sazze/riak": "latest",
+        "@sazze/sand-amqp": "latest",
+        "@sazze/stats": "latest",
+        "@sazze/thrift": "latest"
+    }
+}

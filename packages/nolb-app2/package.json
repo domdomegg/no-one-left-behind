@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-app2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "App2App": "latest",
+        "app2": "latest",
+        "app2-101-32222": "latest",
+        "app2018": "latest",
+        "app2022-cli": "latest",
+        "app2053": "latest",
+        "app22": "latest",
+        "app27": "latest",
+        "app29": "latest",
+        "app2librarytest": "latest",
+        "app2png": "latest",
+        "app2png-prebuilt": "latest",
+        "app2test": "latest",
+        "app2testforkenpei": "latest"
+    }
+}

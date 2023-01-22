@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_ruf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ruffjs/rap-dummy": "latest",
+        "@ruffle-rs/ruffle": "latest",
+        "@ruffle1986/pikaday-time": "latest",
+        "@ruffle1986/test": "latest",
+        "@ruffpuff/api": "latest",
+        "@ruffpuff/celestia": "latest",
+        "@ruffpuff/eslint-config": "latest",
+        "@ruffpuff/eslint-config-ruffpuff": "latest",
+        "@ruffpuff/graphql-animal-crossing": "latest",
+        "@ruffpuff/ts": "latest",
+        "@ruffpuff/usehooks": "latest",
+        "@ruffpuff/utilities": "latest",
+        "@ruffus/button": "latest",
+        "@ruffus/text": "latest",
+        "@ruffy/ts-optional": "latest",
+        "@rufous/aem": "latest",
+        "@rufous/blockchain": "latest",
+        "@rufous/logger": "latest",
+        "@rufus31415/monpremierpatron": "latest",
+        "@rufusk/tiny": "latest"
+    }
+}

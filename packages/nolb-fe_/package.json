@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-fe_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fe.common-components": "latest",
+        "fe.js": "latest",
+        "fe.mes.analytics": "latest",
+        "fe.mock-api": "latest",
+        "fe_assets": "latest",
+        "fe_biz_lib": "latest",
+        "fe_common_utils": "latest",
+        "fe_components": "latest",
+        "fe_devkit": "latest",
+        "fe_store": "latest",
+        "fe_test": "latest",
+        "fe_ts_utils": "latest",
+        "fe_user_sdk": "latest",
+        "fe_watermark": "latest"
+    }
+}

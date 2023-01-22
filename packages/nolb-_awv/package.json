@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_awv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@awvinf/classcad-linux-x64": "latest",
+        "@awvinf/classcad-windows-x64": "latest",
+        "@awvinf/icons": "latest"
+    }
+}

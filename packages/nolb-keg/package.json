@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-keg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "keg": "latest",
+        "keg-cli": "latest",
+        "keg-oauth2": "latest",
+        "keg-route-dynamic": "latest",
+        "keg-test-consumer": "latest",
+        "kegalewater": "latest",
+        "kegapi": "latest",
+        "kegauth": "latest",
+        "kegboard": "latest",
+        "kegcop": "latest",
+        "kegerator": "latest",
+        "kegg-db": "latest",
+        "kegkeg": "latest",
+        "kego": "latest",
+        "kegstar": "latest"
+    }
+}

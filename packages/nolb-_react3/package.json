@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_react3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@react3l/advanced-filters": "latest",
+        "@react3l/axios-observable": "latest",
+        "@react3l/i18next-extractor": "latest",
+        "@react3l/react3l": "latest"
+    }
+}

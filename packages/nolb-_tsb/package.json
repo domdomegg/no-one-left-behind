@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_tsb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tsb/flusshygiene-utils": "latest",
+        "@tsb/substrate": "latest",
+        "@tsb/svgcode": "latest",
+        "@tsb/svgcode-cli": "latest",
+        "@tsb99/crypto-browser-sdk": "latest",
+        "@tsbb/babel-preset": "latest",
+        "@tsbb/babel-preset-tsbb": "latest",
+        "@tsbing/vuepackage": "latest",
+        "@tsboost/io-ts": "latest",
+        "@tsboost/utilities": "latest"
+    }
+}

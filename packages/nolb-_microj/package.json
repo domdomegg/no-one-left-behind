@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_microj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@microj/weixin-js-sdk": "latest",
+        "@microjournal/accessor": "latest",
+        "@microjournal/accessor-api": "latest",
+        "@microjournal/accessor-empty": "latest",
+        "@microjournal/accessor-folder": "latest",
+        "@microjournal/cli": "latest",
+        "@microjournal/data-store": "latest"
+    }
+}

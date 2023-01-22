@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_jau",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jaubrey/lotide": "latest",
+        "@jaunelacouleur/sql-extract-schema": "latest",
+        "@jaunelacouleur/sql-parse-query": "latest",
+        "@jaunelacouleur/sql-run-in-docker": "latest",
+        "@jaunty-script/checkdoc": "latest",
+        "@jaunty-script/filter": "latest",
+        "@jaunty/base": "latest",
+        "@jaunty/error": "latest",
+        "@jaunty/extension": "latest",
+        "@jaunty/resource": "latest",
+        "@jauntywunderkind/abort-controller": "latest",
+        "@jauntywunderkind/async-retry": "latest",
+        "@jauntywunderkind/event-target-shim": "latest",
+        "@jauntywunderkind/icmp": "latest",
+        "@jauntywunderkind/retry": "latest",
+        "@jauntywunderkind/tc39-temporal": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-hasp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hasp": "latest",
+        "haspr-cursor": "latest",
+        "haspr-rndb": "latest",
+        "hasprop": "latest",
+        "hasproperty": "latest",
+        "hasproperty-ts": "latest",
+        "hasprotocol": "latest"
+    }
+}

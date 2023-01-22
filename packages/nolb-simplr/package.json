@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-simplr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simplr": "latest",
+        "simplr-cropper": "latest",
+        "simplr-dropdown": "latest",
+        "simplr-flux": "latest",
+        "simplr-forms": "latest",
+        "simplr-forms-core": "latest",
+        "simplr-forms-dom": "latest",
+        "simplr-forms-native": "latest",
+        "simplr-forms-publish": "latest",
+        "simplr-gulp": "latest",
+        "simplr-loaders": "latest",
+        "simplr-logger": "latest",
+        "simplr-mvdir": "latest",
+        "simplr-smoothscroll": "latest",
+        "simplr-storybook": "latest",
+        "simplr-storybook-library": "latest",
+        "simplr-storybook-test": "latest",
+        "simplr-tslint": "latest",
+        "simplr-validation": "latest"
+    }
+}

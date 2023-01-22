@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-usl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "usleep": "latest",
+        "usleep-cli": "latest",
+        "uslint": "latest",
+        "uslog": "latest",
+        "usls-ts-fetch": "latest",
+        "usltest_math_example": "latest",
+        "uslug": "latest"
+    }
+}

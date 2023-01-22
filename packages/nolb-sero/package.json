@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-sero",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sero": "latest",
+        "sero-cli": "latest",
+        "sero-lib": "latest",
+        "sero-pp": "latest",
+        "sero-sdk": "latest",
+        "sero-service": "latest",
+        "sero-swarm-js": "latest",
+        "sero-web3": "latest",
+        "sero.ai-react-scripts": "latest",
+        "serobot": "latest",
+        "seroja": "latest",
+        "serojs": "latest",
+        "seron": "latest",
+        "serotonine320": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-j1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "j1": "latest",
+        "j1-cli": "latest",
+        "j1-nbinteract-core": "latest",
+        "j10l-frame-print": "latest",
+        "j12": "latest",
+        "j140": "latest",
+        "j18n": "latest",
+        "j1b1n1m2j5": "latest",
+        "j1gsaw": "latest",
+        "j1nnp": "latest",
+        "j1ung-text": "latest"
+    }
+}

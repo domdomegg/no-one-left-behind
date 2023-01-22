@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-electi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "electio-widget": "latest",
+        "election": "latest",
+        "election-compass-match": "latest",
+        "election-data": "latest",
+        "election-helpers": "latest",
+        "election-js": "latest",
+        "election-lib-wrapper2": "latest",
+        "election-results": "latest",
+        "election-stats-icu": "latest",
+        "election-tonight-client": "latest",
+        "election-utils": "latest",
+        "election22": "latest",
+        "electionguard": "latest",
+        "elections.dallasnews.com": "latest",
+        "elective-cesi-dvj": "latest",
+        "elective-dev-react-components": "latest",
+        "electivegroup-component-library": "latest",
+        "electivegroup-component-library-2": "latest",
+        "electivegroup-component-library-v2": "latest",
+        "electivegroup-library": "latest",
+        "electivegroup-style-guide": "latest"
+    }
+}

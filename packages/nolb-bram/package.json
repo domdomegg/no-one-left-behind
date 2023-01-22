@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-bram",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bram": "latest",
+        "bram-cookie-consent": "latest",
+        "bram-modal": "latest",
+        "bram-package": "latest",
+        "bram-syh": "latest",
+        "brama-belajar": "latest",
+        "bramanti": "latest",
+        "bramble": "latest",
+        "bramble-mvc": "latest",
+        "bramblejs": "latest",
+        "brambljs": "latest",
+        "bramd-demo": "latest",
+        "brameda": "latest",
+        "bramework": "latest",
+        "bramhachari": "latest",
+        "braml": "latest",
+        "braml-cli": "latest",
+        "braml-yo-yo": "latest",
+        "bramqp": "latest",
+        "bramqp-wrapper": "latest",
+        "bramsmulders-style": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-traj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "traj": "latest",
+        "traject": "latest",
+        "trajectory": "latest",
+        "trajectory.js": "latest",
+        "trajectory_parser": "latest"
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-evs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "evs": "latest",
+        "evs-chart-app": "latest",
+        "evs-components-pro": "latest",
+        "evs-lab": "latest",
+        "evs-livepam-ui": "latest",
+        "evs-pc-component": "latest",
+        "evs-pc-components": "latest",
+        "evs-tools": "latest",
+        "evs-ui-pro": "latest",
+        "evs_saini": "latest",
+        "evsan-plugin-customicons": "latest",
+        "evscript": "latest",
+        "evsdk-electron": "latest",
+        "evsdk-electron-ydong": "latest",
+        "evseq": "latest",
+        "evshammer": "latest",
+        "evslibcard01": "latest",
+        "evsmc-base-ui": "latest",
+        "evso": "latest",
+        "evsocket": "latest",
+        "evsocket-client": "latest",
+        "evstate": "latest",
+        "evstation-js": "latest",
+        "evstor": "latest",
+        "evsx-hook-form": "latest"
+    }
+}

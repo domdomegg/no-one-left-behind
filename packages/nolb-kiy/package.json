@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-kiy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "kiy": "latest",
+        "kiy-ui-tsx": "latest",
+        "kiy-ui-vue3": "latest",
+        "kiya-storybook-addon-react-live-edit": "latest",
+        "kiyeop": "latest",
+        "kiyeop-api": "latest",
+        "kiyo": "latest",
+        "kiyo-tiny-deploy": "latest",
+        "kiyomi": "latest"
+    }
+}

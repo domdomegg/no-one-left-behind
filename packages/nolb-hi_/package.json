@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-hi_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hi_alex": "latest",
+        "hi_bus_cli": "latest",
+        "hi_score": "latest",
+        "hi_sir_cacl": "latest",
+        "hi_welcome_demo": "latest"
+    }
+}

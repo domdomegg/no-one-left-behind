@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_chik",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chikai-io/nbi-cli": "latest",
+        "@chikara-apps/common": "latest",
+        "@chikara-apps/jucipe-common": "latest",
+        "@chike0905/sd-jwt-ts": "latest",
+        "@chiknrice/auth-js": "latest",
+        "@chiknrice/ckeditor5-build-inline": "latest",
+        "@chiknrice/sr-exp": "latest",
+        "@chikoshidori/akira": "latest",
+        "@chikoshidori/nodeactyl": "latest",
+        "@chikoshidori/unb-api": "latest"
+    }
+}

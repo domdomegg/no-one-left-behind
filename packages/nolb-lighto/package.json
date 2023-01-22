@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-lighto",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lightogram": "latest",
+        "lightoj": "latest",
+        "lightoj-json-editor": "latest",
+        "lighton-muse": "latest",
+        "lightordark": "latest",
+        "lightout": "latest"
+    }
+}

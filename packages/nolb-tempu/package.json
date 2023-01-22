@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-tempu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "Tempus": "latest",
+        "tempura": "latest",
+        "tempus-api": "latest",
+        "tempus-api-graphql": "latest",
+        "tempus-core-services": "latest",
+        "tempus-expressjs-utils": "latest",
+        "tempus-fugit": "latest",
+        "tempus-http-client": "latest",
+        "tempus-logging-utils": "latest",
+        "tempus-security-utils": "latest",
+        "tempus-shared-contracts": "latest",
+        "tempus-trakus": "latest",
+        "tempusdominus": "latest",
+        "tempusdominus-bootstrap": "latest",
+        "tempusdominus-bootstrap-3": "latest",
+        "tempusdominus-bootstrap-4": "latest",
+        "tempusdominus-bootstrap-4_sdi": "latest",
+        "tempusdominus-core": "latest",
+        "tempusdominus-core-fork": "latest",
+        "tempusdominus-core-tbk": "latest",
+        "tempusjs": "latest"
+    }
+}

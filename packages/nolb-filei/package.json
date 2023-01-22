@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-filei",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fileic-fengmengrong": "latest",
+        "fileicon": "latest",
+        "fileicon-svg": "latest",
+        "fileicon.css": "latest",
+        "fileicons": "latest",
+        "fileid": "latest",
+        "fileidentifier": "latest",
+        "fileify": "latest",
+        "fileify-files": "latest",
+        "fileify-lm": "latest",
+        "filein": "latest",
+        "fileinator": "latest",
+        "fileincluder": "latest",
+        "fileinfo": "latest",
+        "fileinput": "latest",
+        "fileinstant-widget": "latest",
+        "fileintents": "latest",
+        "fileio": "latest",
+        "fileiojs": "latest",
+        "fileiojs-command": "latest",
+        "fileip_op": "latest",
+        "fileisplay": "latest",
+        "fileiterator": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-ho-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ho-cli": "latest",
+        "ho-cms": "latest",
+        "ho-compiler": "latest",
+        "ho-conformance": "latest",
+        "ho-conformance-base": "latest",
+        "ho-conformance-debug": "latest",
+        "ho-conformance-events": "latest",
+        "ho-conformance-id": "latest",
+        "ho-conformance-logger": "latest",
+        "ho-grid": "latest",
+        "ho-hooks": "latest",
+        "ho-interval": "latest",
+        "ho-iter": "latest",
+        "ho-test": "latest",
+        "ho-test-lib": "latest",
+        "ho-ui": "latest",
+        "ho-vom-til": "latest",
+        "ho-vue-test": "latest"
+    }
+}

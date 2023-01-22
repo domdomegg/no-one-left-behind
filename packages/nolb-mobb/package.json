@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-mobb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mobbex": "latest",
+        "mobbl-doc-codegen": "latest",
+        "mobbl-generator": "latest",
+        "mobboss": "latest",
+        "mobbscan": "latest",
+        "mobby-client-js": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_unim",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@unimafy/tiny": "latest",
+        "@unimap/test": "latest",
+        "@unimark/account": "latest",
+        "@unimark/core": "latest",
+        "@unimark/firebase": "latest",
+        "@unimark/search": "latest",
+        "@unimation101/ticketing-common": "latest",
+        "@unimed/z-components": "latest",
+        "@unimed3l/unimed-load-env": "latest",
+        "@unimelb/pattern-lib-vue": "latest",
+        "@unimodules/core": "latest",
+        "@unimodules/react-native-adapter": "latest",
+        "@unimodules/react-native-platform": "latest",
+        "@unimonkiez/react-native-svg-uri": "latest",
+        "@unimonkiez/semantic-release-python": "latest",
+        "@unimpaired/backend": "latest",
+        "@unimpaired/interfaces": "latest",
+        "@unimpaired/react": "latest",
+        "@unimpaired/toolchain": "latest",
+        "@unimpaired/utils": "latest"
+    }
+}

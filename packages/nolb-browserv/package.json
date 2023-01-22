@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-browserv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "browserve-host": "latest",
+        "browserve-proxy": "latest",
+        "browservefy": "latest",
+        "browserver": "latest",
+        "browserver-client": "latest",
+        "browserver-router": "latest",
+        "browserverify": "latest",
+        "browserview-resizing": "latest",
+        "browservizjs": "latest"
+    }
+}

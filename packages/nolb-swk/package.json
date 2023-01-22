@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-swk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "swk": "latest",
+        "swk-compare": "latest",
+        "swk-fsm": "latest",
+        "swk-linker": "latest",
+        "swk-metaobject": "latest",
+        "swk-mine": "latest",
+        "swk-types": "latest",
+        "swk-valid": "latest",
+        "swk1998": "latest",
+        "swkit": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-afn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "afn": "latest",
+        "afn-logger": "latest",
+        "afn-logger-test": "latest",
+        "afn-redis-cache": "latest",
+        "afnarqui-pagination": "latest",
+        "afnikitina-frame-print": "latest",
+        "afnum": "latest"
+    }
+}

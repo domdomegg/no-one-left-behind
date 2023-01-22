@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-xi-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "xi-2022": "latest",
+        "xi-cli": "latest",
+        "xi-decimal": "latest",
+        "xi-deploy-tools": "latest",
+        "xi-dialog": "latest",
+        "xi-editor": "latest",
+        "xi-h-demoform": "latest",
+        "xi-hyper": "latest",
+        "xi-li-1": "latest",
+        "xi-pack": "latest",
+        "xi-store": "latest",
+        "xi-ui": "latest",
+        "xi-ui-demo": "latest",
+        "xi-ui-plug": "latest",
+        "xi-xo-hyper": "latest"
+    }
+}

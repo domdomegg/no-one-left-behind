@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-acf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "acf": "latest",
+        "acf-cli": "latest",
+        "acf-img-comparison-slider": "latest",
+        "acf-rich-style": "latest",
+        "acfaz-react-coleta-biometrica": "latest",
+        "acfe": "latest",
+        "acfg": "latest",
+        "acfistnode": "latest",
+        "acflores-npmplayground": "latest",
+        "acflow-camera-tcp-tester": "latest",
+        "acframe": "latest",
+        "acfun-article-spider": "latest",
+        "acfun-live-danmaku": "latest",
+        "acfun-video-cli": "latest"
+    }
+}

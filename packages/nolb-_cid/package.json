@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_cid",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cid-harvard/eslint-config": "latest",
+        "@cid-harvard/product-space": "latest",
+        "@cid-harvard/stylelint-config": "latest",
+        "@cid-harvard/tslint-config": "latest",
+        "@cidaro/core": "latest",
+        "@cidaro/crypto": "latest",
+        "@cidaro/db": "latest",
+        "@cidaro/grpc": "latest",
+        "@cidaro/nitrogen": "latest",
+        "@cidaro/utils": "latest",
+        "@cidekar/browser-email-share": "latest",
+        "@cidekar/window-rivet": "latest",
+        "@cider-ci/npm-install-with-caching": "latest",
+        "@cider/hi": "latest",
+        "@cidersecurity/ts-package-template": "latest",
+        "@cidgravity/cidgravity-locales": "latest",
+        "@cidia/altv-server-updater": "latest",
+        "@cidrak/ifaces": "latest",
+        "@cidrak/safeassign": "latest",
+        "@cidrak/stat": "latest",
+        "@cids/abstract-repository": "latest",
+        "@cidt/aragon-wrapper": "latest",
+        "@cidt/as-borsh": "latest",
+        "@cidt/axelar-polywrap-js": "latest",
+        "@cidt/near-plugin-js": "latest",
+        "@cidt/omni-graph-db-plugin": "latest",
+        "@cidt/polkadot-plugin": "latest"
+    }
+}

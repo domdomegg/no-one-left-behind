@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-dsu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dsu-google-geolocation": "latest",
+        "dsu-ng2-weather": "latest",
+        "dsu-test": "latest",
+        "dsub": "latest",
+        "dsucodebox-cli": "latest",
+        "dsuico-frame-print": "latest",
+        "dsuid": "latest",
+        "dsumser-trial": "latest",
+        "dsurvey-creator": "latest",
+        "dsurvey-editor": "latest",
+        "dsurvey-editor-pet": "latest",
+        "dsurvey-editor-pet-survey": "latest",
+        "dsurvey-editor-ttap": "latest",
+        "dsutility": "latest",
+        "dsutils": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_mej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mejenborg/lexer": "latest",
+        "@mejiamanuel57/jest-snapshot-linter": "latest",
+        "@mejik.dev/mg-cli": "latest",
+        "@mejik.dev/mg-react-analytics": "latest",
+        "@mejuliver/vue-imageeditor": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-svz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svz-accordion": "latest",
+        "svz-cookie": "latest",
+        "svz-date": "latest",
+        "svz-modal": "latest",
+        "svz-number-manager": "latest",
+        "svz-object": "latest",
+        "svz-toolkit": "latest",
+        "svzcomponents": "latest",
+        "svztestlibrary": "latest"
+    }
+}

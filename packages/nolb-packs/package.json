@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-packs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "packs": "latest",
+        "packs-components": "latest",
+        "packs-framework": "latest",
+        "packs-test": "latest",
+        "packsack": "latest",
+        "packscript": "latest",
+        "packserver": "latest",
+        "packset": "latest",
+        "packspec": "latest",
+        "packstat": "latest",
+        "packstat-cli": "latest",
+        "packster": "latest",
+        "packsuit": "latest",
+        "packsun": "latest",
+        "packsy": "latest",
+        "packsync": "latest"
+    }
+}

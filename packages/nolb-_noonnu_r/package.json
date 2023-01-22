@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_noonnu_r",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@noonnu/recipekorea": "latest",
+        "@noonnu/restart": "latest",
+        "@noonnu/ridi-batang": "latest",
+        "@noonnu/ridibatang": "latest",
+        "@noonnu/rix-inoo-ari-duri-r": "latest",
+        "@noonnu/rix-yeoljeongdo-regular": "latest",
+        "@noonnu/rixyeoljeongdo-regular": "latest",
+        "@noonnu/roehoe-chan": "latest",
+        "@noonnu/roka-bold": "latest",
+        "@noonnu/rokabold": "latest",
+        "@noonnu/rokaf-sans-medium": "latest",
+        "@noonnu/rokaf-slab-serif-medium": "latest",
+        "@noonnu/rokamedium": "latest",
+        "@noonnu/rose": "latest",
+        "@noonnu/round-destiny": "latest"
+    }
+}

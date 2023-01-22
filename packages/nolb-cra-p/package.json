@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-cra-p",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cra-parcel": "latest",
+        "cra-path-fixer": "latest",
+        "cra-plus": "latest",
+        "cra-plus-for-web": "latest",
+        "cra-postinstall": "latest",
+        "cra-preact": "latest",
+        "cra-prep": "latest",
+        "cra-publish": "latest",
+        "cra-publish-to-npm-test": "latest",
+        "cra-pumpkin": "latest"
+    }
+}

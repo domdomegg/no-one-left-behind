@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-wixp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wixplorer-bazel-test": "latest",
+        "wixplorer-node-module": "latest",
+        "wixplorer-test-project": "latest",
+        "wixplorer-test-project-skip-swagger-generation": "latest"
+    }
+}

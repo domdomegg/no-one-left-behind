@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-cdb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cdb": "latest",
+        "cdb-cli": "latest",
+        "cdb-client": "latest",
+        "cdb-cria-vue": "latest",
+        "cdb-driver": "latest",
+        "cdb-formatter": "latest",
+        "cdb-http": "latest",
+        "cdb-to-json": "latest",
+        "cdb-wushikang-demo": "latest",
+        "cdb_core": "latest",
+        "cdbjs-taro": "latest",
+        "cdbjs-taro-ui": "latest",
+        "cdbjs-ui": "latest",
+        "cdbjs-utils": "latest",
+        "cdbookstore": "latest",
+        "cdbootstrap": "latest",
+        "cdbreact": "latest",
+        "cdbs": "latest",
+        "cdbtiles": "latest"
+    }
+}

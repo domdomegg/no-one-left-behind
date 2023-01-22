@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-domf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "domf": "latest",
+        "domfam-publishing-template": "latest",
+        "domfetch": "latest",
+        "domfinity": "latest",
+        "domflow": "latest",
+        "domfoy-express-graphql": "latest",
+        "domfragment": "latest",
+        "domfs-findit": "latest",
+        "domfu": "latest",
+        "domfx": "latest"
+    }
+}

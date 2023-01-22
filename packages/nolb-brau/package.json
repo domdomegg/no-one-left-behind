@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-brau",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brauhaus": "latest",
+        "brauhaus-beerxml": "latest",
+        "brauhaus-diff": "latest",
+        "brauhaus-styles": "latest",
+        "brauhaus-ts": "latest",
+        "brauliovm.github.io": "latest",
+        "braum": "latest",
+        "braun-react-module": "latest",
+        "braunnypr-aerobatic": "latest",
+        "braunnypr-herodes": "latest",
+        "braunnypr-xmoglin": "latest",
+        "braunsh-frame-print": "latest",
+        "brauth": "latest"
+    }
+}

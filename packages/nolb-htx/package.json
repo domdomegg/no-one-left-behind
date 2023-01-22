@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-htx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htx": "latest",
+        "htx-ui": "latest",
+        "htxgplayer": "latest",
+        "htxgplayer-flv.js": "latest",
+        "htxjava": "latest",
+        "htxt": "latest",
+        "htxx": "latest",
+        "htxx_tools": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_q-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@q-ata/q-ata": "latest",
+        "@q-dev/changelog-cli": "latest",
+        "@q-dev/form-hooks": "latest",
+        "@q-dev/q-dex-utils": "latest",
+        "@q-dev/q-js-sdk": "latest",
+        "@q-dev/q-ui-kit": "latest",
+        "@q-dev/qdex-js-sdk": "latest",
+        "@q-dev/react-hooks": "latest",
+        "@q-dev/utils": "latest",
+        "@q-free/q-ds-ts": "latest",
+        "@q-free/ui": "latest",
+        "@q-ui/error-boundary": "latest",
+        "@q-ui/template": "latest",
+        "@q-ui/template-controls": "latest",
+        "@q-ui/typography": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-tinye",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tinyEmiter": "latest",
+        "tinye": "latest",
+        "tinyemitter": "latest",
+        "tinyerror": "latest",
+        "tinyevent": "latest",
+        "tinyevt": "latest",
+        "tinyexpect": "latest",
+        "tinyexplosions": "latest",
+        "tinyexpr": "latest"
+    }
+}

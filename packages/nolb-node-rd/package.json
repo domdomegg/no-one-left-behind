@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-node-rd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-rdap": "latest",
+        "node-rdeploy": "latest",
+        "node-rdf": "latest",
+        "node-rdf2json": "latest",
+        "node-rdiff": "latest",
+        "node-rdio": "latest",
+        "node-rdkafka": "latest",
+        "node-rdkafka-acosom": "latest",
+        "node-rdkafka-commit-manager": "latest",
+        "node-rdkafka-custom": "latest",
+        "node-rdkafka-next": "latest",
+        "node-rdkafka-precompiled": "latest",
+        "node-rdkafka-prometheus": "latest",
+        "node-rdkafka-promise": "latest",
+        "node-rdlc": "latest",
+        "node-rdm6300": "latest",
+        "node-rdp": "latest",
+        "node-rdpjs": "latest",
+        "node-rdpjs-2": "latest",
+        "node-rdw": "latest"
+    }
+}

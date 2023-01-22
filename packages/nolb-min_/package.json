@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-min_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "min.css": "latest",
+        "min.dll": "latest",
+        "min.g": "latest",
+        "min.min.js": "latest",
+        "min.normalize.css": "latest",
+        "min_axios": "latest",
+        "min_liuyiquan": "latest",
+        "min_ripple": "latest"
+    }
+}

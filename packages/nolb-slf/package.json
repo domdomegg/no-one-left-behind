@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-slf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "slf": "latest",
+        "slf-debug": "latest",
+        "slf-editor-api": "latest",
+        "slf-editor-client": "latest",
+        "slf-games": "latest",
+        "slf-js": "latest",
+        "slf-node-red": "latest",
+        "slf-parser": "latest",
+        "slf-players": "latest",
+        "slf-sentry": "latest",
+        "slf4js": "latest",
+        "slf4n": "latest",
+        "slf4n-api": "latest",
+        "slf4n-logging": "latest",
+        "slf4n-logging-js": "latest",
+        "slf4ts-api": "latest",
+        "slf4ts-bunyan": "latest",
+        "slf4ts-cassandra-log-adapter": "latest",
+        "slf4ts-console": "latest",
+        "slf4ts-elasticsearch-log-adapter": "latest",
+        "slf4ts-log4js": "latest",
+        "slf4ts-loglevel": "latest",
+        "slf4ts-pino": "latest",
+        "slf4ts-winston": "latest",
+        "slfchecklist": "latest",
+        "slfhso": "latest",
+        "slfw-collapsible-table": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-chp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chp": "latest",
+        "chpage": "latest",
+        "chpasswd": "latest",
+        "chplusjs": "latest",
+        "chpm": "latest",
+        "chpok": "latest",
+        "chpokk": "latest",
+        "chpr-blocked": "latest",
+        "chpr-logger": "latest",
+        "chpr-metrics": "latest",
+        "chpr-mongodb": "latest",
+        "chpr-newrelic": "latest",
+        "chpr-openapi": "latest",
+        "chpr-worker": "latest",
+        "chptr": "latest",
+        "chptr-antidote-plugin": "latest"
+    }
+}

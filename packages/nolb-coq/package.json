@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-coq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "coq": "latest",
+        "coq-cli": "latest",
+        "coqa": "latest",
+        "coquelicot": "latest",
+        "coquette": "latest",
+        "coqui": "latest",
+        "coqui-form": "latest",
+        "coquina": "latest",
+        "coquisttjs": "latest",
+        "coquito": "latest",
+        "coquito-cli": "latest",
+        "coquo-venenum": "latest"
+    }
+}

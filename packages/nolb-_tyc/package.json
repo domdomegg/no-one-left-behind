@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_tyc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tycdm/monorepo1": "latest",
+        "@tycdm/monorepo2": "latest",
+        "@tyche-ming/d-njs": "latest",
+        "@tychot/danger-plugin-eslint": "latest",
+        "@tychot/danger-plugin-flow": "latest",
+        "@tychot/danger-plugin-todo": "latest",
+        "@tychot/gql": "latest",
+        "@tychot/jwks-rsa": "latest",
+        "@tychota/amqplib-plus": "latest",
+        "@tycjann/randomid-generator": "latest",
+        "@tycoon69-labs/crypto": "latest",
+        "@tycoon69-labs/exchange-json-rpc": "latest",
+        "@tycoon69-labs/exchange-json-rpc-cli": "latest",
+        "@tycoon69-labs/peers": "latest",
+        "@tycoonm/ngx-hal-client": "latest",
+        "@tycrek/accounted4": "latest",
+        "@tycrek/ass-psql": "latest",
+        "@tycrek/ass-storage-engine": "latest",
+        "@tycrek/discord-hookr": "latest",
+        "@tycrek/express-nofavicon": "latest",
+        "@tycrek/express-postcss": "latest",
+        "@tycrek/facked-awesome": "latest",
+        "@tycrek/isprod": "latest",
+        "@tycrek/log": "latest",
+        "@tycrek/nofavicon": "latest",
+        "@tycrek/papito": "latest"
+    }
+}

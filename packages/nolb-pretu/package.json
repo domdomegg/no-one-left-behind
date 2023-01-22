@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-pretu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pretur.autogen": "latest",
+        "pretur.clay": "latest",
+        "pretur.fetch": "latest",
+        "pretur.i18n": "latest",
+        "pretur.navigation": "latest",
+        "pretur.pipeline": "latest",
+        "pretur.redux": "latest",
+        "pretur.sequelize": "latest",
+        "pretur.spec": "latest",
+        "pretur.sync": "latest",
+        "pretur.units": "latest",
+        "pretur.util": "latest",
+        "pretur.validation": "latest"
+    }
+}

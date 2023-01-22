@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_o0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@o0morgan0o/react-piano": "latest",
+        "@o0o2022/bitcore-wallet-client": "latest",
+        "@o0o2022/bitcore-wallet-service": "latest",
+        "@o0o2022/crypto-wallet-core": "latest",
+        "@o0o2022sg/bitcore-build": "latest",
+        "@o0o2022sg/bitcore-client": "latest",
+        "@o0o2022sg/bitcore-lib": "latest",
+        "@o0o2022sg/bitcore-lib-cash": "latest",
+        "@o0o2022sg/bitcore-lib-doge": "latest",
+        "@o0o2022sg/bitcore-lib-ltc": "latest",
+        "@o0o2022sg/bitcore-mnemonic": "latest",
+        "@o0o2022sg/bitcore-p2p": "latest",
+        "@o0o2022sg/bitcore-p2p-cash": "latest",
+        "@o0o2022sg/bitcore-p2p-doge": "latest",
+        "@o0o2022sg/bitcore-wallet-client": "latest",
+        "@o0o2022sg/bitcore-wallet-service": "latest",
+        "@o0o2022sg/crypto-wallet-core": "latest"
+    }
+}

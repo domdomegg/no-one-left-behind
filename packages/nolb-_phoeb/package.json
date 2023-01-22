@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_phoeb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@phoebe0626/ok-ui": "latest",
+        "@phoebusjs/phoebus-core": "latest",
+        "@phoebusjs/phoebus-web": "latest"
+    }
+}

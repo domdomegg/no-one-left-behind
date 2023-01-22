@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_acg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@acg-ssr/cli": "latest",
+        "@acg-ssr/core": "latest",
+        "@acgsan/print-yshop": "latest",
+        "@acgsan/stats-yshop": "latest",
+        "@acgsan/table-export-yshop": "latest"
+    }
+}

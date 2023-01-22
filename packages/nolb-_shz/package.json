@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_shz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shzhng/react-native-firebase": "latest",
+        "@shzl/catalyst": "latest",
+        "@shzo/slugger": "latest",
+        "@shzy2012/hello-wasm": "latest"
+    }
+}

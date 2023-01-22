@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_muy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@muya-ui/babel-preset-muya": "latest",
+        "@muya-ui/baozheng-docz-theme": "latest",
+        "@muya-ui/baozheng-iconfont": "latest",
+        "@muya-ui/baozheng-rehype-plugin": "latest",
+        "@muya-ui/baozheng-remark-plugin": "latest",
+        "@muya-ui/baozheng-scripts": "latest",
+        "@muya-ui/baozheng-tsdoc": "latest",
+        "@muya-ui/core": "latest",
+        "@muya-ui/icon-base": "latest",
+        "@muya-ui/theme-coohom": "latest",
+        "@muya-ui/theme-dark": "latest",
+        "@muya-ui/theme-light": "latest",
+        "@muya-ui/theme-meijian": "latest",
+        "@muya-ui/theme-modelo": "latest",
+        "@muya-ui/theme-pangu": "latest",
+        "@muya-ui/theme-up": "latest",
+        "@muya-ui/utils": "latest",
+        "@muyang12/vue-mobile-ymui2": "latest",
+        "@muyi-fork/react-dev-inspector": "latest",
+        "@muyian/hl-ui": "latest",
+        "@muyian/hl-utils": "latest",
+        "@muyoui/react-native-smtp-mailer": "latest",
+        "@muyoui/react-native-supervons-custom-keyboard": "latest",
+        "@muyoui/react-native-webview": "latest"
+    }
+}

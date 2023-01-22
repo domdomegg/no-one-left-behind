@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-reaca",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reacamlotoin": "latest",
+        "reacapppolyfill": "latest",
+        "reacat": "latest",
+        "reacat-plugin-front-matter": "latest",
+        "reacat-plugin-html": "latest",
+        "reacat-plugin-markdown": "latest",
+        "reacat-plugin-react": "latest"
+    }
+}

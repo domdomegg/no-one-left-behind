@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_yav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yavartickets/common": "latest",
+        "@yavin/c3": "latest",
+        "@yavin/client": "latest",
+        "@yavin/model-types": "latest",
+        "@yavin/perspective": "latest",
+        "@yavisht/has-key": "latest",
+        "@yavko/winwheel-esm": "latest",
+        "@yavoo/react-native-appstate": "latest",
+        "@yavorskyi/my-app": "latest",
+        "@yavorskyi/ts-site": "latest",
+        "@yavuzinc/lotide": "latest",
+        "@yavuzmester/cacheholder": "latest",
+        "@yavuzmester/create-readonly-prop": "latest",
+        "@yavuzmester/css-length-to-px": "latest",
+        "@yavuzmester/download-utils": "latest",
+        "@yavuzmester/geo-utils": "latest",
+        "@yavuzmester/grouped-bar-chart-horizontal": "latest",
+        "@yavuzmester/grouped-bar-chart-vertical": "latest",
+        "@yavuzmester/patorest": "latest",
+        "@yavuzmester/react-leaflet": "latest",
+        "@yavuzmester/react-leaflet-extended": "latest",
+        "@yavuzmester/record-helpers": "latest",
+        "@yavuzmester/time-graph": "latest",
+        "@yavuzmester/time-graph-with-context": "latest",
+        "@yavuzmester/time-utils": "latest",
+        "@yavuzmester/url-utils": "latest",
+        "@yavuzovski/freecodecamp": "latest"
+    }
+}

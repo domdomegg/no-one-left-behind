@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-react-native-tx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-tx-education": "latest",
+        "react-native-txim": "latest",
+        "react-native-txlive": "latest",
+        "react-native-txmap": "latest",
+        "react-native-txocr": "latest",
+        "react-native-txplayer": "latest",
+        "react-native-txrtmppush": "latest",
+        "react-native-txt": "latest",
+        "react-native-txugsv": "latest"
+    }
+}

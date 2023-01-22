@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-css-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "css-key": "latest",
+        "css-keyframe-animatable": "latest",
+        "css-keyframer": "latest",
+        "css-keyframes-animation": "latest",
+        "css-killer": "latest",
+        "css-kit": "latest",
+        "css-kito": "latest"
+    }
+}

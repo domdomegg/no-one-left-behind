@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-vitr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vitra": "latest",
+        "vitra-confine-runtime": "latest",
+        "vitra-react-json-view": "latest",
+        "vitral-toolkit": "latest",
+        "vitramir-storybook-react-native": "latest",
+        "vitrarius": "latest",
+        "vitreum": "latest",
+        "vitreum-cli": "latest",
+        "vitrical-prettier": "latest",
+        "vitricon-table": "latest",
+        "vitricon-table-1": "latest",
+        "vitrify": "latest",
+        "vitrin": "latest",
+        "vitrine": "latest",
+        "vitrine-react": "latest",
+        "vitris-ngx-schema-form": "latest",
+        "vitro": "latest",
+        "vitron": "latest",
+        "vitrotestui": "latest",
+        "vitruvia": "latest",
+        "vitruvio": "latest",
+        "vitruvius": "latest",
+        "vitruvius-build-package": "latest",
+        "vitruvius-lerna": "latest",
+        "vitruvius-utils": "latest"
+    }
+}

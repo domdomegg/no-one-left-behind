@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_ryani",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryanide/vue-select": "latest",
+        "@ryaninvents/changeset-run": "latest",
+        "@ryaninvents/commit-analyzer-subtree": "latest",
+        "@ryaninvents/data-explorer-constants": "latest",
+        "@ryaninvents/make-abortable": "latest",
+        "@ryaninvents/nearley-tpl": "latest",
+        "@ryaninvents/new": "latest",
+        "@ryaninvents/plugin-bundle-dependencies": "latest",
+        "@ryaninvents/plugin-bundle-nextjs": "latest",
+        "@ryaninvents/plugin-bundle-zip-node": "latest",
+        "@ryaninvents/prosemirror-doc-tpl": "latest"
+    }
+}

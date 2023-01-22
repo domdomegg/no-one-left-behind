@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-buildk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "buildkit": "latest",
+        "buildkit-globber": "latest",
+        "buildkit-plugins": "latest",
+        "buildkit-server": "latest",
+        "buildkite": "latest",
+        "buildkite-agent-node": "latest",
+        "buildkite-builds-to-dates": "latest",
+        "buildkite-cli": "latest",
+        "buildkite-dl": "latest",
+        "buildkite-graph": "latest",
+        "buildkite-query": "latest",
+        "buildkite-runner": "latest",
+        "buildkite-test-collector": "latest",
+        "buildkite-trigger": "latest",
+        "buildkite-update-initial-step": "latest",
+        "buildkite-webhook-adapter": "latest",
+        "buildkml": "latest"
+    }
+}

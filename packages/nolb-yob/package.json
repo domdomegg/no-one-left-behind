@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-yob",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yob": "latest",
+        "yoba": "latest",
+        "yoba-form": "latest",
+        "yobeapi": "latest",
+        "yobert-append": "latest",
+        "yobert-dialog": "latest",
+        "yobert-tag": "latest",
+        "yobert-tools": "latest",
+        "yobi": "latest",
+        "yobi-models": "latest",
+        "yobicore": "latest",
+        "yobit": "latest",
+        "yobit-api": "latest",
+        "yobit-cloudflare-cookie": "latest",
+        "yobit-cookies": "latest",
+        "yobit-exchange-api": "latest",
+        "yobit-exchange-ts": "latest",
+        "yobo": "latest",
+        "yobo-filtered-collection": "latest",
+        "yoboo": "latest",
+        "yobot": "latest",
+        "yobot-cli": "latest",
+        "yobot-node": "latest",
+        "yobrave-util": "latest",
+        "yobta": "latest",
+        "yobta-npx": "latest"
+    }
+}

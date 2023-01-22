@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_giz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gizer/ionic-udid": "latest",
+        "@gizerapp/cordova-plugin-braintree-swift-otp": "latest",
+        "@gizeta/app-builder-lib": "latest",
+        "@gizeta/asar": "latest",
+        "@gizeta/bmp-js": "latest",
+        "@gizeta/electron-builder": "latest",
+        "@gizeta/icon-gen": "latest",
+        "@gizeta/sharp": "latest",
+        "@gizeta/speaker": "latest",
+        "@gizeta/swf-reader": "latest",
+        "@gizmo-dev/eslint-config": "latest",
+        "@gizmo-dev/eslint-plugin": "latest",
+        "@gizmo-dev/logger": "latest",
+        "@gizmonicus/ecr-proxy-node": "latest",
+        "@gizmotix/cli": "latest",
+        "@gizmotix/common": "latest",
+        "@gizmotix/example-design-system": "latest",
+        "@gizmotix/local-api": "latest",
+        "@gizmotix/local-client": "latest",
+        "@gizmox-ts/vt-common": "latest",
+        "@gizt/selector": "latest",
+        "@gizwits/vantui": "latest"
+    }
+}

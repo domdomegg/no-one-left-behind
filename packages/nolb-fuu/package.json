@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-fuu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fuu": "latest",
+        "fuu_oploi": "latest",
+        "fuuga-component": "latest",
+        "fuuid": "latest",
+        "fuuka": "latest",
+        "fuul-sdk": "latest",
+        "fuusen": "latest",
+        "fuusor-api-client": "latest",
+        "fuux": "latest"
+    }
+}

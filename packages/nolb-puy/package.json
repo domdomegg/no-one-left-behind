@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-puy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "puy": "latest",
+        "puyau": "latest",
+        "puyiyun-test": "latest",
+        "puyiyun-test-npm-size": "latest",
+        "puyuan": "latest",
+        "puyuan1": "latest"
+    }
+}

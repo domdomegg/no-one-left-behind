@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_tej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tej055/react-custom-comp": "latest",
+        "@tej055/react-custom-component": "latest",
+        "@tejada/in-form": "latest",
+        "@tejas1711/components-lib": "latest",
+        "@tejas718/compare": "latest",
+        "@tejasd8418/my-password-validator-lib": "latest",
+        "@tejaskumar/express-basic-auth": "latest",
+        "@tejaskumar/my-wasm-app": "latest",
+        "@tejaskumar/netlify-plugin-cypress": "latest",
+        "@tejaskumar/react": "latest",
+        "@tejaskumar/react-dom": "latest",
+        "@tejaskumar/react-panelgroup": "latest",
+        "@tejaskumar/simple-cache-provider": "latest",
+        "@tejaskumar/xata-next-auth-adapter": "latest",
+        "@tejaspatil12/masnorylayout": "latest",
+        "@tejaspatil12/passwordvalidator1": "latest",
+        "@tejasvp25/api-mocker": "latest",
+        "@tejaswarooparukoti/math": "latest",
+        "@tejaswigowda/simpleauth": "latest",
+        "@tejks-account-manager/common": "latest",
+        "@tejks/logger": "latest",
+        "@tejks_ticket/common": "latest",
+        "@tejo/akso-client": "latest",
+        "@tejo/akso-script": "latest",
+        "@tejp/testing-streams": "latest"
+    }
+}

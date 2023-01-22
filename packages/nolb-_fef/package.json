@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_fef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@feflow/cli": "latest",
+        "@feflow/fef": "latest",
+        "@feflow/feflow-devkit-example": "latest",
+        "@feflow/feflow-plugin-devtool": "latest",
+        "@feflow/generator-example": "latest",
+        "@feflow/packager": "latest",
+        "@feflow/report": "latest",
+        "@fefuns/fe-utils": "latest"
+    }
+}

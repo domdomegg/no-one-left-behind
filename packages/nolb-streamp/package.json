@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-streamp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "streamp": "latest",
+        "streampackager": "latest",
+        "streampagelib": "latest",
+        "streamparser": "latest",
+        "streampay-checkout-ecommerce": "latest",
+        "streampay-checkout-payments-sdk": "latest",
+        "streampay-js": "latest",
+        "streampecker": "latest",
+        "streamplace": "latest",
+        "streamplace-cli": "latest",
+        "streamplace-ui": "latest",
+        "streamplayer.js": "latest",
+        "streamplex": "latest",
+        "streampng": "latest",
+        "streampng-v2": "latest",
+        "streampngx": "latest",
+        "streamprocess": "latest",
+        "streamprocessor": "latest",
+        "streampub": "latest",
+        "streampunk": "latest"
+    }
+}

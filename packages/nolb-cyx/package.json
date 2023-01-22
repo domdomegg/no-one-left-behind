@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-cyx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cyx-app-name": "latest",
+        "cyx-cattle-info": "latest",
+        "cyx-imooc-test": "latest",
+        "cyx-imooc-test-lib": "latest",
+        "cyx-input": "latest",
+        "cyx-test-comp": "latest",
+        "cyx-test-npm": "latest",
+        "cyx-ui": "latest",
+        "cyxclimodel": "latest",
+        "cyxn-fork-react-scripts": "latest",
+        "cyxserve": "latest",
+        "cyxset": "latest",
+        "cyxtera-portal-sass-1": "latest",
+        "cyxtera-portal-sass-2": "latest"
+    }
+}

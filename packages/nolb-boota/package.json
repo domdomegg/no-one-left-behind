@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-boota",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bootable": "latest",
+        "bootable-components": "latest",
+        "bootable-di": "latest",
+        "bootable-environment": "latest",
+        "bootable-middleware": "latest",
+        "bootalert": "latest",
+        "bootancy-carousel": "latest",
+        "bootanim": "latest",
+        "bootast": "latest"
+    }
+}

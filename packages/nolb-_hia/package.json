@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_hia",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hiab/accordion": "latest",
+        "@hiab/analytics": "latest",
+        "@hiab/blocks": "latest",
+        "@hiab/breadcrumb": "latest",
+        "@hiab/buttons": "latest",
+        "@hiab/colors": "latest",
+        "@hiab/headings": "latest",
+        "@hiab/icons": "latest",
+        "@hiab/image": "latest",
+        "@hiab/inputs": "latest",
+        "@hiab/modules": "latest",
+        "@hiab/partials": "latest",
+        "@hiab/theme": "latest",
+        "@hiab/types": "latest",
+        "@hiab/typography": "latest",
+        "@hiagopd/cypress-mongo-seeder": "latest",
+        "@hianalytics/quickapp-sdk": "latest",
+        "@hianalytics/web-sdk": "latest"
+    }
+}

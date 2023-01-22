@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_de-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@de-cli/core": "latest",
+        "@de-dale/cards": "latest",
+        "@de-dale/trello-to-docs": "latest",
+        "@de-dan/capacitor-file-select": "latest",
+        "@de-dan/ionic-appauth": "latest",
+        "@de-formed/base": "latest",
+        "@de-formed/node-validations": "latest",
+        "@de-formed/react-validations": "latest",
+        "@de-liker/drts": "latest",
+        "@de-liker/gcss": "latest",
+        "@de-mklinger/create-ts-app": "latest",
+        "@de-mklinger/cypher-shell-statement-parser": "latest",
+        "@de-mklinger/error-with-cause": "latest",
+        "@de-mklinger/executor": "latest",
+        "@de-mklinger/react-oauth2-pkce": "latest",
+        "@de-mklinger/react-slideshow": "latest",
+        "@de-pa/nast": "latest",
+        "@de-pa/next-i18next": "latest",
+        "@de-pa/preact": "latest",
+        "@de-pa/react": "latest",
+        "@de-pa/react-dom": "latest",
+        "@de-re-crud/angular": "latest",
+        "@de-re-crud/core": "latest",
+        "@de-re-crud/theme-bootstrap4": "latest",
+        "@de-re-crud/ui": "latest",
+        "@de-ticketing/common": "latest"
+    }
+}

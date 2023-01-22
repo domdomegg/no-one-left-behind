@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-qmb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qmb": "latest",
+        "qmb-system-instruction-batery-remote": "latest",
+        "qmb-system-instruction-open-door-remote": "latest",
+        "qmb-system-instruction-pulse-meter-remote": "latest",
+        "qmb-system-instruction-register-remote": "latest",
+        "qmb-system-instruction-relay-activation-remote": "latest",
+        "qmb-system-instruction-variation-source-remote": "latest",
+        "qmbase-npm-package": "latest",
+        "qmbox-base": "latest"
+    }
+}

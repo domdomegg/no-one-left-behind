@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-quen",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "quen": "latest",
+        "quen2404": "latest",
+        "quenandres-modulo-npm": "latest",
+        "quence": "latest",
+        "quench": "latest",
+        "quench-vue": "latest",
+        "quenda": "latest",
+        "queneau-buckets": "latest",
+        "queneau-letters": "latest",
+        "quenjs": "latest",
+        "quenong": "latest",
+        "quent-ui-core": "latest",
+        "quentez-io-ts": "latest",
+        "quentin-burke-resume": "latest",
+        "quentin-newsletter": "latest",
+        "quentinadam-request": "latest",
+        "quentinadam-rpc": "latest",
+        "quenya": "latest",
+        "quenya-estree": "latest"
+    }
+}

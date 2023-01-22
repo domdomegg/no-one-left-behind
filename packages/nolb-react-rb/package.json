@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-rb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-rb": "latest",
+        "react-rb-auth": "latest",
+        "react-rbac": "latest",
+        "react-rbac-guard": "latest",
+        "react-rbac-lib": "latest",
+        "react-rbc-alert": "latest",
+        "react-rbx-calendar": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-rely",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rely": "latest",
+        "rely-on": "latest",
+        "relybot": "latest",
+        "relyio": "latest",
+        "relyq": "latest",
+        "relyq-pusher": "latest",
+        "relysia": "latest",
+        "relysia-sdk": "latest"
+    }
+}

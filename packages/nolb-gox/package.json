@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-gox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gox": "latest",
+        "gox-packages": "latest",
+        "goxadminui": "latest",
+        "goxiaomi-uni": "latest",
+        "goxo": "latest",
+        "goxstream": "latest",
+        "goxtick": "latest"
+    }
+}

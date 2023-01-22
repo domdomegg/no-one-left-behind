@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_ed-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ed-ge/ed-ge": "latest",
+        "@ed-glam/admin-theme": "latest",
+        "@ed-it/toolkit": "latest",
+        "@ed-ticketing/common": "latest",
+        "@ed-ticketing/common-playground": "latest",
+        "@ed-ui/react": "latest",
+        "@ed-ui/styles": "latest"
+    }
+}

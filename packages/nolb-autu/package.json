@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-autu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "autumn": "latest",
+        "autumn-core": "latest",
+        "autumn-electron-ipc": "latest",
+        "autumn-first-publish-test": "latest",
+        "autumn-html-parser": "latest",
+        "autumn-ionic": "latest",
+        "autumn-mvc": "latest",
+        "autumn-ngzorro": "latest",
+        "autumn-playground": "latest",
+        "autumn-playground-v2": "latest",
+        "autumn-server": "latest",
+        "autumn-server-v2": "latest",
+        "autumn-ts": "latest",
+        "autumn-ui": "latest",
+        "autumn-vue": "latest",
+        "autumn-wizard": "latest",
+        "autumn-workflow": "latest",
+        "autumn.css": "latest",
+        "autumn.js": "latest",
+        "autumn_server": "latest",
+        "autumncode": "latest",
+        "autumndb": "latest",
+        "autumnfish_element": "latest",
+        "autumnjs-cli": "latest",
+        "autumnlll": "latest",
+        "autuv": "latest"
+    }
+}

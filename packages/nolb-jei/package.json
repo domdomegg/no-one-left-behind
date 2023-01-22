@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-jei",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jei": "latest",
+        "jeibo": "latest",
+        "jeibo_workflow": "latest",
+        "jeies-utils": "latest",
+        "jeireme-react-modal": "latest",
+        "jeison-teste-npm-publish": "latest"
+    }
+}

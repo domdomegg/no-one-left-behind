@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-vsf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vsf": "latest",
+        "vsf-api-prismic": "latest",
+        "vsf-cms-block-mixin": "latest",
+        "vsf-external-checkout": "latest",
+        "vsf-external-checkout-klarna": "latest",
+        "vsf-external-checkout-module": "latest",
+        "vsf-facebook-pixel": "latest",
+        "vsf-lexascms": "latest",
+        "vsf-pagination": "latest",
+        "vsf-payment-gpay": "latest",
+        "vsf-payment-paypal": "latest",
+        "vsf-payment-paypal-api": "latest",
+        "vsf-payment-stripe": "latest",
+        "vsf-prismic-module": "latest",
+        "vsf-recaptcha": "latest",
+        "vsf-utilities": "latest",
+        "vsf-wishlist-button": "latest",
+        "vsf2-strapi-cms": "latest",
+        "vsfc": "latest",
+        "vsfs3": "latest",
+        "vsftfunctions": "latest",
+        "vsftpd-server-setup-ubuntu": "latest",
+        "vsfui": "latest",
+        "vsfwjs": "latest",
+        "vsfx": "latest"
+    }
+}

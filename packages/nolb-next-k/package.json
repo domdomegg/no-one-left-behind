@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-next-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "next-keep": "latest",
+        "next-key": "latest",
+        "next-key-client": "latest",
+        "next-key-express": "latest",
+        "next-key-graphql": "latest",
+        "next-key-micro": "latest",
+        "next-key-server": "latest",
+        "next-known-route": "latest",
+        "next-koa": "latest"
+    }
+}

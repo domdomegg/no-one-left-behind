@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-multiv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "multivac-swapv2": "latest",
+        "multivalidator-ts": "latest",
+        "multivalue-control-extension": "latest",
+        "multivariate": "latest",
+        "multivariate-gaussian": "latest",
+        "multivariate-normal": "latest",
+        "multivariate-polynomial": "latest",
+        "multivariate_calculus": "latest",
+        "multivault-models": "latest",
+        "multivents": "latest",
+        "multiversal": "latest",
+        "multiverse": "latest",
+        "multiverse-blockchain": "latest",
+        "multiverse-sdk": "latest",
+        "multiversed": "latest",
+        "multiversex": "latest",
+        "multiversion": "latest",
+        "multiversum": "latest",
+        "multiversus-api": "latest",
+        "multiversus.js": "latest",
+        "multiversx": "latest",
+        "multiview": "latest",
+        "multiview-test": "latest",
+        "multivocal": "latest",
+        "multivtm": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-tiny-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tiny-haikunator": "latest",
+        "tiny-hash": "latest",
+        "tiny-hash-router": "latest",
+        "tiny-hashes": "latest",
+        "tiny-heap": "latest",
+        "tiny-helloworld": "latest",
+        "tiny-heroicons": "latest",
+        "tiny-hexrgba": "latest",
+        "tiny-history": "latest",
+        "tiny-hl7": "latest",
+        "tiny-hooks": "latest",
+        "tiny-html-builder": "latest",
+        "tiny-html-cache-buster": "latest",
+        "tiny-html-lexer": "latest",
+        "tiny-html-parse": "latest",
+        "tiny-http": "latest",
+        "tiny-http-client": "latest",
+        "tiny-http-native": "latest",
+        "tiny-http-proxy": "latest",
+        "tiny-http-router": "latest",
+        "tiny-http-server": "latest",
+        "tiny-http-server5": "latest",
+        "tiny-http2-server": "latest",
+        "tiny-https-server": "latest",
+        "tiny-httptest": "latest",
+        "tiny-hub": "latest",
+        "tiny-human-time": "latest"
+    }
+}

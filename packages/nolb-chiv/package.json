@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-chiv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chivas-test-20170416": "latest",
+        "chivas-todo-cli": "latest",
+        "chive": "latest",
+        "chive-framework": "latest",
+        "chivebot": "latest",
+        "chivebot-cloudeasy": "latest",
+        "chivebot-coolfaces": "latest",
+        "chivebot-npm": "latest",
+        "chivebot-stocks": "latest",
+        "chivebot-weather": "latest",
+        "chives": "latest",
+        "chives-api": "latest",
+        "chives-dashboard-satellite": "latest",
+        "chiview": "latest",
+        "chivox-jssdk": "latest",
+        "chivox_h5sdk": "latest",
+        "chivoxsdk": "latest",
+        "chivy": "latest"
+    }
+}

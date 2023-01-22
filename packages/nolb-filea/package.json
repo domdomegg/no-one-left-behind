@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-filea",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "filea": "latest",
+        "fileable": "latest",
+        "fileable-cli": "latest",
+        "fileable-component-clear": "latest",
+        "fileable-component-file": "latest",
+        "fileable-component-folder": "latest",
+        "fileable-components": "latest",
+        "fileable-iterator": "latest",
+        "fileapi": "latest",
+        "fileapi-f": "latest",
+        "fileapp": "latest",
+        "fileappend-loader": "latest",
+        "filearchy": "latest",
+        "fileasy": "latest"
+    }
+}

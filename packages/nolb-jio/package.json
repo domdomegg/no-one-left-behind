@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-jio",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jio": "latest",
+        "jio-cli": "latest",
+        "jio-digiapi-auto-mate-plus-ui-app": "latest",
+        "jio-gwapo": "latest",
+        "jio-query": "latest",
+        "jio-toytoy": "latest",
+        "jio-web-sdk": "latest",
+        "jioajiao": "latest",
+        "jiofdsiofj": "latest",
+        "jiofi": "latest",
+        "jiofi-admin-client": "latest",
+        "jiofi-cli": "latest",
+        "jiofistatus": "latest",
+        "jioji": "latest",
+        "jiojs": "latest",
+        "jion": "latest",
+        "jion-ui": "latest",
+        "jiong": "latest",
+        "jiongjiajia": "latest",
+        "jiongpublishdemo": "latest",
+        "jionyj": "latest",
+        "jiosavan": "latest",
+        "jiosay-cli": "latest"
+    }
+}

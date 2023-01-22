@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-liti",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "liti-cli-template-custom-vue2": "latest",
+        "liti-cli-template-kiko-component": "latest",
+        "liti-cli-template-vue-element-admin": "latest",
+        "liti-cli-template-vue2": "latest",
+        "liti-cli-template-vue3": "latest",
+        "litian-tools": "latest",
+        "litianhao-test": "latest",
+        "litianrui_websocket": "latest",
+        "litic": "latest",
+        "litiemingast": "latest",
+        "litiezhu-page": "latest",
+        "litigate-angular-theme-my": "latest",
+        "liting": "latest",
+        "liting-box": "latest",
+        "liting-cli": "latest",
+        "litingchen-eleemnt-components": "latest",
+        "lition-adapter": "latest",
+        "litird": "latest",
+        "litium-react-field-editor": "latest",
+        "litiuom_installer": "latest"
+    }
+}

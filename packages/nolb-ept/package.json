@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-ept",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ept": "latest",
+        "ept-ads": "latest",
+        "ept-auth": "latest",
+        "ept-auto-moderation": "latest",
+        "ept-bbcode-parser": "latest",
+        "ept-boards": "latest",
+        "ept-categories": "latest",
+        "ept-ecs": "latest",
+        "ept-emulator": "latest",
+        "ept-frontend": "latest",
+        "ept-ignore-users": "latest",
+        "ept-md-parser": "latest",
+        "ept-messages": "latest",
+        "ept-portal": "latest",
+        "ept-posts": "latest",
+        "ept-reports": "latest",
+        "ept-threads": "latest",
+        "ept-tools": "latest",
+        "ept-types": "latest",
+        "ept-users": "latest",
+        "ept-watchlist": "latest",
+        "epta": "latest",
+        "eptalagumesm": "latest",
+        "eptest": "latest",
+        "eptl": "latest",
+        "eptools": "latest"
+    }
+}

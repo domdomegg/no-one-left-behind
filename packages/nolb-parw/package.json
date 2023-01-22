@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-parw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "parwapsdk": "latest",
+        "parweb-filepond-plugin-file-validate-type": "latest",
+        "parweb-filepond-plugin-image-crop": "latest",
+        "parweb-filepond-plugin-image-exif-orientation": "latest",
+        "parweb-filepond-plugin-image-resize": "latest",
+        "parweb-react-gmail": "latest",
+        "parworld": "latest"
+    }
+}

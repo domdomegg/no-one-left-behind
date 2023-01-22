@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-karn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "karn-common-auth": "latest",
+        "karn-map": "latest",
+        "karn-mapbox-gl": "latest",
+        "karn-number-formatter": "latest",
+        "karn-vue-component-test": "latest",
+        "karna-hi-module": "latest",
+        "karnak": "latest",
+        "karnan_random_number_generator": "latest",
+        "karneges-sbt": "latest",
+        "karnickoala-samplepackage": "latest",
+        "karnpm526cxf": "latest"
+    }
+}

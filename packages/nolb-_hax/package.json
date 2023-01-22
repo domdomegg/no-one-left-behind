@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_hax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@haxball-bot/bot": "latest",
+        "@haxcms/11ty": "latest",
+        "@haxcms/fix-folder-structure": "latest",
+        "@haxcms/generators": "latest",
+        "@haxcms/gitbook-2-outline-schema": "latest",
+        "@haxcms/haxcms-2-hugo": "latest",
+        "@haxcms/migrate-drupal": "latest",
+        "@haxcms/migrate-elmsln": "latest",
+        "@haxcms/migrate-gitbook": "latest",
+        "@haxcms/migrate-markdown": "latest",
+        "@haxcms/migrate-regex": "latest",
+        "@haxcms/sdk": "latest",
+        "@haxcms/server": "latest",
+        "@haxibiao/react-native-make": "latest",
+        "@haxie/compiler": "latest",
+        "@haxtedy/hx-ui": "latest",
+        "@haxx/telegram": "latest",
+        "@haxzie/style-fire": "latest",
+        "@haxzie/stylefire": "latest"
+    }
+}

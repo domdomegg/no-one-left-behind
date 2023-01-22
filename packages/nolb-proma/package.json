@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-proma",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "proma": "latest",
+        "promagotchi": "latest",
+        "promaisepolfill": "latest",
+        "promake": "latest",
+        "promake-env": "latest",
+        "promake-node-modules": "latest",
+        "promall": "latest",
+        "promalom": "latest",
+        "proman": "latest",
+        "promanage-cli": "latest",
+        "promap": "latest",
+        "promaphore": "latest",
+        "promarkdown": "latest",
+        "promasync": "latest",
+        "promatask-paynl-sdk": "latest",
+        "promatrix-githooks": "latest",
+        "promatrix-gulpfile": "latest",
+        "promax": "latest",
+        "promax-api-modules": "latest",
+        "promaxool": "latest"
+    }
+}

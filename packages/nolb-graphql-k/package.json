@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-graphql-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graphql-kafka-subscriptions": "latest",
+        "graphql-kafkajs-subscriptions": "latest",
+        "graphql-kafkanode-subscriptions": "latest",
+        "graphql-key-transformer": "latest",
+        "graphql-knex-resolver": "latest",
+        "graphql-koa-scripts": "latest",
+        "graphql-kubemq-subscriptions": "latest",
+        "graphql-kungfu": "latest"
+    }
+}

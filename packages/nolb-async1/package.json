@@ -1,0 +1,11 @@
+
+{
+    "name": "@zalastax/nolb-async1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "async11": "latest"
+    }
+}

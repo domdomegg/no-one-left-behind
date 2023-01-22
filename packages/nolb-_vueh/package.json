@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_vueh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vuehooks/core": "latest",
+        "@vuehooks/query": "latest",
+        "@vuehooks/router": "latest",
+        "@vuehooks/testing": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-epf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "epf": "latest",
+        "epf-fix-schema": "latest",
+        "epf-gislib": "latest",
+        "epf-parser": "latest",
+        "epf-pg-importer": "latest",
+        "epf_flow": "latest",
+        "epfamvir": "latest",
+        "epfl-elements": "latest",
+        "epfl-enac-gilliarddb": "latest",
+        "epfl-exceptions": "latest",
+        "epfl-ldap": "latest",
+        "epfl-menu-api": "latest",
+        "epfl-people-api": "latest",
+        "epfl-theme-elements": "latest",
+        "epfl-unit-api": "latest",
+        "epframesync": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_j3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@j30-ms-tickets/common": "latest",
+        "@j30/testuse": "latest",
+        "@j33p1n/component-library": "latest",
+        "@j3a-m3r/vuepress-plugin-pdf-export": "latest",
+        "@j3a/bs-cycle-dom": "latest",
+        "@j3a/bs-cycle-history": "latest",
+        "@j3a/bs-cycle-react": "latest",
+        "@j3a/bs-cycle-react-dom": "latest",
+        "@j3a/bs-cycle-restart": "latest",
+        "@j3a/bs-cycle-run": "latest",
+        "@j3a/bs-snabbdom-bindings": "latest",
+        "@j3a/gatsby-disruptor-search": "latest",
+        "@j3a/rocketchat-livechat": "latest",
+        "@j3lte/pluggable-widget-utils": "latest"
+    }
+}

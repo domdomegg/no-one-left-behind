@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_digim",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@digime/digime-js-sdk": "latest",
+        "@digime/digime-sdk-nodejs": "latest",
+        "@digimo-ui/docs": "latest",
+        "@digimo-ui/react": "latest",
+        "@digimo-ui/tokens": "latest",
+        "@digimon-os/reg-verify": "latest",
+        "@digimuza/graphql": "latest",
+        "@digimuza/iban-parser": "latest",
+        "@digimuza/nscript": "latest",
+        "@digimuza/pdf-components": "latest",
+        "@digimuza/pdf-tools": "latest",
+        "@digimuza/process-manager": "latest",
+        "@digimuza/react-form": "latest",
+        "@digimuza/react-utils": "latest",
+        "@digimuza/ts-pattern": "latest"
+    }
+}

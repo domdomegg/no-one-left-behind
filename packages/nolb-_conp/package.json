@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_conp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@conpack/babel": "latest",
+        "@conpago/address": "latest",
+        "@conpago/bullmq": "latest",
+        "@conpago/i18next-async-storage-backend": "latest",
+        "@conpago/mongo-clone": "latest",
+        "@conpago/mongo-cursor-pagination": "latest",
+        "@conpago/mongo-seeding": "latest",
+        "@conpago/mongo-seeding-cli": "latest",
+        "@conpago/react-scheduler": "latest",
+        "@conpago/rrule": "latest",
+        "@conpagoaus/apollo-cache-helpers": "latest",
+        "@conprint3d/lib": "latest"
+    }
+}

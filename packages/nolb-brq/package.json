@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-brq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brq": "latest",
+        "brq-framework": "latest",
+        "brq-module": "latest",
+        "brq.teste": "latest",
+        "brqsimgbed2": "latest",
+        "brqsjs": "latest",
+        "brqsnpmimgbed": "latest",
+        "brqtestebruna": "latest",
+        "brqtesteeere": "latest"
+    }
+}

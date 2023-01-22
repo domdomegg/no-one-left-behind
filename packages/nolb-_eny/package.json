@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_eny",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@enyaxu/hast-util-to-html": "latest",
+        "@enyaxu/markdown-it-anchor": "latest",
+        "@enyaxu/rehype-stringify": "latest",
+        "@enyineer/grammy-workflow": "latest",
+        "@enykeev/react-virtualized": "latest",
+        "@enyobao/multihtml-webpack-plugin": "latest",
+        "@enyosolutions/my-ip-cli": "latest"
+    }
+}

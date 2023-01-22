@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-resq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "resq": "latest",
+        "resql": "latest",
+        "resqml20": "latest",
+        "resque": "latest",
+        "resque-cluster-proxy": "latest",
+        "resque-enqueue": "latest",
+        "resque-enqueue-activejob": "latest",
+        "resque-runner": "latest",
+        "resque-slack": "latest",
+        "resquel": "latest",
+        "resquel-multiconnect": "latest",
+        "resquest-json-type": "latest",
+        "resqueue": "latest",
+        "resquire": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_z4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@z4o4z/draft-js-mention-plugin": "latest",
+        "@z4o4z/gatsby-source-graphql-universal": "latest",
+        "@z4o4z/gatsby-source-prismic-graphql": "latest",
+        "@z4o4z/storybook-addon-events": "latest"
+    }
+}

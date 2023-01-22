@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_ceo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ceoehis/tur-golint": "latest",
+        "@ceoimon/babel-plugin-named-asset-import": "latest",
+        "@ceoimon/babel-preset-react-app": "latest",
+        "@ceoimon/confusing-browser-globals": "latest",
+        "@ceoimon/eslint-config-react-app": "latest",
+        "@ceoimon/react-dev-utils": "latest",
+        "@ceoimon/react-scripts": "latest",
+        "@ceoimon/react-scripts-ts": "latest",
+        "@ceoimon/typed-css-modules": "latest",
+        "@ceol/tailwind-tooltip": "latest",
+        "@ceop/cli": "latest",
+        "@ceop/configuration": "latest",
+        "@ceop/core": "latest",
+        "@ceop/design": "latest",
+        "@ceop/ds": "latest",
+        "@ceop/linter": "latest",
+        "@ceop/mute-hmr": "latest",
+        "@ceop/plugin-compress": "latest",
+        "@ceop/plugin-css": "latest",
+        "@ceop/plugin-file": "latest",
+        "@ceop/plugin-loadable": "latest",
+        "@ceop/plugin-typescript": "latest",
+        "@ceop/style": "latest",
+        "@ceop/tailwind": "latest",
+        "@ceop/utils": "latest",
+        "@ceoro9/ioc-ts": "latest",
+        "@ceos/skybird-commons": "latest",
+        "@ceoss-kmitl/excel-adapter": "latest"
+    }
+}

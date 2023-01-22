@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_triz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trizacorporation/bettersignal": "latest",
+        "@trizacorporation/tnet": "latest",
+        "@trizwo/node-red-contrib-voipio-socket": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-bov",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bov": "latest",
+        "bovada": "latest",
+        "boverlay": "latest",
+        "bovespa": "latest",
+        "bovespa-node": "latest",
+        "bovine": "latest",
+        "bovine-city-selector": "latest",
+        "bovini": "latest",
+        "bovueslot": "latest",
+        "bovuex": "latest"
+    }
+}

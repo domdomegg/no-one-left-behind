@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-bin_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bin.min.js": "latest",
+        "bin.php": "latest",
+        "bin_2022_5": "latest",
+        "bin_2022_5_26": "latest",
+        "bin_2022_5_26_1": "latest",
+        "bin_index": "latest",
+        "bin_index_src": "latest",
+        "bin_index_zhang": "latest",
+        "bin_packer_3d": "latest",
+        "bin_pm": "latest",
+        "bin_streamer": "latest",
+        "bin_test": "latest",
+        "bin_test2": "latest"
+    }
+}

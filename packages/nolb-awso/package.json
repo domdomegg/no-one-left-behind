@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-awso",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "awsome": "latest",
+        "awsome-data-filter": "latest",
+        "awsome-doctor-cli": "latest",
+        "awsome-doctor-core": "latest",
+        "awsome-doctor-utils": "latest",
+        "awsome-exc": "latest",
+        "awsome-factory-associator": "latest",
+        "awsome-greeter": "latest",
+        "awsome-react-lighbox": "latest",
+        "awsome-react-package": "latest",
+        "awsome-ui": "latest",
+        "awsome-utils": "latest",
+        "awsome-widget": "latest",
+        "awsome_module_1": "latest",
+        "awsomecli": "latest",
+        "awsomecliiheb": "latest",
+        "awsomejat": "latest",
+        "awsomejs": "latest",
+        "awsomer": "latest",
+        "awsometest123": "latest",
+        "awsomodal": "latest",
+        "awsops": "latest"
+    }
+}

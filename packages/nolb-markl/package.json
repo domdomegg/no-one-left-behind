@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-markl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "marklable": "latest",
+        "marklar": "latest",
+        "markless": "latest",
+        "marklet": "latest",
+        "markletjs": "latest",
+        "marklib": "latest",
+        "marklike": "latest",
+        "markline": "latest",
+        "markling": "latest",
+        "marklink": "latest",
+        "marklint": "latest",
+        "marklit": "latest",
+        "markloader1": "latest",
+        "marklogic": "latest",
+        "marklogic-af-test-20220718": "latest",
+        "marklogic-node-typescript-definitions": "latest",
+        "marklogic-typescript-definitions": "latest",
+        "marklogic-ui-library": "latest",
+        "markly": "latest"
+    }
+}

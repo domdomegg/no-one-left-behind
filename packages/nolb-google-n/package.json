@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-google-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "google-nest-api": "latest",
+        "google-nest-notifier": "latest",
+        "google-news": "latest",
+        "google-news-feed": "latest",
+        "google-news-json": "latest",
+        "google-news-rss": "latest",
+        "google-news-rss-to-js": "latest",
+        "google-news-scraper": "latest",
+        "google-news-scraper-lambda": "latest",
+        "google-news-sitemap": "latest",
+        "google-news-widget-tac": "latest",
+        "google-news-widget-tac-test": "latest",
+        "google-ngram": "latest",
+        "google-nlp": "latest",
+        "google-nlp-api": "latest",
+        "google-nodejs": "latest",
+        "google-notify": "latest"
+    }
+}

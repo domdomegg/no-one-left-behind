@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-kuh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "kuh": "latest",
+        "kuh-publish-test": "latest",
+        "kuhhandel": "latest",
+        "kuhldata-team-tracker": "latest",
+        "kuhn_test": "latest",
+        "kuhn_utils": "latest",
+        "kuhua": "latest",
+        "kuhuksharma-frame-print": "latest",
+        "kuhwick": "latest"
+    }
+}

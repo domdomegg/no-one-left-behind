@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-heg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "heg": "latest",
+        "heg-alpha-ble": "latest",
+        "heg-component": "latest",
+        "heg-components": "latest",
+        "heg-cps-test": "latest",
+        "heg-header": "latest",
+        "heg-vue-hash-calendar": "latest",
+        "heg-vue2-component": "latest",
+        "hegaintool": "latest",
+        "hegdemahesh-react-widget-demo": "latest",
+        "hegduinojs": "latest",
+        "hege": "latest",
+        "hegel": "latest",
+        "hegel-cli": "latest",
+        "hegou": "latest",
+        "hegria_stat": "latest"
+    }
+}

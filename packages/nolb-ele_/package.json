@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-ele_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ele.zcloud": "latest",
+        "ele__ai_css": "latest",
+        "ele_ai_js": "latest",
+        "ele_components": "latest",
+        "ele_test": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-yae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "YAEventEmitter": "latest",
+        "yae": "latest",
+        "yaeb": "latest",
+        "yaed": "latest",
+        "yaee": "latest",
+        "yaeeh": "latest",
+        "yaef": "latest",
+        "yaefes": "latest",
+        "yaeger-testing-stuff": "latest",
+        "yael": "latest",
+        "yael-autoencrypt": "latest",
+        "yael-test-component": "latest",
+        "yaemit": "latest",
+        "yaemit-extras": "latest",
+        "yaemit-fancy": "latest",
+        "yaenumerable": "latest",
+        "yaep-consolidator": "latest",
+        "yaes": "latest",
+        "yaesakura": "latest",
+        "yaest": "latest",
+        "yaestaelmate": "latest",
+        "yaet": "latest",
+        "yaeti": "latest"
+    }
+}

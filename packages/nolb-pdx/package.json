@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-pdx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pdx-angular-bootstrap": "latest",
+        "pdx-awesome-lib": "latest",
+        "pdx-i18n": "latest",
+        "pdx-shows": "latest",
+        "pdx-test": "latest",
+        "pdx-ui-weather": "latest",
+        "pdxcg-express-boilerplate": "latest",
+        "pdxdeploy": "latest",
+        "pdxing": "latest",
+        "pdxjs": "latest",
+        "pdxmodule": "latest"
+    }
+}

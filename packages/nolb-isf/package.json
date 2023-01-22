@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-isf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "isf": "latest",
+        "isfacepalm": "latest",
+        "isfastnet": "latest",
+        "isfe-logger": "latest",
+        "isfero-skipper": "latest",
+        "isfetch": "latest",
+        "isfinnish": "latest",
+        "isfit-fbs-base": "latest",
+        "isflattenable": "latest",
+        "isfn": "latest",
+        "isfong": "latest",
+        "isfridge": "latest",
+        "isfunc": "latest",
+        "isfunction": "latest"
+    }
+}

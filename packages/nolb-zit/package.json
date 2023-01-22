@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-zit",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zit": "latest",
+        "zit-cli": "latest",
+        "zita": "latest",
+        "zitadel-client-js": "latest",
+        "zitao11": "latest",
+        "zitator": "latest",
+        "zitcher": "latest",
+        "zite": "latest",
+        "zite-vue-material-kit": "latest",
+        "zitehbl": "latest",
+        "ziter": "latest",
+        "ziterable": "latest",
+        "zites-ui-system": "latest",
+        "zither": "latest",
+        "ziti": "latest",
+        "ziti-electron-fetch": "latest",
+        "ziti-electron-websocket": "latest",
+        "ziti-sdk-nodejs": "latest",
+        "zitjs": "latest",
+        "zitong": "latest",
+        "zitrit": "latest",
+        "zitrusmix": "latest"
+    }
+}

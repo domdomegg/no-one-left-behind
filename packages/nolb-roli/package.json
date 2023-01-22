@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-roli",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "roli": "latest",
+        "rolia-util": "latest",
+        "rolib-cli": "latest",
+        "rolib.js": "latest",
+        "rolibles-lib": "latest",
+        "rolin-ts-lib": "latest",
+        "rolinfoo": "latest",
+        "roling": "latest",
+        "rolink": "latest",
+        "roliod": "latest",
+        "rolique-react-native-navigation": "latest"
+    }
+}

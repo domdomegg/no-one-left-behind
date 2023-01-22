@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_elp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@elpandev/helper": "latest",
+        "@elpandev/laravel-validator": "latest",
+        "@elparking/babel-plugin-react-attr-replacement": "latest",
+        "@elparking/lighthouse": "latest",
+        "@elpassion/ipc-pool": "latest",
+        "@elpassion/pagers": "latest",
+        "@elpddev/sawtooth-sdk": "latest",
+        "@elpete/gitlab-npm-audit-parser": "latest",
+        "@elpis-global/airdrop": "latest",
+        "@elpis-global/farm": "latest",
+        "@elpis-global/igo": "latest",
+        "@elpis-global/igo-whitelist": "latest",
+        "@elpis-global/marketplace": "latest",
+        "@elpis-global/nft-farms": "latest",
+        "@elpis-global/nfts": "latest",
+        "@elpis-global/vesting": "latest",
+        "@elpis2/ng-schematics": "latest",
+        "@elpuas/create-block-theme": "latest"
+    }
+}

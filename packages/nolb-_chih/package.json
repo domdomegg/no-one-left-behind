@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_chih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chihab/mo": "latest",
+        "@chihabjraoui/common": "latest",
+        "@chihebnabil/custom-upload-element": "latest",
+        "@chihhunglin/seochecker": "latest",
+        "@chihiro2014/hello-wasm": "latest",
+        "@chihuo/edittext": "latest",
+        "@chihuo/selection": "latest",
+        "@chihuo/table": "latest",
+        "@chihuo/table-example": "latest",
+        "@chihweiliu1993/sql-server-test-database-tools": "latest"
+    }
+}

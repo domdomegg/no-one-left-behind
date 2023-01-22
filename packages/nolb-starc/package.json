@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-starc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "starcase": "latest",
+        "starcasket": "latest",
+        "starcay-test": "latest",
+        "starchart": "latest",
+        "starchart-studio": "latest",
+        "starchup-cache-ts": "latest",
+        "starchup-geo": "latest",
+        "starchup-integrator": "latest",
+        "starchup-sheets": "latest",
+        "starchup-vars": "latest",
+        "starcity": "latest",
+        "starcode": "latest",
+        "starcode.js": "latest",
+        "starcoins": "latest",
+        "starcommand": "latest",
+        "starcon": "latest",
+        "starcor-gulp-css-spriter": "latest",
+        "starcore": "latest",
+        "starcount": "latest",
+        "starcount-common": "latest",
+        "starcounter": "latest",
+        "starcounter-jack-haunted": "latest",
+        "starcounter-jack-react-analogue-clock": "latest",
+        "starcraft": "latest",
+        "starcraft2-api": "latest",
+        "starcrash": "latest"
+    }
+}

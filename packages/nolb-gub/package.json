@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-gub",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gub": "latest",
+        "gubalu-components": "latest",
+        "gubao_postmsg": "latest",
+        "gubb": "latest",
+        "gubby": "latest",
+        "gubed": "latest",
+        "gubick-storybook-styles": "latest",
+        "gubird-mod-admin": "latest",
+        "gubird-ui": "latest",
+        "gubird-ui-style": "latest",
+        "gubu": "latest",
+        "gubui": "latest"
+    }
+}

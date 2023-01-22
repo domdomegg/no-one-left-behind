@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-doca",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "doca": "latest",
+        "doca-bootstrap-theme": "latest",
+        "doca-bootstrap2-theme": "latest",
+        "doca-cf-theme": "latest",
+        "doca-events-api-theme": "latest",
+        "doca-integreat-theme": "latest",
+        "doca-lti-theme": "latest",
+        "doca-minimal-theme": "latest",
+        "doca-moo-de-event-contracts-theme": "latest",
+        "doca-node-docson-theme": "latest",
+        "doca-simpplr-theme": "latest",
+        "docable": "latest",
+        "docabstract": "latest",
+        "docaine": "latest",
+        "docalculate": "latest",
+        "docanary": "latest",
+        "docanize": "latest",
+        "docany": "latest",
+        "docapi": "latest",
+        "docapper": "latest",
+        "docarchive": "latest",
+        "docarchive-cli": "latest",
+        "docarray": "latest",
+        "docarys": "latest",
+        "docarys-material": "latest",
+        "docassemble-cucumber": "latest",
+        "docast": "latest",
+        "docat": "latest"
+    }
+}

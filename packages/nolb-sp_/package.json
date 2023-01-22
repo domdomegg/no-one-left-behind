@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-sp_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sp.pat-header-api-test": "latest",
+        "sp.test-component-lib": "latest",
+        "sp.test-patient-header": "latest",
+        "sp_ac_react_library": "latest",
+        "sp_code": "latest",
+        "sp_common": "latest",
+        "sp_create_widget_template": "latest",
+        "sp_json_editor_secondary": "latest",
+        "sp_knowledge_transfer_demo": "latest",
+        "sp_layout": "latest",
+        "sp_module": "latest",
+        "sp_progress": "latest",
+        "sp_react_r_c": "latest",
+        "sp_test": "latest",
+        "sp_views": "latest",
+        "sp_widget_core": "latest",
+        "sp_widget_editor": "latest"
+    }
+}

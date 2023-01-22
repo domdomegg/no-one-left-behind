@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-localr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "LocalRecord": "latest",
+        "localr": "latest",
+        "localrc": "latest",
+        "localred": "latest",
+        "localref": "latest",
+        "localrep": "latest",
+        "localresizeimg-cjs": "latest",
+        "localrest": "latest"
+    }
+}

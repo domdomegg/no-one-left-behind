@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-ciu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ciu": "latest",
+        "ciudades-dane-comp": "latest",
+        "ciutil-relatedfiles": "latest",
+        "ciutil-releasenotes": "latest",
+        "ciuy": "latest"
+    }
+}

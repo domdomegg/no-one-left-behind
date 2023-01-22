@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_pam",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pam3ec555/react-native-ratings": "latest",
+        "@pamaf1/laba2": "latest",
+        "@pamarante24/stash": "latest",
+        "@pamarthid/icon": "latest",
+        "@pamila/psc-ng-common": "latest",
+        "@pamila/psc-ng-firebase": "latest",
+        "@pamila/psc-ng-idelivery-common": "latest",
+        "@pamjamshidi/lotide": "latest",
+        "@pamlab/stylekit": "latest",
+        "@pamlight/admin": "latest",
+        "@pamlight/client": "latest",
+        "@pamlight/ngx-client": "latest",
+        "@pamls/eslint-config": "latest",
+        "@pampa-dev/express-admin": "latest",
+        "@pampamilya/npm-template": "latest",
+        "@pamplemousse/front-end-tracker": "latest",
+        "@pampula-commerce/common": "latest",
+        "@pampula/common": "latest",
+        "@pamstarter/epts-engine": "latest",
+        "@pamstarter/test": "latest",
+        "@pamuditha-blockstars/check-license-react": "latest",
+        "@pamzer156/my-pack": "latest"
+    }
+}

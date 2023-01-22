@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-vite-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vite-wasm": "latest",
+        "vite-wasm-pack-hmr": "latest",
+        "vite-wasm-zig": "latest",
+        "vite-web-test-runner-plugin": "latest",
+        "vite-with-blue-pages": "latest",
+        "vite-with-bluejsx": "latest",
+        "vite-with-ssr-flag-fixed": "latest"
+    }
+}

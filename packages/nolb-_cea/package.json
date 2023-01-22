@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_cea",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cea3/msal-browser": "latest",
+        "@cea3dvgy01/react-leaflet": "latest",
+        "@cea3dvgy01/react-leaflet-core": "latest",
+        "@ceabrazil/mylib": "latest",
+        "@ceajs/attendance-plugin": "latest",
+        "@ceajs/check-in-helper": "latest",
+        "@ceajs/core": "latest",
+        "@ceajs/sign-plugin": "latest",
+        "@ceajs/slider-captcha": "latest",
+        "@ceaucari/github-pages-deploy": "latest"
+    }
+}

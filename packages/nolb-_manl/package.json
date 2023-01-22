@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_manl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@manladag/cli": "latest",
+        "@manladag/core": "latest",
+        "@manladag/core-lelscan": "latest",
+        "@manladag/lelscanv": "latest",
+        "@manladag/scanmanga": "latest",
+        "@manladag/source": "latest",
+        "@manladag/types": "latest",
+        "@manlito/survey-ui": "latest"
+    }
+}

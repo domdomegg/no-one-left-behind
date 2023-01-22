@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-tinyl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tinyLoger": "latest",
+        "tinylayer": "latest",
+        "tinylazyseq": "latest",
+        "tinyld": "latest",
+        "tinylex": "latest",
+        "tinylfu": "latest",
+        "tinylib": "latest",
+        "tinylib.js": "latest",
+        "tinylibrary": "latest",
+        "tinylicious": "latest",
+        "tinyliquid": "latest",
+        "tinylistener": "latest",
+        "tinyliveserver": "latest",
+        "tinyloader": "latest",
+        "tinyloc": "latest",
+        "tinylock_web": "latest",
+        "tinylog": "latest",
+        "tinylog-service": "latest",
+        "tinylogger": "latest",
+        "tinylogger-js": "latest",
+        "tinylogic": "latest",
+        "tinylrs": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-a7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "a7": "latest",
+        "a7-gridview": "latest",
+        "a7-ng-config": "latest",
+        "a7-ng-util": "latest",
+        "a7-progress": "latest",
+        "a7-web-app": "latest",
+        "a73-inuit-color-settings": "latest",
+        "a73-inuit-colors-tools": "latest",
+        "a73-inuit-md-icon-generics": "latest",
+        "a73-inuit-md-icon-objects": "latest",
+        "a73-inuit-md-icon-settings": "latest",
+        "a73-inuit-z-index-settings": "latest",
+        "a73-inuit-z-index-tools": "latest",
+        "a7js": "latest",
+        "a7medkamel-node-windows": "latest"
+    }
+}

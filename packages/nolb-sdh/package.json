@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-sdh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sdh-api": "latest",
+        "sdh-core-bot": "latest",
+        "sdh-core-node-security": "latest",
+        "sdh-core-security": "latest",
+        "sdh-hiprint": "latest",
+        "sdh-print": "latest",
+        "sdh-slackbot": "latest",
+        "sdh-widget-snapshot-service": "latest",
+        "sdhajgdaj": "latest",
+        "sdhajgdw": "latest",
+        "sdhandler": "latest",
+        "sdhaskdasldasd": "latest",
+        "sdhelper": "latest",
+        "sdhhqb": "latest",
+        "sdhk": "latest",
+        "sdhp-logger": "latest",
+        "sdhz-cli": "latest"
+    }
+}

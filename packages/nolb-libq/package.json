@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-libq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "libq": "latest",
+        "libq.js": "latest",
+        "libqi": "latest",
+        "libqp": "latest",
+        "libqpdf": "latest",
+        "libqrv": "latest",
+        "libquassel": "latest",
+        "libquery": "latest",
+        "libqueue": "latest",
+        "libquicktime": "latest"
+    }
+}

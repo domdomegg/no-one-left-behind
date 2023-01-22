@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_snz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@snz1dp/electron-process-manager": "latest",
+        "@snzro/dpo-backend": "latest",
+        "@snzro/dpo-design-system": "latest",
+        "@snzro/dpo-frontend": "latest"
+    }
+}

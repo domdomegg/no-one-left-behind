@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_kue",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kuechenatlas/kopjs.imageminifier": "latest",
+        "@kuehnelbs/node-red-contrib-nextcloud": "latest",
+        "@kuei/react-scripts": "latest",
+        "@kuen/components": "latest",
+        "@kuen/loader": "latest",
+        "@kuen/ui": "latest"
+    }
+}

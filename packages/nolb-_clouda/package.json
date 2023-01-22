@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_clouda",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cloudacademy/acquisition-marathon": "latest",
+        "@cloudacademy/bonsai": "latest",
+        "@cloudacademy/integrations": "latest",
+        "@cloudacademy/layout": "latest",
+        "@cloudacademy/shared-common": "latest",
+        "@cloudacademy/shared-configs": "latest",
+        "@cloudacademy/shared-theme": "latest",
+        "@cloudacademy/theia-extension": "latest",
+        "@cloudaction/runtime": "latest",
+        "@cloudadder/cdk-constructs-demo": "latest",
+        "@cloudadder/cdk-ec2-imagebuilder": "latest",
+        "@cloudadder/cdk-monitoring": "latest",
+        "@cloudadder/cloudadder-cdk-constructs": "latest",
+        "@cloudaeye/aws-node-utils-p": "latest",
+        "@cloudaffine/app-config": "latest",
+        "@cloudaffine/jest-extension": "latest",
+        "@cloudagnostic/azure": "latest",
+        "@cloudalize/appauth": "latest",
+        "@cloudalize/tinymce-angular": "latest",
+        "@cloudamqp/amqp-client": "latest",
+        "@cloudanalogy/footer": "latest",
+        "@cloudanswers/appexchange-uploader": "latest",
+        "@cloudant/cloudant": "latest",
+        "@cloudant/couchbackup": "latest",
+        "@cloudascent-io/test": "latest",
+        "@cloudascent/test": "latest",
+        "@cloudautomationsolutions/eslint-config": "latest",
+        "@cloudax-libs/uikit": "latest"
+    }
+}

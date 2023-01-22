@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-evd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "evd-webcomponents": "latest",
+        "evd_util": "latest",
+        "evda": "latest",
+        "evdata": "latest",
+        "evdata-ice-template": "latest",
+        "evdataui": "latest",
+        "evdelegate": "latest",
+        "evdelo-cli": "latest",
+        "evdelo-cli-api": "latest",
+        "evdelo-cli-web": "latest",
+        "evdev": "latest",
+        "evdev-my-storybook-comps": "latest",
+        "evdev-trigger": "latest",
+        "evdevkit": "latest",
+        "evdh": "latest",
+        "evds-loggerfile": "latest"
+    }
+}

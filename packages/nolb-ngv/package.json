@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-ngv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ngVue": "latest",
+        "ngv": "latest",
+        "ngv-analytics-components": "latest",
+        "ngv-bottom-sheet": "latest",
+        "ngv-components": "latest",
+        "ngv-dialog": "latest",
+        "ngv-notification": "latest",
+        "ngvas": "latest",
+        "ngvas-image-cors": "latest",
+        "ngvforlib": "latest",
+        "ngvibrant": "latest",
+        "ngview": "latest",
+        "ngvirbfvgru": "latest",
+        "ngvm": "latest",
+        "ngvt": "latest"
+    }
+}

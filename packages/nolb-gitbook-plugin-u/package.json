@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-gitbook-plugin-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gitbook-plugin-uml": "latest",
+        "gitbook-plugin-uml-online": "latest",
+        "gitbook-plugin-underline": "latest",
+        "gitbook-plugin-ungrey": "latest",
+        "gitbook-plugin-unic-chapters": "latest",
+        "gitbook-plugin-unicodecss": "latest",
+        "gitbook-plugin-upverter": "latest",
+        "gitbook-plugin-url-embed": "latest",
+        "gitbook-plugin-usabilla": "latest",
+        "gitbook-plugin-usc": "latest"
+    }
+}

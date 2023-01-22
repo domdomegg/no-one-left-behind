@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-thres",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thresh": "latest",
+        "thresh-37": "latest",
+        "thresh-api": "latest",
+        "thresh-cli": "latest",
+        "thresh-lib": "latest",
+        "thresh-lib-cli": "latest",
+        "thresher": "latest",
+        "thresher-mic-check": "latest",
+        "threshjs": "latest",
+        "threshodl": "latest",
+        "threshold": "latest",
+        "threshold-bls-ffi": "latest",
+        "threshold-invoke": "latest",
+        "threshold-map": "latest",
+        "threshold-scheduler": "latest",
+        "threshold-tree": "latest",
+        "threshold_config": "latest",
+        "thresholdcrypto": "latest",
+        "thresholdify": "latest",
+        "thresholdlib": "latest",
+        "thresholdlib_darwin": "latest",
+        "thresholdlib_linux": "latest",
+        "thresholds": "latest",
+        "thresholdsig": "latest"
+    }
+}

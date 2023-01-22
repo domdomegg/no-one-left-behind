@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-stray",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stray": "latest",
+        "stray-bird": "latest",
+        "stray-dict": "latest",
+        "stray-grid": "latest",
+        "stray-pet-home": "latest",
+        "straya": "latest",
+        "strayajs": "latest",
+        "straybug-demo02": "latest",
+        "straylab": "latest",
+        "straylab-ui": "latest",
+        "straylight": "latest",
+        "strayve.io": "latest"
+    }
+}

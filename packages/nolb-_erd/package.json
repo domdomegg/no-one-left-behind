@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_erd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@erda-ui/cli": "latest",
+        "@erda-ui/components": "latest",
+        "@erda-ui/dashboard-configurator": "latest",
+        "@erda-ui/next-plugin-antd-less": "latest",
+        "@erda-ui/react-markdown-editor-lite": "latest",
+        "@erdc-itl/simple-logger": "latest",
+        "@erdebaru/logstash-tcp-wins": "latest",
+        "@erdemalpay/main": "latest",
+        "@erdemgoksel/koiosdb": "latest",
+        "@erdemgoksel/koiosdb-global": "latest",
+        "@erdemgoksel/mneme": "latest",
+        "@erdemgonul/perf-analytics": "latest",
+        "@erdii/caddy-serverless-express": "latest",
+        "@erdii/csv2jsonstream": "latest",
+        "@erdii/vdomact": "latest",
+        "@erdiko/ng-user-admin": "latest",
+        "@erdiko/ngx-user-admin": "latest",
+        "@erdiko/theme-user-admin": "latest",
+        "@erdiko/user-admin": "latest",
+        "@erdiko/user-admin-css": "latest",
+        "@erdtickets/common": "latest",
+        "@erdwell/web-system-themes-test": "latest"
+    }
+}

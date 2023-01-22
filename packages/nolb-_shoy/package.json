@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_shoy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shoyo-nakano/opencv": "latest",
+        "@shoyo-nakano/original-js": "latest",
+        "@shoyo/erela.js": "latest",
+        "@shoyu/dashi-sdk": "latest",
+        "@shoyunft/airdrop": "latest",
+        "@shoyunft/contracts": "latest",
+        "@shoyunft/graphql-types": "latest",
+        "@shoyunft/sdk.js": "latest"
+    }
+}

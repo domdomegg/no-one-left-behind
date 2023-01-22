@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-skh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "skh": "latest",
+        "skh-api": "latest",
+        "skh-slider": "latest",
+        "skh-web-resources-test": "latest",
+        "skh5ds": "latest",
+        "skhandewa-frame-print": "latest",
+        "skhdrc-generator": "latest",
+        "skhema": "latest",
+        "skhemata-login": "latest",
+        "skhemata-storybook-widgetcode": "latest",
+        "skhemata-storybook-widgetcode-432": "latest"
+    }
+}

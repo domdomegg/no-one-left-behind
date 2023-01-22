@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-fastg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fastg0b": "latest",
+        "fastgap": "latest",
+        "fastgcn": "latest",
+        "fastgeek": "latest",
+        "fastget": "latest",
+        "fastghl-cache": "latest",
+        "fastgif": "latest",
+        "fastgpio": "latest",
+        "fastgraph-node": "latest",
+        "fastgraph-vue": "latest",
+        "fastgtfs-js": "latest"
+    }
+}

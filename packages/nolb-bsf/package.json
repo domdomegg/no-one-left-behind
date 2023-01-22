@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-bsf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bsf": "latest",
+        "bsf-auth": "latest",
+        "bsf-bom": "latest",
+        "bsf-solidity": "latest",
+        "bsfcore": "latest",
+        "bsfe-cli": "latest",
+        "bsflogger": "latest",
+        "bsframe-print": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-boot-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "boot-bone": "latest",
+        "boot-button": "latest",
+        "boot-cell": "latest",
+        "boot-chain": "latest",
+        "boot-cli": "latest",
+        "boot-drive": "latest",
+        "boot-express": "latest",
+        "boot-flex-grid": "latest",
+        "boot-github-spy": "latest",
+        "boot-in-the-arse": "latest",
+        "boot-j7-evm": "latest",
+        "boot-otp-component": "latest",
+        "boot-phase": "latest",
+        "boot-profiler": "latest",
+        "boot-shadow": "latest",
+        "boot-stacker": "latest",
+        "boot-tailwind": "latest",
+        "boot-tasks": "latest",
+        "boot-template-cli": "latest",
+        "boot-to-es6-node": "latest",
+        "boot-ts": "latest",
+        "boot-utils": "latest",
+        "boot-utils-fork": "latest",
+        "boot-vue-ui": "latest",
+        "boot-web": "latest",
+        "boot-wrap": "latest",
+        "boot-wrapper": "latest"
+    }
+}

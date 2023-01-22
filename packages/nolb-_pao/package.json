@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_pao",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@paodingai/create-viewer": "latest",
+        "@paodingai/pdflux-wasm-trial": "latest",
+        "@paolagd/lotide": "latest",
+        "@paolahuyo/md-links": "latest",
+        "@paolaid/dom-to-image-even-with-more-feature": "latest",
+        "@paolataboada/md-links": "latest",
+        "@paolinardc/bridge-components": "latest",
+        "@paolinardc/component-library": "latest",
+        "@paolinsky/platzimediaplayer": "latest",
+        "@paolobueno/bloomer": "latest",
+        "@paoloduzioni/vue-clock": "latest",
+        "@paoloinfante/minesweeper": "latest",
+        "@paoloinfante/terminal-emulator": "latest",
+        "@paololaurenti/test": "latest",
+        "@paoloni/template-server-azure-storage": "latest",
+        "@paoloni/template-server-core": "latest",
+        "@paoloni/template-server-queue-watchers": "latest",
+        "@paoloni/template-server-template-router": "latest",
+        "@paolostyle/eslint-config": "latest",
+        "@paolotozzo/react-pixi": "latest",
+        "@paosarmi/md-links": "latest",
+        "@paosder/cube-text": "latest",
+        "@paosder/gl-variable": "latest",
+        "@paosder/gl-world": "latest",
+        "@paosder/react-cube-text": "latest",
+        "@paosder/vector-map": "latest"
+    }
+}

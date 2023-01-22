@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-wxj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wxj-cli": "latest",
+        "wxj-miniprogram": "latest",
+        "wxj-test-demo": "latest",
+        "wxj-vue-rollup": "latest",
+        "wxj0724": "latest",
+        "wxjdk": "latest",
+        "wxjdk1.0.0": "latest",
+        "wxjdrtc": "latest",
+        "wxjj": "latest",
+        "wxjs": "latest",
+        "wxjs2": "latest",
+        "wxjsbarcode": "latest",
+        "wxjssdk": "latest",
+        "wxjssdk-1.3.2": "latest",
+        "wxjssdk-copy": "latest",
+        "wxjssdkconfig": "latest",
+        "wxjstest": "latest"
+    }
+}

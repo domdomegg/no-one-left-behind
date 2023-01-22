@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-datel",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "datel-document-ui": "latest",
+        "datel-minu-andmed-ui": "latest",
+        "datelb": "latest",
+        "datelekta": "latest",
+        "dateless": "latest",
+        "datelib": "latest",
+        "datelib-le": "latest",
+        "datelib-nn": "latest",
+        "datelibjs": "latest",
+        "dateline": "latest",
+        "datelish": "latest",
+        "datelist-sdk-js": "latest",
+        "datelite": "latest",
+        "datelog": "latest",
+        "dately": "latest"
+    }
+}

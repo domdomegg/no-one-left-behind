@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-com_3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "com.3d-group.unity-package-template": "latest",
+        "com.3d-group.unity-simple-localization": "latest",
+        "com.3d-group.unity-simple-notifications": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-monu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "monu": "latest",
+        "monu-linkpreview": "latest",
+        "monu-ui": "latest",
+        "monument": "latest",
+        "monument-cli": "latest",
+        "monument-ui": "latest",
+        "monumento-map-service": "latest",
+        "monupco-dotcloud-nodejs": "latest",
+        "monupco-openshift-nodejs": "latest"
+    }
+}

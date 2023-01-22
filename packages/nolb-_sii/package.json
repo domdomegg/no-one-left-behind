@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_sii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@siil78/react-widgets": "latest",
+        "@siili/component-demo": "latest",
+        "@siimple/cli": "latest",
+        "@siimple/colors": "latest",
+        "@siimple/components": "latest",
+        "@siimple/core": "latest",
+        "@siimple/css": "latest",
+        "@siimple/experiments": "latest",
+        "@siimple/icons": "latest",
+        "@siimple/lib": "latest",
+        "@siimple/modules": "latest",
+        "@siimple/postcss": "latest",
+        "@siimple/preset-base": "latest",
+        "@siimple/preset-dark": "latest",
+        "@siimple/preset-elements": "latest",
+        "@siimple/preset-helpers": "latest",
+        "@siimple/preset-ice": "latest",
+        "@siimple/preset-icons": "latest",
+        "@siimple/preset-markup": "latest",
+        "@siimple/preset-mustard": "latest",
+        "@siimple/preset-noir": "latest",
+        "@siimple/preset-reboot": "latest",
+        "@siimple/preset-theme": "latest",
+        "@siimple/presets": "latest",
+        "@siimple/press": "latest",
+        "@siimple/react": "latest",
+        "@siimple/standalone": "latest",
+        "@siimple/styled": "latest"
+    }
+}

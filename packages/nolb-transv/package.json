@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-transv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "transval": "latest",
+        "transversal": "latest",
+        "transversal-client": "latest",
+        "transverse-nested": "latest",
+        "transverser": "latest",
+        "transvolve": "latest",
+        "transvoxel-data": "latest",
+        "transvue2ts": "latest",
+        "transvueify": "latest",
+        "transvueify-plugin-babel": "latest",
+        "transvueify-plugin-typescript": "latest"
+    }
+}

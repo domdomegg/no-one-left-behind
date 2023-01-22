@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-alh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "alh": "latest",
+        "alh_form": "latest",
+        "alh_node_cc": "latest",
+        "alh_node_lx": "latest",
+        "alh_spider": "latest",
+        "alh_test_module": "latest",
+        "alhadis.utils": "latest",
+        "alhambra": "latest",
+        "alhamdulillah": "latest",
+        "alhasandev-calculator": "latest",
+        "alhashimi": "latest",
+        "alhs": "latest"
+    }
+}

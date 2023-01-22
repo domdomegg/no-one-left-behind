@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_atc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@atcdemo/common": "latest",
+        "@atchaikovski/b4.5.1": "latest",
+        "@atchechemuch/package-name-1": "latest",
+        "@atci/components": "latest",
+        "@atci/css": "latest",
+        "@atci/library": "latest"
+    }
+}

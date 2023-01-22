@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-reav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reavas": "latest",
+        "reavct-native-ios-api": "latest",
+        "reave": "latest",
+        "reaver": "latest",
+        "reaver-react-cli": "latest",
+        "reaver.db": "latest",
+        "reaves": "latest",
+        "reavetard": "latest",
+        "reaviz": "latest",
+        "reavt": "latest",
+        "reavue": "latest"
+    }
+}

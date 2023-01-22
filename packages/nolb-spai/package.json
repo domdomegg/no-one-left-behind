@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-spai",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "spai": "latest",
+        "spaier-ng-recaptcha": "latest",
+        "spain": "latest",
+        "spain-holiday-vue-hotel-datepicker": "latest",
+        "spain-id": "latest",
+        "spain-phone": "latest",
+        "spainter": "latest"
+    }
+}

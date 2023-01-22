@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-vue-av",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-available-times": "latest",
+        "vue-avalanche": "latest",
+        "vue-avataaar": "latest",
+        "vue-avataaars": "latest",
+        "vue-avatar": "latest",
+        "vue-avatar-3": "latest",
+        "vue-avatar-box": "latest",
+        "vue-avatar-component": "latest",
+        "vue-avatar-crop": "latest",
+        "vue-avatar-crop-wechat": "latest",
+        "vue-avatar-cropper": "latest",
+        "vue-avatar-editor": "latest",
+        "vue-avatar-editor-handle": "latest",
+        "vue-avatar-editor-improved": "latest",
+        "vue-avatar-editor-improved-updated": "latest",
+        "vue-avatar-generator": "latest",
+        "vue-avatar-or-initials": "latest",
+        "vue-avatar-sdh": "latest",
+        "vue-avatar-upload": "latest",
+        "vue-avatar-upload2": "latest",
+        "vue-avatars": "latest",
+        "vue-avatars2": "latest",
+        "vue-avator-cropper": "latest"
+    }
+}

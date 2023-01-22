@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-keo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "keo": "latest",
+        "keobee-ui": "latest",
+        "keoghs.whatsnew": "latest",
+        "keohts-tests": "latest",
+        "keoken-sdk": "latest",
+        "keoken-wallet-client": "latest",
+        "keoken-wallet-service": "latest",
+        "keokilee": "latest",
+        "keoldep": "latest",
+        "keolio-semantic-ui": "latest",
+        "keolis-cache": "latest",
+        "keolis-services": "latest",
+        "keon": "latest",
+        "keoshtwyzpqdifkj": "latest",
+        "keoto": "latest"
+    }
+}

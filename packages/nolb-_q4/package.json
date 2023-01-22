@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_q4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@q4/eslint-config-q4-node": "latest",
+        "@q42/dutch-to-haags-translator": "latest",
+        "@q42/floating-focus-a11y": "latest",
+        "@q42/gpu-power-estimation": "latest",
+        "@q42/lib-jitsi-meet": "latest",
+        "@q42/q-cms-components": "latest",
+        "@q42/q42games-shared-code": "latest",
+        "@q42/tslint-react-native-a11y": "latest",
+        "@q42philips/hue-color-converter": "latest",
+        "@q42philips/statsd-daemon": "latest",
+        "@q4pradeep/ctcjs": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-ng2-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ng2-walmoo-nfc": "latest",
+        "ng2-weather-icons": "latest",
+        "ng2-web-components": "latest",
+        "ng2-web-cryptography": "latest",
+        "ng2-web-speech-api": "latest",
+        "ng2-webapi": "latest",
+        "ng2-webflow-builder": "latest",
+        "ng2-webpack": "latest",
+        "ng2-webpack-boiler": "latest",
+        "ng2-webpack-config": "latest",
+        "ng2-webpack-minimal": "latest",
+        "ng2-webpack-scripts": "latest",
+        "ng2-websocket": "latest",
+        "ng2-webstorage": "latest",
+        "ng2-weui": "latest",
+        "ng2-wf-timetable": "latest",
+        "ng2-widgets": "latest",
+        "ng2-window-manager": "latest",
+        "ng2-window-view": "latest",
+        "ng2-wizard": "latest",
+        "ng2-wjh-tree-view": "latest",
+        "ng2-wk-date-picker": "latest",
+        "ng2-word-cycler": "latest",
+        "ng2-wordpress": "latest",
+        "ng2-workflow-builder": "latest",
+        "ng2-workflows": "latest",
+        "ng2-wp-api": "latest"
+    }
+}

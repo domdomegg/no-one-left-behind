@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-react-cov",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-covenant": "latest",
+        "react-cover": "latest",
+        "react-cover-carousel": "latest",
+        "react-cover-page": "latest",
+        "react-coverfl0w": "latest",
+        "react-coverflow": "latest",
+        "react-coverflow-ac": "latest",
+        "react-coverflow-cold": "latest",
+        "react-coverflow-isomorphic": "latest",
+        "react-coverflow-mod": "latest",
+        "react-coverflow-myjobglasses": "latest",
+        "react-coverflow-themillhousegroup": "latest",
+        "react-coverflow2": "latest",
+        "react-covernav-pickupbiz": "latest",
+        "react-covfefe": "latest",
+        "react-covid-hooks": "latest"
+    }
+}

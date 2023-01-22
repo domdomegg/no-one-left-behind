@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-react-native-pv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-pvt-acpanalytics": "latest",
+        "react-native-pvt-acpcore": "latest",
+        "react-native-pvt-biometrics": "latest",
+        "react-native-pvt-geolocation": "latest",
+        "react-native-pvt-image-picker": "latest",
+        "react-native-pvt-input-modifier": "latest",
+        "react-native-pvt-jail-monkey": "latest",
+        "react-native-pvt-network-info": "latest",
+        "react-native-pvt-obfuscating-transformer": "latest",
+        "react-native-pvt-pdf": "latest",
+        "react-native-pvt-qrcode-scanner": "latest",
+        "react-native-pvt-qrcode-svg": "latest",
+        "react-native-pvt-rename": "latest",
+        "react-native-pvt-rsa-native": "latest",
+        "react-native-pvt-screen-brightness": "latest",
+        "react-native-pvt-secure-key-store": "latest",
+        "react-native-pvt-share": "latest",
+        "react-native-pvt-ssl-pinning": "latest",
+        "react-native-pvt-user-inactivity": "latest"
+    }
+}

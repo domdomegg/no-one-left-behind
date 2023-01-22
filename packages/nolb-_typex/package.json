@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_typex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@typex-framework/core": "latest",
+        "@typexs/auth": "latest",
+        "@typexs/gitlab": "latest",
+        "@typexs/ng-auth": "latest",
+        "@typexs/notification": "latest",
+        "@typexs/odata": "latest",
+        "@typexs/pipelines": "latest",
+        "@typexs/scrapper": "latest",
+        "@typexs/search": "latest",
+        "@typexs/search-ng": "latest"
+    }
+}

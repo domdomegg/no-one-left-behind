@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-mysm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mysm": "latest",
+        "mysmallbutton": "latest",
+        "mysmalltools": "latest",
+        "mysmartfren-cli": "latest",
+        "mysmartlight": "latest",
+        "mysmodule": "latest",
+        "mysmx-getage": "latest",
+        "mysmys-ng-ac": "latest"
+    }
+}

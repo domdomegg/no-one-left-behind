@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_sn0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sn0rk/node-red-botbuilder-clone": "latest",
+        "@sn0wbit/use-sound": "latest",
+        "@sn0wcrack/deviant": "latest",
+        "@sn0wye/eslint-config": "latest"
+    }
+}

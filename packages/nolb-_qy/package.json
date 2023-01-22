@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_qy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@qy-cli-dev/core": "latest",
+        "@qy-cli-dev/log": "latest",
+        "@qy-cli-dev/utils": "latest",
+        "@qyang/yangui": "latest",
+        "@qybercom/vanilla-pack": "latest",
+        "@qyhever/reset.css": "latest",
+        "@qym790838213/create-minipage": "latest",
+        "@qymh/q-select": "latest",
+        "@qymh/vue-q-select": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_staa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@staaky/fresco": "latest",
+        "@staaky/strip": "latest",
+        "@staaky/tipped": "latest",
+        "@staaky/voila": "latest",
+        "@staart/api": "latest",
+        "@staart/config": "latest",
+        "@staart/css": "latest",
+        "@staart/database": "latest",
+        "@staart/disposable-email": "latest",
+        "@staart/elasticsearch": "latest",
+        "@staart/errors": "latest",
+        "@staart/example": "latest",
+        "@staart/mail": "latest",
+        "@staart/manager": "latest",
+        "@staart/messages": "latest",
+        "@staart/mustache-markdown": "latest",
+        "@staart/native": "latest",
+        "@staart/payments": "latest",
+        "@staart/redis": "latest",
+        "@staart/scripts": "latest",
+        "@staart/server": "latest",
+        "@staart/site": "latest",
+        "@staart/text": "latest",
+        "@staart/ui": "latest",
+        "@staart/validate": "latest",
+        "@staat/core": "latest",
+        "@staat/react": "latest"
+    }
+}

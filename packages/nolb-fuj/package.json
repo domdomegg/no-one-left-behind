@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-fuj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fuj": "latest",
+        "fuji": "latest",
+        "fuji-css": "latest",
+        "fuji-testnet-logo": "latest",
+        "fujian": "latest",
+        "fujian-test-upper": "latest",
+        "fujian1": "latest",
+        "fujianliangcli": "latest",
+        "fujianniubi": "latest",
+        "fujianui": "latest",
+        "fujiaxu-random-function": "latest",
+        "fujicoinjs-lib": "latest",
+        "fujicoinjs-message": "latest",
+        "fujingya_testone": "latest",
+        "fujinting": "latest",
+        "fujisaki-ringsig-wasm": "latest",
+        "fujisan": "latest",
+        "fujiswap-sdk": "latest",
+        "fujitsu-components-pack": "latest",
+        "fujiwara": "latest",
+        "fujj-ui": "latest",
+        "fujs": "latest",
+        "fujunweitestnpm": "latest"
+    }
+}

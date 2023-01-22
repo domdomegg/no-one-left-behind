@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_shf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shf0811/ptree": "latest",
+        "@shferreira/brazejs": "latest",
+        "@shferreira/eslint-config-mailbutler": "latest",
+        "@shferreira/htm": "latest",
+        "@shferreira/posthtml-inline-assets": "latest",
+        "@shferreira/preactz": "latest",
+        "@shframe/shframenode": "latest"
+    }
+}

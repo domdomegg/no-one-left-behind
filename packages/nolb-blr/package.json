@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-blr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "blr-form-validator": "latest",
+        "blrocker": "latest",
+        "blrpc": "latest",
+        "blrt": "latest",
+        "blrt2": "latest",
+        "blrt3": "latest",
+        "blru": "latest",
+        "blry-ui": "latest"
+    }
+}

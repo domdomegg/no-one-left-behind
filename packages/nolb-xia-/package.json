@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-xia-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "xia-2013": "latest",
+        "xia-b-ui": "latest",
+        "xia-form": "latest",
+        "xia-hou-20171016": "latest",
+        "xia-lib": "latest",
+        "xia-npm-test": "latest",
+        "xia-package": "latest",
+        "xia-q-f": "latest",
+        "xia-rand-function": "latest",
+        "xia-react-npm-boilerplate": "latest",
+        "xia-ui": "latest",
+        "xia-wawa-ui": "latest",
+        "xia-websocket": "latest"
+    }
+}

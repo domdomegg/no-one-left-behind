@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-vite-d",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vite-define-envs-plugin": "latest",
+        "vite-demo": "latest",
+        "vite-demo-mode-lib-vite": "latest",
+        "vite-demo-o": "latest",
+        "vite-demo-pyz": "latest",
+        "vite-deploy-plugin": "latest",
+        "vite-dev-demo-sheldon": "latest",
+        "vite-dev-rpc": "latest",
+        "vite-dir": "latest",
+        "vite-dnd": "latest",
+        "vite-doc-creator": "latest",
+        "vite-doc-generation": "latest",
+        "vite-dom": "latest",
+        "vite-dotnet": "latest",
+        "vite-dts": "latest",
+        "vite-dynamic-svg-icon": "latest",
+        "vite-dynamic-theme": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_zem",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zemachkin/efbiz-contracts": "latest",
+        "@zemax/mf-js": "latest",
+        "@zemax/mf-ui": "latest",
+        "@zemax/sass-svg": "latest",
+        "@zemel/hello-wasm": "latest",
+        "@zemit/workspace": "latest",
+        "@zemix/common": "latest",
+        "@zemke/http-mock": "latest",
+        "@zemke/tagbox": "latest",
+        "@zemla4ok/cli": "latest",
+        "@zemla4ok/cwp-22-1": "latest",
+        "@zemnasoft/vue-ui-tailwind": "latest",
+        "@zemnmez/.": "latest",
+        "@zemnmez/bio": "latest",
+        "@zemnmez/graphql": "latest",
+        "@zemnmez/macros": "latest",
+        "@zemnmez/media.macro": "latest",
+        "@zemnmez/moo": "latest",
+        "@zemnmez/nearley": "latest",
+        "@zemnmez/remark-mermaid": "latest",
+        "@zemo-ui/web": "latest",
+        "@zemopay/zemopayui": "latest",
+        "@zemse/ethers-multicall": "latest",
+        "@zemse/solidity-flattener": "latest"
+    }
+}

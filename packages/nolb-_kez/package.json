@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_kez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kezekai/hello-wasm": "latest",
+        "@kezh/my-custom-js-converter": "latest",
+        "@kezhiyu/qrn-remax-unir": "latest",
+        "@keziahmoselle/webhook": "latest",
+        "@kezios/forest-express-decorator": "latest",
+        "@kezoponk/iphonepasscode": "latest",
+        "@kezoponk/scroller": "latest",
+        "@kezziny/node-red-contrib-z2m-connector": "latest",
+        "@kezziny/node-red-flow": "latest",
+        "@kezziny/node-red-yeelight": "latest",
+        "@kezziny/node-red-z2m-connector": "latest",
+        "@kezziny/reflection": "latest",
+        "@kezziny/smart-hut": "latest",
+        "@kezziny/smart-hut-extension-homekit": "latest",
+        "@kezziny/smart-hut-extension-influx": "latest",
+        "@kezziny/smart-hut-extension-mqtt": "latest",
+        "@kezziny/smart-hut-extension-tag": "latest",
+        "@kezzouraphael/hamilton-6-holidates-kezzouraphael": "latest"
+    }
+}

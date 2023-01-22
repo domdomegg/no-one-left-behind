@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_ece",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ecedi/api-factory": "latest",
+        "@ecedi/drupal-js-cli": "latest",
+        "@ecedi/gulp-stack": "latest",
+        "@ecedi/slick-carousel": "latest",
+        "@ecedi/webpack-stack": "latest",
+        "@eceibs-test/exam-ui": "latest",
+        "@eceibs/bce-bos-uploader-lite": "latest",
+        "@ecej-cli/command": "latest",
+        "@ecej-cli/common": "latest",
+        "@ecej-cli/exec": "latest",
+        "@ecej-cli/get-npm-info": "latest",
+        "@ecej-cli/init": "latest",
+        "@ecej-cli/log": "latest",
+        "@ecej-cli/package": "latest",
+        "@ecej-cli/start": "latest",
+        "@ecej-cli/utils": "latest",
+        "@ecej-cli/vue-cli-template2.0": "latest",
+        "@ecej-cli/vue-element-admin-coutom": "latest",
+        "@ecelis/zip-crab": "latest",
+        "@ecency/render-helper": "latest",
+        "@ecency/render-helper-amp": "latest",
+        "@ecentrics/breeze": "latest",
+        "@ecentrics/drizzle": "latest",
+        "@ecentrics/eth-identity-provider": "latest",
+        "@ecervo/canvas": "latest",
+        "@ecervo/pdf-lib": "latest"
+    }
+}

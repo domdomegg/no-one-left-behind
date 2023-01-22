@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-t5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "t5": "latest",
+        "t5-bi-lsd-tool": "latest",
+        "t5-cli": "latest",
+        "t5-utils": "latest",
+        "t5.admin": "latest",
+        "t53npm-amir": "latest",
+        "t5y": "latest"
+    }
+}

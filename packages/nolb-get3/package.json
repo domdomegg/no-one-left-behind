@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-get3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "get3d-model-viewer": "latest",
+        "get3d-three-128": "latest",
+        "get3d-viewer-miniprogram": "latest",
+        "get3monthbefornpm": "latest"
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-juk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "juk": "latest",
+        "juk3-testapp": "latest",
+        "jukben": "latest",
+        "juke": "latest",
+        "juke-build": "latest",
+        "juke-restainer": "latest",
+        "jukeberry-nodeclient": "latest",
+        "jukebox": "latest",
+        "jukegen": "latest",
+        "jukepi": "latest",
+        "jukes-cantor": "latest",
+        "juki-svelte-ui": "latest",
+        "juki-ui": "latest",
+        "jukin-footer": "latest",
+        "juko": "latest",
+        "juksy-css-reset": "latest",
+        "jukta-twin": "latest",
+        "jukta-twin-cms": "latest",
+        "jukubox": "latest",
+        "jukwaa-core": "latest",
+        "jukwaa-shared-components": "latest",
+        "jukwaa-ui": "latest"
+    }
+}

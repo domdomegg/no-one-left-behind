@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-mys",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mys": "latest",
+        "@zalastax/nolb-mysq": "latest",
+        "@zalastax/nolb-mys-": "latest",
+        "@zalastax/nolb-mysa": "latest",
+        "@zalastax/nolb-mysb": "latest",
+        "@zalastax/nolb-mysc": "latest",
+        "@zalastax/nolb-mysd": "latest",
+        "@zalastax/nolb-myse": "latest",
+        "@zalastax/nolb-mysf": "latest",
+        "@zalastax/nolb-mysh": "latest",
+        "@zalastax/nolb-mysi": "latest",
+        "@zalastax/nolb-mysk": "latest",
+        "@zalastax/nolb-mysl": "latest",
+        "@zalastax/nolb-mysm": "latest",
+        "@zalastax/nolb-mysn": "latest",
+        "@zalastax/nolb-myso": "latest",
+        "@zalastax/nolb-mysp": "latest",
+        "@zalastax/nolb-mysr": "latest",
+        "@zalastax/nolb-myss": "latest",
+        "@zalastax/nolb-myst": "latest",
+        "@zalastax/nolb-mysu": "latest",
+        "@zalastax/nolb-mysv": "latest",
+        "@zalastax/nolb-mysw": "latest",
+        "@zalastax/nolb-mysy": "latest"
+    }
+}

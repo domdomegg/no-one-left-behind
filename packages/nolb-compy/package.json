@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-compy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "compy": "latest",
+        "compy-payment": "latest",
+        "compy-payments": "latest",
+        "compyle": "latest",
+        "compylr": "latest"
+    }
+}

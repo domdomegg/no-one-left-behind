@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_reactf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reactfetchtree/rft": "latest",
+        "@reactflow/background": "latest",
+        "@reactflow/controls": "latest",
+        "@reactflow/core": "latest",
+        "@reactflow/minimap": "latest",
+        "@reactflow/node-resizer": "latest",
+        "@reactflow/node-toolbar": "latest"
+    }
+}

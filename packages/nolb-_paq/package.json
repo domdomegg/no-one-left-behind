@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_paq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@paqmind/config": "latest",
+        "@paqmind/ramda": "latest",
+        "@paqmind/ramdax": "latest",
+        "@paqtcom/recycleclub-calculator": "latest",
+        "@paquette.io/style": "latest",
+        "@paquette.io/ui": "latest",
+        "@paquette.io/zinc": "latest",
+        "@paquette/react-components": "latest",
+        "@paquette/ui": "latest",
+        "@paquette/ui-primatives": "latest",
+        "@paquette/ui-react": "latest",
+        "@paquette/ui-react-native": "latest",
+        "@paquette/ui-vue": "latest",
+        "@paquitosoft/fetcher": "latest",
+        "@paquitosoft/netflix-piral": "latest"
+    }
+}

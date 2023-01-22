@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_fluentui-emoji-mx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/fluentui-emoji-mx-claus-color-dark": "latest",
+        "@hyper.fun/fluentui-emoji-mx-claus-color-default": "latest",
+        "@hyper.fun/fluentui-emoji-mx-claus-color-light": "latest",
+        "@hyper.fun/fluentui-emoji-mx-claus-color-medium": "latest",
+        "@hyper.fun/fluentui-emoji-mx-claus-color-medium-dark": "latest",
+        "@hyper.fun/fluentui-emoji-mx-claus-color-medium-light": "latest",
+        "@hyper.fun/fluentui-emoji-mx-claus-flat-dark": "latest",
+        "@hyper.fun/fluentui-emoji-mx-claus-flat-default": "latest",
+        "@hyper.fun/fluentui-emoji-mx-claus-flat-light": "latest",
+        "@hyper.fun/fluentui-emoji-mx-claus-flat-medium": "latest",
+        "@hyper.fun/fluentui-emoji-mx-claus-flat-medium-dark": "latest",
+        "@hyper.fun/fluentui-emoji-mx-claus-flat-medium-light": "latest",
+        "@hyper.fun/fluentui-emoji-mx-claus-high-contrast-default": "latest"
+    }
+}

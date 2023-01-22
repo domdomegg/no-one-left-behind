@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-ett",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ett": "latest",
+        "ett-api-wrapper": "latest",
+        "ett-icons": "latest",
+        "etta-jayden": "latest",
+        "ette": "latest",
+        "ette-framework": "latest",
+        "ette-proxy": "latest",
+        "ette-router": "latest",
+        "etter": "latest",
+        "ettestnpmpublishpart2version2": "latest",
+        "ettestpublishnpmversion2": "latest",
+        "ettg": "latest",
+        "ettg-tagline-generator": "latest",
+        "ettl-local-io": "latest",
+        "etto": "latest",
+        "ettoken": "latest",
+        "ettore": "latest",
+        "ettr": "latest",
+        "ettv-api": "latest",
+        "etty": "latest",
+        "etty-mockup": "latest",
+        "etty-webpack-plugin": "latest"
+    }
+}

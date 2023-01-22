@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_arh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@arham09/jakarta-today": "latest",
+        "@arham09/password-gen": "latest",
+        "@arhamill/cortex": "latest",
+        "@arhanchoudhury/nibbl-sdk-test": "latest",
+        "@arhea/aws-cdk-eks-cluster-autoscaler": "latest",
+        "@arhea/aws-cdk-eks-dashboard": "latest",
+        "@arhea/aws-userdata-handlebars": "latest",
+        "@arheio/iso-date-utils": "latest",
+        "@arheio/lambda-api-gateway": "latest",
+        "@arheio/test-scoped-package": "latest",
+        "@arhiptsev/dependency-injection": "latest",
+        "@arhn99/ngx-date-picker": "latest"
+    }
+}

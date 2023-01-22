@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_atw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@atweel/diagnostics": "latest",
+        "@atweel/diagnostics-console": "latest",
+        "@atweel/instrumentation": "latest",
+        "@atweel/intershell": "latest",
+        "@atweel/primitives": "latest",
+        "@atweel/runtime": "latest",
+        "@atweel/runtime-containers": "latest",
+        "@atweel/runtime-diagnostics": "latest",
+        "@atweel/runtime-events": "latest",
+        "@atwiss1/aj-week1-word-counter": "latest",
+        "@atwoz/k": "latest"
+    }
+}

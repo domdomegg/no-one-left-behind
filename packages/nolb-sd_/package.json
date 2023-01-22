@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-sd_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sd.ino": "latest",
+        "sd.js": "latest",
+        "sd.react.javascript": "latest",
+        "sd_check_ac": "latest",
+        "sd_check_auth": "latest",
+        "sd_data_validation": "latest",
+        "sd_dataparser_middleware": "latest",
+        "sd_demo_abc": "latest",
+        "sd_ma": "latest",
+        "sd_my_router": "latest",
+        "sd_my_server": "latest",
+        "sd_notify_promise": "latest",
+        "sd_public_prod_api": "latest",
+        "sd_user_manager": "latest",
+        "sd_ve_pdf": "latest"
+    }
+}

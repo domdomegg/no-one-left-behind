@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-wanj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wanjedi-efinswap-sdk": "latest",
+        "wanjs": "latest",
+        "wanjs-account": "latest",
+        "wanjs-signer": "latest",
+        "wanjs-wns": "latest",
+        "wanjuche20181126": "latest"
+    }
+}

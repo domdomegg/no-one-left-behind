@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_fuy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fuyangzhijian/vuecityselect": "latest",
+        "@fuyoo/cli": "latest",
+        "@fuyoo/real_ip": "latest",
+        "@fuyoo/vite-plugin-inject-wasm": "latest",
+        "@fuyoo/vue-cut-img": "latest",
+        "@fuyoo/wasm-hasher": "latest",
+        "@fuyoo/wasm-md5": "latest",
+        "@fuyuehui/node-npm-testapi": "latest",
+        "@fuyun791/demo-one": "latest",
+        "@fuyunhou/npm-test": "latest"
+    }
+}

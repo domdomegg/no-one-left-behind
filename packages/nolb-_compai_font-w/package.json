@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_compai_font-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@compai/font-waiting-for-the-sunrise": "latest",
+        "@compai/font-wallpoet": "latest",
+        "@compai/font-walter-turncoat": "latest",
+        "@compai/font-warnes": "latest",
+        "@compai/font-water-brush": "latest",
+        "@compai/font-waterfall": "latest",
+        "@compai/font-wellfleet": "latest",
+        "@compai/font-wendy-one": "latest",
+        "@compai/font-whisper": "latest",
+        "@compai/font-wind-song": "latest",
+        "@compai/font-wire-one": "latest",
+        "@compai/font-work-sans": "latest"
+    }
+}

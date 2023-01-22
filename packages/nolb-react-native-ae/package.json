@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-react-native-ae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-ae-button": "latest",
+        "react-native-aegis": "latest",
+        "react-native-aep-mobile-core": "latest",
+        "react-native-aep-user-profile": "latest",
+        "react-native-aerogear-ups": "latest",
+        "react-native-aes": "latest",
+        "react-native-aes-cipher": "latest",
+        "react-native-aes-crypto": "latest",
+        "react-native-aes-crypto-muevo": "latest",
+        "react-native-aes-ecb": "latest",
+        "react-native-aes-encryption": "latest",
+        "react-native-aes-encryption-fix": "latest",
+        "react-native-aes-gcm-crypto": "latest",
+        "react-native-aes-gcm-modified": "latest",
+        "react-native-aes-kit": "latest",
+        "react-native-aes-pack": "latest",
+        "react-native-aes-tflite": "latest",
+        "react-native-aes-util": "latest",
+        "react-native-aesgcm": "latest"
+    }
+}

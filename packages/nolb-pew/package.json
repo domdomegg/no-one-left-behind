@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-pew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pew": "latest",
+        "pew-cli": "latest",
+        "pew-pew-pew": "latest",
+        "pew-transport": "latest",
+        "pewd": "latest",
+        "pewd-npm": "latest",
+        "pewee-cli": "latest",
+        "pewee-installer": "latest",
+        "pewjs": "latest",
+        "pewl": "latest",
+        "pewpew": "latest",
+        "pewpew-bitcoin": "latest",
+        "pewter": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-aty",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aty": "latest",
+        "aty-demo": "latest",
+        "aty-element-ui": "latest",
+        "aty-photo-sphere-viewer": "latest",
+        "aty-react-router-animated": "latest",
+        "aty-ui-lib": "latest",
+        "aty-utils": "latest",
+        "atyn-webpack-config-builder": "latest",
+        "atyourcommand": "latest",
+        "atype": "latest",
+        "atypedjson": "latest",
+        "atypical": "latest",
+        "atypings": "latest",
+        "atypo": "latest",
+        "atypograf": "latest",
+        "atypon-fe-training-helper": "latest",
+        "atyun-ckeditor5-inline": "latest",
+        "atyun-plugin": "latest",
+        "atyun_blade": "latest"
+    }
+}

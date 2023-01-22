@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_elt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@elt_common/egg_typeorm": "latest",
+        "@eltacitos/tiny-logger": "latest",
+        "@eltacitos/tiny-vue-components": "latest",
+        "@eltele/common": "latest",
+        "@eltele/forms": "latest",
+        "@eltele/mui": "latest",
+        "@eltele/schemaform-hooks": "latest",
+        "@eltele/schemaform-mantine": "latest",
+        "@elticketing/common": "latest",
+        "@eltickets/common": "latest",
+        "@elton-sgtickets/common": "latest",
+        "@elton.bfw/cloud": "latest",
+        "@elton_lai/chartmodule": "latest",
+        "@elton_lai/npm.test": "latest",
+        "@eltongarbin/my-tokens": "latest",
+        "@eltongarbin/ocean-components": "latest",
+        "@eltongarbin/tiny": "latest",
+        "@eltonjosesouza/strapi-provider-upload-google-cloud-storage": "latest",
+        "@eltranseunteurbano/platzimediaplayer": "latest",
+        "@eltumakov/common": "latest"
+    }
+}

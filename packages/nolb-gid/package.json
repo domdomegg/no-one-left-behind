@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-gid",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gid": "latest",
+        "gid-by-name": "latest",
+        "gidb-client": "latest",
+        "gidc-dialog": "latest",
+        "gidc-mobile": "latest",
+        "gidc-plugin": "latest",
+        "gidc-test": "latest",
+        "gidc-touch-dialog": "latest",
+        "gidc-tttt": "latest",
+        "gidc-vscode-sdk": "latest",
+        "giddy": "latest",
+        "giddyup": "latest",
+        "gide": "latest",
+        "gideon": "latest",
+        "gideon-api": "latest",
+        "gideon-react-carousel": "latest",
+        "gideon-readability": "latest",
+        "gideon-rssfinder": "latest",
+        "gideon-test-module": "latest",
+        "gideonidowu-frame-print": "latest",
+        "gideonthomas_mdlinkparser": "latest",
+        "gideros": "latest",
+        "gideros-broom": "latest",
+        "gidget": "latest",
+        "gidle": "latest",
+        "gidox-expo-ds": "latest",
+        "gidox-expo-ds-v2": "latest",
+        "gidra": "latest"
+    }
+}

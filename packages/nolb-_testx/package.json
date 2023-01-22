@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_testx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@testx/cli": "latest",
+        "@testx/context-resolver": "latest",
+        "@testx/eval": "latest",
+        "@testx/keywords-check-title": "latest",
+        "@testx/keywords-postgres": "latest",
+        "@testx/logger-default": "latest",
+        "@testx/objects-standard": "latest",
+        "@testx/parser-yaml": "latest",
+        "@testx/reporters-jasmine": "latest",
+        "@testx/with": "latest",
+        "@testxcx/cli-plugin-eslint": "latest",
+        "@testxcx/cli-plugin-mp": "latest",
+        "@testxcx/cli-plugin-typescript": "latest",
+        "@testxcx/cli-plugin-web": "latest",
+        "@testxcx/cli-service": "latest"
+    }
+}

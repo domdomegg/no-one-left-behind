@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_kio",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kion/prs": "latest",
+        "@kionell/osu-api": "latest",
+        "@kionell/osu-pp-calculator": "latest",
+        "@kioshiokamoto/react-component-library": "latest",
+        "@kiosk-dev/embeds": "latest",
+        "@kiosk-dev/kiosk-node": "latest",
+        "@kiosk/store": "latest",
+        "@kiosked/cynical-bunny": "latest",
+        "@kiosked/demo-creatives": "latest",
+        "@kiosked/guire": "latest",
+        "@kiosked/object-stream": "latest",
+        "@kiosked/ulid": "latest",
+        "@kiot-communications/emqtt_prometheus_exporter": "latest",
+        "@kiot-communications/oauth2-server": "latest",
+        "@kiot-innovations/ng-boring-avatars": "latest",
+        "@kiot-innovations/ng-boring-avatars-custom": "latest"
+    }
+}

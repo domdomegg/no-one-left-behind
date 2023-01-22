@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-babb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babbage-bsv": "latest",
+        "babbage-kvstore": "latest",
+        "babbage-rpuzzle": "latest",
+        "babbage.ui": "latest",
+        "babbel": "latest",
+        "babbhai-frame-print": "latest",
+        "babble": "latest",
+        "babble-buds": "latest",
+        "babble-lib": "latest",
+        "babble.js": "latest",
+        "babblebots": "latest",
+        "babbler": "latest",
+        "babbler-client": "latest",
+        "babbler-erlingyiqi-erlingerling": "latest",
+        "babbler-erlingyisi-erlingyiwulingsan": "latest",
+        "babbler-erlingyiwulingsan-yier": "latest",
+        "babbler-js": "latest",
+        "babbler-js-material-ui": "latest",
+        "babbler-script-js": "latest",
+        "babbler-script-react": "latest",
+        "babbling": "latest",
+        "babby": "latest",
+        "babbybel": "latest",
+        "babbyfunctions": "latest"
+    }
+}

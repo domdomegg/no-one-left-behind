@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-corc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "corcentric-api-core": "latest",
+        "corcentric-web-core": "latest",
+        "corcer": "latest",
+        "corci-client": "latest",
+        "corcor": "latest",
+        "corcoran-bootstrap-4": "latest",
+        "corcoran-icons": "latest",
+        "corcortestui": "latest",
+        "corcortestui2": "latest",
+        "corcovado": "latest"
+    }
+}

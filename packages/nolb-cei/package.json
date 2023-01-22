@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-cei",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cei": "latest",
+        "cei-crawler": "latest",
+        "cei-wrapper": "latest",
+        "ceiba-sdk": "latest",
+        "ceibaweb-wasm-tutorial": "latest",
+        "ceibo": "latest",
+        "ceicom-cli": "latest",
+        "ceicom_boilerplate": "latest",
+        "ceicons": "latest",
+        "ceidg-checker": "latest",
+        "ceidg-gus-checker": "latest",
+        "ceil": "latest",
+        "ceiligh": "latest",
+        "ceiling": "latest",
+        "ceiling-couchdb": "latest",
+        "ceiling-mongodb": "latest",
+        "ceiling-plugin-couchdb": "latest",
+        "ceiling-plugin-mongodb": "latest",
+        "ceillusion": "latest",
+        "ceils-logger": "latest",
+        "ceiocs": "latest",
+        "ceit93bot-cli": "latest"
+    }
+}

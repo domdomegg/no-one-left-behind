@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_the7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@the7keyy/test": "latest",
+        "@the7keyy/webrtc-handler": "latest",
+        "@the7keyy/webrtc-hooks": "latest"
+    }
+}

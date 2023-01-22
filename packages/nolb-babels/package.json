@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-babels",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babels-repl": "latest",
+        "babelsbergjs-cassowary": "latest",
+        "babelsbergjs-core": "latest",
+        "babelsbergjs-examples": "latest",
+        "babelsbergjs-require": "latest",
+        "babelsbergjs-srctransform": "latest",
+        "babelse": "latest",
+        "babelserver": "latest",
+        "babelsheet": "latest",
+        "babelsheet-stream": "latest",
+        "babelsheet2": "latest",
+        "babelsheet2-json-writer": "latest",
+        "babelsheet2-reader": "latest",
+        "babelsolo-random-messages": "latest",
+        "babelspolyfil": "latest"
+    }
+}

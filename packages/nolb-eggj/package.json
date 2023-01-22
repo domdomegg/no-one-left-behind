@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-eggj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eggjs": "latest",
+        "eggjs-dingtalk-robot": "latest",
+        "eggjs-hashids": "latest",
+        "eggjs-msg-flash": "latest",
+        "eggjs-nacos": "latest",
+        "eggjs-validate": "latest"
+    }
+}

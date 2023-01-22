@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_byy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@byyuurin/eslint-config": "latest",
+        "@byyuurin/eslint-config-basic": "latest",
+        "@byyuurin/eslint-config-prettier": "latest",
+        "@byyuurin/eslint-config-typescript": "latest",
+        "@byyuurin/eslint-config-vue": "latest"
+    }
+}

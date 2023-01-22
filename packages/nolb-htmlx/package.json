@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-htmlx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htmlx": "latest",
+        "htmlx-parser-svast": "latest",
+        "htmlxify": "latest",
+        "htmlxify-example": "latest"
+    }
+}

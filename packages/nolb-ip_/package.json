@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-ip_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ip.dll": "latest",
+        "ip.js": "latest",
+        "ip.me": "latest",
+        "ip.min.js": "latest",
+        "ip.path.403": "latest",
+        "ip_address_info": "latest",
+        "ip_details": "latest",
+        "ip_email": "latest",
+        "ip_protocol_numbers": "latest",
+        "ip_serializer": "latest",
+        "ip_serielizer": "latest",
+        "ip_sniffer": "latest",
+        "ip_test_ian": "latest",
+        "ip_to_cidr": "latest",
+        "ip_whitelisting_middleware": "latest"
+    }
+}

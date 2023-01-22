@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-gex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gex": "latest",
+        "gex-js-cli": "latest",
+        "gex-ui": "latest",
+        "gexf": "latest",
+        "gexf-writer": "latest",
+        "gexingyu": "latest",
+        "gexode": "latest",
+        "gexp-private": "latest",
+        "gextend": "latest",
+        "gexue_test_publish": "latest"
+    }
+}

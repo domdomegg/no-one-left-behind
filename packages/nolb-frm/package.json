@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-frm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "frm": "latest",
+        "frm-diagram-vue": "latest",
+        "frm-event-emitter": "latest",
+        "frm-print": "latest",
+        "frm-struct": "latest",
+        "frm-toolkit": "latest",
+        "frm-type": "latest",
+        "frm-work": "latest",
+        "frm.js": "latest",
+        "frmidi": "latest",
+        "frmlx": "latest",
+        "frmmodule": "latest",
+        "frmr": "latest",
+        "frms": "latest",
+        "frms-gantt": "latest",
+        "frms-gantt-sample1": "latest",
+        "frmsc-control-npmtest": "latest",
+        "frmsc-controls": "latest",
+        "frmscgrid": "latest",
+        "frmstest": "latest",
+        "frmt": "latest",
+        "frmtst": "latest",
+        "frmtstring": "latest",
+        "frmw": "latest",
+        "frmwrk": "latest",
+        "frmx": "latest"
+    }
+}

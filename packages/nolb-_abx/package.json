@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_abx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@abx/js-kinesis-base": "latest",
+        "@abx/js-kinesis-sdk": "latest",
+        "@abx/multicoin-address-validator": "latest",
+        "@abx/swagger-ui": "latest"
+    }
+}

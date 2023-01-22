@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-zeo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zeo": "latest",
+        "zeo-blockchain": "latest",
+        "zeo-cloud": "latest",
+        "zeo-example": "latest",
+        "zeo-form-autocomplete": "latest",
+        "zeo-header": "latest",
+        "zeo-logger": "latest",
+        "zeo-maker": "latest",
+        "zeo-model": "latest",
+        "zeo-name": "latest",
+        "zeo-render": "latest",
+        "zeo-term": "latest",
+        "zeo-test": "latest",
+        "zeo-ui": "latest",
+        "zeo-windows": "latest",
+        "zeode": "latest",
+        "zeolite": "latest",
+        "zeolitecore": "latest",
+        "zeon": "latest",
+        "zeon-cli": "latest",
+        "zeon-front-matter": "latest",
+        "zeon-ms-05": "latest",
+        "zeon-server": "latest",
+        "zeort-ui": "latest",
+        "zeos": "latest"
+    }
+}

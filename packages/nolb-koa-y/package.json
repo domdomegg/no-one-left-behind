@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-koa-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "koa-yar": "latest",
+        "koa-yenoro": "latest",
+        "koa-yh-router": "latest",
+        "koa-yield-breakpoint": "latest",
+        "koa-yield-breakpoint-mongodb": "latest",
+        "koa-yog-log": "latest",
+        "koa-yup-error": "latest",
+        "koa-yup-validator": "latest"
+    }
+}

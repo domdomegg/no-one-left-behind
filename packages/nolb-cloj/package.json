@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-cloj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clojars-client": "latest",
+        "clojarse-js": "latest",
+        "clojjs": "latest",
+        "clojure": "latest",
+        "clojure-cli": "latest",
+        "clojure-cond-js": "latest",
+        "clojure-lite": "latest",
+        "clojure-mode": "latest",
+        "clojure-quiz": "latest",
+        "clojure-testing-number-two": "latest",
+        "clojure-thread": "latest",
+        "clojure-thread-async": "latest",
+        "clojurescript": "latest",
+        "clojurescript-compiler": "latest",
+        "clojurescript-nodejs": "latest"
+    }
+}

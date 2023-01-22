@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_phoenix-plugin-registry_o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@phoenix-plugin-registry/obd3.cfbrackets.org": "latest",
+        "@phoenix-plugin-registry/ocean-dark-theme": "latest",
+        "@phoenix-plugin-registry/oceanic-dark-theme": "latest",
+        "@phoenix-plugin-registry/ocelots_theme": "latest",
+        "@phoenix-plugin-registry/ohm79.no-distractions-advanced-toolbar-view": "latest",
+        "@phoenix-plugin-registry/ohnnyj-proxy": "latest",
+        "@phoenix-plugin-registry/ohnnyj.numbertabs": "latest",
+        "@phoenix-plugin-registry/ohnnyj.webp": "latest",
+        "@phoenix-plugin-registry/one-dark-material-theme": "latest",
+        "@phoenix-plugin-registry/ooc": "latest",
+        "@phoenix-plugin-registry/open-app": "latest",
+        "@phoenix-plugin-registry/open-in-browser": "latest",
+        "@phoenix-plugin-registry/open.recent.file": "latest",
+        "@phoenix-plugin-registry/opensourceportfolio.brackets-cut-line": "latest",
+        "@phoenix-plugin-registry/opensourceportfolio.brackets-navigation-history": "latest",
+        "@phoenix-plugin-registry/oraculum": "latest",
+        "@phoenix-plugin-registry/orchid-theme": "latest",
+        "@phoenix-plugin-registry/orlix-pro": "latest",
+        "@phoenix-plugin-registry/os-x-style-dark-theme": "latest",
+        "@phoenix-plugin-registry/os-x-style-flat-dark-theme": "latest",
+        "@phoenix-plugin-registry/os.xcode.theme": "latest",
+        "@phoenix-plugin-registry/otterpus.flotsam": "latest",
+        "@phoenix-plugin-registry/owlary-theme": "latest",
+        "@phoenix-plugin-registry/owumaro.better-coffee": "latest"
+    }
+}

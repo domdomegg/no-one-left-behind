@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-preu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "preuba_t1": "latest",
+        "preup": "latest"
+    }
+}

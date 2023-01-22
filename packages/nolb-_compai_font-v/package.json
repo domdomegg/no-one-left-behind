@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_compai_font-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@compai/font-vampiro-one": "latest",
+        "@compai/font-varela": "latest",
+        "@compai/font-varela-round": "latest",
+        "@compai/font-varta": "latest",
+        "@compai/font-vast-shadow": "latest",
+        "@compai/font-vazirmatn": "latest",
+        "@compai/font-vesper-libre": "latest",
+        "@compai/font-viaoda-libre": "latest",
+        "@compai/font-vibes": "latest",
+        "@compai/font-vibur": "latest",
+        "@compai/font-vidaloka": "latest",
+        "@compai/font-viga": "latest",
+        "@compai/font-voces": "latest",
+        "@compai/font-volkhov": "latest",
+        "@compai/font-vollkorn": "latest",
+        "@compai/font-vollkorn-sc": "latest",
+        "@compai/font-voltaire": "latest",
+        "@compai/font-vt-323": "latest",
+        "@compai/font-vujahday-script": "latest"
+    }
+}

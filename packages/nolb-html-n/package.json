@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-html-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "html-native": "latest",
+        "html-native-modal": "latest",
+        "html-nav": "latest",
+        "html-nest": "latest",
+        "html-nest-rule": "latest",
+        "html-next": "latest",
+        "html-next-line-replace-webpack-plugin": "latest",
+        "html-ng-temp": "latest",
+        "html-node": "latest",
+        "html-node-compiler": "latest",
+        "html-node-loader": "latest",
+        "html-non-conditional-comment-regex": "latest",
+        "html-normalizer": "latest",
+        "html-npm-cli": "latest",
+        "html-number-spinner": "latest"
+    }
+}

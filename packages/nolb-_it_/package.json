@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_it_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@it_cli/command": "latest",
+        "@it_cli/core": "latest",
+        "@it_cli/exec": "latest",
+        "@it_cli/format-path": "latest",
+        "@it_cli/get-npm-info": "latest",
+        "@it_cli/init": "latest",
+        "@it_cli/package": "latest",
+        "@it_cli/request": "latest",
+        "@it_cli/utils": "latest",
+        "@it_dog_zhang/dtools": "latest",
+        "@it_mike_s/cap-android": "latest",
+        "@it_mike_s/cap-cli": "latest",
+        "@it_mike_s/cap-core": "latest",
+        "@it_mike_s/cap-ios": "latest",
+        "@it_mike_s/docusaurus-plugin-sass": "latest",
+        "@it_mike_s/firebirdy": "latest",
+        "@it_mike_s/node-firebird-dev": "latest",
+        "@it_mike_s/node-firebirdy": "latest",
+        "@it_mike_s/nothing-useful": "latest"
+    }
+}

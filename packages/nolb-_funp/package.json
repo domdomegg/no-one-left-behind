@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_funp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@funpack/cli": "latest",
+        "@funpodium/fp-captcha-client-js-sdk": "latest",
+        "@funpodium/fp-captcha-client-react-sdk": "latest",
+        "@funprojects/common": "latest"
+    }
+}

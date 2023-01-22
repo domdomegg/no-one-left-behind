@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-atf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "atf": "latest",
+        "atf-toolkit": "latest",
+        "atf2png": "latest",
+        "atfbdg": "latest",
+        "atfcss": "latest",
+        "atfest-common": "latest",
+        "atfinder": "latest",
+        "atft": "latest"
+    }
+}

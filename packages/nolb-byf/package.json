@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-byf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "byf": "latest",
+        "byf-components": "latest",
+        "byf-custom-logger": "latest",
+        "byf-face-sdk": "latest",
+        "byf_file_innerplace": "latest",
+        "byfe-scripts": "latest",
+        "byfelipe": "latest",
+        "byfishcote": "latest",
+        "byfs_tst_test_a": "latest",
+        "byfs_tst_test_aaa": "latest",
+        "byfwzhumodule": "latest"
+    }
+}

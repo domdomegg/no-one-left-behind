@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-libl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "liblab-challenge": "latest",
+        "liblab-rings-sdk": "latest",
+        "liblabsdk": "latest",
+        "liblcdgr": "latest",
+        "liblectio": "latest",
+        "liblevenshtein": "latest",
+        "libli": "latest",
+        "liblib": "latest",
+        "liblib-exhib": "latest",
+        "libliblib": "latest",
+        "liblice": "latest",
+        "liblinear-wasm": "latest",
+        "liblinkmark": "latest",
+        "liblion1827": "latest",
+        "libloader": "latest",
+        "liblocale": "latest",
+        "liblogin-client": "latest",
+        "liblogin-serv": "latest",
+        "liblooper": "latest",
+        "liblouis": "latest",
+        "liblouis-build": "latest",
+        "liblouis-js": "latest",
+        "libltc-wrapper": "latest",
+        "liblwes": "latest",
+        "liblwh": "latest",
+        "libly": "latest",
+        "liblzg": "latest"
+    }
+}

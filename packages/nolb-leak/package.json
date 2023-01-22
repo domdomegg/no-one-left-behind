@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-leak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "leak": "latest",
+        "leak-map": "latest",
+        "leak-patrol": "latest",
+        "leak-poc": "latest",
+        "leak-simulator": "latest",
+        "leakage": "latest",
+        "leaked": "latest",
+        "leaked-handles": "latest",
+        "leaks": "latest",
+        "leaky": "latest",
+        "leaky-bucket": "latest",
+        "leaky-bucket-queue": "latest",
+        "leakybucket-rate-limiter": "latest"
+    }
+}

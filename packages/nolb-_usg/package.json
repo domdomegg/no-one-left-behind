@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_usg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@usgojs/cockpit2": "latest",
+        "@usgojs/create-usgo-app": "latest",
+        "@usgojs/vue2-webpack": "latest",
+        "@usgojs/vue3-vite": "latest"
+    }
+}

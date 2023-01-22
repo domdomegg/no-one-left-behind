@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-cmy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cmy-grid": "latest",
+        "cmy-keyboard-next": "latest",
+        "cmy-npm": "latest",
+        "cmy-ok": "latest",
+        "cmyd-base-service": "latest",
+        "cmyd-form-error": "latest",
+        "cmyd-input-comma": "latest",
+        "cmyd-styles": "latest",
+        "cmyk": "latest",
+        "cmyk-rgb": "latest",
+        "cmyr-error-collection": "latest",
+        "cmyr-find-replace": "latest",
+        "cmyr-template-cli": "latest",
+        "cmytest": "latest"
+    }
+}

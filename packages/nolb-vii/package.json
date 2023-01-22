@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-vii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vii": "latest",
+        "vii-cli": "latest",
+        "vii-message-window": "latest",
+        "viidoo": "latest",
+        "viiksetjs": "latest",
+        "viinet-request": "latest",
+        "viinit": "latest",
+        "viiny-dragger": "latest",
+        "viisp-nodejs-auth-handler": "latest",
+        "viiv-anydoor": "latest",
+        "viiv-stencil-repo": "latest",
+        "viiv-test-runoob": "latest"
+    }
+}

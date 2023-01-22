@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-striv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "strive": "latest",
+        "strive-countdown-timer": "latest",
+        "strive-mono-tsconfig": "latest",
+        "strive-mono-ui": "latest",
+        "strive3_tzh": "latest",
+        "strive_sdk": "latest",
+        "strive_view_models": "latest",
+        "strivelen-react-scripts": "latest",
+        "striveli-fs": "latest",
+        "striven-quill": "latest",
+        "striven-quill-vue": "latest",
+        "striver-libs": "latest",
+        "striver-template": "latest",
+        "strivve-sdk-demo": "latest"
+    }
+}

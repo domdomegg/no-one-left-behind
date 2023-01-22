@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-passi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "PassiveRedis": "latest",
+        "passify": "latest",
+        "passing-notes": "latest",
+        "passing-notes-rpc": "latest",
+        "passing-notes-static": "latest",
+        "passing-notes-ui": "latest",
+        "passing-through": "latest",
+        "passion": "latest",
+        "passion-fil-hdwallet": "latest",
+        "passion-filecoin.js": "latest",
+        "passion-lib": "latest",
+        "passion-ui": "latest",
+        "passion-version": "latest",
+        "passionfruit": "latest",
+        "passionlowcodelib": "latest",
+        "passit-typescript-sdk": "latest",
+        "passive": "latest",
+        "passive-aggressor": "latest",
+        "passive-component": "latest",
+        "passive-events-support": "latest",
+        "passive-model": "latest",
+        "passive-promise": "latest",
+        "passive-voice": "latest",
+        "passivemodel": "latest",
+        "passivetotal-hubot": "latest",
+        "passix": "latest"
+    }
+}

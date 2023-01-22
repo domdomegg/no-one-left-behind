@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-awst",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "awstat": "latest",
+        "awstats": "latest",
+        "awstats-cli": "latest",
+        "awstats-theme-homepage": "latest",
+        "awstest266": "latest",
+        "awstk": "latest",
+        "awstria": "latest",
+        "awstruct": "latest",
+        "awstypes": "latest"
+    }
+}

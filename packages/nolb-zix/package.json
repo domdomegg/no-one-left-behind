@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-zix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zix": "latest",
+        "zix-palindrome": "latest",
+        "zix-test": "latest",
+        "zix-test-lib": "latest",
+        "zixi_harbour": "latest",
+        "zixian-tianji": "latest",
+        "zixian-xingluo": "latest",
+        "zixiaoy-ui": "latest",
+        "zixin": "latest",
+        "zixing-cli": "latest",
+        "zixinhaha": "latest",
+        "zixiyixia": "latest",
+        "zixo-wallet": "latest",
+        "zixu-ls": "latest",
+        "zixun-designer-core": "latest",
+        "zixun-pure-designer-core": "latest",
+        "zixun_date": "latest",
+        "zixunfd-adapter": "latest",
+        "zixunjia-admin": "latest",
+        "zixy": "latest"
+    }
+}

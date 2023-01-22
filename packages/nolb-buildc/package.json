@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-buildc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "buildcheck": "latest",
+        "buildci": "latest",
+        "buildci-plugin-aws": "latest",
+        "buildci-plugin-docker": "latest",
+        "buildci-plugin-github": "latest",
+        "buildci-plugin-proxy": "latest",
+        "buildcom": "latest",
+        "buildcopier": "latest",
+        "buildcs": "latest"
+    }
+}

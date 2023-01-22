@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-loc-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "loc-api-library": "latest",
+        "loc-bind": "latest",
+        "loc-down": "latest",
+        "loc-i18next": "latest",
+        "loc-package": "latest",
+        "loc-proxy-chain": "latest",
+        "loc-storage": "latest",
+        "loc-to-region": "latest",
+        "loc-ui": "latest"
+    }
+}

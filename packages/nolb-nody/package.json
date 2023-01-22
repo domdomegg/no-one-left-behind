@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-nody",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nody": "latest",
+        "nody-christmas": "latest",
+        "nody-cli": "latest",
+        "nody-greeter-types": "latest",
+        "nody-server": "latest",
+        "nody1": "latest",
+        "nodychess": "latest",
+        "nodycs": "latest",
+        "nodype-raknet": "latest",
+        "nodysentary": "latest",
+        "nodysseus-function-app": "latest",
+        "nodyst": "latest"
+    }
+}

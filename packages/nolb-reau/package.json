@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-reau",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reaudio": "latest",
+        "reaui": "latest",
+        "reaumur": "latest",
+        "reauth": "latest",
+        "reauth-express": "latest",
+        "reauth-nextjs": "latest",
+        "reauthorize": "latest",
+        "reaux": "latest",
+        "reaux-cli": "latest",
+        "reaux-dom": "latest",
+        "reaux-native": "latest",
+        "reaux-next": "latest"
+    }
+}

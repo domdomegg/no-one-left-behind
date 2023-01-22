@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-juu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "juui": "latest",
+        "juulsgaard-helpers": "latest",
+        "juunzzi-payments": "latest",
+        "juuso": "latest",
+        "juuso-cli-alerts": "latest",
+        "juuul": "latest",
+        "juuust-icon": "latest",
+        "juuust-react-icon": "latest",
+        "juuust-react-icon-test": "latest",
+        "juuust-react-icon-test-iiii": "latest",
+        "juuust-react-icon-wind": "latest",
+        "juuust-vue-icon": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_heg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hegafaisal/antd-img-crop": "latest",
+        "@hegdemahesh/moonraft-ui-element-sidebar": "latest",
+        "@hegel/cli": "latest",
+        "@hegel/core": "latest",
+        "@hegel/typings": "latest",
+        "@hegi29/library-1": "latest",
+        "@hegong-cli/core": "latest",
+        "@hegong-cli/init": "latest",
+        "@hegong-cli/log": "latest",
+        "@hegy5998/survey-analyzer": "latest",
+        "@hegy5998/survey-core": "latest",
+        "@hegy5998/survey-core-ui": "latest",
+        "@hegy5998/survey-creator": "latest",
+        "@hegy5998/survey-response": "latest",
+        "@hegy5998/survey-service-api": "latest"
+    }
+}

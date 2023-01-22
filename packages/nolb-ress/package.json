@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-ress",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ress": "latest",
+        "ress-wasm": "latest",
+        "ressendr": "latest",
+        "ressenger": "latest",
+        "ressheet": "latest",
+        "ressie": "latest",
+        "ressive": "latest",
+        "resso": "latest",
+        "resst": "latest",
+        "resst-fetch": "latest",
+        "resst-jquery": "latest",
+        "resst-request": "latest"
+    }
+}

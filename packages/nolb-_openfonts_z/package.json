@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_openfonts_z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@openfonts/zcool-kuaile_chinese-simplified": "latest",
+        "@openfonts/zcool-kuaile_latin": "latest",
+        "@openfonts/zcool-qingke-huangyou_chinese-simplified": "latest",
+        "@openfonts/zcool-qingke-huangyou_latin": "latest",
+        "@openfonts/zcool-xiaowei_chinese-simplified": "latest",
+        "@openfonts/zcool-xiaowei_latin": "latest",
+        "@openfonts/zeyada_latin": "latest",
+        "@openfonts/zhi-mang-xing_chinese-simplified": "latest",
+        "@openfonts/zhi-mang-xing_latin": "latest",
+        "@openfonts/zilla-slab-highlight_latin": "latest",
+        "@openfonts/zilla-slab-highlight_latin-ext": "latest",
+        "@openfonts/zilla-slab_latin": "latest",
+        "@openfonts/zilla-slab_latin-ext": "latest"
+    }
+}

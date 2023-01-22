@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-dsx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dsx": "latest",
+        "dsx-cli": "latest",
+        "dsx-cm": "latest",
+        "dsx-core": "latest",
+        "dsx-folder-templates": "latest",
+        "dsx-folder-templates-client": "latest",
+        "dsx-public-api": "latest",
+        "dsx_mdn": "latest",
+        "dsxnpmvue": "latest",
+        "dsxs": "latest",
+        "dsxtestnpm": "latest",
+        "dsxtodo": "latest",
+        "dsxzqa": "latest"
+    }
+}

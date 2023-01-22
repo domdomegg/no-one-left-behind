@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-babel-preset-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-preset-kael": "latest",
+        "babel-preset-kaplankomputing": "latest",
+        "babel-preset-karas": "latest",
+        "babel-preset-kdjs": "latest",
+        "babel-preset-kdu": "latest",
+        "babel-preset-kdu-app": "latest",
+        "babel-preset-kensho": "latest",
+        "babel-preset-kiaba-react-app": "latest",
+        "babel-preset-killua": "latest",
+        "babel-preset-kinvey-flex-service": "latest",
+        "babel-preset-kk": "latest",
+        "babel-preset-kkt": "latest",
+        "babel-preset-kln-node": "latest",
+        "babel-preset-ko-app": "latest",
+        "babel-preset-ko-component": "latest",
+        "babel-preset-koa": "latest",
+        "babel-preset-koa2-node7": "latest",
+        "babel-preset-kobe": "latest",
+        "babel-preset-komigen": "latest",
+        "babel-preset-kp": "latest",
+        "babel-preset-kupibilet": "latest",
+        "babel-preset-kylin": "latest",
+        "babel-preset-kyt": "latest",
+        "babel-preset-kyt-core": "latest",
+        "babel-preset-kyt-react": "latest"
+    }
+}

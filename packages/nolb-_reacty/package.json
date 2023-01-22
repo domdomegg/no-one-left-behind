@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_reacty",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reactype/one": "latest",
+        "@reactype/two": "latest",
+        "@reactypter/local-api": "latest",
+        "@reactypter/local-client": "latest"
+    }
+}

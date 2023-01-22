@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-cordova-e",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cordova-e-ghl-plugin": "latest",
+        "cordova-e-ghl-plugin-cmd": "latest",
+        "cordova-ea-plugin-apple-login": "latest",
+        "cordova-ea-plugin-apple-login-master": "latest",
+        "cordova-ea-plugin-applesignin": "latest",
+        "cordova-ea-plugin-sign-in-with-apple": "latest",
+        "cordova-ea-signin-with-apple-plugin": "latest",
+        "cordova-echo-plugin": "latest",
+        "cordova-eddystone": "latest",
+        "cordova-electron": "latest",
+        "cordova-elixir": "latest",
+        "cordova-elm-template-jumpstart": "latest",
+        "cordova-ember-setup": "latest",
+        "cordova-emulator": "latest",
+        "cordova-eren-requestreview": "latest",
+        "cordova-esptouch": "latest",
+        "cordova-estimote-proximity": "latest",
+        "cordova-etisalat-mcashplugin": "latest",
+        "cordova-etisalat-mcashplugin-lv": "latest",
+        "cordova-etisalat-mcashplugin-test": "latest",
+        "cordova-external-browser": "latest",
+        "cordova-externalstoragepath-plugin": "latest",
+        "cordova-ezar-video-overlay": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-sdx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sdx": "latest",
+        "sdx-client-api-backend": "latest",
+        "sdx-common-utils": "latest",
+        "sdxcode": "latest",
+        "sdxfjs": "latest",
+        "sdxjs": "latest",
+        "sdxstore": "latest",
+        "sdxt": "latest",
+        "sdxxxx": "latest"
+    }
+}

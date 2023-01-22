@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-graph_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graph.cc": "latest",
+        "graph.dll": "latest",
+        "graph.generator20": "latest",
+        "graph.gl": "latest",
+        "graph.js": "latest",
+        "graph.min.js": "latest",
+        "graph.ql": "latest",
+        "graph_colum_component_for_java": "latest",
+        "graph_component_for_java": "latest",
+        "graph_maker": "latest",
+        "graph_symmetry_wasm_binding": "latest",
+        "graph_vf2": "latest"
+    }
+}

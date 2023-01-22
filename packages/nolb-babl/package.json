@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-babl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "BablicLogger": "latest",
+        "Bablic_Seo_SDK": "latest",
+        "babl": "latest",
+        "babla-api": "latest",
+        "bable": "latest",
+        "bable-import-style-suffix": "latest",
+        "bable-loader": "latest",
+        "bable-loader-ymh": "latest",
+        "bable-plugin-jsx-aet": "latest",
+        "bable-plugin-runmap": "latest",
+        "bable-plugin-transform-copy": "latest",
+        "bable_es6": "latest",
+        "bablic": "latest",
+        "bablic-i18n": "latest",
+        "babloo-k-lib": "latest",
+        "bablpluginsyntaxdynamicimport": "latest",
+        "bablpresetpev": "latest",
+        "bablu": "latest",
+        "bablue-project": "latest",
+        "bablurpc": "latest",
+        "bablushaw-frame-print": "latest",
+        "bablyfill": "latest"
+    }
+}

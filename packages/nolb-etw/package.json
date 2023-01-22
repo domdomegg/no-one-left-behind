@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-etw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "etw": "latest",
+        "etw-jpush": "latest",
+        "etw-react-native-webview-file-upload-android": "latest",
+        "etw1-realm": "latest",
+        "etweb": "latest",
+        "etwin-socket-server": "latest",
+        "etwings": "latest",
+        "etwitty": "latest"
+    }
+}

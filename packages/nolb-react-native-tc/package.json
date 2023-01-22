@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-react-native-tc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-tc-conversations": "latest",
+        "react-native-tc-conversations-test-2": "latest",
+        "react-native-tc-conversations-test-web-2": "latest",
+        "react-native-tc-conversations-web": "latest",
+        "react-native-tc-push-notification": "latest",
+        "react-native-tcharts": "latest",
+        "react-native-tcharts-nj": "latest",
+        "react-native-tclogs": "latest",
+        "react-native-tcp": "latest",
+        "react-native-tcp-no-cocoa": "latest",
+        "react-native-tcp-patch": "latest",
+        "react-native-tcp-push-notification": "latest",
+        "react-native-tcp-socket": "latest",
+        "react-native-tcp-socket-mroads": "latest",
+        "react-native-tcp-zol": "latest",
+        "react-native-tcpping": "latest"
+    }
+}

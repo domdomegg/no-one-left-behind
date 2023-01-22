@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_alev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alevinval/bpk": "latest",
+        "@alevnyacow/create-ts-package": "latest",
+        "@alevnyacow/deep-js-proxy": "latest",
+        "@alevnyacow/get-directory-files": "latest",
+        "@alevnyacow/shared-react-variables": "latest",
+        "@alevy97/react-native-userdefaults": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-keyt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "keytab-parser": "latest",
+        "keytalk": "latest",
+        "keytalk-api": "latest",
+        "keytalk-excel": "latest",
+        "keytar": "latest",
+        "keytar-cli": "latest",
+        "keytar-ent": "latest",
+        "keytar-extra": "latest",
+        "keytar-fallback": "latest",
+        "keytar-pass": "latest",
+        "keytar-prebuild": "latest",
+        "keytar-sync": "latest",
+        "keytar3": "latest",
+        "keytar4": "latest",
+        "keytar4napi": "latest",
+        "keytechui": "latest",
+        "keythereum": "latest",
+        "keythereum-ayg": "latest",
+        "keythereum-node": "latest",
+        "keythereum-pure-js": "latest",
+        "keythereum-spa": "latest",
+        "keytime": "latest",
+        "keytime-editor": "latest",
+        "keytimerotator": "latest",
+        "keytrap": "latest",
+        "keytwee": "latest"
+    }
+}

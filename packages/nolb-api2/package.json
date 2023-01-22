@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-api2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "api2-danbooru": "latest",
+        "api2-gelbooru": "latest",
+        "api2-moebooru": "latest",
+        "api2-nhentai-net": "latest",
+        "api2-rule34-xxx": "latest",
+        "api2-thatpervert-com": "latest",
+        "api2-xlecx-com": "latest",
+        "api21": "latest",
+        "api22": "latest",
+        "api23": "latest",
+        "api24": "latest",
+        "api24-currencyrate": "latest",
+        "api25": "latest",
+        "api2code": "latest",
+        "api2front": "latest",
+        "api2go": "latest",
+        "api2html": "latest",
+        "api2mailer": "latest",
+        "api2pdf": "latest",
+        "api2swagger": "latest",
+        "api2swagger-ext": "latest",
+        "api2ts": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_shai",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shai_ben_shimol/nesti": "latest",
+        "@shai_rose/slugger": "latest",
+        "@shaid/create-gatsby-blog-post": "latest",
+        "@shaiknazia.n/lotide": "latest",
+        "@shailesh87/customformbuilder": "latest",
+        "@shailesh87/form-builder": "latest",
+        "@shaileshkandel123/match_email": "latest",
+        "@shaileshnk/webpack-config-vue": "latest",
+        "@shailpatels/fss": "latest",
+        "@shaitan-masters/centrifugo": "latest",
+        "@shaitan-masters/config": "latest",
+        "@shaitan-masters/logger": "latest",
+        "@shaitan-masters/redis": "latest",
+        "@shaizei/babel-preset": "latest",
+        "@shaizei/cli": "latest",
+        "@shaizei/eslint-config": "latest",
+        "@shaizei/helpers": "latest",
+        "@shaizei/prettier-config": "latest",
+        "@shaizei/scripts": "latest",
+        "@shaizei/typescript-config": "latest",
+        "@shaizei/webpack-config": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_fiw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fiwoo/migrate-mongodb": "latest",
+        "@fiwoo/react-grid-layout": "latest",
+        "@fiwoo/swagger-express-ts": "latest"
+    }
+}

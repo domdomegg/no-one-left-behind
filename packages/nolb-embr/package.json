@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-embr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "embr": "latest",
+        "embr-presets": "latest",
+        "embrace": "latest",
+        "embrace-gulp-less-reporter": "latest",
+        "embrace-sql": "latest",
+        "embrace-url": "latest",
+        "embracegw": "latest",
+        "embracethemirth": "latest",
+        "embracethemirth-ol-layerswitcher": "latest",
+        "embracethemirth-ol-side-panel": "latest",
+        "embria_icon_font": "latest",
+        "embric": "latest",
+        "embrio": "latest",
+        "embrioparser": "latest",
+        "embroidery": "latest",
+        "embryo": "latest",
+        "embryon": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_types_rs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@types/rsmq": "latest",
+        "@types/rsmq-worker": "latest",
+        "@types/rsocket-core": "latest",
+        "@types/rsocket-flowable": "latest",
+        "@types/rsocket-tcp-client": "latest",
+        "@types/rsocket-tcp-server": "latest",
+        "@types/rsocket-types": "latest",
+        "@types/rsocket-websocket-client": "latest",
+        "@types/rsocket-websocket-server": "latest",
+        "@types/rss": "latest",
+        "@types/rsvp": "latest",
+        "@types/rsync": "latest"
+    }
+}

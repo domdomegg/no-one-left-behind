@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_cih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cihad/slate-balloon-toolbar": "latest",
+        "@cihad/slate-table": "latest",
+        "@cihad/vue-test": "latest",
+        "@cihancahit/goosesdk": "latest",
+        "@cihelper/preset-semanticrelease-githubaction": "latest",
+        "@cihelper/preset-semanticrelease-npm": "latest",
+        "@cihelper/preset-semanticrelease-poetry": "latest",
+        "@cihelper/semanticrelease-plugin-poetry": "latest",
+        "@cihelper/semanticrelease-preset-githubaction": "latest",
+        "@cihelper/semanticrelease-preset-npm": "latest",
+        "@cihelper/semanticrelease-preset-poetry": "latest"
+    }
+}

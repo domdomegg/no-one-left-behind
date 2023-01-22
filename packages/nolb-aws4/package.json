@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-aws4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aws4": "latest",
+        "aws4-axios": "latest",
+        "aws4-browser": "latest",
+        "aws4-browser-lite": "latest",
+        "aws4-crypto": "latest",
+        "aws4-crypto-js": "latest",
+        "aws4-expo": "latest",
+        "aws4-huawei": "latest",
+        "aws4-proxy": "latest",
+        "aws4-react-native": "latest",
+        "aws4-sign": "latest",
+        "aws4-signature": "latest",
+        "aws4-tiny": "latest",
+        "aws4-with-assume-role": "latest",
+        "aws41": "latest",
+        "aws44": "latest",
+        "aws4curl": "latest",
+        "aws4fetch": "latest",
+        "aws4fetch-proxy": "latest",
+        "aws4fetchmiighty": "latest"
+    }
+}

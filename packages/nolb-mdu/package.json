@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-mdu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mdu": "latest",
+        "mdu-ckeditor": "latest",
+        "mdu-cli": "latest",
+        "mdu-scripts": "latest",
+        "mdu-types": "latest",
+        "mdu.js": "latest",
+        "mduarth-crud": "latest",
+        "mdue": "latest",
+        "mdueoc": "latest",
+        "mdugue": "latest",
+        "mdui": "latest",
+        "mdui-ext": "latest",
+        "mdui-in-react": "latest",
+        "mdui-vue": "latest",
+        "mdui.editor": "latest",
+        "mdui.jq": "latest",
+        "mduidj-edim-ded": "latest",
+        "mdup": "latest",
+        "mdurl": "latest"
+    }
+}

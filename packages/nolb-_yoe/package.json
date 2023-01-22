@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_yoe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yoell/randomid-generator": "latest",
+        "@yoerivd/angular-search": "latest",
+        "@yoerivd/autosave-form": "latest",
+        "@yoerivd/persist": "latest",
+        "@yoerivd/timer-as-promise": "latest",
+        "@yoeven/react-native-modular-datetime-picker": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_q2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@q2devops/q2-angular-bulkgrid": "latest",
+        "@q2devops/q2-angular-cms": "latest",
+        "@q2devops/q2-angular-csv-upload": "latest",
+        "@q2devops/q2-angular-datahelper": "latest",
+        "@q2devops/q2-angular-inventorypicker": "latest",
+        "@q2devops/q2-angular-loggingservice": "latest",
+        "@q2devops/q2-angular-reportingcenter": "latest",
+        "@q2devops/q2-angular-routeguard": "latest",
+        "@q2devops/q2-bienta": "latest",
+        "@q2ebanking/ember-unified-select": "latest"
+    }
+}

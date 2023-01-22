@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-test-mm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "test-mmc-ui-vue3": "latest",
+        "test-mmmath": "latest",
+        "test-mmnoo-shared-components": "latest"
+    }
+}

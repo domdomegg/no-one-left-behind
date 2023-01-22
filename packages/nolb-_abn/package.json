@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_abn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@abnerh69/js-utils": "latest",
+        "@abnerh69/lib-jitsi-meet": "latest",
+        "@abnerlin/express-routes-loader": "latest",
+        "@abneroliveira/business-rules-engine": "latest",
+        "@abnersajr/hello": "latest",
+        "@abnoco/storybook": "latest",
+        "@abnoco/utils": "latest"
+    }
+}

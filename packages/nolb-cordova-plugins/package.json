@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-cordova-plugins",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cordova-plugins": "latest",
+        "cordova-plugins-aliyunossupload": "latest",
+        "cordova-plugins-auto-wifi": "latest",
+        "cordova-plugins-checker": "latest",
+        "cordova-plugins-cookiehelper": "latest",
+        "cordova-plugins-devextremeaddon": "latest",
+        "cordova-plugins-farzad-intent": "latest",
+        "cordova-plugins-firebaseecommerceanalytics": "latest",
+        "cordova-plugins-logsplugin": "latest",
+        "cordova-plugins-native-page-transitions": "latest",
+        "cordova-plugins-planner": "latest",
+        "cordova-plugins-reinstall": "latest",
+        "cordova-plugins-ths-h3c-vpn": "latest",
+        "cordova-plugins-zebraprinter": "latest"
+    }
+}

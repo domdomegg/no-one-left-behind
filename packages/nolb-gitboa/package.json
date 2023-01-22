@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-gitboa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gitboard-cli": "latest",
+        "gitboard-cli-blessed": "latest",
+        "gitboard-cli-blessed-contrib": "latest"
+    }
+}

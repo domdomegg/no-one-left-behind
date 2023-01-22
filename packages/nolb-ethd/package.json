@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-ethd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ethdb": "latest",
+        "ethdeploy": "latest",
+        "ethdeploy-cli": "latest",
+        "ethdeploy-environment-loader": "latest",
+        "ethdeploy-provider-http": "latest",
+        "ethdeploy-provider-zero-client": "latest",
+        "ethdeploy-raw-environment-loader": "latest",
+        "ethdeploy-raw-solc-loader": "latest",
+        "ethdeploy-solc-json-loader": "latest",
+        "ethdeploy-solc-loader": "latest",
+        "ethdesign": "latest",
+        "ethdiff": "latest",
+        "ethdk": "latest",
+        "ethdoc": "latest",
+        "ethdrive": "latest"
+    }
+}

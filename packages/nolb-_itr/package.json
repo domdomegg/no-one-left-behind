@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_itr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@itrabbit/payload-blurhash-plugin": "latest",
+        "@itretina/common": "latest",
+        "@itreverie/itr-components-basics": "latest",
+        "@itrigger/dagre": "latest",
+        "@itrigger/dagre-d3": "latest",
+        "@itrip.mn/sdk": "latest",
+        "@itriton/captcha": "latest",
+        "@itriton/uniapp": "latest",
+        "@itroad/demo": "latest",
+        "@itroad/utils": "latest",
+        "@itron/g-button": "latest",
+        "@itron/gooey": "latest",
+        "@itron/makeover": "latest",
+        "@itrulia/fractal-component-status": "latest",
+        "@itrulia/fractal-variant-readme": "latest",
+        "@itrulia/fractal-variant-status": "latest",
+        "@itrulia/jest-schematic": "latest",
+        "@itrulia/nova-skeletons": "latest",
+        "@itrunc/json-storage": "latest",
+        "@itrunc/jsondb": "latest",
+        "@itryapitsin/ts-decorators": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_frs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@frshaw1/angular-visibility-api": "latest",
+        "@frsource/autoresize-textarea": "latest",
+        "@frsource/base64": "latest",
+        "@frsource/cypress-plugin-visual-regression-diff": "latest",
+        "@frsource/frs-hide-scrollbar": "latest",
+        "@frsource/frs-replace": "latest",
+        "@frsource/light-scrollbar": "latest",
+        "@frsource/tiny-carousel-core": "latest",
+        "@frsource/tiny-carousel-docs": "latest",
+        "@frsource/tiny-carousel-plugin-autoplay": "latest",
+        "@frsource/tiny-carousel-plugin-custom-events": "latest",
+        "@frsource/tiny-carousel-plugin-mouse-drag": "latest",
+        "@frsource/tiny-carousel-plugin-scroll-snap-fallback": "latest",
+        "@frsource/tiny-carousel-react": "latest",
+        "@frsource/tiny-carousel-utils": "latest",
+        "@frsource/tiny-carousel-vue": "latest",
+        "@frsource/vite-plugin-stylelint": "latest",
+        "@frsource/vite-plugin-vue-dedupe-css-modules": "latest",
+        "@frst-ticket-app/common": "latest"
+    }
+}

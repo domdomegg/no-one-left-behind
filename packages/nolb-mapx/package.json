@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-mapx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mapxus-map": "latest",
+        "mapxus-map-landsd": "latest",
+        "mapxus-polygon-clipping": "latest",
+        "mapxus-visual": "latest"
+    }
+}

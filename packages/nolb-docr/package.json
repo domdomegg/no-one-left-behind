@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-docr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "docr": "latest",
+        "docready": "latest",
+        "docredux": "latest",
+        "docref": "latest",
+        "docrel": "latest",
+        "docrester": "latest",
+        "docretary": "latest",
+        "docrify": "latest",
+        "docrope": "latest",
+        "docrouter": "latest",
+        "docroutes": "latest",
+        "docrules": "latest",
+        "docrunner": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_wox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wox/basic": "latest",
+        "@wox/cli": "latest",
+        "@wox/history": "latest",
+        "@wox/loader": "latest",
+        "@wox/router": "latest",
+        "@wox/server": "latest",
+        "@wox/vuex": "latest",
+        "@wox/wox": "latest",
+        "@woxels/assets": "latest",
+        "@woxjs/skade": "latest",
+        "@woxlabs/resident-io-shared": "latest",
+        "@woxye-ignite-ui/docs": "latest",
+        "@woxye-ignite-ui/react": "latest",
+        "@woxye-ignite-ui/tokens": "latest"
+    }
+}

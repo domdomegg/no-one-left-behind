@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-bsi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bsi": "latest",
+        "bsi-cli": "latest",
+        "bsify": "latest",
+        "bsigner": "latest",
+        "bsihuayruay": "latest",
+        "bsimagepicker": "latest",
+        "bsimgdragoncanvas": "latest",
+        "bsin-dumi": "latest",
+        "bsin-workflow-ui": "latest",
+        "bsip": "latest",
+        "bsiprocess": "latest",
+        "bsit": "latest"
+    }
+}

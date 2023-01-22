@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-getl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "getlang": "latest",
+        "getlastactive": "latest",
+        "getlazy": "latest",
+        "getlet": "latest",
+        "getlibs": "latest",
+        "getlibs-test": "latest",
+        "getlibs.io": "latest",
+        "getlife-components-test": "latest",
+        "getline": "latest",
+        "getlinks-la": "latest",
+        "getlinks-markdown": "latest",
+        "getlinksfrominput": "latest",
+        "getlinksfrommd-jj": "latest",
+        "getlinkslib": "latest",
+        "getlists": "latest",
+        "getlocalidentbem": "latest",
+        "getlocalip": "latest",
+        "getlocalipjs": "latest",
+        "getlocationip": "latest",
+        "getlonlat": "latest",
+        "getlorem": "latest",
+        "getlost-lift": "latest",
+        "getlyb": "latest",
+        "getlyric": "latest",
+        "getlyrics": "latest"
+    }
+}

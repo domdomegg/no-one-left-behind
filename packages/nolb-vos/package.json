@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-vos",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vos": "latest",
+        "vos-api": "latest",
+        "vos-ui": "latest",
+        "vos.plugin.editor": "latest",
+        "vosco": "latest",
+        "vosco-cli": "latest",
+        "vose": "latest",
+        "voshod_ui": "latest",
+        "vosk": "latest",
+        "vosk-browser": "latest",
+        "vosk-cli": "latest",
+        "vosk-js": "latest",
+        "vosk-lib": "latest",
+        "vosk-speech-to-text": "latest",
+        "vosk-wasm": "latest",
+        "vosp-cli": "latest",
+        "vostebush-frame-printer": "latest",
+        "vostfreescrapper": "latest",
+        "vostok": "latest",
+        "vostok-1": "latest",
+        "vostok-auth-refresh": "latest",
+        "vosviewer-online": "latest"
+    }
+}

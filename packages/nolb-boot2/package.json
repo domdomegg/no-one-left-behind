@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-boot2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "boot2": "latest",
+        "boot2docker-container": "latest",
+        "boot2env": "latest"
+    }
+}

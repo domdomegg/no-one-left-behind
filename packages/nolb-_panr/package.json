@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_panr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@panreel/workplace-node": "latest",
+        "@panrpeng/babel-config": "latest",
+        "@panrpeng/button": "latest",
+        "@panrpeng/comps": "latest",
+        "@panrpeng/house": "latest",
+        "@panrpeng/scomp-cli": "latest",
+        "@panrpeng/scomp-common-comps": "latest",
+        "@panrpeng/scomp-dev-client": "latest",
+        "@panrpeng/scomp-dll-echarts": "latest",
+        "@panrpeng/scomp-dll-parse": "latest",
+        "@panrpeng/scomp-dll-react": "latest",
+        "@panrpeng/scomp-echarts": "latest",
+        "@panrpeng/scomp-monorepo": "latest",
+        "@panrpeng/scomp-webpack-config": "latest",
+        "@panrpeng/webpack-config": "latest",
+        "@panrpeng/webpack-config-cli": "latest",
+        "@panrpeng/window": "latest",
+        "@panrpengorz/panrp1111": "latest"
+    }
+}

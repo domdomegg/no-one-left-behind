@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-spad",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "spaddin-helper": "latest",
+        "spade": "latest",
+        "spade-desin": "latest",
+        "spade.js": "latest",
+        "spadeio": "latest",
+        "spadek-tools": "latest",
+        "spademo": "latest",
+        "spaden": "latest",
+        "spaden-postcss-config": "latest",
+        "spaden-react-components": "latest",
+        "spades": "latest",
+        "spades-ui": "latest",
+        "spadger": "latest",
+        "spadgerjs": "latest",
+        "spadille": "latest",
+        "spadmin": "latest"
+    }
+}

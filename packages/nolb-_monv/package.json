@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_monv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@monvechen/cookie-manager": "latest",
+        "@monvechen/kafka-easy": "latest",
+        "@monvechen/port-check": "latest",
+        "@monvechen/sleep": "latest",
+        "@monvechen/throttler": "latest",
+        "@monvechen/version-compare": "latest",
+        "@monvi/m-vue-components": "latest",
+        "@monvi/vue-components": "latest"
+    }
+}

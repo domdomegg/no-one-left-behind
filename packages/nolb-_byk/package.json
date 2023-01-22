@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_byk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bykov/basics": "latest",
+        "@bykov/commandlining": "latest",
+        "@bykov/formatting": "latest",
+        "@bykov/linter": "latest",
+        "@bykov/noding": "latest",
+        "@bykov/tooling": "latest",
+        "@bykov/typescript": "latest",
+        "@bykov/typescripting": "latest",
+        "@bykovdenis/progressbar": "latest"
+    }
+}

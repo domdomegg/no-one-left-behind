@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-easyv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "easyv-cli": "latest",
+        "easyv-eachart-component": "latest",
+        "easyv-icons": "latest",
+        "easyv-react-icon": "latest",
+        "easyv-scripts": "latest",
+        "easyv-utils": "latest",
+        "easyv2": "latest",
+        "easyvadmin": "latest",
+        "easyvalid": "latest",
+        "easyvalidator": "latest",
+        "easyvargs": "latest",
+        "easyvc": "latest",
+        "easyverein": "latest",
+        "easyview-antd-treetable": "latest",
+        "easyview-hzn2": "latest",
+        "easyvk": "latest",
+        "easyvpn": "latest",
+        "easyvue": "latest",
+        "easyvuecli": "latest",
+        "easyvueg": "latest"
+    }
+}

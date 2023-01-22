@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-redux-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "redux-q": "latest",
+        "redux-qtx": "latest",
+        "redux-query": "latest",
+        "redux-query-dispatch": "latest",
+        "redux-query-immutable": "latest",
+        "redux-query-immutable-interface-superagent": "latest",
+        "redux-query-immutable-react": "latest",
+        "redux-query-interface-superagent": "latest",
+        "redux-query-patch": "latest",
+        "redux-query-react": "latest",
+        "redux-query-string-state": "latest",
+        "redux-query-sync": "latest",
+        "redux-query-sync-tx": "latest",
+        "redux-queryparam-middleware": "latest",
+        "redux-queue": "latest",
+        "redux-queue-offline": "latest",
+        "redux-queue-offline-listener": "latest",
+        "redux-quick-action": "latest"
+    }
+}

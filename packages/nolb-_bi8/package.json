@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_bi8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bi8/am-data-table": "latest",
+        "@bi8/am-dyn-form": "latest",
+        "@bi8/am-logger": "latest",
+        "@bi8/am-storage": "latest",
+        "@bi8/am-uaa": "latest",
+        "@bi8bo-xx/test-pkg": "latest"
+    }
+}

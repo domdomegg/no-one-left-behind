@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-tep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tep": "latest",
+        "tep-button": "latest",
+        "tep-form": "latest",
+        "tep-form-item": "latest",
+        "tep-input": "latest",
+        "tep-link": "latest",
+        "tep-rem-arr-dups": "latest",
+        "tep-steps": "latest",
+        "tepagoyaapi": "latest",
+        "tepbyte-markdown": "latest",
+        "tepee": "latest",
+        "tepez-pdf-tools": "latest",
+        "tepez-static-website": "latest",
+        "tepgsj": "latest",
+        "tephra": "latest",
+        "tepki": "latest",
+        "tepkijs": "latest",
+        "tepkijs-client": "latest",
+        "teploy": "latest",
+        "teppa": "latest",
+        "tepper": "latest",
+        "teptex": "latest"
+    }
+}

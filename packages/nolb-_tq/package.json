@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_tq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tq-bit/qache": "latest",
+        "@tq-pub-poc/pub": "latest",
+        "@tqh/pk1": "latest",
+        "@tqh/pk2": "latest",
+        "@tql/utils": "latest",
+        "@tqmi/ng-pick-datetime": "latest",
+        "@tqt-design/icons": "latest",
+        "@tqt/api-core": "latest",
+        "@tqt/pg-extensions": "latest",
+        "@tqt/pg-migrate": "latest",
+        "@tqtezos/minter-contracts": "latest",
+        "@tqtezos/minter-sdk": "latest",
+        "@tqu/antd-vue": "latest",
+        "@tqu/eaxios": "latest",
+        "@tqu/element-ui-vue": "latest",
+        "@tquinlan1992/react-redux-toolkit": "latest"
+    }
+}

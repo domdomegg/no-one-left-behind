@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-flaw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "flaw": "latest",
+        "flaw-form-core": "latest",
+        "flaw-m18": "latest",
+        "flawcralib": "latest",
+        "flawed": "latest",
+        "flawed-code-scanner": "latest",
+        "flawless": "latest",
+        "flawless-compile": "latest",
+        "flawless-compiler": "latest",
+        "flawless-grid": "latest",
+        "flawless-ui": "latest",
+        "flawproof": "latest",
+        "flawwwless-library": "latest",
+        "flawwwless-ui-test": "latest"
+    }
+}

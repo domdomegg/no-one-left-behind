@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-apph",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "apph": "latest",
+        "apph5page": "latest",
+        "apphead": "latest",
+        "apphealthcheck": "latest",
+        "apphelpers": "latest",
+        "apphelpers-test": "latest",
+        "appheqiang": "latest",
+        "appheqiang0916": "latest",
+        "appherd": "latest",
+        "appherd-client": "latest",
+        "appherder": "latest",
+        "apphook": "latest",
+        "apphost": "latest",
+        "apphost-react-err-msg": "latest",
+        "apphub": "latest",
+        "apphub-graphql": "latest",
+        "apphubdeploy": "latest"
+    }
+}

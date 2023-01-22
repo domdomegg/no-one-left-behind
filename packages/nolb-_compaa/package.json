@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_compaa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@compaas/helper-http2-push-cache": "latest",
+        "@compaas/library": "latest",
+        "@compaas/nuxt": "latest",
+        "@compaas/vue": "latest"
+    }
+}

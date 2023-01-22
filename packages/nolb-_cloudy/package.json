@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_cloudy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cloudy-db/bundle": "latest",
+        "@cloudy-db/cloudy": "latest",
+        "@cloudy-ts/eslint-plugin": "latest",
+        "@cloudy-ts/esm-node": "latest",
+        "@cloudy-with-a-chance-of-meatballs/aws-apigateway-rest-token-authorizer-jwt": "latest",
+        "@cloudy-with-a-chance-of-meatballs/cdk-lambda-token-authorizer-jwt": "latest",
+        "@cloudyskysoftware/pulumi-render": "latest",
+        "@cloudyskysoftware/pulumi-scaleway-instances": "latest",
+        "@cloudyskysoftware/render": "latest",
+        "@cloudytool/cloudy": "latest"
+    }
+}

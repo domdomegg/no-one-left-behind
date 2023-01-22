@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-pars",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-parse": "latest",
+        "@zalastax/nolb-parsa": "latest",
+        "@zalastax/nolb-parsf": "latest",
+        "@zalastax/nolb-parsh": "latest",
+        "@zalastax/nolb-parsi": "latest",
+        "@zalastax/nolb-parsj": "latest",
+        "@zalastax/nolb-parsl": "latest",
+        "@zalastax/nolb-parsn": "latest",
+        "@zalastax/nolb-parso": "latest",
+        "@zalastax/nolb-parsq": "latest",
+        "@zalastax/nolb-parsr": "latest",
+        "@zalastax/nolb-parss": "latest",
+        "@zalastax/nolb-parst": "latest",
+        "@zalastax/nolb-parsu": "latest",
+        "@zalastax/nolb-parsz": "latest"
+    }
+}

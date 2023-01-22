@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-hexc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hexcel": "latest",
+        "hexcell": "latest",
+        "hexchange": "latest",
+        "hexchat-material-design-icons": "latest",
+        "hexcloud": "latest",
+        "hexcloud-loader": "latest",
+        "hexcloud-react-components": "latest",
+        "hexcode": "latest",
+        "hexcolor": "latest",
+        "hexcoord": "latest",
+        "hexcraft": "latest",
+        "hexcrystal-json-editor": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_fe_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fe.design-system/foundation": "latest",
+        "@fe.design-system/react": "latest",
+        "@fe.design-system/scss": "latest",
+        "@fe.whnhouse/flex.box": "latest",
+        "@fe.whnhouse/use-socket.io": "latest",
+        "@fe.whnhouse/use-system-mode": "latest",
+        "@fe.whnhouse/use-typewriter": "latest",
+        "@fe_korey/commit": "latest",
+        "@fe_korey/cos-cdn": "latest",
+        "@fe_korey/eslint-config-base": "latest",
+        "@fe_korey/eslint-config-mp": "latest",
+        "@fe_korey/eslint-config-prettier": "latest",
+        "@fe_korey/eslint-config-react": "latest",
+        "@fe_korey/eslint-config-standard": "latest",
+        "@fe_korey/fullpage": "latest",
+        "@fe_korey/guide-standard": "latest",
+        "@fe_korey/mvvm": "latest",
+        "@fe_korey/prettier-config": "latest",
+        "@fe_korey/resume": "latest",
+        "@fe_korey/standard-guide": "latest",
+        "@fe_korey/stylelint-config-base": "latest",
+        "@fe_korey/stylelint-config-prettier": "latest",
+        "@fe_korey/stylelint-prettier": "latest",
+        "@fe_korey/test-loader": "latest",
+        "@fe_korey/test-scss": "latest",
+        "@fe_org/stylus_style": "latest",
+        "@fe_org/vue_ui_library": "latest"
+    }
+}

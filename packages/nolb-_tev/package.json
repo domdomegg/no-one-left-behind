@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_tev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tevaera-labs/tevaera-web3": "latest",
+        "@tevatron-cli-dev/command": "latest",
+        "@tevatron-cli-dev/core": "latest",
+        "@tevatron-cli-dev/exec": "latest",
+        "@tevatron-cli-dev/format-path": "latest",
+        "@tevatron-cli-dev/get-npm-info": "latest",
+        "@tevatron-cli-dev/init": "latest",
+        "@tevatron-cli-dev/log": "latest",
+        "@tevatron-cli-dev/package": "latest",
+        "@tevatron-cli-dev/request": "latest",
+        "@tevatron-cli-dev/utils": "latest",
+        "@tevcodes/tox": "latest",
+        "@tevhooks/use-debounce": "latest",
+        "@tevhooks/use-media-query": "latest",
+        "@tevinthuku/js_typify_gostruct": "latest",
+        "@tevo-online/media-library": "latest"
+    }
+}

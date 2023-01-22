@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_yuo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yuo/glede-server": "latest",
+        "@yuo/ip2region": "latest",
+        "@yuo/node-cron": "latest",
+        "@yuo/plui": "latest",
+        "@yuo/postcss-px2vw": "latest",
+        "@yuo/vite": "latest",
+        "@yuo/vite-plugin-style-import": "latest",
+        "@yuo/vite-plugin-svg-icons": "latest",
+        "@yuo/vite-plugin-vconsole": "latest",
+        "@yuo/vite-web-glede-plugin": "latest",
+        "@yuo/web-glede": "latest",
+        "@yuo/web-glede-plugin": "latest",
+        "@yuoj/markdown": "latest"
+    }
+}

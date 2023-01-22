@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_cloa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cloak-app/algolia": "latest",
+        "@cloak-app/boilerplate": "latest",
+        "@cloak-app/copy": "latest",
+        "@cloak-app/craft": "latest",
+        "@cloak-app/customer": "latest",
+        "@cloak-app/demo-theme": "latest",
+        "@cloak-app/form": "latest",
+        "@cloak-app/i18n": "latest",
+        "@cloak-app/modal": "latest",
+        "@cloak-app/shopify": "latest",
+        "@cloak-app/utils": "latest",
+        "@cloak-app/visual": "latest",
+        "@cloak-js/validator": "latest",
+        "@cloakbits/manager": "latest",
+        "@cloakd/shadow-drive": "latest"
+    }
+}

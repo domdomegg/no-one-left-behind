@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_eln",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@elnaz.hnia/my_package": "latest",
+        "@elninotech/mfd-modules": "latest",
+        "@elninotech/middleware": "latest",
+        "@elninotech/vue-bootware": "latest",
+        "@elninotech/vue-bootware-config": "latest",
+        "@elninotech/vue-bootware-router": "latest",
+        "@elninotech/vue-bootware-sentry": "latest",
+        "@elninotech/vue-bootware-vuex": "latest",
+        "@elninotech/vue-cancellation": "latest",
+        "@elninotech/vue-cli-plugin-boilerplate": "latest",
+        "@elninotech/vue-cli-plugin-translations": "latest",
+        "@elninotech/vue-datetime": "latest",
+        "@elninotech/vue-decorators": "latest",
+        "@elninotech/vue-sass": "latest",
+        "@elnosii/commandcord": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-fastw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fastware": "latest",
+        "fastway": "latest",
+        "fastweather": "latest",
+        "fastweb": "latest",
+        "fastweb-cli": "latest",
+        "fastweb-gulp": "latest",
+        "fastweb-loader": "latest",
+        "fastwebcomponents": "latest",
+        "fastwebview": "latest",
+        "fastwebview-cli": "latest",
+        "fastwiki": "latest",
+        "fastwoman": "latest",
+        "fastwoman-module-component": "latest",
+        "fastworks": "latest"
+    }
+}

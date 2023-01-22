@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-html-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "html-handle": "latest",
+        "html-handle-codeyintao": "latest",
+        "html-handler": "latest",
+        "html-hash-webpack-plugin": "latest",
+        "html-head": "latest",
+        "html-head-component": "latest",
+        "html-head-webpack-plugin": "latest",
+        "html-help": "latest",
+        "html-helper": "latest",
+        "html-helpers": "latest",
+        "html-highlighter": "latest",
+        "html-hint": "latest",
+        "html-hole-loader": "latest",
+        "html-hyperdrive": "latest",
+        "html-hyperscript-loader": "latest"
+    }
+}

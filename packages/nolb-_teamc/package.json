@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_teamc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@teamcancode.com/gateway-apollo": "latest",
+        "@teamcoco/react-apollo": "latest",
+        "@teamcode24/common": "latest",
+        "@teamcoder/arrayequalvalidator": "latest",
+        "@teamcoder/arraytypeofvalidator": "latest",
+        "@teamcoder/biggervalidator": "latest",
+        "@teamcoder/completevalidator": "latest",
+        "@teamcoder/containvalidator": "latest",
+        "@teamcoder/equalvalidator": "latest",
+        "@teamcoder/longervalidator": "latest",
+        "@teamcoder/mqtttopicvalidator": "latest",
+        "@teamcoder/notcontainvalidator": "latest",
+        "@teamcoder/notequalvalidator": "latest",
+        "@teamcoder/notsamesizevalidator": "latest",
+        "@teamcoder/regexvalidator": "latest",
+        "@teamcoder/samesizevalidator": "latest",
+        "@teamcoder/shortervalidator": "latest",
+        "@teamcoder/smallervalidator": "latest",
+        "@teamcoder/toarrayconverter": "latest",
+        "@teamcoder/typevalidator": "latest",
+        "@teamcognito/instaconnect": "latest"
+    }
+}

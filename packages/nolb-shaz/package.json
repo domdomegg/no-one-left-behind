@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-shaz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shaz": "latest",
+        "shaz-flickr": "latest",
+        "shaz-module-v": "latest",
+        "shaz-npm": "latest",
+        "shaz-runnable": "latest",
+        "shaz-todo": "latest",
+        "shazaam": "latest",
+        "shazam": "latest",
+        "shazam-api": "latest",
+        "shazam-middleware": "latest",
+        "shazam-scheduler": "latest",
+        "shazamapi-node": "latest",
+        "shazamify": "latest",
+        "shazamjs": "latest",
+        "shazamjs-core": "latest",
+        "shazaml": "latest",
+        "shazbot": "latest",
+        "shazhoutestbutton": "latest",
+        "shazy.db": "latest"
+    }
+}

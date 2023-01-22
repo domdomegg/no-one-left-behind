@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_ja-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ja-ja/json-stream": "latest",
+        "@ja-ka/react-native-fade-in-flatlist": "latest",
+        "@ja-supports/era": "latest",
+        "@ja-ticketing/common": "latest"
+    }
+}

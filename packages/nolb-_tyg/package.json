@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_tyg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tyg-ui/button": "latest",
+        "@tyg-ui/css": "latest",
+        "@tyg-ui/icon": "latest",
+        "@tygen/html": "latest",
+        "@tygen/reflector": "latest",
+        "@tyger-ui/hooks": "latest",
+        "@tyger-ui/react": "latest",
+        "@tyger-ui/system": "latest",
+        "@tygoto/hello-wasm": "latest",
+        "@tygourm/back-core": "latest",
+        "@tygr/async-loader-webpack-plugin": "latest",
+        "@tygr/auth": "latest",
+        "@tygr/auth-server": "latest",
+        "@tygr/cli": "latest",
+        "@tygr/contact": "latest",
+        "@tygr/core": "latest",
+        "@tygr/header": "latest",
+        "@tygr/logo": "latest",
+        "@tygr/router": "latest",
+        "@tygr/socket": "latest",
+        "@tygr/switch": "latest",
+        "@tygr/tabs": "latest",
+        "@tygr/vue-async-filter": "latest",
+        "@tygr/vue-infinite-scroll": "latest",
+        "@tygr/vue-pie-chart": "latest",
+        "@tygr/vue-time-picker": "latest"
+    }
+}

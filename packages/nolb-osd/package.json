@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-osd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "osd": "latest",
+        "osd-core-ui-sp": "latest",
+        "osd-demo-app": "latest",
+        "osd-notification": "latest",
+        "osd-sitegen": "latest",
+        "osd-template": "latest",
+        "osd600-ssg": "latest",
+        "osd_ssg": "latest",
+        "osdatahub": "latest",
+        "osdb": "latest",
+        "osdb-hash": "latest",
+        "osdc-assessment-module": "latest",
+        "osdev": "latest",
+        "osdevisnot-react-scripts": "latest",
+        "osdfe": "latest",
+        "osdfjnsvcfvseyfvgsdfjhbfdvxsdfv": "latest",
+        "osdi-client": "latest",
+        "osdoc-lint": "latest",
+        "osdoc-ui": "latest",
+        "osdpjs": "latest",
+        "osdream-get-top-star": "latest",
+        "osdselection": "latest",
+        "osdu": "latest",
+        "osdujs": "latest",
+        "osdynamo": "latest"
+    }
+}

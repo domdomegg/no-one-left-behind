@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-1b",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "1b": "latest",
+        "1ba2d7b199994c1bad0767d0f4cbdcca": "latest",
+        "1backend-nodejs-example-service": "latest",
+        "1backend-typescript-example-service": "latest",
+        "1basics": "latest",
+        "1batch": "latest",
+        "1bit": "latest",
+        "1bit-chart-bars": "latest",
+        "1bit-ui": "latest",
+        "1bjorn1_test": "latest",
+        "1broker": "latest",
+        "1broker-client": "latest",
+        "1broker-positions-analyser": "latest",
+        "1bt": "latest"
+    }
+}

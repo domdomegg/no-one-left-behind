@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-grm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grm": "latest",
+        "grm-cli": "latest",
+        "grm-command": "latest",
+        "grm-express": "latest",
+        "grm-helloworld": "latest",
+        "grm-orm": "latest",
+        "grm-token-service": "latest",
+        "grm-vue-modal": "latest",
+        "grmakers": "latest",
+        "grmb": "latest",
+        "grmc": "latest",
+        "grmconvertexcel": "latest",
+        "grmdbfake": "latest",
+        "grmfunctions": "latest",
+        "grmlpdidumple": "latest"
+    }
+}

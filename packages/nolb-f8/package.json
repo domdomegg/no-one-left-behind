@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-f8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "f8": "latest",
+        "f8-unleash-frontend": "latest",
+        "f800-core": "latest",
+        "f87690": "latest",
+        "f8n-pvinis-lib": "latest",
+        "f8t7-hello-wasm": "latest"
+    }
+}

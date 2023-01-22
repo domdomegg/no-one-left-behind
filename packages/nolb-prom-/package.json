@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-prom-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "prom-analysis": "latest",
+        "prom-api": "latest",
+        "prom-calc": "latest",
+        "prom-client": "latest",
+        "prom-client-histogram-reset": "latest",
+        "prom-date": "latest",
+        "prom-decode-lib": "latest",
+        "prom-dress": "latest",
+        "prom-file-client": "latest",
+        "prom-js": "latest",
+        "prom-micro-metrics": "latest",
+        "prom-node-init": "latest",
+        "prom-pb-client": "latest",
+        "prom-pushgateway": "latest",
+        "prom-queen": "latest",
+        "prom-query": "latest",
+        "prom-race": "latest",
+        "prom-scripts": "latest",
+        "prom-seq": "latest",
+        "prom-spawn": "latest",
+        "prom-temper-exporter": "latest",
+        "prom-time": "latest",
+        "prom-tracer": "latest",
+        "prom-utils": "latest"
+    }
+}

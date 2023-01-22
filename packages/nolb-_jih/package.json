@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_jih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jihchi/plugin-rescript": "latest",
+        "@jihchi/vite-plugin-rescript": "latest",
+        "@jihe/commit-lint-config": "latest",
+        "@jihe/cos-doc-preview-sdk": "latest",
+        "@jihe/eslint-config-react": "latest",
+        "@jihe/http-client": "latest",
+        "@jihe/prettier-config": "latest",
+        "@jihe/secure-log": "latest",
+        "@jihe/strapi-provider-upload-cos": "latest",
+        "@jihe/stylelint-config": "latest",
+        "@jihe/template-library": "latest",
+        "@jihe/use-model": "latest",
+        "@jihoonhoztec/lightweight-charts": "latest",
+        "@jihu-fe/eslint-plugin": "latest",
+        "@jihu-fe/svgs": "latest",
+        "@jihuayu/aliyun-iot-sdk": "latest",
+        "@jihusby/hello-world": "latest",
+        "@jihyun.yu/textfilter": "latest"
+    }
+}

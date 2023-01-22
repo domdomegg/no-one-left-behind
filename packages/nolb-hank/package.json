@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-hank",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hank-accordion": "latest",
+        "hank-demo-cli": "latest",
+        "hank-dropdown": "latest",
+        "hank-first-modules": "latest",
+        "hank-orm": "latest",
+        "hank-test-export": "latest",
+        "hank_util": "latest",
+        "hankang1998": "latest",
+        "hankey": "latest",
+        "hankiewicz-kacper-3id-pakiet-testowy": "latest",
+        "hankiewicz-kacper-3id-pakiet-testowy2": "latest",
+        "hanko": "latest",
+        "hanko-sdk": "latest",
+        "hanko-webauthn": "latest",
+        "hankun": "latest"
+    }
+}

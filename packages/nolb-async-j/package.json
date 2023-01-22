@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-async-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "async-janitor": "latest",
+        "async-javascript": "latest",
+        "async-javascript-terminal": "latest",
+        "async-job-analyzer": "latest",
+        "async-job-queue": "latest",
+        "async-js": "latest",
+        "async-js-bootstrap-template": "latest",
+        "async-js-loader": "latest",
+        "async-json": "latest",
+        "async-json-lisp-process": "latest",
+        "async-json-parse": "latest",
+        "async-json-parser": "latest",
+        "async-json-request": "latest",
+        "async-json-schema-traverse": "latest",
+        "async-json-serializer": "latest",
+        "async-json-writer": "latest",
+        "async-json2csv": "latest",
+        "async-jsonwebtoken": "latest",
+        "async-jsx-html": "latest"
+    }
+}

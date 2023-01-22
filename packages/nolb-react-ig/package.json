@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-react-ig",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-ig-feed": "latest",
+        "react-ig-feed-video-no": "latest",
+        "react-ig-indicator": "latest",
+        "react-igmweb": "latest",
+        "react-igniter": "latest",
+        "react-ignore-render": "latest",
+        "react-ignore-rerender": "latest",
+        "react-ignore-unmounted-mixin": "latest",
+        "react-igor": "latest",
+        "react-igrid": "latest"
+    }
+}

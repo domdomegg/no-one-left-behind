@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-cloudj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cloudjester": "latest",
+        "cloudjet-nav": "latest",
+        "cloudjin-element": "latest",
+        "cloudjinzong_element": "latest",
+        "cloudjob": "latest",
+        "cloudjs": "latest",
+        "cloudjson": "latest"
+    }
+}

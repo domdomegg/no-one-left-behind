@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-tu-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tu-button": "latest",
+        "tu-chong-pic-collection": "latest",
+        "tu-commit": "latest",
+        "tu-component": "latest",
+        "tu-cumple": "latest",
+        "tu-design": "latest",
+        "tu-e-button": "latest",
+        "tu-emitter": "latest",
+        "tu-header": "latest",
+        "tu-icon": "latest",
+        "tu-json": "latest",
+        "tu-logos": "latest",
+        "tu-mf-header": "latest",
+        "tu-nguyen-clone-deep": "latest",
+        "tu-schematic": "latest",
+        "tu-styles": "latest",
+        "tu-styling": "latest",
+        "tu-subtitulo-script": "latest",
+        "tu-tools": "latest",
+        "tu-uimodule": "latest",
+        "tu-utils": "latest",
+        "tu-view": "latest",
+        "tu-vue-msg": "latest",
+        "tu-vue-plugin": "latest"
+    }
+}

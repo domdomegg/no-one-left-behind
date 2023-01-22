@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-electron_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "electron.dll": "latest",
+        "electron.gcad": "latest",
+        "electron.js": "latest",
+        "electron.main.nx": "latest",
+        "electron.min.js": "latest",
+        "electron.preload.nx": "latest",
+        "electron_3": "latest",
+        "electron_beacon_app": "latest",
+        "electron_coin_tool": "latest",
+        "electron_core": "latest",
+        "electron_handle": "latest",
+        "electron_handler": "latest",
+        "electron_lec": "latest",
+        "electron_lite": "latest",
+        "electron_multi_logger": "latest",
+        "electron_packager": "latest",
+        "electron_plugin_api": "latest",
+        "electron_sdk": "latest",
+        "electron_share_screen_ui": "latest",
+        "electron_updata": "latest",
+        "electron_updater_node_cli": "latest",
+        "electron_updater_node_core": "latest"
+    }
+}

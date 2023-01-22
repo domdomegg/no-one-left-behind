@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-t-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-t-components": "latest",
+        "react-t-minus": "latest",
+        "react-t-minus-countdown": "latest",
+        "react-t-minus-days": "latest",
+        "react-t-minus-timer": "latest",
+        "react-t-shirt-forms": "latest",
+        "react-t-slider": "latest"
+    }
+}

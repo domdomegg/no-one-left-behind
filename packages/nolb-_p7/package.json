@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_p7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@p7gg/eslint-config": "latest",
+        "@p7gg/eslint-config-basic": "latest",
+        "@p7gg/eslint-config-react": "latest",
+        "@p7gg/eslint-config-solid": "latest",
+        "@p7gg/eslint-config-ts": "latest",
+        "@p7gg/eslint-config-vue": "latest",
+        "@p7m/appointment-backend": "latest",
+        "@p7m/queue-backend": "latest",
+        "@p7m/userauth-backend": "latest"
+    }
+}

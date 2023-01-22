@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-ws_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ws.api": "latest",
+        "ws.direct": "latest",
+        "ws.io": "latest",
+        "ws.js": "latest",
+        "ws.js-buffer-fix": "latest",
+        "ws.js-gclone": "latest",
+        "ws.stream": "latest",
+        "ws.suid": "latest",
+        "ws_bao": "latest",
+        "ws_dzb": "latest",
+        "ws_first": "latest",
+        "ws_front_base": "latest",
+        "ws_js_library": "latest",
+        "ws_livereload": "latest",
+        "ws_socket": "latest",
+        "ws_structure": "latest",
+        "ws_wsl": "latest"
+    }
+}

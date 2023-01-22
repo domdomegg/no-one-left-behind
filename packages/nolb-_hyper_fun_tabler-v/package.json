@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_tabler-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/tabler-vaccine": "latest",
+        "@hyper.fun/tabler-vaccine-bottle": "latest",
+        "@hyper.fun/tabler-variable": "latest",
+        "@hyper.fun/tabler-vector": "latest",
+        "@hyper.fun/tabler-vector-beizer2": "latest",
+        "@hyper.fun/tabler-vector-bezier": "latest",
+        "@hyper.fun/tabler-vector-triangle": "latest",
+        "@hyper.fun/tabler-venus": "latest",
+        "@hyper.fun/tabler-versions": "latest",
+        "@hyper.fun/tabler-video": "latest",
+        "@hyper.fun/tabler-video-minus": "latest",
+        "@hyper.fun/tabler-video-off": "latest",
+        "@hyper.fun/tabler-video-plus": "latest",
+        "@hyper.fun/tabler-view360": "latest",
+        "@hyper.fun/tabler-viewfinder": "latest",
+        "@hyper.fun/tabler-viewport-narrow": "latest",
+        "@hyper.fun/tabler-viewport-wide": "latest",
+        "@hyper.fun/tabler-vinyl": "latest",
+        "@hyper.fun/tabler-virus": "latest",
+        "@hyper.fun/tabler-virus-off": "latest",
+        "@hyper.fun/tabler-virus-search": "latest",
+        "@hyper.fun/tabler-vocabulary": "latest",
+        "@hyper.fun/tabler-volume": "latest",
+        "@hyper.fun/tabler-volume2": "latest",
+        "@hyper.fun/tabler-volume3": "latest"
+    }
+}

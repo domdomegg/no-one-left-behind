@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_gek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gekik/ss-dashboard-base": "latest",
+        "@gekistolyarov/monorepo": "latest",
+        "@gekistolyarov/server": "latest",
+        "@gekorm/mini-css-extract-plugin": "latest",
+        "@gekorm/react-ideal-image": "latest",
+        "@gekorm/sockjs-client": "latest",
+        "@geksorg/common": "latest",
+        "@geksorg/pubsub-custom": "latest"
+    }
+}

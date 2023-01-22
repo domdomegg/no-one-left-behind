@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-ai1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ai1111": "latest",
+        "ai121-map": "latest",
+        "ai18n-cli": "latest",
+        "ai18n-client": "latest",
+        "ai18n-core": "latest",
+        "ai18n-lint": "latest",
+        "ai18n-loader-egg": "latest",
+        "ai18n-loader-eggtyped": "latest",
+        "ai18n-loader-js": "latest",
+        "ai18n-loader-ts": "latest",
+        "ai18n-prettier": "latest",
+        "ai18n-reducer": "latest",
+        "ai18n-translator-google": "latest",
+        "ai18n-translator-manual": "latest",
+        "ai18n-translator-youdao": "latest",
+        "ai18n-type": "latest"
+    }
+}

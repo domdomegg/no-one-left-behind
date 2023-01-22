@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-spa_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "spa.js": "latest",
+        "spa_codegenerator": "latest",
+        "spa_command": "latest",
+        "spa_lang": "latest",
+        "spa_pro_yshenghuo": "latest",
+        "spa_router": "latest"
+    }
+}

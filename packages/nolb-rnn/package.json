@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-rnn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rnn": "latest",
+        "rnn-cli": "latest",
+        "rnn-copilot": "latest",
+        "rnn-hooks": "latest",
+        "rnn-module-sample": "latest",
+        "rnn-screens": "latest",
+        "rnn_notification": "latest",
+        "rnna": "latest",
+        "rnnetworkmonitor": "latest",
+        "rnnjs": "latest",
+        "rnnodejsadder": "latest",
+        "rnnoise": "latest",
+        "rnnoise-wasm": "latest",
+        "rnnote": "latest",
+        "rnnp": "latest",
+        "rnnpmtest": "latest"
+    }
+}

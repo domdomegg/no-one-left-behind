@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-wea-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wea-app-proxy": "latest",
+        "wea-base": "latest",
+        "wea-cli": "latest",
+        "wea-driver": "latest",
+        "wea-ejs": "latest",
+        "wea-intro": "latest",
+        "wea-jade": "latest",
+        "wea-precast-node": "latest",
+        "wea-tool-intro": "latest"
+    }
+}

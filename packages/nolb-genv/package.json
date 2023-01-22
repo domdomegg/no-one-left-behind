@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-genv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "genv": "latest",
+        "genvanademoreact": "latest",
+        "genvector": "latest",
+        "genver": "latest",
+        "genvers": "latest",
+        "genversion": "latest",
+        "genvision": "latest",
+        "genvtest": "latest",
+        "genvtest_ddd_else": "latest",
+        "genvv": "latest",
+        "genvy": "latest"
+    }
+}

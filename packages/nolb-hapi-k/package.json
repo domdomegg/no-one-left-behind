@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-hapi-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hapi-k8s-health": "latest",
+        "hapi-kafka": "latest",
+        "hapi-kafka-node": "latest",
+        "hapi-kafka-plugin": "latest",
+        "hapi-kea-config": "latest",
+        "hapi-keycloak": "latest",
+        "hapi-keycloak-admin-client": "latest",
+        "hapi-keycloak-plugin": "latest",
+        "hapi-km": "latest",
+        "hapi-knex": "latest",
+        "hapi-knex-builder": "latest",
+        "hapi-knex-plugin": "latest",
+        "hapi-knex-postgres": "latest",
+        "hapi-knex-router": "latest",
+        "hapi-knex2": "latest",
+        "hapi-knoc": "latest",
+        "hapi-kong-endpoints": "latest",
+        "hapi-kraken": "latest",
+        "hapi-kue": "latest"
+    }
+}

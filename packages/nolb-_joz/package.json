@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_joz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jozekcore/react-calendar": "latest",
+        "@jozhetak/clist-nn": "latest",
+        "@jozhetak/sls-off": "latest",
+        "@jozhua/generate-json-plugin": "latest",
+        "@jozhua/hr-web-component": "latest",
+        "@jozhua/mk-vue": "latest",
+        "@jozhua/webpack-inline-manifest-plugin": "latest",
+        "@jozi/event-emitter": "latest",
+        "@jozias/java": "latest",
+        "@jozigila/whatsappi": "latest",
+        "@jozsef.morrissey/hello-npm": "latest",
+        "@jozsefsallai/userv": "latest",
+        "@jozsi/facebook-nodejs-business-sdk": "latest",
+        "@jozwiaczek-test-org/npm-publishing": "latest",
+        "@jozwiaczek/npm-publishing": "latest"
+    }
+}

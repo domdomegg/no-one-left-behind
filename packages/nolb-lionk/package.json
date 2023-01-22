@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-lionk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lionk-lib": "latest",
+        "lionking-test": "latest",
+        "lionkingdew-lib": "latest",
+        "lionknight-frame-print": "latest"
+    }
+}

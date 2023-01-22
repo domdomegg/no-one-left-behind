@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_pr-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pr-merger/app": "latest",
+        "@pr-merger/base": "latest",
+        "@pr-merger/core": "latest",
+        "@pr-merger/github": "latest",
+        "@pr-merger/tests": "latest",
+        "@pr-mpt/actions-semver-aliases": "latest",
+        "@pr-mpt/assertions-is-equal": "latest",
+        "@pr-mpt/assertions-is-even": "latest",
+        "@pr-ticketing-app/lib": "latest",
+        "@pr-tickets/common": "latest"
+    }
+}

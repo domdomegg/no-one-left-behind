@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-etp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "etp-eslint-config-vue-typescript": "latest",
+        "etpa-container": "latest",
+        "etpay-sdk": "latest",
+        "etpl": "latest",
+        "etpl-express": "latest",
+        "etpl-extension": "latest",
+        "etpl-loader": "latest",
+        "etpl-revision": "latest",
+        "etpl-wrap": "latest",
+        "etpl2to3": "latest",
+        "etpl3": "latest",
+        "etplugin": "latest",
+        "etpm": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-graphl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graphLock.custom.plugin": "latest",
+        "graphlabs.core.graphs": "latest",
+        "graphlabs.core.lib": "latest",
+        "graphlabs.core.notifier": "latest",
+        "graphlabs.core.template": "latest",
+        "graphlabs.core.visualizer": "latest",
+        "graphlet": "latest",
+        "graphlet-utils": "latest",
+        "graphlib": "latest",
+        "graphlib-adjacency": "latest",
+        "graphlib-dot": "latest",
+        "graphlib-git": "latest",
+        "graphlib-json-graph": "latest",
+        "graphlib-ts": "latest",
+        "graphlib-webpack": "latest",
+        "graphlib2dot": "latest",
+        "graphlib2kgraph": "latest",
+        "graphlibrary": "latest",
+        "graphling": "latest",
+        "graphlite": "latest",
+        "graphlog": "latest",
+        "graphlookup": "latest",
+        "graphloop": "latest",
+        "graphly": "latest"
+    }
+}

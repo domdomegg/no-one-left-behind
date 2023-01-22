@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_datl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datlas/brace": "latest",
+        "@datlas/conventional-dingtalk": "latest",
+        "@datlas/datamap_v2_api": "latest",
+        "@datlas/design": "latest",
+        "@datlas/dmt-cli": "latest",
+        "@datlas/instrument-cra": "latest",
+        "@datlas/mdt-lib": "latest",
+        "@datlas/react-ace": "latest",
+        "@datlinq/cortado-style": "latest",
+        "@datlt/mm-editor": "latest",
+        "@datlyfe/clean-base": "latest",
+        "@datlyfe/clean-ui": "latest",
+        "@datlyfe/vue-apollo-hooks": "latest",
+        "@datlyfe/vue-dropdown": "latest"
+    }
+}

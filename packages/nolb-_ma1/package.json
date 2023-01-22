@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_ma1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ma11hewthomas/aws-ecs-fargate-service-projen-template": "latest",
+        "@ma11hewthomas/backstage-plugin-aws-codepipeline": "latest",
+        "@ma11hewthomas/backstage-plugin-aws-codepipeline-backend": "latest",
+        "@ma11hewthomas/plugin-scaffolder-backend-module-projen": "latest",
+        "@ma11hewthomas/plugin-scaffolder-backend-module-snyk": "latest",
+        "@ma11hewthomas/s3-secure-bucket-cdk-construct": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-conm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "conman": "latest",
+        "conman-memory-source": "latest",
+        "conman-monitor": "latest",
+        "conman-nconf-source": "latest",
+        "conman-s3-source": "latest",
+        "conman-schema-form": "latest",
+        "conmendator-api-client": "latest",
+        "conmmenjs": "latest",
+        "conmmjs": "latest",
+        "conmoaasfsf": "latest",
+        "conmoasgaasfsf": "latest",
+        "conmuite": "latest"
+    }
+}

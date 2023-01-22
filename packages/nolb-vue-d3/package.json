@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-vue-d3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-d3": "latest",
+        "vue-d3-axis": "latest",
+        "vue-d3-barchart": "latest",
+        "vue-d3-basechart": "latest",
+        "vue-d3-chart": "latest",
+        "vue-d3-charts": "latest",
+        "vue-d3-cloud": "latest",
+        "vue-d3-component": "latest",
+        "vue-d3-components": "latest",
+        "vue-d3-geo": "latest",
+        "vue-d3-graphs": "latest",
+        "vue-d3-netgraph": "latest",
+        "vue-d3-network": "latest",
+        "vue-d3-network-plus": "latest",
+        "vue-d3-org-chart": "latest",
+        "vue-d3-rotating-piechart": "latest",
+        "vue-d3-sparkline": "latest",
+        "vue-d3-sunburst": "latest",
+        "vue-d3-sunburst-vince": "latest",
+        "vue-d3-topology": "latest",
+        "vue-d3-uxgraph": "latest",
+        "vue-d3js": "latest"
+    }
+}

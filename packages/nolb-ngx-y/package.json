@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-ngx-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ngx-y2-player": "latest",
+        "ngx-yazuo-click-outside": "latest",
+        "ngx-yazuo-sidenav": "latest",
+        "ngx-ycpay": "latest",
+        "ngx-year-calendar": "latest",
+        "ngx-yeelen": "latest",
+        "ngx-yii2-rest": "latest",
+        "ngx-yolka": "latest",
+        "ngx-yossi": "latest",
+        "ngx-youi": "latest",
+        "ngx-your-library": "latest",
+        "ngx-youtube": "latest",
+        "ngx-youtube-embed": "latest",
+        "ngx-youtube-player": "latest",
+        "ngx-youtube-player-11": "latest",
+        "ngx-youtube-player-14": "latest",
+        "ngx-youtube-player-next": "latest",
+        "ngx-youtube-player-plus": "latest",
+        "ngx-ytd-api": "latest",
+        "ngx-ytplayer": "latest",
+        "ngx-yubinbango": "latest",
+        "ngx-yx-file-lib": "latest"
+    }
+}

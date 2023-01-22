@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_lur",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lura/cli": "latest",
+        "@lurajon/kibana-url-builder": "latest",
+        "@lurblaeser/sockets": "latest",
+        "@lurenjs/config": "latest",
+        "@lurk/drawer": "latest",
+        "@lurotickets/common": "latest",
+        "@luryy/interfaces-base": "latest"
+    }
+}

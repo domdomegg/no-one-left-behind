@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-asz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "asz": "latest",
+        "aszn-data-generator": "latest",
+        "aszn-react-components": "latest"
+    }
+}

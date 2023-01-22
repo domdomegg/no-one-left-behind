@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_onw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@onwardcare/common": "latest",
+        "@onwave/hooks": "latest",
+        "@onwave/ui": "latest",
+        "@onwd/hydra": "latest",
+        "@onwd/immutable": "latest",
+        "@onwd/mutable": "latest",
+        "@onwd/ngws": "latest",
+        "@onwd/trigonometry": "latest",
+        "@onwd/ui": "latest"
+    }
+}

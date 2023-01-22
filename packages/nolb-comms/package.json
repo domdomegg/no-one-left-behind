@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-comms",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "comms": "latest",
+        "commsec": "latest",
+        "commsec-advisory-services": "latest",
+        "commsecjs": "latest",
+        "commspec": "latest",
+        "commspec-webpack-plugin": "latest",
+        "commsss": "latest",
+        "commsware-styles": "latest"
+    }
+}

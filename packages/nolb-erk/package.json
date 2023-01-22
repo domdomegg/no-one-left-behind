@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-erk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "erk": "latest",
+        "erkalicious-grunt-este-watch": "latest",
+        "erkalicious-grunt-watch": "latest",
+        "erkalicious-prototypes": "latest",
+        "erkanina-test-pack": "latest",
+        "erkelost": "latest",
+        "erkhembayar-first": "latest",
+        "erkhembayar-first-package": "latest",
+        "erkhembayar-second": "latest",
+        "erkhet-plugin-core": "latest",
+        "erkjbro-npm-deploy": "latest",
+        "erkobridee": "latest",
+        "erkr-semver-test": "latest",
+        "erkzq": "latest"
+    }
+}

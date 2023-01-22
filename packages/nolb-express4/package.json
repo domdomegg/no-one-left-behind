@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-express4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "express4": "latest",
+        "express4-handlebars": "latest",
+        "express4-mongo": "latest",
+        "express4-resource": "latest",
+        "express4-route-loader": "latest",
+        "express4-routes-loader": "latest",
+        "express4-seed": "latest",
+        "express4-skeleton": "latest",
+        "express4-ssevent": "latest",
+        "express4-tedious": "latest",
+        "express4-wrapper": "latest",
+        "express404": "latest",
+        "express4x-bootstrap-aws": "latest",
+        "express4x-bootstrap-directory": "latest",
+        "express4x-bootstrap-domain-token": "latest",
+        "express4x-bootstrap-form-data": "latest",
+        "express4x-bootstrap-launcher": "latest",
+        "express4x-bootstrap-mysql": "latest",
+        "express4x-bootstrap-route": "latest",
+        "express4x-bootstrap-session": "latest",
+        "express4x-bootstrap-template": "latest"
+    }
+}

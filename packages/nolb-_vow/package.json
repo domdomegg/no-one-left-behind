@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_vow",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vow-app/ui-library": "latest",
+        "@vow-cli/await-catch-loader": "latest",
+        "@vow-cli/core": "latest",
+        "@vow-cli/exec": "latest",
+        "@vow-cli/get-npm-info": "latest",
+        "@vow-cli/init": "latest",
+        "@vow-cli/koa-template": "latest",
+        "@vow-cli/log": "latest",
+        "@vow-cli/template": "latest",
+        "@vow-cli/utils": "latest",
+        "@vow-cli/vue3-admin-template": "latest",
+        "@vow-cli/vue3-mobile-template": "latest",
+        "@vowlink/protocol": "latest",
+        "@vowlink/sqlite-storage": "latest",
+        "@vowlink/swarm": "latest",
+        "@vowo/chart-elements": "latest",
+        "@vowo/fluid-form-elements": "latest",
+        "@vowo/google-apis": "latest",
+        "@vowo/google-map": "latest",
+        "@vowo/icon-advisor": "latest",
+        "@vowo/icons": "latest",
+        "@vowo/loading-animation": "latest",
+        "@vowo/paper-expansion-panel": "latest",
+        "@vowo/vowo-img-cropper": "latest"
+    }
+}

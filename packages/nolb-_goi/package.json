@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_goi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@goiarlabs/cordova-plugin-file-transfer": "latest",
+        "@goiarlabs/cordova-plugin-firebase-authentication": "latest",
+        "@goiarlabs/cordova-plugin-photo-library": "latest",
+        "@goiblas/ngcountdown": "latest",
+        "@goil_security/goil-alerts": "latest",
+        "@going2/rn-metrics": "latest",
+        "@goingdust/lotide": "latest",
+        "@goinnovative/parallaxo": "latest",
+        "@goiot/goiot": "latest"
+    }
+}

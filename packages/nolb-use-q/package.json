@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-use-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "use-query": "latest",
+        "use-query-display": "latest",
+        "use-query-fetcher": "latest",
+        "use-query-hook": "latest",
+        "use-query-issue": "latest",
+        "use-query-param": "latest",
+        "use-query-parameters": "latest",
+        "use-query-params": "latest",
+        "use-query-params-state": "latest",
+        "use-query-rd": "latest",
+        "use-query-react": "latest",
+        "use-query-state": "latest",
+        "use-query-state-react-query": "latest",
+        "use-query-string": "latest",
+        "use-queue": "latest",
+        "use-quick-state": "latest"
+    }
+}

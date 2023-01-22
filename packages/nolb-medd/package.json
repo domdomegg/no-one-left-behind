@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-medd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "meddelare-counters": "latest",
+        "meddelare-express": "latest",
+        "meddelare-server": "latest",
+        "meddi-cuestionario": "latest",
+        "meddi-lib": "latest",
+        "meddler": "latest",
+        "meddleware": "latest",
+        "meddy672-angular-library": "latest"
+    }
+}

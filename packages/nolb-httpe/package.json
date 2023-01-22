@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-httpe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "httpe": "latest",
+        "httpea": "latest",
+        "httpeace-node-core": "latest",
+        "httpeace-node-plugin-upload": "latest",
+        "httpeace-page-editor": "latest",
+        "httpedis": "latest",
+        "httper": "latest",
+        "httperest": "latest",
+        "httperfjs": "latest",
+        "httperr": "latest",
+        "httperror": "latest",
+        "httperrorjs": "latest",
+        "httperrors": "latest",
+        "httpervert": "latest",
+        "httpeter": "latest",
+        "httpetite": "latest",
+        "httpex": "latest",
+        "httpexceptions": "latest",
+        "httpextender": "latest"
+    }
+}

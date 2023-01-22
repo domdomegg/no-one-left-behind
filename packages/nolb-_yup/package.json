@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_yup",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yup80/yp-button": "latest",
+        "@yupeiq1718/map-creator": "latest",
+        "@yuping-cli-dev/core": "latest",
+        "@yupio/aws-sm-dotenv": "latest",
+        "@yupio/contract-addresses": "latest",
+        "@yupio/react-native-share-menu": "latest"
+    }
+}

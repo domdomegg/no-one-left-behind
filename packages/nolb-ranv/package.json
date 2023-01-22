@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-ranv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ranvier": "latest",
+        "ranvier-auto-login": "latest",
+        "ranvier-datasource-file": "latest",
+        "ranvier-datasource-redis": "latest",
+        "ranvier-datasource-sqlite": "latest",
+        "ranvier-mongodb-datasource": "latest",
+        "ranvier-telnet": "latest"
+    }
+}

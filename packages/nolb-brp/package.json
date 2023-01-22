@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-brp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brp": "latest",
+        "brp-depend": "latest",
+        "brp-hjson": "latest",
+        "brp-template": "latest",
+        "brpay": "latest",
+        "brpc": "latest",
+        "brpdvlib": "latest",
+        "brph-mean-auth": "latest",
+        "brpix-api-node": "latest",
+        "brpkg": "latest",
+        "brpoplpush-async": "latest"
+    }
+}

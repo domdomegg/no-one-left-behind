@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_testd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@testdao/testdao": "latest",
+        "@testdao/testone": "latest",
+        "@testdavo/test": "latest",
+        "@testdavo/test2": "latest",
+        "@testdeck/core": "latest",
+        "@testdeck/di-typedi": "latest",
+        "@testdeck/jasmine": "latest",
+        "@testdeck/jest": "latest",
+        "@testdeck/mocha": "latest",
+        "@testdeck/vitest": "latest",
+        "@testdevti/storecomredux": "latest",
+        "@testdg/uiwebviewcookies": "latest",
+        "@testdnb/eslint-config-dnb": "latest",
+        "@testdozer/ng-cmd-builder": "latest",
+        "@testdozer/ng-injector-types": "latest"
+    }
+}

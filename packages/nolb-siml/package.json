@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-siml",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "siml": "latest",
+        "siml-angular-brunch": "latest",
+        "siml-brunch": "latest",
+        "siml-loader": "latest",
+        "siml-static-brunch": "latest",
+        "simla": "latest",
+        "simlab": "latest",
+        "simle-add-or-raise-function": "latest",
+        "simlife-bot": "latest",
+        "simlife-core": "latest",
+        "simload": "latest",
+        "simlog": "latest"
+    }
+}

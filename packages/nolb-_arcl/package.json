@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_arcl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@arclamp/bar": "latest",
+        "@arclamp/baz": "latest",
+        "@arclamp/eps": "latest",
+        "@arclamp/foo": "latest",
+        "@arclamp/sunburst-chart": "latest",
+        "@arclamp/warpcore": "latest",
+        "@arcloud/vue-multiselect-ar": "latest"
+    }
+}

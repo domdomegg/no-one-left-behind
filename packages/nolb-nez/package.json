@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-nez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nez": "latest",
+        "neza-react-forms": "latest",
+        "neza-react-tables": "latest",
+        "nezaldi": "latest",
+        "nezasa-common": "latest",
+        "nezbold": "latest",
+        "nezcore": "latest",
+        "nezha": "latest",
+        "nezha-cli": "latest",
+        "nezha-echarts-theme": "latest",
+        "nezkit": "latest",
+        "neznamto": "latest",
+        "nezparser": "latest",
+        "nezt": "latest",
+        "nezu": "latest",
+        "nezuko-api": "latest",
+        "nezuminetworkold": "latest"
+    }
+}

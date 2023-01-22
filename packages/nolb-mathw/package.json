@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-mathw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mathwallet5-js-sdk": "latest",
+        "mathware": "latest",
+        "mathwasm": "latest",
+        "mathworkers": "latest"
+    }
+}

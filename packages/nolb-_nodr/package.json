@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_nodr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nodram/serialize": "latest",
+        "@nodrama/cli": "latest",
+        "@nodrama/core": "latest",
+        "@nodrama/http": "latest",
+        "@nodrama/nodrama": "latest",
+        "@nodrama/support": "latest",
+        "@nodriverai/mavjs": "latest",
+        "@nodrize/chartjs-plugin-trendline": "latest",
+        "@nodrize/karluiz": "latest",
+        "@nodrize/nodrize": "latest",
+        "@nodrize/nodrize-common": "latest",
+        "@nodro7/angular-mydatepicker": "latest",
+        "@nodro7/ngx-charts": "latest"
+    }
+}

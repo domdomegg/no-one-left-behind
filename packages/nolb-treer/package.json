@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-treer",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "treer": "latest",
+        "treer_clb_01": "latest",
+        "treer_mkw": "latest",
+        "treer_wqk": "latest",
+        "treer_zph": "latest",
+        "treer_zz": "latest",
+        "treeresolver": "latest"
+    }
+}

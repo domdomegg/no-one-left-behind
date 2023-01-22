@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-yu_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yu.ajax": "latest",
+        "yu.calculator": "latest",
+        "yu.cmdp": "latest",
+        "yu.compress": "latest",
+        "yu.css.ui": "latest",
+        "yu.date": "latest",
+        "yu.event": "latest",
+        "yu.event-bus": "latest",
+        "yu.js.ui": "latest",
+        "yu.logger": "latest",
+        "yu.mobile": "latest",
+        "yu.object": "latest",
+        "yu.to": "latest",
+        "yu.ui": "latest",
+        "yu.validation": "latest",
+        "yu.yu": "latest",
+        "yu_ceshi_fabao": "latest",
+        "yu_common": "latest",
+        "yu_components": "latest",
+        "yu_element": "latest",
+        "yu_js_magic": "latest",
+        "yu_mockjs": "latest",
+        "yu_package": "latest"
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-dey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dey": "latest",
+        "dey1_ctl": "latest",
+        "dey_1": "latest",
+        "deyang-utility": "latest",
+        "deyangcli": "latest",
+        "deyarn": "latest",
+        "deye": "latest",
+        "deyems-frame-print": "latest",
+        "deyi-test-pkg": "latest",
+        "deyihu-dom-to-image": "latest",
+        "deyihu-flatbush": "latest",
+        "deyihu-geometry-extrude": "latest",
+        "deyihu-jsts": "latest",
+        "deyihu-maptalks": "latest",
+        "deyihu-maptalks.three": "latest",
+        "deyihu-maptalks.tileclusterlayer": "latest",
+        "deyin-musicxml-player": "latest",
+        "deyin-ui": "latest",
+        "deymerh-product-card": "latest",
+        "deymos": "latest",
+        "deyo": "latest",
+        "deyou-color": "latest",
+        "deyst074": "latest",
+        "deyu-utils": "latest",
+        "deyy": "latest"
+    }
+}

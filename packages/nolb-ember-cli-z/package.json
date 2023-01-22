@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-ember-cli-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ember-cli-zanata": "latest",
+        "ember-cli-zendesk": "latest",
+        "ember-cli-zero-clipboard": "latest",
+        "ember-cli-zopfli": "latest",
+        "ember-cli-zopim-live-chat": "latest",
+        "ember-cli-zug": "latest",
+        "ember-cli-zuglet": "latest"
+    }
+}

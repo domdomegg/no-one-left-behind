@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-idd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "idd": "latest",
+        "idd-style": "latest",
+        "iddb": "latest",
+        "iddeps": "latest",
+        "iddex-report": "latest",
+        "iddfs": "latest",
+        "iddhd": "latest",
+        "iddqd": "latest",
+        "iddqd-tools": "latest",
+        "iddy-pub": "latest"
+    }
+}

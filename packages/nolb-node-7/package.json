@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-node-7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-7z": "latest",
+        "node-7z-15": "latest",
+        "node-7z-archive": "latest",
+        "node-7z-esf": "latest",
+        "node-7z-forall": "latest",
+        "node-7z-threetwo": "latest",
+        "node-7za": "latest",
+        "node-7zip": "latest"
+    }
+}

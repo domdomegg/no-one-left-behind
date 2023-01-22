@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-num2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "num2": "latest",
+        "num2capital": "latest",
+        "num2cheque": "latest",
+        "num2chinese": "latest",
+        "num2chinesenum": "latest",
+        "num2chn": "latest",
+        "num2fraction": "latest",
+        "num2nepali": "latest",
+        "num2persian": "latest",
+        "num2str": "latest",
+        "num2string": "latest",
+        "num2txt": "latest",
+        "num2word": "latest",
+        "num2word-kk": "latest",
+        "num2word-mm": "latest",
+        "num2words": "latest",
+        "num2zh": "latest"
+    }
+}

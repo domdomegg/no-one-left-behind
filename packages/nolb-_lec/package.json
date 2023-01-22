@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_lec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lec/electron": "latest",
+        "@lecafeautomatique/slimdom-sax-parser": "latest",
+        "@lechatblanc/common": "latest",
+        "@lechaterrant/lantern": "latest",
+        "@lechaterrant/templated-project-cli": "latest",
+        "@lechnerc77/create-funcdocker-cli": "latest",
+        "@lechuga01/my-app": "latest",
+        "@lecire/excalidraw": "latest",
+        "@leciseau/react-native-emarsys": "latest",
+        "@lecoqjacob/geotic-ts": "latest",
+        "@lecoqjacob/wglt": "latest",
+        "@lecoupa/v-hotkey": "latest",
+        "@lecstor/app-error": "latest",
+        "@lecstor/redux-helpers": "latest",
+        "@lectra/ld-react-feature-flags": "latest",
+        "@lectro/babel-preset-lectro": "latest",
+        "@lectro/coderipper": "latest",
+        "@lectro/core": "latest",
+        "@lectro/enhancer-buildutils": "latest",
+        "@lectro/enhancer-commonutils": "latest",
+        "@lectro/enhancer-flowruntime": "latest",
+        "@lectro/enhancer-types": "latest",
+        "@lectro/mantle": "latest",
+        "@lectro/node": "latest",
+        "@lectrum/eslint-config-core": "latest",
+        "@lectrum/generator-ui": "latest",
+        "@leczmybol/component-library": "latest"
+    }
+}

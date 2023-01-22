@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-karmac",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "karmachain": "latest",
+        "karmachain-api": "latest",
+        "karmachain-ecc": "latest",
+        "karmachain-transactions": "latest",
+        "karmachromelauncer": "latest",
+        "karmaclient": "latest",
+        "karmacoverag": "latest",
+        "karmacracy-javascript-api": "latest",
+        "karmacv-cli": "latest",
+        "karmacv-theme-retro": "latest",
+        "karmacv-themes": "latest"
+    }
+}

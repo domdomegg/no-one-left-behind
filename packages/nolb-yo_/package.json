@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-yo_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yo.js": "latest",
+        "yo.tt": "latest",
+        "yo_chat_js_api": "latest",
+        "yo_mama": "latest",
+        "yo_npm": "latest",
+        "yo_utils_00": "latest"
+    }
+}

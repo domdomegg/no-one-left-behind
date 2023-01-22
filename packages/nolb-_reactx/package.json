@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_reactx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reactx-components/reactx-form-components": "latest",
+        "@reactx-components/reactx-overlay-components": "latest",
+        "@reactx-components/reactx-web-components": "latest",
+        "@reactxsw/truewallet-voucher-api": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_huv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@huvboo/cwc": "latest",
+        "@huvboo/cwc-ui": "latest",
+        "@huvrdata/evaluate": "latest"
+    }
+}

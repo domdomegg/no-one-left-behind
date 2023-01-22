@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-wangr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wangrao_week1_test": "latest",
+        "wangrensan-lowcode-materials": "latest",
+        "wangrj-cli": "latest",
+        "wangrj-hs-text-lib": "latest",
+        "wangrollin": "latest",
+        "wangrs": "latest",
+        "wangruirui": "latest",
+        "wangruizhe-npm-demo": "latest",
+        "wangruolin": "latest",
+        "wangrx-test-01": "latest"
+    }
+}

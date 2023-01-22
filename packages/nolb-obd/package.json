@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-obd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "obd": "latest",
+        "obd-ii-decoder": "latest",
+        "obd-parser": "latest",
+        "obd-parser-bluetooth-connection": "latest",
+        "obd-parser-cli": "latest",
+        "obd-parser-development-connection": "latest",
+        "obd-parser-serial-connection": "latest",
+        "obd-pomelo-globalchannel-plugin": "latest",
+        "obd-sms-plugin": "latest",
+        "obd-utils": "latest",
+        "obd2": "latest",
+        "obd2-over-serial": "latest",
+        "obd2-signalk": "latest",
+        "obdb": "latest",
+        "obdii": "latest",
+        "obdots": "latest"
+    }
+}

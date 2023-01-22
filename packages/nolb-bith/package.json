@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-bith",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bithesap": "latest",
+        "bithodl-service": "latest",
+        "bithook": "latest",
+        "bithound": "latest",
+        "bithub": "latest",
+        "bithub-embed": "latest",
+        "bithumb": "latest",
+        "bithumb-cli": "latest",
+        "bithumb-m": "latest",
+        "bithumb.js": "latest",
+        "bithumbapi": "latest",
+        "bithwebapptest": "latest"
+    }
+}

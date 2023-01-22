@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-getj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "getj": "latest",
+        "getjdck": "latest",
+        "getjs": "latest",
+        "getjson": "latest",
+        "getjson-google-sheets": "latest",
+        "getjsoneasily": "latest",
+        "getjsonsarray": "latest",
+        "getjv-num-pad": "latest"
+    }
+}

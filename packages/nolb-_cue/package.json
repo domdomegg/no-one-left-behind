@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_cue",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cuebit/eslint-config": "latest",
+        "@cuecue/app": "latest",
+        "@cuecue/cli": "latest",
+        "@cuecue/core": "latest",
+        "@cuecue/http": "latest",
+        "@cuecue/osc": "latest",
+        "@cuecue/pubnub": "latest",
+        "@cuecue/socketio": "latest",
+        "@cuecue/store-mysql": "latest",
+        "@cueepicmusic/lotide": "latest",
+        "@cuemby/ct": "latest",
+        "@cuemby/equinix": "latest",
+        "@cuenca-mx/cep": "latest",
+        "@cuenca-mx/cuenca-js": "latest",
+        "@cuenca-mx/tamayo": "latest",
+        "@cuenect/regular-table": "latest"
+    }
+}

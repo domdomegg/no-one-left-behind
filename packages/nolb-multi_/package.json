@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-multi_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "multi.js": "latest",
+        "multi.language.input": "latest",
+        "multi.min.js": "latest",
+        "multi_array": "latest",
+        "multi_brush_react_component": "latest",
+        "multi_map_test_sera": "latest",
+        "multi_page_webpack_react_app": "latest",
+        "multi_page_webpack_react_app-cli": "latest",
+        "multi_runner": "latest",
+        "multi_table_react": "latest",
+        "multi_tool_node": "latest",
+        "multi_url": "latest",
+        "multi_use_convertor": "latest",
+        "multi_view": "latest"
+    }
+}

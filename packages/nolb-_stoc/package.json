@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_stoc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stochaztic/array-loader": "latest",
+        "@stock-bot-sdk/bot": "latest",
+        "@stock-bot/api": "latest",
+        "@stock-bot/bot": "latest",
+        "@stock-bot/modules": "latest",
+        "@stockbit/apidoc-swagger": "latest",
+        "@stockfiller-public/stockfiller-canvas": "latest",
+        "@stockfit/react-native-marquee-any": "latest",
+        "@stockholm-transit/departures": "latest",
+        "@stockholm-transit/locations": "latest",
+        "@stockholm-transit/service-alerts": "latest",
+        "@stockholm-transit/shared": "latest",
+        "@stockly/npm-config": "latest",
+        "@stockmind/vue-brace": "latest",
+        "@stockninja/common": "latest",
+        "@stocknote/components": "latest",
+        "@stocknote/lib": "latest",
+        "@stockopedia/angular-inport": "latest",
+        "@stockopedia/carousel": "latest",
+        "@stockopedia/octommit": "latest",
+        "@stockopedia/typed-env": "latest",
+        "@stocksnova/common": "latest",
+        "@stockvio/eslint-config": "latest",
+        "@stockway/env": "latest",
+        "@stockway/model": "latest"
+    }
+}

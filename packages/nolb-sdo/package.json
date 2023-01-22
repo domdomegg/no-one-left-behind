@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-sdo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sdo": "latest",
+        "sdo-converter": "latest",
+        "sdoc": "latest",
+        "sdom-js": "latest",
+        "sdomino": "latest",
+        "sdop": "latest",
+        "sdop-discord": "latest",
+        "sdop-web": "latest",
+        "sdopx": "latest",
+        "sdorex": "latest",
+        "sdot420-frame-print": "latest",
+        "sdow": "latest",
+        "sdown": "latest"
+    }
+}

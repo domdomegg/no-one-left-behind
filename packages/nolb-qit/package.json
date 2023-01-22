@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-qit",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qit": "latest",
+        "qit-form": "latest",
+        "qit-project-test": "latest",
+        "qit-publish": "latest",
+        "qit-react-tiny-autosuggest2": "latest",
+        "qit-react-tiny-autosuggest3": "latest",
+        "qitao-first-component": "latest",
+        "qite": "latest",
+        "qitech-wrapper": "latest",
+        "qitest1": "latest",
+        "qitian": "latest",
+        "qitian-xuehui-duanxian-chaogu-jiqiao": "latest",
+        "qitiandashen-date": "latest",
+        "qitiandasheng-captcha": "latest",
+        "qitiandasheng-date": "latest",
+        "qitiandasheng-excel-export": "latest",
+        "qitiandasheng-myvue-cli": "latest",
+        "qitiandasheng-qs": "latest",
+        "qitiandasheng-ui": "latest",
+        "qitignore": "latest",
+        "qitmeer-js": "latest",
+        "qitom_ba": "latest",
+        "qitu": "latest"
+    }
+}

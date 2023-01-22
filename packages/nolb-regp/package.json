@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-regp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "regpack": "latest",
+        "regpage": "latest",
+        "regpu": "latest",
+        "regpu2": "latest",
+        "regpu3": "latest",
+        "regpu4": "latest",
+        "regpu5": "latest",
+        "regpu6": "latest",
+        "regpu7": "latest",
+        "regpu9": "latest"
+    }
+}

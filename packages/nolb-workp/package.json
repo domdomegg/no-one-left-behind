@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-workp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "workpack": "latest",
+        "workpaljs": "latest",
+        "workpentestvirus": "latest",
+        "workplace": "latest",
+        "workplace-bot-message-emitter": "latest",
+        "workplace-component": "latest",
+        "workplace-components": "latest",
+        "workplace-initiative-components": "latest",
+        "workplacex-cli": "latest",
+        "workplan-mod": "latest",
+        "workplan-models": "latest",
+        "workplayerapi": "latest",
+        "workpleasehj": "latest",
+        "workplus": "latest",
+        "workplus-api": "latest",
+        "workplus-cli": "latest",
+        "workplus-escape": "latest",
+        "workplus-query-string": "latest",
+        "workplus-simple-storage": "latest"
+    }
+}

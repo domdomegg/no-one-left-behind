@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-vue-cli",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cli": "latest",
+        "@zalastax/nolb-vue-cli-": "latest",
+        "@zalastax/nolb-vue-cli2": "latest",
+        "@zalastax/nolb-vue-cli3": "latest",
+        "@zalastax/nolb-vue-cli4": "latest",
+        "@zalastax/nolb-vue-clic": "latest",
+        "@zalastax/nolb-vue-clie": "latest",
+        "@zalastax/nolb-vue-clil": "latest",
+        "@zalastax/nolb-vue-clim": "latest",
+        "@zalastax/nolb-vue-clip": "latest",
+        "@zalastax/nolb-vue-clis": "latest"
+    }
+}

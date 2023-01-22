@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-doci",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "docid": "latest",
+        "docid-f": "latest",
+        "docifier": "latest",
+        "docify": "latest",
+        "docify-react-scripts": "latest",
+        "docikaci": "latest",
+        "docile": "latest",
+        "docile-ui": "latest",
+        "docimax": "latest",
+        "docimax-mrc": "latest",
+        "docin-cli": "latest",
+        "docincode": "latest",
+        "docindex": "latest",
+        "docintel": "latest",
+        "dociql": "latest",
+        "docit": "latest",
+        "docit_pro": "latest",
+        "docium": "latest"
+    }
+}

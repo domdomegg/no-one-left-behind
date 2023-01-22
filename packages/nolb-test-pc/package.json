@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-test-pc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "test-pc-component": "latest",
+        "test-pc-ui": "latest",
+        "test-pcj-cli": "latest",
+        "test-pcj-lib-cli": "latest",
+        "test-pckage-quentin": "latest",
+        "test-pckg-moamen": "latest",
+        "test-pcrd": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-react-ps",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-ps-headding-component": "latest",
+        "react-ps-navbar": "latest",
+        "react-ps-table": "latest",
+        "react-pseudo": "latest",
+        "react-pseudo-props": "latest",
+        "react-pseudo-state": "latest",
+        "react-pseudo-style": "latest",
+        "react-pseudostyler": "latest",
+        "react-psone": "latest",
+        "react-psrisandate-picker": "latest",
+        "react-pstate": "latest",
+        "react-psu-anime": "latest",
+        "react-pswot-plot": "latest",
+        "react-pswp": "latest",
+        "react-psych": "latest"
+    }
+}

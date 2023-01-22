@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_maxl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@maxlapko/screenshot-glb": "latest",
+        "@maxletou/janis": "latest",
+        "@maxletou/livechat-ui-kit": "latest",
+        "@maxletou/mst-gql": "latest",
+        "@maxletou/ngx-aws-deploy": "latest",
+        "@maxlisui/rete-angular-render-plugin": "latest",
+        "@maxlmore/component-library-react": "latest",
+        "@maxlmore/design-library": "latest",
+        "@maxlmore/design-library-react": "latest",
+        "@maxlmore/design-library-v0": "latest",
+        "@maxload.io/agent": "latest",
+        "@maxlxq/maxlxq_utils": "latest"
+    }
+}

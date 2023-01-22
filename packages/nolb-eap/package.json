@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-eap",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eap-cli": "latest",
+        "eap-comments-api": "latest",
+        "eap-consent": "latest",
+        "eap5": "latest",
+        "eap5_test": "latest",
+        "eapcase": "latest",
+        "eapi": "latest",
+        "eapi-bearer-token": "latest",
+        "eapi-uid": "latest",
+        "eapi-validate": "latest",
+        "eapilwebsdk": "latest",
+        "eaplayer": "latest",
+        "eapletter": "latest",
+        "eapp": "latest",
+        "eapp-h5-plus-vue": "latest",
+        "eapp-store": "latest",
+        "eapp-uni": "latest",
+        "eapp-vue-yitiji": "latest",
+        "eappcreate": "latest",
+        "eapply": "latest",
+        "eapstyles": "latest",
+        "eaptain": "latest",
+        "eaptain-cli": "latest",
+        "eaptain-generate": "latest",
+        "eaptain-getport": "latest",
+        "eaptain-proxy": "latest"
+    }
+}

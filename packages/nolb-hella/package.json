@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-hella",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hella": "latest",
+        "hella-bomb-react-context": "latest",
+        "hella-bot": "latest",
+        "hella-hero": "latest",
+        "hella-slider": "latest",
+        "hellas": "latest",
+        "hellaui": "latest"
+    }
+}

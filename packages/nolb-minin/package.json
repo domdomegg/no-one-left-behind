@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-minin",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "minin": "latest",
+        "mininet": "latest",
+        "mining": "latest",
+        "mining-luck": "latest",
+        "mining-utils": "latest",
+        "mining_auk": "latest",
+        "miningcompany": "latest",
+        "miningo": "latest",
+        "miningpoolhub": "latest",
+        "miningrigrentals-api": "latest",
+        "miningrigrentals-api-v2": "latest",
+        "minini": "latest",
+        "mininode": "latest",
+        "mininodevalidator": "latest",
+        "mininotice": "latest",
+        "mininow": "latest",
+        "mininstlish": "latest",
+        "minint-cli": "latest",
+        "mininurse": "latest"
+    }
+}

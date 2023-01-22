@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-ngy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ngYamlConfig": "latest",
+        "ngy": "latest",
+        "ngy-admin": "latest",
+        "ngy-menu": "latest",
+        "ngy-time-picker": "latest",
+        "ngy-tutorial": "latest",
+        "ngy-year-picker": "latest",
+        "ngyash-select2": "latest",
+        "ngyear-calender": "latest",
+        "ngym-chips": "latest",
+        "ngym-contact": "latest",
+        "ngym-contacts": "latest",
+        "ngym-home": "latest",
+        "ngym-input": "latest",
+        "ngym-prelogin-header": "latest",
+        "ngym-profile-photo": "latest",
+        "ngyn": "latest",
+        "ngyp": "latest",
+        "ngyuki": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-qup",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qup": "latest",
+        "qup--email-manager": "latest",
+        "qup--game-testing-actions": "latest",
+        "qup--teacher-auth": "latest",
+        "qup-email-templates": "latest",
+        "qupanxiday01": "latest",
+        "qupanxiday03": "latest",
+        "qupanxiday05": "latest",
+        "qupanxiday1": "latest",
+        "qupanxiday2": "latest",
+        "qupengbo": "latest",
+        "qupf01": "latest",
+        "qupi": "latest",
+        "qupload": "latest",
+        "qupload-bin": "latest",
+        "qupsk": "latest"
+    }
+}

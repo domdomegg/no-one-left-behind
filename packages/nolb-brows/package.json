@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-brows",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brows": "latest",
+        "@zalastax/nolb-brows-": "latest",
+        "@zalastax/nolb-browsa": "latest",
+        "@zalastax/nolb-browsc": "latest",
+        "@zalastax/nolb-browse": "latest",
+        "@zalastax/nolb-browsh": "latest",
+        "@zalastax/nolb-browsi": "latest",
+        "@zalastax/nolb-browso": "latest",
+        "@zalastax/nolb-browst": "latest",
+        "@zalastax/nolb-browsy": "latest"
+    }
+}

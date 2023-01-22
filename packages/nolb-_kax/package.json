@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_kax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kaxline/etebase": "latest",
+        "@kaxline/leaflet.offline": "latest",
+        "@kaxline/react-native-etebase": "latest",
+        "@kaxline/redux-orm-proptypes": "latest",
+        "@kaxline/streamr-client": "latest"
+    }
+}

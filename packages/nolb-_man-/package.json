@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_man-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@man-app-cli/core": "latest",
+        "@man-app-cli/utils": "latest",
+        "@man-cli-dev/command": "latest",
+        "@man-cli-dev/core": "latest",
+        "@man-cli-dev/exec": "latest",
+        "@man-cli-dev/format-path": "latest",
+        "@man-cli-dev/get-npm-info": "latest",
+        "@man-cli-dev/init": "latest",
+        "@man-cli-dev/log": "latest",
+        "@man-cli-dev/package": "latest",
+        "@man-cli-dev/request": "latest",
+        "@man-cli-dev/utils": "latest",
+        "@man-cli/core": "latest",
+        "@man-cli/utils": "latest",
+        "@man-digital/relay-components": "latest",
+        "@man-digital/relay-components-react": "latest",
+        "@man-digital/relay-design-tokens": "latest",
+        "@man-it/core": "latest",
+        "@man-saeng/clip": "latest"
+    }
+}

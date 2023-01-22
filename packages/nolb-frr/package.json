@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-frr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "frr": "latest",
+        "frr-analytics": "latest",
+        "frr-auth": "latest",
+        "frr-base": "latest",
+        "frr-form": "latest",
+        "frr-global": "latest",
+        "frr-node": "latest",
+        "frr-node-groups-router": "latest",
+        "frr-react-native": "latest",
+        "frr-redux": "latest",
+        "frr-redux-auth": "latest",
+        "frr-rn": "latest",
+        "frr-rn-analytics": "latest",
+        "frr-rn-auth": "latest",
+        "frr-rn-groups": "latest",
+        "frr-rn-settings": "latest",
+        "frr-rn-toast": "latest",
+        "frr-settings": "latest",
+        "frr-test1": "latest",
+        "frr-util": "latest",
+        "frr-web": "latest",
+        "frrb": "latest",
+        "frrivero.math": "latest",
+        "frrless": "latest",
+        "frrt": "latest"
+    }
+}

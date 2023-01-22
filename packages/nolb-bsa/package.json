@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-bsa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bsa": "latest",
+        "bsa-contract": "latest",
+        "bsa-gen": "latest",
+        "bsa-library": "latest",
+        "bsa-library-repo": "latest",
+        "bsa-rc": "latest",
+        "bsa-react-cli": "latest",
+        "bsa-ui": "latest",
+        "bsa.css": "latest",
+        "bsa1974-toolbox": "latest",
+        "bsa2i2env": "latest",
+        "bsacc-md-links": "latest",
+        "bsad-cordova-plugin-marketingcloudsdk": "latest",
+        "bsae-x": "latest",
+        "bsaes": "latest",
+        "bsailogger": "latest",
+        "bsale-cli": "latest",
+        "bsalerts": "latest",
+        "bsangning": "latest",
+        "bsapi": "latest",
+        "bsapi.js": "latest",
+        "bsaq": "latest",
+        "bsasc5245ds_sdk": "latest"
+    }
+}

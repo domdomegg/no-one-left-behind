@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-react-mf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-mf": "latest",
+        "react-mf-breadcrumb": "latest",
+        "react-mf-modal": "latest",
+        "react-mf-starter": "latest",
+        "react-mf-table": "latest",
+        "react-mfb": "latest",
+        "react-mfb-custom": "latest",
+        "react-mfb-fontawesome": "latest",
+        "react-mfb-google-icons": "latest",
+        "react-mfb-iceddev": "latest",
+        "react-mfb-mui": "latest",
+        "react-mfb.js": "latest",
+        "react-mfe": "latest",
+        "react-mflux": "latest",
+        "react-mframe": "latest"
+    }
+}

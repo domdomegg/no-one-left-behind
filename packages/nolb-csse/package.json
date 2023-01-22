@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-csse",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "csse": "latest",
+        "csse-el-ui": "latest",
+        "cssed": "latest",
+        "csseditor": "latest",
+        "csselector": "latest",
+        "cssembed-brunch": "latest",
+        "csser": "latest",
+        "csserror": "latest",
+        "cssesc": "latest",
+        "csset": "latest",
+        "cssevents": "latest",
+        "cssex": "latest",
+        "cssexchangeloader": "latest",
+        "cssexternal": "latest",
+        "csseymour": "latest"
+    }
+}

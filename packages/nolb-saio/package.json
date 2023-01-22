@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-saio",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "saiodgm-api": "latest",
+        "saiodgm-assets-v1": "latest",
+        "saiodgm-home": "latest",
+        "saiodgm-mainblog": "latest",
+        "saiodgm-oiblog": "latest"
+    }
+}

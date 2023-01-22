@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-shau",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shaulaprint": "latest",
+        "shaun-build": "latest",
+        "shaun-calc": "latest",
+        "shaun-component": "latest",
+        "shaun-course": "latest",
+        "shaun-noroff-consoled": "latest",
+        "shaun-noroff-consoled-2": "latest",
+        "shaun-noroff-consoled-3": "latest",
+        "shaun-noroff-consoled-4": "latest",
+        "shaun-noroff-consoled-5": "latest",
+        "shaun-noroff-consoled-6": "latest",
+        "shaun-noroff-consoled-7": "latest",
+        "shaun-noroff-consoled-8": "latest",
+        "shaun-todo-types": "latest",
+        "shaun-todos-ts": "latest",
+        "shaunc-ember-collection": "latest",
+        "shaunhtmltest": "latest",
+        "shaunmodule": "latest",
+        "shaunnpmtest": "latest",
+        "shaunoff-blitz": "latest",
+        "shaunofthelive-palindrome": "latest",
+        "shaunparsertest": "latest",
+        "shaunparsertest2": "latest",
+        "shauns-server": "latest",
+        "shaurl": "latest",
+        "shaurya": "latest"
+    }
+}

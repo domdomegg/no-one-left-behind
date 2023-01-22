@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_unw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@unweave/unweave": "latest",
+        "@unwind/class-name": "latest",
+        "@unwise-door/sipjs-udp-transport": "latest",
+        "@unwise-door/unwise-controller": "latest",
+        "@unwise-door/unwise-mqtt-bridge": "latest",
+        "@unwrap/create-unwrap": "latest",
+        "@unwrittenfun/accesscontrol": "latest"
+    }
+}

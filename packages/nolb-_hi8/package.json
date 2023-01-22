@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_hi8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hi85/renovate-config": "latest",
+        "@hi8u/eslint-config": "latest",
+        "@hi8u/fonts": "latest",
+        "@hi8u/lint-staged": "latest",
+        "@hi8u/logger": "latest"
+    }
+}

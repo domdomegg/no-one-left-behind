@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-sln",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sln": "latest",
+        "sln-builder": "latest",
+        "sln-crawl": "latest",
+        "sln-opener": "latest",
+        "sln-resources": "latest",
+        "slndev": "latest",
+        "slndr-elements": "latest",
+        "slng": "latest",
+        "slnic2": "latest",
+        "slnic3": "latest",
+        "slnicdet": "latest",
+        "slnicextractor": "latest",
+        "slnks": "latest",
+        "slnn-stack": "latest",
+        "slnodejs": "latest",
+        "slnodejs-core": "latest",
+        "slnpm": "latest",
+        "slnpmdemo1": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-fsj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fsj": "latest",
+        "fsj-bootstrap-4": "latest",
+        "fsj-render": "latest",
+        "fsjjv": "latest",
+        "fsjs": "latest",
+        "fsjs-hello-world": "latest",
+        "fsjs-wyero": "latest",
+        "fsjsd-demosite": "latest",
+        "fsjsd-lgr": "latest",
+        "fsjshw": "latest",
+        "fsjson": "latest"
+    }
+}

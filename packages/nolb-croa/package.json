@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-croa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "croact": "latest",
+        "croak": "latest",
+        "croak-backend-sdk": "latest",
+        "croak-grunt-faker": "latest",
+        "croak-wallet-sdk": "latest",
+        "croaker": "latest",
+        "croasdell": "latest",
+        "croatia": "latest",
+        "croatia0101": "latest",
+        "croatonan": "latest"
+    }
+}

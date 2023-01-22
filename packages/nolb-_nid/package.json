@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_nid",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nidavellir/networks": "latest",
+        "@nidavellir/networks-unsafe": "latest",
+        "@nidhi9521/common_demo": "latest",
+        "@nidi/html2canvas": "latest",
+        "@nidomiro/config-helper": "latest",
+        "@nidomiro/relation-tuple-parser": "latest",
+        "@nidomiro/relation-tuple-parser-ory-grpc": "latest",
+        "@nidomiro/relation-tuple-parser-ory-keto": "latest",
+        "@nidomiro/ts-type-utils": "latest",
+        "@nidreim/conversor-kg-lb": "latest",
+        "@nidreim/platzom": "latest",
+        "@nidrux/log.js": "latest",
+        "@nidstang/fifth": "latest",
+        "@nidstang/test": "latest",
+        "@nidstang/test2": "latest",
+        "@nidstang/test3": "latest",
+        "@nidstang/yarn-package": "latest",
+        "@niduu/nids-navbar": "latest",
+        "@niduu/nids-textfields": "latest",
+        "@niduu/nids-theme": "latest",
+        "@nidz01/lotide": "latest",
+        "@nidza-npm/form": "latest"
+    }
+}

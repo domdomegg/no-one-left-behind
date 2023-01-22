@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-nexx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nexx-garage-sdk": "latest",
+        "nexxa-atoa": "latest",
+        "nexxa-partial": "latest",
+        "nexxa-ranger": "latest",
+        "nexxomnia-api-nodejs": "latest",
+        "nexxplay-react": "latest",
+        "nexxtopia": "latest",
+        "nexxtopia-github-auth": "latest",
+        "nexxusjs": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-js-3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "js-360": "latest",
+        "js-3d-model-viewer": "latest",
+        "js-3d-viewer": "latest",
+        "js-3dstk": "latest",
+        "js-3dtoolkit": "latest",
+        "js-3ha3": "latest"
+    }
+}

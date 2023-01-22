@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-hapip",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hapipal-realworld-example-app": "latest",
+        "hapipass-local": "latest",
+        "hapipi-express": "latest",
+        "hapipi-kaikaixinxin": "latest",
+        "hapipi-syzmm": "latest",
+        "hapipixiaokeai-my": "latest",
+        "hapipress": "latest"
+    }
+}

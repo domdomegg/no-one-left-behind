@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_shw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shwao/express-fingerprint": "latest",
+        "@shwaolin/ribosomalrtf": "latest",
+        "@shweta_yadav/helloworld": "latest",
+        "@shweta_yadav/helloworldprivate": "latest",
+        "@shwilliam/basesheet": "latest",
+        "@shwilliam/lorem-cli": "latest",
+        "@shwilliam/react-css-var": "latest",
+        "@shwilliam/react-rubber-slider": "latest",
+        "@shwilliam/react-use-css-var": "latest",
+        "@shwilliam/react-use-form": "latest",
+        "@shwilliam/react-use-hover-direction": "latest",
+        "@shwilliam/todo": "latest"
+    }
+}

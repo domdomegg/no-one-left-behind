@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-prx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "prx": "latest",
+        "prx-auth-module": "latest",
+        "prx-cli": "latest",
+        "prx-ip-filter": "latest",
+        "prx-ng-serve": "latest",
+        "prx-podagent": "latest",
+        "prx-wavefile": "latest",
+        "prx_000": "latest",
+        "prxee": "latest",
+        "prxee-gen": "latest"
+    }
+}

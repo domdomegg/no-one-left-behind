@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-grul",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grul": "latest",
+        "grule": "latest",
+        "grulla-software-icons": "latest",
+        "grulp": "latest",
+        "grulper-load-projects": "latest",
+        "grulper-load-tasks": "latest"
+    }
+}

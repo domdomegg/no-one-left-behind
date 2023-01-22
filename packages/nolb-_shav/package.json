@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_shav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shaval/core": "latest",
+        "@shaval/parsing": "latest",
+        "@shaval/validation": "latest",
+        "@shaveko/jsonpatch": "latest",
+        "@shavenzov/ngx-translate-extract": "latest",
+        "@shavenzov/ngx-translate-extract-marker": "latest",
+        "@shavenzov/po2json": "latest",
+        "@shaviz-wc/base-shaped-visualization-web-component": "latest",
+        "@shaviz-wc/component-manager": "latest",
+        "@shaviz-wc/foaf": "latest",
+        "@shaviz-wc/foaf-profile": "latest",
+        "@shaviz-wc/foaf-profile-picture": "latest",
+        "@shaviz-wc/foaf-profile-with-picture": "latest",
+        "@shaviz-wc/food-establishment-list": "latest",
+        "@shaviz-wc/food-establishment-map": "latest",
+        "@shaviz-wc/prov-graph-visualization": "latest",
+        "@shaviz-wc/schema-address-to-schema-geo-transformation": "latest",
+        "@shaviz-wc/shape-manager": "latest",
+        "@shaviz-wc/shaviz-transformation": "latest",
+        "@shaviz-wc/transformation-shape-manager": "latest",
+        "@shaviz-wc/visualization-dev-tool": "latest",
+        "@shaviz-wc/visualization-shape-manager": "latest"
+    }
+}

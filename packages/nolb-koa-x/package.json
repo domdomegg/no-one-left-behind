@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-koa-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "koa-x": "latest",
+        "koa-x-hub": "latest",
+        "koa-x-request-id": "latest",
+        "koa-xauth": "latest",
+        "koa-xbatis": "latest",
+        "koa-xcontroller": "latest",
+        "koa-xerror": "latest",
+        "koa-xframe": "latest",
+        "koa-xguard": "latest",
+        "koa-xhr-mock": "latest",
+        "koa-xk": "latest",
+        "koa-xlog": "latest",
+        "koa-xlusca": "latest",
+        "koa-xml": "latest",
+        "koa-xml-body": "latest",
+        "koa-xml-body-v2": "latest",
+        "koa-xml-parser": "latest",
+        "koa-xmodel": "latest",
+        "koa-xnosql": "latest",
+        "koa-xray": "latest",
+        "koa-xss-sanitizer": "latest",
+        "koa-xtime": "latest",
+        "koa-xtpl": "latest"
+    }
+}

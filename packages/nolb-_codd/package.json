@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_codd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@coddicat/vue-hexagon": "latest",
+        "@coddicat/vue-map-hexagon": "latest",
+        "@coddicat/vue-pinch-scroll-zoom": "latest",
+        "@coddicat/vue3-pinch-scroll-zoom": "latest",
+        "@coddist/mathx": "latest",
+        "@coddist/mmap": "latest"
+    }
+}

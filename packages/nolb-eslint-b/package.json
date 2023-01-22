@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-eslint-b",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslint-babel-watcher": "latest",
+        "eslint-backbone-validation": "latest",
+        "eslint-badin": "latest",
+        "eslint-bamboo-formatter": "latest",
+        "eslint-bankruptcy": "latest",
+        "eslint-base": "latest",
+        "eslint-base-config": "latest",
+        "eslint-base-config-fe": "latest",
+        "eslint-baseline": "latest",
+        "eslint-basic-file-formatter": "latest",
+        "eslint-beacon": "latest",
+        "eslint-beautiful-config-react-typescript-pro": "latest",
+        "eslint-beautify": "latest",
+        "eslint-blm": "latest",
+        "eslint-boostmyapps": "latest",
+        "eslint-boyscout": "latest",
+        "eslint-browser": "latest",
+        "eslint-browserify": "latest",
+        "eslint-brunch": "latest",
+        "eslint-builtin-compat": "latest",
+        "eslint-bundle": "latest",
+        "eslint-bundled": "latest",
+        "eslint-but-prettier": "latest"
+    }
+}

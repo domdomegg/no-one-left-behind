@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_piy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@piyawasin/attempt": "latest",
+        "@piyoppi/colision-detector": "latest",
+        "@piyoppi/counter-button": "latest",
+        "@piyoppi/object-key-converter": "latest",
+        "@piyoppi/picopico-pad": "latest",
+        "@piyoppi/pixelart-element": "latest",
+        "@piyunior/components-lib": "latest",
+        "@piyush-ezee/yc-login": "latest",
+        "@piyush-pkg/modmail-aliases-parser": "latest",
+        "@piyush97/eslint-config": "latest",
+        "@piyush97/prettier-config": "latest",
+        "@piyush97/tiny": "latest",
+        "@piyush97/typescript-node": "latest",
+        "@piyush_prashant/form_hooks_validation": "latest",
+        "@piyushimraw/objects-to-csv": "latest",
+        "@piyushimraw/react-native-video-controls": "latest",
+        "@piyushimraw/react-swipe-card": "latest",
+        "@piyushkashyap/common": "latest",
+        "@piyushkumar96-common-libraries/app-auth": "latest",
+        "@piyushkumar96-common-libraries/app-http-request": "latest",
+        "@piyushkumar96-common-libraries/app-logger": "latest",
+        "@piyushkumar96-common-libraries/app-utilities": "latest",
+        "@piyushkumar96-ticketing/common": "latest",
+        "@piyushmishra/grapesjs": "latest",
+        "@piyushmishra/uncss": "latest",
+        "@piyushpatil27/react-file-cli": "latest"
+    }
+}

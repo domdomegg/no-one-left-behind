@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-theh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thehandy": "latest",
+        "thehandy-react": "latest",
+        "thehedgehog": "latest",
+        "thehellmaker-react-native-zeroconf": "latest",
+        "thehelp-client-project": "latest",
+        "thehelp-cluster": "latest",
+        "thehelp-core": "latest",
+        "thehelp-last-ditch": "latest",
+        "thehelp-log-shim": "latest",
+        "thehelp-messaging": "latest",
+        "thehelp-project": "latest",
+        "thehelp-test": "latest",
+        "thehiddenbay": "latest",
+        "thehigestmath_web_lab3": "latest",
+        "thehigherrealm": "latest",
+        "thehive4node": "latest",
+        "thehoneybadger": "latest",
+        "thehover-rest-sdk": "latest",
+        "thehsc-cli": "latest",
+        "thehu-myexpress": "latest",
+        "thehub-compile": "latest",
+        "thehub-dependencies": "latest",
+        "thehub-deploy": "latest",
+        "thehunt-mongoschemas": "latest"
+    }
+}

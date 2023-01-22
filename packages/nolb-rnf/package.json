@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-rnf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rnf": "latest",
+        "rnfa-rb42": "latest",
+        "rnfb-cached-image": "latest",
+        "rnfb-cli": "latest",
+        "rnfeaturecli": "latest",
+        "rnfieldset": "latest",
+        "rnfn": "latest",
+        "rnfr-cli": "latest",
+        "rnfrst-xcode": "latest",
+        "rnfs-cli": "latest",
+        "rnfslynavigation": "latest",
+        "rnfstest": "latest",
+        "rnfui": "latest"
+    }
+}

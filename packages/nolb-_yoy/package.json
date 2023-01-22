@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_yoy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yoy20/css-sorter": "latest",
+        "@yoy20/prettier-plugin-css-order": "latest",
+        "@yoyo-games/webcomponent-cookies": "latest",
+        "@yoyodesign/jort": "latest",
+        "@yoyohan1/vue-page-transition": "latest",
+        "@yoyohan1/vue-treeselect": "latest",
+        "@yoyojs/hooks": "latest",
+        "@yoyoluxi/pkg1": "latest",
+        "@yoyoluxi/pkg2": "latest",
+        "@yoyoluxi/pkg3": "latest",
+        "@yoyoluxi/pkg4": "latest",
+        "@yoyoman-cli-dev/core": "latest",
+        "@yoyoman-cli-dev/utils": "latest",
+        "@yoyote/gitinit": "latest",
+        "@yoyotruly/lotide": "latest",
+        "@yoyoys/eslint-config-typescript-prettier-airbnb": "latest",
+        "@yoyoys/eslint-config-vue-typescript-prettier-airbnb": "latest",
+        "@yoyyyyo/nftsync": "latest",
+        "@yoyyyyo/sealed": "latest",
+        "@yoyyyyo/soulbound": "latest"
+    }
+}

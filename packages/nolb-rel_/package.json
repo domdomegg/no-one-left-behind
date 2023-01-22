@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-rel_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rel.js": "latest",
+        "rel_element": "latest",
+        "rel_util_test": "latest"
+    }
+}

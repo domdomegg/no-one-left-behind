@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-buildf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "buildfile": "latest",
+        "buildfire": "latest",
+        "buildfire-cli": "latest",
+        "buildfire-cordova-plugin-calendar": "latest",
+        "buildfire-sdk": "latest",
+        "buildfirst": "latest",
+        "buildfirst-ci-by-example": "latest",
+        "buildfont": "latest",
+        "buildformdata-rmonterrosa": "latest",
+        "buildframe": "latest",
+        "buildframework": "latest",
+        "buildfresh": "latest",
+        "buildfrontend-tests": "latest",
+        "buildfu": "latest",
+        "buildfy": "latest"
+    }
+}

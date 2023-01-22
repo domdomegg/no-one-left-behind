@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-hapi-e",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hapi-easy-router": "latest",
+        "hapi-easy-session": "latest",
+        "hapi-echo-routes": "latest",
+        "hapi-elapsed": "latest",
+        "hapi-elasticsearch": "latest",
+        "hapi-email": "latest",
+        "hapi-email-kue": "latest",
+        "hapi-email-plugin": "latest",
+        "hapi-embargo": "latest",
+        "hapi-ember": "latest",
+        "hapi-ember-fastboot": "latest",
+        "hapi-emitter": "latest",
+        "hapi-ending": "latest",
+        "hapi-epoxy": "latest",
+        "hapi-error": "latest",
+        "hapi-error-logger": "latest",
+        "hapi-error-page": "latest",
+        "hapi-error-schemas": "latest",
+        "hapi-errors": "latest",
+        "hapi-es7-async-handler": "latest",
+        "hapi-etagger": "latest",
+        "hapi-etags": "latest",
+        "hapi-event-store": "latest",
+        "hapi-exception": "latest",
+        "hapi-exit": "latest",
+        "hapi-ext-error": "latest",
+        "hapi-extends": "latest"
+    }
+}

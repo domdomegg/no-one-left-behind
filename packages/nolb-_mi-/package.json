@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_mi-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mi-cli/core": "latest",
+        "@mi-cli/utils": "latest",
+        "@mi-gallery/ad-sdk": "latest",
+        "@mi-sec/ip": "latest",
+        "@mi-sec/lightmap": "latest",
+        "@mi-sec/mac-address": "latest",
+        "@mi-sec/network-cidr": "latest",
+        "@mi-sec/npm-information": "latest",
+        "@mi-sec/passport-geoaxis-oauth": "latest",
+        "@mi-sec/ping": "latest",
+        "@mi-sec/port-scanner": "latest",
+        "@mi-sec/wol": "latest"
+    }
+}

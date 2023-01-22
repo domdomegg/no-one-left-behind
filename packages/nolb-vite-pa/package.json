@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-vite-pa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vite-package": "latest",
+        "vite-packager": "latest",
+        "vite-pages": "latest",
+        "vite-pages-theme-basic": "latest",
+        "vite-pages-theme-doc": "latest",
+        "vite-pages-theme-doc2": "latest",
+        "vite-pages-theme-press": "latest"
+    }
+}

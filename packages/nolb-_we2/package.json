@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_we2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@we2/now-flask": "latest",
+        "@we2/npm_publish": "latest",
+        "@we2/tinyui": "latest",
+        "@we2rss/app": "latest",
+        "@we2rss/cli": "latest",
+        "@we2rss/common": "latest",
+        "@we2rss/core": "latest",
+        "@we2rss/server": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-com_o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "com.octolab.jester-serialize": "latest",
+        "com.octpos.helloworld": "latest",
+        "com.oculus.integration.vr": "latest",
+        "com.omarben.inappreview": "latest",
+        "com.onesignal-test.unity.android": "latest",
+        "com.onesignal-test.unity.bootstrap": "latest",
+        "com.onesignal-test.unity.core": "latest",
+        "com.onesignal-test.unity.ios": "latest",
+        "com.onesignal.unity.android": "latest",
+        "com.onesignal.unity.core": "latest",
+        "com.onesignal.unity.ios": "latest",
+        "com.onestop.cordova.barcodescanner": "latest",
+        "com.org-name.package-name": "latest",
+        "com.orion.app.keyboard": "latest",
+        "com.os.mobile.blinkid": "latest",
+        "com.os.mobile.blinkreceipt": "latest",
+        "com.oshoham.unity-google-cloud-streaming-speech-to-text": "latest",
+        "com.ourpalm.ilruntime": "latest",
+        "com.outsystems.imageeditorplugin": "latest",
+        "com.outsystems.plugins.fileviewer": "latest",
+        "com.owl.spout": "latest"
+    }
+}

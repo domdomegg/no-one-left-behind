@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-yow",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yow": "latest",
+        "yoweb": "latest",
+        "yoweb-sdk": "latest",
+        "yowjs": "latest",
+        "yowl": "latest",
+        "yowl-classifier-bayes": "latest",
+        "yowl-context-memory": "latest",
+        "yowl-context-redis": "latest",
+        "yowl-context-rethink": "latest",
+        "yowl-dialog-manager": "latest",
+        "yowl-examples": "latest",
+        "yowl-exmaple-reminders": "latest",
+        "yowl-jobs-kue": "latest",
+        "yowl-lock-redis": "latest",
+        "yowl-parse-dates": "latest",
+        "yowl-platform-cli": "latest",
+        "yowl-platform-facebook": "latest",
+        "yowl-platform-ws": "latest",
+        "yowl-session-memory": "latest",
+        "yowl-session-redis": "latest",
+        "yowl-session-rethink": "latest",
+        "yowl-spawn-session": "latest",
+        "yown": "latest",
+        "yownfe": "latest",
+        "yowootech-ng-common": "latest",
+        "yows": "latest",
+        "yowsup-client": "latest"
+    }
+}

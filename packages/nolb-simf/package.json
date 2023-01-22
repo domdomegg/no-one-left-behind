@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-simf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simfar-test-bundled-dependecy": "latest",
+        "simfile-parser": "latest",
+        "simfiles": "latest",
+        "simfin": "latest",
+        "simflex": "latest",
+        "simflow": "latest",
+        "simflux": "latest",
+        "simflux-viz": "latest",
+        "simfluxy": "latest",
+        "simform-custom-hook": "latest",
+        "simfuny": "latest"
+    }
+}

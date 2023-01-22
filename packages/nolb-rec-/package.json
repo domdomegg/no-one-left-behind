@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-rec-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rec-acc-parser": "latest",
+        "rec-accordion": "latest",
+        "rec-book-in": "latest",
+        "rec-bootstrap": "latest",
+        "rec-engine": "latest",
+        "rec-form": "latest",
+        "rec-get-files": "latest",
+        "rec-grid": "latest",
+        "rec-handler": "latest",
+        "rec-js": "latest",
+        "rec-la": "latest",
+        "rec-mobile": "latest",
+        "rec-num-theory": "latest",
+        "rec-plugin": "latest",
+        "rec-scss": "latest",
+        "rec-structure-maker": "latest",
+        "rec-tabs": "latest",
+        "rec-vg-lib": "latest",
+        "rec-vg-lib2": "latest"
+    }
+}

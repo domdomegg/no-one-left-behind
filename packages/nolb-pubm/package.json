@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-pubm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pubmail": "latest",
+        "pubmate": "latest",
+        "pubmate-gamingapi": "latest",
+        "pubmd": "latest",
+        "pubmed-api": "latest",
+        "pubmed-query": "latest",
+        "pubmed-schema-org": "latest",
+        "pubmed-wrapper": "latest",
+        "pubmiror": "latest",
+        "pubmod01": "latest",
+        "pubmq": "latest"
+    }
+}

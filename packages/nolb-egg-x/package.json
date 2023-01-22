@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-egg-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "egg-xauth": "latest",
+        "egg-xc-auth": "latest",
+        "egg-xc-base": "latest",
+        "egg-xc-error": "latest",
+        "egg-xc-mqtt": "latest",
+        "egg-xc-rabbitmq": "latest",
+        "egg-xc-redis": "latest",
+        "egg-xc-sso": "latest",
+        "egg-xc-tcp": "latest",
+        "egg-xcommons": "latest",
+        "egg-xconfig": "latest",
+        "egg-xeureka": "latest",
+        "egg-xiaoming-boilerplate": "latest",
+        "egg-xlsx": "latest",
+        "egg-xlx-flash": "latest",
+        "egg-xml-body": "latest",
+        "egg-xprofiler": "latest",
+        "egg-xprom": "latest",
+        "egg-xss": "latest",
+        "egg-xtransit": "latest",
+        "egg-xtransit-tblh": "latest",
+        "egg-xxmi-compress": "latest",
+        "egg-xxmi-core": "latest",
+        "egg-xxmi-proxy": "latest"
+    }
+}

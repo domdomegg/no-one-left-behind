@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-api-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "api-ui": "latest",
+        "api-umbrella-config": "latest",
+        "api-umbrella-gatekeeper": "latest",
+        "api-umbrella-gatekeeper-rc": "latest",
+        "api-unanimity": "latest",
+        "api-unauthed": "latest",
+        "api-untyped-ast": "latest",
+        "api-upload-test": "latest",
+        "api-url-switch": "latest",
+        "api-url-tree-generator": "latest",
+        "api-usage-rate": "latest",
+        "api-user": "latest",
+        "api-users-lnard": "latest",
+        "api-usually": "latest",
+        "api-util": "latest",
+        "api-utilities": "latest",
+        "api-utility": "latest",
+        "api-utils": "latest"
+    }
+}

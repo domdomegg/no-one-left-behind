@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-y8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "y8": "latest",
+        "y85": "latest",
+        "y8z-amzing-components": "latest",
+        "y8z-components-yo": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-valide",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "valide": "latest",
+        "valide-body-existent-r": "latest",
+        "valideit": "latest",
+        "valider": "latest",
+        "valider.js": "latest",
+        "validera": "latest",
+        "validest": "latest",
+        "validetta": "latest"
+    }
+}

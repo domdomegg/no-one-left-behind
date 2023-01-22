@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_ley",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@leya/hello_wasm": "latest",
+        "@leyko/lk-cdk": "latest",
+        "@leypoldt/lib-demo": "latest",
+        "@leypoldt/lib-demo-update": "latest",
+        "@leyyo/builder": "latest",
+        "@leyyo/callback": "latest",
+        "@leyyo/cast": "latest",
+        "@leyyo/core": "latest",
+        "@leyyo/exception": "latest",
+        "@leyyo/fqn": "latest",
+        "@leyyo/generics": "latest",
+        "@leyyo/http": "latest",
+        "@leyyo/http-bulk": "latest",
+        "@leyyo/http-mock": "latest",
+        "@leyyo/http-wrapper": "latest",
+        "@leyyo/logger": "latest",
+        "@leyyo/reflection": "latest",
+        "@leyyo/scalar": "latest",
+        "@leyyo/slugify": "latest",
+        "@leyyo/type-format": "latest"
+    }
+}

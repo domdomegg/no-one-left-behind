@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-vitel",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "viteld": "latest",
+        "vitelectron": "latest",
+        "vitelectron-builder": "latest",
+        "vitelit01": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-vue-sn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-snack": "latest",
+        "vue-snack-notify": "latest",
+        "vue-snackbar": "latest",
+        "vue-snake-timeline": "latest",
+        "vue-snake-ui": "latest",
+        "vue-snakke": "latest",
+        "vue-snap": "latest",
+        "vue-snap-slider": "latest",
+        "vue-snap-svg": "latest",
+        "vue-snapshot-serializer": "latest",
+        "vue-snarkdown": "latest",
+        "vue-snb-slider": "latest",
+        "vue-snb-table": "latest",
+        "vue-sniffer": "latest",
+        "vue-snip": "latest",
+        "vue-snip-form": "latest",
+        "vue-snippet": "latest",
+        "vue-snippet-gen": "latest",
+        "vue-snippets": "latest",
+        "vue-snotify": "latest",
+        "vue-snotify-copam": "latest",
+        "vue-snotify-fixtitle": "latest",
+        "vue-snotify-with-vue-component": "latest",
+        "vue-snow-lu": "latest",
+        "vue-snow-ui": "latest",
+        "vue-snowf": "latest",
+        "vue-snowflake": "latest"
+    }
+}

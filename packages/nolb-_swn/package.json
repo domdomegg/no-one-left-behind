@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_swn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@swnat/ckeditor-custom-build": "latest",
+        "@swnb/crud-table": "latest",
+        "@swnb/dct": "latest",
+        "@swnb/event": "latest",
+        "@swnb/fabric": "latest",
+        "@swnb/mediasoup-simple-peer": "latest",
+        "@swnb/pipe": "latest",
+        "@swnb/power-types": "latest",
+        "@swnb/webrtc": "latest",
+        "@swnb/websocket": "latest"
+    }
+}

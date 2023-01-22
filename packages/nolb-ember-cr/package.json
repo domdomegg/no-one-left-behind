@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-ember-cr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ember-createjs": "latest",
+        "ember-credit-card": "latest",
+        "ember-credit-cards": "latest",
+        "ember-creditcard": "latest",
+        "ember-crisp": "latest",
+        "ember-cronstrue": "latest",
+        "ember-crontab": "latest",
+        "ember-cropperjs": "latest",
+        "ember-cross-models-routing": "latest",
+        "ember-crossfilter-shim": "latest",
+        "ember-crud": "latest",
+        "ember-crud-editor": "latest",
+        "ember-crumbly": "latest",
+        "ember-cryptojs-shim": "latest"
+    }
+}

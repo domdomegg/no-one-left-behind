@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-vue-dm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-dm": "latest",
+        "vue-dm-components": "latest",
+        "vue-dm-datatable": "latest",
+        "vue-dmresource": "latest",
+        "vue-dms-generator": "latest",
+        "vue-dmstore": "latest"
+    }
+}

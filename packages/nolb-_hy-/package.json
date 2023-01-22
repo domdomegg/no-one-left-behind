@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_hy-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hy-cli-test/core": "latest",
+        "@hy-cli-test/utils": "latest",
+        "@hy-vee/babel-plugin-impostor": "latest",
+        "@hy-vee/roadie-kit-utils": "latest"
+    }
+}

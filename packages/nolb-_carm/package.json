@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_carm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@carmego11/platzi-mediaplayer": "latest",
+        "@carmel/blockchain": "latest",
+        "@carmel/cli": "latest",
+        "@carmel/cloud": "latest",
+        "@carmel/core": "latest",
+        "@carmel/desktop": "latest",
+        "@carmel/eos": "latest",
+        "@carmel/js": "latest",
+        "@carmel/mesh": "latest",
+        "@carmel/node": "latest",
+        "@carmel/react": "latest",
+        "@carmel/react-stack": "latest",
+        "@carmel/sdk": "latest",
+        "@carmel/web": "latest",
+        "@carmenk/lotide": "latest",
+        "@carmenluo/lotide": "latest",
+        "@carmenn/sdk": "latest",
+        "@carmensteffens/cs_form": "latest",
+        "@carmensteffens/cs_login": "latest",
+        "@carmensteffens/cs_popup": "latest",
+        "@carmensteffens/cs_togglebutton": "latest",
+        "@carmensteffens/testecreate": "latest",
+        "@carmensteffens/testelibrary": "latest",
+        "@carmensteffens/tutorial": "latest",
+        "@carmichael/occli": "latest",
+        "@carminestudios/dateplucker": "latest",
+        "@carmtsang/lotide": "latest"
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-simplex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simplex": "latest",
+        "simplex-chat": "latest",
+        "simplex-cli": "latest",
+        "simplex-cli-dev-template-vue2": "latest",
+        "simplex-codec": "latest",
+        "simplex-flowers": "latest",
+        "simplex-noise": "latest",
+        "simplex-noise-esm": "latest",
+        "simplex-paper": "latest",
+        "simplex-router": "latest",
+        "simplex-sampler": "latest",
+        "simplex-solver": "latest",
+        "simplex-test-package": "latest",
+        "simplex07": "latest",
+        "simplexapp-ecommerce": "latest",
+        "simplexcalculator": "latest",
+        "simplexiar_react_components": "latest",
+        "simplexml": "latest",
+        "simplexmldoc": "latest",
+        "simplexmq": "latest",
+        "simplexn": "latest",
+        "simplexn.js": "latest",
+        "simplexpress": "latest",
+        "simplexture": "latest",
+        "simplexvue": "latest"
+    }
+}

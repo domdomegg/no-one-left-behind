@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_dso",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dso-toolkit/angular": "latest",
+        "@dso-toolkit/core": "latest",
+        "@dso-toolkit/leaflet": "latest",
+        "@dso-toolkit/react": "latest",
+        "@dso-toolkit/react-leaflet": "latest",
+        "@dso/acl": "latest",
+        "@dso/auth": "latest",
+        "@dso/core": "latest",
+        "@dso/shared": "latest",
+        "@dso/tools": "latest",
+        "@dsoaress/eslint-config": "latest",
+        "@dsoaress/eslint-config-react": "latest",
+        "@dsoaress/eslint-config-typescript": "latest",
+        "@dsoaress/pak-a": "latest",
+        "@dsoaress/prettier-config": "latest",
+        "@dsoaress/style-guide": "latest",
+        "@dsobieszczuk/scss": "latest",
+        "@dsojevic/profanity-list": "latest",
+        "@dsoko2/angular2-markdown": "latest",
+        "@dsoko2/gulp-webserver": "latest",
+        "@dsolimando/react-native-scaling-drawer": "latest",
+        "@dsolodky/types-4-strapi": "latest",
+        "@dsoloha/character-maker": "latest",
+        "@dsomni/ckeditor5-custom-build-compact": "latest",
+        "@dsomni/ckeditor5-custom-build-full": "latest",
+        "@dsosd/t": "latest",
+        "@dsouzaedison11/localnodemodule": "latest"
+    }
+}

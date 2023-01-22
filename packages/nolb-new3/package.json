@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-new3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "new3js": "latest",
+        "new3s-cli": "latest",
+        "new3s-ui": "latest"
+    }
+}

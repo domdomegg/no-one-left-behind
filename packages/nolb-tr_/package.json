@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-tr_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tr.tracking": "latest",
+        "tr_cypress_reporter_simple": "latest",
+        "tr_relations_portal": "latest",
+        "tr_topology": "latest"
+    }
+}

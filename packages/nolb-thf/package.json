@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-thf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thf-cli": "latest",
+        "thf-cli-test": "latest",
+        "thf-mobile": "latest",
+        "thf-mobile-app-lib": "latest",
+        "thf-mobile-cli": "latest",
+        "thf-mobile-components": "latest",
+        "thf-sm": "latest",
+        "thf-sources": "latest",
+        "thf-temp-login": "latest",
+        "thf-theme-test": "latest",
+        "thf_node": "latest",
+        "thfinder": "latest"
+    }
+}

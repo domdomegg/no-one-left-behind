@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_watt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@watt-cli/core": "latest",
+        "@watt-cli/utils": "latest",
+        "@wattanx/insert-emits-option": "latest",
+        "@wattbewerb/wattbewerb": "latest",
+        "@wattbewerb/web-components": "latest",
+        "@wattersiv/lotide": "latest",
+        "@wattickets/common": "latest",
+        "@wattrainer/cap-bluetooth-low-energy-client": "latest",
+        "@watts-lab/rapid-forms": "latest",
+        "@watts-lab/surveys": "latest",
+        "@wattsienet/vue-electron-base-app": "latest"
+    }
+}

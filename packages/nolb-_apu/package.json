@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_apu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@apulis/aistudio-layout": "latest",
+        "@apulis/first-login": "latest",
+        "@apulis/group-selector": "latest",
+        "@apulis/header": "latest",
+        "@apulis/image": "latest",
+        "@apulis/ip-input": "latest",
+        "@apulis/line-title": "latest",
+        "@apulis/notice-icon-view": "latest",
+        "@apulis/pro-table": "latest",
+        "@apulis/provider": "latest",
+        "@apulis/request": "latest",
+        "@apulis/select": "latest",
+        "@apulis/select-lang": "latest",
+        "@apulis/table": "latest",
+        "@apulis/utils": "latest",
+        "@apuntes/local-api": "latest",
+        "@apuntes/local-client": "latest",
+        "@apurbadh/cheetah": "latest",
+        "@apurohit100/lotide": "latest",
+        "@apurva-tickets/common": "latest",
+        "@apurva2307/error-handler": "latest",
+        "@apurva2307/node-starter": "latest",
+        "@apurvak-perpetualny/ant-storybook": "latest",
+        "@apus/logger": "latest",
+        "@apusic-ui/cypher-ui": "latest"
+    }
+}

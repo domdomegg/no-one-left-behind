@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_smad",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@smadey/egg-vite-plugin": "latest",
+        "@smadey/react-native-autotrack-growingio": "latest",
+        "@smadey/react-native-fast-image": "latest",
+        "@smadey/react-native-growingio": "latest",
+        "@smadey/react-native-inhibit-warnings": "latest",
+        "@smadey/react-native-refreshable": "latest",
+        "@smadey/react-native-smartrefreshlayout": "latest",
+        "@smadey/spacecommander": "latest",
+        "@smadey/x-loader": "latest"
+    }
+}

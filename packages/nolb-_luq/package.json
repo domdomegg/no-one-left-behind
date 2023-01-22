@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_luq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@luqh/node-red-jolt": "latest",
+        "@luqh/node-terminal-base64-2-pdf-converter": "latest",
+        "@luqh_mapbox/mapbox-gl": "latest",
+        "@luqih/create-react-component": "latest",
+        "@luqin/dev-server": "latest",
+        "@luqin/gram": "latest",
+        "@luqin/gram-cli": "latest",
+        "@luqin/gram-core": "latest",
+        "@luqin/gram-dev-server": "latest",
+        "@luqin/gram-gram": "latest",
+        "@luqin/gram-jest": "latest",
+        "@luqin/gram-relax-sass": "latest",
+        "@luqin/gram-sass": "latest",
+        "@luqs/custom-cli": "latest",
+        "@luqs/dashboard-sdk": "latest"
+    }
+}

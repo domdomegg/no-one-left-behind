@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-worko",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "worko-mixins": "latest",
+        "worko-ng-grid": "latest",
+        "worko-sass-defaults": "latest",
+        "workon": "latest",
+        "workon-wk": "latest",
+        "workone": "latest",
+        "workone-gitpackage": "latest",
+        "workorder": "latest",
+        "workorder-schemas": "latest",
+        "workorder3": "latest",
+        "workos": "latest",
+        "workos-cli": "latest",
+        "workout": "latest",
+        "workout-app-common-core": "latest",
+        "workout-cli": "latest",
+        "workout-client-cli": "latest",
+        "workout-items": "latest",
+        "workout-lib": "latest",
+        "workout-tracker": "latest",
+        "workout-tracker-client": "latest",
+        "workouts-transfer": "latest"
+    }
+}

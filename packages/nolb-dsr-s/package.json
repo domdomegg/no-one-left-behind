@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-dsr-s",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dsr-schema-code-editor": "latest",
+        "dsr-square": "latest",
+        "dsr-sso-login": "latest"
+    }
+}

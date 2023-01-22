@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-react-native-ml",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-ml": "latest",
+        "react-native-ml-kit": "latest",
+        "react-native-ml-sdk": "latest",
+        "react-native-ml-text-overlay": "latest",
+        "react-native-mlist-masonry": "latest",
+        "react-native-mlkit-barcode": "latest",
+        "react-native-mlkit-entity-extraction": "latest",
+        "react-native-mlkit-face-detection": "latest",
+        "react-native-mlkit-face-detector": "latest",
+        "react-native-mlkit-ocr": "latest",
+        "react-native-mlkit-odt": "latest",
+        "react-native-mlkit-pose-detection": "latest",
+        "react-native-mlkit-translate": "latest",
+        "react-native-mlkit-translate-text": "latest",
+        "react-native-mlkit-x": "latest"
+    }
+}

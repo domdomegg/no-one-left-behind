@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-temb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "temba": "latest",
+        "temba-analyticss": "latest",
+        "tembicicomponents": "latest",
+        "tembicicomponents-teste": "latest",
+        "temblate": "latest",
+        "temble-traggable": "latest",
+        "tembolok": "latest",
+        "temboo": "latest",
+        "temboo.ino": "latest"
+    }
+}

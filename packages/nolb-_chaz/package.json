@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_chaz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chazdean/lotide": "latest",
+        "@chazy/chasi": "latest",
+        "@chazy/clib": "latest",
+        "@chazy/csvloader": "latest",
+        "@chazy/lib": "latest",
+        "@chazy/text-extractor": "latest",
+        "@chazy/v-body-scroll-lock--fix": "latest",
+        "@chazy/vue-autoimport": "latest",
+        "@chazy/vue-cc": "latest",
+        "@chazzz/base-type": "latest",
+        "@chazzz/simple-doc": "latest",
+        "@chazzz/tslint-react-config": "latest"
+    }
+}

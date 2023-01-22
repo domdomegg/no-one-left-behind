@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-car_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "car_han-ui": "latest",
+        "car_itsur_dezs": "latest",
+        "car_rental_cms_types": "latest",
+        "car_screens": "latest"
+    }
+}

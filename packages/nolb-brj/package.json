@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-brj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brj-client-api": "latest",
+        "brj-widget-core": "latest",
+        "brj-widgets": "latest",
+        "brjade": "latest",
+        "brjs": "latest",
+        "brjs-clock": "latest"
+    }
+}

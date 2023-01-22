@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_prp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@prp-astara/nuxt-bridge-ui": "latest",
+        "@prp-astara/nuxt-ui": "latest",
+        "@prpl/core": "latest",
+        "@prpl/plugin-aws": "latest",
+        "@prpl/plugin-cache": "latest",
+        "@prpl/plugin-code-highlight": "latest",
+        "@prpl/plugin-css-imports": "latest",
+        "@prpl/plugin-html-imports": "latest",
+        "@prpl/plugin-rss": "latest",
+        "@prpl/plugin-sitemap": "latest",
+        "@prpl/server": "latest"
+    }
+}

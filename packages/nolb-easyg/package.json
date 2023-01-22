@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-easyg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "easygantt": "latest",
+        "easygen": "latest",
+        "easygenerator-plugins": "latest",
+        "easygettext": "latest",
+        "easygis": "latest",
+        "easygis-3d": "latest",
+        "easygit": "latest",
+        "easygmail": "latest",
+        "easygo": "latest",
+        "easygo-cli": "latest",
+        "easygooglemaps": "latest",
+        "easygoose": "latest",
+        "easygram": "latest",
+        "easygraphql-firebase": "latest",
+        "easygraphql-format-error": "latest",
+        "easygraphql-load-tester": "latest",
+        "easygraphql-lt": "latest",
+        "easygraphql-mock": "latest",
+        "easygraphql-now": "latest",
+        "easygraphql-parser": "latest",
+        "easygraphql-parser-gamechanger": "latest",
+        "easygraphql-tester": "latest",
+        "easygraphql-tracing": "latest",
+        "easygrid": "latest",
+        "easygridcell": "latest",
+        "easygridiness": "latest",
+        "easygrpc": "latest"
+    }
+}

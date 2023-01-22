@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_nodev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nodevu/aliases": "latest",
+        "@nodevu/core": "latest",
+        "@nodevu/earliest": "latest",
+        "@nodevu/parsefiles": "latest",
+        "@nodevu/ranges": "latest",
+        "@nodevu/static": "latest"
+    }
+}

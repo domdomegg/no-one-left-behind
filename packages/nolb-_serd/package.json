@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_serd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@serdar2nc/prime": "latest",
+        "@serdaraglamis/ds-components": "latest",
+        "@serdarakkus/hyper": "latest",
+        "@serdica/ablera-chatbot-dist": "latest",
+        "@serdnam/fastify-sentry": "latest",
+        "@serdnam/pino-cloudwatch-transport": "latest",
+        "@serdnasejo/nodeprueba": "latest",
+        "@serdoo/node-red-contrib-chatbot": "latest",
+        "@serdoo/node-red-contrib-google-calendar": "latest",
+        "@serdoo/node-red-contrib-soap": "latest",
+        "@serdoo/rete-readonly-plugin": "latest",
+        "@serdoo/tiptap-vuetify": "latest",
+        "@serdoo/vue-beautiful-chat": "latest"
+    }
+}

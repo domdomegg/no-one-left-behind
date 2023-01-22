@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-nativej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nativejs-arduino": "latest",
+        "nativejs-compiler": "latest",
+        "nativejs-component-helper": "latest",
+        "nativejs-components": "latest",
+        "nativejs-preset-arduino": "latest",
+        "nativejs-preset-standard": "latest",
+        "nativejs-proto-extensions": "latest",
+        "nativejs-select": "latest",
+        "nativejs-standard-preset": "latest",
+        "nativejsx": "latest",
+        "nativejsx-loader": "latest",
+        "nativejsx-noproto": "latest",
+        "nativejsx-noproto-loader": "latest"
+    }
+}

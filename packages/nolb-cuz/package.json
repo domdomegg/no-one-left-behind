@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-cuz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cuz": "latest",
+        "cuz-cli": "latest",
+        "cuz-curl-rocks": "latest",
+        "cuz-desktop": "latest",
+        "cuz-discord": "latest",
+        "cuz-discord.js": "latest",
+        "cuz-discord11": "latest",
+        "cuz-native": "latest",
+        "cuz-ui": "latest",
+        "cuze": "latest",
+        "cuzs-discord-edited": "latest",
+        "cuzzo_shared_components": "latest"
+    }
+}

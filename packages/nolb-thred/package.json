@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-thred",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thred-app-sdk": "latest",
+        "thred-core": "latest",
+        "thred-protocol-sdk": "latest",
+        "thredds-catalog-crawler": "latest",
+        "thredz-lib": "latest"
+    }
+}

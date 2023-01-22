@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_ryancavanaugh_y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryancavanaugh/yamljs": "latest",
+        "@ryancavanaugh/yandex-money-sdk": "latest",
+        "@ryancavanaugh/yargs": "latest",
+        "@ryancavanaugh/ydn-db": "latest",
+        "@ryancavanaugh/yeoman-generator": "latest",
+        "@ryancavanaugh/yfiles": "latest",
+        "@ryancavanaugh/yosay": "latest",
+        "@ryancavanaugh/youtube": "latest",
+        "@ryancavanaugh/yui": "latest"
+    }
+}

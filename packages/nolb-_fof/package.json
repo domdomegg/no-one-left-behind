@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_fof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fof-backend/auth-api-key": "latest",
+        "@fof-backend/auth-azure-ad": "latest",
+        "@fof-backend/core": "latest",
+        "@fof-frontend/auth-oidc": "latest",
+        "@fof-frontend/company-default": "latest",
+        "@fof-frontend/core": "latest",
+        "@fofx/cli": "latest",
+        "@fofx/core": "latest",
+        "@fofx/cron": "latest",
+        "@fofx/install": "latest",
+        "@fofx/logger": "latest",
+        "@fofx/mongodb": "latest",
+        "@fofx/queue": "latest",
+        "@fofx/web": "latest"
+    }
+}

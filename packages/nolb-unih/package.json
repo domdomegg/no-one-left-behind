@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-unih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "unihan": "latest",
+        "unihash": "latest",
+        "unihashjs-cli": "latest",
+        "unihashjs-lib": "latest",
+        "unihcore": "latest",
+        "unihead": "latest",
+        "unihooks": "latest",
+        "unihtml": "latest",
+        "unihttps": "latest",
+        "unihuatongjs": "latest",
+        "unihub": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-wxd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wxd": "latest",
+        "wxd-pluging": "latest",
+        "wxd-publish-npmtest": "latest",
+        "wxd-publish-test2": "latest",
+        "wxd-ui": "latest",
+        "wxd-vuex": "latest",
+        "wxdabc": "latest",
+        "wxdatabindrn": "latest",
+        "wxde_test": "latest",
+        "wxdemo": "latest",
+        "wxdev": "latest",
+        "wxdev-cli": "latest",
+        "wxdevtools-cli": "latest",
+        "wxdraw": "latest",
+        "wxdraw-img": "latest",
+        "wxdt": "latest",
+        "wxdtestnpmpack": "latest",
+        "wxdxjs-tools": "latest",
+        "wxdyy-vue": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-browserb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "browserbase": "latest",
+        "browserbase-cypress-runner": "latest",
+        "browserbot": "latest",
+        "browserbot3000": "latest",
+        "browserbots": "latest",
+        "browserbotty": "latest",
+        "browserbox": "latest",
+        "browserbox-win": "latest",
+        "browserbox.club": "latest",
+        "browserbox2": "latest",
+        "browserbuild": "latest",
+        "browserbuild-lint": "latest"
+    }
+}

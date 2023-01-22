@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-mathp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mathp": "latest",
+        "mathpack": "latest",
+        "mathpackage1234xyz": "latest",
+        "mathpackagebyfilip": "latest",
+        "mathpackagetestingnodejs": "latest",
+        "mathpage": "latest",
+        "mathparsa-latexifier-calculator-lib": "latest",
+        "mathparser.org-mxparser": "latest",
+        "mathparser.org-mxparser-nobisoft": "latest",
+        "mathpix-markdown-it": "latest",
+        "mathpkg": "latest",
+        "mathplot": "latest",
+        "mathplugin": "latest"
+    }
+}

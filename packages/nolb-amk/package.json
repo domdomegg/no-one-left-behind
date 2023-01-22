@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-amk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "amk-document-upload": "latest",
+        "amk-error": "latest",
+        "amk-file-upload": "latest",
+        "amk-mongo": "latest",
+        "amk-monit-plugin": "latest",
+        "amk-redis": "latest",
+        "amk-sql": "latest",
+        "amk-wrap": "latest",
+        "amkalee-simple-component": "latest",
+        "amkdirp": "latest",
+        "amkit3-log4js": "latest"
+    }
+}

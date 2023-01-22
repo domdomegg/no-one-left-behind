@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-calu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "calucalator": "latest",
+        "calucatorororo": "latest",
+        "caluladora-06": "latest",
+        "caluladora-20": "latest",
+        "calulate": "latest",
+        "calulator-komsan": "latest",
+        "calumma-framework": "latest",
+        "calunar": "latest",
+        "calustra": "latest",
+        "calustra-conn": "latest",
+        "calustra-orm": "latest",
+        "calustra-query": "latest",
+        "calustra-router": "latest"
+    }
+}

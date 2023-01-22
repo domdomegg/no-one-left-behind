@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_teak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@teakit/atom": "latest",
+        "@teakit/circular-json": "latest",
+        "@teakit/compose": "latest",
+        "@teakit/convert": "latest",
+        "@teakit/cookies": "latest",
+        "@teakit/core": "latest",
+        "@teakit/errors": "latest",
+        "@teakit/logger": "latest",
+        "@teakit/router": "latest",
+        "@teakit/utils": "latest"
+    }
+}

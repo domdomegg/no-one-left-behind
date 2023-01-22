@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-theu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "theu": "latest",
+        "theubald": "latest",
+        "theui": "latest",
+        "theui-sveltekit": "latest",
+        "theuniverse": "latest",
+        "theusual": "latest",
+        "theutia": "latest",
+        "theuves-article": "latest",
+        "theuves-ls": "latest",
+        "theuves-menu": "latest",
+        "theuves-scroll": "latest",
+        "theuves-ta": "latest",
+        "theuves-test": "latest",
+        "theuves-velha": "latest",
+        "theuy-bootstrap-datetimepicker": "latest"
+    }
+}

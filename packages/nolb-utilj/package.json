@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-utilj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "utilj": "latest",
+        "utilja": "latest",
+        "utiljin": "latest",
+        "utiljs": "latest",
+        "utiljs-arrays": "latest",
+        "utiljs-emails": "latest",
+        "utiljs-errors": "latest",
+        "utiljs-files": "latest",
+        "utiljs-jiangtai": "latest",
+        "utiljs-jquery": "latest",
+        "utiljs-numbers": "latest",
+        "utiljs-objects": "latest",
+        "utiljs-privates": "latest",
+        "utiljs-promises": "latest",
+        "utiljs-streams": "latest",
+        "utiljs-strings": "latest",
+        "utiljs-timers": "latest",
+        "utiljs-urls": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-fag",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fag-grid-enterprise": "latest",
+        "fagansc-spfx-form-elements": "latest",
+        "fagc-api-types": "latest",
+        "fagc-api-wrapper": "latest",
+        "fage": "latest",
+        "fage-test-module": "latest",
+        "fagerli-silly-inputs": "latest",
+        "fagerstrom-test": "latest",
+        "fagerstrom-test-prodio": "latest",
+        "fagjs": "latest",
+        "fagner-grid": "latest",
+        "fagoapp": "latest",
+        "fagougou-cli": "latest",
+        "fagougou-js-logger": "latest",
+        "fagougou-logger-sdk": "latest",
+        "fagundes": "latest",
+        "faguo-yiliao-jingyou-baodian": "latest",
+        "faguoqudebao": "latest"
+    }
+}

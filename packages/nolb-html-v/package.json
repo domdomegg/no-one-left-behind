@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-html-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "html-validate-es": "latest",
+        "html-validate-markdown": "latest",
+        "html-validate-offline": "latest",
+        "html-validate-offline-hypexr": "latest",
+        "html-validate-plugin": "latest",
+        "html-validate-prettier": "latest",
+        "html-validate-unbalanced": "latest",
+        "html-validate-webpack-plugin": "latest",
+        "html-validator": "latest",
+        "html-validator-cli": "latest",
+        "html-vanilla-router": "latest",
+        "html-variables-plugin": "latest",
+        "html-vars-replacer": "latest",
+        "html-vdom": "latest",
+        "html-veil": "latest",
+        "html-velocity-loader": "latest",
+        "html-verify": "latest",
+        "html-verify-react-rte": "latest",
+        "html-version": "latest",
+        "html-version-check-webpack-plugin": "latest",
+        "html-version-webpack-plugin": "latest",
+        "html-video-capture": "latest",
+        "html-video-player": "latest",
+        "html-virtualize": "latest",
+        "html-vite-plugin": "latest",
+        "html-void-elements": "latest",
+        "html-vtree": "latest"
+    }
+}

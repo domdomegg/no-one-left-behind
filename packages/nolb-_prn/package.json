@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_prn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@prnbbora4_org/badge": "latest",
+        "@prng/core": "latest",
+        "@prnsml/mocha-junit-reporter": "latest",
+        "@prnt/design-picker": "latest",
+        "@prnt/samai-pg": "latest",
+        "@prnvthir14/lotide": "latest"
+    }
+}

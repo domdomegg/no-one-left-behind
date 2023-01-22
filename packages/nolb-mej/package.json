@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-mej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mej": "latest",
+        "mejiangh_master": "latest",
+        "mejik": "latest",
+        "mejik-art-cli": "latest",
+        "mejik-table": "latest",
+        "mejiro": "latest",
+        "mejiyo-component": "latest",
+        "mejj": "latest",
+        "mejo": "latest",
+        "mejor-random-de-mensajes": "latest",
+        "mejs": "latest",
+        "mejs-util": "latest",
+        "mejuri-components": "latest"
+    }
+}

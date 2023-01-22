@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-babel-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-udf-helpers": "latest",
+        "babel-ui5-module-formatter": "latest",
+        "babel-ui5-plugin": "latest",
+        "babel-uikit": "latest",
+        "babel-undecorate-plugin": "latest",
+        "babel-unifyer": "latest",
+        "babel-unique-id": "latest",
+        "babel-unminify-plugin": "latest",
+        "babel-upgrade": "latest",
+        "babel-uploader-api": "latest",
+        "babel-utils": "latest",
+        "babel-utils-react": "latest"
+    }
+}

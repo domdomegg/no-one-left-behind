@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-react-req",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-req": "latest",
+        "react-reqq": "latest",
+        "react-reqq-lite": "latest",
+        "react-reqres-users-table": "latest",
+        "react-request": "latest",
+        "react-request-api": "latest",
+        "react-request-block": "latest",
+        "react-request-container": "latest",
+        "react-request-data": "latest",
+        "react-request-db": "latest",
+        "react-request-fullscreen": "latest",
+        "react-request-hook": "latest",
+        "react-request-hook-client": "latest",
+        "react-request-hooks": "latest",
+        "react-request-network": "latest",
+        "react-request-statuses": "latest",
+        "react-requester": "latest",
+        "react-requesting": "latest",
+        "react-requests": "latest",
+        "react-requests-fetch": "latest",
+        "react-requests-manager": "latest",
+        "react-require": "latest",
+        "react-require-auth": "latest",
+        "react-require-props": "latest",
+        "react-required-if": "latest",
+        "react-required-permissions": "latest",
+        "react-requirements-component": "latest"
+    }
+}

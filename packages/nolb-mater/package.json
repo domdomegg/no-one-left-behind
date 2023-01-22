@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-mater",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mater": "latest",
+        "@zalastax/nolb-materi": "latest",
+        "@zalastax/nolb-mater-": "latest",
+        "@zalastax/nolb-materc": "latest",
+        "@zalastax/nolb-materm": "latest",
+        "@zalastax/nolb-matero": "latest",
+        "@zalastax/nolb-materr": "latest"
+    }
+}

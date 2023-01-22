@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_trs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trs-components/test-npm-publish": "latest",
+        "@trs/accessor": "latest",
+        "@trs/expression": "latest",
+        "@trscd/eslint-config": "latest",
+        "@trscd/eslint-config-basic": "latest",
+        "@trscd/eslint-config-ts": "latest",
+        "@trscd/eslint-config-vue": "latest",
+        "@trscd/stylelint-config-tpconfig": "latest",
+        "@trscd/trs-page-html": "latest",
+        "@trsfed/trs-ui": "latest",
+        "@trslater/react-scripts": "latest",
+        "@trslucax-ignite-ui/docs": "latest",
+        "@trslucax-ignite-ui/react": "latest",
+        "@trslucax-ignite-ui/tokens": "latest",
+        "@trsoft/scoped-package": "latest"
+    }
+}

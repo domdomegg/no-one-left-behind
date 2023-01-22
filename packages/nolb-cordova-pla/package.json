@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-cordova-pla",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cordova-platform-project": "latest",
+        "cordova-platform-ready": "latest",
+        "cordova-platform-test": "latest",
+        "cordova-platform-util": "latest",
+        "cordova-platform-uwp": "latest",
+        "cordova-play-install-referrer": "latest",
+        "cordova-play-services-version-adapter": "latest"
+    }
+}

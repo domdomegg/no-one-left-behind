@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-solh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "solhint": "latest",
+        "solhint-ci": "latest",
+        "solhint-config-align-base": "latest",
+        "solhint-config-mimic": "latest",
+        "solhint-config-prettier": "latest",
+        "solhint-config-silta": "latest",
+        "solhint-config-web3studio": "latest",
+        "solhint-nvim": "latest",
+        "solhint-plugin-avoid-console": "latest",
+        "solhint-plugin-beam": "latest",
+        "solhint-plugin-buidler": "latest",
+        "solhint-plugin-cmf-rules": "latest",
+        "solhint-plugin-cmf-rules-stable": "latest",
+        "solhint-plugin-compiler-warnings": "latest",
+        "solhint-plugin-delegatecall": "latest",
+        "solhint-plugin-eco": "latest",
+        "solhint-plugin-example": "latest",
+        "solhint-plugin-ext": "latest",
+        "solhint-plugin-externalcall": "latest",
+        "solhint-plugin-gsn": "latest",
+        "solhint-plugin-lido": "latest",
+        "solhint-plugin-modifiers": "latest",
+        "solhint-plugin-ordering": "latest",
+        "solhint-plugin-prettier": "latest",
+        "solhint-plugin-test-precise-uint": "latest",
+        "solhint-plugin-wonderland": "latest",
+        "solhint-watch": "latest",
+        "solhydra": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-ork",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ork": "latest",
+        "ork001": "latest",
+        "orka": "latest",
+        "orkan": "latest",
+        "orki": "latest",
+        "orki-helpers": "latest",
+        "orki-notification": "latest",
+        "orkid": "latest",
+        "orkid-api": "latest",
+        "orkid-ui": "latest",
+        "orkidea-schedule": "latest",
+        "orkject": "latest",
+        "orko": "latest",
+        "orko-web": "latest",
+        "orkra": "latest"
+    }
+}

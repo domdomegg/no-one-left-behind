@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-react-ep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-epa-scc": "latest",
+        "react-epayco": "latest",
+        "react-epg": "latest",
+        "react-epg6.0": "latest",
+        "react-eph-base-component": "latest",
+        "react-epic": "latest",
+        "react-epic-spinners": "latest",
+        "react-epickit": "latest",
+        "react-epics": "latest",
+        "react-epoch-picker": "latest",
+        "react-epotion": "latest",
+        "react-epub-viewer": "latest",
+        "react-epubjs": "latest"
+    }
+}

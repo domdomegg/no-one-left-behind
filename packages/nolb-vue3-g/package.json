@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-vue3-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue3-gabe-daterange-picker": "latest",
+        "vue3-gantt": "latest",
+        "vue3-gdpr-guard": "latest",
+        "vue3-general-components": "latest",
+        "vue3-general-components-wenjun": "latest",
+        "vue3-geolocation": "latest",
+        "vue3-gettext": "latest",
+        "vue3-glassmorphism": "latest",
+        "vue3-global": "latest",
+        "vue3-gmap-custom-marker": "latest",
+        "vue3-googl-chart": "latest",
+        "vue3-google-auth": "latest",
+        "vue3-google-login": "latest",
+        "vue3-google-map": "latest",
+        "vue3-google-maps": "latest",
+        "vue3-google-oauth2": "latest",
+        "vue3-google-signin": "latest",
+        "vue3-googleapis": "latest",
+        "vue3-grapesjs": "latest",
+        "vue3-gravatar": "latest",
+        "vue3-grid-drag-layout": "latest",
+        "vue3-grid-layout": "latest",
+        "vue3-grid-layout-next": "latest",
+        "vue3-grid-table": "latest",
+        "vue3-group-table": "latest",
+        "vue3-guides": "latest",
+        "vue3-gulu-ui": "latest",
+        "vue3-gz-cli": "latest"
+    }
+}

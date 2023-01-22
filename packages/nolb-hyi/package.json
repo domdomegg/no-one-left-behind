@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-hyi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hyi": "latest",
+        "hyichens-cli": "latest",
+        "hyinsit-backend-core": "latest",
+        "hyinsit-bbui": "latest",
+        "hyinsit-builder": "latest",
+        "hyinsit-cli": "latest",
+        "hyinsit-client": "latest",
+        "hyinsit-frontend-core": "latest",
+        "hyinsit-sdk": "latest",
+        "hyinsit-server": "latest",
+        "hyinsit-string-templates": "latest",
+        "hyinsit-types": "latest",
+        "hyinsit-worker": "latest",
+        "hyiot-module": "latest",
+        "hyipizda": "latest",
+        "hyit-components": "latest"
+    }
+}

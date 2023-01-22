@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-nodebr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodebr": "latest",
+        "nodebrainz": "latest",
+        "nodebrapi": "latest",
+        "nodebrato": "latest",
+        "nodebright": "latest",
+        "nodebright-ext-autonews": "latest",
+        "nodebright-ext-dynamic-router": "latest",
+        "nodebright-ext-general-widget": "latest",
+        "nodebright-ext-highlight-widget": "latest",
+        "nodebright-ext-home": "latest",
+        "nodebright-ext-html-widget": "latest",
+        "nodebright-ext-instant_article": "latest",
+        "nodebright-ext-media": "latest",
+        "nodebright-ext-menu-widget": "latest",
+        "nodebright-ext-page": "latest",
+        "nodebright-ext-post": "latest",
+        "nodebright-ext-post-widget": "latest",
+        "nodebright-ext-search": "latest",
+        "nodebright-ext-sponsor": "latest",
+        "nodebright-ext-tags": "latest",
+        "nodebright-ext-user": "latest",
+        "nodebright-ext-video": "latest",
+        "nodebrillio": "latest",
+        "nodebrillioprgs": "latest",
+        "nodebro": "latest"
+    }
+}

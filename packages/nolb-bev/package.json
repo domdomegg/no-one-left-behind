@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-bev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bev": "latest",
+        "bev-nativescript-webrtc": "latest",
+        "bev-tasks": "latest",
+        "beva_wangyc": "latest",
+        "bevacqua": "latest",
+        "beval": "latest",
+        "bevalid": "latest",
+        "bevano-xui": "latest",
+        "bevel": "latest",
+        "bevent": "latest",
+        "bevents": "latest",
+        "beverage": "latest",
+        "beverage-cli": "latest",
+        "beverage-perpv2-strategies": "latest",
+        "bevikram": "latest",
+        "bevis": "latest",
+        "bevis-block-dev": "latest",
+        "bevis-cli": "latest",
+        "bevis-doc-builder": "latest",
+        "bevon-frame-print": "latest",
+        "bevor": "latest",
+        "bevry-base": "latest",
+        "bevry-echo": "latest",
+        "bevspot-nvd3": "latest",
+        "bevspot-react-datetime": "latest",
+        "bevspot-react-nvd3": "latest",
+        "bevspot-react-select": "latest",
+        "bevy": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-datw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "datwd": "latest",
+        "datwerfa": "latest",
+        "datwill": "latest",
+        "datwill-sdk": "latest",
+        "datwill-sdk-base": "latest",
+        "datwill-sdk-charts": "latest",
+        "datwo": "latest",
+        "datwrapper": "latest"
+    }
+}

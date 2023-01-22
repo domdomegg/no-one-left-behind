@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-node-3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-3d-core-raub": "latest",
+        "node-3d-qml-raub": "latest",
+        "node-3d-ready-raub": "latest",
+        "node-3scale-cli": "latest"
+    }
+}

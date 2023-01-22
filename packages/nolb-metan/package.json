@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-metan",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "metan1": "latest",
+        "metaname-client": "latest",
+        "metanear-react-components": "latest",
+        "metanet": "latest",
+        "metangle": "latest",
+        "metanoia": "latest",
+        "metanol": "latest",
+        "metanome": "latest",
+        "metanome-syslog": "latest",
+        "metanome-tail": "latest",
+        "metanotes": "latest"
+    }
+}

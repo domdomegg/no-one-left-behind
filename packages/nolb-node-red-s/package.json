@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-node-red-s",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-StefanoTest": "latest",
+        "node-red-s3": "latest",
+        "node-red-sacn-in": "latest",
+        "node-red-sample": "latest",
+        "node-red-samplenode": "latest",
+        "node-red-semilimes-connector": "latest",
+        "node-red-sensecap-paas": "latest",
+        "node-red-show-value": "latest",
+        "node-red-sistole-chatbot": "latest",
+        "node-red-sktest": "latest",
+        "node-red-snapserver": "latest",
+        "node-red-social-aggregator": "latest",
+        "node-red-socketio-client-helix": "latest",
+        "node-red-sox-chart": "latest",
+        "node-red-sox-health": "latest",
+        "node-red-sox-metric": "latest",
+        "node-red-sox-table": "latest",
+        "node-red-sox-video": "latest",
+        "node-red-status": "latest",
+        "node-red-step-functions": "latest",
+        "node-red-storage-multiproject": "latest",
+        "node-red-storage-multiproject-mongourl": "latest",
+        "node-red-storage-nodesensor": "latest",
+        "node-red-studio": "latest",
+        "node-red-styled": "latest",
+        "node-red-sun": "latest",
+        "node-red-switchmate": "latest"
+    }
+}

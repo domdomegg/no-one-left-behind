@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_feu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@feuer/react-tabs": "latest",
+        "@feugene/browser-logger": "latest",
+        "@feugene/laravel-mix-notifier": "latest",
+        "@feugene/layer-request": "latest",
+        "@feugene/mu": "latest",
+        "@feugene/request": "latest",
+        "@feugene/request-interceptors": "latest",
+        "@feugene/webpack-plugin-server-push": "latest",
+        "@feui/vue-webpack-template": "latest",
+        "@feup-infolab/docker-mocha": "latest",
+        "@feup-infolab/node-b2drop": "latest",
+        "@feup-infolab/node-b2share-v2": "latest",
+        "@feup-infolab/ontologies-database": "latest",
+        "@feusefultools/prettier-config-useful": "latest"
+    }
+}

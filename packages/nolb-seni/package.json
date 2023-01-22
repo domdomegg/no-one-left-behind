@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-seni",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "seni": "latest",
+        "senil": "latest",
+        "seniman": "latest",
+        "seniman-cli": "latest",
+        "senio-simple-motion": "latest",
+        "senior": "latest",
+        "senior-drag": "latest",
+        "senior-fe-challenge": "latest",
+        "senior-fetch": "latest",
+        "senior-front-generator": "latest",
+        "senior-solution-stomp-client": "latest",
+        "senior_project": "latest",
+        "seniore": "latest",
+        "seniorjs": "latest",
+        "seniors": "latest",
+        "seniors-stylis": "latest",
+        "seniortable": "latest",
+        "seniortables": "latest",
+        "seniorvu-sdk": "latest",
+        "senirupa": "latest",
+        "senirupa-mq": "latest",
+        "senitherweight": "latest",
+        "seniverse-api": "latest"
+    }
+}

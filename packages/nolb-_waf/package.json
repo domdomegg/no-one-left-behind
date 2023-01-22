@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_waf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wafarm/netease-cloudmusic-api": "latest",
+        "@wafart/wafart_hello_package": "latest",
+        "@waferjs/form-data": "latest",
+        "@waff/b64": "latest",
+        "@waff/equal": "latest",
+        "@waff/implemented": "latest",
+        "@waff/v": "latest",
+        "@waff/viscomp": "latest",
+        "@waff/yggdrasil": "latest",
+        "@wafflepie/purify-css": "latest",
+        "@wafflepie/purify-css-webpack": "latest",
+        "@wafisolutions/prayer-times": "latest",
+        "@wafo/forms": "latest",
+        "@wafo/react-websocket": "latest",
+        "@wafo/table": "latest",
+        "@wafpc/base": "latest",
+        "@wafpc/prime": "latest",
+        "@wafuwafu13/hello-wasm": "latest",
+        "@wafuwafu13/react-rich-text-test-test": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-esj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "esjava": "latest",
+        "esjaycal": "latest",
+        "esjaycdtimer": "latest",
+        "esjaycurrconv": "latest",
+        "esjaynumguess": "latest",
+        "esjayoop": "latest",
+        "esjayoopbank": "latest",
+        "esjayprompt": "latest",
+        "esjayquick": "latest",
+        "esjaytodolist": "latest",
+        "esjaywordcount": "latest",
+        "esjelly-utils": "latest",
+        "esjest-transform": "latest",
+        "esjp": "latest",
+        "esjson": "latest",
+        "esjzone-api": "latest"
+    }
+}

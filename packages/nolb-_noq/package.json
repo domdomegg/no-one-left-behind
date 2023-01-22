@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_noq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@noqcks/bakeryswap-sdk-v2": "latest",
+        "@noqcks/dfyn-sdk": "latest",
+        "@noqcks/generated": "latest",
+        "@noqcks/uniswap-sdk-core": "latest",
+        "@noqdev/cloudscape": "latest",
+        "@noqoo/react-native-noqoo": "latest",
+        "@noqte/ui": "latest",
+        "@noquarter/helpers": "latest",
+        "@noquarter/hooks": "latest",
+        "@noquarter/ui": "latest",
+        "@noquarter/utils": "latest"
+    }
+}

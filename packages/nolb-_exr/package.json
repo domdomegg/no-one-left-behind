@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_exr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@exr0n/rust-webpack-template": "latest",
+        "@exr0n/wasm": "latest",
+        "@exres/coswheel": "latest",
+        "@exres/coswheel-website": "latest"
+    }
+}

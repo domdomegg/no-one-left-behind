@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-easyl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "easyl": "latest",
+        "easylabs-ui-library": "latest",
+        "easylang-extension": "latest",
+        "easylaser-vn-cms": "latest",
+        "easylaziness": "latest",
+        "easylean-weapp": "latest",
+        "easyleveldb": "latest",
+        "easylex-api-test": "latest",
+        "easyline": "latest",
+        "easylink": "latest",
+        "easylink-js": "latest",
+        "easylink_persistance": "latest",
+        "easylinkedlist": "latest",
+        "easylinkin-profile-card": "latest",
+        "easylint": "latest",
+        "easylive": "latest",
+        "easylock": "latest",
+        "easylog": "latest",
+        "easylog-cpi": "latest",
+        "easylogger": "latest",
+        "easylogger-ts": "latest",
+        "easylogger.js": "latest",
+        "easyloggingpp": "latest",
+        "easylogin-spascreen-with-utils": "latest",
+        "easylogs": "latest"
+    }
+}

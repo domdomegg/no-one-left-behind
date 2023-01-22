@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-teb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "teb": "latest",
+        "teb-step-bar": "latest",
+        "tebakgender": "latest",
+        "tebessumhareketi": "latest",
+        "tebex": "latest",
+        "tebex-api": "latest",
+        "teboho-slider": "latest",
+        "tebon_request": "latest",
+        "tebon_toast": "latest",
+        "tebon_utils": "latest",
+        "tebza-frame-print": "latest"
+    }
+}

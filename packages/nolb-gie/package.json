@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-gie",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gie": "latest",
+        "gie-mongodb-logger": "latest",
+        "gief": "latest",
+        "gief-editorconfig": "latest",
+        "giegie-captcha": "latest",
+        "gientech-madp-npm": "latest",
+        "gientech-ui": "latest",
+        "gieter": "latest"
+    }
+}

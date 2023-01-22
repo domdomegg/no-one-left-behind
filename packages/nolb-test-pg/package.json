@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-test-pg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "test-pg": "latest",
+        "test-pg-pool": "latest",
+        "test-pg-test-test": "latest",
+        "test-pg1": "latest",
+        "test-pgk-by-qqli": "latest"
+    }
+}

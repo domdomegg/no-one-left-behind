@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-ax6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ax63": "latest",
+        "ax63.js": "latest",
+        "ax6ui": "latest",
+        "ax6ui-es": "latest",
+        "ax6ui-es5": "latest",
+        "ax6ui-react-grid": "latest"
+    }
+}

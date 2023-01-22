@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-j4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "j4": "latest",
+        "j4ce-npm-publish-test": "latest",
+        "j4j-rhing": "latest",
+        "j4skit": "latest",
+        "j4tools": "latest",
+        "j4ts": "latest",
+        "j4y35": "latest"
+    }
+}

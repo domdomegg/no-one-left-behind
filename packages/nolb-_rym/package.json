@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_rym",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@rymar/about-me": "latest",
+        "@rymar/help": "latest",
+        "@rymar/public-ip": "latest",
+        "@rymarchikbot/react-beautiful-dnd": "latest",
+        "@rymarchikbot/react-grid-layout": "latest",
+        "@rymdtiden/eventlog": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_l7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@l7/eh": "latest",
+        "@l7dev/ng-test-lib": "latest",
+        "@l7dev/ng-test-lib2": "latest",
+        "@l7mp/l7mp": "latest",
+        "@l7mp/stunner-auth-lib": "latest",
+        "@l7tickets/common": "latest"
+    }
+}

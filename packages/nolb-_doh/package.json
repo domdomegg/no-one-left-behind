@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_doh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dohaki_boson/contracts-sdk": "latest",
+        "@dohaki_boson/core-sdk": "latest",
+        "@dohaki_boson/data-storage-sdk": "latest",
+        "@dohaki_boson/widgets": "latest",
+        "@dohaki_boson/widgets-sdk": "latest",
+        "@dohasys/lib-crud-vue-store": "latest",
+        "@dohasys/lib-javascript-bra-cpf-cnpj": "latest",
+        "@dohasys/lib-quasar-commons": "latest",
+        "@dohasys/node-repository": "latest",
+        "@dohomi/nuxt": "latest",
+        "@dohooo/eslint-config": "latest",
+        "@dohooo/eslint-config-basic": "latest",
+        "@dohooo/eslint-config-react": "latest",
+        "@dohooo/eslint-config-ts": "latest",
+        "@dohyeon/react-naver-login": "latest",
+        "@dohyeong2/nestjs-sentry": "latest"
+    }
+}

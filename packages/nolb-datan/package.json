@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-datan",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "datanchor-egnyte-js-sdk": "latest",
+        "datanchor-rules-engine": "latest",
+        "dataneux": "latest",
+        "datanhac": "latest",
+        "datanime": "latest",
+        "datanode-explorer": "latest",
+        "datanormalization-paypal": "latest",
+        "datanote-service-file2doc": "latest",
+        "datanow": "latest",
+        "datanpm": "latest"
+    }
+}

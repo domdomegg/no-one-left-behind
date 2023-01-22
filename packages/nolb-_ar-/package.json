@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_ar-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ar-gittix/common": "latest",
+        "@ar-identification/decode": "latest",
+        "@ar-identification/react": "latest",
+        "@ar-js-org/ar.js": "latest",
+        "@ar-js-org/artoolkit5-js": "latest",
+        "@ar-kit/ab-test": "latest",
+        "@ar-kit/babel-plugin-controller-add-displayname": "latest",
+        "@ar-kit/controllers": "latest",
+        "@ar-kit/i18n-loader": "latest",
+        "@ar-kit/proxy-server": "latest",
+        "@ar-kit/runtime-env-checks": "latest",
+        "@ar-maged/nedb": "latest",
+        "@ar-maged/nedb-promises": "latest",
+        "@ar-maged/react-native-app-intro-slider": "latest",
+        "@ar-nelson/foldcase": "latest",
+        "@ar-ticketing/common": "latest",
+        "@ar-tickets/common": "latest",
+        "@ar-time/ar-time": "latest",
+        "@ar-time/web-component": "latest"
+    }
+}

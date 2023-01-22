@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-vue-ag",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-age": "latest",
+        "vue-age-calculator": "latest",
+        "vue-agent": "latest",
+        "vue-agentpush": "latest",
+        "vue-ageo-theme": "latest",
+        "vue-agile": "latest",
+        "vue-agile-30nama": "latest",
+        "vue-agile-calendar": "latest",
+        "vue-agile-carousel": "latest",
+        "vue-agile-forked": "latest",
+        "vue-agile-lite": "latest",
+        "vue-agile-scrollbar": "latest",
+        "vue-agile-ui": "latest",
+        "vue-ago": "latest",
+        "vue-agon": "latest",
+        "vue-agreed-router": "latest"
+    }
+}

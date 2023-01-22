@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-utilt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "utilt-123435-a": "latest",
+        "utiltest": "latest",
+        "utiltool": "latest",
+        "utiltool-pubsub": "latest",
+        "utiltoolpub": "latest",
+        "utiltoolpublish": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-bsn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bsn": "latest",
+        "bsn-auth": "latest",
+        "bsn-bip39": "latest",
+        "bsn-js": "latest",
+        "bsn-verify": "latest",
+        "bsn_react-native-fast-image": "latest",
+        "bsn_react-native-image-gallery": "latest",
+        "bsnk-dev-vm2": "latest",
+        "bsnode": "latest"
+    }
+}

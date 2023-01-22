@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-sway",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sway": "latest",
+        "sway-finance-modules": "latest",
+        "sway-finance-private": "latest",
+        "sway-tools": "latest",
+        "sway-ui": "latest",
+        "sway-worker": "latest",
+        "sway-workspace-grid": "latest",
+        "sway-workspace-grid_-": "latest",
+        "sway.module_webcore.mvc-napi": "latest",
+        "sway3": "latest",
+        "swaye-flip": "latest",
+        "swayer": "latest",
+        "swaypreet": "latest",
+        "swayzee": "latest"
+    }
+}

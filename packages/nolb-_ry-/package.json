@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_ry-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ry-goto/react-hello-world-2022": "latest",
+        "@ry-goto/react-hello-world-20220826": "latest",
+        "@ry-goto/react-hello-world-20221104": "latest",
+        "@ry-nestjs/cli": "latest",
+        "@ry-nestjs/typeorm-query": "latest",
+        "@ry-nestjs/typeorm-transactional-next": "latest"
+    }
+}

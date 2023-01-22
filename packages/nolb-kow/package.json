@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-kow",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "kow-db": "latest",
+        "kow-sessions": "latest",
+        "kow_redis_sessions": "latest",
+        "kowa": "latest",
+        "kowa-fs": "latest",
+        "kowa-http": "latest",
+        "kowa-timers": "latest",
+        "kowa1ski-platsom": "latest",
+        "kowals-static-blog-generator": "latest",
+        "kowalski": "latest",
+        "kowalski-analytics": "latest",
+        "kowalski-analytics-storage-mongoose": "latest",
+        "kowalski-cli": "latest",
+        "kowalski-lite": "latest",
+        "koweb3test": "latest",
+        "koweb3testv10": "latest",
+        "kowheels": "latest",
+        "kowi": "latest",
+        "kowsi-library": "latest",
+        "kowsipackage": "latest",
+        "kowtow": "latest"
+    }
+}

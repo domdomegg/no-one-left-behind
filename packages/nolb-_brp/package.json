@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_brp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@brp2585/common": "latest",
+        "@brp2585tickets/common": "latest",
+        "@brpaz/crd-jsonschema-converter": "latest",
+        "@brpaz/eleventy-shortcode-vite": "latest",
+        "@brpaz/generator-editorconfig": "latest",
+        "@brpaz/generator-heroku": "latest",
+        "@brpaz/generator-travis": "latest",
+        "@brpaz/pulumi-k8s-resources": "latest",
+        "@brpaz/sao-reloaded": "latest",
+        "@brpaz/semantic-release-helm": "latest",
+        "@brpaz/vite-manifest-parser": "latest",
+        "@brpereyra/directory-exists": "latest"
+    }
+}

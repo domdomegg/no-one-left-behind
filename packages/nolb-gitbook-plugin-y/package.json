@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-gitbook-plugin-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gitbook-plugin-yahei": "latest",
+        "gitbook-plugin-yametrika": "latest",
+        "gitbook-plugin-yh-changyan": "latest",
+        "gitbook-plugin-yh-navigation": "latest",
+        "gitbook-plugin-yougu-fanli": "latest",
+        "gitbook-plugin-youtube": "latest",
+        "gitbook-plugin-youtube-botpress": "latest",
+        "gitbook-plugin-youtube-placeholder": "latest",
+        "gitbook-plugin-youtubex": "latest",
+        "gitbook-plugin-ysp-up": "latest",
+        "gitbook-plugin-ysp-zhuti": "latest",
+        "gitbook-plugin-yundeng": "latest",
+        "gitbook-plugin-yyuedlab": "latest"
+    }
+}

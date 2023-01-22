@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-stylelint-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylelint-warning-to-vscode-diagnostic": "latest",
+        "stylelint-webpack-plugin": "latest",
+        "stylelint-webpack-plugin-maple": "latest",
+        "stylelint-wechat-work-css": "latest",
+        "stylelint-wxss": "latest"
+    }
+}

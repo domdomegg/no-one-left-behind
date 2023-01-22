@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_jug",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@juganu/jsos-api": "latest",
+        "@jugdx/discord-bot": "latest",
+        "@jugendarbeit.digital/botkit-rocketchat-connector": "latest",
+        "@jugendarbeit.digital/livechat": "latest",
+        "@jugendarbeit.digital/react-native-autolink": "latest",
+        "@juggle-data-view/base-bar": "latest",
+        "@juggle-data-view/code-editor": "latest",
+        "@juggle-data-view/common-title": "latest",
+        "@juggle-data-view/dynamicimport": "latest",
+        "@juggle-data-view/echarts-common": "latest",
+        "@juggle-data-view/notice": "latest",
+        "@juggle-data-view/recursion-form": "latest",
+        "@juggle-data-view/types": "latest",
+        "@juggle-data-view/ui-theme": "latest",
+        "@juggle-demo/cli": "latest",
+        "@juggle-demo/cli-shared-utils": "latest",
+        "@juggle/resize-observer": "latest",
+        "@jugitix/common": "latest",
+        "@jugnuagrawal/express-mongoose-crud": "latest",
+        "@jugoose-nestjs/response-wrapper": "latest",
+        "@jugurta/is-wds": "latest",
+        "@jugyo/api-recorder": "latest"
+    }
+}

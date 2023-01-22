@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-ngxm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ngxm-input": "latest",
+        "ngxm-textarea": "latest",
+        "ngxmaterialtimepickermoneasy": "latest",
+        "ngxmatfire": "latest",
+        "ngxmatgo": "latest"
+    }
+}

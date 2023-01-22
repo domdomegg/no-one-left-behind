@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-quet",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "queta": "latest",
+        "quetie": "latest",
+        "quetils": "latest",
+        "quetsch-kommode-22": "latest",
+        "quety": "latest",
+        "quety-mqtt": "latest",
+        "quety-util": "latest",
+        "quetz-theme": "latest",
+        "quetzal": "latest"
+    }
+}

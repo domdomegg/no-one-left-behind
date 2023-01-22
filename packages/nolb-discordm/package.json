@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-discordm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discordmfa": "latest",
+        "discordmium": "latest",
+        "discordmod": "latest",
+        "discordmsgapitest": "latest",
+        "discordmusic-v13": "latest",
+        "discordmusicapi": "latest",
+        "discordmusicbot-pudge": "latest"
+    }
+}

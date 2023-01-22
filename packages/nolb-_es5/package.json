@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_es5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@es50678/cra-template-optimized-ts": "latest",
+        "@es50678/tazij": "latest",
+        "@es50678/temporal-fusion": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-uif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "uif": "latest",
+        "uif-fabric": "latest",
+        "uifab": "latest",
+        "uifactory": "latest",
+        "uiffy": "latest",
+        "uifi": "latest",
+        "uiflow": "latest",
+        "uiflows-parser": "latest",
+        "uiflowtest_v_dbinder": "latest",
+        "uiframe-demo": "latest",
+        "uiframework": "latest",
+        "uifw": "latest",
+        "uifx": "latest",
+        "uify": "latest",
+        "uify-server": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_yuh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yuhaifeng.2176/tool_test": "latest",
+        "@yuhaoyan/lotide": "latest",
+        "@yuheiy/animated-collapse-element": "latest",
+        "@yuheiy/aozora-lorem": "latest",
+        "@yuheiy/childnode-ponyfill": "latest",
+        "@yuheiy/format-url-query": "latest",
+        "@yuheiy/gulp-debounce": "latest",
+        "@yuheiy/html-frontmatter": "latest",
+        "@yuheiy/lake.js": "latest",
+        "@yuheiy/metalsmith-filter": "latest",
+        "@yuheiy/metalsmith-html-frontmatter": "latest",
+        "@yuheiy/page-dispatcher": "latest",
+        "@yuheiy/react-checkbox-group": "latest",
+        "@yuheiy/responsive-image-map": "latest",
+        "@yuheiy/scroll-to": "latest",
+        "@yuheiy/simple-url-dispatcher": "latest",
+        "@yuheiy/stylelint-config-yuheiy": "latest",
+        "@yuhonyon/moapi": "latest",
+        "@yuhoo-cli-dev/core": "latest",
+        "@yuhoo-cli-dev/utils": "latest",
+        "@yuhr/obake": "latest",
+        "@yuhr/prettier": "latest",
+        "@yuhu-inc/yuhui": "latest",
+        "@yuhuinc/yuhui": "latest",
+        "@yuhuo/css-loader": "latest",
+        "@yuhuo/css-plugin": "latest",
+        "@yuhuo/url-loader": "latest",
+        "@yuhyoju/sdk": "latest"
+    }
+}

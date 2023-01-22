@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-wxq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wxq": "latest",
+        "wxq-cli": "latest",
+        "wxq-css": "latest",
+        "wxq-html": "latest",
+        "wxq-js": "latest",
+        "wxq-readfile-zk": "latest",
+        "wxq-test1": "latest",
+        "wxq-testnpm-tools": "latest",
+        "wxq-text-20170220": "latest",
+        "wxq-today": "latest",
+        "wxq-ui": "latest",
+        "wxq-webpack-react-mutil-config": "latest",
+        "wxq-zk1readfile": "latest",
+        "wxqjb": "latest",
+        "wxqlogs": "latest",
+        "wxqqj": "latest",
+        "wxqqj00": "latest",
+        "wxqqshare": "latest",
+        "wxqrcode-js": "latest"
+    }
+}

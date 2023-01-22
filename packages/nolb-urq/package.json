@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-urq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "urqa4node": "latest",
+        "urql": "latest",
+        "urql-array-mutations-hook": "latest",
+        "urql-computed-exchange": "latest",
+        "urql-custom-scalars-exchange": "latest",
+        "urql-devtools": "latest",
+        "urql-docs": "latest",
+        "urql-errors-fix": "latest",
+        "urql-exchange-apollo": "latest",
+        "urql-exchange-async-headers": "latest",
+        "urql-exchange-schema": "latest",
+        "urql-fetch-exchange": "latest",
+        "urql-generic-requester": "latest",
+        "urql-persisted-queries": "latest",
+        "urql-serialize-scalars-exchange": "latest",
+        "urql-svelte-codegen-client": "latest",
+        "urquelle": "latest"
+    }
+}

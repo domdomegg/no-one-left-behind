@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_compan",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@companick/react-drawer": "latest",
+        "@companieshouse/api-sdk-node": "latest",
+        "@companieshouse/node-session-handler": "latest",
+        "@companieshouse/structured-logging-node": "latest",
+        "@companieshouse/web-security-node": "latest",
+        "@companion-io/ng-forms": "latest",
+        "@companion-module/base": "latest",
+        "@companion-module/bmd-atem": "latest",
+        "@companion-module/tools": "latest",
+        "@companion-studio/eslint-config": "latest",
+        "@companion-studio/prettier-config": "latest",
+        "@companion-studio/schema": "latest",
+        "@companion-studio/tsconfig": "latest",
+        "@companycam/saasquatch-custom-components": "latest",
+        "@companydotcom/company-skynet-core": "latest",
+        "@companydotcom/micro-application-core": "latest",
+        "@companydotcom/types": "latest",
+        "@companyname/button": "latest",
+        "@companyname/js-shared": "latest",
+        "@companynamespace/npm-package-template": "latest",
+        "@companynamespace/test-github-actions": "latest",
+        "@companynet/sass-styling-framework-core": "latest",
+        "@companynet/sass-styling-framework-core-test": "latest",
+        "@companyx/eslint-config-node": "latest",
+        "@companyx/eslint-config-react": "latest",
+        "@companyx/eslint-config-react-native": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_openfe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@openfeature/flagd-provider": "latest",
+        "@openfeature/flagd-rest-provider": "latest",
+        "@openfeature/flagd-web-provider": "latest",
+        "@openfeature/go-feature-flag-provider": "latest",
+        "@openfeature/js-sdk": "latest",
+        "@openfeature/nodejs-sdk": "latest",
+        "@openfeature/open-telemetry-hook": "latest",
+        "@openfeature/provider-rest-client": "latest"
+    }
+}

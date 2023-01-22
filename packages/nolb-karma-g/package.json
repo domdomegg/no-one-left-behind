@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-karma-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "karma-gb-json2js-preprocessor": "latest",
+        "karma-generic-preprocessor": "latest",
+        "karma-gherkin_yadda-preprocessor": "latest",
+        "karma-git-diff": "latest",
+        "karma-git-http-server-middleware": "latest",
+        "karma-global-dfp": "latest",
+        "karma-global-preprocessor": "latest",
+        "karma-global-preprocessor-se": "latest",
+        "karma-google-sheets": "latest",
+        "karma-googmodule-preprocessor": "latest",
+        "karma-graphql-preprocessor": "latest",
+        "karma-growl": "latest",
+        "karma-growl-notifications-reporter": "latest",
+        "karma-growl-reporter": "latest",
+        "karma-growl-reporter-custom": "latest",
+        "karma-growl-reporter-jamestalmage": "latest",
+        "karma-growl12-reporter": "latest",
+        "karma-growler-reporter": "latest",
+        "karma-growlnetwork-reporter": "latest",
+        "karma-growly-reporter": "latest",
+        "karma-grunt-jasmine-jquery-underscore-requirejs-example": "latest",
+        "karma-gvcoverage": "latest",
+        "karma-gvreporter": "latest",
+        "karma-gzip": "latest",
+        "karma-gzip-preprocessor": "latest"
+    }
+}

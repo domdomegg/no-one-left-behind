@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-node-red-p",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-picubes": "latest",
+        "node-red-piervin-sensor-wired": "latest",
+        "node-red-piervin-sensortag": "latest",
+        "node-red-piface": "latest",
+        "node-red-pinterest": "latest",
+        "node-red-presence-sensors": "latest",
+        "node-red-pressac-sensor": "latest",
+        "node-red-prismapro": "latest",
+        "node-red-project": "latest",
+        "node-red-project_sensey": "latest",
+        "node-red-pushpanda": "latest",
+        "node-red-pushsafer": "latest"
+    }
+}

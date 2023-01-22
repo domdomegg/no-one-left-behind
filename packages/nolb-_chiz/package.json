@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_chiz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chizhik/c-design-system": "latest",
+        "@chizhik/ui-lib": "latest",
+        "@chizhik/ui-library": "latest",
+        "@chizpa/ngx-mydatepicker": "latest",
+        "@chizpa/ngx-mydatepicker-sd": "latest",
+        "@chizzele-/fgp_react_lib": "latest",
+        "@chizzele-/first_npm_package": "latest"
+    }
+}

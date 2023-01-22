@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-vue4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue4": "latest",
+        "vue4-cli": "latest",
+        "vue400": "latest",
+        "vue4auth": "latest",
+        "vue4vendetta": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-cory",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cory": "latest",
+        "cory-johnson-random-name-generator": "latest",
+        "cory-js-footer": "latest",
+        "cory-resume": "latest",
+        "cory-test-npm-test": "latest",
+        "coryhouse": "latest",
+        "corymhall-plugin-package": "latest",
+        "corys-react-scripts": "latest",
+        "corysmith-resume": "latest",
+        "corywhite": "latest"
+    }
+}

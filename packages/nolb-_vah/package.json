@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_vah",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vah77/tutor-platform-react-ui": "latest",
+        "@vahaha/hello-npm": "latest",
+        "@vahaha/parse-dict": "latest",
+        "@vahaha/treejs": "latest",
+        "@vahedi/headless-pagination-js": "latest",
+        "@vahesaroyan/atoms": "latest",
+        "@vahesaroyan/atomspace": "latest",
+        "@vahesaroyan/atomspace-theme": "latest",
+        "@vahesaroyan/loadercircle": "latest",
+        "@vahesaroyan/logger": "latest",
+        "@vahesaroyan/react-native-boilerplate": "latest",
+        "@vahesaroyan/react-native-boilerplate-ts": "latest",
+        "@vahesaroyan/react-native-bubble-select": "latest",
+        "@vahesaroyan/react-native-image-editor": "latest",
+        "@vahesaroyan/react-native-image-editor-example": "latest",
+        "@vahesaroyan/redux-offline": "latest",
+        "@vahesaroyan/rnb-plugin-typescript": "latest",
+        "@vahesaroyan/rnb-toolbox": "latest",
+        "@vahid.saeedi/vframework": "latest",
+        "@vahidalvandi/grid-editor": "latest",
+        "@vahidh/vue-autocompletion": "latest",
+        "@vahill/graphql-request": "latest"
+    }
+}

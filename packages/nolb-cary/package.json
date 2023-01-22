@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-cary",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cary": "latest",
+        "cary-auth": "latest",
+        "cary-lerna-1": "latest",
+        "cary-lerna-2": "latest",
+        "cary-nodelearn": "latest",
+        "cary-peer-deps": "latest",
+        "cary-peer-deps-2": "latest",
+        "cary-test-package": "latest",
+        "cary-tsx-dom": "latest",
+        "cary-utils": "latest",
+        "caryl": "latest",
+        "caryll-shapeops": "latest",
+        "caryon-ui": "latest",
+        "carys-npm-package": "latest"
+    }
+}

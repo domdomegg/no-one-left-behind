@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-apik",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "apik": "latest",
+        "apika": "latest",
+        "apikana": "latest",
+        "apikana-defaults": "latest",
+        "apiker": "latest",
+        "apiker-demo": "latest",
+        "apikey": "latest",
+        "apikeyfromlist": "latest",
+        "apikeygen": "latest",
+        "apikeypair": "latest",
+        "apiki-branch-pattern": "latest",
+        "apikit": "latest",
+        "apikit-md": "latest",
+        "apiko": "latest",
+        "apiko-cli": "latest",
+        "apiko-design-system": "latest",
+        "apiko-secrets-manager": "latest"
+    }
+}

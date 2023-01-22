@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_cary",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@caryca_olga/randomid-generator": "latest",
+        "@caryhu/cary-test-package": "latest",
+        "@caryhu/eslint-config": "latest",
+        "@caryhu/eslint-config-basic": "latest",
+        "@caryhu/eslint-config-ts": "latest",
+        "@caryhu/eslint-config-vue": "latest",
+        "@caryliu/game-lobby": "latest",
+        "@carylwang/ckeditor5-build-classic": "latest",
+        "@carywill/demo-npm-link": "latest"
+    }
+}

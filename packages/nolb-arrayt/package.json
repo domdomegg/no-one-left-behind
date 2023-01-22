@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-arrayt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "arraytocsv": "latest",
+        "arraytocsvbalanced": "latest",
+        "arraytoolbox": "latest",
+        "arraytoollib": "latest",
+        "arraytools": "latest",
+        "arraytools-ts": "latest",
+        "arraytrans": "latest",
+        "arraytraverser": "latest",
+        "arraytree": "latest",
+        "arraytwod": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_k3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@k33g/wasi.js": "latest",
+        "@k346-tickets/common": "latest",
+        "@k3imagine/application-monitoring": "latest",
+        "@k3imagine/bootstrap-grid": "latest",
+        "@k3imagine/imagine-extension-framework": "latest",
+        "@k3imagine/item-search": "latest",
+        "@k3imagine/media": "latest",
+        "@k3imagine/permission-handler": "latest",
+        "@k3imagine/routing-library": "latest",
+        "@k3imagine/self-serve-components": "latest",
+        "@k3imagine/sidebar-navigation": "latest",
+        "@k3imagine/svc-clerk": "latest",
+        "@k3imagine/svc-composer": "latest",
+        "@k3imagine/svc-language": "latest",
+        "@k3imagine/svc-shop": "latest",
+        "@k3imagine/ui-language-picker": "latest",
+        "@k3imagine/ui-login": "latest",
+        "@k3imagine/web-components": "latest",
+        "@k3kys-ticketing/common": "latest",
+        "@k3kys-tickets/common": "latest",
+        "@k3n-labs/consts": "latest",
+        "@k3n-labs/time-utils": "latest",
+        "@k3n-labs/types": "latest",
+        "@k3n/phaser-spine": "latest",
+        "@k3nt0w/swr-devtools": "latest",
+        "@k3rnel_err0r/hello": "latest",
+        "@k3rnel_err0r/json-sounds": "latest"
+    }
+}

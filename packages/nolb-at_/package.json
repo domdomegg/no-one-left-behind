@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-at_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "at.coderabbit.darkmode": "latest",
+        "at.css": "latest",
+        "at.js": "latest",
+        "at.property": "latest",
+        "at_scheduler": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-nextm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nextmail": "latest",
+        "nextmarvel-ui": "latest",
+        "nextmatchingelement": "latest",
+        "nextmeetup": "latest",
+        "nextmin": "latest",
+        "nextmix": "latest",
+        "nextmix-next": "latest",
+        "nextmix-remix": "latest",
+        "nextmoov-ci-scripts": "latest",
+        "nextmoov-commons-backend": "latest"
+    }
+}

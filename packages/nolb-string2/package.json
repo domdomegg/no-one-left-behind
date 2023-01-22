@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-string2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "string2-loader": "latest",
+        "string2array": "latest",
+        "string2bpm-pitches-array": "latest",
+        "string2buffer": "latest",
+        "string2bytes": "latest",
+        "string2color": "latest",
+        "string2compact": "latest",
+        "string2compact-rit": "latest",
+        "string2dom": "latest",
+        "string2emoji": "latest",
+        "string2flags": "latest",
+        "string2fun": "latest",
+        "string2hash": "latest",
+        "string2html": "latest",
+        "string2js": "latest",
+        "string2jsx": "latest",
+        "string2mediaquery": "latest",
+        "string2num": "latest",
+        "string2ooxml": "latest",
+        "string2pitches-array": "latest",
+        "string2png": "latest",
+        "string2rect": "latest",
+        "string2regex": "latest",
+        "string2stream": "latest",
+        "string2tree": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_orv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@orva-sdk/core": "latest",
+        "@orva-sdk/services": "latest",
+        "@orva-sdk/utilities": "latest",
+        "@orval/angular": "latest",
+        "@orval/axios": "latest",
+        "@orval/core": "latest",
+        "@orval/msw": "latest",
+        "@orval/query": "latest",
+        "@orval/swr": "latest"
+    }
+}

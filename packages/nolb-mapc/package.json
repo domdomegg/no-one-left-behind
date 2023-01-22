@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-mapc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mapc-design-system": "latest",
+        "mapc.shp-write-cgcs": "latest",
+        "mapc.shp-write-dbf": "latest",
+        "mapcache": "latest",
+        "mapcachetools": "latest",
+        "mapcap": "latest",
+        "mapcar": "latest",
+        "mapcarrier": "latest",
+        "mapcat": "latest",
+        "mapchop": "latest",
+        "mapcode": "latest",
+        "mapcode-regex": "latest",
+        "mapconcat": "latest",
+        "mapcoreintegratedwebapp": "latest",
+        "mapcraft": "latest",
+        "mapcraft-api": "latest",
+        "mapcraftjs": "latest",
+        "mapcss": "latest"
+    }
+}

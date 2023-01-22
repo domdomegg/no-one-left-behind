@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-aws-b",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aws-b2b": "latest",
+        "aws-bastion-utils": "latest",
+        "aws-batch-triggering-lambda": "latest",
+        "aws-bibot-webui": "latest",
+        "aws-billing": "latest",
+        "aws-billing-console-angular": "latest",
+        "aws-blackbox": "latest",
+        "aws-blue-green-toolkit": "latest",
+        "aws-bluebird": "latest",
+        "aws-bootstrap-kit": "latest",
+        "aws-browser-sdk": "latest",
+        "aws-buddy": "latest",
+        "aws-builder": "latest",
+        "aws-bunyan": "latest",
+        "aws-bunyan-loggercatalog": "latest",
+        "aws-butler": "latest"
+    }
+}

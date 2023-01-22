@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-simplev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simplev-compare": "latest",
+        "simplev-match": "latest",
+        "simplev-parse": "latest",
+        "simpleval": "latest",
+        "simplevalidate": "latest",
+        "simplevalidator": "latest",
+        "simplevalues": "latest",
+        "simplevectorsjs": "latest",
+        "simplevent": "latest",
+        "simpleview-lib": "latest",
+        "simpleviewjs": "latest",
+        "simplevivek-js-dsa": "latest",
+        "simplevk": "latest",
+        "simplevoicerecorderreact": "latest",
+        "simplevue": "latest"
+    }
+}

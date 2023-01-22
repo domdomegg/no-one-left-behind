@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-1c",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "1c": "latest",
+        "1c-cli": "latest",
+        "1c-ibcmd-runner": "latest",
+        "1c-polyfill": "latest",
+        "1c-react-util": "latest",
+        "1c-slides-data-interface": "latest",
+        "1c-slides-learning-interface": "latest",
+        "1c-std": "latest",
+        "1cak": "latest",
+        "1cak-scraper": "latest",
+        "1campus_nodedsa": "latest",
+        "1cc": "latest",
+        "1clearscientist": "latest",
+        "1cli": "latest",
+        "1click-api": "latest",
+        "1clickcrawl": "latest",
+        "1co": "latest",
+        "1command": "latest",
+        "1css": "latest"
+    }
+}

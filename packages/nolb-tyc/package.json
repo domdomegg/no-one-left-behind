@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-tyc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "Tyche": "latest",
+        "tyc": "latest",
+        "tyc-rpc-sdk-test": "latest",
+        "tyc-utils": "latest",
+        "tycbig": "latest",
+        "tycc": "latest",
+        "tyche": "latest",
+        "tyche-openapi": "latest",
+        "tyche-tools": "latest",
+        "tyche-ui": "latest",
+        "tycheck": "latest",
+        "tycho": "latest",
+        "tycho-scripts": "latest",
+        "tycholiu_demo_npm": "latest",
+        "tycker": "latest",
+        "tycks": "latest",
+        "tycloud97-lemon-core": "latest",
+        "tyco": "latest",
+        "tycomponents": "latest",
+        "tycon": "latest",
+        "tycoon": "latest",
+        "tycreated-starter": "latest",
+        "tycrek-s3-transform": "latest"
+    }
+}

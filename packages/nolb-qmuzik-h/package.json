@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-qmuzik-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qmuzik-handjournal": "latest",
+        "qmuzik-handjournal-shared": "latest",
+        "qmuzik-handjournalextension": "latest",
+        "qmuzik-handjournalextension-shared": "latest",
+        "qmuzik-handjournalrules": "latest",
+        "qmuzik-handjournalrules-shared": "latest",
+        "qmuzik-hirecalendar": "latest",
+        "qmuzik-hirecalendar-shared": "latest",
+        "qmuzik-hirequotation": "latest",
+        "qmuzik-hirequotation-shared": "latest",
+        "qmuzik-hirequotationdetail": "latest",
+        "qmuzik-hirequotationdetail-shared": "latest",
+        "qmuzik-holiday": "latest",
+        "qmuzik-holiday-shared": "latest"
+    }
+}

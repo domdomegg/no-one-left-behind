@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-custor",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "custorm": "latest",
+        "custorm-braft-editor": "latest",
+        "custorm-cm-cli": "latest",
+        "custorm-tinymce": "latest",
+        "custormtest": "latest"
+    }
+}

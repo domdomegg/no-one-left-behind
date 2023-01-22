@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-zhx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zhx": "latest",
+        "zhx-app-cli": "latest",
+        "zhx-cli": "latest",
+        "zhx-fetch-api": "latest",
+        "zhx-test": "latest",
+        "zhx-tools": "latest",
+        "zhx-x3-components": "latest",
+        "zhxd-system": "latest",
+        "zhxd-ui": "latest",
+        "zhxg-echarts": "latest",
+        "zhxg-element-ui": "latest",
+        "zhxie-vuepress-plugin-utterances": "latest",
+        "zhxie.js.api": "latest",
+        "zhxkeith": "latest",
+        "zhxx-ui": "latest"
+    }
+}

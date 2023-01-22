@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-gatsby-e",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gatsby-easy-grade-calculator": "latest",
+        "gatsby-elizium-gitbook-starter": "latest",
+        "gatsby-embedder-excalidraw": "latest",
+        "gatsby-emotion-dark-mode": "latest",
+        "gatsby-emotion-tailwind-starter": "latest",
+        "gatsby-env-variables": "latest"
+    }
+}

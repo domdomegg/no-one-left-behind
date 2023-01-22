@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-cr3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cr3": "latest",
+        "cr34t3": "latest",
+        "cr3darwin": "latest",
+        "cr3win32": "latest"
+    }
+}

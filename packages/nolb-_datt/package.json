@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_datt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dattabot-blockchain/cgen-wallet": "latest",
+        "@dattabot-blockchain/geneth-tx": "latest",
+        "@dattn/dnd-grid": "latest",
+        "@dattr/react-responsive": "latest",
+        "@dattr/react-responsive-component": "latest",
+        "@dattran0318/js-custom-helpers": "latest",
+        "@dattran92/storybook-addon-i18next": "latest",
+        "@dattranzaitenllc/app-flow": "latest",
+        "@dattranzaitenllc/card-element": "latest",
+        "@dattranzaitenllc/fin-components": "latest",
+        "@dattv155/react-native-basic-template": "latest",
+        "@dattv155/react-native-tuya": "latest",
+        "@dattv155/react-native-tuya-real": "latest"
+    }
+}

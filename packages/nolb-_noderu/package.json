@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_noderu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@noderun/common-util": "latest",
+        "@noderun/electron-x": "latest",
+        "@noderun/generator-create_lib": "latest",
+        "@noderun/generator-create_vue": "latest",
+        "@noderun/generator-create_yo": "latest",
+        "@noderun/mock-use": "latest",
+        "@noderun/pp": "latest",
+        "@noderun/pz": "latest",
+        "@noderun/sharemodule": "latest",
+        "@noderun/writefile": "latest",
+        "@noderun/xyx-style": "latest"
+    }
+}

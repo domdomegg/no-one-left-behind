@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-orq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "orq": "latest",
+        "orql": "latest",
+        "orql-baas": "latest",
+        "orql-executor": "latest",
+        "orql-mapper": "latest",
+        "orql-parser": "latest",
+        "orque": "latest",
+        "orquestra-form": "latest",
+        "orquestra-mail": "latest",
+        "orquestra-utils": "latest",
+        "orquestrador-database-code7": "latest",
+        "orqvwdjkekhultsm": "latest"
+    }
+}

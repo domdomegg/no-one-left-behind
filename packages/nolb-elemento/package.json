@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-elemento",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "elemento": "latest",
+        "elemento_cloud": "latest",
+        "elementor": "latest",
+        "elementor-developers-docs": "latest",
+        "elementor-php-core": "latest",
+        "elementor.developers": "latest",
+        "elementory": "latest",
+        "elementory-g-backend": "latest",
+        "elementos": "latest",
+        "elementos-react": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-coly",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "coly": "latest",
+        "coly-view": "latest",
+        "colyn-test-cli": "latest",
+        "colyseus": "latest",
+        "colyseus-cli": "latest",
+        "colyseus-client": "latest",
+        "colyseus-cluster": "latest",
+        "colyseus-distributed-matchmaker": "latest",
+        "colyseus-events": "latest",
+        "colyseus-examples": "latest",
+        "colyseus-loadtest": "latest",
+        "colyseus-mobx": "latest",
+        "colyseus-monitor": "latest",
+        "colyseus-mp": "latest",
+        "colyseus-proxy-tmp-fix": "latest",
+        "colyseus-starter": "latest",
+        "colyseus.js": "latest",
+        "colyseus_mq": "latest",
+        "colyseus_social_custom": "latest"
+    }
+}

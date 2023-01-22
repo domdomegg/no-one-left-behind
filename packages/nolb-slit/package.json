@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-slit",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "Slither-Server": "latest",
+        "slit": "latest",
+        "slit-stged": "latest",
+        "slite": "latest",
+        "slithe": "latest",
+        "slither": "latest",
+        "slither-joystick-controller": "latest",
+        "slither-js": "latest",
+        "slither-slider": "latest",
+        "slither.io": "latest",
+        "slitor": "latest",
+        "slitu": "latest",
+        "slitu-apmok": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_graz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@grazecart/vue-triggered-modal": "latest",
+        "@grazianogrespan/kotlin-datetime-library-kotlinx-datetime-js-legacy": "latest",
+        "@grazianogrespan/kotlinx-serialization-kotlinx-serialization-core-js-legacy": "latest",
+        "@grazianogrespan/kotlinx-serialization-kotlinx-serialization-json-js-legacy": "latest",
+        "@grazianogrespan/uuid-js-legacy": "latest"
+    }
+}

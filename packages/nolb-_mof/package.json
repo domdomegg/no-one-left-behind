@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_mof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mofang-cli-dev/command": "latest",
+        "@mofang-cli-dev/core": "latest",
+        "@mofang-cli-dev/exec": "latest",
+        "@mofang-cli-dev/format-path": "latest",
+        "@mofang-cli-dev/get-npm-info": "latest",
+        "@mofang-cli-dev/init": "latest",
+        "@mofang-cli-dev/log": "latest",
+        "@mofang-cli-dev/package": "latest",
+        "@mofang-cli-dev/request": "latest",
+        "@mofang-cli-dev/utils": "latest",
+        "@mofe/aok": "latest",
+        "@mofe/china_regions": "latest",
+        "@mofe/every": "latest",
+        "@mofe/gb9035t-label-printer": "latest",
+        "@mofe/react-loading-button": "latest",
+        "@mofe/sketchpad": "latest",
+        "@mofe/wait": "latest",
+        "@mofesola/hospitalrun": "latest",
+        "@mofhasadev/retolib": "latest",
+        "@moficodes/ve-whiteboard": "latest",
+        "@mofish/apusic-component": "latest",
+        "@mofish/xiaoyu-component-pc": "latest",
+        "@mofiter/osc-file-uploader": "latest",
+        "@mofiter/osc-file-uploader-test1": "latest",
+        "@moflesillo/mediaplayer": "latest",
+        "@mofon-design/csstype": "latest",
+        "@mofon-design/wc-core": "latest",
+        "@mofon-design/wc-jsx": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-json-2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "json-2-bubble": "latest",
+        "json-2-code": "latest",
+        "json-2-css": "latest",
+        "json-2-csv": "latest",
+        "json-2-csv-sh": "latest",
+        "json-2-csv-ts": "latest",
+        "json-2-graphql-query": "latest",
+        "json-2-html": "latest",
+        "json-2-java": "latest",
+        "json-2-joi": "latest",
+        "json-2-prom": "latest",
+        "json-2-sql": "latest",
+        "json-2-stdout": "latest",
+        "json-2-yup": "latest"
+    }
+}

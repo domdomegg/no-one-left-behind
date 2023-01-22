@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_keb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kebab-case/ls-manager": "latest",
+        "@kebab-case/node-command-manager": "latest",
+        "@kebab-case/npm-simple-publisher": "latest",
+        "@kebab-case/vue-readme-component": "latest",
+        "@kebbeswapfinance-libs/eslint-config-kebbe": "latest",
+        "@kebbeswapfinance-libs/uikit": "latest",
+        "@kebdev/lotide": "latest",
+        "@kebetoo/camera-roll-picker": "latest",
+        "@kebian/flags": "latest",
+        "@kebian/fontawesome-free-metadata": "latest",
+        "@kebian/material-design-icons": "latest",
+        "@kebian/piggy": "latest",
+        "@kebian/rehype-mdx-parse-html": "latest",
+        "@kebo69/sidepanel": "latest",
+        "@keboola/codemirror-mode-sfsql": "latest",
+        "@keboola/eslint-config-node": "latest",
+        "@keboola/eslint-plugin-kbc-ui": "latest",
+        "@keboola/flow-builder": "latest",
+        "@keboola/indigo-ui": "latest",
+        "@keboola/manage-api-js-client": "latest",
+        "@keboola/middy-error-logger": "latest",
+        "@keboola/middy-event-validator": "latest",
+        "@keboola/serverless-default-error-responses": "latest",
+        "@keboola/serverless-papertrail-logging": "latest",
+        "@keboola/serverless-request-handler": "latest",
+        "@keboola/storage-api-js-client": "latest",
+        "@kebs/project-metrics": "latest"
+    }
+}

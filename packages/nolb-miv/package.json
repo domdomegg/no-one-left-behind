@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-miv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "miv": "latest",
+        "miv-sass": "latest",
+        "miva-api": "latest",
+        "miva-deployer": "latest",
+        "miva-deployer-watcher": "latest",
+        "miva-layout": "latest",
+        "miva-lsk-tools": "latest",
+        "mive": "latest",
+        "mive-ajax": "latest",
+        "mive-storage": "latest",
+        "mive-store": "latest",
+        "miver": "latest",
+        "miveus": "latest",
+        "mivi": "latest",
+        "mivid": "latest",
+        "miview": "latest",
+        "miview-v3": "latest",
+        "miviews": "latest",
+        "mivio-data": "latest",
+        "mivis-broadlink-dm": "latest",
+        "mivis-center": "latest",
+        "mivis-mi-dm": "latest",
+        "mivl-chartjs-2": "latest",
+        "mivm": "latest",
+        "mivo": "latest",
+        "mivo-kit": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-sailp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sailplay-hub": "latest",
+        "sailplay-hub-actions": "latest",
+        "sailplay-hub-leads": "latest",
+        "sailplay-magic": "latest",
+        "sailpoint": "latest"
+    }
+}

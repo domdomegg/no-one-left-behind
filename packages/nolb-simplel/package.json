@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-simplel",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simplelambda": "latest",
+        "simplelang": "latest",
+        "simpleledger": "latest",
+        "simplelexer": "latest",
+        "simplelib7": "latest",
+        "simplelibrary": "latest",
+        "simplelife": "latest",
+        "simplelightbox": "latest",
+        "simplelightbox-temp-raphael": "latest",
+        "simplelink": "latest",
+        "simplelisp": "latest",
+        "simplelistener": "latest",
+        "simplelists": "latest",
+        "simplelo": "latest",
+        "simpleload": "latest",
+        "simplelog": "latest",
+        "simplelogger": "latest",
+        "simpleloggerjs": "latest",
+        "simpleloggerts": "latest",
+        "simpleloggerw": "latest",
+        "simplelogin": "latest",
+        "simplelogs": "latest",
+        "simpleloopedcarousel": "latest",
+        "simpleloremipsumgenerator": "latest",
+        "simplelua": "latest"
+    }
+}

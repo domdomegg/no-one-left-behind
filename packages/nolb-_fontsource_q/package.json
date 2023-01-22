@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_fontsource_q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fontsource/qahiri": "latest",
+        "@fontsource/quando": "latest",
+        "@fontsource/quantico": "latest",
+        "@fontsource/quattrocento": "latest",
+        "@fontsource/quattrocento-sans": "latest",
+        "@fontsource/questrial": "latest",
+        "@fontsource/quicksand": "latest",
+        "@fontsource/quintessential": "latest",
+        "@fontsource/qwigley": "latest",
+        "@fontsource/qwitcher-grypen": "latest"
+    }
+}

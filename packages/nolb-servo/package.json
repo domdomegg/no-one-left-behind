@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-servo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "servo": "latest",
+        "servo-adafruit-pca9685": "latest",
+        "servo-blaster.js": "latest",
+        "servo-calibrator": "latest",
+        "servo-car": "latest",
+        "servo-cli": "latest",
+        "servo-pca9685": "latest",
+        "servo-sdk": "latest",
+        "servo.ino": "latest",
+        "servo.js": "latest",
+        "servoblaster": "latest",
+        "servojs": "latest",
+        "servopt": "latest",
+        "servor": "latest",
+        "servosaur": "latest",
+        "servoy-bridge": "latest",
+        "servoy-fs-ops": "latest"
+    }
+}

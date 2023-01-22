@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_rut",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@rutan/akashic-flexbox": "latest",
+        "@rutan/akashic-right-click-plugin": "latest",
+        "@rutan/current-app-to-slack": "latest",
+        "@rutan/deployment-zip": "latest",
+        "@rutan/frame-tween": "latest",
+        "@rutan/jst-handlebars-loader": "latest",
+        "@rutan/mini-random": "latest",
+        "@rutan/rpgmaker-plugin-annotation": "latest",
+        "@rutan/step-trigger": "latest",
+        "@rutcreate/ticketing-common": "latest",
+        "@ruteni/config": "latest",
+        "@rutherford/emoji": "latest",
+        "@rutherford/eslint-config": "latest",
+        "@ruthienewman/gorgeous": "latest",
+        "@ruti-lab/eslint-config": "latest",
+        "@rutiksonune/password-library-creation": "latest",
+        "@rutter/rutter-link": "latest",
+        "@rutter/rutter-link-js": "latest",
+        "@ruturaj-roxiler/loopback4-ratelimiter": "latest",
+        "@ruturaj-roxiler/nest-neo4j": "latest",
+        "@rutwa19/counter": "latest",
+        "@rutynka/helper-bar-board": "latest",
+        "@rutynka/helper-progress": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-nesti",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nestia": "latest",
+        "nestia-amazeui-react": "latest",
+        "nestia-antd": "latest",
+        "nestia-fetcher": "latest",
+        "nestia-helper": "latest",
+        "nestia-rc-table": "latest",
+        "nestia-tracer": "latest",
+        "nestia-web": "latest",
+        "nestia-webpack-server": "latest",
+        "nestie": "latest",
+        "nestify": "latest",
+        "nestify-anything": "latest",
+        "nestin-cli": "latest",
+        "nestin-common": "latest",
+        "nestin-plugin-passport": "latest",
+        "nestin-plugin-redis": "latest",
+        "nestin-plugin-restful": "latest",
+        "nestin-plugin-wechat": "latest",
+        "nesting": "latest",
+        "nesting-doll": "latest",
+        "nesting-reducer": "latest",
+        "nestingstyles": "latest",
+        "nestio": "latest",
+        "nestiutorul": "latest"
+    }
+}

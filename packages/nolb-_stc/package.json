@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_stc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stcherenkov/eslint-config": "latest",
+        "@stcode09/napm-lib": "latest",
+        "@stcode09/sync-storage": "latest",
+        "@stcorp/feature-gl-layer": "latest",
+        "@stcorp/ipyleaflet-gl-vector-layer-plugin": "latest",
+        "@stcorp/leaflet-gl-canvas": "latest",
+        "@stcorp/leaflet-gl-vector-layer": "latest",
+        "@stcrash/react-draft-wysiwyg": "latest"
+    }
+}

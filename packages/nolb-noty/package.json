@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-noty",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "noty": "latest",
+        "noty-img": "latest",
+        "noty-noty": "latest",
+        "noty.ng": "latest",
+        "noty.react": "latest",
+        "noty.vue": "latest",
+        "notyf": "latest",
+        "notyf-js": "latest",
+        "notyf-ng": "latest",
+        "notyme": "latest",
+        "notype": "latest"
+    }
+}

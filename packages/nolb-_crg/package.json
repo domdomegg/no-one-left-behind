@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_crg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@crgadmin/recruiting-common": "latest",
+        "@crgeary/carbon": "latest",
+        "@crgeary/carbon-cli": "latest",
+        "@crgeary/carbon-plugin-edge": "latest",
+        "@crgeary/carbon-source-filesystem": "latest",
+        "@crgeary/carbon-transformer-markdown": "latest",
+        "@crgeary/configuration-prettier": "latest",
+        "@crgeary/custodian": "latest",
+        "@crguezl/eloquentjsegg": "latest",
+        "@crguezl/gh-repo-rename": "latest",
+        "@crguezl/gh-utilities": "latest",
+        "@crgwbr/webpack-bundle-tracker": "latest"
+    }
+}

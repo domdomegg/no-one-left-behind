@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-kard",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "kard": "latest",
+        "kard-bank-api": "latest",
+        "kardams": "latest",
+        "kardashive-mongo": "latest",
+        "kardec-ui": "latest",
+        "kardemo": "latest",
+        "kardia": "latest",
+        "kardia-js-api": "latest",
+        "kardia-js-sdk": "latest",
+        "kardia-tool": "latest",
+        "kardo-ui": "latest",
+        "kardokiyani-joker": "latest",
+        "kardokiyani-package": "latest"
+    }
+}

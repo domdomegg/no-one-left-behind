@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-zoa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zoa": "latest",
+        "zoapp-backend": "latest",
+        "zoapp-common": "latest",
+        "zoapp-core": "latest",
+        "zoapp-front": "latest",
+        "zoapp-materialcomponents": "latest",
+        "zoapp-ui": "latest",
+        "zoar": "latest",
+        "zoar-sol-libs": "latest",
+        "zoar-uploader": "latest",
+        "zoas_alf": "latest",
+        "zoau": "latest",
+        "zoaui": "latest",
+        "zoauth": "latest",
+        "zoauth-server": "latest"
+    }
+}

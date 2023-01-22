@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_feh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fehead/adv-log-count": "latest",
+        "@fehead/cli": "latest",
+        "@fehead/config": "latest",
+        "@fehead/faas": "latest",
+        "@fehead/preview": "latest",
+        "@fehey/monaco-markdown": "latest",
+        "@fehu/be-common": "latest",
+        "@fehu/fe-common": "latest",
+        "@fehu/fe-scss": "latest"
+    }
+}

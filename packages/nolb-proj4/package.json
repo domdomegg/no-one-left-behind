@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-proj4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "proj4": "latest",
+        "proj4-cli": "latest",
+        "proj4-cli-defs": "latest",
+        "proj4-fully-loaded": "latest",
+        "proj4-merge": "latest",
+        "proj4d3": "latest",
+        "proj4geojson": "latest",
+        "proj4js": "latest",
+        "proj4js-definitions": "latest",
+        "proj4js-defs": "latest",
+        "proj4leaflet": "latest",
+        "proj4m": "latest",
+        "proj4node": "latest"
+    }
+}

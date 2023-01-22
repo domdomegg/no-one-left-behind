@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_feq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@feq/element-theme-chalk": "latest",
+        "@feq/element-theme-generator": "latest",
+        "@feq/gulp-css-min": "latest",
+        "@feq/gulp-css-wrap": "latest",
+        "@feq/jquery-i18n-properties": "latest",
+        "@feq/mokia": "latest",
+        "@feqra/voucher-pool-common": "latest"
+    }
+}

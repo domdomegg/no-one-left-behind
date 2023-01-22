@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_alio",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alio/preset-node": "latest",
+        "@alio/preset-postcss": "latest",
+        "@alio/preset-sass": "latest",
+        "@alio/preset-serverless": "latest",
+        "@alio/preset-tailwind": "latest",
+        "@alio/preset-web": "latest",
+        "@alioth-org/es-module-lexer": "latest",
+        "@alioth_91/cool-lib": "latest",
+        "@alioth_91/fantasticon": "latest",
+        "@alioth_91/say": "latest",
+        "@alioth_91/weixin-ts-sdk": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_thez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@thezahedi/api-handler": "latest",
+        "@thezanke/react-scripts-pixi": "latest",
+        "@thezano/mobx-observable-promise": "latest",
+        "@thezano/money-clip": "latest",
+        "@thezano/react-snapshare": "latest",
+        "@thezebra/sass-affected": "latest"
+    }
+}

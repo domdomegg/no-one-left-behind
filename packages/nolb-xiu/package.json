@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-xiu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "xiu": "latest",
+        "xiu-chick": "latest",
+        "xiu-cli": "latest",
+        "xiu-plugin-shell": "latest",
+        "xiuchao_generate_random_number": "latest",
+        "xiudan-native-render-npm": "latest",
+        "xiuer": "latest",
+        "xiugou-min-npm": "latest",
+        "xiujianyao": "latest",
+        "xiujun-components": "latest",
+        "xiuli-qiankun-daliuren-xintan": "latest",
+        "xiulike": "latest",
+        "xiulin-translator": "latest",
+        "xiuping2019": "latest",
+        "xiuping2020": "latest",
+        "xiuqin-tools": "latest",
+        "xiurobert-ac-qrcode-rn": "latest",
+        "xiuru": "latest",
+        "xiuu-lib": "latest",
+        "xiuwen-test-common": "latest",
+        "xiuxiu_utils": "latest",
+        "xiuyang-encode": "latest",
+        "xiuyang-faq": "latest",
+        "xiuyang-npm-test": "latest",
+        "xiuyin_uniswap_sdk": "latest",
+        "xiuyinswap_sdk": "latest"
+    }
+}

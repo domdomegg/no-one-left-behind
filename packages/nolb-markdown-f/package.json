@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-markdown-f",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "markdown-feat-react-loader": "latest",
+        "markdown-fetcher": "latest",
+        "markdown-file-tree": "latest",
+        "markdown-fileserver": "latest",
+        "markdown-find-links": "latest",
+        "markdown-finder": "latest",
+        "markdown-flavor-maker": "latest",
+        "markdown-fns": "latest",
+        "markdown-folder-api": "latest",
+        "markdown-folder-to-html": "latest",
+        "markdown-folder-to-html-bootstrap": "latest",
+        "markdown-folder-to-html-fork": "latest",
+        "markdown-folder-to-html-output": "latest",
+        "markdown-folder-to-sidebar": "latest",
+        "markdown-for-react": "latest",
+        "markdown-front-matter": "latest",
+        "markdown-frontmatter-processor": "latest",
+        "markdown-function": "latest",
+        "markdown-functions": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-n9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "n9": "latest",
+        "n9-angular2-session": "latest",
+        "n9-codelyzer": "latest",
+        "n9-element": "latest",
+        "n9-element3": "latest",
+        "n9-elementui": "latest",
+        "n9-node-routing": "latest",
+        "n9-ui-iview": "latest",
+        "n96-convenience": "latest",
+        "n96-koa-helper": "latest",
+        "n96-mylib": "latest",
+        "n96-postgres": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-httpa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "httpa": "latest",
+        "httpaddr": "latest",
+        "httpagent": "latest",
+        "httpanda": "latest",
+        "httpany": "latest",
+        "httpao": "latest",
+        "httpapijs": "latest",
+        "httparchive.js": "latest",
+        "httparse": "latest",
+        "httparser": "latest",
+        "httpasdasdmodule": "latest",
+        "httpasync-sender": "latest",
+        "httpauther": "latest"
+    }
+}

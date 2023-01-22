@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-gatsby-pa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gatsby-package-manager": "latest",
+        "gatsby-page-is-loading": "latest",
+        "gatsby-page-utils": "latest",
+        "gatsby-paginate": "latest",
+        "gatsby-paginated-collection-json-files": "latest",
+        "gatsby-pagination": "latest",
+        "gatsby-pancake-api": "latest",
+        "gatsby-paperclip-plugin": "latest",
+        "gatsby-parallel-runner": "latest",
+        "gatsby-parcel-config": "latest",
+        "gatsby-parser-json": "latest",
+        "gatsby-parser-markdown": "latest",
+        "gatsby-parser-remark": "latest",
+        "gatsby-parser-sharp": "latest",
+        "gatsby-parser-yaml": "latest",
+        "gatsby-paypal-button": "latest",
+        "gatsby-paypal-button-en": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_abg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@abgdev/common": "latest",
+        "@abgov/adsp-service-sdk": "latest",
+        "@abgov/angular-components": "latest",
+        "@abgov/angular-material-components": "latest",
+        "@abgov/core-css": "latest",
+        "@abgov/design-tokens": "latest",
+        "@abgov/nx-adsp": "latest",
+        "@abgov/nx-dotnet": "latest",
+        "@abgov/nx-oc": "latest",
+        "@abgov/nx-release": "latest",
+        "@abgov/react-components": "latest",
+        "@abgov/semantic-release-nuget": "latest",
+        "@abgov/style-dictionary": "latest",
+        "@abgov/styles": "latest",
+        "@abgov/vue-components": "latest",
+        "@abgov/web-components": "latest"
+    }
+}

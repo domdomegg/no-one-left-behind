@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-demoi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "demoindex": "latest",
+        "demoindexliu": "latest",
+        "demoinfo": "latest",
+        "demoinput": "latest",
+        "demoinstallcdptw2": "latest",
+        "demoiselle-frontend": "latest",
+        "demoit": "latest",
+        "demoize": "latest",
+        "demoizer": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-minm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "minmap-css": "latest",
+        "minmat": "latest",
+        "minmax": "latest",
+        "minmax-wt-alpha-beta-pruning": "latest",
+        "minmax.js": "latest",
+        "minmaxaverage": "latest",
+        "minmaxdebounce": "latest",
+        "minmaxheaps": "latest",
+        "minmaxpos-polyfill": "latest",
+        "minmaxpriorityqueue": "latest",
+        "minmaxscaler": "latest",
+        "minmi_quill_image_else": "latest",
+        "minmin": "latest",
+        "minmin8110": "latest",
+        "minml": "latest",
+        "minmorph": "latest"
+    }
+}

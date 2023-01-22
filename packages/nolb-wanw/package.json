@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-wanw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wanwan": "latest",
+        "wanwan-cli": "latest",
+        "wanwanui": "latest",
+        "wanweigang-jingying-rike-dierqi-erlingyibalingqi-lingjiu": "latest",
+        "wanweigang-jingying-rike-dierqi-erlingyibalingsi-lingliu": "latest",
+        "wanweigang-jingying-rike-dierqi-erlingyibalingyi-lingsan": "latest",
+        "wanweigang-jingying-rike-dierqi-erlingyiqilingjiu-yier": "latest",
+        "wanweigang-jingying-rike-erlingyibayiyi-erlingyijiulinger": "latest",
+        "wanweigang-jingying-rike-erlingyijiulingjiu-yier": "latest",
+        "wanweigang-jingying-rike-erlingyijiulingliu-lingba": "latest",
+        "wanweigang-jingying-rike-erlingyijiulingsan-lingwu": "latest",
+        "wanweigang-jingying-rike-erlingyiliulingba-erlingyiliuyiling": "latest",
+        "wanweigang-jingying-rike-erlingyiliuyiyi-erlingyiqilingyi": "latest",
+        "wanweigang-jingying-rike-erlingyiqilinger-lingsi": "latest",
+        "wanweigang-jingying-rike-erlingyiqilingwu-lingba": "latest",
+        "wanwenqing-amap-jsapi-types": "latest",
+        "wanwu": "latest",
+        "wanwu-jianshi": "latest",
+        "wanwu-sentry-test": "latest",
+        "wanwubaiwan11": "latest"
+    }
+}

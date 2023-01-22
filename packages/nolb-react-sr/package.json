@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-sr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-sr-pronounce": "latest",
+        "react-src": "latest",
+        "react-srcdoc-iframe": "latest",
+        "react-srcset": "latest",
+        "react-srcset-image": "latest",
+        "react-sronly": "latest",
+        "react-srv3": "latest"
+    }
+}

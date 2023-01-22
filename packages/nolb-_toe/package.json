@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_toe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@toe-editor/ckeditor5-media-embed": "latest",
+        "@toe-icons/icons": "latest",
+        "@toe-icons/svelte": "latest",
+        "@toe-icons/vue": "latest",
+        "@toebean/signals": "latest",
+        "@toei-jp/chevre-api-abstract-client": "latest",
+        "@toei-jp/chevre-api-nodejs-client": "latest",
+        "@toei-jp/chevre-factory": "latest",
+        "@toei-jp/cinerino-api-abstract-client": "latest",
+        "@toei-jp/cinerino-factory": "latest",
+        "@toei-jp/report-api-abstract-client": "latest",
+        "@toei-jp/report-api-nodejs-client": "latest",
+        "@toei-jp/report-domain": "latest",
+        "@toei-jp/report-factory": "latest",
+        "@toeic/common": "latest",
+        "@toelf/crash-reporter": "latest",
+        "@toelze/hello-wasm": "latest",
+        "@toenni/firstcomponent": "latest",
+        "@toenni/hellworld": "latest",
+        "@toes/core": "latest",
+        "@toes/logger": "latest",
+        "@toes/typed-db": "latest"
+    }
+}

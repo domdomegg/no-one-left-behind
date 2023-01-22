@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-linb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "linb-test-npm": "latest",
+        "linbag": "latest",
+        "linbei-tools": "latest",
+        "linbin-publish-test": "latest",
+        "linbin111": "latest",
+        "linbot": "latest",
+        "linbudu-zx-cli": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-nett",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nettalk": "latest",
+        "nettango": "latest",
+        "nettbank-ajax": "latest",
+        "nettbuss-stations": "latest",
+        "nette-forms": "latest",
+        "nette.ajax.js": "latest",
+        "nettestbs": "latest",
+        "nettflow": "latest",
+        "nettie": "latest",
+        "nettie-jay": "latest",
+        "nettie-victor": "latest",
+        "nettify": "latest",
+        "nettime": "latest",
+        "nettix-vue-numeric": "latest",
+        "nettle": "latest",
+        "nettle-api-database": "latest",
+        "netto": "latest",
+        "nettpro-http2": "latest",
+        "nettruyen": "latest",
+        "nettruyen-downloader": "latest",
+        "netts": "latest",
+        "netty": "latest",
+        "netty-snappy": "latest",
+        "netty_finder": "latest"
+    }
+}

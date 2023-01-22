@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-webpc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "webpc": "latest",
+        "webpcheck": "latest",
+        "webpconv": "latest",
+        "webpconvert": "latest",
+        "webpcpayment": "latest",
+        "webpcss": "latest",
+        "webpcssfix": "latest"
+    }
+}

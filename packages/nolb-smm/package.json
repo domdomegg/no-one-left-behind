@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-smm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smm": "latest",
+        "smm-api": "latest",
+        "smm-cli": "latest",
+        "smm-course-search": "latest",
+        "smm-course-viewer": "latest",
+        "smm-maker-profile": "latest",
+        "smm123": "latest",
+        "smm75-test-pkg": "latest",
+        "smmcat": "latest",
+        "smmcat-sort": "latest",
+        "smmdb": "latest",
+        "smmloadurl": "latest",
+        "smmm": "latest",
+        "smmmax": "latest",
+        "smmmin": "latest",
+        "smmmm": "latest",
+        "smmobile": "latest",
+        "smmopenimg": "latest",
+        "smmpassport": "latest",
+        "smmry": "latest",
+        "smmry-fi": "latest",
+        "smmry-fi-scraper": "latest",
+        "smms": "latest",
+        "smms-cli": "latest",
+        "smmsmm": "latest",
+        "smmx-medusa": "latest"
+    }
+}

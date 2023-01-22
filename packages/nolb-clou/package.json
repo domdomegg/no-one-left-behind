@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-clou",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-cloud": "latest",
+        "@zalastax/nolb-cloul": "latest",
+        "@zalastax/nolb-cloun": "latest",
+        "@zalastax/nolb-clous": "latest",
+        "@zalastax/nolb-clout": "latest"
+    }
+}

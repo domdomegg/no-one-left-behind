@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-tuz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tuz": "latest",
+        "tuzebra-uni-carousel-react": "latest",
+        "tuzi": "latest",
+        "tuzi-ui": "latest",
+        "tuziyuxi_hello": "latest",
+        "tuzla-one": "latest"
+    }
+}

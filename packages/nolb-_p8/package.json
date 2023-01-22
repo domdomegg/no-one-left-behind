@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_p8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@p803/facebook-sdk": "latest",
+        "@p803/google-maps-api": "latest",
+        "@p803/script-loader": "latest",
+        "@p803/vue-facebook": "latest",
+        "@p803/vue-google-maps": "latest",
+        "@p81-mocks/saferxlib-mock": "latest"
+    }
+}

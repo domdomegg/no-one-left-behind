@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_q7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@q7/cli": "latest",
+        "@q7/cli-gateway-setting": "latest",
+        "@q7/cli-services": "latest",
+        "@q7/plugins": "latest"
+    }
+}

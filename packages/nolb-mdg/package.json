@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-mdg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mdg": "latest",
+        "mdg-borealis": "latest",
+        "mdg-components-web": "latest",
+        "mdg-components-wx": "latest",
+        "mdg-pivot": "latest",
+        "mdgame": "latest",
+        "mdgator": "latest",
+        "mdgen": "latest",
+        "mdgit": "latest",
+        "mdgo": "latest",
+        "mdgp": "latest",
+        "mdgram": "latest",
+        "mdgraph": "latest",
+        "mdgraphextract": "latest",
+        "mdgt-js": "latest",
+        "mdgucdemir-testing2": "latest"
+    }
+}

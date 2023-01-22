@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_fa-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/fa-x-ray": "latest",
+        "@hyper.fun/fa-xbox": "latest",
+        "@hyper.fun/fa-xing": "latest",
+        "@hyper.fun/fa-xing-square": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-fis_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fis_brain_games": "latest",
+        "fis_jfogs.js": "latest",
+        "fis_mz": "latest"
+    }
+}

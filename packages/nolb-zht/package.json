@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-zht",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zht": "latest",
+        "zht-cli": "latest",
+        "zht-client-api": "latest",
+        "zht-components": "latest",
+        "zht-library": "latest",
+        "zht-map": "latest",
+        "zht-pages": "latest",
+        "zht-sca": "latest",
+        "zht-test-array-map": "latest",
+        "zhtchat": "latest",
+        "zhtestpackage": "latest",
+        "zhtj": "latest",
+        "zhtop": "latest",
+        "zhtsdi": "latest",
+        "zhtt-form": "latest",
+        "zhtt-form2": "latest",
+        "zhttest": "latest",
+        "zhty-storage": "latest"
+    }
+}

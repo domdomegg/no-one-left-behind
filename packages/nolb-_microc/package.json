@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_microc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@microcare.io/common": "latest",
+        "@microchip-test/hello_npm": "latest",
+        "@microchip-test/nbit_dac_v1": "latest",
+        "@microcks/microcks-backstage-provider": "latest",
+        "@microcode/canary": "latest",
+        "@microcode/debug-ng": "latest",
+        "@microcode/expiring": "latest",
+        "@microcode/flywaydb-cli": "latest",
+        "@microcode/html-webpack-plugin": "latest",
+        "@microcode/layer-cache": "latest",
+        "@microcode/pathtree": "latest",
+        "@microcode/request-schema": "latest"
+    }
+}

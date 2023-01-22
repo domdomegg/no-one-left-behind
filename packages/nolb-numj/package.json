@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-numj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "numj": "latest",
+        "numjiajia--123": "latest",
+        "numjs": "latest",
+        "numjs-qtx": "latest",
+        "numjs-zhy": "latest",
+        "numjsx": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-easy-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "easy-yandex-s3": "latest",
+        "easy-yandex-s3-extended": "latest",
+        "easy-yapi": "latest",
+        "easy-yml": "latest",
+        "easy-yopmail": "latest",
+        "easy-youtube-api": "latest",
+        "easy-youtube-info": "latest",
+        "easy-youtube-searcher": "latest",
+        "easy-yt-api-v3": "latest"
+    }
+}

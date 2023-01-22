@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_ho-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ho-cli-dev/core": "latest",
+        "@ho-cli-dev/utils": "latest",
+        "@ho-cli/cli": "latest"
+    }
+}

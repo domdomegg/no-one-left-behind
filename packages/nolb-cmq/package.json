@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-cmq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cmq": "latest",
+        "cmq-builder-webpack": "latest",
+        "cmq-nodejs-sdk": "latest",
+        "cmq-plus": "latest",
+        "cmq-sdk": "latest",
+        "cmq-utils": "latest",
+        "cmq_cli": "latest",
+        "cmq_ui": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_trau",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@traugdor/project": "latest",
+        "@traum-ferienwohnungen/exit-intent": "latest",
+        "@traum-ferienwohnungen/fontfare": "latest",
+        "@traum-ferienwohnungen/grid-system": "latest",
+        "@traum-ferienwohnungen/nuxt-advanced-healthcheck": "latest",
+        "@traum-ferienwohnungen/nuxt-fontfare": "latest",
+        "@traumd/bkahtcpclient": "latest",
+        "@traumd/friday": "latest",
+        "@traumd/htmls": "latest",
+        "@traumd/liveapp": "latest",
+        "@traund/sdk": "latest"
+    }
+}

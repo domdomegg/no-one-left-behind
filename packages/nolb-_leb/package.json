@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_leb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lebalz/remark-admonitions": "latest",
+        "@lebaotrung/react_draft-js": "latest",
+        "@lebaotrung/uploadfile": "latest",
+        "@lebedevmoscow/common": "latest",
+        "@lebek/react-jsonschema-form": "latest",
+        "@lebek/react-user-media": "latest",
+        "@leblanccodes/eslint-config": "latest",
+        "@leboeuf/vue-forms": "latest",
+        "@leboncoin/editorconfig": "latest",
+        "@leboncoin/gitignore": "latest",
+        "@leboncoin/import-sort-parser-babylon-legacy": "latest",
+        "@leboncoin/import-sort-style-leboncoin": "latest",
+        "@leboncoin/internal-dev": "latest",
+        "@leboncoin/lint": "latest",
+        "@leboncoin/npmrc": "latest",
+        "@leboncoin/prettier": "latest",
+        "@lebonip/ng-formo": "latest",
+        "@lebretr/koa-router-enrouten": "latest",
+        "@lebretr/koajs-toolkit": "latest"
+    }
+}

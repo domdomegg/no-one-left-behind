@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-samo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "samo": "latest",
+        "samo-cli": "latest",
+        "samoan-garden": "latest",
+        "samogon": "latest",
+        "samoilov_dto": "latest",
+        "samoin": "latest",
+        "samokat-client": "latest",
+        "samokup": "latest",
+        "samoop": "latest",
+        "samos": "latest",
+        "samosas": "latest",
+        "samoui": "latest",
+        "samovar": "latest",
+        "samoye": "latest",
+        "samoyed": "latest",
+        "samoyed-sdk": "latest"
+    }
+}

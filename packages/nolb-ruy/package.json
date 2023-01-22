@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-ruy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ruy": "latest",
+        "ruyi": "latest",
+        "ruyi-cli-a": "latest",
+        "ruyi-cli-b": "latest",
+        "ruyi-cli-c": "latest",
+        "ruyi-cli-d": "latest",
+        "ruyi-cli-e": "latest",
+        "ruyi-cli-f": "latest",
+        "ruyi-cli-g": "latest",
+        "ruyi-cli-h": "latest",
+        "ruyi-ui": "latest",
+        "ruying": "latest",
+        "ruyingos": "latest",
+        "ruysc-lib": "latest",
+        "ruyue": "latest"
+    }
+}

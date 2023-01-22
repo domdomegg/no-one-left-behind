@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_material-icon-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/material-icon-zoom-in-filled": "latest",
+        "@hyper.fun/material-icon-zoom-in-map-filled": "latest",
+        "@hyper.fun/material-icon-zoom-in-map-outlined": "latest",
+        "@hyper.fun/material-icon-zoom-in-map-round": "latest",
+        "@hyper.fun/material-icon-zoom-in-map-sharp": "latest",
+        "@hyper.fun/material-icon-zoom-in-map-twotone": "latest",
+        "@hyper.fun/material-icon-zoom-in-outlined": "latest",
+        "@hyper.fun/material-icon-zoom-in-round": "latest",
+        "@hyper.fun/material-icon-zoom-in-sharp": "latest",
+        "@hyper.fun/material-icon-zoom-in-twotone": "latest",
+        "@hyper.fun/material-icon-zoom-out-filled": "latest",
+        "@hyper.fun/material-icon-zoom-out-map-filled": "latest",
+        "@hyper.fun/material-icon-zoom-out-map-outlined": "latest",
+        "@hyper.fun/material-icon-zoom-out-map-round": "latest",
+        "@hyper.fun/material-icon-zoom-out-map-sharp": "latest",
+        "@hyper.fun/material-icon-zoom-out-map-twotone": "latest",
+        "@hyper.fun/material-icon-zoom-out-outlined": "latest",
+        "@hyper.fun/material-icon-zoom-out-round": "latest",
+        "@hyper.fun/material-icon-zoom-out-sharp": "latest",
+        "@hyper.fun/material-icon-zoom-out-twotone": "latest"
+    }
+}

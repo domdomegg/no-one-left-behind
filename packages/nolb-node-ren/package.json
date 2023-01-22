@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-node-ren",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-rename": "latest",
+        "node-rename-path": "latest",
+        "node-render": "latest",
+        "node-rendezvous": "latest",
+        "node-renren": "latest"
+    }
+}

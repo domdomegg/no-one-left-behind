@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_ream",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ream/app": "latest",
+        "@ream/babel-loader": "latest",
+        "@ream/blog-plugin": "latest",
+        "@ream/collect-fs-routes": "latest",
+        "@ream/common": "latest",
+        "@ream/fetch": "latest",
+        "@ream/framework-vue": "latest",
+        "@ream/module-google-analytics": "latest",
+        "@ream/module-vuex": "latest",
+        "@ream/plugin-google-analytics": "latest",
+        "@ream/plugin-vuex": "latest",
+        "@ream/server": "latest",
+        "@ream/test-utils": "latest",
+        "@ream/vercel-builder": "latest",
+        "@ream/vue-module": "latest",
+        "@ream/vue-server-renderer": "latest",
+        "@ream/vuex-module": "latest",
+        "@ream88/homebridge-nuki-latch": "latest",
+        "@reamey/foo": "latest",
+        "@reamey/media-preview": "latest",
+        "@reamey/provider": "latest",
+        "@reamey/sort-media-upload": "latest",
+        "@reamey/test-pub": "latest",
+        "@reaml/ppx": "latest"
+    }
+}

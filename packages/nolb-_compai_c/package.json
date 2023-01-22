@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_compai_c",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@compai/color-editor": "latest",
+        "@compai/color-picker": "latest",
+        "@compai/colors": "latest",
+        "@compai/cors": "latest",
+        "@compai/css-gui": "latest",
+        "@compai/css-inputs": "latest",
+        "@compai/css-to-theme": "latest",
+        "@compai/css-value-parser": "latest"
+    }
+}

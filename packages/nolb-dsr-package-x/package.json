@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-dsr-package-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dsr-package-xenon-atocs-bushy-train": "latest",
+        "dsr-package-xylol-niefs-spout-oiler": "latest",
+        "dsr-package-xylyl-mucin-heigh-bluet": "latest",
+        "dsr-package-xylyl-rials-naevi-mudir": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-cig",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cig": "latest",
+        "cig-passport": "latest",
+        "cig-saml": "latest",
+        "cig-saml2-base": "latest",
+        "cigale": "latest",
+        "cigam": "latest",
+        "cigar": "latest",
+        "cigar-client": "latest",
+        "cigar-icon": "latest",
+        "cigar-plugin-device": "latest",
+        "cigar-plugin-loadavg": "latest",
+        "cigar-plugin-mem": "latest",
+        "cigar-plugin-os": "latest",
+        "cigar-server": "latest",
+        "cigarette.js": "latest",
+        "cigarettes": "latest",
+        "cigargalaxy-uikit": "latest",
+        "cige-compressing": "latest",
+        "cige-deploy": "latest",
+        "cigecharts": "latest",
+        "cigen": "latest",
+        "cigh-cli": "latest",
+        "cigi_bug_report": "latest",
+        "cigi_notification": "latest",
+        "cignal": "latest",
+        "cignium-first-npm": "latest",
+        "cignium-hypermedia-client": "latest"
+    }
+}

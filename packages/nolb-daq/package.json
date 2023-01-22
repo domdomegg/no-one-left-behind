@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-daq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "daq": "latest",
+        "daq-com-main": "latest",
+        "daq-geek-mobile": "latest",
+        "daq-proc": "latest",
+        "daq-react-native-doc-viewer": "latest",
+        "daq-react-native-looped-carousel": "latest",
+        "daq-react-native-picker": "latest",
+        "daq-sdk-js": "latest",
+        "daq-ui": "latest",
+        "daq-work": "latest",
+        "daq1": "latest",
+        "daq_custom_ui": "latest",
+        "daqcli": "latest",
+        "daqi-zhongyi": "latest",
+        "daqian-helper": "latest",
+        "daqianmen-sdk": "latest",
+        "daqifi": "latest",
+        "daqio": "latest",
+        "daqiuqiu_npm_test": "latest",
+        "daqjs": "latest",
+        "daqo-vue-hello-world": "latest",
+        "daqos-service": "latest",
+        "daqu-ui": "latest",
+        "daquanmoujia-qijianban": "latest",
+        "daqueue": "latest",
+        "daqweqeqy1": "latest"
+    }
+}

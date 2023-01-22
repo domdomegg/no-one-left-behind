@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-uru",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "uru": "latest",
+        "uru-struts": "latest",
+        "uru-test": "latest",
+        "uru-ui": "latest",
+        "uruburu": "latest",
+        "uruguay": "latest",
+        "uruguay-mapa": "latest",
+        "uruguay-rut-validator": "latest",
+        "uruk": "latest",
+        "urul": "latest",
+        "urun": "latest",
+        "urun-view": "latest",
+        "ururouter": "latest",
+        "ururu": "latest"
+    }
+}

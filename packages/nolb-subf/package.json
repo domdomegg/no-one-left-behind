@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-subf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "subfil": "latest",
+        "subfinder": "latest",
+        "subfire4": "latest",
+        "subfirelib": "latest",
+        "subfix": "latest",
+        "subfloder": "latest",
+        "subfolder-size": "latest",
+        "subfolders-too": "latest",
+        "subfont": "latest",
+        "subform-css-layout-worklet": "latest",
+        "subformik": "latest",
+        "subfs": "latest"
+    }
+}

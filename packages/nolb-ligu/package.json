@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-ligu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "liguangjiao-test": "latest",
+        "liguangli": "latest",
+        "ligue-ticktick": "latest",
+        "ligui": "latest",
+        "liguodong": "latest",
+        "liguojun": "latest",
+        "liguoliangjiuxingdousheng": "latest",
+        "liguolin-function": "latest",
+        "liguomin": "latest"
+    }
+}

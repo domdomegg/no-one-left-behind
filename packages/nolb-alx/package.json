@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-alx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "alx": "latest",
+        "alx-dragdrop": "latest",
+        "alx-encrypt-pwd": "latest",
+        "alx-frame-print": "latest",
+        "alx-geth-react-native": "latest",
+        "alx-mobile": "latest",
+        "alx-sdk": "latest",
+        "alx-ui": "latest",
+        "alx-upnp": "latest",
+        "alxdrni-observer": "latest",
+        "alxick_hw": "latest",
+        "alxnpm-mod-api": "latest",
+        "alxnpm-mod-appcss": "latest",
+        "alxnpm-mod-board": "latest",
+        "alxnpm-mod-helper": "latest",
+        "alxnpm-mod-item": "latest",
+        "alxnpm-mod-list": "latest",
+        "alxnpm-mod-loader": "latest",
+        "alxnpm-mod-login": "latest",
+        "alxnpm-mod-modal": "latest",
+        "alxnpm-mod-module": "latest",
+        "alxnpm-mod-module-switcher": "latest",
+        "alxnpm-mod-note": "latest",
+        "alxnpm-mod-object-picker": "latest"
+    }
+}

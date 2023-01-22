@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-ngw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ngw": "latest",
+        "ngw-base-web": "latest",
+        "ngw-core": "latest",
+        "ngw-generic-forms": "latest",
+        "ngw-json-view": "latest",
+        "ngw-validation": "latest",
+        "ngwazi-component": "latest",
+        "ngweb3modal": "latest",
+        "ngweb3modal-ts": "latest",
+        "ngwebpack": "latest",
+        "ngwebrtc": "latest",
+        "ngwheel": "latest",
+        "ngworld": "latest",
+        "ngwp": "latest",
+        "ngwp-theme-kit": "latest",
+        "ngwr": "latest"
+    }
+}

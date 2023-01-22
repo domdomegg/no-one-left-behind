@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-jii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jii": "latest",
+        "jii-ar-sql": "latest",
+        "jii-assets": "latest",
+        "jii-boilerplate-basic": "latest",
+        "jii-clientrouter": "latest",
+        "jii-comet": "latest",
+        "jii-comet-sockjs": "latest",
+        "jii-console": "latest",
+        "jii-dev": "latest",
+        "jii-httpserver": "latest",
+        "jii-model": "latest",
+        "jii-mysql": "latest",
+        "jii-react": "latest",
+        "jii-urlmanager": "latest",
+        "jii-view": "latest",
+        "jii-workers": "latest",
+        "jiife": "latest",
+        "jiiis-flatbuffers": "latest",
+        "jiiis-jlayout": "latest",
+        "jiiis-selenium-cucumber-js": "latest",
+        "jiiis-webpack-git-hash": "latest",
+        "jiinfo": "latest"
+    }
+}

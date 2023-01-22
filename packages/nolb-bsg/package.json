@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-bsg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bsg": "latest",
+        "bsg-kv-queue": "latest",
+        "bsg-nodejs": "latest",
+        "bsg-react-scripts": "latest",
+        "bsg-sqs-to-kv": "latest",
+        "bsg-test": "latest",
+        "bsg_base_game_server": "latest",
+        "bsg_base_packet": "latest",
+        "bsg_bot": "latest",
+        "bsg_database": "latest",
+        "bsg_logger": "latest",
+        "bsg_redis": "latest",
+        "bsg_server_config": "latest",
+        "bsgiowrmnkhjzktx": "latest",
+        "bsgri-testnode": "latest"
+    }
+}

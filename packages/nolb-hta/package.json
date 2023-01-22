@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-hta",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hta": "latest",
+        "hta-localstorage": "latest",
+        "hta-ui": "latest",
+        "hta-ui3": "latest",
+        "hta-v3": "latest",
+        "htaccess-configs-mydevil": "latest",
+        "htaccess-parser": "latest",
+        "htaccess_exam": "latest",
+        "htadmin-form": "latest",
+        "htadmin-form-inside": "latest",
+        "htag": "latest",
+        "htags": "latest",
+        "htaler-nodelearn": "latest",
+        "htalk": "latest",
+        "htamale": "latest",
+        "htan": "latest",
+        "htan-prime": "latest",
+        "htap": "latest",
+        "htauth": "latest"
+    }
+}

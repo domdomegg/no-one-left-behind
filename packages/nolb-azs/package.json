@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-azs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "azs": "latest",
+        "azs-design-system": "latest",
+        "azs06": "latest",
+        "azsa": "latest",
+        "azsav2": "latest",
+        "azscev": "latest",
+        "azscrollangular": "latest",
+        "azsearch.js": "latest",
+        "azsearch.js-fork": "latest",
+        "azsearchstore": "latest",
+        "azselect": "latest",
+        "azspeedtest": "latest",
+        "azstack-react-native": "latest",
+        "azsub": "latest",
+        "azsync": "latest"
+    }
+}

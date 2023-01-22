@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-base2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "base2": "latest",
+        "base2-express-middlewares": "latest",
+        "base2-koa-middlewares": "latest",
+        "base2-koa2-middlewares": "latest",
+        "base2048": "latest",
+        "base24": "latest",
+        "base256-archive": "latest",
+        "base256-encoding": "latest",
+        "base26": "latest",
+        "base27": "latest",
+        "base28": "latest",
+        "base2x16": "latest"
+    }
+}

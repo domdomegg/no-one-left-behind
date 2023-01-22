@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_tu-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tu-nguyen-tech/react-native-dismiss-keyboard": "latest",
+        "@tu-nguyen-tech/react-native-effect-instagram": "latest",
+        "@tu-tic/core": "latest",
+        "@tu-tic/utils": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_aleu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aleung/csvsplit": "latest",
+        "@aleung/fs-monkey": "latest",
+        "@aleung/gitbook": "latest",
+        "@aleung/nock": "latest",
+        "@aleung/openapi-sampler": "latest",
+        "@aleung/redoc": "latest",
+        "@aleung/redoc-cli": "latest",
+        "@aleung/swagger2openapi": "latest",
+        "@aleung/unionfs": "latest"
+    }
+}

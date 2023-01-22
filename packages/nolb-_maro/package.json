@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_maro",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@marocdevelop/my-component-library": "latest",
+        "@maroche/hydra": "latest",
+        "@maroje/nestjs-test-package": "latest",
+        "@maroka/ngcomp-lib": "latest",
+        "@marolint/eslint-config-core": "latest",
+        "@marolint/eslint-config-nextjs": "latest",
+        "@marolint/eslint-config-react": "latest",
+        "@maronhatoum/mynewpkg": "latest",
+        "@maroo-us/brex-api": "latest",
+        "@maroof/gatsby-theme-kaplan": "latest",
+        "@maroon1/dotenv-cascade": "latest",
+        "@maroon1/oops": "latest",
+        "@maroon1/rxjs-toolkit": "latest",
+        "@maroon1/wechat-signable-url": "latest",
+        "@maroon775/levenshtein-search": "latest",
+        "@maros316/create-maros-npm-jsbridge-package": "latest",
+        "@maros316/jsbridgemaros316npm": "latest",
+        "@marouane.lakhal/pil23-header": "latest",
+        "@marouane0001/random-number": "latest",
+        "@maroun-baydoun/use-media-query": "latest",
+        "@marowark/ionic-react-test-utils": "latest",
+        "@maroxy/ytfps": "latest"
+    }
+}

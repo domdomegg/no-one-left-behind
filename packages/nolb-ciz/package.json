@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-ciz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ciz": "latest",
+        "cizawells-frame-print": "latest",
+        "cize": "latest",
+        "cizelge": "latest",
+        "cizion-connector": "latest",
+        "cizrear": "latest",
+        "cizrearfirst": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_plm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@plmrry/create": "latest",
+        "@plmservices/nativescript-easylink": "latest",
+        "@plmservices/nativescript-outline-label": "latest",
+        "@plmservices/nativescript-sha": "latest",
+        "@plmtickets/common": "latest"
+    }
+}

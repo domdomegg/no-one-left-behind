@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_panq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@panqibao/color": "latest",
+        "@panqibao/compute-scroll-into-view": "latest",
+        "@panqibao/focus-lock": "latest",
+        "@panqibao/icon": "latest",
+        "@panqibao/is": "latest",
+        "@panqibao/math": "latest",
+        "@panqibao/react-focus-lock": "latest",
+        "@panqibao/react-transition-group": "latest",
+        "@panqibao/scroll-into-view-if-needed": "latest",
+        "@panqibao/tween": "latest",
+        "@panqibao/ui": "latest",
+        "@panqibao/util": "latest",
+        "@panqibao/validate": "latest"
+    }
+}

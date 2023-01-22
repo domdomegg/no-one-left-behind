@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_gid",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gidc/mobile": "latest",
+        "@gidc/plugin": "latest",
+        "@giddyup/cli": "latest",
+        "@gideo-llc/backblaze-b2-upload-any": "latest",
+        "@gideon-tickets/common": "latest",
+        "@gideon/eslint-config-react": "latest",
+        "@gideon/prettier-config": "latest",
+        "@gideoncatz/slugger": "latest",
+        "@gideonmax/electron-ts-init": "latest",
+        "@gideonsh/slugger": "latest",
+        "@gidesan/mswjs-data": "latest",
+        "@gidesan/react-polls": "latest",
+        "@gidoont/ngx-cron-editor": "latest",
+        "@gidoont/ngx-extended-pdf-viewer": "latest",
+        "@gidoont/v-tooltip": "latest",
+        "@gidw/aws-lambda-deploy": "latest",
+        "@gidw/eslint-config-standard": "latest",
+        "@gidw/eslint-config-standard-node": "latest",
+        "@gidw/eslint-config-standard-typescript": "latest",
+        "@gidw/event-emitter-js": "latest",
+        "@gidw/includer": "latest",
+        "@gidw/mac-address-util": "latest",
+        "@gidw/node-server": "latest",
+        "@gidw/prompt-confirm": "latest",
+        "@gidw/request-js": "latest"
+    }
+}

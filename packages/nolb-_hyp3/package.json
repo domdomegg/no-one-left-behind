@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_hyp3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyp3r-ui/board": "latest",
+        "@hyp3rbox/ui": "latest",
+        "@hyp3rflow/maru": "latest"
+    }
+}

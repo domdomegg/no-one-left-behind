@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-pah",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pah": "latest",
+        "pah-learnstorybook-design-system": "latest",
+        "paharekari": "latest",
+        "paheal": "latest",
+        "pahm-cli": "latest",
+        "paho": "latest",
+        "paho-client": "latest",
+        "paho-mqtt": "latest",
+        "paho-wxapp": "latest",
+        "paho.mqtt.javascript": "latest",
+        "paho.mqtt.javascript.wxapp": "latest",
+        "paho.mqtt.js": "latest",
+        "paho.mqtt.wxapp": "latest",
+        "pahom": "latest",
+        "pahud-jsii-release": "latest"
+    }
+}

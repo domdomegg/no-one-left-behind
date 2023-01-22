@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_dano",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@danocto-tickets/common-tickets": "latest",
+        "@danog/fast-srp-hap": "latest",
+        "@danog/gift": "latest",
+        "@danoph/super-storage": "latest",
+        "@danorel/cypress-antd": "latest"
+    }
+}

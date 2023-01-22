@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-trez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "trez": "latest",
+        "trez-sms-client": "latest",
+        "trez-smssender": "latest",
+        "trezor-address-validator": "latest",
+        "trezor-bridge-communicator": "latest",
+        "trezor-cli-wallet-provider": "latest",
+        "trezor-connect": "latest",
+        "trezor-connect-bech32": "latest",
+        "trezor-connect-binance": "latest",
+        "trezor-flags": "latest",
+        "trezor-link": "latest",
+        "trezor-link-bridge": "latest",
+        "trezor-link-chrome-extension": "latest",
+        "trezor-link-chrome-hid": "latest",
+        "trezor-link-chrome-udp": "latest",
+        "trezor-link-node": "latest",
+        "trezor-link-node-hid": "latest",
+        "trezor-react-pinpad": "latest",
+        "trezor-session": "latest",
+        "trezor-translations-manager": "latest",
+        "trezor-ui-components": "latest",
+        "trezor-verify": "latest",
+        "trezor-wallet": "latest",
+        "trezor-wallet-provider": "latest",
+        "trezor-web3-subprovider": "latest",
+        "trezor.js": "latest",
+        "trezor.js-node": "latest"
+    }
+}

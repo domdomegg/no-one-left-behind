@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-imagee",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "imagee-middleware": "latest",
+        "imageeditorcreate": "latest",
+        "imageeditorluat": "latest",
+        "imageeditorluat1": "latest",
+        "imageeditorsdk": "latest",
+        "imageengine-helpers": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-emj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emj": "latest",
+        "emjane": "latest",
+        "emjay": "latest",
+        "emjay-scanner-sdk-react": "latest",
+        "emjayess": "latest",
+        "emjen": "latest",
+        "emjio-cli": "latest",
+        "emjr": "latest"
+    }
+}

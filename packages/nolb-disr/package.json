@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-disr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "disrequire": "latest",
+        "disrespect-caps": "latest",
+        "disrexom": "latest",
+        "disrope": "latest",
+        "disrupt": "latest",
+        "disruptor": "latest",
+        "disruptor-distributor": "latest"
+    }
+}

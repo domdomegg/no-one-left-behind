@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-servers",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "servers": "latest",
+        "servers-manager": "latest",
+        "servers-util": "latest",
+        "servers1": "latest",
+        "serversentevent": "latest",
+        "serversentevents": "latest",
+        "servershuai": "latest",
+        "serverside-jq-serverless": "latest",
+        "serversideapps": "latest",
+        "serversidelibrary": "latest",
+        "serversimple": "latest",
+        "serversindex": "latest",
+        "serversmp-api-wrapper": "latest",
+        "serversmp-wrapper": "latest",
+        "serverspec-generator": "latest",
+        "serverstatic": "latest",
+        "serverstats": "latest",
+        "serverswap": "latest",
+        "serversync": "latest",
+        "serversyysyy": "latest"
+    }
+}

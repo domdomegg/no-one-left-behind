@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-karmad",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "karmadata": "latest",
+        "karmadata-developers-site": "latest",
+        "karmadata-ui": "latest",
+        "karmadata-ui-ssr": "latest",
+        "karmadata-utils": "latest",
+        "karmadata.ui": "latest"
+    }
+}

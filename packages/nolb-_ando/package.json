@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_ando",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ando.gq/backend": "latest",
+        "@ando.gq/node_server": "latest",
+        "@ando105/ast-css-iter": "latest",
+        "@ando105/base-modal": "latest",
+        "@ando105/confirm-order-advance": "latest",
+        "@ando105/order-asap": "latest",
+        "@ando105/pack-vue": "latest",
+        "@ando105/pkg-button": "latest",
+        "@ando_ghevian/cpj-template-npm-package": "latest",
+        "@ando_ghevian/create-project": "latest",
+        "@ando_ghevian/promise-queue": "latest",
+        "@andoniabedul/vue-pronto": "latest",
+        "@andookit/openapi": "latest",
+        "@andordavoti/react-native-timeago": "latest",
+        "@andordavoti/react-native-track-player": "latest",
+        "@andoshin11/sample-petstore-api": "latest",
+        "@andoshin11/snack-bar": "latest",
+        "@andoshin11/storybook-vue3": "latest",
+        "@andoshin11/vue-ts-plugin": "latest",
+        "@andoto/react": "latest"
+    }
+}

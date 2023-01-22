@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-resy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "resy": "latest",
+        "resydb": "latest",
+        "resync": "latest",
+        "resync-js": "latest",
+        "resync-kit": "latest",
+        "resync-srt": "latest",
+        "resynch": "latest",
+        "resynchronize": "latest",
+        "resyncjs": "latest",
+        "resynkd": "latest",
+        "resynkd-demo-server": "latest",
+        "resyntax": "latest",
+        "resynth": "latest",
+        "resynz-quill-video-resize-module": "latest",
+        "resynz-super-tcplayer": "latest",
+        "resynz-vue-listener": "latest",
+        "resynz-vue-network-handler": "latest",
+        "resys-proxy-form": "latest",
+        "resytal-cycle2-sd-library": "latest",
+        "resyze": "latest"
+    }
+}

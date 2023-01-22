@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-vite2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vite2-cli": "latest",
+        "vite2-graphql-plugin": "latest",
+        "vite2-in-action": "latest",
+        "vite2-md": "latest",
+        "vite2-vue3-svg-plugin": "latest",
+        "vite2plugin-demo": "latest"
+    }
+}

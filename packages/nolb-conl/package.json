@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-conl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "conlan-cryptovoxels": "latest",
+        "conlana-core": "latest",
+        "conlaoch-ngx-chips": "latest",
+        "conlect": "latest",
+        "conlectio": "latest",
+        "conllu": "latest",
+        "conllu-brat": "latest",
+        "conllu-core": "latest",
+        "conllu-stream": "latest",
+        "conllujs": "latest",
+        "conllup": "latest",
+        "conlo": "latest",
+        "conlog": "latest",
+        "conlogmon": "latest",
+        "conly": "latest"
+    }
+}

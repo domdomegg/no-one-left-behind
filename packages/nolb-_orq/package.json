@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_orq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@orq/superagent": "latest",
+        "@orquestadev/angular": "latest",
+        "@orquestadev/browser": "latest",
+        "@orquestadev/core": "latest",
+        "@orquestadev/node": "latest",
+        "@orquestadev/react": "latest",
+        "@orquestadev/types": "latest"
+    }
+}

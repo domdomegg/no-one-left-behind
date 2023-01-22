@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_datk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datkt/bytes": "latest",
+        "@datkt/bytes-from": "latest",
+        "@datkt/crypto": "latest",
+        "@datkt/flat-tree": "latest",
+        "@datkt/flattree": "latest",
+        "@datkt/fs": "latest",
+        "@datkt/konanc-config": "latest",
+        "@datkt/lerp": "latest",
+        "@datkt/napi": "latest",
+        "@datkt/pretty-hash": "latest",
+        "@datkt/sodium": "latest",
+        "@datkt/tape": "latest",
+        "@datkt/uint64be": "latest",
+        "@datkt/uv": "latest"
+    }
+}

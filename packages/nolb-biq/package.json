@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-biq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "biq": "latest",
+        "biq-components": "latest",
+        "biqianli-format-time10": "latest",
+        "biqianli-formate-time9": "latest",
+        "biqianli-ui2009": "latest",
+        "biquad": "latest",
+        "biquad-coeffs-cookbook": "latest",
+        "biquad-coeffs-maxmsp": "latest",
+        "biquad-coeffs-webaudio": "latest",
+        "biquad-coeffs-webaudio-v1": "latest",
+        "biquad-coeffs-webaudio-v2": "latest",
+        "biquad-filter-kernel": "latest",
+        "biquad-filter-kernel-2": "latest",
+        "biquadjs": "latest",
+        "biquge-downloader": "latest",
+        "biquge-spider": "latest"
+    }
+}

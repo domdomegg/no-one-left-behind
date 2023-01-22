@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_sa-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sa-auth/common": "latest",
+        "@sa-labs/fate-core": "latest",
+        "@sa-labs/graphql-directory-api": "latest",
+        "@sa-labs/leo-core": "latest",
+        "@sa-labs/leo-plugin-blogpost": "latest",
+        "@sa-labs/leo-plugin-cssstats": "latest",
+        "@sa-labs/leo-plugin-fate": "latest",
+        "@sa-labs/leo-plugin-images": "latest",
+        "@sa-labs/leo-plugin-markdown": "latest",
+        "@sa-labs/leo-plugin-postcss": "latest",
+        "@sa-labs/leo-scaffolding-apollo": "latest",
+        "@sa-labs/leo-scaffolding-relay": "latest",
+        "@sa-labs/sheet": "latest",
+        "@sa-mp-api/streamer": "latest",
+        "@sa-mp/amx": "latest",
+        "@sa-mp/cli": "latest",
+        "@sa-mp/core": "latest",
+        "@sa-mp/crashdetect": "latest",
+        "@sa-mp/decorators": "latest",
+        "@sa-mp/fcnpc": "latest",
+        "@sa-mp/node": "latest",
+        "@sa-mp/streamer": "latest",
+        "@sa-pcframe/example-component-library": "latest",
+        "@sa-pixaper/prismic-cli": "latest",
+        "@sa-ticketing/common": "latest",
+        "@sa-tickets/common": "latest"
+    }
+}

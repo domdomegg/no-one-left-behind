@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_compw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@compwright/ddb2es-serverless": "latest",
+        "@compwright/express-oauth-server": "latest",
+        "@compwright/humanparser": "latest",
+        "@compwright/is-lower-case": "latest",
+        "@compwright/is-upper-case": "latest",
+        "@compwright/mongoose-patch-history": "latest",
+        "@compwright/namecase": "latest",
+        "@compwright/oauth2-server": "latest",
+        "@compwright/worker-bee": "latest"
+    }
+}

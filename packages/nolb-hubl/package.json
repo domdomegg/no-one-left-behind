@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-hubl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hubl": "latest",
+        "hubl-server": "latest",
+        "hublin": "latest",
+        "hublin-client": "latest",
+        "hublo-sails-postgresql": "latest",
+        "hublodysee": "latest",
+        "hublog": "latest",
+        "hublot": "latest",
+        "hublot-vuetify": "latest"
+    }
+}

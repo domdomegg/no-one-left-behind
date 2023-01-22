@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_syv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@syvita/connect": "latest",
+        "@syvita/connect-react": "latest",
+        "@syvita/connect-ui": "latest",
+        "@syvita/smart-buffer": "latest",
+        "@syvita/storm": "latest",
+        "@syvita/transactions": "latest",
+        "@syvita/ui": "latest",
+        "@syvita/ui-core": "latest",
+        "@syvita/ui-theme": "latest",
+        "@syvita/ui-utils": "latest",
+        "@syvn/cli": "latest",
+        "@syvn/clia": "latest",
+        "@syvzies/scroll-animator": "latest"
+    }
+}

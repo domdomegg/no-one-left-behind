@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-vue3-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue3-jalali-moment": "latest",
+        "vue3-jazzicon": "latest",
+        "vue3-jest": "latest",
+        "vue3-js-panel": "latest",
+        "vue3-jsmind": "latest",
+        "vue3-json-component": "latest",
+        "vue3-json-edit": "latest",
+        "vue3-json-editor": "latest",
+        "vue3-json-excel": "latest",
+        "vue3-json-schema": "latest",
+        "vue3-json-schema-form": "latest",
+        "vue3-json-schema-form-test": "latest",
+        "vue3-json-schema-form-testnpm": "latest",
+        "vue3-json-source-viewer": "latest",
+        "vue3-json-to-excel": "latest",
+        "vue3-json-view": "latest",
+        "vue3-json-viewer": "latest",
+        "vue3-json-viewer2": "latest",
+        "vue3-json-views": "latest",
+        "vue3-jsonschema-editor": "latest",
+        "vue3-jsonschemaform-ly": "latest",
+        "vue3-jstree": "latest",
+        "vue3-jstree-component": "latest",
+        "vue3-jsx-jss": "latest"
+    }
+}

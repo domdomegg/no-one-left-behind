@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_s_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@s.age/js-utils": "latest",
+        "@s.kvachenok/common": "latest",
+        "@s.mandola.design/test-pack": "latest",
+        "@s.suri/eslint-config-custom": "latest",
+        "@s.suri/molecules": "latest",
+        "@s.suri/ui": "latest",
+        "@s.watanabe/commitlint-config-developers-kit": "latest",
+        "@s_mart/core": "latest",
+        "@s_mart/data": "latest",
+        "@s_mart/eslint": "latest",
+        "@s_mart/eslint-config": "latest",
+        "@s_mart/form": "latest",
+        "@s_mart/hooks": "latest",
+        "@s_mart/lab": "latest",
+        "@s_mart/masks": "latest",
+        "@s_mart/prettier": "latest",
+        "@s_mart/rules": "latest",
+        "@s_mart/styles": "latest",
+        "@s_mart/tela-usuarios": "latest",
+        "@s_mart/tokens": "latest",
+        "@s_mart/typed": "latest",
+        "@s_mart/utils": "latest",
+        "@s_mizutani/demo": "latest",
+        "@s_shimizu/hello-wasm": "latest"
+    }
+}

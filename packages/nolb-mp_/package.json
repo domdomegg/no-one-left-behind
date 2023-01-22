@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-mp_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mp.cc.fovea.cordova.purchase": "latest",
+        "mp.cordova.plugins.diagnostic.location": "latest",
+        "mp.css": "latest",
+        "mp.plugins.appsflyer": "latest",
+        "mp_axios": "latest",
+        "mp_baserequest": "latest",
+        "mp_demo_l": "latest",
+        "mp_digx": "latest",
+        "mp_map_view": "latest",
+        "mp_oauth_lib": "latest",
+        "mp_order_pkg": "latest",
+        "mp_project_transform": "latest",
+        "mp_soa-cli": "latest",
+        "mp_story_book": "latest",
+        "mp_xml_transform": "latest"
+    }
+}

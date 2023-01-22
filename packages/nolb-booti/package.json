@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-booti",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bootic": "latest",
+        "bootic_client_js": "latest",
+        "bootie": "latest",
+        "bootie-example-app": "latest",
+        "bootify": "latest",
+        "bootilities": "latest",
+        "bootimage": "latest",
+        "bootimage-commandhandler": "latest",
+        "booting": "latest",
+        "booting-nav": "latest",
+        "booting.dll": "latest",
+        "booting.min.js": "latest",
+        "bootinput": "latest",
+        "bootiq-starter": "latest",
+        "bootit": "latest"
+    }
+}

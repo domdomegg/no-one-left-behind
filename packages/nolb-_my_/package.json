@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_my_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@my.imooc.com/template-react18": "latest",
+        "@my.imooc.com/template-vue3": "latest",
+        "@my_company_too/project198621053": "latest",
+        "@my_math_library/add": "latest",
+        "@my_math_library/mul": "latest",
+        "@my_name_is_nero/input-phone": "latest",
+        "@my_name_is_nero/rn-start-js": "latest",
+        "@my_node_123/my_test_node": "latest",
+        "@my_organization/common": "latest",
+        "@my_study_dev/core": "latest",
+        "@my_study_dev/utils": "latest",
+        "@my_test_org/npm-app4": "latest"
+    }
+}

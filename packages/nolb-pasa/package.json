@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-pasa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pasa": "latest",
+        "pasamanos": "latest",
+        "pasamlksh": "latest",
+        "pasan": "latest",
+        "pasang-lib": "latest",
+        "pasang-lib-1422": "latest",
+        "pasante": "latest",
+        "pasantes-document-viewer": "latest",
+        "pasar": "latest",
+        "pasargad": "latest"
+    }
+}

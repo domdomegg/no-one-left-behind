@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-stn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stn": "latest",
+        "stn-gerar-crud-java": "latest",
+        "stn-sdk-lite": "latest",
+        "stn5_membership": "latest",
+        "stn_14": "latest",
+        "stncl-awesome-components": "latest",
+        "stnd.js": "latest",
+        "stndrd": "latest",
+        "stnenopmoc-iu": "latest",
+        "stnmppractice": "latest",
+        "stnylelint-config-tandrad": "latest"
+    }
+}

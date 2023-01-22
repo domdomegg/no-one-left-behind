@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_php",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@php4world/layer": "latest",
+        "@phparkle/basscss": "latest",
+        "@phparkle/livereload": "latest",
+        "@phparkle/react-fps-stats": "latest",
+        "@phparkle/react-motion": "latest",
+        "@phparkle/scrollspy": "latest",
+        "@phpb/video-react": "latest",
+        "@phpixel/node-eloquent": "latest",
+        "@phpjsnerd/maths-package-for-blog-post": "latest",
+        "@phptools/autoload": "latest",
+        "@phptools/composer": "latest",
+        "@phptools/phpcs": "latest",
+        "@phptools/util": "latest"
+    }
+}

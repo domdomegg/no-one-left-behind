@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-samj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "samjs": "latest",
+        "samjs-auth": "latest",
+        "samjs-auth-client": "latest",
+        "samjs-auth-mongo": "latest",
+        "samjs-auth-mongo-client": "latest",
+        "samjs-client": "latest",
+        "samjs-components": "latest",
+        "samjs-files": "latest",
+        "samjs-files-auth": "latest",
+        "samjs-files-client": "latest",
+        "samjs-files-upload": "latest",
+        "samjs-install": "latest",
+        "samjs-install-deps": "latest",
+        "samjs-mongo": "latest",
+        "samjs-mongo-auth": "latest",
+        "samjs-mongo-auth-client": "latest",
+        "samjs-mongo-client": "latest",
+        "samjs-mongo-configwise": "latest",
+        "samjs-mongo-deletion": "latest",
+        "samjs-mongo-deletion-client": "latest",
+        "samjs-mongo-isOwner": "latest"
+    }
+}

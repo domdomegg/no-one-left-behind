@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-alib",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "alib-aquery": "latest",
+        "alib-array": "latest",
+        "alib-hashtable": "latest",
+        "aliba": "latest",
+        "alibaba": "latest",
+        "alibaba-demo001": "latest",
+        "alibaba-dev": "latest",
+        "alibaba-dns-challenge": "latest",
+        "alibaba-ice": "latest",
+        "alibaba-lyj-js-marktool": "latest",
+        "alibaba-lyj-js-player": "latest",
+        "alibaba-msite-buyer-perf-test": "latest",
+        "alibaba-puhuiti.css": "latest",
+        "alibabacloud-datav-tool-gui-utils": "latest",
+        "alibabacloud-iot-device-sdk": "latest",
+        "alibabacloud-nls": "latest",
+        "alibabacloud-tdsr-js-player": "latest",
+        "alibabacloud-tdsr-js-sdk": "latest",
+        "alibabajs1": "latest",
+        "alibata": "latest",
+        "alibenc-site": "latest",
+        "alibi": "latest",
+        "aliboo-conductor": "latest",
+        "alibraries": "latest",
+        "alibsai": "latest"
+    }
+}

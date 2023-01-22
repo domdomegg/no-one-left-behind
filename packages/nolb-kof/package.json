@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-kof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "kof": "latest",
+        "kofaker": "latest",
+        "kofarouter": "latest",
+        "kofe": "latest",
+        "koffee": "latest",
+        "koffi": "latest",
+        "koffie": "latest",
+        "koffing": "latest",
+        "kofi": "latest",
+        "kofi-button": "latest",
+        "kofi_test": "latest",
+        "kofiloop": "latest",
+        "kofix": "latest",
+        "kofo-sdk": "latest",
+        "kofo-utils": "latest",
+        "kofo-wallet": "latest",
+        "kofu-loader": "latest",
+        "kofu-optimist": "latest",
+        "kofujs": "latest",
+        "kofuscript": "latest",
+        "kofw": "latest",
+        "kofw-component": "latest"
+    }
+}

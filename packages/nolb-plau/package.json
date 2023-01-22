@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-plau",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "plaudern-test": "latest",
+        "plaudy": "latest",
+        "plauground111": "latest",
+        "plaunch": "latest",
+        "plausible": "latest",
+        "plausible-api": "latest",
+        "plausible-company-name": "latest",
+        "plausible-current-visitors-proxy": "latest",
+        "plausible-telemetry": "latest",
+        "plausible-tracker": "latest",
+        "plausible-tracker-node": "latest",
+        "plausible-vue": "latest",
+        "plauti-sfdx": "latest"
+    }
+}

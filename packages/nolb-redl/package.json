@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-redl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "redlang": "latest",
+        "redlanta-react-jazzicon": "latest",
+        "redleaf": "latest",
+        "redleaf-rc": "latest",
+        "redlean-bootstrap-treeview": "latest",
+        "redleg": "latest",
+        "redletter": "latest",
+        "redlight": "latest",
+        "redline": "latest",
+        "redline-mobx": "latest",
+        "redline13-webdriver": "latest",
+        "redliner": "latest",
+        "redlines-react-ang": "latest",
+        "redlines-tooltip": "latest",
+        "redlines_simple_chart": "latest",
+        "redlines_simple_chart_2": "latest",
+        "redlink": "latest",
+        "redlips": "latest",
+        "redlives-cli": "latest",
+        "redlock": "latest",
+        "redlock-async": "latest",
+        "redlock-cli": "latest",
+        "redlock-cli-eu": "latest",
+        "redlock-cron": "latest",
+        "redlock-leader": "latest",
+        "redlock-node": "latest",
+        "redlog": "latest",
+        "redlonely": "latest"
+    }
+}

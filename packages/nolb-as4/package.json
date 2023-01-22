@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-as4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "as4": "latest",
+        "as400": "latest",
+        "as400nodeconnect": "latest"
+    }
+}

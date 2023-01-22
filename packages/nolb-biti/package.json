@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-biti",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "biti": "latest",
+        "biticker": "latest",
+        "bitid": "latest",
+        "bitident": "latest",
+        "bitidentity": "latest",
+        "bitify": "latest",
+        "bitil": "latest",
+        "bitimage": "latest",
+        "bitindex-sdk": "latest",
+        "bitinfo": "latest",
+        "bitinka": "latest",
+        "bitiom-datepicker": "latest",
+        "bitium": "latest",
+        "bitiya-plagin": "latest"
+    }
+}

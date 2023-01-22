@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-hellp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hellp-cxp-test": "latest",
+        "hellp-world": "latest",
+        "hellp_test": "latest",
+        "hellpack": "latest",
+        "hellper": "latest",
+        "hellpnpm": "latest"
+    }
+}

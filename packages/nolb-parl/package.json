@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-parl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "parlai-mephisto-task-compiler": "latest",
+        "parlai-mturk-task-compiler": "latest",
+        "parlance": "latest",
+        "parlay": "latest",
+        "parlay-js": "latest",
+        "parlay-namecheap-plugin": "latest",
+        "parlay-webpack-plugin": "latest",
+        "parle": "latest",
+        "parler": "latest",
+        "parleur-js": "latest",
+        "parlev": "latest",
+        "parley": "latest",
+        "parley-client-wf": "latest",
+        "parley-with-dialogflow": "latest",
+        "parliament": "latest",
+        "parliament-corpus": "latest",
+        "parliament-data-scraper": "latest",
+        "parliament-parser": "latest",
+        "parliament-svg": "latest",
+        "parliment": "latest",
+        "parlinter": "latest",
+        "parloa-generic-service-interfaces": "latest",
+        "parloa-service-sdk": "latest",
+        "parlog": "latest",
+        "parlor": "latest",
+        "parlor-sl-components": "latest",
+        "parlour-ui": "latest",
+        "parlx.js": "latest"
+    }
+}

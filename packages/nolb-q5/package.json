@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-q5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "q5": "latest",
+        "q5-editor": "latest",
+        "q5-js-config": "latest",
+        "q5-react-component-gulp-tasks": "latest",
+        "q5-react-country-region-selector": "latest",
+        "q5-react-fireworks": "latest",
+        "q50": "latest",
+        "q5xjs": "latest"
+    }
+}

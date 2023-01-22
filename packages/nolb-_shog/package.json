@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_shog",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shoge.fash/common": "latest",
+        "@shogobg/markdown2confluence": "latest",
+        "@shogobg/react-chart-js": "latest",
+        "@shogobg/react-native-pdf": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_mey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mey-sdk-js/client": "latest",
+        "@mey-sdk-js/common": "latest",
+        "@mey-sdk-js/crypto": "latest",
+        "@mey-sdk-js/hdkey": "latest",
+        "@mey-sdk-js/mey-ledger-app": "latest",
+        "@mey-sdk-js/vue-plugin": "latest",
+        "@mey-sdk-js/wallet": "latest",
+        "@meyash/labweather": "latest",
+        "@meyer/apollo-codegen": "latest",
+        "@meyer/generated-noop": "latest",
+        "@meyer/hyperdeck-emulator": "latest",
+        "@meyer/react-live": "latest",
+        "@meyer/start-server-webpack-plugin": "latest",
+        "@meyerzhao/gatsby-theme-events": "latest",
+        "@meyfa/eslint-config": "latest",
+        "@meyl_on/extended-js": "latest",
+        "@meysam1369/justfortest": "latest",
+        "@meysam213/react-leaflet": "latest",
+        "@meysam213/react-neshan-map-leaflet": "latest",
+        "@meysam213/udf": "latest",
+        "@meyubaraj/esewa": "latest"
+    }
+}

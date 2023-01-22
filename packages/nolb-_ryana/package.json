@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_ryana",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryanafrish7/ar-picker": "latest",
+        "@ryanak/lotide": "latest",
+        "@ryanalfarisi/myck-editor": "latest",
+        "@ryanalfarisi/myckeditor-refactor": "latest",
+        "@ryanalfarisi/myckeditor-v2": "latest",
+        "@ryanalfarisi/sima-ckeditor": "latest",
+        "@ryanalfarisi/sima-ckeditor-refactor": "latest",
+        "@ryanaltair/socket.io-stream": "latest",
+        "@ryanap17/ui": "latest",
+        "@ryanar/hooks": "latest",
+        "@ryanar/multicast-dns": "latest",
+        "@ryanar/react-auth-provider": "latest",
+        "@ryanatkn/collisions": "latest",
+        "@ryanatkn/json-schema-to-typescript": "latest",
+        "@ryanatkn/svelte-snake-sports": "latest",
+        "@ryanatkn/svelte-snake-sports-repl": "latest"
+    }
+}

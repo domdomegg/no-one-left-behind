@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_ngp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ngpack/base": "latest",
+        "@ngpack/hmr": "latest",
+        "@ngpack/istanbul": "latest",
+        "@ngpack/ngpack": "latest",
+        "@ngpack/sass": "latest",
+        "@ngpack/tslint": "latest",
+        "@ngpack/typescript": "latest",
+        "@ngpakistan/smart-ui": "latest",
+        "@ngplus/n-orm": "latest",
+        "@ngprojects/bulma": "latest",
+        "@ngprojects/bulmatemp": "latest"
+    }
+}

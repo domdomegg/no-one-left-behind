@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-rollup-p",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-rollup-pa": "latest",
+        "@zalastax/nolb-rollup-pk": "latest",
+        "@zalastax/nolb-rollup-pl": "latest",
+        "@zalastax/nolb-rollup-pm": "latest",
+        "@zalastax/nolb-rollup-po": "latest",
+        "@zalastax/nolb-rollup-pr": "latest",
+        "@zalastax/nolb-rollup-pu": "latest"
+    }
+}

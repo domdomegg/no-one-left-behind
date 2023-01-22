@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-aws-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aws-jeanpierre": "latest",
+        "aws-job-queue-service": "latest",
+        "aws-js": "latest",
+        "aws-json": "latest",
+        "aws-jwt-validator-middleware": "latest",
+        "aws-jwt-verifier": "latest",
+        "aws-jwt-verify": "latest",
+        "aws-jwt-verify-tmp": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-flof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "floflo-react-inputs": "latest",
+        "floflo-react-items": "latest",
+        "floflo-react-menu": "latest",
+        "floflo-webpack-config": "latest"
+    }
+}

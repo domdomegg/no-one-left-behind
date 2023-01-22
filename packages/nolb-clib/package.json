@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-clib",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clib": "latest",
+        "clib-create": "latest",
+        "clib-css": "latest",
+        "clib-ui": "latest",
+        "clib22-form2": "latest",
+        "clibe": "latest",
+        "clibear": "latest",
+        "cliberry": "latest",
+        "cliberry-schematics": "latest",
+        "clibinhan": "latest",
+        "clibm": "latest",
+        "cliboards": "latest",
+        "clibri": "latest",
+        "clibri-websocket-client": "latest",
+        "clibri-websocket-client-node": "latest",
+        "clibri-websocket-server": "latest",
+        "clibro": "latest",
+        "clibs18": "latest",
+        "clibucli": "latest",
+        "clibuilder": "latest",
+        "clibuilder-plugin-dummy": "latest",
+        "clibuilder-testutil": "latest"
+    }
+}

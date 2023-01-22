@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_phom",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@phomea/react-native-buttons": "latest",
+        "@phomea/react-native-notifications": "latest",
+        "@phomea/react-native-slider": "latest"
+    }
+}

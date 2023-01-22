@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-browse-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "browse-cli": "latest",
+        "browse-directory": "latest",
+        "browse-edgar": "latest",
+        "browse-gedcom": "latest",
+        "browse-parser": "latest",
+        "browse-project": "latest",
+        "browse-url": "latest"
+    }
+}

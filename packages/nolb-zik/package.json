@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-zik",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zik": "latest",
+        "zik-response": "latest",
+        "zika": "latest",
+        "zika9x": "latest",
+        "zikcenter": "latest",
+        "zikeji-discord-sensei": "latest",
+        "zikes-circlemenu": "latest",
+        "ziki-http-services": "latest",
+        "ziki-ng-utils": "latest",
+        "zikix-cli": "latest",
+        "zikix-core": "latest",
+        "zikix-create": "latest",
+        "zikix-node": "latest",
+        "zikix-resources": "latest",
+        "zikk": "latest",
+        "zikode": "latest",
+        "zikongli-jingdian-taozhuang-x3": "latest",
+        "ziksang": "latest",
+        "zikstoolkit": "latest",
+        "ziksweatherboot": "latest",
+        "ziky": "latest"
+    }
+}

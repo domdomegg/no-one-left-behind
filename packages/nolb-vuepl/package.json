@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-vuepl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vueplat-cli": "latest",
+        "vueplete": "latest",
+        "vueplg": "latest",
+        "vueplotlib": "latest",
+        "vueplug-aplayer": "latest",
+        "vueplug-typer": "latest",
+        "vueplugin-ui": "latest",
+        "vueplugincreator": "latest",
+        "vuepluginjsl": "latest",
+        "vuepluginmsd": "latest",
+        "vuepluglyl": "latest",
+        "vueplus": "latest",
+        "vueplus-ui": "latest"
+    }
+}

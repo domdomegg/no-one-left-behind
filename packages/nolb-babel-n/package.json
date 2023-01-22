@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-babel-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-n_": "latest",
+        "babel-newerty": "latest",
+        "babel-no-runtime": "latest",
+        "babel-node": "latest",
+        "babel-node-bin-stage-0": "latest",
+        "babel-node-debug": "latest",
+        "babel-node-lambda": "latest",
+        "babel-node-modules": "latest",
+        "babel-node-pp": "latest",
+        "babel-node-ts": "latest",
+        "babel-nodejs-setup": "latest",
+        "babel-nodepack": "latest",
+        "babel-normalize-comments": "latest",
+        "babel-npm": "latest",
+        "babel-npm-boilerplate": "latest",
+        "babel-npm-eli-version": "latest",
+        "babel-npm-install": "latest",
+        "babel-npm-module-example": "latest",
+        "babel-npm-package": "latest",
+        "babel-npm-publish": "latest"
+    }
+}

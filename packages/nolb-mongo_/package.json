@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-mongo_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mongo.eco": "latest",
+        "mongo.provider": "latest",
+        "mongo.rabbit.bridge": "latest",
+        "mongo_backup_cli": "latest",
+        "mongo_bot": "latest",
+        "mongo_conn": "latest",
+        "mongo_dal": "latest",
+        "mongo_dottype": "latest",
+        "mongo_esy": "latest",
+        "mongo_explorer": "latest",
+        "mongo_express_tracer_middleware": "latest",
+        "mongo_fixtures": "latest",
+        "mongo_helper": "latest",
+        "mongo_intf": "latest",
+        "mongo_job": "latest",
+        "mongo_keyval": "latest",
+        "mongo_kokim": "latest",
+        "mongo_min": "latest",
+        "mongo_model": "latest",
+        "mongo_pro": "latest",
+        "mongo_prueba": "latest",
+        "mongo_recursive_camelcase": "latest",
+        "mongo_soccer": "latest",
+        "mongo_test": "latest",
+        "mongo_to_cassandra": "latest",
+        "mongo_to_es": "latest",
+        "mongo_tut": "latest",
+        "mongo_typescript": "latest"
+    }
+}

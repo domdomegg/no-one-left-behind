@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-express2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "express2": "latest",
+        "express2233": "latest",
+        "express2apigateway": "latest",
+        "express2gatling": "latest",
+        "express2koa": "latest",
+        "express2md": "latest",
+        "express2ssl": "latest",
+        "express2use": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-icr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "icr": "latest",
+        "icr-d3d8": "latest",
+        "icr-main-bower-files": "latest",
+        "icra": "latest",
+        "icrawl": "latest",
+        "icrawler": "latest",
+        "icream": "latest",
+        "icreate": "latest",
+        "icrow": "latest",
+        "icrunch": "latest",
+        "icrush": "latest",
+        "icrush-loader": "latest",
+        "icrush-loader-plug": "latest",
+        "icrush-style-loader": "latest",
+        "icrypt": "latest",
+        "icrypto": "latest",
+        "icryptor": "latest"
+    }
+}

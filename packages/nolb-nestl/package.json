@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-nestl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nestle": "latest",
+        "nestler": "latest",
+        "nestless": "latest",
+        "nestlib": "latest",
+        "nestline-themes": "latest",
+        "nestling": "latest",
+        "nestly": "latest"
+    }
+}

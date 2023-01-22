@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-locl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "locl": "latest",
+        "loclass-style-loader": "latest",
+        "locli": "latest",
+        "locloc": "latest",
+        "loclock": "latest",
+        "locloud": "latest",
+        "locluster": "latest",
+        "loclys-leaflet-routing-machine": "latest",
+        "loclytest20893": "latest"
+    }
+}

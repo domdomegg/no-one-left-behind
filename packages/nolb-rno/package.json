@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-rno",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rno": "latest",
+        "rnode": "latest",
+        "rnogen": "latest",
+        "rnokoi-tools": "latest",
+        "rnoob": "latest",
+        "rnop-component-biz": "latest",
+        "rnop-js": "latest",
+        "rnop-theme": "latest",
+        "rnop-ui": "latest",
+        "rnorderprinter": "latest",
+        "rnorm": "latest",
+        "rnorm-generate": "latest",
+        "rnotebook": "latest",
+        "rnow": "latest"
+    }
+}

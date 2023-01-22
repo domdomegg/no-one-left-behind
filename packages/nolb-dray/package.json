@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-dray",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dray": "latest",
+        "dray-client": "latest",
+        "drayage-accessorials": "latest",
+        "drayage-rate": "latest",
+        "drayman": "latest",
+        "drayman-amazing-button": "latest",
+        "drayman-core": "latest",
+        "drayman-element": "latest",
+        "drayman-elements": "latest",
+        "drayman-tags": "latest",
+        "draymed-js": "latest"
+    }
+}

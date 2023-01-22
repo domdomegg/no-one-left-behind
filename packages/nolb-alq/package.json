@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-alq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "alq": "latest",
+        "alqamy": "latest",
+        "alquimia": "latest",
+        "alquimia-alquimia": "latest",
+        "alquimia-angular": "latest",
+        "alquimia-compiler": "latest",
+        "alquimia-html5": "latest",
+        "alquimia-oauth": "latest",
+        "alquimia-sass": "latest",
+        "alquimia-server": "latest",
+        "alquimia-slideshow": "latest",
+        "alquimia-templates": "latest",
+        "alquimia-translations": "latest",
+        "alquimia-ui": "latest",
+        "alquimia-web-basic": "latest",
+        "alquimia-wordpress": "latest",
+        "alquines": "latest",
+        "alquran-api-client": "latest"
+    }
+}

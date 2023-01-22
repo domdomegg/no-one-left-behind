@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_funy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@funya._./babel-plugin-react-native-classname-to-dynamic-style": "latest",
+        "@funya._./css-to-react-native": "latest",
+        "@funya._./css-to-react-native-transform": "latest",
+        "@funya._./gulp-import-alias": "latest",
+        "@funya._./gulp-wxapp-npm": "latest",
+        "@funya._./hooks": "latest",
+        "@funya._./npm_test": "latest",
+        "@funya._./react-native-baidu-mob-stat": "latest",
+        "@funya._./react-native-dynamic-style-processor": "latest",
+        "@funya._./tinypng-loader": "latest"
+    }
+}

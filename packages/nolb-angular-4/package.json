@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-angular-4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "angular-4-crud-module": "latest",
+        "angular-4-data-table": "latest",
+        "angular-4-data-table-aot": "latest",
+        "angular-4-data-table-bootstrap-4": "latest",
+        "angular-4-data-table-fix": "latest",
+        "angular-4-datatable-custom": "latest",
+        "angular-4-dropdown-multiselect": "latest",
+        "angular-4-lib": "latest",
+        "angular-4-multiselect-dropdown-scroll": "latest"
+    }
+}

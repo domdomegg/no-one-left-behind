@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-wsb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "WSBroker": "latest",
+        "wsb": "latest",
+        "wsbash-h5-client": "latest",
+        "wsbash-node-client": "latest",
+        "wsbash-node-server": "latest",
+        "wsbasic": "latest",
+        "wsbd.js": "latest",
+        "wsbei-dateandescpae": "latest",
+        "wsbesonrpc": "latest",
+        "wsbitpacket": "latest",
+        "wsbm": "latest",
+        "wsbm-face-api.js": "latest",
+        "wsbps-js": "latest",
+        "wsbroker": "latest",
+        "wsbs-vue": "latest",
+        "wsbtest": "latest"
+    }
+}

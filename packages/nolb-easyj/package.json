@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-easyj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "easyjava": "latest",
+        "easyjavascript": "latest",
+        "easyjdk11": "latest",
+        "easyjq": "latest",
+        "easyjre": "latest",
+        "easyjs": "latest",
+        "easyjs-awesome-template": "latest",
+        "easyjs-cli": "latest",
+        "easyjs-function": "latest",
+        "easyjs-react-common-lib": "latest",
+        "easyjs-react-component-lib": "latest",
+        "easyjs-react-simple": "latest",
+        "easyjs-react-typescript": "latest",
+        "easyjs-typescript-lib": "latest",
+        "easyjs-vue-common-lib": "latest",
+        "easyjs2": "latest",
+        "easyjson": "latest",
+        "easyjsonapi": "latest",
+        "easyjsonsql": "latest",
+        "easyjsontools": "latest",
+        "easyjsutil": "latest"
+    }
+}

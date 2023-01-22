@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-pacp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pacpan": "latest",
+        "pacphp": "latest",
+        "pacploy": "latest",
+        "pacprogress": "latest"
+    }
+}

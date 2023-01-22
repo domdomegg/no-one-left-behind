@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_js_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@js.properties/parser": "latest",
+        "@js.properties/properties": "latest",
+        "@js/components": "latest",
+        "@js/web-utils": "latest",
+        "@js_fleet/random-array-elements": "latest",
+        "@js_gitix/common": "latest",
+        "@js_learner/my_lib": "latest",
+        "@js_modules/js_category": "latest",
+        "@js_modules/js_message": "latest",
+        "@js_notebook/local-api": "latest",
+        "@js_notebook/local-client": "latest",
+        "@js_object/js_object": "latest",
+        "@js_sdk/bom": "latest",
+        "@js_sdk/core": "latest",
+        "@js_sdk/dom": "latest",
+        "@js_sdk/ts-utils": "latest",
+        "@js_sdk/types": "latest"
+    }
+}

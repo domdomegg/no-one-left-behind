@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-eslint-t",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslint-takeoff": "latest",
+        "eslint-tap": "latest",
+        "eslint-teamcity": "latest",
+        "eslint-template-visitor": "latest",
+        "eslint-test": "latest",
+        "eslint-test-generator": "latest",
+        "eslint-test-tiendeo": "latest",
+        "eslint-test2": "latest",
+        "eslint-tester": "latest",
+        "eslint-testing": "latest",
+        "eslint-th": "latest",
+        "eslint-tinker": "latest",
+        "eslint-tinker-antd": "latest",
+        "eslint-tinystacks-config": "latest",
+        "eslint-to-editorconfig": "latest",
+        "eslint-to-esformatter": "latest",
+        "eslint-todo": "latest",
+        "eslint-todo-generator": "latest",
+        "eslint-tolerant": "latest",
+        "eslint-tools-m6web": "latest",
+        "eslint-touched": "latest",
+        "eslint-transforms": "latest",
+        "eslint-traverse": "latest",
+        "eslint-traverser": "latest",
+        "eslint-ts-config-nure": "latest",
+        "eslint-ts-naming-convention": "latest",
+        "eslint-tuner": "latest",
+        "eslint-tyler-zey": "latest"
+    }
+}

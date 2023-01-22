@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_stek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stekern/cdk-constructs": "latest",
+        "@stekker/api": "latest",
+        "@stekker/helpers": "latest",
+        "@stekker/node-perforce": "latest",
+        "@stekker/obsrm": "latest",
+        "@stekoe/ocl.js": "latest"
+    }
+}

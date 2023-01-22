@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-cmj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cmj": "latest",
+        "cmj-product-header": "latest",
+        "cmj-ui": "latest",
+        "cmj427": "latest",
+        "cmj456": "latest",
+        "cmj5.20": "latest",
+        "cmjdemo": "latest",
+        "cmjfb": "latest",
+        "cmjnode": "latest",
+        "cmjr-splitted-input": "latest",
+        "cmjs": "latest",
+        "cmjs-shell": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-ar_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ar.js": "latest",
+        "ar.khaledhosny.quran": "latest",
+        "ar.tanzil.quran-simple.txt": "latest",
+        "ar_snake_game": "latest",
+        "ar_transaction_changes": "latest"
+    }
+}

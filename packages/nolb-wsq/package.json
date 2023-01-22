@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-wsq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wsq": "latest",
+        "wsq-api": "latest",
+        "wsq-cli": "latest",
+        "wsq-ddd": "latest",
+        "wsq-dddd": "latest",
+        "wsq-design": "latest",
+        "wsq-hhq-compare-object": "latest",
+        "wsq-large-number": "latest",
+        "wsq-rand-function": "latest",
+        "wsq-server": "latest",
+        "wsq1008": "latest",
+        "wsq123_learn_cli": "latest",
+        "wsq1257": "latest",
+        "wsq_hello": "latest",
+        "wsqaini": "latest",
+        "wsqaini123": "latest",
+        "wsqaini1234": "latest",
+        "wsqaini12345": "latest",
+        "wsqew": "latest",
+        "wsql": "latest",
+        "wsqwebpack-test": "latest",
+        "wsqwsq": "latest",
+        "wsqztj": "latest"
+    }
+}

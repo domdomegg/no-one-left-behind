@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_extl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@extlb/auth": "latest",
+        "@extlb/module-admin-accounts": "latest",
+        "@extlb/module-admin-acls": "latest",
+        "@extlb/module-admin-roles": "latest",
+        "@extlb/module-notifications": "latest",
+        "@extlb/module-user-profiles": "latest",
+        "@extlb/module-userguide": "latest",
+        "@extlb/perspective-admin": "latest",
+        "@extlb/perspective-auth": "latest",
+        "@extlb/perspective-error": "latest",
+        "@extlb/perspective-main": "latest"
+    }
+}

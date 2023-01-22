@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-postco",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "postcode": "latest",
+        "postcode-anywhere": "latest",
+        "postcode-lookup-psl": "latest",
+        "postcode-mask": "latest",
+        "postcode-nl": "latest",
+        "postcode-validator": "latest",
+        "postcode-vue": "latest",
+        "postcodeanywhere": "latest",
+        "postcodejs": "latest",
+        "postcodenl": "latest",
+        "postcoder-address-lookup": "latest",
+        "postcoder-contact-validation": "latest",
+        "postcoder-geocoding": "latest",
+        "postcodes": "latest",
+        "postcodes-malaysia": "latest",
+        "postcodes-tz": "latest",
+        "postcodesio-client": "latest",
+        "postcodesiocsv": "latest",
+        "postcodesoftware": "latest",
+        "postcodex-lib": "latest",
+        "postcodify": "latest",
+        "postcom": "latest",
+        "postcore": "latest"
+    }
+}

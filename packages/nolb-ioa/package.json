@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-ioa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ioa": "latest",
+        "ioa-api": "latest",
+        "ioa-auth": "latest",
+        "ioa-cli": "latest",
+        "ioa-cloud": "latest",
+        "ioa-cors": "latest",
+        "ioa-db": "latest",
+        "ioa-graph": "latest",
+        "ioa-query": "latest",
+        "ioa-rest": "latest",
+        "ioa-role": "latest",
+        "ioa-router": "latest",
+        "ioa-shell": "latest",
+        "ioa-ui": "latest",
+        "ioa-upload": "latest",
+        "ioa-utils": "latest",
+        "ioaa": "latest",
+        "ioak-sjcl": "latest",
+        "ioant-loader": "latest",
+        "ioant-logger": "latest",
+        "ioant-proto": "latest",
+        "ioasys-react-native-signature-capture": "latest",
+        "ioauth": "latest",
+        "ioauth-master": "latest",
+        "ioauthoring": "latest"
+    }
+}

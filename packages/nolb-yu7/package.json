@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-yu7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yu7": "latest",
+        "yu7-cli": "latest",
+        "yu766588220": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_dse",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dse.e/foundation": "latest",
+        "@dse.e/react": "latest",
+        "@dse.e/scss": "latest",
+        "@dsego/checkbox.css": "latest",
+        "@dsek/graphql-auth-directives-unsigned": "latest",
+        "@dselmanovic/rc-picker": "latest",
+        "@dsengineer/css": "latest",
+        "@dsengineer/svelte": "latest",
+        "@dsengineer/tokens": "latest",
+        "@dsentr/uikit": "latest",
+        "@dseoane/gatsby-theme-blog-core": "latest",
+        "@dsergeyev/nest-logger": "latest",
+        "@dseven/hooks": "latest",
+        "@dseven/taro": "latest",
+        "@dseven/utils": "latest",
+        "@dseven/vue": "latest",
+        "@dseven/vuetify": "latest",
+        "@dsevo/components-foundation-badge": "latest",
+        "@dsevo/modules-deploy-firebase": "latest",
+        "@dsevo/modules-deploy-sftp": "latest",
+        "@dsevo/modules-generator-css": "latest",
+        "@dsevo/modules-generator-scss": "latest",
+        "@dsevo/modules-generator-webcomponents": "latest",
+        "@dsevo/modules-notification-slack": "latest",
+        "@dsevo/toolkit": "latest",
+        "@dsevo/toolkit-test-001": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-hth",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hth": "latest",
+        "hth-crm-icon-font": "latest",
+        "hth-icon-font": "latest",
+        "hth-keyboard": "latest",
+        "hth-mobile-icon-font": "latest",
+        "hthb-entites": "latest",
+        "hthcoind-rpc": "latest",
+        "hthcore-insight-api": "latest",
+        "hthcore-insight-ui": "latest",
+        "hthcore-lib": "latest",
+        "hthcore-node": "latest",
+        "hthjsjylweb": "latest",
+        "hthjyltest": "latest",
+        "hthsample": "latest",
+        "htht-design": "latest",
+        "htht-one": "latest",
+        "hthttp": "latest",
+        "hthuang": "latest",
+        "hthuang666": "latest"
+    }
+}

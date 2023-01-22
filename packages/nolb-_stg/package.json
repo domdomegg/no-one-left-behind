@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_stg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stg/bullets": "latest",
+        "@stg/core": "latest",
+        "@stg/demo": "latest",
+        "@stg/touhou": "latest",
+        "@stg/utils": "latest",
+        "@stg/vue-stgame": "latest",
+        "@stg101/pi-never": "latest",
+        "@stgdp/ansi-codes": "latest",
+        "@stgdp/fancy-logger": "latest",
+        "@stgdp/gulp-archiver": "latest",
+        "@stgdp/gulp-stylelint": "latest",
+        "@stgdp/react-editor-js": "latest",
+        "@stgen/stgen": "latest",
+        "@stgtalaat/common": "latest"
+    }
+}

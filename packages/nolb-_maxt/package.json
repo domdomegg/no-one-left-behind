@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_maxt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@maxtan/base64": "latest",
+        "@maxtan/calendar": "latest",
+        "@maxtan/iconfont": "latest",
+        "@maxtan/nts-router": "latest",
+        "@maxtan/tohtml": "latest",
+        "@maxtcodes/react-cal-core": "latest",
+        "@maxtcodes/react-cal-hooks": "latest",
+        "@maxtcodes/react-cal-utils": "latest",
+        "@maxtec/prettier-config": "latest",
+        "@maxtermax/lux-io": "latest",
+        "@maxters-dev/codeplay.js": "latest",
+        "@maxthemillion/vued3-linechart": "latest",
+        "@maxtickets/common": "latest",
+        "@maxtruxa/http-error": "latest",
+        "@maxtruxa/user-error": "latest",
+        "@maxts/anchor": "latest",
+        "@maxts/waterline": "latest",
+        "@maxts/waterline-adapter-tests": "latest",
+        "@maxts/waterline-utils": "latest"
+    }
+}

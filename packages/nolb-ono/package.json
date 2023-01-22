@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-ono",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ono": "latest",
+        "ono-http": "latest",
+        "onode": "latest",
+        "onodrim": "latest",
+        "onof": "latest",
+        "onoff": "latest",
+        "onoff-debug": "latest",
+        "onoff-rotary": "latest",
+        "onoffcanvas": "latest",
+        "onoffice": "latest",
+        "onom": "latest",
+        "onom-helper": "latest",
+        "onoma": "latest",
+        "onomata": "latest",
+        "onomatopoeia": "latest",
+        "onomondo-live": "latest",
+        "onomondo-traffic": "latest",
+        "onomondo-traffic-analyzer": "latest",
+        "onomondo-traffic-fetcher": "latest",
+        "onorix": "latest",
+        "onortwo1": "latest",
+        "onotakayuki": "latest"
+    }
+}

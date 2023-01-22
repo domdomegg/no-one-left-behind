@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-strel",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "strelkov-gendiff": "latest",
+        "strelkov-pageloader": "latest",
+        "strella": "latest",
+        "strella-api": "latest",
+        "strella-ci": "latest",
+        "strella-cms": "latest",
+        "strella-cms-configurator": "latest",
+        "strella-components": "latest",
+        "strella-core": "latest",
+        "strella-vm-simple": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_acy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@acyclic/keythereum": "latest",
+        "@acyort/i18n": "latest",
+        "@acyort/logger": "latest",
+        "@acyort/markdown": "latest",
+        "@acyort/paginator": "latest",
+        "@acyort/pigeon": "latest",
+        "@acyort/renderer": "latest",
+        "@acyswap-conflux/sdk-core": "latest",
+        "@acyswap-conflux/v2-sdk": "latest",
+        "@acyswap/sdk": "latest",
+        "@acyswap/v1-core": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_forn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@forno/rest-browser-client": "latest",
+        "@fornt/cursed_scrolls": "latest",
+        "@fornt/device_frame": "latest",
+        "@fornt/npm_hello_world_test": "latest"
+    }
+}

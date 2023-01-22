@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-rur",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rur": "latest",
+        "rur-stat": "latest",
+        "rural": "latest",
+        "rural-sdk": "latest",
+        "ruraljs": "latest",
+        "ruran-ui": "latest",
+        "ruri-ui": "latest",
+        "rurid": "latest",
+        "ruriko": "latest",
+        "ruriko_yuu": "latest",
+        "ruritania": "latest",
+        "rurl": "latest",
+        "ruru": "latest",
+        "ruru-core": "latest",
+        "ruru-cruds": "latest",
+        "ruru-css": "latest",
+        "ruru-date": "latest",
+        "ruru-fluent": "latest",
+        "ruru-layout": "latest",
+        "ruru-protractor-html-screenshot-reporter": "latest",
+        "ruru-protractor-junit-reporter": "latest",
+        "ruru-svg-icon": "latest",
+        "rurublocks": "latest",
+        "rururu23": "latest"
+    }
+}

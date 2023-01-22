@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-plc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "plc": "latest",
+        "plc-ton": "latest",
+        "plc2racket": "latest",
+        "plc_brain_games": "latest",
+        "plc_gendiff": "latest",
+        "plcc-table": "latest",
+        "plci": "latest",
+        "plcindustry": "latest",
+        "plck": "latest",
+        "plcmdlink": "latest",
+        "plcnext": "latest",
+        "plcr": "latest",
+        "plcr-revival": "latest",
+        "plcr-voting": "latest",
+        "plcrashreport-decoder": "latest"
+    }
+}

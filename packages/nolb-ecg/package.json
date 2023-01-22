@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-ecg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ecg": "latest",
+        "ecg-animator": "latest",
+        "ecg-at-ipc": "latest",
+        "ecg-at-sdk": "latest",
+        "ecg-at-uploader": "latest",
+        "ecg-dicom-web-viewer": "latest",
+        "ecg-electron-config": "latest",
+        "ecg-form-making": "latest",
+        "ecg-mobile": "latest",
+        "ecg-phaser-utils": "latest",
+        "ecg-plups": "latest",
+        "ecg-quicktest-model": "latest",
+        "ecg-quicktest-texts": "latest",
+        "ecg-react-viewer": "latest",
+        "ecg-sam-create": "latest",
+        "ecg-underwatermath-app": "latest",
+        "ecgcomponentutils": "latest",
+        "ecglobal-theme": "latest",
+        "ecglobaltheme": "latest",
+        "ecgmonitor": "latest"
+    }
+}

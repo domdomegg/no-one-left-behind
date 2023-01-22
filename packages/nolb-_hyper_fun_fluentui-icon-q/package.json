@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_fluentui-icon-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/fluentui-icon-qr-code-filled": "latest",
+        "@hyper.fun/fluentui-icon-qr-code-regular": "latest",
+        "@hyper.fun/fluentui-icon-question-circle-filled": "latest",
+        "@hyper.fun/fluentui-icon-question-circle-regular": "latest",
+        "@hyper.fun/fluentui-icon-question-filled": "latest",
+        "@hyper.fun/fluentui-icon-question-regular": "latest",
+        "@hyper.fun/fluentui-icon-quiz-new-filled": "latest",
+        "@hyper.fun/fluentui-icon-quiz-new-regular": "latest"
+    }
+}

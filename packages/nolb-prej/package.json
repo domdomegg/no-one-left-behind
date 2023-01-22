@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-prej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "prejadeify": "latest",
+        "prejax": "latest",
+        "prejoinin": "latest",
+        "prejs": "latest",
+        "prejss": "latest",
+        "prejss-cli": "latest",
+        "prejss-core": "latest",
+        "prejss-loader": "latest",
+        "prejss-postcss-adapter": "latest",
+        "prejss-postcss-parser": "latest",
+        "prejss-styles-loader": "latest",
+        "prejst": "latest"
+    }
+}

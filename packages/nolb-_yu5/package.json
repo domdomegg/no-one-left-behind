@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_yu5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yu5k3/escape": "latest",
+        "@yu5k3/escape-git": "latest",
+        "@yu5k3/escape-hooks": "latest",
+        "@yu5k3/escape-install": "latest",
+        "@yu5k3/escape2": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_quae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@quaelin/idea": "latest",
+        "@quaelin/idea-api": "latest",
+        "@quaelin/idea-cli": "latest",
+        "@quaelin/idea-web": "latest"
+    }
+}

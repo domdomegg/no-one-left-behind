@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_typeg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@typeghost/material-ui-final-form": "latest",
+        "@typegoose/auto-increment": "latest",
+        "@typegoose/typegoose": "latest",
+        "@typeguards/core": "latest"
+    }
+}

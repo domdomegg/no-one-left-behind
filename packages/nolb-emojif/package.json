@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-emojif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emojifier": "latest",
+        "emojify": "latest",
+        "emojify-cli": "latest",
+        "emojify-cli-alerts": "latest",
+        "emojify-hashes": "latest",
+        "emojify-js": "latest",
+        "emojify-lyrics": "latest",
+        "emojify-pdf": "latest",
+        "emojify-picker": "latest",
+        "emojify-string": "latest",
+        "emojify-tag": "latest",
+        "emojify-text": "latest",
+        "emojify-text-cli": "latest",
+        "emojify-webpack-plugin": "latest",
+        "emojify.js": "latest",
+        "emojifylogs": "latest"
+    }
+}

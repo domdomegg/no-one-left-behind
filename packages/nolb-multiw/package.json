@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-multiw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "multiwall-creator": "latest",
+        "multiway": "latest",
+        "multiway-swap-js": "latest",
+        "multiwaydb": "latest",
+        "multiwebrtc": "latest",
+        "multiwebsock2tcp": "latest",
+        "multiwhich": "latest",
+        "multiwii": "latest",
+        "multiwii-msp": "latest",
+        "multiwindow": "latest",
+        "multiworker": "latest",
+        "multiwritable": "latest",
+        "multiwriter": "latest",
+        "multiws": "latest"
+    }
+}

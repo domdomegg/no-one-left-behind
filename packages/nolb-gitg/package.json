@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-gitg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gitg": "latest",
+        "gitg0": "latest",
+        "gitgap": "latest",
+        "gitgat": "latest",
+        "gitgc": "latest",
+        "gitgen": "latest",
+        "gitget": "latest",
+        "gitghost": "latest",
+        "gitgit": "latest",
+        "gitgo": "latest",
+        "gitgoodies": "latest",
+        "gitgraph-core": "latest",
+        "gitgraph-minigram": "latest",
+        "gitgraph-node": "latest",
+        "gitgraph-react": "latest",
+        "gitgraph.js": "latest",
+        "gitgraph.js-monorepo": "latest",
+        "gitgud": "latest",
+        "gitgud-cli": "latest",
+        "gitgud-ui": "latest",
+        "gitgui": "latest"
+    }
+}

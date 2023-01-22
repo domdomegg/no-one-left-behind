@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_dq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dq-antd/dq-form": "latest",
+        "@dq-antd/dq-grid": "latest",
+        "@dq-antd/pro-field": "latest",
+        "@dq-antd/pro-form": "latest",
+        "@dq-antd/pro-layout": "latest",
+        "@dq-antd/pro-provider": "latest",
+        "@dq-antd/pro-utils": "latest",
+        "@dq-cli/node-less-template": "latest",
+        "@dq-next/dchart": "latest",
+        "@dq-next/http-apis": "latest",
+        "@dq-next/icon": "latest",
+        "@dq-next/utils": "latest",
+        "@dq101/dummylib": "latest",
+        "@dqjs/cli": "latest",
+        "@dqn/bigbrain": "latest",
+        "@dqn/brainfuck-js": "latest",
+        "@dqn/json-type": "latest",
+        "@dqn/renovate-config": "latest",
+        "@dqn/tw-xauth": "latest",
+        "@dqnt/voyage": "latest",
+        "@dqtickets/common": "latest",
+        "@dqunbp/cjs-mapbox-gl-draw": "latest",
+        "@dqunbp/semantic-release-docker": "latest",
+        "@dqwdqqt/testconf2": "latest",
+        "@dqwdqwas/testconf": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_le2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@le2xx/angular-calendar": "latest",
+        "@le2xx/angular-resize-event": "latest",
+        "@le2xx/calendar-utils": "latest",
+        "@le2xx/ngx-plyr": "latest",
+        "@le2xx/plyr": "latest"
+    }
+}

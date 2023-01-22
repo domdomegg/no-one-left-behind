@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-msn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mSnackbar": "latest",
+        "msn": "latest",
+        "msn-belajar-nodejs-npm-library": "latest",
+        "msn-cache": "latest",
+        "msn-random-str": "latest",
+        "msn-ui": "latest",
+        "msn-weather": "latest",
+        "msn_random": "latest",
+        "msnapshot.js": "latest",
+        "msnet-admin": "latest",
+        "msnet-cli": "latest",
+        "msnger": "latest",
+        "msngr": "latest",
+        "msngui": "latest",
+        "msnode-cmd": "latest",
+        "msnodesql": "latest",
+        "msnodesqlv8": "latest",
+        "msnote": "latest",
+        "msnote-compose": "latest",
+        "msnt-cached-css-loader": "latest",
+        "msnt-extract-css-webpack-plugin": "latest",
+        "msnt-postcss-loader-caching": "latest",
+        "msnt-split-chunks-manifest-plugin": "latest",
+        "msnt-split-chunks-merge-small": "latest",
+        "msnt-svg-baker": "latest",
+        "msnt-svg-sprite-loader-common": "latest",
+        "msnt-webpack-multi-common-chunks-plugin": "latest",
+        "msnt-webpack-rtl-plugin": "latest"
+    }
+}

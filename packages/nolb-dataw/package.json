@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-dataw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "datawaiter": "latest",
+        "datawall": "latest",
+        "datawanghaojie": "latest",
+        "dataware": "latest",
+        "datawarp": "latest",
+        "datawatcher": "latest",
+        "dataway": "latest",
+        "datawheel-canon": "latest",
+        "datawind": "latest",
+        "datawind-sdk": "latest",
+        "datawire-quark-core": "latest",
+        "datawire-quark-node": "latest",
+        "datawire-quarkdev-node": "latest",
+        "datawire_mdk": "latest",
+        "datawire_mdk_express": "latest",
+        "datawire_mdk_request": "latest",
+        "datawire_mdk_winston": "latest",
+        "datawise-cli": "latest",
+        "datawiztech-middlewares": "latest",
+        "datawiztech-shared-functions": "latest",
+        "datawiztech-tokenize": "latest",
+        "datawrapper": "latest",
+        "datawriter": "latest",
+        "datawriterclient-js": "latest",
+        "datawugrey": "latest"
+    }
+}

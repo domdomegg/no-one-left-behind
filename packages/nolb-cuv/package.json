@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-cuv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cuv": "latest",
+        "cuvant": "latest",
+        "cuvee-app": "latest",
+        "cuvee-pages": "latest",
+        "cuvee-scaffolding": "latest",
+        "cuvette": "latest",
+        "cuvette-text-editor": "latest",
+        "cuvo-react-native-package": "latest",
+        "cuvo_test": "latest",
+        "cuvos-api": "latest",
+        "cuvva-log": "latest",
+        "cuvva-log-sentry": "latest"
+    }
+}

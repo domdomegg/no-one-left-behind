@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_t9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@t94j0/queryparse": "latest",
+        "@t99/delicate": "latest",
+        "@t99/eslint-config": "latest",
+        "@t99/http": "latest",
+        "@t99/http-server": "latest",
+        "@t99/mysql-toolkit": "latest",
+        "@t9tlai/host-runner-utils": "latest",
+        "@t9tlai/run-latest": "latest",
+        "@t9tlai/service-manager": "latest",
+        "@t9tlai/tabnine-teams-server": "latest",
+        "@t9tlai/traner-endpoint": "latest"
+    }
+}

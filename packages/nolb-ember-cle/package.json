@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-ember-cle",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ember-clean-project": "latest",
+        "ember-clean-tmp": "latest",
+        "ember-cleave": "latest",
+        "ember-clerk": "latest"
+    }
+}

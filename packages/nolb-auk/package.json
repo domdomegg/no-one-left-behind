@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-auk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "auk": "latest",
+        "auk-ak": "latest",
+        "auk-config": "latest",
+        "auk-dev": "latest",
+        "auk-errors": "latest",
+        "auk-language": "latest",
+        "auk-limosa": "latest",
+        "auk-listen": "latest",
+        "auk-logger": "latest",
+        "auk-params": "latest",
+        "auk-react": "latest",
+        "auk-react-redux": "latest",
+        "auk-translate": "latest",
+        "auk-turaco": "latest",
+        "aukcion_version_101": "latest",
+        "aukilabs-sdk-setup": "latest",
+        "aukit": "latest",
+        "aukrit-homework": "latest",
+        "aukrit-simple-package": "latest",
+        "aukrit-simple-package2": "latest",
+        "aukrit-test": "latest",
+        "aukwrklsfxntqjch": "latest"
+    }
+}

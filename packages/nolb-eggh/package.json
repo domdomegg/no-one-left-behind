@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-eggh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "egghead": "latest",
+        "egghead-cli-course-abcd1": "latest",
+        "egghead-crawler": "latest",
+        "egghead-flux-example": "latest",
+        "egghead-library-course": "latest",
+        "egghead-node-js-cli": "latest",
+        "egghead-osl": "latest",
+        "egghead-react-player": "latest",
+        "egghead-starwars": "latest",
+        "egghead-styles": "latest",
+        "egghead-tut": "latest",
+        "egghead-ui": "latest",
+        "egghead-ui-test": "latest",
+        "eggheadcli-mynewcli-jaimeabbariao": "latest",
+        "eggheadcli-mynewcli1": "latest",
+        "eggheadiotutorial": "latest"
+    }
+}

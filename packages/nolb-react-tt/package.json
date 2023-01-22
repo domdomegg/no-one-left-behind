@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-react-tt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-tt": "latest",
+        "react-tt-component": "latest",
+        "react-ttest-lib": "latest",
+        "react-ttl-otp": "latest",
+        "react-ttp": "latest",
+        "react-tts": "latest",
+        "react-tty": "latest",
+        "react-tty.js": "latest"
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_the_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@the!/script-build": "latest",
+        "@the!/script-jsdoc": "latest",
+        "@the!/test": "latest",
+        "@the.com/react-tetra3d": "latest",
+        "@the.elite/algebra.js": "latest",
+        "@the_aceix/overlay-badge": "latest",
+        "@the_basketcase/image-zoom": "latest",
+        "@the_beard/postgres-migrations-tournee": "latest",
+        "@the_blank/menumaker": "latest",
+        "@the_blitzmann/odata-v4-typeorm": "latest",
+        "@the_code_genin/vue-auth": "latest",
+        "@the_code_genin/vue-nanobar": "latest",
+        "@the_hashtag/common": "latest",
+        "@the_hazzik/julian-gregorian-converter": "latest",
+        "@the_martux/flexo": "latest",
+        "@the_ruther4d/react-scripts": "latest",
+        "@the_tree/esbuild-plugin-vue3": "latest",
+        "@the_ultimate/auth": "latest",
+        "@the_ultimate/common-utils": "latest",
+        "@the_ultimate/errors": "latest",
+        "@the_ultimate/fastify-benchmark": "latest",
+        "@the_ultimate/json-web-token": "latest",
+        "@the_ultimate/postgres": "latest",
+        "@the_ultimate/service-postgres": "latest",
+        "@the_zolotuskiy/discord-slash": "latest"
+    }
+}

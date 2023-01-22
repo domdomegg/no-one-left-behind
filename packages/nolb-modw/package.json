@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-modw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "modwatchdiffs": "latest",
+        "modweb-formats": "latest",
+        "modweb-middleware": "latest",
+        "modweb-processor": "latest",
+        "modweb-router": "latest",
+        "modweb-server": "latest",
+        "modweb-service": "latest",
+        "modweb-tools": "latest"
+    }
+}

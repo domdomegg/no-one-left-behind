@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-edr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "edr": "latest",
+        "edr-models": "latest",
+        "edr-redirect-plugin": "latest",
+        "edr-ui": "latest",
+        "edr-unregister-plugin": "latest",
+        "edr-winston-slack-webhook": "latest",
+        "edram-npm-cli-test": "latest",
+        "edraw": "latest",
+        "edraw-core": "latest",
+        "edrc-backend": "latest",
+        "edresponsive": "latest",
+        "edrington-react-ui-components": "latest",
+        "edriven": "latest",
+        "edriven-gui": "latest",
+        "edrone-components-lib": "latest",
+        "edrpou-client": "latest",
+        "edrpou-ua": "latest",
+        "edrpx-loader": "latest"
+    }
+}

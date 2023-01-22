@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_gej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gejiawen/scoped-package": "latest",
+        "@gejin-cli/core": "latest",
+        "@gejin-cli/utils": "latest",
+        "@gejmko/framework": "latest",
+        "@gejoy/gj-count": "latest",
+        "@gejoy/webapp": "latest"
+    }
+}

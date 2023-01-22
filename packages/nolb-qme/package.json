@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-qme",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qmedia": "latest",
+        "qmeditor": "latest",
+        "qmeme": "latest",
+        "qmenu-shared": "latest",
+        "qmenu-ui": "latest",
+        "qmerce-admin": "latest",
+        "qmerce-frontend": "latest",
+        "qmerce-rest": "latest",
+        "qmessage": "latest"
+    }
+}

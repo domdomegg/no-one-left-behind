@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_nodeg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nodegit/is": "latest",
+        "@nodegit/read-config": "latest",
+        "@nodegui/artifact-installer": "latest",
+        "@nodegui/devtools": "latest",
+        "@nodegui/nodegui": "latest",
+        "@nodegui/nodegui-os-utils": "latest",
+        "@nodegui/packer": "latest",
+        "@nodegui/plugin-animation": "latest",
+        "@nodegui/qode": "latest",
+        "@nodegui/qt-installer": "latest",
+        "@nodegui/react-desktop": "latest",
+        "@nodegui/react-nodegui": "latest",
+        "@nodegui/svelte-nodegui": "latest",
+        "@nodegui/svelte-nodegui-preprocessor": "latest",
+        "@nodegui/test": "latest",
+        "@nodegui/vue-nodegui": "latest",
+        "@nodeguy/assert": "latest",
+        "@nodeguy/channel": "latest",
+        "@nodeguy/cli": "latest",
+        "@nodeguy/generic": "latest",
+        "@nodeguy/is": "latest",
+        "@nodeguy/json-rpc": "latest",
+        "@nodeguy/sequences": "latest",
+        "@nodeguy/server-date": "latest",
+        "@nodeguy/type": "latest"
+    }
+}

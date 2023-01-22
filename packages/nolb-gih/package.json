@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-gih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gih": "latest",
+        "gihoma": "latest",
+        "gihoo": "latest",
+        "gihoo-frame": "latest",
+        "gihook": "latest",
+        "gihtub-pr-branch-links": "latest"
+    }
+}

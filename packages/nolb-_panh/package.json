@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_panh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@panhasilva/my-lib-hello": "latest",
+        "@panhezeng/before-run-webpack-plugin": "latest",
+        "@panhezeng/countdown": "latest",
+        "@panhezeng/el-multiple-upload": "latest",
+        "@panhezeng/el-popover-dialog": "latest",
+        "@panhezeng/el-select-remote-multiple": "latest",
+        "@panhezeng/el-single-upload": "latest",
+        "@panhezeng/el-tinymce": "latest",
+        "@panhezeng/el-tree-table": "latest",
+        "@panhezeng/generator-tinymce-plugin": "latest",
+        "@panhezeng/ie-is-dead": "latest",
+        "@panhezeng/moocnd-wechat-cdn": "latest",
+        "@panhezeng/rename-webpack-plugin": "latest",
+        "@panhezeng/tinymce-plugin-text-indent-outdent": "latest",
+        "@panhezeng/ucloud-ufile": "latest",
+        "@panhezeng/utils": "latest",
+        "@panhezeng/vue-axios": "latest",
+        "@panhezeng/vue-event-hub": "latest",
+        "@panhezeng/vue-tinymce": "latest"
+    }
+}

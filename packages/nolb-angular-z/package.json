@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-angular-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "angular-z-base": "latest",
+        "angular-zelda": "latest",
+        "angular-zendesk-widget": "latest",
+        "angular-zenpen": "latest",
+        "angular-zeroclipboard": "latest",
+        "angular-zeroclipboard-webpack": "latest",
+        "angular-zh-lib": "latest",
+        "angular-ziggeo": "latest",
+        "angular-ziggeo-ng-packagr": "latest",
+        "angular-zinfinitescroll": "latest",
+        "angular-zipcode": "latest",
+        "angular-zipcode-filter": "latest",
+        "angular-ziptastic": "latest",
+        "angular-zoom": "latest",
+        "angular-zxcvbn": "latest",
+        "angular-zxcvbn-module": "latest"
+    }
+}

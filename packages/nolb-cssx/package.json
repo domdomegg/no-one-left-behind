@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-cssx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cssx": "latest",
+        "cssx-and-postcss-in-browser": "latest",
+        "cssx-cli": "latest",
+        "cssx-loader": "latest",
+        "cssx-transpiler": "latest",
+        "cssxpath-convertor": "latest",
+        "cssxy": "latest"
+    }
+}

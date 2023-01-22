@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_functions-io-m",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@functions-io-modules/datasource.driver.mongo": "latest",
+        "@functions-io-modules/datasource.driver.mysql": "latest",
+        "@functions-io-modules/functions-io-modules-gateway-http": "latest",
+        "@functions-io-modules/schema": "latest",
+        "@functions-io-modules/security.authentication.filter": "latest",
+        "@functions-io-modules/security.authorization.filter": "latest",
+        "@functions-io-modules/security.haspermission.mongo": "latest",
+        "@functions-io-modules/security.input.filter": "latest",
+        "@functions-io-modules/security.login.mongo": "latest",
+        "@functions-io-modules/security.token.generate": "latest",
+        "@functions-io-modules/security.token.validate": "latest"
+    }
+}

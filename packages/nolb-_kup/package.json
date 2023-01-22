@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_kup",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kupelos/tiny": "latest",
+        "@kupernik/slugger": "latest",
+        "@kupibilet/boolean-json-eval": "latest",
+        "@kupibilet/helpers": "latest",
+        "@kupibilet/jsx-loader": "latest",
+        "@kupibilet/moment": "latest",
+        "@kupibilet/polished": "latest",
+        "@kupibilet/react-dates": "latest",
+        "@kupibilet/react-day-picker": "latest",
+        "@kupibilet/react-maskedinput": "latest",
+        "@kupibilet/react-media": "latest",
+        "@kupibilet/react-module": "latest",
+        "@kupibilet/react-router-component": "latest",
+        "@kupibilet/react-virtualized": "latest",
+        "@kupibilet/source-sans-pro": "latest",
+        "@kupibilet/ui": "latest"
+    }
+}

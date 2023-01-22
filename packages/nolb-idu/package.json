@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-idu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "idu": "latest",
+        "idua-language-selector": "latest",
+        "iduck": "latest",
+        "iduck_music_spider": "latest",
+        "idue-g-contenido": "latest",
+        "idug": "latest",
+        "idukay-js-sdk": "latest",
+        "idukay-translate-js": "latest",
+        "idunique": "latest",
+        "idunno-irc": "latest",
+        "idup": "latest",
+        "idux-service": "latest"
+    }
+}

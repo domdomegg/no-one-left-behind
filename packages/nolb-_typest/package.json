@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_typest",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@typestorm/cli": "latest",
+        "@typestream/core": "latest",
+        "@typestream/core-protocol": "latest",
+        "@typestream/sdk": "latest",
+        "@typestrong/ts-mockito": "latest",
+        "@typestyled/core": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-win_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "win.js": "latest",
+        "win.min.js": "latest",
+        "win.robust-auth-client": "latest",
+        "win_imagesnap": "latest",
+        "win_ioctl": "latest",
+        "win_trade-biz": "latest"
+    }
+}

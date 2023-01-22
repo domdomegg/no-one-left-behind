@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-acg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "acg": "latest",
+        "acg-calc": "latest",
+        "acg-client": "latest",
+        "acg-dnr-savings": "latest",
+        "acg-flatbuffers": "latest",
+        "acg-meme": "latest",
+        "acg-react-lib": "latest",
+        "acg-react-mohan-lib": "latest",
+        "acg-react-mohan-lib-template": "latest",
+        "acghrom": "latest",
+        "acgn-archive": "latest",
+        "acgn-ui": "latest"
+    }
+}

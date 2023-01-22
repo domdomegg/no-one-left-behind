@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-chre",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chreact": "latest",
+        "chreactfileupload": "latest",
+        "chrec-core": "latest",
+        "chrengxiaolinhtml": "latest",
+        "chrengxiaolinhtml.css.js": "latest",
+        "chrengxiaolinhtml.css.js125": "latest",
+        "chrext": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-datev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "DateValidator": "latest",
+        "datevalidator": "latest",
+        "datevalue": "latest",
+        "datever": "latest",
+        "datever-cli": "latest",
+        "dateversion": "latest",
+        "datevuewer": "latest"
+    }
+}

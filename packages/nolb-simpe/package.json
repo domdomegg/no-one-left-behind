@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-simpe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simpe-scss-theme-generator": "latest",
+        "simpe_aes": "latest",
+        "simpel-modal": "latest",
+        "simpelato": "latest",
+        "simperatorapi": "latest",
+        "simperatorbase": "latest",
+        "simperatordb": "latest",
+        "simperatorindicator": "latest",
+        "simperium": "latest",
+        "simperium-jsondiff": "latest",
+        "simpexp": "latest"
+    }
+}

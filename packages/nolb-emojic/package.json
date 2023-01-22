@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-emojic",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emojic": "latest",
+        "emojica": "latest",
+        "emojicharstring": "latest",
+        "emojiclock": "latest",
+        "emojicode-transpiler": "latest",
+        "emojicoding": "latest",
+        "emojicon": "latest",
+        "emojicon-big": "latest",
+        "emojicons": "latest",
+        "emojiconverter": "latest",
+        "emojicord": "latest",
+        "emojicrypt": "latest",
+        "emojicrypt.js": "latest"
+    }
+}

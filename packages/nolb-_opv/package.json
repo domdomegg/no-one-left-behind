@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_opv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@opvious/api-operations": "latest",
+        "@opvious/eslint-plugin": "latest",
+        "@opvious/prettier-typescript": "latest",
+        "@opvious/stl-bootstrap": "latest",
+        "@opvious/stl-errors": "latest",
+        "@opvious/stl-telemetry": "latest",
+        "@opvious/stl-utils": "latest",
+        "@opvious/tsconfig": "latest"
+    }
+}

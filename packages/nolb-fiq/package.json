@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-fiq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fiq": "latest",
+        "fiqgant": "latest",
+        "fiql-parser": "latest",
+        "fiql-query-builder": "latest",
+        "fiqriapriandi": "latest",
+        "fiqryq": "latest"
+    }
+}

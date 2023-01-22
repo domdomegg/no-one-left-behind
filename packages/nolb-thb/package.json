@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-thb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thb-blood-donation": "latest",
+        "thb-calendar": "latest",
+        "thb-cli": "latest",
+        "thb-components": "latest",
+        "thb-liucheng": "latest",
+        "thb-object-extend": "latest",
+        "thb-phpcs": "latest",
+        "thb-pino-http": "latest",
+        "thb-text-component": "latest",
+        "thb-text-converter": "latest",
+        "thb-to-text": "latest",
+        "thbhbhbhbhjbest-new-package": "latest",
+        "thblogin": "latest",
+        "thbs-loader": "latest",
+        "thbt1": "latest",
+        "thbutton": "latest"
+    }
+}

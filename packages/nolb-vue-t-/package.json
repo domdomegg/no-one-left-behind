@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-vue-t-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-t-marquee": "latest",
+        "vue-t-select": "latest",
+        "vue-t-switch": "latest",
+        "vue-t-template": "latest",
+        "vue-t-transition": "latest",
+        "vue-t-ui": "latest"
+    }
+}

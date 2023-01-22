@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_antw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@antwansherif/cms-integration-poc": "latest",
+        "@antwika/app": "latest",
+        "@antwika/auth-api": "latest",
+        "@antwika/common": "latest",
+        "@antwika/http": "latest",
+        "@antwika/lock": "latest",
+        "@antwika/prometheus": "latest",
+        "@antwika/standard-version": "latest",
+        "@antwika/store": "latest",
+        "@antwika/swagger": "latest",
+        "@antwika/web-api": "latest"
+    }
+}

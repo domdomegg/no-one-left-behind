@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-rnv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rnv": "latest",
+        "rnv-date-range-picker": "latest",
+        "rnv-platform-info": "latest",
+        "rnv.js": "latest",
+        "rnv5": "latest",
+        "rnvconsole": "latest",
+        "rnvd3": "latest",
+        "rnvibessdk": "latest",
+        "rnviewer": "latest",
+        "rnvm": "latest"
+    }
+}

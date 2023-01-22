@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-vek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vek": "latest",
+        "vek-ui": "latest",
+        "vek3": "latest",
+        "veka": "latest",
+        "vekas_counter": "latest",
+        "vekas_iresult": "latest",
+        "veking-cli": "latest",
+        "vekise-ui": "latest",
+        "vekit-tr": "latest",
+        "vekta": "latest",
+        "vektar": "latest",
+        "vekter": "latest",
+        "vektor": "latest",
+        "vektor-ds": "latest",
+        "vektr_commonlib": "latest",
+        "vektr_compositingcontrollerslib": "latest",
+        "vektr_compositinglib": "latest",
+        "vektr_controllerslib": "latest",
+        "vektr_loaderlib": "latest",
+        "vektr_mathlib": "latest",
+        "vektr_modifierslib": "latest",
+        "vektr_renderinglib": "latest",
+        "vektr_storagelib": "latest",
+        "vektr_utillib": "latest",
+        "vektr_windowmonitoringlib": "latest"
+    }
+}

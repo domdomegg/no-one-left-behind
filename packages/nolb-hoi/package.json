@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-hoi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hoi": "latest",
+        "hoi-pc-ui": "latest",
+        "hoi-poi-ui": "latest",
+        "hoiio": "latest",
+        "hoipoi": "latest",
+        "hoist": "latest",
+        "hoist-inline-decorator-functions-loader": "latest",
+        "hoist-issue-example-lib": "latest",
+        "hoist-js": "latest",
+        "hoist-node-sdk": "latest",
+        "hoist-non-inferno-statics": "latest",
+        "hoist-non-react-methods": "latest",
+        "hoist-non-react-statics": "latest",
+        "hoist-non-react-statics-es": "latest",
+        "hoist-non-react-statics-x": "latest",
+        "hoist-packages": "latest",
+        "hoist-peers-webpack-resolve-plugin": "latest",
+        "hoist-props": "latest",
+        "hoist-react-instance-methods": "latest",
+        "hoist-react-statics": "latest",
+        "hoister": "latest",
+        "hoisting-peer-check-child": "latest",
+        "hoistnonjreactstatics": "latest",
+        "hoistr": "latest"
+    }
+}

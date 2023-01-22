@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-maks",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "maks-dev-resume": "latest",
+        "maks-lib": "latest",
+        "maks-lib2": "latest",
+        "maks-library": "latest",
+        "maksbar": "latest",
+        "maksejs": "latest",
+        "maksikuy-order-status": "latest",
+        "maksim": "latest",
+        "maksim-garkavenkov-calculator": "latest",
+        "maksim1509bgames": "latest",
+        "maksim_auction": "latest",
+        "makskow-winston-azure-blob-transport": "latest",
+        "maksocket": "latest",
+        "maksof-common": "latest",
+        "makstak": "latest",
+        "maksukaista-rest": "latest",
+        "maksunappi": "latest",
+        "maksym_linnyk_f12": "latest"
+    }
+}

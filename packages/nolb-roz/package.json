@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-roz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "roz": "latest",
+        "roza": "latest",
+        "rozack-lib": "latest",
+        "rozele-test": "latest",
+        "rozet": "latest",
+        "rozetta": "latest",
+        "rozgrand-v-work-center": "latest",
+        "rozgrand-work-center-api": "latest",
+        "rozhkov-component-library": "latest",
+        "rozily": "latest",
+        "roziqov": "latest",
+        "rozmiedeploy": "latest",
+        "rozu": "latest",
+        "rozu-queue": "latest"
+    }
+}

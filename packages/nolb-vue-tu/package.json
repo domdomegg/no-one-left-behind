@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-vue-tu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-tui-calendar": "latest",
+        "vue-tui-editor": "latest",
+        "vue-turbo": "latest",
+        "vue-turbolinks": "latest",
+        "vue-turkish-textarea": "latest",
+        "vue-turn": "latest",
+        "vue-turn-off-autocomplete": "latest",
+        "vue-turning-book": "latest",
+        "vue-turnjs": "latest",
+        "vue-turnjs-examples": "latest",
+        "vue-turnstile": "latest",
+        "vue-turtle": "latest",
+        "vue-tut": "latest",
+        "vue-tuto": "latest",
+        "vue-tutor": "latest",
+        "vue-tutorial": "latest"
+    }
+}

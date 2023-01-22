@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_aliu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aliucord/react-devtools-core": "latest",
+        "@aliucord/rollup-plugin": "latest",
+        "@aliucord/rollup-plugin-swc": "latest",
+        "@aliuk2012/al-test-prototype-app": "latest",
+        "@aliuk2012/create-govuk-prototype-kit": "latest",
+        "@alium-official/alium-swap-lib": "latest",
+        "@alium-official/sdk": "latest",
+        "@alium-official/uikit": "latest",
+        "@aliuq/eslint-config": "latest",
+        "@aliuq/eslint-config-ts": "latest",
+        "@aliuq/eslint-config-vue": "latest",
+        "@aliushen/cli": "latest"
+    }
+}

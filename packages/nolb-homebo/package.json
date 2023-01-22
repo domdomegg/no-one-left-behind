@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-homebo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "homebot": "latest",
+        "homebox": "latest",
+        "homebox-driver-lifx": "latest",
+        "homebox-driver-sonos": "latest",
+        "homebox-driver-wemo-switch": "latest"
+    }
+}

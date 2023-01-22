@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-ckedit",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-ckedit-": "latest",
+        "@zalastax/nolb-ckeditj": "latest",
+        "@zalastax/nolb-ckedito": "latest"
+    }
+}

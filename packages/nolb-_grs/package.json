@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_grs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@grsky360/github-cli": "latest",
+        "@grslt/iut-encrypt": "latest",
+        "@grsm/dirt": "latest",
+        "@grsm/sun": "latest",
+        "@grsm/water": "latest",
+        "@grsmto/gatsby-i18n": "latest",
+        "@grsmto/gatsby-plugin-i18next": "latest"
+    }
+}

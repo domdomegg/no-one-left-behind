@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-cyk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cyk": "latest",
+        "cyk-cli-demo": "latest",
+        "cyka": "latest",
+        "cyka-blyat": "latest",
+        "cykalgo": "latest",
+        "cykmath-01": "latest",
+        "cykmath01": "latest",
+        "cykmath02": "latest",
+        "cykmath03": "latest",
+        "cykmath04": "latest"
+    }
+}

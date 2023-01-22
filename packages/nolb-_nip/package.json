@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_nip",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nipacloud/nvision": "latest",
+        "@nipem/utils": "latest",
+        "@nipige/authorizer": "latest",
+        "@nipige/logger": "latest",
+        "@nipin/mould": "latest",
+        "@nippunsharma/linalg": "latest",
+        "@nippur72/future": "latest",
+        "@nippur72/http": "latest",
+        "@nippur72/jsx-templates-loader": "latest",
+        "@nippur72/libemu": "latest",
+        "@nippy/config": "latest",
+        "@nippy/core": "latest",
+        "@nippy/gulp": "latest",
+        "@nippy/logger": "latest",
+        "@nips-finance/uikit": "latest",
+        "@nipuna21018/cordova-plugin-splunkmint": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-moq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "moq": "latest",
+        "moq.ts": "latest",
+        "moqblock-js-sdk": "latest",
+        "moqi-cli": "latest",
+        "moqi-ui": "latest",
+        "moqie": "latest",
+        "moqie-vue": "latest",
+        "moqiejs": "latest",
+        "moqin-test-lib1": "latest",
+        "moqin-test1": "latest",
+        "moqit": "latest",
+        "moqiu-touzixue": "latest",
+        "moqjs": "latest",
+        "moql": "latest",
+        "moqq": "latest",
+        "moquer": "latest",
+        "moquery": "latest",
+        "moquete": "latest",
+        "moquire": "latest",
+        "moquirejs": "latest"
+    }
+}

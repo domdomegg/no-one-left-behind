@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-magu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "magu": "latest",
+        "magu-plugin-anchor": "latest",
+        "magu-plugin-disqus": "latest",
+        "magu-plugin-footnote": "latest",
+        "magu-plugin-hljs": "latest",
+        "magu-plugin-say": "latest",
+        "magu-plugin-share-link": "latest",
+        "magu-plugin-toc": "latest",
+        "magua-ui": "latest",
+        "maguas-vuetify2": "latest",
+        "maguey": "latest",
+        "maguey-chai": "latest",
+        "magueys-reprovals-durmast": "latest",
+        "magui": "latest",
+        "maguiai2018": "latest",
+        "maguiai20180710": "latest",
+        "maguiai20180712": "latest",
+        "maguma": "latest",
+        "magur-npm": "latest",
+        "maguro": "latest",
+        "magus": "latest",
+        "magus-power-job": "latest",
+        "maguscloud-plus": "latest",
+        "magutils": "latest"
+    }
+}

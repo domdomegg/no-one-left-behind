@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_uniz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@uniz/data-style": "latest",
+        "@uniz/es-tools": "latest",
+        "@uniz/node-tools": "latest",
+        "@uniz/react-hooks": "latest",
+        "@uniz/zui": "latest",
+        "@unizen-io/unizen-dexaggregator-sdk": "latest",
+        "@unizen-io/unizen-dmas": "latest",
+        "@unizen-io/unizen-token-bridge": "latest",
+        "@unizen-io/unizen-trade-aggregator": "latest",
+        "@unizin/react-scripts": "latest"
+    }
+}

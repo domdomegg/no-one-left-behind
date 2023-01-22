@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-shok",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shoka-gallery": "latest",
+        "shokax-cli": "latest",
+        "shoken-trade": "latest",
+        "shokika.css": "latest",
+        "shoko": "latest",
+        "shoko-dl": "latest",
+        "shokuhin-db": "latest"
+    }
+}

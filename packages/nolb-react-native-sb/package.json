@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-react-native-sb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-sb-chiper": "latest",
+        "react-native-sb-demo-library": "latest",
+        "react-native-sb-ecommerce": "latest",
+        "react-native-sbb": "latest",
+        "react-native-sbermarket-engine": "latest",
+        "react-native-sbermarket-ymk": "latest",
+        "react-native-sbk-keyboard": "latest",
+        "react-native-sbkl-components": "latest",
+        "react-native-sbr-lib": "latest",
+        "react-native-sbxui": "latest"
+    }
+}

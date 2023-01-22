@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-linj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "linja": "latest",
+        "linjar": "latest",
+        "linjc-ice-scaffolds-pc": "latest",
+        "linjian_demo": "latest",
+        "linjian_demo2": "latest",
+        "linjianlongcalc": "latest",
+        "linjilei-test": "latest",
+        "linjing": "latest",
+        "linjingjingnodeproject": "latest",
+        "linjintao-number": "latest",
+        "linjinzhen": "latest",
+        "linjo-ui": "latest",
+        "linjun-cli": "latest",
+        "linjy-echo": "latest"
+    }
+}

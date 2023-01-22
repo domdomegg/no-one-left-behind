@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-fond",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fond": "latest",
+        "fond-audio": "latest",
+        "fond-build": "latest",
+        "fond-components": "latest",
+        "fond-debug": "latest",
+        "fond-domain": "latest",
+        "fond-graphics": "latest",
+        "fond-keyboard": "latest",
+        "fond-kjop": "latest",
+        "fond-runtime": "latest",
+        "fond-timer": "latest",
+        "fond-ui": "latest",
+        "fond-utils": "latest",
+        "fonda-vue": "latest",
+        "fondant": "latest",
+        "fondle": "latest",
+        "fondo": "latest",
+        "fondue": "latest",
+        "fondue-es6": "latest",
+        "fondue-middleware": "latest",
+        "fondy-checkout": "latest",
+        "fondy-checkout-vue": "latest",
+        "fondy-icons": "latest"
+    }
+}

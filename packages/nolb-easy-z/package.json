@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-easy-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "easy-z": "latest",
+        "easy-zip": "latest",
+        "easy-zip-archiver": "latest",
+        "easy-zip2": "latest"
+    }
+}

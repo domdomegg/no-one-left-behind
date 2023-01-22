@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-vidl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vidlab": "latest",
+        "vidlab-func": "latest",
+        "vidlist": "latest",
+        "vidly": "latest",
+        "vidly-0804": "latest",
+        "vidly-gurwinder": "latest",
+        "vidly-new": "latest",
+        "vidly-pradyu": "latest",
+        "vidly2306": "latest",
+        "vidly79878": "latest",
+        "vidlyalvisaung": "latest"
+    }
+}

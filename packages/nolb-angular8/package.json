@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-angular8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "angular8": "latest",
+        "angular8-breadcrumbs": "latest",
+        "angular8-countdown-timer": "latest",
+        "angular8-httpclient-tutorial": "latest",
+        "angular8-leaflet-freedraw": "latest",
+        "angular8-mat-datepicker": "latest",
+        "angular8-meanstack-crud-app-angular-material": "latest",
+        "angular8-mouse-select": "latest",
+        "angular8-ngzorro-datepicker": "latest",
+        "angular8-number-formatter": "latest",
+        "angular8-okra": "latest",
+        "angular8-paystack": "latest",
+        "angular8-reactive-forms": "latest",
+        "angular8-seed": "latest",
+        "angular8-spa": "latest",
+        "angular8-translator": "latest",
+        "angular8-yandex-maps": "latest",
+        "angular8simplecombobox": "latest",
+        "angular8test": "latest"
+    }
+}

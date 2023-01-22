@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-idf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "idf": "latest",
+        "idf-formatter": "latest",
+        "idf-lib": "latest",
+        "idf-ui": "latest",
+        "idfa-ios-capacitor-reader": "latest",
+        "idfastq": "latest",
+        "idfe-cli": "latest",
+        "idfe-markdown-editor": "latest",
+        "idfe-utils": "latest",
+        "idft": "latest",
+        "idfuscate": "latest",
+        "idfy": "latest"
+    }
+}

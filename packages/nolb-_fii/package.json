@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_fii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fiialo/pdf-generator": "latest",
+        "@fiiii/fps-helper": "latest",
+        "@fiile/cra-template-typescript": "latest",
+        "@fiile/cra-template-typescript-less": "latest",
+        "@fiile/react-scripts": "latest",
+        "@fiit/babel-preset-fiit": "latest",
+        "@fiit/eslint-config-fiit": "latest",
+        "@fiit/testcaffeine": "latest",
+        "@fiit/workout-test-client": "latest",
+        "@fiiv.io/readerbot": "latest",
+        "@fiizy/fitch": "latest",
+        "@fiizy/postcss": "latest"
+    }
+}

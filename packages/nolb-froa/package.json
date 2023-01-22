@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-froa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "froad-crbank-web": "latest",
+        "froad-gulp-usemin": "latest",
+        "froad-hengine": "latest",
+        "froala-audio": "latest",
+        "froala-bootstrap": "latest",
+        "froala-design-blocks": "latest",
+        "froala-editor": "latest",
+        "froala-editor-custom": "latest",
+        "froala-editor-jj": "latest",
+        "froala-editor-paragraph-format-extended-plugin": "latest",
+        "froala-editor-yq": "latest",
+        "froala-font-weight": "latest",
+        "froala-imgur": "latest",
+        "froala-oembed": "latest",
+        "froala-pages": "latest",
+        "froala-syntax-highlighter": "latest",
+        "froala-word-counter-plugin": "latest",
+        "froala-wysiwyg-vue3": "latest",
+        "froala_admin": "latest",
+        "froalacharts": "latest"
+    }
+}

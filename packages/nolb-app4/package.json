@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-app4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "app4": "latest",
+        "app4-temp": "latest",
+        "app40": "latest",
+        "app42jsdemo": "latest",
+        "app42jsdemotest": "latest"
+    }
+}

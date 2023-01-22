@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-avs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "avs": "latest",
+        "avs-body-parser": "latest",
+        "avs-captcha": "latest",
+        "avs-confirm": "latest",
+        "avs-confirm-modal": "latest",
+        "avs-easyrpc": "latest",
+        "avs-go": "latest",
+        "avs-loader": "latest",
+        "avs-proxy": "latest",
+        "avs-rpc": "latest",
+        "avs-sdk": "latest",
+        "avs-statechart": "latest",
+        "avs-web-components": "latest",
+        "avsc": "latest",
+        "avsc-json-sample": "latest",
+        "avsc-keyruler": "latest",
+        "avsc-tsc": "latest",
+        "avsdf-base": "latest",
+        "avsee-shared": "latest",
+        "avseoul_common_npm": "latest",
+        "avshiliaev_test_angular_dep": "latest",
+        "avsrivastava-frame-print": "latest",
+        "avss-mouse-select": "latest",
+        "avstream.js": "latest"
+    }
+}

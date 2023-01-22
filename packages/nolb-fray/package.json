@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-fray",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fray": "latest",
+        "fray.compiler": "latest",
+        "fray.component": "latest",
+        "fray.delegator": "latest",
+        "fray.emitter": "latest",
+        "fray.model": "latest",
+        "fray.observable": "latest",
+        "fray.parser": "latest",
+        "fray.store": "latest",
+        "fraya": "latest",
+        "frayed-surf": "latest",
+        "frayed-tide": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_o1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@o1/auth": "latest",
+        "@o1/auth-ui": "latest",
+        "@o1/route": "latest",
+        "@o1/ui": "latest",
+        "@o1/valid": "latest",
+        "@o11y/test1": "latest",
+        "@o1labs/client-sdk": "latest",
+        "@o1labs/snarkyjs": "latest",
+        "@o1labs/snarkyjs-web": "latest",
+        "@o1s/rate-limiter": "latest",
+        "@o1s/redis-testbench": "latest"
+    }
+}

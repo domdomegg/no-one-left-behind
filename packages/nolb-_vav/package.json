@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_vav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vavanya/local-agent": "latest",
+        "@vavassor/nws-client": "latest",
+        "@vavite/cloudflare-workers": "latest",
+        "@vavite/connect": "latest",
+        "@vavite/dev-server": "latest",
+        "@vavite/dev-server-methods": "latest",
+        "@vavite/expose-vite-dev-server": "latest",
+        "@vavite/multibuild": "latest",
+        "@vavite/multibuild-cli": "latest",
+        "@vavite/netlify": "latest",
+        "@vavite/node-loader": "latest",
+        "@vavite/reloader": "latest",
+        "@vavite/vercel": "latest",
+        "@vavra7/logger": "latest",
+        "@vavra7/utils": "latest",
+        "@vavt/markdown-theme": "latest",
+        "@vavt/md-editor-extension": "latest"
+    }
+}

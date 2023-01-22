@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-nae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nae-components-init-test": "latest",
+        "nae-fs": "latest",
+        "nae-net": "latest",
+        "nae-process": "latest",
+        "nae-react-auth": "latest",
+        "nae-react-core-styles": "latest",
+        "nae-react-hooks": "latest",
+        "nae-react-rest": "latest",
+        "nae-sandbox": "latest",
+        "nae-web": "latest",
+        "naeco-cra": "latest",
+        "naeco-react-scripts": "latest",
+        "naehasdialog": "latest",
+        "naek-is-negative": "latest",
+        "naek-is-positive": "latest",
+        "naemon": "latest",
+        "naen-cli": "latest",
+        "naendpointhh": "latest",
+        "naepyeon-types": "latest",
+        "naesungmath": "latest",
+        "naev-npm": "latest",
+        "naevner": "latest",
+        "naex": "latest"
+    }
+}

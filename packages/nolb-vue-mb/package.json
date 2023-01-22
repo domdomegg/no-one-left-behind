@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-vue-mb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-mb-cli": "latest",
+        "vue-mb-touch": "latest",
+        "vue-mb-ui": "latest"
+    }
+}

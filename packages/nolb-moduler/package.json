@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-moduler",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "moduler": "latest",
+        "moduler2": "latest",
+        "moduleraid": "latest",
+        "modulerashed": "latest",
+        "moduleritest": "latest",
+        "modulerizr": "latest",
+        "modulerizr-guide": "latest",
+        "modulerizr-jsrender-plugin": "latest",
+        "modulerizr-webpack-plugin": "latest",
+        "modulerizr_with_webpack": "latest",
+        "modulerr": "latest"
+    }
+}

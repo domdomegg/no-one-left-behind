@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_alifd_theme-p",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alifd/theme-paascloud": "latest",
+        "@alifd/theme-pangu": "latest",
+        "@alifd/theme-patcmdc0001": "latest",
+        "@alifd/theme-patd-orange": "latest",
+        "@alifd/theme-patd-red": "latest",
+        "@alifd/theme-paw1001": "latest",
+        "@alifd/theme-pinnacle": "latest",
+        "@alifd/theme-pipe-one": "latest",
+        "@alifd/theme-pkdoudou": "latest",
+        "@alifd/theme-pki": "latest",
+        "@alifd/theme-planet1": "latest",
+        "@alifd/theme-pnp-default-dark": "latest",
+        "@alifd/theme-pre-0": "latest",
+        "@alifd/theme-privateact": "latest",
+        "@alifd/theme-project": "latest",
+        "@alifd/theme-prox": "latest",
+        "@alifd/theme-pumpkin-v1": "latest",
+        "@alifd/theme-purple1-0": "latest",
+        "@alifd/theme-pusdn": "latest",
+        "@alifd/theme-puxiao": "latest",
+        "@alifd/theme-puzzle": "latest",
+        "@alifd/theme-pxm-v1": "latest",
+        "@alifd/theme-pxmaker": "latest",
+        "@alifd/theme-pxq": "latest"
+    }
+}

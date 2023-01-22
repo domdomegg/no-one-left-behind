@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-gatsby-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gatsby-gallery": "latest",
+        "gatsby-gallery-auto": "latest",
+        "gatsby-gallery-simple": "latest",
+        "gatsby-gapi-ssr": "latest",
+        "gatsby-garden": "latest",
+        "gatsby-generator": "latest",
+        "gatsby-generic-utils": "latest",
+        "gatsby-ghost-balsa-starter": "latest",
+        "gatsby-ghost-refresh-system": "latest",
+        "gatsby-github-personal-website": "latest",
+        "gatsby-goatcounter-analytics-reporter": "latest",
+        "gatsby-google-photos-gallery": "latest",
+        "gatsby-google-photos-grid-gallery": "latest",
+        "gatsby-graphiql-explorer": "latest",
+        "gatsby-graphql-components": "latest",
+        "gatsby-graphql-sharp": "latest",
+        "gatsby-graphql-source-toolkit": "latest",
+        "gatsby-graphql-utils": "latest",
+        "gatsby-gravityforms-component": "latest",
+        "gatsby-greenboard": "latest"
+    }
+}

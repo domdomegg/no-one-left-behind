@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_y_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@y.abdulla/lotide": "latest",
+        "@y.birbach/birbach": "latest",
+        "@y.birbach/datechanger": "latest",
+        "@y.birbach/dynamicrud": "latest",
+        "@y.nadtochii/task1": "latest",
+        "@y_hirao/busy": "latest",
+        "@y_hirao/mypackage": "latest",
+        "@y_npm_org/ticket_common": "latest"
+    }
+}

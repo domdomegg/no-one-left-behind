@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-react-wc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-wc": "latest",
+        "react-wc-ba": "latest",
+        "react-wc-lib": "latest",
+        "react-wc-test": "latest",
+        "react-wc-wrapper": "latest"
+    }
+}

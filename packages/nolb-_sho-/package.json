@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_sho-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sho-js/analytics": "latest",
+        "@sho-js/build-copyright": "latest",
+        "@sho-js/cpa": "latest",
+        "@sho-js/fingerprint": "latest",
+        "@sho-js/notifications-frontend": "latest",
+        "@sho-js/preload-webpack-plugin": "latest",
+        "@sho-js/react-context-locale": "latest",
+        "@sho-js/react-cpa": "latest"
+    }
+}

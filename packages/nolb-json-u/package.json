@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-json-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "json-ui": "latest",
+        "json-ui-react": "latest",
+        "json-unflat": "latest",
+        "json-union": "latest",
+        "json-unlike": "latest",
+        "json-update": "latest",
+        "json-update-feed": "latest",
+        "json-updated": "latest",
+        "json-updater": "latest",
+        "json-uplift": "latest",
+        "json-upstream": "latest",
+        "json-uri": "latest",
+        "json-url": "latest",
+        "json-url-diff": "latest",
+        "json-urlencode": "latest",
+        "json-users-cli": "latest",
+        "json-util": "latest",
+        "json-utilities": "latest",
+        "json-utils": "latest",
+        "json-utils-optimized": "latest",
+        "json-utilsx": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-eggs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eggs": "latest",
+        "eggs-benedict": "latest",
+        "eggs-benny": "latest",
+        "eggscript": "latest",
+        "eggserver": "latest",
+        "eggshell": "latest",
+        "eggshell-compress": "latest",
+        "eggshell-data-client": "latest",
+        "eggshell-graphql": "latest",
+        "eggshell-http-proxy": "latest",
+        "eggshell-inspector": "latest",
+        "eggshell-logger-config": "latest",
+        "eggshell-mongoose-helper": "latest",
+        "eggshell-nsso-helper": "latest",
+        "eggshell-opentracing": "latest",
+        "eggshell-opentracing-free": "latest",
+        "eggshell-opentracing-jaeger": "latest",
+        "eggshell-opentracing-opentelemetry": "latest",
+        "eggshell-queryobject": "latest",
+        "eggshell-restful-helper": "latest",
+        "eggshell-sentry": "latest",
+        "eggshell-surface": "latest",
+        "eggshell-zk-redis": "latest",
+        "eggshell-zk-redis-socket.io": "latest",
+        "eggss": "latest",
+        "eggster": "latest",
+        "eggsvonsatan": "latest",
+        "eggsy": "latest"
+    }
+}

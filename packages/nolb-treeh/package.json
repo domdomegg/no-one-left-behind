@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-treeh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "treehands": "latest",
+        "treehash": "latest",
+        "treehouse": "latest",
+        "treehouse-downloader": "latest",
+        "treehouse-icons": "latest",
+        "treehouse-profile-cli": "latest",
+        "treehouse-react": "latest",
+        "treehouse-router": "latest",
+        "treehouse_blog": "latest",
+        "treehouse_profile": "latest",
+        "treehouse_profile_debug": "latest",
+        "treehub": "latest",
+        "treehub-cli": "latest",
+        "treehugger": "latest",
+        "treehugger-node": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-react-native-ag",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-agenda": "latest",
+        "react-native-agenda-dagamo": "latest",
+        "react-native-agenda-view": "latest",
+        "react-native-aglive": "latest",
+        "react-native-agnavigation": "latest",
+        "react-native-agora": "latest",
+        "react-native-agora-android-echo-fix": "latest",
+        "react-native-agora-chat": "latest",
+        "react-native-agora-edu-types": "latest",
+        "react-native-agora-rawdata": "latest",
+        "react-native-agora-rtc-ng": "latest",
+        "react-native-agora-rte-base-kit": "latest",
+        "react-native-agora-rte-chatview": "latest",
+        "react-native-agora-rte-ui-kit": "latest",
+        "react-native-agora-videochat": "latest",
+        "react-native-agora-voice-chatroom-ui-kit": "latest",
+        "react-native-agora-voice-types": "latest",
+        "react-native-agoraio": "latest",
+        "react-native-agorastarfish": "latest",
+        "react-native-agri-sqlite": "latest"
+    }
+}

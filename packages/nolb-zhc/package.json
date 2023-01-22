@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-zhc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zhc": "latest",
+        "zhc-birt-cmps": "latest",
+        "zhc-birt-core": "latest",
+        "zhc-cli": "latest",
+        "zhc-first-module": "latest",
+        "zhc10": "latest",
+        "zhc84aegglplice": "latest",
+        "zhc_toola": "latest",
+        "zhccc_my_self": "latest",
+        "zhceshi": "latest",
+        "zhching": "latest",
+        "zhchj": "latest",
+        "zhcli-test": "latest",
+        "zhcli-test-lib": "latest",
+        "zhconv": "latest",
+        "zhconv-web": "latest",
+        "zhconvertor": "latest"
+    }
+}

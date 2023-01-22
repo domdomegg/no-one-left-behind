@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-htj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htj": "latest",
+        "htj_wx_open_app": "latest",
+        "htjoseph": "latest",
+        "htjs": "latest",
+        "htjson": "latest",
+        "htjsonp": "latest"
+    }
+}

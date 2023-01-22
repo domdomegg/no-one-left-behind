@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_parn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@parnas.dev/company-lib": "latest",
+        "@parnas.dev/dynamic-form-lib": "latest",
+        "@parnas.dev/parnas-lib": "latest",
+        "@parnas.dev/prs-shop": "latest",
+        "@parnassys-wc-shared/app-picker": "latest",
+        "@parnassys-wc-shared/profile-picker": "latest"
+    }
+}

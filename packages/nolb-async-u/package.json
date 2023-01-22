@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-async-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "async-u": "latest",
+        "async-uglify-js-webpack-plugin": "latest",
+        "async-unist-util-visit": "latest",
+        "async-unit": "latest",
+        "async-universal": "latest",
+        "async-unsucked": "latest",
+        "async-until": "latest",
+        "async-unwrap": "latest",
+        "async-unzip": "latest",
+        "async-update-props": "latest",
+        "async-urban": "latest",
+        "async-usage": "latest",
+        "async-util": "latest",
+        "async-utilities": "latest",
+        "async-utility": "latest",
+        "async-utils": "latest"
+    }
+}

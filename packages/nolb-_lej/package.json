@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_lej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lejdosd/celestial-form": "latest",
+        "@lejdosd/form-freamwork": "latest",
+        "@lejdosd/form-freamwork-v2": "latest",
+        "@lejdosd/next-gen-form-freamwork": "latest",
+        "@lejdosd/react-components": "latest",
+        "@lejdosd/utils": "latest",
+        "@lejeunerenard/kappa-core-event-bus": "latest",
+        "@lejimsft/haul-bundler-cli": "latest",
+        "@lejimsft/haul-bundler-preset-0.59": "latest",
+        "@lejimsft/haul-bundler-preset-0.60": "latest",
+        "@lejmimohamed/bankerise-design-system": "latest",
+        "@lejmimohamed/bankerise-design-system-test": "latest"
+    }
+}

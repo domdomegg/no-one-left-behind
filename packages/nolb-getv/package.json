@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-getv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "getv": "latest",
+        "getval": "latest",
+        "getvalue": "latest",
+        "getvaluer": "latest",
+        "getvaluesbykeys": "latest",
+        "getvapp": "latest",
+        "getvar": "latest",
+        "getver": "latest",
+        "getversion": "latest",
+        "getvespa": "latest",
+        "getvideo": "latest",
+        "getviewport": "latest",
+        "getvip": "latest",
+        "getvoip_renderer": "latest",
+        "getvw": "latest"
+    }
+}

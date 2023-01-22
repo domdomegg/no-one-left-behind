@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-cordova-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cordova-obimagepicker": "latest",
+        "cordova-ocr-plugin": "latest",
+        "cordova-okaybmd-date-picker-plugin": "latest",
+        "cordova-okaybmd-fb-connect-plugin": "latest",
+        "cordova-open": "latest",
+        "cordova-open-admob": "latest",
+        "cordova-open-native-settings": "latest",
+        "cordova-open-native-settings-guyromb": "latest",
+        "cordova-openpdf": "latest",
+        "cordova-opentok-android-permissions": "latest",
+        "cordova-osx": "latest",
+        "cordova-ourcodeworld-filebrowser": "latest",
+        "cordova-out-calls": "latest"
+    }
+}

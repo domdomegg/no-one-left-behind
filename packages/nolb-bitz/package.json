@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-bitz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bitz": "latest",
+        "bitz-api": "latest",
+        "bitz-collections": "latest",
+        "bitz-design-system": "latest",
+        "bitz_best_api": "latest",
+        "bitzeus": "latest",
+        "bitzo-funny-sentence": "latest",
+        "bitzyg-md-links": "latest"
+    }
+}

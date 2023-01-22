@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-imager",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "Imager": "latest",
+        "Imageresizer": "latest",
+        "imager": "latest",
+        "imager-cli": "latest",
+        "imager-io": "latest",
+        "imager-io-example": "latest",
+        "imager-io-node": "latest",
+        "imager-io-nodejs": "latest",
+        "imager-io-webpack": "latest",
+        "imager-node": "latest",
+        "imager-nodejs": "latest",
+        "imager-webpack": "latest",
+        "imager-with-svg": "latest",
+        "imager.js": "latest",
+        "imager.jsx": "latest",
+        "imagerecongition": "latest",
+        "imagereptilian": "latest",
+        "imagerequest": "latest",
+        "imageresize": "latest",
+        "imageresize-client": "latest",
+        "imageresizer": "latest",
+        "imageresizer.io": "latest",
+        "imageresizetool": "latest",
+        "imagerience": "latest",
+        "imageright-cli": "latest",
+        "imagerotatesize": "latest",
+        "imagery": "latest"
+    }
+}

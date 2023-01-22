@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-qik",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qik": "latest",
+        "qik-ckeditor5-custom-build": "latest",
+        "qik-server": "latest",
+        "qik.js": "latest",
+        "qikdb": "latest",
+        "qike-ui": "latest",
+        "qikke-wheels": "latest",
+        "qikstart": "latest",
+        "qiktonjwyoaclofrtcwa": "latest",
+        "qikunru_makesure": "latest",
+        "qikunru_newtest": "latest",
+        "qikunru_testforweekend": "latest",
+        "qikunru_week2": "latest"
+    }
+}

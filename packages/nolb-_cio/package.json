@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_cio",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cio/duplex-emitter": "latest",
+        "@cio/oboe": "latest",
+        "@cio/transformer": "latest",
+        "@ciochetta/cli": "latest",
+        "@ciondigital/cion-blockchains": "latest",
+        "@ciondigital/cion-countries": "latest",
+        "@ciondigital/cion-currencies": "latest",
+        "@ciondigital/cion-domain-models": "latest",
+        "@ciondigital/cion-message-bus": "latest",
+        "@ciondigital/cion-notifications": "latest",
+        "@ciondigital/cion-platform": "latest",
+        "@ciondigital/cion-secret-reader": "latest",
+        "@ciondigital/logger": "latest",
+        "@cioplenu/cioplenu-zxing-library": "latest",
+        "@cioplenu/ngx-scanner-cioplenu": "latest",
+        "@cioran/common": "latest",
+        "@ciortanmadalina/angular2-translations-synchroniser": "latest",
+        "@cioun/config": "latest",
+        "@cioun/core": "latest",
+        "@cioun/lang": "latest",
+        "@cioun/ui": "latest"
+    }
+}

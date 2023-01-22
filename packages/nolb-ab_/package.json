@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-ab_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ab.js": "latest",
+        "ab_boilerplate_minimal": "latest",
+        "ab_cuimin": "latest",
+        "ab_file_manager": "latest",
+        "ab_test_selecting": "latest"
+    }
+}

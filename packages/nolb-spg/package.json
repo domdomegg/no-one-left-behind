@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-spg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "spg": "latest",
+        "spg-lib": "latest",
+        "spg-sparrow": "latest",
+        "spgateway": "latest",
+        "spgateway-api": "latest",
+        "spgateway-js": "latest",
+        "spgateway-js-api": "latest",
+        "spgen": "latest",
+        "spgi": "latest",
+        "spgill": "latest",
+        "spgjs": "latest",
+        "spglsl": "latest",
+        "spgtest2": "latest",
+        "spgulptasks": "latest"
+    }
+}

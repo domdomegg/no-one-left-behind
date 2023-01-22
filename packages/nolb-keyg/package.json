@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-keyg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "keygaps": "latest",
+        "keygen": "latest",
+        "keygen-advance": "latest",
+        "keygen.js": "latest",
+        "keygenerator": "latest",
+        "keygens": "latest",
+        "keygentool": "latest",
+        "keyget": "latest",
+        "keygiphy": "latest",
+        "keygrip": "latest",
+        "keygrip-autorotate": "latest",
+        "keyguard-next": "latest"
+    }
+}

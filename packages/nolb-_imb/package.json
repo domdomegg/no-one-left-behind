@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_imb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@imba/codicons": "latest",
+        "@imbios/blogger-to-md": "latest",
+        "@imborge/twitter-dom": "latest",
+        "@imbrn/ace": "latest",
+        "@imbueapp/cache": "latest",
+        "@imbueapp/cell": "latest",
+        "@imbueapp/generator-apiproxy": "latest",
+        "@imbueapp/logging": "latest",
+        "@imbueapp/mockingbird": "latest",
+        "@imbueapp/mocktillery": "latest",
+        "@imbueapp/utils": "latest",
+        "@imbuejs/color": "latest",
+        "@imbueplatform/cell": "latest",
+        "@imbueplatform/dot-cell": "latest",
+        "@imbueplatform/dot-http": "latest",
+        "@imbuexi/button": "latest",
+        "@imbugs/ib-tws-api": "latest",
+        "@imburseag/imburse-checkout": "latest",
+        "@imbyr/firestore": "latest"
+    }
+}

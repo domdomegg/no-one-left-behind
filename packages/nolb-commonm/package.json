@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-commonm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "commonm-get-set": "latest",
+        "commonmark": "latest",
+        "commonmark-bbcode-renderer": "latest",
+        "commonmark-extract-text": "latest",
+        "commonmark-helpers": "latest",
+        "commonmark-linkify": "latest",
+        "commonmark-loader": "latest",
+        "commonmark-react-object-renderer": "latest",
+        "commonmark-react-renderer": "latest",
+        "commonmark-spec": "latest",
+        "commonmark-str-to-html": "latest",
+        "commonmark-test-viewer": "latest",
+        "commonmark-to-commonform": "latest",
+        "commonmark-to-dom": "latest",
+        "commonmark-to-markdown": "latest",
+        "commonmark-twemoji": "latest",
+        "commonmark-wikiwords": "latest",
+        "commonmark.json": "latest",
+        "commonmarkotest": "latest",
+        "commonmaropackage": "latest",
+        "commonmethod": "latest",
+        "commonml-cli": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_b6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@b612/backspace": "latest",
+        "@b612/melon": "latest",
+        "@b6db07d1a5/aigen-sdk": "latest",
+        "@b6k/slang-editor": "latest",
+        "@b6y/commons": "latest",
+        "@b6y/error": "latest",
+        "@b6y/react-monaco-editor": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-stv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stv": "latest",
+        "stv-cli": "latest",
+        "stv-modal-plugin": "latest",
+        "stv-tools": "latest",
+        "stv3e": "latest",
+        "stview": "latest",
+        "stvl": "latest",
+        "stvout": "latest"
+    }
+}

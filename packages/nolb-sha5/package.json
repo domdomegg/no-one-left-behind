@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-sha5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sha512": "latest",
+        "sha512-224": "latest",
+        "sha512-checksum": "latest",
+        "sha512-crypt-ts": "latest",
+        "sha512-es": "latest",
+        "sha512-universal": "latest",
+        "sha512-wasm": "latest",
+        "sha512crypt-node": "latest",
+        "sha512md": "latest",
+        "sha512sum": "latest"
+    }
+}

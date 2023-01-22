@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-cryt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "crytest": "latest",
+        "crytoswap-toolkit": "latest",
+        "crytoterminal-core": "latest",
+        "crytpo-js": "latest",
+        "crytrac": "latest",
+        "crytter": "latest"
+    }
+}

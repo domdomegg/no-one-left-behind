@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_nax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@naxmefy/basename": "latest",
+        "@naxmefy/env": "latest",
+        "@naxmefy/jdbc": "latest",
+        "@naxmefy/koa-controllers": "latest",
+        "@naxmefy/koa-router-support": "latest",
+        "@naxmefy/koa-starter": "latest",
+        "@naxmefy/mongoose-fex": "latest",
+        "@naxmefy/socket": "latest",
+        "@naxmefy/ts-nuxt-module": "latest",
+        "@naxmefy/utils": "latest",
+        "@naxustw/md2an": "latest",
+        "@naxxfish/whereis": "latest"
+    }
+}

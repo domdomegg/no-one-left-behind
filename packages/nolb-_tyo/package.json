@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_tyo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tyo-cli/command": "latest",
+        "@tyo-cli/core": "latest",
+        "@tyo-cli/exec": "latest",
+        "@tyo-cli/get-npm-info": "latest",
+        "@tyo-cli/init": "latest",
+        "@tyo-cli/log": "latest",
+        "@tyo-cli/package": "latest",
+        "@tyo-cli/tyo-cli-template-react": "latest",
+        "@tyo-cli/tyo-cli-template-vue-element-admin": "latest",
+        "@tyo-cli/tyo-cli-template-vue2": "latest",
+        "@tyo-cli/utils": "latest",
+        "@tyolab/grademark": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-whp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "whp-bag": "latest",
+        "whp-my-lib": "latest",
+        "whp-sy": "latest",
+        "whp-test01": "latest",
+        "whpcli": "latest",
+        "whppt": "latest",
+        "whppt-cms": "latest",
+        "whprj": "latest",
+        "whpxc": "latest"
+    }
+}

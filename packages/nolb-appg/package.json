@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-appg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "appgain-cordova-plugin": "latest",
+        "appgain-ionic-plugin": "latest",
+        "appgain-parse-dashboard": "latest",
+        "appgav": "latest",
+        "appgen": "latest",
+        "appgenerator": "latest",
+        "appgenny": "latest",
+        "appgeoedit": "latest",
+        "appgine": "latest",
+        "appgn.plugin.customappbrowserbeta2": "latest",
+        "appgn.plugin.custominappbrowser": "latest",
+        "appgrid": "latest",
+        "appgrid-express": "latest",
+        "appgun": "latest"
+    }
+}

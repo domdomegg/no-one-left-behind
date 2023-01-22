@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_abf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@abfluss/api-client": "latest",
+        "@abfluss/api-types": "latest",
+        "@abfluss/cli": "latest",
+        "@abfluss/util": "latest"
+    }
+}

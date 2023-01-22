@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-qij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qij": "latest",
+        "qiji": "latest",
+        "qiji-cli": "latest",
+        "qiji-kecheng-jiaoshi-zhinan": "latest",
+        "qiji-kecheng-xueyuan-lianxi-shouce": "latest",
+        "qiji-kecheng-xuyan-xinglv": "latest",
+        "qiji-kecheng-zhengwen": "latest",
+        "qiji-m-toast": "latest",
+        "qijia": "latest",
+        "qijiaixn": "latest",
+        "qijian": "latest",
+        "qijianbei2": "latest",
+        "qijianpm": "latest",
+        "qijianshuai-rand": "latest",
+        "qijianshuai-static-npm": "latest",
+        "qijianshuai-work": "latest",
+        "qijichao": "latest",
+        "qijietest": "latest",
+        "qijiuba": "latest",
+        "qijiui": "latest",
+        "qijiyun-publish-test": "latest",
+        "qiju_cucumber-corp": "latest",
+        "qijunjiede-fensiqun-erlingyijiu": "latest"
+    }
+}

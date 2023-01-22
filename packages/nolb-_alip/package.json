@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_alip",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alip/ckeditor5-build-classic-complete": "latest",
+        "@alipadron/angular-email-editor": "latest",
+        "@alipadron/prettier-config": "latest",
+        "@aliparlakci/ngpoint": "latest",
+        "@alipay-inc/mpaas-atb": "latest",
+        "@alipay-inc/mpaas-ide-openapi": "latest",
+        "@alipay-inc/mpaas-ide-openapi-aliyun": "latest",
+        "@alipay-inc/mpaas-ide-openapi-antfin": "latest",
+        "@alipay-inc/mpaas-ide-openapi-classic": "latest",
+        "@alipay-inc/mpaas-ide-openapi-common": "latest",
+        "@alipay-inc/mpaas-mcdp-h5-render": "latest",
+        "@alipay-inc/mpaas-mcdp-miniapp-render": "latest",
+        "@alipay-inc/mpaas-mcdp-wx-render": "latest",
+        "@alipay-inc/mpaas-mgs-sdk": "latest",
+        "@alipay-inc/mpaas-mgs-sdk-wechat": "latest",
+        "@alipay-inc/mpaas-miniapp-analytics": "latest",
+        "@alipay-inc/mpaas-mqcp-sdk": "latest",
+        "@alipay-inc/mpaas-mtracker-wxmini": "latest",
+        "@alipay-inc/mpaasdev": "latest",
+        "@alipay/cli": "latest",
+        "@alipay404/modulea": "latest",
+        "@alipiry/create-ts-cli": "latest",
+        "@alipiry/tite": "latest",
+        "@alipiry/tite-api": "latest",
+        "@alipiry/tite-cli": "latest"
+    }
+}

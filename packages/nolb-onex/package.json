@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-onex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "onex-parser": "latest",
+        "onex-sequelize": "latest",
+        "onex-slugify": "latest",
+        "onex-utils": "latest",
+        "onexec": "latest",
+        "onexp": "latest",
+        "onexuezha_article_img1": "latest",
+        "onexuezha_img": "latest",
+        "onexuezha_img2": "latest",
+        "onexx": "latest",
+        "onexyp0318": "latest"
+    }
+}

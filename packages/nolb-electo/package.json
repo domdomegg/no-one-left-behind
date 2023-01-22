@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-electo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "electon": "latest",
+        "electon-react-boilerplate": "latest",
+        "electonic": "latest",
+        "electonic-cli": "latest",
+        "elector": "latest",
+        "electoral-college": "latest",
+        "electoral-map": "latest",
+        "electoral-votes": "latest",
+        "electorn": "latest",
+        "electorn-desktop-textmate": "latest",
+        "electorrent": "latest",
+        "electors": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-snf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "snf": "latest",
+        "snf-cli": "latest",
+        "snf-foundation-vue": "latest",
+        "snfas-casestudies": "latest",
+        "snfas-components": "latest",
+        "snfe": "latest",
+        "snfind": "latest",
+        "snflk": "latest",
+        "snfplugin": "latest",
+        "snfs": "latest"
+    }
+}

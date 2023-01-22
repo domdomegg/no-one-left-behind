@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-cku",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ckube-elasticpath-server": "latest",
+        "ckube-strapi-admin": "latest",
+        "ckui": "latest",
+        "ckui-3": "latest",
+        "ckui-m2": "latest",
+        "ckui-react": "latest",
+        "ckui888": "latest",
+        "ckun_utils": "latest",
+        "ckup": "latest"
+    }
+}

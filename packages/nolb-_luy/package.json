@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_luy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@luyang_org/jquery": "latest",
+        "@luyang_org/ly_pkg": "latest",
+        "@luyt/layout": "latest",
+        "@luyten/core": "latest",
+        "@luyuant/babel-plugin-function-docs": "latest",
+        "@luyuant/esnext-cli": "latest",
+        "@luyuant/ui": "latest",
+        "@luyuant/utils": "latest"
+    }
+}

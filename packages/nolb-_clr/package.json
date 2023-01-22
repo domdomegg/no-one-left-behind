@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_clr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@clr/angular": "latest",
+        "@clr/city": "latest",
+        "@clr/core": "latest",
+        "@clr/eslint-plugin-clarity-adoption": "latest",
+        "@clr/icons": "latest",
+        "@clr/react": "latest",
+        "@clr/ui": "latest",
+        "@clraconis/http-server": "latest",
+        "@clramw/scaffold-test": "latest",
+        "@clramw/scaffold-test-lib": "latest",
+        "@clreddy21/cognitoforms-react": "latest",
+        "@clreddy21/react-scratchcard-with-custom-imagesize": "latest",
+        "@clrfund/contracts": "latest",
+        "@clrfund/maci-cli": "latest",
+        "@clrfund/maci-core": "latest",
+        "@clrfund/maci-crypto": "latest",
+        "@clrfund/maci-domainobjs": "latest",
+        "@clrfund/metadata-composer": "latest",
+        "@clrminded/hello-wasm": "latest"
+    }
+}

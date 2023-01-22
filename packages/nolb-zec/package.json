@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-zec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zec": "latest",
+        "zec-lib-ml": "latest",
+        "zec-npm-test": "latest",
+        "zec-rules-text": "latest",
+        "zec-toolkit": "latest",
+        "zece2": "latest",
+        "zeche": "latest",
+        "zecjs": "latest",
+        "zeckendorf": "latest",
+        "zecko": "latest",
+        "zecko-js": "latest",
+        "zecn-mc-webuser": "latest",
+        "zeconsole": "latest",
+        "zecoreui": "latest",
+        "zecorn": "latest",
+        "zecrey-legend-nft-sdk": "latest",
+        "zect": "latest"
+    }
+}

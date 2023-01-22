@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-frey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "frey-date": "latest",
+        "frey-dates": "latest",
+        "frey-ui": "latest",
+        "freya": "latest",
+        "freya-components": "latest",
+        "freya-keep-alive": "latest",
+        "freya-router-dom": "latest",
+        "freya-slides": "latest",
+        "freya-test": "latest",
+        "freya-ui-demo": "latest",
+        "freyajs": "latest",
+        "freyja": "latest",
+        "freyja-react": "latest",
+        "freyja-ui": "latest",
+        "freymwork-auth": "latest",
+        "freymwork-template-cli": "latest",
+        "freyr": "latest"
+    }
+}

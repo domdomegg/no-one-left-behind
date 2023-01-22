@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-taik",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "taik": "latest",
+        "taike": "latest",
+        "taikhoanmodel": "latest",
+        "taiki": "latest",
+        "taiki-cli": "latest",
+        "taikitech-react-colors-picker": "latest",
+        "taiklah": "latest",
+        "taiko": "latest",
+        "taiko-accessibility": "latest",
+        "taiko-android": "latest",
+        "taiko-diagnostics": "latest",
+        "taiko-eyes": "latest",
+        "taiko-lambdatest": "latest",
+        "taiko-mrab": "latest",
+        "taiko-pp-calc": "latest",
+        "taiko-react": "latest",
+        "taiko-screencast": "latest",
+        "taiko-screencheck": "latest",
+        "taiko-screeny": "latest",
+        "taiko-selenoid": "latest",
+        "taiko-storage": "latest",
+        "taiko-video": "latest"
+    }
+}

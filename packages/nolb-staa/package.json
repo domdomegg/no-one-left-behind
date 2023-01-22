@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-staa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "staart": "latest",
+        "staart-manager": "latest",
+        "staart-test": "latest",
+        "staart-ui": "latest",
+        "staart.css": "latest",
+        "staat": "latest",
+        "staat-react": "latest",
+        "staat-timetravel": "latest",
+        "staats": "latest"
+    }
+}

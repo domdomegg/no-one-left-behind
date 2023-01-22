@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_ng4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ng4/bs4": "latest",
+        "@ng4/codemirror": "latest",
+        "@ng4/t1": "latest",
+        "@ng42/core": "latest",
+        "@ng42/tslint-rules": "latest",
+        "@ng4746/aside": "latest",
+        "@ng4746/ng-floating-action-button": "latest",
+        "@ng4746/notice": "latest"
+    }
+}

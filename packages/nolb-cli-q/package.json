@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-cli-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cli-qa": "latest",
+        "cli-qcm": "latest",
+        "cli-qdoo-offline": "latest",
+        "cli-qg-da-programacao": "latest",
+        "cli-qiangui": "latest",
+        "cli-qiao": "latest",
+        "cli-questions": "latest",
+        "cli-quick-build": "latest",
+        "cli-quick-rep": "latest",
+        "cli-quiz": "latest",
+        "cli-quiz-funny": "latest",
+        "cli-quiz-node": "latest",
+        "cli-quiz2314": "latest",
+        "cli-quizzer": "latest"
+    }
+}

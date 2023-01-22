@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_haf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hafael/autum-ui": "latest",
+        "@hafdon/lib": "latest",
+        "@hafdon/pghelper": "latest",
+        "@hafdon/sendmail": "latest",
+        "@hafdon/sierra-api": "latest",
+        "@hafdon/staff-portal-server": "latest",
+        "@hafeez1042/validatorjs": "latest",
+        "@hafezkaghazi/ui-kit": "latest",
+        "@haffui/build": "latest",
+        "@haffui/docs": "latest",
+        "@haffui/playground": "latest",
+        "@haffui/utils": "latest",
+        "@hafidzdev/ui-ui": "latest",
+        "@haflinger/react-native-gifted-chat": "latest",
+        "@hafslundnett/elvis": "latest",
+        "@hafslundnett/hal-components": "latest",
+        "@hafslundnett/hdd-css": "latest",
+        "@hafslundnett/hdd-icons": "latest",
+        "@hafslundnett/hdd-ng-components": "latest",
+        "@hafslundnett/hdd-react": "latest",
+        "@hafslundnett/hdd-style": "latest",
+        "@hafslundnett/hdd-vue": "latest",
+        "@haftahave/react-deploy-s3": "latest",
+        "@haftahave/serverless-ses-template": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-sks",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sks": "latest",
+        "sks-frontend": "latest",
+        "sks-lib": "latest",
+        "sks-node-app": "latest",
+        "sks-plugin-el-erp": "latest",
+        "sks-qrcode": "latest",
+        "sks-utils": "latest",
+        "sks_tfder_qshurmjkf": "latest",
+        "sks_ulick_dfghfdcvghuytfcvghuygf": "latest",
+        "sks_ulick_qusesarry": "latest",
+        "sks_user_qiyueershierrikao": "latest",
+        "skscrapper": "latest",
+        "sksh": "latest",
+        "skshaish": "latest",
+        "skshare": "latest",
+        "skshu-kaoshi": "latest",
+        "skshu-sftp": "latest",
+        "sksim": "latest",
+        "sksimapp-provider": "latest",
+        "sksk": "latest",
+        "sksksksk": "latest",
+        "skslingshotcli": "latest",
+        "skspyapa-demo": "latest",
+        "sksql": "latest",
+        "sksqlapi": "latest",
+        "sksqlcli": "latest",
+        "sksundram-lib-1": "latest",
+        "skswap-sdk": "latest"
+    }
+}

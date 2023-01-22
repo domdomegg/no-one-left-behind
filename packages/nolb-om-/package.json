@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-om-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "om-atv": "latest",
+        "om-auth": "latest",
+        "om-backoffice": "latest",
+        "om-cascader": "latest",
+        "om-cli": "latest",
+        "om-dropdown": "latest",
+        "om-email-invitation": "latest",
+        "om-helers": "latest",
+        "om-invitation": "latest",
+        "om-lib": "latest",
+        "om-lib1": "latest",
+        "om-mailer": "latest",
+        "om-my-storybook-example": "latest",
+        "om-nom": "latest",
+        "om-nomnom": "latest",
+        "om-perfect-scrollbar": "latest",
+        "om-product-card": "latest",
+        "om-service-mesh-client": "latest",
+        "om-shared-components": "latest",
+        "om-storybook-components": "latest",
+        "om-style": "latest",
+        "om-test1": "latest",
+        "om-webrtc": "latest",
+        "om-webrtc-backend": "latest",
+        "om-websocket-server": "latest"
+    }
+}

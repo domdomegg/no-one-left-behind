@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-libw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "libw": "latest",
+        "libw.panel": "latest",
+        "libwallet-mnz": "latest",
+        "libwally-a0": "latest",
+        "libwally-js": "latest",
+        "libwanghaojie": "latest",
+        "libwasm": "latest",
+        "libwasm_node": "latest",
+        "libweb": "latest",
+        "libwebp-wasm": "latest",
+        "libwebpjs": "latest",
+        "libwebrtc": "latest",
+        "libwebrtc-src": "latest",
+        "libwhj": "latest",
+        "libwly": "latest",
+        "libwmf": "latest",
+        "libwords": "latest",
+        "libworker": "latest",
+        "libwpkg": "latest",
+        "libws": "latest",
+        "libwss": "latest",
+        "libwx": "latest",
+        "libwxl": "latest"
+    }
+}

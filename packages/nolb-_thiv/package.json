@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_thiv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@thivmcthiv/hello-wasm": "latest",
+        "@thivmcthiv/tdcalc": "latest",
+        "@thivmcthiv/test": "latest",
+        "@thivmcthiv/wasm-game-of-life": "latest",
+        "@thivy/core": "latest",
+        "@thivy/tsconfig": "latest"
+    }
+}

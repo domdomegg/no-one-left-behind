@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-prw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "prw-npm": "latest",
+        "prw-vue-easy-uploader": "latest",
+        "prwd": "latest",
+        "prwm": "latest"
+    }
+}

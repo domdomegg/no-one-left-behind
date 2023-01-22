@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-fax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fax": "latest",
+        "fax-body": "latest",
+        "fax-downloader": "latest",
+        "fax-logger": "latest",
+        "fax-pipe": "latest",
+        "faxbank": "latest",
+        "faxchain-sdk": "latest",
+        "faxdb": "latest",
+        "faxel": "latest",
+        "faxi-image-editor": "latest",
+        "faxi-utils": "latest",
+        "faxian-tianfu-zhilv": "latest",
+        "faxios": "latest",
+        "faxios_bwxy": "latest",
+        "faxstg": "latest",
+        "faxswap-sdk": "latest",
+        "faxx": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-rests",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rests": "latest",
+        "rests-private": "latest",
+        "restser": "latest",
+        "restserver": "latest",
+        "restserver-api": "latest",
+        "restserver.jeffreykbacon": "latest",
+        "restsession": "latest",
+        "restshooter": "latest",
+        "restsims": "latest",
+        "restskill-cli": "latest",
+        "restson": "latest",
+        "restspec": "latest",
+        "restsql": "latest",
+        "reststate": "latest",
+        "reststore": "latest",
+        "reststrap": "latest",
+        "restsugar": "latest"
+    }
+}

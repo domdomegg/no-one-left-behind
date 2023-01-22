@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_hyph",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hypha-dao/hypha-token-sales-util": "latest",
+        "@hypha-dao/ppp-client-api": "latest",
+        "@hypha/is-running-in-vm": "latest",
+        "@hypha/web-compiler": "latest",
+        "@hyphendv/test-npm": "latest",
+        "@hyphev/below": "latest"
+    }
+}

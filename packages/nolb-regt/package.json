@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-regt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "regtech": "latest",
+        "regtest": "latest",
+        "regtest-client": "latest",
+        "regtest-html": "latest",
+        "regtester": "latest",
+        "regtime": "latest",
+        "regtool": "latest",
+        "regtool2001": "latest",
+        "regtracks": "latest"
+    }
+}

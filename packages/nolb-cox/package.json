@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-cox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cox": "latest",
+        "cox-chapi": "latest",
+        "cox-connector-elasticsearch": "latest",
+        "cox-connector-entity-table": "latest",
+        "cox-dynamic-dependencies-modules": "latest",
+        "cox-layer-bus": "latest",
+        "cox-layer-db2": "latest",
+        "cox-postposition": "latest",
+        "cox-timesheet": "latest",
+        "cox-tool": "latest",
+        "cox-ui": "latest",
+        "cox-vue-ui": "latest",
+        "coxdealervehiclesandy": "latest",
+        "coxinha": "latest",
+        "coxinhaazul": "latest",
+        "coxti-helpers": "latest"
+    }
+}

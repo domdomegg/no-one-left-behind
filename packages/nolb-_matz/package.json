@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_matz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@matzkoh/hello-sh1okoh": "latest",
+        "@matzkoh/node-gatling": "latest",
+        "@matzkoh/slack-app-mod": "latest",
+        "@matzkoh/slack-outgoing-textlint": "latest"
+    }
+}

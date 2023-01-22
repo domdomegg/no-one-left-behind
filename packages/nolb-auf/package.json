@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-auf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "auf": "latest",
+        "auf-offline": "latest",
+        "auf-utility-library": "latest",
+        "aufbau": "latest",
+        "aufbau-files": "latest",
+        "aufgabe3": "latest",
+        "aufteilung": "latest"
+    }
+}

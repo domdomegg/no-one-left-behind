@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-styla",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "styla": "latest",
+        "styla-loader": "latest",
+        "stylable": "latest",
+        "stylable-components": "latest",
+        "stylable-editor": "latest",
+        "stylable-editor-demo": "latest",
+        "stylable-helpers": "latest",
+        "stylable-integration": "latest",
+        "stylable-intelligence": "latest",
+        "stylable-intelligence-server": "latest",
+        "stylable-intelligence-service": "latest",
+        "stylable-loader": "latest",
+        "stylable-playground-recepies": "latest",
+        "stylable-react-component": "latest",
+        "stylable-runtime": "latest",
+        "stylable-santa": "latest",
+        "stylable-santa-flatten": "latest",
+        "stylable-scripts": "latest",
+        "stylable-select": "latest",
+        "stylable-webpack-plugin": "latest",
+        "stylament": "latest",
+        "styland": "latest",
+        "styland-ui": "latest",
+        "stylar": "latest",
+        "stylatx": "latest"
+    }
+}

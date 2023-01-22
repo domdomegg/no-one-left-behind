@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-sheb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shebang": "latest",
+        "shebang-check": "latest",
+        "shebang-command": "latest",
+        "shebang-file": "latest",
+        "shebang-it": "latest",
+        "shebang-loader": "latest",
+        "shebang-regex": "latest",
+        "shebang-server": "latest",
+        "shebang-trim": "latest",
+        "shebang2-loader": "latest",
+        "shebanger": "latest",
+        "shebangify": "latest",
+        "shebao-mobile-libs": "latest",
+        "sheben-test-1-1": "latest",
+        "shebi": "latest",
+        "shebin-frame-print": "latest"
+    }
+}

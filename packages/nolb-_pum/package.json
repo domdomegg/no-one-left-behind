@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_pum",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pumapay/merchant_sdk": "latest",
+        "@pumation/apollo-datasource-soap": "latest",
+        "@pumpedai/data-models": "latest",
+        "@pumpedsardines/data-mocker": "latest",
+        "@pumpkin_spice_cloud/lotide": "latest",
+        "@pumpn/babel-preset": "latest",
+        "@pumpn/css-declaration-sorter": "latest",
+        "@pumpn/cssnano": "latest",
+        "@pumpn/cssnano-preset-advanced": "latest",
+        "@pumpn/cssnano-preset-default": "latest",
+        "@pumpn/eslint-config": "latest",
+        "@pumpn/np-config": "latest",
+        "@pumpn/parcel-optimizer-prepend": "latest",
+        "@pumpn/postcss-discard-unused": "latest",
+        "@pumpn/postcss-merge-longhand": "latest",
+        "@pumpn/postcss-merge-rules": "latest",
+        "@pumpn/postcss-minify-selectors": "latest",
+        "@pumpn/postcss-unique-selectors": "latest",
+        "@pumpn/stylehacks": "latest",
+        "@pumpn/template": "latest",
+        "@pumpolymp/sdk": "latest",
+        "@pumpolymp/uikit": "latest",
+        "@pumych/filtering-sorting-service": "latest",
+        "@pumych/helpers": "latest",
+        "@pumych/npm-package-template": "latest"
+    }
+}

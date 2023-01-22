@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-fono",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fonoapi-nodejs": "latest",
+        "fonoapi-nodejs--arreglalo": "latest",
+        "fonolo": "latest",
+        "fonotelefoto": "latest",
+        "fonouc_release": "latest",
+        "fonova-cli": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-mys-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mys-angular": "latest",
+        "mys-cli": "latest",
+        "mys-common-tools": "latest",
+        "mys-react": "latest",
+        "mys-shan": "latest",
+        "mys-test": "latest",
+        "mys-tools": "latest",
+        "mys-translate": "latest",
+        "mys-vue": "latest"
+    }
+}

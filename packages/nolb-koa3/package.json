@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-koa3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "koa3-wechat": "latest",
+        "koa3-wechat-samicelus": "latest"
+    }
+}

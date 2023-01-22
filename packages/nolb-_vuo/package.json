@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_vuo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vuola/jupyterlab_apod": "latest",
+        "@vuolen/kirjasto-shared": "latest",
+        "@vuongle/angular-editor": "latest",
+        "@vuongtruong97nb/common": "latest",
+        "@vuongtruongnb/common": "latest",
+        "@vuongvs/ckeditor5-build-classic": "latest",
+        "@vuongvs/ckeditor5-media-embed": "latest",
+        "@vuoro/astro-renderer-rahti": "latest",
+        "@vuoro/haltia": "latest",
+        "@vuoro/rahti": "latest",
+        "@vuoro/rahti-webgl2": "latest",
+        "@vuoro/sahti": "latest",
+        "@vuoya/asdfe8rw9d8": "latest",
+        "@vuoz/core": "latest",
+        "@vuoz/kanvaz": "latest",
+        "@vuoz/theme": "latest",
+        "@vuoz/three": "latest"
+    }
+}

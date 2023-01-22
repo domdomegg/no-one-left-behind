@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-gruntf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gruntfile": "latest",
+        "gruntfile-api": "latest",
+        "gruntfile-convention-angular": "latest",
+        "gruntfile-convention-webapp": "latest",
+        "gruntfile-editor": "latest",
+        "gruntfile-editor-utils": "latest",
+        "gruntfile-gtx": "latest",
+        "gruntfile-js": "latest",
+        "gruntfile-utils": "latest",
+        "gruntfile-yaml": "latest",
+        "gruntfiles-mix": "latest"
+    }
+}

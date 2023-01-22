@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-passm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "passmake": "latest",
+        "passman": "latest",
+        "passman-cli": "latest",
+        "passman-cli-export": "latest",
+        "passmark-worker": "latest",
+        "passmarked": "latest",
+        "passmash": "latest",
+        "passme": "latest",
+        "passmen": "latest",
+        "passmeter": "latest",
+        "passmng": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_nodo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nodock/redbird": "latest",
+        "@nodon-tech/eslint-config": "latest",
+        "@nodon-tech/eslint-config-react": "latest",
+        "@nodopiano/confindustria-belluno-dolomiti-assets": "latest",
+        "@nodopiano/newsletter-plugin-fd": "latest",
+        "@nodopiano/pneustest": "latest",
+        "@nodosjs/application": "latest",
+        "@nodosjs/cli": "latest",
+        "@nodosjs/core": "latest",
+        "@nodosjs/create": "latest",
+        "@nodosjs/db": "latest",
+        "@nodosjs/db-extension": "latest",
+        "@nodosjs/db-objection-extension": "latest",
+        "@nodosjs/db-typeorm-extension": "latest",
+        "@nodosjs/generators": "latest",
+        "@nodosjs/generators-extension": "latest",
+        "@nodosjs/helpers": "latest",
+        "@nodosjs/jest-environment": "latest",
+        "@nodosjs/routing": "latest",
+        "@nodosjs/view-extension": "latest",
+        "@nodosjs/webpack-extension": "latest",
+        "@nodosjs/webpacker": "latest",
+        "@nodox/gatsby": "latest",
+        "@nodox/gatsby-cli": "latest"
+    }
+}

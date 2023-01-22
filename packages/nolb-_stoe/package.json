@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_stoe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stoe/action-permissions-cli": "latest",
+        "@stoe/action-reporting-cli": "latest",
+        "@stoe/action-uses-cli": "latest",
+        "@stoe/alfred-github-helper": "latest",
+        "@stoe/octoherd-dependabot-config": "latest",
+        "@stoe/octoherd-script-replace-node-ci": "latest",
+        "@stoe/octoherd-script-repo-settings": "latest",
+        "@stoe/octoherd-script-security-analysis": "latest",
+        "@stoe/octoherd-script-sync-labels": "latest",
+        "@stoe/octokit-plugin-org-activity": "latest",
+        "@stoe/uebersicht-calendar": "latest",
+        "@stoe/uebersicht-calendar-private": "latest",
+        "@stoe/uebersicht-github-contibutions": "latest",
+        "@stoe/uebersicht-nowplaying": "latest",
+        "@stoe/uebersicht-simpleclock": "latest",
+        "@stoe/uebersicht-vartastorage": "latest",
+        "@stoe/uebersicht-worldclock": "latest"
+    }
+}

@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-electron-1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "electron-15-pos-printer": "latest",
+        "electron-1min": "latest"
+    }
+}

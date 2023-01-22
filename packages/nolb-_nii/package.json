@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_nii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nii/date-stringifier": "latest",
+        "@nii/http": "latest",
+        "@nii/logger": "latest",
+        "@niieani/beemo-build-tools": "latest",
+        "@niieani/beemo-driver-vite": "latest",
+        "@niieani/scaffold": "latest",
+        "@niieani/scaffold-config-constants": "latest",
+        "@niifi/godzilla2-sdk": "latest",
+        "@niiio/react": "latest",
+        "@niik/ts-node": "latest",
+        "@niik/tslint-microsoft-contrib": "latest",
+        "@niiko/discord.js": "latest",
+        "@niiko/easy-database": "latest",
+        "@niilo.keinanen/test-ts-library": "latest",
+        "@niimutickets/common": "latest",
+        "@niina/datestamp": "latest",
+        "@niishant/lion-lib-n-9": "latest",
+        "@niitsolutions/kru": "latest",
+        "@niivue/niimath-js": "latest",
+        "@niivue/niivue": "latest",
+        "@niiwin/core": "latest"
+    }
+}

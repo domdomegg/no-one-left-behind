@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-roe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "roe": "latest",
+        "roe-define-router": "latest",
+        "roe-mock": "latest",
+        "roe-plugin-apollo-env": "latest",
+        "roe-plugin-env": "latest",
+        "roe-plugin-resolve-alias": "latest",
+        "roe-scripts": "latest",
+        "roebrooks-resume": "latest",
+        "roeitest": "latest",
+        "roel": "latest",
+        "roentgen": "latest",
+        "roera": "latest",
+        "roerich": "latest",
+        "roeshambo": "latest",
+        "roet": "latest"
+    }
+}

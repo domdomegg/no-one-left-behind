@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_datx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datx/core": "latest",
+        "@datx/jsonapi": "latest",
+        "@datx/jsonapi-angular": "latest",
+        "@datx/network": "latest",
+        "@datx/schema": "latest",
+        "@datx/swr": "latest",
+        "@datx/utils": "latest"
+    }
+}

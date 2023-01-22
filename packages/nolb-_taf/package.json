@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_taf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tafalk/material-color-generator": "latest",
+        "@tafelnl/capacitor-docgen": "latest",
+        "@tafelnl/graphql-fields-list": "latest",
+        "@tafelnl/vue-virtual-scroller": "latest",
+        "@taff.io/core": "latest",
+        "@taff.io/lit-platform-dashboard": "latest",
+        "@taff.io/platform-desktop": "latest",
+        "@tafil/express-node-starter": "latest",
+        "@tafina/dualfm2": "latest",
+        "@taftsound/carousel": "latest",
+        "@taftsound/menu": "latest"
+    }
+}

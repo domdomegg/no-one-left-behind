@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_ecs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ecs-gmbh/service-angular": "latest",
+        "@ecs-gmbh/service-api": "latest",
+        "@ecs-gmbh/service-auth0-ng": "latest",
+        "@ecs-gmbh/service-auth0-plugin": "latest",
+        "@ecs-gmbh/service-basic": "latest",
+        "@ecs-gmbh/service-keycloak-plugin": "latest",
+        "@ecs-gmbh/service-msal-ng": "latest",
+        "@ecs-gmbh/service-msal-plugin": "latest",
+        "@ecstrema/eslint-config": "latest"
+    }
+}

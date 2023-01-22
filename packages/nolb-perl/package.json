@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-perl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "perl": "latest",
+        "perl-dbi": "latest",
+        "perl-exiftool": "latest",
+        "perl-express": "latest",
+        "perl-regex": "latest",
+        "perl-regexp": "latest",
+        "perl6-parcel-experiment": "latest",
+        "perl6-pod": "latest",
+        "perl6-runtime": "latest",
+        "perlas-init": "latest",
+        "perle": "latest",
+        "perlhacks": "latest",
+        "perli": "latest",
+        "perlin": "latest",
+        "perlin-fp": "latest",
+        "perlin-noise": "latest",
+        "perlin-noise-3d": "latest",
+        "perlin-simplex": "latest",
+        "perlin.js": "latest",
+        "perlink-lib": "latest",
+        "perlis": "latest",
+        "perlite": "latest",
+        "perljs": "latest",
+        "perlmud": "latest",
+        "perlnavigator-server": "latest",
+        "perlocat": "latest",
+        "perloin": "latest",
+        "perls": "latest"
+    }
+}

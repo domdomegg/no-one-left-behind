@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-s-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-s-alert": "latest",
+        "react-s-alert-khardenstine": "latest",
+        "react-s-alert-v3": "latest",
+        "react-s-carousel": "latest",
+        "react-s-i18n": "latest",
+        "react-s-listview": "latest",
+        "react-s-scrollable-tab-view": "latest"
+    }
+}

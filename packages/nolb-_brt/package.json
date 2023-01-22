@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_brt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@brtcboard/brtcboard": "latest",
+        "@brtcboard/wb1": "latest",
+        "@brtcboard/wb2": "latest",
+        "@brtcboard/wb3": "latest",
+        "@brtheo/darkmode-switcher": "latest",
+        "@brtickets/common": "latest",
+        "@brtnetwork/brt-address-codec": "latest",
+        "@brtnetwork/brt-binary-codec": "latest",
+        "@brtnetwork/brt-keypairs": "latest",
+        "@brtnetwork/brt-lib-transactionparser": "latest",
+        "@brtzl/gh_env_importer": "latest"
+    }
+}

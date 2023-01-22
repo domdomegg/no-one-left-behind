@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_fiu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fiug/handlebars-esm": "latest",
+        "@fiug/layout": "latest",
+        "@fiusdevelopment/discord-js-utils": "latest",
+        "@fiusdevelopment/dwnld": "latest",
+        "@fiusdevelopment/files": "latest",
+        "@fiusdevelopment/map.db": "latest",
+        "@fiusdevelopment/mapdir": "latest",
+        "@fiusdevelopment/mkdir": "latest",
+        "@fiusdevelopment/net": "latest",
+        "@fiusdevelopment/readline": "latest",
+        "@fiusdevelopment/rmdir": "latest",
+        "@fiusdevelopment/std": "latest",
+        "@fiuzagr/boot": "latest"
+    }
+}

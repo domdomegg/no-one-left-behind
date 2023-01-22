@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-u_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "u.": "latest",
+        "u.js": "latest",
+        "u.nu": "latest",
+        "u_antd_fe": "latest",
+        "u_dongdong_cal": "latest",
+        "u_egg_db_base": "latest",
+        "u_egg_web_base": "latest",
+        "u_package": "latest",
+        "u_webant": "latest",
+        "u_webant_base": "latest"
+    }
+}

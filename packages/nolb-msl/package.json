@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-msl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "msl": "latest",
+        "msl-client": "latest",
+        "msl-server": "latest",
+        "msl-slackify": "latest",
+        "msl-utils": "latest",
+        "msl-vue-plugins-msg": "latest",
+        "mslapi-js-sdk": "latest",
+        "msleep": "latest",
+        "msleep-promise": "latest",
+        "mslibmod": "latest",
+        "mslibrary": "latest",
+        "mslide": "latest",
+        "mslinq": "latest",
+        "msloader": "latest",
+        "mslobodan_cordova-plugin-firebase-dynamiclinks": "latest",
+        "mslobodan_phonegap-plugin-push": "latest",
+        "mslog4js": "latest",
+        "mslope-opencascadejs": "latest",
+        "mslope-solver": "latest",
+        "mslpsapi": "latest"
+    }
+}

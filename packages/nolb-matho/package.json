@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-matho",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "matho": "latest",
+        "mathoid": "latest",
+        "mathoid-mathjax": "latest",
+        "mathoid-mathjax-node": "latest",
+        "mathoid-texvcjs": "latest",
+        "mathop": "latest",
+        "mathop-lib-package": "latest",
+        "mathop-simplify": "latest",
+        "mathoper": "latest",
+        "mathoperation263": "latest",
+        "mathoperations_korobi": "latest",
+        "mathoperators": "latest",
+        "mathops": "latest",
+        "mathopt": "latest",
+        "mathopt1": "latest",
+        "mathopts": "latest",
+        "mathost-node": "latest"
+    }
+}

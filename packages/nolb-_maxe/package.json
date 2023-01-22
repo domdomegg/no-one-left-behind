@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_maxe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@maxedwards/ensure-folder": "latest",
+        "@maxedwards/fox": "latest",
+        "@maxedwards/protolibs": "latest",
+        "@maxedwards/quikpages": "latest",
+        "@maxedwards/stopwatch": "latest",
+        "@maxelite1520/nx-python": "latest",
+        "@maxemiliang/tailpress-theme": "latest",
+        "@maxen/sdk-js": "latest",
+        "@maxence24/front-app": "latest",
+        "@maxencec/libra-grpc": "latest",
+        "@maxencemottard/file-server-module": "latest",
+        "@maxencemottard/web-assets": "latest",
+        "@maxencemottard/webpack-react": "latest",
+        "@maxencemottard/webpack-wordpress": "latest",
+        "@maxerbox/eslint-plugin-diff": "latest",
+        "@maxerbox/gridsome-source-netlify-cms": "latest",
+        "@maxerbox/netlify-cms": "latest",
+        "@maxevan9/react-useformstate": "latest",
+        "@maxevol1/common": "latest"
+    }
+}

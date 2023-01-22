@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-vite-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vite-javascript-webflow": "latest",
+        "vite-jest": "latest",
+        "vite-jjblau-cpn": "latest",
+        "vite-joyy": "latest",
+        "vite-joyyued": "latest",
+        "vite-jsconfig-paths": "latest",
+        "vite-jsx": "latest",
+        "vite-jump-code": "latest"
+    }
+}

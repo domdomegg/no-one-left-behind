@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-tiny-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tiny-qing": "latest",
+        "tiny-qiniu": "latest",
+        "tiny-qiniu-request": "latest",
+        "tiny-qr": "latest",
+        "tiny-qrcode": "latest",
+        "tiny-qs": "latest",
+        "tiny-query": "latest",
+        "tiny-query-string": "latest",
+        "tiny-querystring": "latest",
+        "tiny-queue": "latest",
+        "tiny-queue-task": "latest"
+    }
+}

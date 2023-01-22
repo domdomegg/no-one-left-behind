@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-quz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "quz": "latest",
+        "quzsc-linux-shell": "latest",
+        "quzsc-sms-email": "latest",
+        "quzsc-web-base": "latest",
+        "quzsc-web-static": "latest"
+    }
+}

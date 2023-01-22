@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-alr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "alr": "latest",
+        "alr-eslint-config": "latest",
+        "alr-frame-print": "latest",
+        "alr-stylus": "latest",
+        "alr-wpc": "latest",
+        "already": "latest",
+        "already-styled-components": "latest",
+        "alrend-frame-print": "latest",
+        "alright": "latest",
+        "alright-hoodiecrow": "latest",
+        "alright-myserver": "latest",
+        "alright-react-app": "latest",
+        "alright-ui": "latest",
+        "alright-ui-plus": "latest",
+        "alrighty": "latest",
+        "alrighty-snippets": "latest",
+        "alro": "latest",
+        "alrt-cli": "latest"
+    }
+}

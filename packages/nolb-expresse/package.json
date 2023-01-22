@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-expresse",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "expresse": "latest",
+        "expressed": "latest",
+        "expressed-gen": "latest",
+        "expressel": "latest",
+        "expressemitter": "latest",
+        "expresser": "latest",
+        "expresser-aws": "latest",
+        "expresser-boilerplate": "latest",
+        "expresser-cloud-settings": "latest",
+        "expresser-cron": "latest",
+        "expresser-database-mongo": "latest",
+        "expresser-database-mongodb": "latest",
+        "expresser-database-tingodb": "latest",
+        "expresser-downloader": "latest",
+        "expresser-firewall": "latest",
+        "expresser-gcloud": "latest",
+        "expresser-imaging": "latest",
+        "expresser-legacy": "latest",
+        "expresser-logger-file": "latest",
+        "expresser-logger-logentries": "latest",
+        "expresser-logger-loggly": "latest",
+        "expresser-mailer": "latest",
+        "expresser-metrics": "latest",
+        "expresser-mongodb": "latest",
+        "expresser-paas": "latest",
+        "expresser-sockets": "latest",
+        "expresser-swagger": "latest"
+    }
+}

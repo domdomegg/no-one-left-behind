@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_ze-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ze-real-one/dbm": "latest",
+        "@ze-real-one/jsonsaver": "latest",
+        "@ze-real-one/wumpusjs": "latest",
+        "@ze-ui/vue-click-outside": "latest",
+        "@ze-us/kafka": "latest",
+        "@ze-us/log": "latest",
+        "@ze-us/proxy": "latest"
+    }
+}

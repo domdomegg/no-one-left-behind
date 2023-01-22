@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-appk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "appkernel-injection": "latest",
+        "appkey": "latest",
+        "appkeys": "latest",
+        "appkit": "latest",
+        "appkit-cli": "latest",
+        "appkit-digispace": "latest",
+        "appkit-terminal": "latest",
+        "appkit4": "latest",
+        "appkitjs": "latest",
+        "appklaarstory": "latest",
+        "appknit-backend-bundle": "latest",
+        "appknit-platform-sdk": "latest",
+        "appknit-platform-sdk-v2": "latest",
+        "appkoper": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_asv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@asvate/centrifuge": "latest",
+        "@asvate/nextjs-layer-manager": "latest",
+        "@asvate/nuxt-comet-client": "latest",
+        "@asvate/nuxt-layer-manager": "latest",
+        "@asvetliakov/babel-plugin-proposal-decorators": "latest",
+        "@asvetliakov/styled-components": "latest",
+        "@asvetliakov/stylelint-processor-styled-components": "latest",
+        "@asvny/test-package": "latest",
+        "@asvtickets/common": "latest"
+    }
+}

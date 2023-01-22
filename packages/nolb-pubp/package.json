@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-pubp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pubpack-calcdoc": "latest",
+        "pubpack-ms": "latest",
+        "pubperz": "latest",
+        "pubpractices": "latest",
+        "pubpub": "latest",
+        "pubpubmingming": "latest"
+    }
+}

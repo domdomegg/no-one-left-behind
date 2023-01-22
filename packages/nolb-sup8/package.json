@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-sup8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sup8-button": "latest",
+        "sup8-h5plus": "latest",
+        "sup8-h5plus-sdk": "latest",
+        "sup8-text": "latest"
+    }
+}

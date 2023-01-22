@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-rnw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rnw": "latest",
+        "rnw-bs": "latest",
+        "rnw-bundler": "latest",
+        "rnw-cli": "latest",
+        "rnw-comp-test": "latest",
+        "rnw-components": "latest",
+        "rnw-dropzone": "latest",
+        "rnw-layout": "latest",
+        "rnw-parser": "latest",
+        "rnw-strap": "latest",
+        "rnw-swiper": "latest",
+        "rnw-tailwind": "latest",
+        "rnw-ui-components": "latest",
+        "rnw-wpf-test": "latest",
+        "rnwallpaper": "latest",
+        "rnwarm": "latest",
+        "rnwasmtest": "latest",
+        "rnwc": "latest",
+        "rnweb-test-component": "latest",
+        "rnwebviewbackforward": "latest",
+        "rnwebviewsit": "latest",
+        "rnwechat": "latest"
+    }
+}

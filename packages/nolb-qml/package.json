@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-qml",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qml": "latest",
+        "qml-browserify": "latest",
+        "qml-hello": "latest",
+        "qml-images-rectangle-json-loader": "latest",
+        "qml-loader": "latest",
+        "qml-node": "latest",
+        "qml-polyfill": "latest",
+        "qml-raub": "latest",
+        "qml-react": "latest",
+        "qml-renderer": "latest",
+        "qml-webpack-loader": "latest",
+        "qmlcore": "latest",
+        "qmlify": "latest",
+        "qmlive-fis-resource": "latest",
+        "qmlive-nunjucks-ext": "latest",
+        "qmlive-view-nunjucks": "latest",
+        "qmlpragmalibrary-webpack-plugin": "latest",
+        "qmlstructure": "latest",
+        "qmlweb": "latest",
+        "qmlweb-parser": "latest",
+        "qmlweb-server": "latest",
+        "qmlweb-viewer": "latest"
+    }
+}

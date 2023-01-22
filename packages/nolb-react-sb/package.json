@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-react-sb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-sb-components": "latest",
+        "react-sb3": "latest",
+        "react-sberbank-ipay": "latest",
+        "react-sbnavleft-pickupbiz": "latest",
+        "react-sbox": "latest",
+        "react-sbs": "latest"
+    }
+}

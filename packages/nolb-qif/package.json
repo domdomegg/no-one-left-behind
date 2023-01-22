@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-qif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qif": "latest",
+        "qif-writer": "latest",
+        "qif2json": "latest",
+        "qifa-react-cli": "latest",
+        "qifei": "latest",
+        "qifei-qidong-nifengcunde-nengliang": "latest",
+        "qifei-ui": "latest",
+        "qifei_111": "latest",
+        "qifengteng_utils": "latest"
+    }
+}

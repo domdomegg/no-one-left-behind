@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-tarb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tarbackup": "latest",
+        "tarball": "latest",
+        "tarball-extract": "latest",
+        "tarball-extract-improve": "latest",
+        "tarball-extract-t2": "latest",
+        "tarball-helper": "latest",
+        "tarball-host-test": "latest",
+        "tarball-unpacker": "latest",
+        "tarball-url-info": "latest",
+        "tarball_test": "latest",
+        "tarball_test_btn": "latest",
+        "tarballer": "latest",
+        "tarballify": "latest",
+        "tarballs-cli": "latest",
+        "tarbeam": "latest",
+        "tarble": "latest"
+    }
+}

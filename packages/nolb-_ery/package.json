@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_ery",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@erye/create-vaf": "latest",
+        "@erye/vaf": "latest",
+        "@erye/wds-mocker": "latest",
+        "@erykov9/randomid-generator": "latest",
+        "@eryue/injector": "latest",
+        "@eryue/jasypt": "latest",
+        "@eryue/koa-router-mapping": "latest",
+        "@eryue/utils": "latest",
+        "@eryx6/dfk-hero-viewer-testing": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-netr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "netrad_hl7": "latest",
+        "netrad_hl7parser": "latest",
+        "netradhl7_parser": "latest",
+        "netrange": "latest",
+        "netrat": "latest",
+        "netrc": "latest",
+        "netrc-cli": "latest",
+        "netrc-parser": "latest",
+        "netrc-reader": "latest",
+        "netrc-rw": "latest",
+        "netrc2": "latest",
+        "netredis": "latest",
+        "netref-sol": "latest",
+        "netrefvote": "latest",
+        "netresult-contacts": "latest",
+        "netrisse": "latest",
+        "netrix": "latest",
+        "netrol": "latest",
+        "netrol-cli": "latest",
+        "netron": "latest",
+        "netrosa-admin-sdk": "latest",
+        "netrosa-cli": "latest",
+        "netrosa-public-sdk": "latest",
+        "netroute": "latest",
+        "netrstatus": "latest",
+        "netrunner-api-playground": "latest",
+        "netrunr-gapi": "latest",
+        "netrunr-gapi-async": "latest"
+    }
+}

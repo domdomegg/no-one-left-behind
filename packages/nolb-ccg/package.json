@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-ccg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ccg": "latest",
+        "ccg-burypoints": "latest",
+        "ccg-card-generator": "latest",
+        "ccg-cli": "latest",
+        "ccg-io": "latest",
+        "ccg-vue-tools": "latest",
+        "ccgallegoplatzom1": "latest",
+        "ccgbuilder": "latest",
+        "ccgdialog": "latest",
+        "ccgen": "latest",
+        "ccgg": "latest",
+        "ccgg201901": "latest",
+        "ccgis": "latest",
+        "ccgjs": "latest",
+        "ccgnontt": "latest",
+        "ccgtm": "latest",
+        "ccgui": "latest"
+    }
+}

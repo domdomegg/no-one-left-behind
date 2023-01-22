@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-react-native-ce",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-cecharts": "latest",
+        "react-native-cedar-maps-autocomplete": "latest",
+        "react-native-ceiling": "latest",
+        "react-native-cell": "latest",
+        "react-native-cell-components": "latest",
+        "react-native-cellrebelsdk": "latest",
+        "react-native-cellular": "latest",
+        "react-native-cellular-info": "latest",
+        "react-native-celo-blockchain": "latest",
+        "react-native-censored": "latest",
+        "react-native-center-content-view": "latest",
+        "react-native-centerm-sdk": "latest",
+        "react-native-cert-ntp": "latest",
+        "react-native-cert-pinner": "latest",
+        "react-native-cert-pinner-wfo": "latest",
+        "react-native-cert-pinning": "latest",
+        "react-native-certificate": "latest",
+        "react-native-certificate-check": "latest"
+    }
+}

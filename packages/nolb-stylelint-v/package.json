@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-stylelint-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylelint-value-border-zero": "latest",
+        "stylelint-value-list-box-shadow-inset-first": "latest",
+        "stylelint-value-no-exposed-custom-properties": "latest",
+        "stylelint-value-no-numeric-constants": "latest",
+        "stylelint-value-no-padding-auto": "latest",
+        "stylelint-value-no-unknown-custom-properties": "latest",
+        "stylelint-value-shorthand": "latest",
+        "stylelint-variables": "latest",
+        "stylelint-vars-check": "latest",
+        "stylelint-vnmf-rn": "latest",
+        "stylelint-vscode": "latest"
+    }
+}

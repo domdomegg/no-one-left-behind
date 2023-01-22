@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_microe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@microeinhundert/radonis": "latest",
+        "@microeinhundert/radonis-build": "latest",
+        "@microeinhundert/radonis-form": "latest",
+        "@microeinhundert/radonis-hooks": "latest",
+        "@microeinhundert/radonis-hydrate": "latest",
+        "@microeinhundert/radonis-manifest": "latest",
+        "@microeinhundert/radonis-query": "latest",
+        "@microeinhundert/radonis-server": "latest",
+        "@microeinhundert/radonis-shared": "latest",
+        "@microeinhundert/radonis-twind": "latest",
+        "@microeinhundert/radonis-types": "latest",
+        "@microeinhundert/radonis-unocss": "latest",
+        "@microenv/jira-cli": "latest",
+        "@microexcel-csd/nativescript-create-pdf": "latest",
+        "@microexcel-csd/nativescript-hide-action-bar": "latest"
+    }
+}

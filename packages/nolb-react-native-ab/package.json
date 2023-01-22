@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-react-native-ab",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-ab": "latest",
+        "react-native-ab-fixed": "latest",
+        "react-native-ab-hoc": "latest",
+        "react-native-ab-test": "latest",
+        "react-native-abal-scanner-sdk": "latest",
+        "react-native-abbyy-mobile-capture": "latest",
+        "react-native-abbyy-mobile-capture-sample-core-api": "latest",
+        "react-native-abbyy-mobile-capture-sample-ui-imagecapture": "latest",
+        "react-native-abcd": "latest",
+        "react-native-abi-detector": "latest",
+        "react-native-ableton-link": "latest",
+        "react-native-abmb-styles": "latest",
+        "react-native-about-libraries": "latest",
+        "react-native-above-keyboard": "latest",
+        "react-native-absolute": "latest",
+        "react-native-absolute-imports": "latest"
+    }
+}

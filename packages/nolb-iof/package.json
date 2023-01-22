@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-iof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "iof": "latest",
+        "iof-xml-coords": "latest",
+        "iof-xml-parser": "latest",
+        "iofastt": "latest",
+        "ioffline": "latest",
+        "iofod-cli": "latest",
+        "iofod-sdk": "latest",
+        "iofogcontroller": "latest",
+        "iofs": "latest"
+    }
+}

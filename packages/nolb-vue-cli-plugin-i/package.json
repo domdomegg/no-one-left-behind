@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-vue-cli-plugin-i",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cli-plugin-i18n": "latest",
+        "vue-cli-plugin-ice-builder": "latest",
+        "vue-cli-plugin-icity": "latest",
+        "vue-cli-plugin-icon-svg": "latest",
+        "vue-cli-plugin-iframe": "latest",
+        "vue-cli-plugin-import-components": "latest",
+        "vue-cli-plugin-infinite": "latest",
+        "vue-cli-plugin-init": "latest",
+        "vue-cli-plugin-initial": "latest",
+        "vue-cli-plugin-initialize": "latest",
+        "vue-cli-plugin-inject-alias": "latest",
+        "vue-cli-plugin-innotree-template": "latest",
+        "vue-cli-plugin-innotree-tpl": "latest",
+        "vue-cli-plugin-intelli-ui": "latest",
+        "vue-cli-plugin-intro": "latest",
+        "vue-cli-plugin-ionic": "latest",
+        "vue-cli-plugin-iotechpis": "latest",
+        "vue-cli-plugin-iotechpis-buefy": "latest",
+        "vue-cli-plugin-istrong": "latest",
+        "vue-cli-plugin-istrong-publish": "latest",
+        "vue-cli-plugin-istrong-ui-addon": "latest",
+        "vue-cli-plugin-itv-html": "latest",
+        "vue-cli-plugin-iview": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-element2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "element2": "latest",
+        "element2-v-dlc": "latest",
+        "element2-virtual-dlc": "latest",
+        "element2-virtualized-dlc": "latest",
+        "element2canvas": "latest",
+        "element2file": "latest",
+        "element2image": "latest"
+    }
+}

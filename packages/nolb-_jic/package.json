@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_jic",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jichaoli/account-lib": "latest",
+        "@jichaoli/statics": "latest",
+        "@jichoup/ds": "latest",
+        "@jichoup/init": "latest",
+        "@jicking/jicking": "latest",
+        "@jict/babel-preset": "latest",
+        "@jict/browserslist-config": "latest",
+        "@jict/eslint-plugin": "latest",
+        "@jict/prettier-config": "latest",
+        "@jict/stylelint-plugin": "latest",
+        "@jict/typescript-configs": "latest"
+    }
+}

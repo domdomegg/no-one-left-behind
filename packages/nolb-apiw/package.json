@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-apiw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "apiwatermark": "latest",
+        "apiway": "latest",
+        "apiway-cli": "latest",
+        "apiway-fast": "latest",
+        "apiway-report": "latest",
+        "apiway-report-generator": "latest",
+        "apiwee": "latest",
+        "apiwhatever": "latest",
+        "apiwithyargs": "latest",
+        "apiworks": "latest",
+        "apiworks-examples-basic": "latest",
+        "apiwrapper": "latest",
+        "apiwrappers.js": "latest",
+        "apiwx": "latest"
+    }
+}

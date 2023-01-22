@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_f3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@f360/print": "latest",
+        "@f360/printing": "latest",
+        "@f3dorish/react-native-map-clustering": "latest",
+        "@f3n67u/d3-flame-graph": "latest",
+        "@f3rno/eslint-config": "latest",
+        "@f3rno/markdown-it-wikilinks": "latest",
+        "@f3rno64/dotfiles": "latest",
+        "@f3rno64/git-pm": "latest",
+        "@f3rno64/lib": "latest",
+        "@f3rno64/xf-bash-lib": "latest"
+    }
+}

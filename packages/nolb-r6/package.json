@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-r6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "r6": "latest",
+        "r6-api-caching": "latest",
+        "r6-discord": "latest",
+        "r6-vue-nocli": "latest",
+        "r6api.js": "latest",
+        "r6api.squads": "latest",
+        "r6e": "latest",
+        "r6helper": "latest",
+        "r6k": "latest",
+        "r6nted.db": "latest",
+        "r6operators": "latest",
+        "r6rs": "latest",
+        "r6rs-async-io": "latest",
+        "r6rs-async-io-cron": "latest",
+        "r6rs-async-io-node-notifier": "latest",
+        "r6rs-async-io-process": "latest",
+        "r6rs-async-io-remote": "latest",
+        "r6rs-async-io-wiring-pi": "latest",
+        "r6s": "latest",
+        "r6s-api": "latest",
+        "r6s-stats-api": "latest",
+        "r6stats": "latest",
+        "r6stats-ui": "latest",
+        "r6statsapi": "latest"
+    }
+}

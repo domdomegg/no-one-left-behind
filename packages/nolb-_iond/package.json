@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_iond",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@iondrive/config": "latest",
+        "@iondrive/logger": "latest",
+        "@iondrive/supertest": "latest",
+        "@iondrive/validation-middleware": "latest",
+        "@iondv/grape-iondv-studio": "latest",
+        "@iondv/grape-table": "latest"
+    }
+}

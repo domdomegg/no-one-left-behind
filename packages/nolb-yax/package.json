@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-yax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yax": "latest",
+        "yax-pdf-viewer": "latest",
+        "yax-router": "latest",
+        "yaxh": "latest",
+        "yaxhtest": "latest",
+        "yaxi": "latest",
+        "yaxi-cli": "latest",
+        "yaximi-tools": "latest",
+        "yaxin-build-cli": "latest",
+        "yaxis": "latest",
+        "yaxis-transformer": "latest",
+        "yaxon": "latest",
+        "yaxon-include": "latest",
+        "yaxon-loader": "latest",
+        "yaxseh": "latest",
+        "yaxshi": "latest",
+        "yaxy": "latest"
+    }
+}

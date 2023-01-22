@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-sw_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sw.js": "latest",
+        "sw_all_plug": "latest",
+        "sw_local_cache": "latest",
+        "sw_my-plug": "latest",
+        "sw_my-plug-rules": "latest",
+        "sw_react_plug": "latest",
+        "sw_react_plugs_instruction": "latest",
+        "sw_surge": "latest",
+        "sw_swar": "latest",
+        "sw_syk": "latest",
+        "sw_vue_plugs_instruction": "latest"
+    }
+}

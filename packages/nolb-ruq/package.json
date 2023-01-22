@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-ruq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ruq": "latest",
+        "ruqi-ele": "latest",
+        "ruqi_endecrypt": "latest",
+        "ruqqus-js": "latest",
+        "ruqqus-plus-shared": "latest",
+        "ruqqus2discord": "latest"
+    }
+}

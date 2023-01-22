@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-frou",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "froum": "latest",
+        "fround": "latest",
+        "frourio": "latest",
+        "frourio-express": "latest",
+        "frourio-fastify": "latest",
+        "frourio-unofficial-h3": "latest",
+        "frout": "latest",
+        "froute": "latest",
+        "froute-picker": "latest",
+        "frouter": "latest"
+    }
+}

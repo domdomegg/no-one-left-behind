@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-localb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "localbase": "latest",
+        "localbased": "latest",
+        "localbasestorage": "latest",
+        "localbitcoin-client": "latest",
+        "localbitcoin-node-v2": "latest",
+        "localbitcoins": "latest",
+        "localbitcoins-api": "latest",
+        "localbitcoins-api-promise": "latest",
+        "localbitcoins-changes-nodejs": "latest",
+        "localbitcoins-client": "latest",
+        "localbitcoins-lib": "latest",
+        "localbitcoins-node": "latest",
+        "localbitcoins_nodejs": "latest",
+        "localbitratehelper": "latest",
+        "localbridge": "latest"
+    }
+}

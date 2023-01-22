@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-ipe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ipeb": "latest",
+        "ipedal": "latest",
+        "ipeek": "latest",
+        "ipeesee": "latest",
+        "ipek-elstr-jslib": "latest",
+        "ipems": "latest",
+        "ipeng-watermark": "latest",
+        "iper": "latest",
+        "iper-nedb": "latest",
+        "iperlink_api": "latest",
+        "iperlink_app_comp": "latest",
+        "iperlink_front_react_components": "latest",
+        "iperlink_mongo_init": "latest",
+        "iperlink_personal_tags": "latest",
+        "iperlink_random": "latest",
+        "ipermit": "latest",
+        "iperon": "latest",
+        "ipetrov22-hydraweb3-js": "latest",
+        "ipevents": "latest",
+        "ipevt": "latest"
+    }
+}

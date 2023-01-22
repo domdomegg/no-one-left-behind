@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-ra3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ra3-corona-development-website-static-backup": "latest",
+        "ra3-language-portuguese": "latest"
+    }
+}

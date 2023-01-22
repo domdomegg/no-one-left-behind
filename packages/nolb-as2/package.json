@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-as2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "as2-dust": "latest",
+        "as2-validate": "latest",
+        "as24-autocomplete": "latest",
+        "as24-optimizely-fragment": "latest",
+        "as26": "latest",
+        "as2d": "latest",
+        "as2dts": "latest",
+        "as2network-rpc-playground": "latest",
+        "as2ts": "latest",
+        "as2ts-cli": "latest",
+        "as2ts-smart": "latest",
+        "as2wasm": "latest"
+    }
+}

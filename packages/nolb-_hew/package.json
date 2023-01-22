@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_hew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hew-bot/hubot": "latest",
+        "@hew-bot/hubot-calculator": "latest",
+        "@hew-bot/hubot-custom-scripts": "latest",
+        "@hew-bot/hubot-go-rules": "latest",
+        "@hewaller/markey-utils": "latest",
+        "@hewei0000/element-ui-aaa": "latest",
+        "@heweiwen/my-utils": "latest",
+        "@heweiwen/my-utilsm": "latest",
+        "@hewes/eslint-config": "latest",
+        "@hewes/et": "latest",
+        "@hewes/react-json": "latest",
+        "@hewes/redux-form-byschema": "latest",
+        "@hewes/shortcode": "latest",
+        "@hewes/storybook-addon-docs-graymatter": "latest",
+        "@hewfuikhien.com/sql-escape": "latest",
+        "@hewfuikhien.com/units-converter": "latest",
+        "@hewmen/passport-twitch": "latest",
+        "@hewmen/serverless-plugin-typescript": "latest",
+        "@heww/nuxt": "latest",
+        "@heww/nuxt-modules": "latest"
+    }
+}

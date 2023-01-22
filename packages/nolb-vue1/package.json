@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-vue1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue1": "latest",
+        "vue1-at": "latest",
+        "vue1-b-tooltip": "latest",
+        "vue1-baidu-map": "latest",
+        "vue1-component-library": "latest",
+        "vue1-countdown": "latest",
+        "vue1-html5-editor": "latest",
+        "vue1-loader": "latest",
+        "vue1-picker": "latest",
+        "vue1-vee-validate": "latest",
+        "vue1-webpack4-compatible-loader": "latest",
+        "vue1.x-ace-editor": "latest",
+        "vue10-cli": "latest",
+        "vue11-cli": "latest",
+        "vue1122": "latest",
+        "vue12": "latest",
+        "vue12-cli": "latest",
+        "vue13-cli": "latest",
+        "vue14-cli": "latest",
+        "vue15-cli": "latest",
+        "vue1ify": "latest",
+        "vue1jkc": "latest"
+    }
+}

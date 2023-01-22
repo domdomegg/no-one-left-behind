@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-usc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "usc": "latest",
+        "usc-frame-message": "latest",
+        "usc-player": "latest",
+        "usc-rtc-sdk": "latest",
+        "usc-sj1": "latest",
+        "usc-video-player": "latest",
+        "uscaffolding": "latest",
+        "uscalt-react-native": "latest",
+        "uscc": "latest",
+        "uscc-utils": "latest",
+        "uscf-scraper": "latest",
+        "uschat-electron-websdk": "latest",
+        "uscis": "latest",
+        "uscis-service-center-processing-times": "latest",
+        "uscore-pubsub": "latest",
+        "uscp": "latest",
+        "uscpi-one-adapter": "latest",
+        "uscript-build": "latest",
+        "uscript-cli": "latest",
+        "uscript-shared": "latest",
+        "uscript-utils": "latest",
+        "uscroll": "latest",
+        "uscs": "latest"
+    }
+}

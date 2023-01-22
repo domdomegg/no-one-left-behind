@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_am9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@am92/api-crypto": "latest",
+        "@am92/api-logger": "latest",
+        "@am92/aws-pinpoint": "latest",
+        "@am92/express-utils": "latest",
+        "@am92/jose-crypto": "latest",
+        "@am92/jose-crypto-subtle": "latest",
+        "@am92/kms": "latest",
+        "@am92/mongo-odm": "latest",
+        "@am92/node-http": "latest",
+        "@am92/otp": "latest",
+        "@am92/redis": "latest",
+        "@am92/web-http": "latest",
+        "@am92/xml-utils": "latest"
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_dry",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dry-express-responses/core": "latest",
+        "@dry-express-responses/errors": "latest",
+        "@dry-express-responses/types": "latest",
+        "@dry-express-responses/yup": "latest",
+        "@dry-express-responses/zod": "latest",
+        "@dry-express-responses/zod-request-validation": "latest",
+        "@dry-ts/eslint-config": "latest",
+        "@dry/underscore": "latest",
+        "@dry7/ngx-ace-editor-wrapper": "latest",
+        "@dry7/ngx-tippy-wrapper": "latest",
+        "@dry7/ngx-translate-po-http-loader": "latest",
+        "@dry7/queueing-subject": "latest",
+        "@dryan-llc/mnml.css": "latest",
+        "@dryan-llc/mnml.js": "latest",
+        "@drycode/biblioteka": "latest",
+        "@drycode/library": "latest",
+        "@drykiss/industry-ui": "latest",
+        "@drykovhit/winston-logflare": "latest",
+        "@dryoss/helloworld": "latest",
+        "@dryprogrammer/cors-iframe-render": "latest",
+        "@dryprogrammer/cv-test": "latest",
+        "@dryprogrammer/lottie-test": "latest",
+        "@dryprogrammer/react-simple-chatbot": "latest",
+        "@dryrunsec/dryrun_node": "latest",
+        "@drystar/lotide": "latest"
+    }
+}

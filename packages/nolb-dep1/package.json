@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-dep1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dep1": "latest",
+        "dep1-benben-demo": "latest",
+        "dep1-bookish-fortnight": "latest",
+        "dep11": "latest",
+        "dep111": "latest",
+        "dep112": "latest",
+        "dep114": "latest",
+        "dep12": "latest",
+        "dep13": "latest"
+    }
+}

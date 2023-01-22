@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-cra-template",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cra-template": "latest",
+        "@zalastax/nolb-cra-template-": "latest",
+        "@zalastax/nolb-cra-template1": "latest",
+        "@zalastax/nolb-cra-templates": "latest"
+    }
+}

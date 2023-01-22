@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-treeb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "treebank-parser": "latest",
+        "treebank-react": "latest",
+        "treebank-tokenizer": "latest",
+        "treebank2svg": "latest",
+        "treebark": "latest",
+        "treebase": "latest",
+        "treebeard": "latest",
+        "treebenchmark": "latest",
+        "treebird": "latest",
+        "treeblog": "latest",
+        "treeboxjs": "latest",
+        "treebranch": "latest",
+        "treebuildbyedison": "latest",
+        "treebular": "latest"
+    }
+}

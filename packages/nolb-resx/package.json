@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-resx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "resx": "latest",
+        "resx-git-merge-driver": "latest",
+        "resx-json-typescript-converter": "latest",
+        "resx-parser": "latest",
+        "resx-to-json": "latest",
+        "resx-to-json-cli": "latest",
+        "resx-to-json-loader": "latest",
+        "resx-to-ts-json": "latest",
+        "resx-to-ts-json-options": "latest",
+        "resx-to-typescript": "latest",
+        "resx-ts-configurable": "latest",
+        "resx-webpack-loader": "latest",
+        "resx2i18next": "latest",
+        "resx2js": "latest",
+        "resx2tsjs": "latest",
+        "resxclone": "latest",
+        "resxprocessor": "latest",
+        "resxtojson": "latest"
+    }
+}

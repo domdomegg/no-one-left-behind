@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-idk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "idk": "latest",
+        "idk-what-this-app-will-be": "latest",
+        "idkeyvalue": "latest",
+        "idkhts-core": "latest",
+        "idkhts-module-a": "latest",
+        "idkhts-module-b": "latest",
+        "idkjay": "latest",
+        "idkjs-foo": "latest",
+        "idkozlov": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-conw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "conway": "latest",
+        "conway-engine": "latest",
+        "conway-game": "latest",
+        "conway-game-of-life-rust-wasm": "latest",
+        "conway-hart": "latest",
+        "conway-loader": "latest",
+        "conway-number": "latest",
+        "conway-react": "latest",
+        "conway-simulation2": "latest",
+        "conway_twitty": "latest",
+        "conwayhs": "latest",
+        "conwayjs": "latest",
+        "conways": "latest",
+        "conways_game_of_life": "latest",
+        "conwor": "latest",
+        "conword": "latest",
+        "conwords-generator": "latest"
+    }
+}

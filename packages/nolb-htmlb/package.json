@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-htmlb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htmlbars": "latest",
+        "htmlbars-comment-redactor": "latest",
+        "htmlbars-standalone": "latest",
+        "htmlbarsify": "latest",
+        "htmlbbcode": "latest",
+        "htmlbilder": "latest",
+        "htmlbin": "latest",
+        "htmlboilerplate": "latest",
+        "htmlbook": "latest",
+        "htmlbuild-functions": "latest",
+        "htmlbuilder": "latest"
+    }
+}

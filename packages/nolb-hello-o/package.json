@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-hello-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hello-oauth-node": "latest",
+        "hello-ocular-dev-tools": "latest",
+        "hello-oh-yeah-cnx": "latest",
+        "hello-oini": "latest",
+        "hello-omair": "latest",
+        "hello-on-web": "latest",
+        "hello-oomusou": "latest",
+        "hello-openblocks-comps": "latest",
+        "hello-orca": "latest"
+    }
+}

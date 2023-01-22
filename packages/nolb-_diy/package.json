@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_diy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@diy-cli-stu/cli": "latest",
+        "@diy-iot-lock/app": "latest",
+        "@diy-kitchens/api": "latest",
+        "@diy-kitchens/articles": "latest",
+        "@diy-kitchens/aws-utils": "latest",
+        "@diy-kitchens/pipes": "latest",
+        "@diy-kitchens/webtoken": "latest",
+        "@diyaner/ding-deployer": "latest",
+        "@diyaner/doyo": "latest",
+        "@diyaner/dy-utils": "latest",
+        "@diyaner/egg-baidu-ai": "latest",
+        "@diyaner/egg-ding-module": "latest",
+        "@diyaner/egg-mqtt": "latest",
+        "@diyaner/egg-ws": "latest",
+        "@diycjs/gpage": "latest",
+        "@diyhub/bootstrap": "latest",
+        "@diyor28/vuex-rest": "latest"
+    }
+}

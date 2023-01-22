@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-abg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "abg": "latest",
+        "abg-core": "latest",
+        "abga.js": "latest",
+        "abgd": "latest",
+        "abgl-package": "latest",
+        "abglib": "latest",
+        "abglobalcss": "latest",
+        "abgp-js": "latest",
+        "abgp-js-modules-crypto-bnelliptic": "latest",
+        "abgp-js-modules-crypto-plain": "latest",
+        "abgp-js-modules-node-rpc": "latest",
+        "abgp-js-modules-node-tcp": "latest",
+        "abgp-js-modules-storage-plain": "latest"
+    }
+}

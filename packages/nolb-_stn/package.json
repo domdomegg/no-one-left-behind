@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_stn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stnew/ableton-parser": "latest",
+        "@stnew/accordion": "latest",
+        "@stnew/animation-wrapper": "latest",
+        "@stnew/button": "latest",
+        "@stnew/carousel": "latest",
+        "@stnew/contentful-proxy": "latest",
+        "@stnew/css-reset": "latest",
+        "@stnew/eslint-config": "latest",
+        "@stnew/eslint-config-next": "latest",
+        "@stnew/eslint-config-react": "latest",
+        "@stnew/eslint-config-typescript": "latest",
+        "@stnew/forms": "latest",
+        "@stnew/hooks": "latest",
+        "@stnew/image": "latest",
+        "@stnew/layout": "latest",
+        "@stnew/markdown": "latest",
+        "@stnew/prismic": "latest",
+        "@stnew/prismic-apollo-link": "latest",
+        "@stnew/prismic-nextjs": "latest",
+        "@stnew/prismic-react": "latest",
+        "@stnew/prismic-types": "latest",
+        "@stnew/responsive-image": "latest",
+        "@stnew/typography": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_aih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aiham-aburafaa/input-number-with-comma": "latest",
+        "@aiherrera/react-hamburger": "latest",
+        "@aiherrera/react-logo": "latest",
+        "@aiherrera/react-pricing-table": "latest",
+        "@aiherrera/react-slider": "latest",
+        "@aiherrera/xlsx-json-converter": "latest"
+    }
+}

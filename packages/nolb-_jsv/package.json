@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_jsv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jsvera/mediaplayer": "latest",
+        "@jsvfs/adapter-azure-blob": "latest",
+        "@jsvfs/adapter-minio-s3": "latest",
+        "@jsvfs/adapter-multi": "latest",
+        "@jsvfs/adapter-node-fs": "latest",
+        "@jsvfs/adapter-noop": "latest",
+        "@jsvfs/core": "latest",
+        "@jsvfs/extras": "latest",
+        "@jsvfs/types": "latest",
+        "@jsview/core": "latest",
+        "@jsview/material-components": "latest"
+    }
+}

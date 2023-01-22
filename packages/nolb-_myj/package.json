@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_myj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@myjsblock/cli": "latest",
+        "@myjsnote/local-api": "latest",
+        "@myjsnote/local-client": "latest",
+        "@myjsnotebook/local-api": "latest",
+        "@myjsnotebook/local-client": "latest",
+        "@myjsnotes/local-api": "latest",
+        "@myjsnotes/local-client": "latest",
+        "@myjunior/commons": "latest",
+        "@myjunior/gcp-appengine": "latest",
+        "@myjunior/hello-world": "latest",
+        "@myjwork/sdk": "latest"
+    }
+}

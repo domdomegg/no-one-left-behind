@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-multig",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "multigame": "latest",
+        "multigaming-launcher": "latest",
+        "multigeojson": "latest",
+        "multiget": "latest",
+        "multiget-express": "latest",
+        "multigit": "latest",
+        "multiglob": "latest",
+        "multigradient": "latest",
+        "multigrain": "latest",
+        "multigraph": "latest",
+        "multiguard": "latest"
+    }
+}

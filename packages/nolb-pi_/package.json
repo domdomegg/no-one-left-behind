@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-pi_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pi_node_examples": "latest",
+        "pi_package": "latest",
+        "pi_video_recording": "latest",
+        "pi_watcher": "latest"
+    }
+}

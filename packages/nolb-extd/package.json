@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-extd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "extd": "latest",
+        "extdate": "latest",
+        "extdb": "latest",
+        "extdb-wasteland": "latest",
+        "extdependency": "latest",
+        "extdeps": "latest",
+        "extdes": "latest",
+        "extdirect": "latest",
+        "extdirect-mock": "latest"
+    }
+}

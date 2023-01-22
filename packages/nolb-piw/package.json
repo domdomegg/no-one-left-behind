@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-piw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "piw": "latest",
+        "piw-view-all": "latest",
+        "piwa": "latest",
+        "piwczak-frame-print": "latest",
+        "piweekly": "latest",
+        "piwenlong111": "latest",
+        "piwi": "latest",
+        "piwigo-api": "latest",
+        "piwigo-js-client": "latest",
+        "piwik": "latest",
+        "piwik-admin": "latest",
+        "piwik-api": "latest",
+        "piwik-client": "latest",
+        "piwik-middleware": "latest",
+        "piwik-pro-angular-tracking": "latest",
+        "piwik-react-router": "latest",
+        "piwik-react-router-custom": "latest",
+        "piwik-reporting": "latest",
+        "piwik-socket": "latest",
+        "piwik-taglr-router": "latest",
+        "piwik-tracker": "latest",
+        "piwik-wrap": "latest",
+        "piwikpro": "latest",
+        "piwpew-bot": "latest",
+        "piwwi": "latest"
+    }
+}

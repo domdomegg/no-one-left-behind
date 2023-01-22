@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_on-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@on-prem/on-prem-meta": "latest",
+        "@on-set/onset-cli": "latest",
+        "@on-set/onset-lib": "latest",
+        "@on-sight-strategy/tw-simple-positioning": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_sax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sax777/slugger": "latest",
+        "@saxenashivang/publish-me": "latest",
+        "@saxjst/koa-joi-validator": "latest",
+        "@saxjst/sort-of": "latest",
+        "@saxle/daemons": "latest",
+        "@saxobank/platforms-config": "latest",
+        "@saxolab/ispec": "latest",
+        "@saxorg/temporal_json": "latest",
+        "@saxorg/temporal_json-darwin-x64": "latest",
+        "@saxorg/temporal_json-linux-x64-gnu": "latest",
+        "@saxorg/temporal_json-win32-x64-msvc": "latest"
+    }
+}

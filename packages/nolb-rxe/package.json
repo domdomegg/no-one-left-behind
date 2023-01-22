@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-rxe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rxe": "latest",
+        "rxe-table": "latest",
+        "rxeat170819": "latest",
+        "rxeditor": "latest",
+        "rxel": "latest",
+        "rxemitter": "latest",
+        "rxemitter2": "latest",
+        "rxeta": "latest",
+        "rxeventstore": "latest",
+        "rxex": "latest",
+        "rxext": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_ic-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ic-arch/ui-utils": "latest",
+        "@ic-bot-819439/icons-jquery": "latest",
+        "@ic-bot-819439/icons-react": "latest",
+        "@ic-bot-819439/icons-svg": "latest",
+        "@ic-naming/client": "latest",
+        "@ic-test-org/common": "latest"
+    }
+}

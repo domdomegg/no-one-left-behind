@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-graphql-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graphql-zealot": "latest",
+        "graphql-zephyr": "latest",
+        "graphql-zero-get-posts": "latest",
+        "graphql-zeus": "latest",
+        "graphql-zeus-286-const-enum": "latest",
+        "graphql-zeus-core": "latest",
+        "graphql-zeus-jsonschema": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_cik",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ciklum-digital/cra-template-typescript-redux": "latest",
+        "@ciklum-toggler/angular-sdk": "latest",
+        "@ciklum-toggler/node-sdk": "latest",
+        "@ciklum/exo": "latest",
+        "@ciklum/logan": "latest",
+        "@ciklum/multa": "latest",
+        "@ciklum/ng-logan": "latest",
+        "@ciklum/ng-waas": "latest",
+        "@ciklum/ng-xmess": "latest",
+        "@ciklum/raax": "latest",
+        "@ciklum/waas": "latest",
+        "@ciklum/xmess": "latest",
+        "@ciklum/xmess-repeater": "latest",
+        "@cikrf/eslint-config": "latest",
+        "@cikrf/gas-eslint-config": "latest",
+        "@cikrf/gas-ui-kit": "latest",
+        "@cikrf/gas-utils": "latest"
+    }
+}

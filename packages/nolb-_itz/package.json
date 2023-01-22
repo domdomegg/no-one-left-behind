@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_itz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@itzikgabay/react-new-component": "latest",
+        "@itziktickets/common": "latest",
+        "@itznesbro/currency-symbol-generator": "latest",
+        "@itznesbro/discord-helper": "latest",
+        "@itznesbro/discord-js-paginator": "latest",
+        "@itznesbro/itznesbro.js": "latest",
+        "@itznesbro/prettier-config": "latest",
+        "@itznesbro/thumbnail-viewer": "latest",
+        "@itznesbro/yt-thumbnail-viewer": "latest",
+        "@itznesbrodeveloper/discord-js-paginator": "latest",
+        "@itznesbrodeveloper/itznesbro.js": "latest",
+        "@itznesbrodeveloper/yt-thumbnail-viewer": "latest",
+        "@itznevikat/router": "latest",
+        "@itznevikat/vkma-template-typescript": "latest",
+        "@itzrabbs/angular-2-dropdown-multiselect": "latest",
+        "@itzrabbs/angular-notifier": "latest",
+        "@itzrabbs/fs-finder": "latest",
+        "@itzrahulyadav/get-naruto-characters": "latest",
+        "@itzrahulyadav/get-random-number": "latest",
+        "@itzsaga/use-lazy-pagination": "latest",
+        "@itzthelt/discord.js-old": "latest",
+        "@itzy_lich/discord-akairo": "latest"
+    }
+}

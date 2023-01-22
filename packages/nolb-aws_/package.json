@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-aws_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aws.js": "latest",
+        "aws_athena_cli": "latest",
+        "aws_athena_client": "latest",
+        "aws_budget_notifier": "latest",
+        "aws_cloudwatch_alarm_severity": "latest",
+        "aws_dynamo_copy_table": "latest",
+        "aws_dynamodb_counter": "latest",
+        "aws_eb_message_severity": "latest",
+        "aws_es": "latest",
+        "aws_fim": "latest",
+        "aws_glue_databrew_jupyter": "latest",
+        "aws_gw_lambda_simulator": "latest",
+        "aws_iot_js_simple": "latest",
+        "aws_ip_count": "latest",
+        "aws_lambda_app": "latest",
+        "aws_lambda_counter": "latest",
+        "aws_lambda_extra_files": "latest",
+        "aws_lambda_handler": "latest",
+        "aws_message_reader": "latest",
+        "aws_nodejs_sdk_v3": "latest",
+        "aws_presign_url_cli": "latest",
+        "aws_reserved_instance_checker": "latest",
+        "aws_secret_device_farm": "latest",
+        "aws_sqs-connect": "latest",
+        "aws_sqs_service": "latest",
+        "aws_upload-js-sdk": "latest",
+        "aws_uploader_sdk": "latest",
+        "aws_wrapper": "latest"
+    }
+}

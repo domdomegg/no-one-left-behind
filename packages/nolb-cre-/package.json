@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-cre-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cre-com": "latest",
+        "cre-cookie-parse": "latest",
+        "cre-dom2pdf": "latest",
+        "cre-file": "latest",
+        "cre-file-upload": "latest",
+        "cre-mall-utils": "latest",
+        "cre-nodejs-server": "latest",
+        "cre-page": "latest",
+        "cre-rmst": "latest",
+        "cre-table2excel": "latest",
+        "cre-ua-parser": "latest",
+        "cre-ui": "latest",
+        "cre-utils": "latest",
+        "cre-validator": "latest",
+        "cre-web-lib": "latest"
+    }
+}

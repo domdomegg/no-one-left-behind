@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-flob",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "flob": "latest",
+        "flobacher": "latest",
+        "flobby-ui-npm": "latest",
+        "flobject": "latest",
+        "flobot": "latest",
+        "flobot-alerts-plugin": "latest",
+        "flobot-doc-generator": "latest",
+        "flobot-elasticsearch-plugin": "latest",
+        "flobot-etl-plugin": "latest",
+        "flobot-express-plugin": "latest",
+        "flobot-forms-plugin": "latest",
+        "flobot-mongodb-plugin": "latest",
+        "flobot-pg-plugin": "latest",
+        "flobot-runner": "latest",
+        "flobro-dev": "latest",
+        "floby": "latest"
+    }
+}

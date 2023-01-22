@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-slab",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "slab": "latest",
+        "slab-decomposition": "latest",
+        "slab-markup": "latest",
+        "slab-massive": "latest",
+        "slabjs": "latest",
+        "slabs": "latest",
+        "slabs.css": "latest",
+        "slabtype": "latest"
+    }
+}

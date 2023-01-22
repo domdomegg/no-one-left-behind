@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_dut",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dutchconcepts/aws-lambda-router": "latest",
+        "@dutchconcepts/capacitor-barcode-scanner": "latest",
+        "@dutchen18/l_parse": "latest",
+        "@dutchfurniturefulfilment/skik-client": "latest",
+        "@dutchie-suite/sdk": "latest",
+        "@dutchie/zah": "latest",
+        "@dutchrican/tablecli": "latest",
+        "@dutickets/common": "latest",
+        "@dutta.mousumi136/lotide": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-logh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "loghaha_tjl": "latest",
+        "loghandler": "latest",
+        "loghandler-console": "latest",
+        "loghere": "latest",
+        "loghere-client": "latest",
+        "logheterogeneousdispatcher": "latest",
+        "loghistory": "latest",
+        "loghog": "latest",
+        "loghook": "latest",
+        "loghooks-node": "latest",
+        "loghouse": "latest",
+        "loghub": "latest",
+        "loghub-core": "latest",
+        "loghub-pro": "latest",
+        "loghub-web": "latest",
+        "loghubdemo": "latest",
+        "loghuman": "latest"
+    }
+}

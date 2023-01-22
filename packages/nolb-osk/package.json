@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-osk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "osk": "latest",
+        "osk-fetch": "latest",
+        "osk-ice": "latest",
+        "oskar": "latest",
+        "oskar-emptyobj": "latest",
+        "oskar-fl-test": "latest",
+        "oskar-git-fetch": "latest",
+        "oskar-ui": "latest",
+        "oskari-rpc": "latest",
+        "oski": "latest",
+        "oskrhq-design-system": "latest",
+        "oskrip-cs": "latest",
+        "osky": "latest"
+    }
+}

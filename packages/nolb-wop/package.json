@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-wop",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wop": "latest",
+        "wop-pattern-lock": "latest",
+        "wop-toasty": "latest",
+        "wop-vincent": "latest",
+        "wop_restful_api": "latest",
+        "wopay": "latest",
+        "wopay-wos": "latest",
+        "wope": "latest",
+        "wopenssl": "latest",
+        "wopermcp": "latest",
+        "wopi-proof-validator": "latest",
+        "wopr": "latest",
+        "woprbot": "latest",
+        "wopt": "latest"
+    }
+}

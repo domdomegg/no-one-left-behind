@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-binp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "binpack": "latest",
+        "binpack-2d": "latest",
+        "binpack-loader": "latest",
+        "binpack.js": "latest",
+        "binpacking": "latest",
+        "binpackingjs": "latest",
+        "binpar-texthighlighter": "latest",
+        "binparse": "latest",
+        "binpath": "latest",
+        "binproto-parser": "latest",
+        "binpub": "latest"
+    }
+}

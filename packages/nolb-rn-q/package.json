@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-rn-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rn-qmodal": "latest",
+        "rn-qr-generator": "latest",
+        "rn-qrcode": "latest",
+        "rn-qrcode-generator": "latest",
+        "rn-qrcode-scanner": "latest",
+        "rn-qrcode-scanner-google": "latest",
+        "rn-quantum": "latest",
+        "rn-quarapay-wallet-sdk": "latest",
+        "rn-queue": "latest"
+    }
+}

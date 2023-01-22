@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_datafire_v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datafire/vatapi": "latest",
+        "@datafire/velopayments": "latest",
+        "@datafire/versioneye": "latest",
+        "@datafire/vestorly": "latest",
+        "@datafire/victorops": "latest",
+        "@datafire/vimeo": "latest",
+        "@datafire/visagecloud": "latest",
+        "@datafire/visiblethread": "latest",
+        "@datafire/visualcrossing_weather": "latest",
+        "@datafire/visualstudio": "latest",
+        "@datafire/vocadb": "latest",
+        "@datafire/vonage_account": "latest",
+        "@datafire/vonage_extension": "latest",
+        "@datafire/vonage_reports": "latest",
+        "@datafire/vonage_user": "latest",
+        "@datafire/vonage_vgis": "latest",
+        "@datafire/voodoomfg": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_tiv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tivac/changesets-test-a": "latest",
+        "@tivac/changesets-test-b": "latest",
+        "@tivac/eslint-config": "latest",
+        "@tivac/eslint-plugin-svelte": "latest",
+        "@tivac/mithril-objectify": "latest",
+        "@tivac/ospec": "latest",
+        "@tivac/router": "latest",
+        "@tivac/stylelint-config": "latest",
+        "@tive-labs/hangedman-game": "latest",
+        "@tive-labs/memory-game": "latest",
+        "@tive/core": "latest",
+        "@tive/fs": "latest",
+        "@tive/lifecycle": "latest",
+        "@tive/utils": "latest",
+        "@tiveor/firexim": "latest",
+        "@tiveor/scg": "latest",
+        "@tiveor/vvg": "latest",
+        "@tiveor/vvg-cli": "latest",
+        "@tivic-dev/sol-lib": "latest",
+        "@tivio/ads-js": "latest",
+        "@tivio/common": "latest",
+        "@tivio/sdk-js": "latest",
+        "@tivio/sdk-react": "latest",
+        "@tivix/eslint-config": "latest",
+        "@tivix/prettier-config": "latest",
+        "@tivix/stylelint-config": "latest",
+        "@tivix/typescript-config": "latest"
+    }
+}

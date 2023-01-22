@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-sey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sey": "latest",
+        "sey-ayraci": "latest",
+        "seye.js": "latest",
+        "seyijs-crypto": "latest",
+        "seyinpmjs": "latest",
+        "seyiodunlade-frame-print": "latest",
+        "seyit-test-package": "latest",
+        "seyma": "latest",
+        "seymasa": "latest",
+        "seymour": "latest",
+        "seyren-cli": "latest",
+        "seyronsql": "latest",
+        "seyuejuelie": "latest"
+    }
+}

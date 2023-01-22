@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-typeface-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typeface-odibee-sans": "latest",
+        "typeface-odor-mean-chey": "latest",
+        "typeface-offside": "latest",
+        "typeface-old-standard-tt": "latest",
+        "typeface-oldenburg": "latest",
+        "typeface-oleo-script": "latest",
+        "typeface-oleo-script-swash-caps": "latest",
+        "typeface-open-sans": "latest",
+        "typeface-open-sans-condensed": "latest",
+        "typeface-oranienbaum": "latest",
+        "typeface-orbitron": "latest",
+        "typeface-oregano": "latest",
+        "typeface-orienta": "latest",
+        "typeface-original-surfer": "latest",
+        "typeface-oswald": "latest",
+        "typeface-over-the-rainbow": "latest",
+        "typeface-overlock": "latest",
+        "typeface-overlock-sc": "latest",
+        "typeface-overpass": "latest",
+        "typeface-overpass-mono": "latest",
+        "typeface-ovo": "latest",
+        "typeface-oxanium": "latest",
+        "typeface-oxygen": "latest",
+        "typeface-oxygen-mono": "latest"
+    }
+}

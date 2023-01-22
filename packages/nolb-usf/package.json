@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-usf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "usf-altsam": "latest",
+        "usf-components": "latest",
+        "usf-framework": "latest",
+        "usf-lib-test": "latest",
+        "usf-list": "latest",
+        "usf-parse-helpers": "latest",
+        "usfca-data-table": "latest",
+        "usfl": "latest",
+        "usfm": "latest",
+        "usfm-editor": "latest",
+        "usfm-grammar": "latest",
+        "usfm-grammer-csv": "latest",
+        "usfm-js": "latest",
+        "usfm-json": "latest",
+        "usfm-parser": "latest",
+        "usfm-validator": "latest",
+        "usfm2json": "latest",
+        "usfx": "latest"
+    }
+}

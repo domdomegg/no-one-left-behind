@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-mulo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mulo": "latest",
+        "mulo-admin": "latest",
+        "mulo-cli": "latest",
+        "mulo-cli-ui": "latest",
+        "mulo-codes": "latest",
+        "mulo-imgcode": "latest",
+        "mulo-loader": "latest",
+        "mulo-loader-compiler": "latest",
+        "mulo-tools": "latest",
+        "mulo-turntable": "latest",
+        "mulo-ui": "latest",
+        "mulo-ui-css": "latest",
+        "mulo-validate": "latest",
+        "mulocal-socket": "latest",
+        "mulog": "latest"
+    }
+}

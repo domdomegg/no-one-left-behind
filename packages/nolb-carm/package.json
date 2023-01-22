@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-carm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "carm-tslint": "latest",
+        "carma": "latest",
+        "carma-tap-webpack": "latest",
+        "carma_test0_server": "latest",
+        "carmation-next-framework": "latest",
+        "carmel": "latest",
+        "carmel-cli": "latest",
+        "carmel-core": "latest",
+        "carmel-foundation-stack": "latest",
+        "carmel-material-stack": "latest",
+        "carmel-package-scrabble": "latest",
+        "carmele-package": "latest",
+        "carmele-package-scrabble": "latest",
+        "carmelo": "latest",
+        "carmelo-gantt-core": "latest",
+        "carmen": "latest",
+        "carmen-cache": "latest",
+        "carmesim": "latest",
+        "carmezim-custom": "latest",
+        "carmi": "latest",
+        "carmi-debug": "latest",
+        "carmi-host-extensions": "latest",
+        "carmi-react": "latest",
+        "carmichaelize": "latest",
+        "carmichaels": "latest",
+        "carmine": "latest",
+        "carmodelcomponents": "latest"
+    }
+}

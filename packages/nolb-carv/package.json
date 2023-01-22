@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-carv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "carvalho": "latest",
+        "carve": "latest",
+        "carven": "latest",
+        "carver": "latest",
+        "carverry-material": "latest",
+        "carvis": "latest",
+        "carvoyant": "latest",
+        "carvoyant-client": "latest",
+        "carvue": "latest"
+    }
+}

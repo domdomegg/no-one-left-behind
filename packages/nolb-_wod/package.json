@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_wod",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wode080/common": "latest",
+        "@wode080/test-tool": "latest",
+        "@wodecorp/antdv-table-charts": "latest",
+        "@wodecorp/login-kit": "latest",
+        "@woden/svelte-click-outside": "latest",
+        "@woden/svelte-nouislider": "latest",
+        "@woden/svelte-select": "latest",
+        "@woden/svelte-simplebar": "latest",
+        "@wodetest/util": "latest",
+        "@wodog/type": "latest",
+        "@wodysus-ttp/blindfold": "latest",
+        "@wodysus-ttp/turncounter": "latest"
+    }
+}

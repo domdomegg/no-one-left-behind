@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-exl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "exl": "latest",
+        "exl-parser": "latest",
+        "exl-touchnet-connector": "latest",
+        "exless": "latest",
+        "exlg-commit-std": "latest",
+        "exlg-cypress-workspace": "latest",
+        "exlg-git-commit-msg-std": "latest",
+        "exlib": "latest",
+        "exlib11": "latest",
+        "exlibris": "latest",
+        "exlibris-request": "latest",
+        "exlightnew": "latest",
+        "exlink": "latest",
+        "exlint": "latest",
+        "exlint-config-renova": "latest",
+        "exlist": "latest",
+        "exlog": "latest",
+        "exlogger": "latest",
+        "exlsxjs-hotfix": "latest",
+        "exltojson": "latest"
+    }
+}

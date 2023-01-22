@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-dataa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dataAccess": "latest",
+        "dataa.json": "latest",
+        "dataaccess": "latest",
+        "dataaccessgateway": "latest",
+        "dataaccessgatewaychromeextension": "latest",
+        "dataaccesshelper": "latest",
+        "dataagora-dml": "latest",
+        "dataanalyzer": "latest",
+        "dataarc": "latest",
+        "dataarrays2charts": "latest"
+    }
+}

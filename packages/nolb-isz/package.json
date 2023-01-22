@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-isz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "isz": "latest",
+        "isz_share_pay_login": "latest",
+        "iszero": "latest",
+        "iszhousir-random-function": "latest",
+        "iszolea-ui": "latest",
+        "iszwl": "latest"
+    }
+}

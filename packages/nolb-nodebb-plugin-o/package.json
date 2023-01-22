@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-nodebb-plugin-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodebb-plugin-oauth-enmarche": "latest",
+        "nodebb-plugin-oauth-ukr": "latest",
+        "nodebb-plugin-obw-ex": "latest",
+        "nodebb-plugin-octo-events": "latest",
+        "nodebb-plugin-octo-qna": "latest",
+        "nodebb-plugin-octo-restrictvote": "latest",
+        "nodebb-plugin-octo-spoilers": "latest",
+        "nodebb-plugin-odh": "latest",
+        "nodebb-plugin-office-ldap": "latest",
+        "nodebb-plugin-office-ldap-new": "latest",
+        "nodebb-plugin-ogmetadata": "latest",
+        "nodebb-plugin-olark": "latest",
+        "nodebb-plugin-onedrive": "latest",
+        "nodebb-plugin-onesignal": "latest",
+        "nodebb-plugin-onlinetime": "latest",
+        "nodebb-plugin-openapi-spec": "latest",
+        "nodebb-plugin-opencc": "latest",
+        "nodebb-plugin-openedx-discussion": "latest",
+        "nodebb-plugin-openedx-discussion-testing-version": "latest",
+        "nodebb-plugin-openfantasy": "latest",
+        "nodebb-plugin-openidconnect": "latest",
+        "nodebb-plugin-osm-map": "latest",
+        "nodebb-plugin-outside": "latest",
+        "nodebb-plugin-override-login-csf": "latest",
+        "nodebb-plugin-oxide-qa": "latest",
+        "nodebb-plugin-oxke-player": "latest"
+    }
+}

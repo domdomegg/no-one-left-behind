@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_js0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@js07/discord.js": "latest",
+        "@js07/googleapis": "latest",
+        "@js07/pd-scripts": "latest"
+    }
+}

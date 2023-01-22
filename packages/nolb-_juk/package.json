@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_juk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jukben/emoji-search": "latest",
+        "@jukben/eslint-config": "latest",
+        "@jukben/homebridge-tuya-platform": "latest",
+        "@jukben/tslint-config": "latest",
+        "@jukben/unicode": "latest",
+        "@jukeplus/api-spec": "latest",
+        "@jukeplus/frontend-shared": "latest",
+        "@jukeplus/shop-shared": "latest",
+        "@jukhan/react-form": "latest",
+        "@jukhan/zaitun": "latest",
+        "@jukka/react-scripts": "latest"
+    }
+}

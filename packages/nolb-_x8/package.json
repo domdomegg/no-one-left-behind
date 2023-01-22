@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_x8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@x82-softworks/ascend-and-find": "latest",
+        "@x82-softworks/aws-api": "latest",
+        "@x82-softworks/aws-api-multipart": "latest",
+        "@x82-softworks/clone-merge": "latest",
+        "@x82-softworks/probability-table": "latest",
+        "@x82-softworks/zip": "latest",
+        "@x8a/mongo-test": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-glg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "glg": "latest",
+        "glg-clone": "latest",
+        "glg-hook-installer": "latest",
+        "glg-layout": "latest",
+        "glg-toolkit": "latest",
+        "glg-url": "latest",
+        "glgdm": "latest",
+        "glgeneral": "latest",
+        "glgeneral2": "latest",
+        "glglupup": "latest",
+        "glglupup-test": "latest",
+        "glgr": "latest"
+    }
+}

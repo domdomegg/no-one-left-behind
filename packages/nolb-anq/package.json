@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-anq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "anq": "latest",
+        "anq-cli": "latest",
+        "anq-scripts": "latest",
+        "anq-ui": "latest",
+        "anq-use": "latest",
+        "anqi-node-todo-1": "latest",
+        "anqi-ui": "latest",
+        "anqi123": "latest",
+        "anqingzheng": "latest",
+        "anquan": "latest"
+    }
+}

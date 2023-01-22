@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-afe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "afe": "latest",
+        "afe-content-switcher": "latest",
+        "afe-sam-aula-03": "latest",
+        "afe-sidney-puc-shared-components": "latest",
+        "afe-sidneyslh-puc-shared-components": "latest",
+        "afe-webcomponent": "latest",
+        "afe1-music": "latest",
+        "afe1-player": "latest",
+        "afeed": "latest",
+        "afei": "latest",
+        "afeit": "latest",
+        "afeitest.js": "latest",
+        "afeng": "latest",
+        "afeng-ui": "latest",
+        "afeng007": "latest",
+        "aferrercrafter-frame-print": "latest",
+        "afet-helloworld-test": "latest",
+        "afewfewf": "latest",
+        "afewfwfew": "latest",
+        "afeyer-ip2region": "latest"
+    }
+}

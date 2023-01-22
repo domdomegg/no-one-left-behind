@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-vue-dc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-dcjs": "latest",
+        "vue-dcloud": "latest",
+        "vue-dcount-to": "latest",
+        "vue-dcw-music": "latest"
+    }
+}

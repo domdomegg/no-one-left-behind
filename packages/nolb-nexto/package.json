@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-nexto",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nexton": "latest",
+        "nextop-vue-element": "latest",
+        "nextora-blockchain": "latest",
+        "nextorigin-express-skeleton": "latest",
+        "nextorigin-kstat": "latest",
+        "nextos-helper": "latest"
+    }
+}

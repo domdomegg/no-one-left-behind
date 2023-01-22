@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_sta-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sta-podcast/post-loader": "latest",
+        "@sta-podcast/timestamp-tools": "latest",
+        "@sta-podcast/types": "latest",
+        "@sta-podcast/website-helpers": "latest",
+        "@sta-tailwindcss/buttons": "latest"
+    }
+}

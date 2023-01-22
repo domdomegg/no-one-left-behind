@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_coni",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@conio/amplify-appsync-simulator": "latest",
+        "@conio/amplify-graphiql-explorer": "latest",
+        "@conio/serverless-appsync-simulator": "latest",
+        "@conio/serverless-offline": "latest",
+        "@conio/serverless-openapi-documentation": "latest",
+        "@conio/serverless-plugin-ifelse": "latest",
+        "@conio/web-sdk": "latest",
+        "@conix-ai-engine/bp3d": "latest",
+        "@conix-ai-engine/bp3d-types": "latest"
+    }
+}

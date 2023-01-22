@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-hyperq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hyperq": "latest",
+        "hyperq-sqs": "latest",
+        "hyperquery": "latest",
+        "hyperquest": "latest",
+        "hyperquest-cli": "latest",
+        "hyperquest-promise": "latest",
+        "hyperquest-proxy": "latest",
+        "hyperquest-timeout": "latest",
+        "hyperquest-x-ray": "latest",
+        "hyperquestionable": "latest",
+        "hyperqueue": "latest",
+        "hyperquext": "latest",
+        "hyperquext-cheerio": "latest",
+        "hyperquext-gzip": "latest",
+        "hyperquext-medirect": "latest"
+    }
+}

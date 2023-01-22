@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-depu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "depu": "latest",
+        "depugger": "latest",
+        "depulso": "latest",
+        "depup": "latest",
+        "depupdate": "latest",
+        "depurar": "latest",
+        "depusfdflish-test": "latest",
+        "depute": "latest",
+        "deputil": "latest",
+        "deputy": "latest",
+        "deputy-api-gateway": "latest",
+        "deputy-client": "latest",
+        "deputy-server": "latest",
+        "deputy2": "latest",
+        "deputydb": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_zhj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zhj-cli-dev/core": "latest",
+        "@zhj-cli-dev/utils": "latest",
+        "@zhj-target/el-button": "latest",
+        "@zhj-target/vue3-element-cascader-test": "latest",
+        "@zhj-target/vue3-kind-editor": "latest",
+        "@zhjdhk/web-fba": "latest"
+    }
+}

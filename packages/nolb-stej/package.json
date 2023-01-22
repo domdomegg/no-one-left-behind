@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-stej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stej-clock": "latest",
+        "stej-foo": "latest",
+        "stejar-application": "latest",
+        "stejar-di": "latest",
+        "stejar-http": "latest",
+        "stejar-postMessage": "latest",
+        "stejar-react": "latest",
+        "stejar-react-di": "latest",
+        "stejar-translate": "latest",
+        "stejar-typings": "latest",
+        "stejar-utils": "latest",
+        "stejs": "latest",
+        "stejs-loader": "latest"
+    }
+}

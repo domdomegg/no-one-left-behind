@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-subu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "subu-bootstrap-components": "latest",
+        "subunit": "latest",
+        "subunit-js": "latest",
+        "subusample-1": "latest",
+        "subutai-bazaar": "latest",
+        "subutai-ipfs-pin": "latest",
+        "subutai-upload": "latest",
+        "subutil": "latest"
+    }
+}

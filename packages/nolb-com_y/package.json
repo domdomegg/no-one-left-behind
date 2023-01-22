@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-com_y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "com.yanmo.test": "latest",
+        "com.yanmonet.npmtest": "latest",
+        "com.yfbudong.seatune": "latest",
+        "com.yiako.print": "latest",
+        "com.ykmoon.common": "latest",
+        "com.ykmoon.reftools": "latest",
+        "com.ykmoon.switcher": "latest",
+        "com.ykmoon.ui": "latest",
+        "com.ykmoon.ykconfig": "latest",
+        "com.ykmoon.ziplib": "latest",
+        "com.yoozoo.test": "latest",
+        "com.youper.healthrecords": "latest",
+        "com.yoyo-studio.behaviour": "latest",
+        "com.yoyo.nnn": "latest",
+        "com.yoyo.npmtest": "latest",
+        "com.yuen.hello": "latest",
+        "com.yuewen": "latest",
+        "com.yunoda.samplesdk": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-node-rep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-repairshopr": "latest",
+        "node-repl": "latest",
+        "node-repl-await": "latest",
+        "node-repl-dev": "latest",
+        "node-repl-improved": "latest",
+        "node-repl-loader": "latest",
+        "node-repl-plus": "latest",
+        "node-repl-tool": "latest",
+        "node-replace": "latest",
+        "node-replica": "latest",
+        "node-reply-worker": "latest",
+        "node-repo-init": "latest",
+        "node-report": "latest",
+        "node-report-writers": "latest",
+        "node-reporter": "latest",
+        "node-reporting": "latest",
+        "node-repository": "latest",
+        "node-repository-require": "latest",
+        "node-reposync": "latest",
+        "node-reproject": "latest"
+    }
+}

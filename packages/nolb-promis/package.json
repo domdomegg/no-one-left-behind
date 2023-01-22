@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-promis",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "promis": "latest",
+        "@zalastax/nolb-promise": "latest",
+        "@zalastax/nolb-promis-": "latest",
+        "@zalastax/nolb-promisa": "latest",
+        "@zalastax/nolb-promisc": "latest",
+        "@zalastax/nolb-promisf": "latest",
+        "@zalastax/nolb-promish": "latest",
+        "@zalastax/nolb-promisi": "latest",
+        "@zalastax/nolb-promisl": "latest",
+        "@zalastax/nolb-promiso": "latest",
+        "@zalastax/nolb-promisq": "latest",
+        "@zalastax/nolb-promisr": "latest",
+        "@zalastax/nolb-promiss": "latest",
+        "@zalastax/nolb-promist": "latest",
+        "@zalastax/nolb-promisu": "latest",
+        "@zalastax/nolb-promisy": "latest"
+    }
+}

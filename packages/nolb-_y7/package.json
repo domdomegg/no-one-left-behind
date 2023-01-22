@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_y7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@y7/doh": "latest",
+        "@y7/durable-server": "latest",
+        "@y7/get-global": "latest",
+        "@y7/gui-app-starter": "latest",
+        "@y7/mycelium": "latest",
+        "@y7/react-copyable-span": "latest",
+        "@y7/react-use-localstorage": "latest",
+        "@y7/saveblob": "latest",
+        "@y7/u0": "latest",
+        "@y7/ultra-tail": "latest",
+        "@y799953468/hexo-revolvermaps": "latest",
+        "@y7k/component-button-bar": "latest",
+        "@y7k/component-checkbox": "latest",
+        "@y7k/component-dropdown": "latest",
+        "@y7k/component-filterable-list": "latest",
+        "@y7k/component-grouped-list": "latest",
+        "@y7k/component-navigation-bar": "latest",
+        "@y7k/component-text-input": "latest",
+        "@y7k/filterable-list": "latest"
+    }
+}

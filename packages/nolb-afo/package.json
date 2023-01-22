@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-afo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "afo": "latest",
+        "afo-frame-print": "latest",
+        "afo-geoip-mmdat": "latest",
+        "afo-human-name-normalizer": "latest",
+        "afo-interval": "latest",
+        "afo-namecheap-api": "latest",
+        "afo-ratelimit": "latest",
+        "afobot": "latest",
+        "afom-js-dom-controllers": "latest",
+        "afom-labs-wall-client": "latest",
+        "afom-webfont": "latest",
+        "afondevi-generator-api-cli": "latest",
+        "afonsojramos": "latest",
+        "afontcu": "latest",
+        "afontsize": "latest",
+        "afor": "latest",
+        "aform": "latest",
+        "aformajs": "latest",
+        "aforth": "latest",
+        "aforwait": "latest",
+        "afour-logger-app": "latest",
+        "afour-react-logger": "latest",
+        "afournier-modal": "latest",
+        "afournier-oc-modal": "latest",
+        "afova": "latest"
+    }
+}

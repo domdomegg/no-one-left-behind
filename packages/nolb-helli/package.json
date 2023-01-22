@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-helli",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hellify": "latest",
+        "hellion": "latest",
+        "hellion-lang": "latest",
+        "hellion-ui": "latest",
+        "helliot-resume": "latest"
+    }
+}

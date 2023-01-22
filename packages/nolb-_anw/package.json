@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_anw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@anwansi/eslint-config": "latest",
+        "@anwansi/math": "latest",
+        "@anwansi/vue3-eslint-config": "latest",
+        "@anwerar/checkoutsdk-web": "latest",
+        "@anwersolangi/epubjs-rn": "latest",
+        "@anwinged/predictor": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-qil",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qil": "latest",
+        "qilab-widgets": "latest",
+        "qili-app": "latest",
+        "qili-cli": "latest",
+        "qili-components": "latest",
+        "qiliangprint": "latest",
+        "qiliangz-rc-input-number": "latest",
+        "qilin": "latest",
+        "qilin-blog": "latest",
+        "qilin-cli": "latest",
+        "qilin-common": "latest",
+        "qilin-components": "latest",
+        "qilin-manager": "latest",
+        "qilin-sdk-v2": "latest",
+        "qilin-utils": "latest",
+        "qilin-v2": "latest",
+        "qilong-cli": "latest",
+        "qilu-colors-project": "latest"
+    }
+}

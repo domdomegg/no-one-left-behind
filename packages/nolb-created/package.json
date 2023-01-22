@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-created",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "createDOC": "latest",
+        "created": "latest",
+        "created-at-converter": "latest",
+        "created-browser-history": "latest",
+        "created-by-vuecli": "latest",
+        "created-command-copy": "latest",
+        "created-command-help": "latest",
+        "created-command-htmlmin": "latest",
+        "created-command-init": "latest",
+        "created-command-list": "latest",
+        "created-component-lib": "latest",
+        "created-forms-components": "latest",
+        "createdappcsc": "latest",
+        "createdapptestbag": "latest",
+        "createdate-yu": "latest",
+        "createdcaptcha": "latest",
+        "createdcaptha": "latest",
+        "createdirss": "latest",
+        "createdirstru": "latest",
+        "createdomblocks": "latest",
+        "createdropdown": "latest",
+        "createdynamicschema": "latest"
+    }
+}

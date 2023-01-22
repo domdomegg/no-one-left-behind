@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-paz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "paz": "latest",
+        "paz-check-web-app": "latest",
+        "paz-frame-print": "latest",
+        "paz-npm-test-for-bm": "latest",
+        "pazaak": "latest",
+        "pazaricha-chrome-extensions-react-scripts": "latest",
+        "pazartesi-react": "latest",
+        "pazazz": "latest",
+        "pazi": "latest",
+        "pazl": "latest",
+        "pazl-shelter": "latest",
+        "pazlweb": "latest",
+        "pazpar2-js-client": "latest",
+        "pazz": "latest",
+        "pazza": "latest",
+        "pazzan": "latest",
+        "pazzword": "latest"
+    }
+}

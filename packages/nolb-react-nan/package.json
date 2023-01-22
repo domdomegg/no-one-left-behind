@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-react-nan",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-nanasi": "latest",
+        "react-nand": "latest",
+        "react-nanny": "latest",
+        "react-nano": "latest",
+        "react-nano-audio": "latest",
+        "react-nano-payment": "latest",
+        "react-nano-router": "latest",
+        "react-nano-scrollbar": "latest",
+        "react-nano-spinner": "latest",
+        "react-nano-state": "latest",
+        "react-nanobar": "latest",
+        "react-nanobarjs": "latest",
+        "react-nanocarousel": "latest",
+        "react-nanotranslate": "latest"
+    }
+}

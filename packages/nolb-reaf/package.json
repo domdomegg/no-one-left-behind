@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-reaf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reaffect": "latest",
+        "reaflex": "latest",
+        "reaflow": "latest",
+        "reaflow-exposed-methods": "latest",
+        "reaflow-extended": "latest",
+        "reaflow-temp-debugging": "latest",
+        "reaform": "latest",
+        "reaframe": "latest",
+        "reaft": "latest",
+        "reafy": "latest"
+    }
+}

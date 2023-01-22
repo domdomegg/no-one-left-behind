@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_azm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@azm-library/api-js": "latest",
+        "@azm-library/cos-js": "latest",
+        "@azm-library/cos-node": "latest",
+        "@azm-library/encrypt-node": "latest",
+        "@azm-library/helper-node": "latest",
+        "@azm-library/permission-js": "latest",
+        "@azm-library/watermark-js": "latest",
+        "@azm/mrm-task-editorconfig": "latest",
+        "@azm/mrm-task-eslint": "latest",
+        "@azm/mrm-task-gitignore": "latest",
+        "@azm/mrm-task-koa": "latest",
+        "@azm/mrm-task-prettier": "latest",
+        "@azm/mrm-task-rollup": "latest",
+        "@azmenak/homebridge-shelly": "latest",
+        "@azmenak/react-beam": "latest",
+        "@azmenak/react-virtualized": "latest",
+        "@azmenak/resumablejs": "latest",
+        "@azmtickets/common": "latest",
+        "@azmytickets/common": "latest"
+    }
+}

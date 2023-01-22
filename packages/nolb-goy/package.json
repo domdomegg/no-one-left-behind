@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-goy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "goy": "latest",
+        "goy-cli": "latest",
+        "goya-core": "latest",
+        "goya-features": "latest",
+        "goyabu": "latest",
+        "goyaldawin_sample_module": "latest",
+        "goyarn": "latest",
+        "goyatmslogino": "latest",
+        "goyee": "latest",
+        "goyer": "latest",
+        "goyette-portfolio-lib": "latest",
+        "goygovrustam": "latest",
+        "goymag": "latest",
+        "goyujin_excel": "latest"
+    }
+}

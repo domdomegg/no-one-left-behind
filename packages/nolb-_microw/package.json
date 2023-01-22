@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_microw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@microwavedcola/mango-vial": "latest",
+        "@microwavethemotherboard/discordbot": "latest",
+        "@microwavethemotherboard/expressjs": "latest",
+        "@microwavethemotherboard/firstexpress": "latest",
+        "@microwavethemotherboard/helloexpress": "latest",
+        "@microwavethemotherboard/myfirstexpress": "latest",
+        "@microws/streams": "latest"
+    }
+}

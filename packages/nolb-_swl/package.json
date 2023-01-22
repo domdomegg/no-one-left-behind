@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_swl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@swlearn/common": "latest",
+        "@swlibrary/html-classes": "latest",
+        "@swlibrary/number-format": "latest",
+        "@swlibrary/sdk-list": "latest",
+        "@swlibrary/storage": "latest",
+        "@swlibrary/url-parse": "latest",
+        "@swlkr/req": "latest"
+    }
+}

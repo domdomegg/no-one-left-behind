@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_acl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aclai4067/utilities": "latest",
+        "@aclify/aclify": "latest",
+        "@aclisp/directus": "latest",
+        "@aclubsandwich/common": "latest",
+        "@aclymatedev/animated-logo": "latest",
+        "@aclymatedev/array-immutability-helpers": "latest",
+        "@aclymatedev/converters": "latest",
+        "@aclymatedev/custom-link": "latest",
+        "@aclymatedev/formatters": "latest",
+        "@aclymatedev/hello-world": "latest",
+        "@aclymatedev/link": "latest",
+        "@aclymatedev/new-link": "latest",
+        "@aclymatedev/npm-test": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-dby",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dby-1vn-js-sdk": "latest",
+        "dby-base": "latest",
+        "dby-base-new": "latest",
+        "dby-base-test": "latest",
+        "dby-deploy-plugin": "latest",
+        "dby-eslint": "latest",
+        "dby-gms-sdk": "latest",
+        "dby-node-ffi": "latest",
+        "dby-node-ref": "latest",
+        "dby-node-sdk": "latest",
+        "dby-node-sdl-speaker": "latest",
+        "dby-paas-web-sdk": "latest",
+        "dby-public": "latest",
+        "dby-ref-array": "latest",
+        "dby-ref-struct": "latest",
+        "dby-ui": "latest",
+        "dbyaml": "latest",
+        "dbyte-random-messages": "latest",
+        "dbyu": "latest"
+    }
+}

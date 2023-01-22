@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-tard",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tard": "latest",
+        "tard-helper-test": "latest",
+        "tard-test": "latest",
+        "tardig": "latest",
+        "tardigrade": "latest",
+        "tardigrade_hello_world": "latest",
+        "tardis": "latest",
+        "tardis-client": "latest",
+        "tardis-dev": "latest",
+        "tardis-dev-justin": "latest",
+        "tardis-js": "latest",
+        "tardis-machine": "latest",
+        "tardis-node": "latest",
+        "tardis-ui": "latest",
+        "tardisclock": "latest",
+        "tardy": "latest"
+    }
+}

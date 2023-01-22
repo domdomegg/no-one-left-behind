@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-supero",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "superoauth": "latest",
+        "superobj": "latest",
+        "superobject": "latest",
+        "superobserver": "latest",
+        "superoffice.webapi.tsclient": "latest",
+        "superolga": "latest",
+        "superops-uikit": "latest",
+        "superorange-debounce": "latest",
+        "superorange-toolkit": "latest",
+        "superorange-uikit": "latest",
+        "superorange-utils": "latest",
+        "superorsub": "latest",
+        "superoverload": "latest"
+    }
+}

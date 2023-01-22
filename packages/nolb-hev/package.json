@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-hev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hev": "latest",
+        "heva": "latest",
+        "hevajra": "latest",
+        "hevaly": "latest",
+        "hevemitter": "latest",
+        "heven.holt.demo.test": "latest",
+        "hevery-cdn": "latest",
+        "hevi-ui": "latest",
+        "hevia": "latest",
+        "hevic": "latest",
+        "hevue": "latest",
+        "hevue-img-preview": "latest",
+        "hevy-shared": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-hexon",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hexon-hunger-demo3": "latest",
+        "hexon-hunger-demo4": "latest",
+        "hexon-weather-demo": "latest",
+        "hexon-weather-demo2": "latest"
+    }
+}

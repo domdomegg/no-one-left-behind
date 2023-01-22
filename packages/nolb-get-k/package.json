@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-get-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "get-key": "latest",
+        "get-key-or-default": "latest",
+        "get-key-range": "latest",
+        "get-key-value": "latest",
+        "get-keycloak-public-key-node6": "latest",
+        "get-keycloak-public-key-with-agent": "latest",
+        "get-keycloak-public-key-with-agent-d": "latest",
+        "get-keyword-baidu": "latest",
+        "get-keywords-from-eid": "latest",
+        "get-keywords-from-scopus": "latest",
+        "get-kindle-cover": "latest",
+        "get-koa": "latest",
+        "get-komodo-rewards": "latest",
+        "get-kubesail-config": "latest"
+    }
+}

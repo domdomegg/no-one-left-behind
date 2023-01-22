@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-commod",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "commode": "latest",
+        "commodities-library": "latest",
+        "commodities-module": "latest",
+        "commodity-deposit": "latest",
+        "commodity-node": "latest",
+        "commodo-fields-date": "latest",
+        "commodo-fields-float": "latest",
+        "commodo-fields-int": "latest",
+        "commodo-fields-object": "latest",
+        "commodo-fields-storage-crud-logs": "latest",
+        "commodore": "latest",
+        "commodore-github-bot": "latest",
+        "commodore-tap-wav": "latest",
+        "commodus": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-react-cd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-cd-beta": "latest",
+        "react-cd-player": "latest",
+        "react-cda-stories": "latest",
+        "react-cdd": "latest",
+        "react-cdh-ts-8.9": "latest",
+        "react-cdm-clipboard.js": "latest",
+        "react-cdn": "latest",
+        "react-cdn-monaco-editor": "latest",
+        "react-cdn-plugin": "latest",
+        "react-cdnvision": "latest",
+        "react-cdoc": "latest",
+        "react-cds-button": "latest",
+        "react-cds-components": "latest",
+        "react-cdx": "latest"
+    }
+}

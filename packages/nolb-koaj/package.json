@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-koaj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "koajax": "latest",
+        "koajs": "latest",
+        "koajs-cli": "latest",
+        "koajs-cors": "latest",
+        "koajs-couchbase-connector": "latest",
+        "koajs-error": "latest",
+        "koajs-ip": "latest",
+        "koajs-middlewares": "latest",
+        "koajs-nocache": "latest",
+        "koajs-nunjucks": "latest",
+        "koajs-v2-hello-world": "latest",
+        "koajs2-middlewares": "latest",
+        "koajv": "latest"
+    }
+}

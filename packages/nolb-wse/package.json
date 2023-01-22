@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-wse",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wse": "latest",
+        "wse-cc": "latest",
+        "wse-rest-library-ts": "latest",
+        "wse-storybook": "latest",
+        "wsec": "latest",
+        "wsecar_common": "latest",
+        "wselector": "latest",
+        "wselectorextra": "latest",
+        "wselement-theme-chalk": "latest",
+        "wselement-ui": "latest",
+        "wsem": "latest",
+        "wsemi": "latest",
+        "wsencrypt": "latest",
+        "wsend": "latest",
+        "wserv": "latest",
+        "wserve": "latest",
+        "wserver": "latest",
+        "wservice-admin": "latest",
+        "wservice-administrator": "latest",
+        "wservice-api": "latest",
+        "wservice-partner": "latest",
+        "wservlettools": "latest",
+        "wsession": "latest",
+        "wsetup": "latest",
+        "wsevent.js": "latest",
+        "wsexample": "latest",
+        "wsexpress": "latest"
+    }
+}

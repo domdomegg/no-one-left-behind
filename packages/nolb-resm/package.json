@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-resm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "resm": "latest",
+        "resm-broadcaster": "latest",
+        "resm-env": "latest",
+        "resma": "latest",
+        "resmart": "latest",
+        "resmd5": "latest",
+        "resmenu": "latest",
+        "resmetry": "latest",
+        "resmin": "latest",
+        "resmio-gulp-tojst": "latest",
+        "resmio-intl-tel-input": "latest",
+        "resmio-number-picker": "latest",
+        "resmio-style": "latest",
+        "resmock": "latest",
+        "resmoke": "latest",
+        "resmon": "latest",
+        "resmooth": "latest",
+        "resmq": "latest",
+        "resmqw": "latest"
+    }
+}

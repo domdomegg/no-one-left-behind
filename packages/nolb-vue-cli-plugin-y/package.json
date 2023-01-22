@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-vue-cli-plugin-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cli-plugin-yaml": "latest",
+        "vue-cli-plugin-yaml-loader": "latest",
+        "vue-cli-plugin-yangnnn": "latest",
+        "vue-cli-plugin-yaya": "latest",
+        "vue-cli-plugin-yddviz": "latest",
+        "vue-cli-plugin-yiye-more-pages": "latest",
+        "vue-cli-plugin-yjj-demo": "latest",
+        "vue-cli-plugin-ym-basis": "latest",
+        "vue-cli-plugin-youmi-template": "latest",
+        "vue-cli-plugin-ypl-interactive-init": "latest",
+        "vue-cli-plugin-ypl-vuepress": "latest",
+        "vue-cli-plugin-yqcx-cookie": "latest",
+        "vue-cli-plugin-yuntai-project-helper": "latest",
+        "vue-cli-plugin-yy-test": "latest",
+        "vue-cli-plugin-yz-pro": "latest"
+    }
+}

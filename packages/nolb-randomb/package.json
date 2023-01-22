@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-randomb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "randombase64": "latest",
+        "randombinary": "latest",
+        "randombins": "latest",
+        "randombox": "latest",
+        "randombytes": "latest",
+        "randombytes-compat": "latest",
+        "randombytes-pure": "latest",
+        "randombytes-shim": "latest",
+        "randombytes-stream": "latest",
+        "randombytse": "latest",
+        "randombyweights": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-svelte-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svelte-q": "latest",
+        "svelte-qr": "latest",
+        "svelte-qr-scanner": "latest",
+        "svelte-qrcode": "latest",
+        "svelte-qrcode-image": "latest",
+        "svelte-qrcode-scanner": "latest",
+        "svelte-quarks": "latest",
+        "svelte-query": "latest",
+        "svelte-querystring-router": "latest",
+        "svelte-quicksearch-bar": "latest",
+        "svelte-quill": "latest",
+        "svelte-quilljs": "latest"
+    }
+}

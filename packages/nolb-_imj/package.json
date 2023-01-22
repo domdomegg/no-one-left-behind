@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_imj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@imjakechapman/use-nested-match": "latest",
+        "@imjakechapman/use-query-params": "latest",
+        "@imjasonmiller/scroll-io": "latest",
+        "@imjoehaines/simple-state": "latest",
+        "@imjohnbon/polls-test": "latest",
+        "@imjs/electron-differential-updater": "latest",
+        "@imjustchew/node-red-myreskillai": "latest"
+    }
+}

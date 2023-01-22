@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_vay",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vaya/logdna-formatter": "latest",
+        "@vaya/msn-to-double": "latest",
+        "@vayafin/common": "latest",
+        "@vayapin/pin-data-delivery": "latest",
+        "@vayne/cli": "latest",
+        "@vayne/postcss-px2rem": "latest",
+        "@vayne/qiniu": "latest",
+        "@vayne/stylelint": "latest",
+        "@vayo/logger": "latest",
+        "@vaypr/core": "latest",
+        "@vaypr/shared-decorators": "latest"
+    }
+}

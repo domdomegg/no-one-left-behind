@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-iono",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ionode": "latest",
+        "ionodelib": "latest",
+        "ionoi": "latest",
+        "ionomy-node": "latest",
+        "ionopi": "latest",
+        "ionorm": "latest",
+        "ionos-node-cloud-deploy": "latest",
+        "ionosenterprise-cli": "latest",
+        "ionosphere": "latest",
+        "ionoview-website-booking-engine": "latest"
+    }
+}

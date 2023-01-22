@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_mi9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mi9-retail/assets": "latest",
+        "@mi9/assets": "latest",
+        "@mi9/merchant-assets": "latest"
+    }
+}

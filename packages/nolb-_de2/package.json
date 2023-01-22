@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_de2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@de2/build": "latest",
+        "@de2/cli": "latest",
+        "@de2/cli-shared": "latest",
+        "@de2/compiler": "latest",
+        "@de2/core": "latest",
+        "@de2/helpers": "latest",
+        "@de2/hooks": "latest",
+        "@de2/loaders": "latest",
+        "@de2/plugins": "latest",
+        "@de2/relation": "latest",
+        "@de2/shared": "latest",
+        "@de2/store": "latest",
+        "@de2290/sumoffactors": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-ku4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ku4es-data": "latest",
+        "ku4es-kernel": "latest",
+        "ku4es-react": "latest",
+        "ku4es-react-native-testing": "latest",
+        "ku4es-react-testing": "latest",
+        "ku4es-security": "latest",
+        "ku4es-testing": "latest",
+        "ku4es-ui-data": "latest",
+        "ku4es-ui-kernel": "latest",
+        "ku4es-ui-testing": "latest",
+        "ku4node-account": "latest",
+        "ku4node-authentication": "latest",
+        "ku4node-data": "latest",
+        "ku4node-infrastructure": "latest",
+        "ku4node-kernel": "latest",
+        "ku4node-persistence": "latest",
+        "ku4node-session": "latest",
+        "ku4node-social": "latest",
+        "ku4web-components": "latest"
+    }
+}

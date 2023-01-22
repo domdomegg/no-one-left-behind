@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-taic",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "taicensorify": "latest",
+        "taicer": "latest",
+        "taicerhub2": "latest",
+        "taichi": "latest",
+        "taichi-access": "latest",
+        "taichi-diagram": "latest",
+        "taichi-generator": "latest",
+        "taichi-orm": "latest",
+        "taichi-orm-examples": "latest",
+        "taichi-tape": "latest",
+        "taichi.db": "latest",
+        "taichi.js": "latest",
+        "taichiyi": "latest",
+        "taichiyi-npm-05": "latest",
+        "taichiyi-xxx": "latest",
+        "taichu": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-react-ur",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-ur": "latest",
+        "react-ur-tools": "latest",
+        "react-url": "latest",
+        "react-url-image-blurry-lazy-load": "latest",
+        "react-url-image-downloader": "latest",
+        "react-url-loader": "latest",
+        "react-url-modal": "latest",
+        "react-url-query": "latest",
+        "react-url-query-fixed-basename": "latest",
+        "react-url-router": "latest",
+        "react-url-slugify": "latest",
+        "react-url-state": "latest",
+        "react-url-state-manager": "latest",
+        "react-url-sync": "latest",
+        "react-url-table": "latest",
+        "react-url-texteditor": "latest",
+        "react-urlstack": "latest"
+    }
+}

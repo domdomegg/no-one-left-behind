@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-heu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "heu": "latest",
+        "heui": "latest",
+        "heumon": "latest",
+        "heunthep": "latest",
+        "heur-auth": "latest",
+        "heur-base": "latest",
+        "heur-design": "latest",
+        "heur-gql": "latest",
+        "heur-mysql-utils": "latest",
+        "heur-server": "latest",
+        "heurdist": "latest",
+        "heureka": "latest",
+        "heureka-widget-navigation": "latest",
+        "heureka-widget-navigation-2021": "latest",
+        "heureux": "latest",
+        "heuristicalert": "latest",
+        "heuristics": "latest",
+        "heus-ver": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-fase",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fase": "latest",
+        "fase4": "latest",
+        "fasecolda": "latest",
+        "faseh-cal": "latest",
+        "faseh-ng": "latest",
+        "fasent": "latest",
+        "fasetter": "latest"
+    }
+}

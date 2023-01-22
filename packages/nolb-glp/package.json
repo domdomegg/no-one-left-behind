@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-glp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "glp": "latest",
+        "glp-address-code": "latest",
+        "glp-dj-ui": "latest",
+        "glp-header": "latest",
+        "glp-minbfycss": "latest",
+        "glp-rel": "latest",
+        "glp-ui": "latest",
+        "glp-utils": "latest",
+        "glp-validator": "latest",
+        "glp-web-cli": "latest",
+        "glp_1": "latest",
+        "glpb-components-common": "latest",
+        "glpb-components-rn": "latest",
+        "glpb-slick-carousel": "latest",
+        "glpb-we-mobile": "latest",
+        "glpb-we-pc": "latest",
+        "glpenguin": "latest",
+        "glpg-reset": "latest",
+        "glpi": "latest",
+        "glpi-api": "latest",
+        "glpi-client": "latest",
+        "glpk": "latest",
+        "glpk-ts": "latest",
+        "glpk-wasm": "latest",
+        "glpk.js": "latest",
+        "glplotter": "latest",
+        "glppeslint": "latest",
+        "glpsass": "latest"
+    }
+}

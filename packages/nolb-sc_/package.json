@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-sc_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sc.amqp": "latest",
+        "sc.angular.framework": "latest",
+        "sc.angular.template": "latest",
+        "sc.js": "latest",
+        "sc.logging": "latest",
+        "sc_aov_la404": "latest",
+        "sc_bs_la404": "latest",
+        "sc_lh_la404": "latest",
+        "sc_lobcode": "latest",
+        "sc_localstorage": "latest",
+        "sc_microapps-react-authentication-context": "latest",
+        "sc_react": "latest",
+        "sc_test": "latest",
+        "sc_test_utils": "latest",
+        "sc_ym_la404": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_ryank",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryank1m/core": "latest",
+        "@ryank1m/entity-generator": "latest",
+        "@ryank1m/test123": "latest",
+        "@ryanke/apollo": "latest",
+        "@ryanke/eslint-config": "latest",
+        "@ryanke/imdb-api": "latest",
+        "@ryanke/openapi-typescript": "latest",
+        "@ryanke/pandora": "latest",
+        "@ryanke/sentinel": "latest",
+        "@ryanke/venera": "latest",
+        "@ryanknutson/rkgis": "latest",
+        "@ryankwok/lotide": "latest"
+    }
+}

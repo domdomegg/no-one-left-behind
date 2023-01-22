@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_bein",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@beincom/auto-dump-heap": "latest",
+        "@beincom/common": "latest",
+        "@beincom/constants": "latest",
+        "@beincom/domain": "latest",
+        "@beincom/dto": "latest",
+        "@beincom/infrastructure": "latest",
+        "@beincom/nest-domain-event": "latest",
+        "@beincom/sequelize-transaction-manager": "latest",
+        "@beincomm/draft-js-plugins": "latest",
+        "@beincomm/draft-js-plugins-list": "latest",
+        "@beincomm/markdown-draft-js": "latest",
+        "@beinformed/citra": "latest",
+        "@beinformed/ui": "latest",
+        "@being_z/react-components-core": "latest",
+        "@beinghussain/react-native-foreground-service": "latest",
+        "@beingrahulvyas/react-native-accordion": "latest",
+        "@beinlife/react-scripts": "latest"
+    }
+}

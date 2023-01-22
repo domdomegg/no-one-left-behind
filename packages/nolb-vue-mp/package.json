@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-vue-mp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-mp3player": "latest",
+        "vue-mpa": "latest",
+        "vue-mpa-skeleton-plugin": "latest",
+        "vue-mpi-actor": "latest",
+        "vue-mplayer": "latest",
+        "vue-mptt-tree": "latest"
+    }
+}

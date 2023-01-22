@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-react-rr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-rr": "latest",
+        "react-rrc-ui": "latest",
+        "react-rrr": "latest",
+        "react-rrule": "latest",
+        "react-rrule-builder": "latest",
+        "react-rrule-generator": "latest",
+        "react-rrule-generator-custom": "latest",
+        "react-rrule-generator-customo": "latest",
+        "react-rrule-generator-lite": "latest",
+        "react-rrule-generator-offix": "latest",
+        "react-rrule-generator-semantic": "latest",
+        "react-rrule-generator-ts": "latest",
+        "react-rrule-generator-tt": "latest",
+        "react-rrule-generator2": "latest",
+        "react-rrule-input": "latest"
+    }
+}

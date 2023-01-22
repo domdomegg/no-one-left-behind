@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-csu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "csu-tool": "latest",
+        "csu-xzy": "latest",
+        "csudh-catalogscraper": "latest",
+        "csui2203": "latest",
+        "csukylin": "latest",
+        "csum": "latest",
+        "csuper-tinypng": "latest",
+        "csurf": "latest",
+        "csurf-expire": "latest",
+        "csurf-invalidate": "latest",
+        "csurf-login-token": "latest",
+        "csurf-noroutes": "latest",
+        "csurf-sep": "latest",
+        "csurf2": "latest",
+        "csurfer": "latest",
+        "csurl": "latest",
+        "csurl-browser": "latest",
+        "csutil": "latest",
+        "csutil-ucas": "latest"
+    }
+}

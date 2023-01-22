@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-noj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "noj": "latest",
+        "noj-jquery-ui-sortable": "latest",
+        "noj-monaco-themes": "latest",
+        "nojam": "latest",
+        "nojank": "latest",
+        "nojava": "latest",
+        "nojector": "latest",
+        "nojekyll": "latest",
+        "nojiko": "latest",
+        "nojinx": "latest",
+        "nojquery": "latest",
+        "nojs": "latest",
+        "nojs-cli": "latest",
+        "nojs-core": "latest",
+        "nojs-mat": "latest",
+        "nojs-react": "latest",
+        "nojs-test": "latest",
+        "nojs-toolkit": "latest",
+        "nojs-validator": "latest",
+        "nojs2": "latest",
+        "nojs2js": "latest",
+        "nojscript": "latest",
+        "nojsdb-cli": "latest",
+        "nojsdb-client": "latest",
+        "nojsdb-core": "latest",
+        "nojsdb-server": "latest",
+        "nojson-base": "latest",
+        "nojsx": "latest"
+    }
+}

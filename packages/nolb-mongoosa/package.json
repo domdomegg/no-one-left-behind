@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-mongoosa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mongoosastic": "latest",
+        "mongoosastic-aceinna": "latest",
+        "mongoosastic-extend": "latest",
+        "mongoosastic-fixbug": "latest",
+        "mongoosastic-imp": "latest",
+        "mongoosastic-ir": "latest",
+        "mongoosastic-ts": "latest",
+        "mongoosastic-with-errors": "latest"
+    }
+}

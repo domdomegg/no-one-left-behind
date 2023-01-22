@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_typa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@typa/access": "latest",
+        "@typa/command-handling": "latest",
+        "@typa/common": "latest",
+        "@typa/domain": "latest",
+        "@typa/event-handling": "latest",
+        "@typa/event-sourcing": "latest",
+        "@typa/eventsourcing": "latest",
+        "@typa/logger": "latest",
+        "@typa/nest": "latest",
+        "@typa/projection": "latest",
+        "@typa/query-handling": "latest",
+        "@typa/security": "latest",
+        "@typa/storage": "latest",
+        "@typa/wolkenkit": "latest",
+        "@typa/workflow": "latest"
+    }
+}

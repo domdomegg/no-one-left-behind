@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_myv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@myvalue/sso": "latest",
+        "@myvuepress/utils": "latest",
+        "@myvuepress/vuepress-plugin-adsensed": "latest",
+        "@myvuepress/vuepress-plugin-banner": "latest",
+        "@myvuepress/vuepress-plugin-categories": "latest",
+        "@myvuepress/vuepress-plugin-indexlist": "latest",
+        "@myvuepress/vuepress-plugin-tagged": "latest",
+        "@myvuepress/vuepress-theme-barebones": "latest",
+        "@myvuepress/vuepress-theme-sponge": "latest"
+    }
+}

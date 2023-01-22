@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-vue-clu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cluster": "latest",
+        "vue-cluster-default": "latest",
+        "vue-clusterize": "latest",
+        "vue-clusterize-fixed": "latest"
+    }
+}

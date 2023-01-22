@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-grapht",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grapht": "latest",
+        "graphtalk-react": "latest",
+        "graphtask": "latest",
+        "graphtastic": "latest",
+        "graphter": "latest",
+        "graphthis": "latest",
+        "graphticon-schema": "latest",
+        "graphtml": "latest",
+        "graphtoast": "latest",
+        "graphtoaster": "latest",
+        "graphtoaster-cli": "latest",
+        "graphtoaster-generate-resolver": "latest",
+        "graphtransliterator": "latest",
+        "graphtree": "latest",
+        "graphts": "latest",
+        "graphty": "latest",
+        "graphtype": "latest"
+    }
+}

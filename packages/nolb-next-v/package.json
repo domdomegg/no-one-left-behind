@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-next-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "next-validations": "latest",
+        "next-validations_matteogauthier_fork": "latest",
+        "next-validator": "latest",
+        "next-validenv": "latest",
+        "next-venders": "latest",
+        "next-ver": "latest",
+        "next-version": "latest",
+        "next-version-file": "latest",
+        "next-video": "latest",
+        "next-videos": "latest",
+        "next-viz": "latest",
+        "next-vue": "latest",
+        "next-vue-button": "latest",
+        "next-vue-device-detector": "latest",
+        "next-vue-storage-watcher": "latest"
+    }
+}

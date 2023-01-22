@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-minil",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "minilance-theme-nodebb": "latest",
+        "minilang": "latest",
+        "minilazyload": "latest",
+        "minilibraelixir": "latest",
+        "minilibraelixir1": "latest",
+        "minilight.js": "latest",
+        "minilink": "latest",
+        "minilint": "latest",
+        "minilisp": "latest",
+        "minilite": "latest",
+        "minilocaldb": "latest",
+        "minilock-cli": "latest",
+        "minilog": "latest",
+        "minilog-airbrake": "latest",
+        "minilog-rollbar": "latest",
+        "minilogger": "latest",
+        "minilogic": "latest",
+        "minily": "latest",
+        "minily-ui": "latest",
+        "minilytics": "latest"
+    }
+}

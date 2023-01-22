@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-dat_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dat.dll": "latest",
+        "dat.fire": "latest",
+        "dat.gui": "latest",
+        "dat.gui-mirror": "latest",
+        "dat.gui.ease": "latest",
+        "dat.gui.ease.animejs": "latest",
+        "dat.gui.ease.gsap": "latest",
+        "dat.gui.ease.gsap.v2": "latest",
+        "dat.gui.ease.gsap.v3": "latest",
+        "dat.gui.ease.tweenjs": "latest",
+        "dat.gui.ease.velocityjs": "latest",
+        "dat.gui.image": "latest",
+        "dat.gui.midi": "latest",
+        "dat.gui.ml": "latest",
+        "dat.haus": "latest",
+        "dat.js": "latest",
+        "dat.min.js": "latest",
+        "dat_gui": "latest",
+        "dat_npm_test": "latest",
+        "dat_npm_test_1": "latest"
+    }
+}

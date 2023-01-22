@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-icq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "icq": "latest",
+        "icq-bot": "latest",
+        "icq-bot-node": "latest",
+        "icq-bot-node-node": "latest",
+        "icq-bot-sdk": "latest",
+        "icql": "latest",
+        "icql-dba": "latest",
+        "icql-dba-catalog": "latest",
+        "icql-dba-hollerith": "latest",
+        "icql-dba-tabulate": "latest",
+        "icql-dba-tags": "latest",
+        "icql-dba-vars": "latest",
+        "icqq": "latest",
+        "icqq-cq-enable": "latest",
+        "icquery": "latest",
+        "icquery2": "latest"
+    }
+}

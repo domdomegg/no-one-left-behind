@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_cef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cef-ebsi/app-jwt": "latest",
+        "@cef-ebsi/did-auth": "latest",
+        "@cef-ebsi/did-jwt": "latest",
+        "@cef-ebsi/did-resolver": "latest",
+        "@cef-ebsi/ebsi-did-resolver": "latest",
+        "@cef-ebsi/ebsi-siop-auth": "latest",
+        "@cef-ebsi/ebsinp-did-resolver": "latest",
+        "@cef-ebsi/express-problem-details": "latest",
+        "@cef-ebsi/fabric-wallet-lib": "latest",
+        "@cef-ebsi/oauth2-auth": "latest",
+        "@cef-ebsi/problem-details-errors": "latest",
+        "@cef-ebsi/siop-auth": "latest",
+        "@cef-ebsi/verifiable-credential": "latest",
+        "@cef-ebsi/verifiable-presentation": "latest",
+        "@cef-ebsi/wallet-lib": "latest"
+    }
+}

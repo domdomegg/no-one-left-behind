@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_cloudr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cloudraker/babel-preset-typescript": "latest",
+        "@cloudraker/firebase-ui-web-fr": "latest",
+        "@cloudraker/img-diff-js": "latest",
+        "@cloudraker/nestjs-typegoose": "latest",
+        "@cloudraker/ng-stepper": "latest",
+        "@cloudraker/sass-brunch": "latest",
+        "@cloudreach/docker-secrets": "latest",
+        "@cloudrecipes/aws-lambda-greeter": "latest"
+    }
+}

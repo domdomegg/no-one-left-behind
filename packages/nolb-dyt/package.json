@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-dyt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dyt": "latest",
+        "dyt_sensorsdata": "latest",
+        "dytab": "latest",
+        "dytab123": "latest",
+        "dytab1234": "latest",
+        "dytable": "latest",
+        "dytable123": "latest",
+        "dytabsearch": "latest",
+        "dyte-client": "latest",
+        "dyte-plugin-sdk": "latest",
+        "dytejs": "latest",
+        "dytestsupermod": "latest",
+        "dytt": "latest",
+        "dytt-reptitle": "latest",
+        "dytt-reptitle-v2": "latest",
+        "dytt-reptitle-v3": "latest",
+        "dytwo": "latest"
+    }
+}

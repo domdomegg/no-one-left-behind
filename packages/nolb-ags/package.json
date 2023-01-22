@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-ags",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ags-download": "latest",
+        "ags-product-card": "latest",
+        "ags-stream": "latest",
+        "ags-url-detection": "latest",
+        "ags-walk": "latest",
+        "ags4x-react-scripts": "latest",
+        "ags_authrest": "latest",
+        "agsek-node-chat": "latest",
+        "agsfy": "latest",
+        "agsjs": "latest",
+        "agsm": "latest",
+        "agsm-stenciljs": "latest",
+        "agsola-react-ens-address": "latest",
+        "agson": "latest",
+        "agsout": "latest",
+        "agspiel": "latest",
+        "agspiel-js-api": "latest",
+        "agspot": "latest",
+        "agstopwatch": "latest",
+        "agstore": "latest",
+        "agswap-sdk": "latest"
+    }
+}

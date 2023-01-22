@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-swj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "swj": "latest",
+        "swj-base-ui": "latest",
+        "swj-cli": "latest",
+        "swj-cli-dev": "latest",
+        "swj-design-ui-frame": "latest",
+        "swj-test": "latest",
+        "swj-test-npm": "latest",
+        "swj-tools": "latest",
+        "swj-ui": "latest",
+        "swj456": "latest"
+    }
+}

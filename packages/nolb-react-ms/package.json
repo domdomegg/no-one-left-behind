@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-react-ms",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-ms": "latest",
+        "react-ms-login": "latest",
+        "react-ms-test": "latest",
+        "react-ms-website": "latest",
+        "react-msa-viewer": "latest",
+        "react-msal": "latest",
+        "react-msal-b2c": "latest",
+        "react-msaview": "latest",
+        "react-msc": "latest",
+        "react-msdf-text": "latest",
+        "react-msfs": "latest",
+        "react-msfu": "latest",
+        "react-msg-box": "latest",
+        "react-mslide": "latest",
+        "react-mssql": "latest",
+        "react-mst-form": "latest",
+        "react-mst-grid-layout": "latest",
+        "react-mst-map-customerlist": "latest",
+        "react-mst-npm-boilerplate": "latest"
+    }
+}

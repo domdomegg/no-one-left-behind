@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_typesk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@typeskill/debugger": "latest",
+        "@typeskill/eslint-config": "latest",
+        "@typeskill/typer": "latest",
+        "@typeskrift/benchmarker": "latest",
+        "@typeskrift/dayjs-utils": "latest",
+        "@typeskrift/fast-memoize-decorator": "latest",
+        "@typeskrift/foreman": "latest",
+        "@typeskrift/moize-decorator": "latest",
+        "@typeskrift/remote-address": "latest",
+        "@typeskrift/strformat": "latest",
+        "@typeskrift/tsconfig": "latest",
+        "@typeskrift/tslint": "latest",
+        "@typeskrift/yamel": "latest"
+    }
+}

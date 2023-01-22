@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_opp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@opp100/eslint-config": "latest",
+        "@oppa/universal-components": "latest",
+        "@oppenheimer/parse-server": "latest",
+        "@oppenheimer/react-native-chart-kit": "latest",
+        "@oppenheimer/react-responsive-modal": "latest",
+        "@opperdev/njsll": "latest",
+        "@opperdev/proxygetter": "latest",
+        "@oppie/short": "latest",
+        "@opplane/not-me": "latest",
+        "@opplysningen1881/inn-js": "latest",
+        "@oppnys/core": "latest",
+        "@oppnys/utils": "latest",
+        "@oppo-minigame/cli": "latest",
+        "@oppo-toolkit/compiler": "latest",
+        "@oppo-toolkit/debugger": "latest",
+        "@oppo-toolkit/dsl-vue": "latest",
+        "@oppo-toolkit/dsl-xvm": "latest",
+        "@oppo-toolkit/packager": "latest",
+        "@oppo-toolkit/server": "latest",
+        "@oppo-toolkit/shared-utils": "latest",
+        "@oppobrowser/uploader": "latest",
+        "@oppobrowser/vue-easy-toast": "latest",
+        "@opptickets/common": "latest"
+    }
+}

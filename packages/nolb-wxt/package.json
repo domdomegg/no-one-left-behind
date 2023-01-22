@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-wxt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wxt-cli": "latest",
+        "wxt-components": "latest",
+        "wxtest-ci-zjy": "latest",
+        "wxtest004": "latest",
+        "wxtestday": "latest",
+        "wxtjsdk": "latest",
+        "wxtlandscroll": "latest",
+        "wxtoken": "latest",
+        "wxtouni": "latest",
+        "wxtovue": "latest",
+        "wxts": "latest",
+        "wxts-cli": "latest",
+        "wxts-js": "latest",
+        "wxts-ui": "latest",
+        "wxttestframs": "latest",
+        "wxtzzq102": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_digz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@digz6666/react-math-view": "latest",
+        "@digz6666/react-mathlive": "latest",
+        "@digznav/eslint-config-digznav": "latest"
+    }
+}

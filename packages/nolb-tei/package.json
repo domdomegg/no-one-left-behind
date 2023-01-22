@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-tei",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tei": "latest",
+        "tei-editor": "latest",
+        "tei-parser": "latest",
+        "tei-reader": "latest",
+        "tei-render": "latest",
+        "tei-util": "latest",
+        "teia-search": "latest",
+        "teia-search-cli": "latest",
+        "teible": "latest",
+        "teible-multisort": "latest",
+        "teide": "latest",
+        "teido-backend": "latest",
+        "teig": "latest",
+        "teigen": "latest",
+        "teihiatheithwqoeht": "latest",
+        "teikn": "latest",
+        "teil": "latest",
+        "teilen": "latest",
+        "tein": "latest",
+        "teinei-text-counter": "latest",
+        "teinte": "latest",
+        "teiparser": "latest",
+        "teishi": "latest",
+        "teixeira": "latest",
+        "teixeira-button": "latest",
+        "teiya-imooc-test": "latest",
+        "teize": "latest"
+    }
+}

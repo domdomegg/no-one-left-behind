@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-vue-az",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-azure-active-directory": "latest",
+        "vue-azure-blob-upload": "latest",
+        "vue-azure-maps": "latest"
+    }
+}

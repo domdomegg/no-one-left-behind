@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-eslintr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslintr-plugzn-promise": "latest",
+        "eslintrc": "latest",
+        "eslintrc-dj": "latest",
+        "eslintrc-generator": "latest",
+        "eslintrc-type": "latest",
+        "eslintrc-up": "latest",
+        "eslintrc.json": "latest"
+    }
+}

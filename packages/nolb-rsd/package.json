@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-rsd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rsd": "latest",
+        "rsd-gulptasks-release": "latest",
+        "rsd-helpers-release": "latest",
+        "rsdb": "latest",
+        "rsdevcamp-js-footer": "latest",
+        "rsdframeproj": "latest",
+        "rsdi": "latest",
+        "rsdice": "latest",
+        "rsdkn": "latest",
+        "rsdl-js": "latest",
+        "rsdn": "latest",
+        "rsdn-decorators": "latest",
+        "rsdn-scroll-js": "latest",
+        "rsdn_pagination": "latest",
+        "rsdn_query_builder": "latest",
+        "rsdn_validation": "latest",
+        "rsdonkey_package": "latest",
+        "rsdrawer": "latest"
+    }
+}

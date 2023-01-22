@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-reste",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reste": "latest",
+        "restea": "latest",
+        "resteasy": "latest",
+        "restecho2": "latest",
+        "rested": "latest",
+        "rested-resources": "latest",
+        "resteemo": "latest",
+        "restel": "latest",
+        "restem": "latest",
+        "restemayer-palindrome": "latest",
+        "restemix": "latest",
+        "resteps": "latest",
+        "rester": "latest",
+        "rester-client": "latest",
+        "rester-js": "latest",
+        "rester-tools": "latest",
+        "resterror": "latest",
+        "restest": "latest",
+        "restex": "latest",
+        "restez": "latest"
+    }
+}

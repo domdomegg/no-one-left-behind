@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-naj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "naj": "latest",
+        "naj-ethers-networks": "latest",
+        "naj-web3modal": "latest",
+        "naja": "latest",
+        "najax": "latest",
+        "najaxjs": "latest",
+        "najcbshc": "latest",
+        "najdisi-sms-api": "latest",
+        "najendra-test": "latest",
+        "najib_calc": "latest",
+        "najim-test": "latest",
+        "najot-talim": "latest",
+        "najs": "latest",
+        "najs-binding": "latest",
+        "najs-cli": "latest",
+        "najs-eloquent": "latest",
+        "najs-eloquent-mongodb": "latest",
+        "najs-eloquent-mongoose": "latest",
+        "najs-event": "latest",
+        "najs-facade": "latest",
+        "najs-foundation": "latest",
+        "najtingalo": "latest",
+        "najva": "latest",
+        "najva-react-native-plugin": "latest",
+        "najvareactnative": "latest"
+    }
+}

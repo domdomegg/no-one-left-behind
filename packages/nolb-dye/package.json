@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-dye",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dye": "latest",
+        "dye9": "latest",
+        "dyedhair": "latest",
+        "dyeditor": "latest",
+        "dyeditor-balloon": "latest",
+        "dyel": "latest",
+        "dyer-test-pil": "latest",
+        "dyerchajain": "latest"
+    }
+}

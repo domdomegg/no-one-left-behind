@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_hox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hox.io/hooks": "latest",
+        "@hox.io/rando": "latest",
+        "@hox.io/react-form": "latest",
+        "@hox.io/react-store": "latest",
+        "@hox.io/use-dexie": "latest",
+        "@hox.io/use-lottie": "latest",
+        "@hoxhaj/jwt-bearer-auth": "latest"
+    }
+}

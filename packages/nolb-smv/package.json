@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-smv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "SMValidator": "latest",
+        "smv": "latest",
+        "smv-app-firebase-plugin": "latest",
+        "smv-demo-pkg": "latest",
+        "smv-kepler-app-firebase": "latest",
+        "smv-kepler-app-firebase-config": "latest",
+        "smv-modal": "latest",
+        "smv-ui": "latest",
+        "smvalidatejs": "latest"
+    }
+}

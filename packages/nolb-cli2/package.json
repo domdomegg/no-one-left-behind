@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-cli2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cli2": "latest",
+        "cli20": "latest",
+        "cli20180523": "latest",
+        "cli2209": "latest",
+        "cli2compose": "latest",
+        "cli2jenkins": "latest",
+        "cli2json": "latest",
+        "cli2obj": "latest",
+        "cli2vite": "latest",
+        "cli2ymy": "latest",
+        "cli2z": "latest"
+    }
+}

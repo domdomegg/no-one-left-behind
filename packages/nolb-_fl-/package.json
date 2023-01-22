@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_fl-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fl-did-registry/did": "latest",
+        "@fl-did-registry/did-document": "latest",
+        "@fl-did-registry/did-ipfs-store": "latest",
+        "@fl-did-registry/did-nft-resolver": "latest",
+        "@fl-did-registry/did-resolver-interface": "latest",
+        "@fl-did-registry/did-store-interface": "latest",
+        "@fl-did-registry/jwt": "latest",
+        "@fl-did-registry/keys": "latest",
+        "@fl-did-registry/lnft-lib": "latest"
+    }
+}

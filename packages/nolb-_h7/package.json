@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_h7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@h74-sps/fetcher": "latest",
+        "@h74-sps/logger": "latest",
+        "@h74-sps/react-context-storage": "latest",
+        "@h74-sps/types": "latest",
+        "@h74-sps/utils": "latest",
+        "@h74-sps/validation": "latest",
+        "@h74-sps/vite-lib-config": "latest",
+        "@h74-sps/vite-plugin-checker": "latest",
+        "@h74-sps/vite-plugin-react-svg": "latest",
+        "@h74-types/enzyme": "latest",
+        "@h74-types/general": "latest",
+        "@h75408706/weather-cli-test": "latest",
+        "@h7ghost/make-bem": "latest",
+        "@h7ml/better-ui": "latest"
+    }
+}

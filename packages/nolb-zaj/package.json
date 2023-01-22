@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-zaj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zaj": "latest",
+        "zajac-jakub-3ib1-test-zsl": "latest",
+        "zajith": "latest",
+        "zajno-react-ui-kit": "latest"
+    }
+}

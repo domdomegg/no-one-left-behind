@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-pere",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "peregrinator-ng2-file-upload": "latest",
+        "peregrine": "latest",
+        "peregrine-cms-test-html": "latest",
+        "peregrine-js": "latest",
+        "peregrine-spfoos": "latest",
+        "peregrine-validator": "latest",
+        "peregrinedev-map": "latest",
+        "perekskog-frame-print": "latest",
+        "perenity-library": "latest",
+        "perennial": "latest",
+        "perenquen": "latest",
+        "perenv.macro": "latest",
+        "peres-chart2level": "latest",
+        "perestroika-css": "latest",
+        "perez": "latest",
+        "perez-lib": "latest",
+        "perez-npm": "latest",
+        "perezmogrovejo_tecsup": "latest",
+        "perezoso": "latest",
+        "perezoso-js": "latest"
+    }
+}

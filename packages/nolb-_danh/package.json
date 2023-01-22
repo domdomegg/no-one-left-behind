@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_danh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@danhab99/consolejs": "latest",
+        "@danhab99/create-rest-server": "latest",
+        "@danhab99/facebook-login-for-robot": "latest",
+        "@danhab99/facebook.js": "latest",
+        "@danhab99/multer-minio-storage-engine": "latest",
+        "@danhab99/ws-cli": "latest",
+        "@danhaddadb/platzom": "latest",
+        "@danharrin/alpine-mousetrap": "latest",
+        "@danharrin/frame": "latest",
+        "@danhawkins/avro-kafkajs": "latest",
+        "@danhawkins/castle": "latest",
+        "@danhohz/create-react-component": "latest",
+        "@danhu90/work-template-cli": "latest"
+    }
+}

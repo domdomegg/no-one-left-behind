@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-babel-preset-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-preset-yamsafer": "latest",
+        "babel-preset-yamsafer-project": "latest",
+        "babel-preset-yarus": "latest",
+        "babel-preset-yc-app": "latest",
+        "babel-preset-yeti": "latest",
+        "babel-preset-yoctol": "latest",
+        "babel-preset-yoshi": "latest",
+        "babel-preset-ytian": "latest",
+        "babel-preset-yui3": "latest",
+        "babel-preset-yw": "latest"
+    }
+}

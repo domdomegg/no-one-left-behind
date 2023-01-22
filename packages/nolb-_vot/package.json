@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_vot",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vote539/excel-as-json": "latest",
+        "@votech/react-image-gallery": "latest",
+        "@votemike/property": "latest",
+        "@votilityprotocol/contracts": "latest",
+        "@votilityprotocol/smartcontracts": "latest",
+        "@voting-power/contracts": "latest",
+        "@voting-power/sdk": "latest",
+        "@votingworks/ballot-encoder": "latest",
+        "@votingworks/ballot-renderer": "latest",
+        "@votingworks/hmpb-interpreter": "latest",
+        "@votingworks/qrcode.react": "latest",
+        "@votingworks/qrdetect": "latest",
+        "@votjs/client": "latest",
+        "@votr/contracts": "latest",
+        "@vottuscode/confstructor": "latest",
+        "@vottuscode/deploy-script": "latest",
+        "@vottuscode/fastify-vue-static": "latest",
+        "@vottuscode/response-spec": "latest",
+        "@vottuscode/ts-topbar": "latest",
+        "@vottuscode/vue-fetchable": "latest",
+        "@votuan/utils-js": "latest"
+    }
+}

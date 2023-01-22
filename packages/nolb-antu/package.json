@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-antu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "antu-react-native-doc-viewer": "latest",
+        "antu-rn-doc-viewer": "latest",
+        "antu-rn-echarts": "latest",
+        "antu-rn-qrcode": "latest",
+        "antu-rn-scrollable-tab-view": "latest",
+        "antu-rn-xlog": "latest",
+        "antuday1": "latest",
+        "antue": "latest",
+        "antui": "latest",
+        "antui-admin": "latest",
+        "antui-mobile": "latest",
+        "antui-mp": "latest",
+        "antun": "latest",
+        "antuploader": "latest",
+        "anturi": "latest",
+        "antut": "latest",
+        "antutu-for-scripts": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_typew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@typewithme/echoit": "latest",
+        "@typework/component": "latest",
+        "@typework/core": "latest",
+        "@typewriter/delta": "latest",
+        "@typewriter/demo": "latest",
+        "@typewriter/document": "latest",
+        "@typewriter/editor": "latest",
+        "@typewriter/json-patch": "latest",
+        "@typewriter/modules": "latest",
+        "@typewriter/ui": "latest",
+        "@typewriter/view": "latest",
+        "@typewriter/view-svelte": "latest",
+        "@typewriter/view-vdom": "latest",
+        "@typewriterjs/typewriterjs": "latest",
+        "@typewriterjs/typewriterjs-angular": "latest",
+        "@typewryter/admin": "latest"
+    }
+}

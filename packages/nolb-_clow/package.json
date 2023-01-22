@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_clow",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@clowd/fsl": "latest",
+        "@clowd/suggest-test": "latest",
+        "@clowder-generator/generator-generator": "latest",
+        "@clowder-generator/utils": "latest",
+        "@clowdhaus/serverless-python-requirements": "latest",
+        "@clowdr-app/amazon-chime-sdk-component-library-react": "latest",
+        "@clowdr-app/clowdr-db-schema": "latest",
+        "@clowdr-app/srt-webvtt": "latest",
+        "@clowdy/plugin-nodejs": "latest",
+        "@clownegg/utils": "latest",
+        "@clownjs/animation-dialog": "latest",
+        "@clownjs/mouse-menu": "latest",
+        "@clownjs/resize": "latest",
+        "@clownjs/sakura": "latest",
+        "@clownjs/shared": "latest",
+        "@clownjs/size-observer": "latest",
+        "@clownjs/standard-tabs": "latest",
+        "@clownjs/typer": "latest",
+        "@clownjs/yaml-edit": "latest",
+        "@clownlee/canvas-utils": "latest",
+        "@clownlee/tools": "latest",
+        "@clownlee/utils": "latest"
+    }
+}

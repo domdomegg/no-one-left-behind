@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-svd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svd": "latest",
+        "svd-express-https-middleware": "latest",
+        "svd-finder": "latest",
+        "svd-footer": "latest",
+        "svd-geodata": "latest",
+        "svd-js": "latest",
+        "svd-react-native-beacons-manager": "latest",
+        "svd-style": "latest",
+        "svd-vue-components": "latest",
+        "svd-xbee": "latest",
+        "svdctest": "latest",
+        "svdesignti-coreui-vue-acl": "latest",
+        "svdoc": "latest",
+        "svdsvglib": "latest",
+        "svdsvglibib": "latest"
+    }
+}

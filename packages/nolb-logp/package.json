@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-logp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "logp": "latest",
+        "logpackage": "latest",
+        "logparser": "latest",
+        "logparty": "latest",
+        "logpassadder": "latest",
+        "logpath": "latest",
+        "logpct": "latest",
+        "logpersist": "latest",
+        "logpi": "latest",
+        "logpile": "latest",
+        "logpiper": "latest",
+        "logplease": "latest",
+        "logplease-es5": "latest",
+        "logpleaser": "latest",
+        "logplex-normalizer": "latest",
+        "logplus": "latest",
+        "logpoint": "latest",
+        "logport": "latest",
+        "logpp": "latest",
+        "logpreview": "latest",
+        "logpreview-blue": "latest",
+        "logpreview-error": "latest",
+        "logpreviews": "latest",
+        "logprovider": "latest",
+        "logproxy": "latest",
+        "logpump": "latest",
+        "logputd": "latest"
+    }
+}

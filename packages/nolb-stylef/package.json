@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-stylef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylefill": "latest",
+        "stylefire": "latest",
+        "stylefix.js": "latest",
+        "styleflux": "latest",
+        "styleflux-web": "latest",
+        "stylefmt": "latest",
+        "stylefmt--pr-320": "latest",
+        "stylefmt-loader": "latest",
+        "stylefy": "latest"
+    }
+}

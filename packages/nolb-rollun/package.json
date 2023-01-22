@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-rollun",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rollun-common": "latest",
+        "rollun-common-widgets": "latest",
+        "rollun-dojo-app-skeleton": "latest",
+        "rollun-js": "latest",
+        "rollun-rql": "latest",
+        "rollun-rql-query-builder": "latest",
+        "rollun-ts-datastore": "latest",
+        "rollun-ts-grid": "latest",
+        "rollun-ts-rql": "latest",
+        "rollun-ts-utils": "latest"
+    }
+}

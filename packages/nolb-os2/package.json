@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-os2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "os2": "latest",
+        "os2d": "latest",
+        "os2display-grid-generator": "latest",
+        "os2l": "latest"
+    }
+}

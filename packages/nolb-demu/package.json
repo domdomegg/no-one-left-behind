@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-demu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "demu": "latest",
+        "demultiline": "latest",
+        "demur": "latest",
+        "demurgos-foreground-child": "latest",
+        "demurgos-spawn-wrap": "latest",
+        "demurgos-web-build-tools": "latest",
+        "demurrage": "latest",
+        "demusic-metadata": "latest",
+        "demux": "latest",
+        "demux-ala": "latest",
+        "demux-atomic-events": "latest",
+        "demux-bitshares": "latest",
+        "demux-cli": "latest",
+        "demux-eos": "latest",
+        "demux-eos-state-history": "latest",
+        "demux-ethereum": "latest",
+        "demux-iost": "latest",
+        "demux-iost-example": "latest",
+        "demux-js": "latest",
+        "demux-js-iost": "latest",
+        "demux-js-mysql": "latest",
+        "demux-minter": "latest",
+        "demux-postgres": "latest",
+        "demuxer": "latest"
+    }
+}

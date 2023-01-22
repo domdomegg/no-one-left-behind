@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_juz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@juze/b": "latest",
+        "@juze/utils": "latest",
+        "@juzhenfe/create-template": "latest",
+        "@juzhenfe/modules": "latest",
+        "@juzhenfe/modules-huawei-dev": "latest",
+        "@juzhenfe/page-model": "latest",
+        "@juzhenfe/parse-design-config": "latest",
+        "@juzhenfe/request": "latest",
+        "@juzhenfe/scan-code": "latest",
+        "@juzhenfe/uploader": "latest",
+        "@juzi.bot/whatsapp-web.js": "latest",
+        "@juzi/ncc": "latest",
+        "@juzi/protobufjs": "latest",
+        "@juzi/protobufjs-cli": "latest",
+        "@juzi/wechaty": "latest",
+        "@juzi/wechaty-grpc": "latest",
+        "@juzi/wechaty-puppet": "latest",
+        "@juzi/wechaty-puppet-mock": "latest",
+        "@juzi/wechaty-puppet-service": "latest",
+        "@juzi/wechaty-puppet-whatsapp": "latest",
+        "@juzi/wechaty-redux": "latest",
+        "@juzi/whatsapp-web.js": "latest",
+        "@juzousatoru2/easy-logger": "latest",
+        "@juztcode/angular-auth": "latest",
+        "@juztcode/sqlite-admin": "latest",
+        "@juztcode/ts-collections": "latest"
+    }
+}

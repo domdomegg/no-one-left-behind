@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-clq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clq": "latest",
+        "clq-city-select": "latest",
+        "clq-demo": "latest",
+        "clq-largenumber": "latest",
+        "clq-lazy": "latest",
+        "clq-util": "latest",
+        "clqtime": "latest"
+    }
+}

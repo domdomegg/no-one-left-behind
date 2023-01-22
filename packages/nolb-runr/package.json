@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-runr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "runr": "latest",
+        "runrepl": "latest",
+        "runrun-cli": "latest",
+        "runrun-icons2": "latest",
+        "runrun-navbar": "latest",
+        "runrunit": "latest",
+        "runrunit-cli": "latest",
+        "runrunrun": "latest",
+        "runruntypes": "latest"
+    }
+}

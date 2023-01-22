@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_thn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@thndr/babel-plugin-captains-log": "latest",
+        "@thndrgames/nodejs-utils": "latest",
+        "@thnkscj/logger-plus": "latest",
+        "@thnovice_npm/banner-components": "latest",
+        "@thnt/remark-oembed": "latest",
+        "@thnxziggy/lotide": "latest"
+    }
+}

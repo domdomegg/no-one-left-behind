@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-obr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "obr-ui-core": "latest",
+        "obr_graph_tools": "latest",
+        "obrad-module": "latest",
+        "obras-react-core": "latest",
+        "obras-react-utils": "latest",
+        "obrays": "latest",
+        "obrc": "latest",
+        "obre": "latest",
+        "obrema": "latest",
+        "obric": "latest",
+        "obrienu-frame-print": "latest",
+        "obrienware-mysql": "latest",
+        "obrigado-react-admin-backend-utils": "latest",
+        "obrigado-react-admin-frontend-utils": "latest",
+        "obrigado-redux-utils": "latest",
+        "obrray": "latest"
+    }
+}

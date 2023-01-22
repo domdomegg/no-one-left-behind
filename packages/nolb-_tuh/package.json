@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_tuh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tuhi-actions/core": "latest",
+        "@tuhi/cli": "latest",
+        "@tuhi/engine": "latest",
+        "@tuhinkarmakar/relative-time": "latest",
+        "@tuhu/dt-weapp": "latest",
+        "@tuhu/imgcut": "latest",
+        "@tuhu/loading": "latest",
+        "@tuhu/miniprogram-api-typings": "latest",
+        "@tuhu/miniprogram-recycle-view": "latest",
+        "@tuhu/mp-components": "latest",
+        "@tuhu/mp-lib": "latest",
+        "@tuhu/mp-monitor": "latest",
+        "@tuhu/mp-sensor": "latest",
+        "@tuhu/mpvue": "latest",
+        "@tuhu/native-interaction": "latest",
+        "@tuhu/posthtml-plugin-monitor": "latest",
+        "@tuhu/pulldownup": "latest",
+        "@tuhu/watermark": "latest",
+        "@tuhu/we-plugins": "latest",
+        "@tuhu/weapp-cli": "latest",
+        "@tuhu/webpack-miniapp-vue": "latest"
+    }
+}

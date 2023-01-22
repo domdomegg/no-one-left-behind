@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-typen",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typen": "latest",
+        "typename-monkey-patch": "latest",
+        "typenames": "latest",
+        "typend": "latest",
+        "typeneko-example": "latest",
+        "typenetic": "latest",
+        "typenode": "latest",
+        "typenode_cli": "latest",
+        "typenovel": "latest",
+        "typenv": "latest",
+        "typenvy": "latest"
+    }
+}

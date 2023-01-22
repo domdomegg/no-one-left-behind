@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-jsong",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jsong": "latest",
+        "jsong-patch": "latest",
+        "jsonga": "latest",
+        "jsongen": "latest",
+        "jsongenie": "latest",
+        "jsonget": "latest",
+        "jsongle": "latest",
+        "jsongle-server": "latest",
+        "jsongo": "latest",
+        "jsongraph": "latest",
+        "jsongrep": "latest",
+        "jsongrid": "latest",
+        "jsongrok-server": "latest"
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-pata",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pata": "latest",
+        "patable": "latest",
+        "patables": "latest",
+        "pataflags": "latest",
+        "pataflags-sdk-react": "latest",
+        "patagonia-ebooks-vendor": "latest",
+        "patagoniachic-react-ui": "latest",
+        "patamancy": "latest",
+        "patamon": "latest",
+        "patana93-test": "latest",
+        "patang": "latest",
+        "patapata": "latest",
+        "pataphysical-date": "latest",
+        "patas": "latest",
+        "patas-source-pgsql": "latest",
+        "patas-store-memory-lru": "latest",
+        "patas-store-redis": "latest",
+        "patassell-frame-print": "latest",
+        "patata": "latest",
+        "patata-cli": "latest",
+        "patata-provider-hockeyapp": "latest",
+        "patates": "latest",
+        "patatoui": "latest",
+        "patatracker-parser": "latest",
+        "patavi": "latest"
+    }
+}

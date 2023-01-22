@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-ethl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ethlens": "latest",
+        "ethlint": "latest",
+        "ethlint-config-ethlint": "latest",
+        "ethlint-config-remix": "latest",
+        "ethlint-config-security": "latest",
+        "ethlint-config-zeppelin": "latest",
+        "ethlint-plugin-ethlint": "latest",
+        "ethlint-plugin-remix": "latest",
+        "ethlint-plugin-security": "latest",
+        "ethlint-plugin-zeppelin": "latest",
+        "ethlog": "latest"
+    }
+}

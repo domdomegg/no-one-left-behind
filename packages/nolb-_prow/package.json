@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_prow",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@prowe/apollo-client": "latest",
+        "@prowebber/easy-gitbook": "latest",
+        "@proweber1/js-mp-api": "latest",
+        "@prowebtec/opexdk": "latest",
+        "@proworkdev/react-custom-date-picker": "latest",
+        "@prowtonz/search": "latest"
+    }
+}

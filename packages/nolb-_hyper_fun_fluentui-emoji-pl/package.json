@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_fluentui-emoji-pl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/fluentui-emoji-placard-color": "latest",
+        "@hyper.fun/fluentui-emoji-placard-flat": "latest",
+        "@hyper.fun/fluentui-emoji-placard-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-place-of-worship-color": "latest",
+        "@hyper.fun/fluentui-emoji-place-of-worship-flat": "latest",
+        "@hyper.fun/fluentui-emoji-place-of-worship-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-play-button-color": "latest",
+        "@hyper.fun/fluentui-emoji-play-button-flat": "latest",
+        "@hyper.fun/fluentui-emoji-play-button-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-play-or-pause-button-color": "latest",
+        "@hyper.fun/fluentui-emoji-play-or-pause-button-flat": "latest",
+        "@hyper.fun/fluentui-emoji-play-or-pause-button-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-playground-slide-flat": "latest",
+        "@hyper.fun/fluentui-emoji-playground-slide-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-pleading-face-color": "latest",
+        "@hyper.fun/fluentui-emoji-pleading-face-flat": "latest",
+        "@hyper.fun/fluentui-emoji-pleading-face-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-plunger-color": "latest",
+        "@hyper.fun/fluentui-emoji-plunger-flat": "latest",
+        "@hyper.fun/fluentui-emoji-plunger-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-plus-color": "latest",
+        "@hyper.fun/fluentui-emoji-plus-flat": "latest",
+        "@hyper.fun/fluentui-emoji-plus-high-contrast": "latest"
+    }
+}

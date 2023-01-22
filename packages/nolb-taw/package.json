@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-taw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "taw": "latest",
+        "taw-social-sharing": "latest",
+        "tawbar-cli": "latest",
+        "tawfee3a-browse": "latest",
+        "tawian-frontend": "latest",
+        "tawk-messenger-svelte": "latest",
+        "tawk-to-aurelia": "latest",
+        "tawkto-react": "latest",
+        "tawny": "latest",
+        "tawny-web": "latest",
+        "taws": "latest"
+    }
+}

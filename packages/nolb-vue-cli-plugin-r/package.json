@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-vue-cli-plugin-r",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cli-plugin-rack": "latest",
+        "vue-cli-plugin-rapid-viewer-setup": "latest",
+        "vue-cli-plugin-react": "latest",
+        "vue-cli-plugin-react-app": "latest",
+        "vue-cli-plugin-readme": "latest",
+        "vue-cli-plugin-redis-deploy": "latest",
+        "vue-cli-plugin-rendercomponentsgui": "latest",
+        "vue-cli-plugin-resident-adapter": "latest",
+        "vue-cli-plugin-resolve-alias": "latest",
+        "vue-cli-plugin-rishiqing": "latest",
+        "vue-cli-plugin-rollup-esm-bundler": "latest",
+        "vue-cli-plugin-route": "latest",
+        "vue-cli-plugin-route-generator": "latest",
+        "vue-cli-plugin-route-loader": "latest",
+        "vue-cli-plugin-router-integration": "latest",
+        "vue-cli-plugin-ruoyi": "latest",
+        "vue-cli-plugin-rupture": "latest",
+        "vue-cli-plugin-rust": "latest",
+        "vue-cli-plugin-rww": "latest",
+        "vue-cli-plugin-rx": "latest",
+        "vue-cli-plugin-rx-zrb": "latest",
+        "vue-cli-plugin-rxtest": "latest"
+    }
+}

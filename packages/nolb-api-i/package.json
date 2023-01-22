@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-api-i",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "api-i": "latest",
+        "api-iceandfire": "latest",
+        "api-import-js": "latest",
+        "api-incident-typescript": "latest",
+        "api-informations": "latest",
+        "api-init": "latest",
+        "api-initializer": "latest",
+        "api-input-validator": "latest",
+        "api-inspect": "latest",
+        "api-insta": "latest",
+        "api-interface": "latest",
+        "api-interfaces": "latest",
+        "api-inti": "latest",
+        "api-ip-sg": "latest",
+        "api-iq2": "latest"
+    }
+}

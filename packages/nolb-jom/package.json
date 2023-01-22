@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-jom",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jom": "latest",
+        "jomafe-frame-print": "latest",
+        "jomafe-gradebook": "latest",
+        "joman-cli": "latest",
+        "jomana-frame-print": "latest",
+        "jomap": "latest",
+        "jomar-test01": "latest",
+        "jomarquez-platzom": "latest",
+        "jomax": "latest",
+        "jomba-bot": "latest",
+        "jomby": "latest",
+        "jomiel-messages": "latest",
+        "jomini": "latest",
+        "jominute-module": "latest",
+        "joml": "latest",
+        "jomm": "latest",
+        "jommand": "latest",
+        "jomment": "latest",
+        "jomnis-socket-client": "latest",
+        "jomnis-socket-server": "latest",
+        "jomo": "latest",
+        "jomposer": "latest",
+        "jomql": "latest",
+        "jomremit": "latest",
+        "jomx": "latest"
+    }
+}

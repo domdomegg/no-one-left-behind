@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-wsz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wsz-tools": "latest",
+        "wsz-ui-demo": "latest",
+        "wszc-common-bwx": "latest",
+        "wszele": "latest",
+        "wszerad_extend": "latest",
+        "wszpackage": "latest",
+        "wszweb": "latest"
+    }
+}

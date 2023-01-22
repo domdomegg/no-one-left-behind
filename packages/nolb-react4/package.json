@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-react4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react4emails": "latest",
+        "react4g2": "latest",
+        "react4u": "latest",
+        "react4xp": "latest",
+        "react4xp-build-components": "latest",
+        "react4xp-build-entriesandchunks": "latest",
+        "react4xp-buildconstants": "latest",
+        "react4xp-mono": "latest",
+        "react4xp-regions": "latest",
+        "react4xp-runtime-client": "latest",
+        "react4xp-runtime-externals": "latest",
+        "react4xp-runtime-nashornpolyfills": "latest",
+        "react4xp-templates": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-smartq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smartq-components": "latest",
+        "smartq-geofencing": "latest",
+        "smartq-utils": "latest",
+        "smartql": "latest",
+        "smartqq-bot": "latest",
+        "smartqqbot": "latest",
+        "smartqr": "latest",
+        "smartquotes": "latest",
+        "smartquotes-ts": "latest"
+    }
+}

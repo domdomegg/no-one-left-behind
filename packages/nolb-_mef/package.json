@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_mef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mefaba/react-scroll-slide": "latest",
+        "@mefaldemisova/cli": "latest",
+        "@mefedev/payjs-node-sdk": "latest",
+        "@mefekaskaya/hello-wasm": "latest",
+        "@meflow/core": "latest",
+        "@meflow/graphql": "latest",
+        "@meforce/rpc-core": "latest",
+        "@meforce/rpc-electron": "latest",
+        "@meforce/rpc-node": "latest",
+        "@meforma/vue-copy-to-clipboard": "latest",
+        "@meforma/vue-toaster": "latest",
+        "@meforma/vue-wait-for": "latest",
+        "@mefu-ui/docs": "latest",
+        "@mefu-ui/react": "latest",
+        "@mefu-ui/tokens": "latest"
+    }
+}

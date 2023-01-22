@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-upw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "upw-mobile_001": "latest",
+        "upward": "latest",
+        "upward-resolver-plugin": "latest",
+        "upward-resolver-webpack-plugin": "latest",
+        "upward-samples": "latest",
+        "upward-test": "latest",
+        "upwards": "latest",
+        "upway-storybook": "latest",
+        "upwire": "latest",
+        "upwoardjs": "latest",
+        "upwork-api": "latest",
+        "upwork-app_001": "latest",
+        "upwork-atlas-datasource": "latest",
+        "upwork-parser": "latest",
+        "upwork-task": "latest",
+        "upwrite": "latest",
+        "upwuchao": "latest"
+    }
+}

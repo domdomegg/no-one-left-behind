@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-ba_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ba.js": "latest",
+        "ba_audio_processor": "latest",
+        "ba_hexlet-project1": "latest",
+        "ba_onexuezha": "latest",
+        "ba_wei_zhang": "latest"
+    }
+}

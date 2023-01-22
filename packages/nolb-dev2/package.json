@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-dev2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dev2": "latest",
+        "dev2-gl-styles": "latest",
+        "dev2-test": "latest",
+        "dev200-dynamodb-orm": "latest",
+        "dev20k-cli": "latest",
+        "dev21": "latest",
+        "dev27-components": "latest"
+    }
+}

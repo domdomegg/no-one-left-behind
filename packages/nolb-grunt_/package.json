@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-grunt_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grunt_actualiza_version": "latest",
+        "grunt_browswerify_unit_test": "latest",
+        "grunt_custom": "latest",
+        "grunt_forever": "latest",
+        "grunt_learn_test": "latest",
+        "grunt_quick_start": "latest",
+        "grunt_shift": "latest",
+        "grunt_shift_file": "latest",
+        "grunt_static_sitebuilder": "latest",
+        "grunt_tiny_i18n": "latest",
+        "grunt_tiny_layout": "latest",
+        "grunt_web_modules": "latest"
+    }
+}

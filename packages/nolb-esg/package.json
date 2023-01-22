@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-esg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "esg": "latest",
+        "esgarraet": "latest",
+        "esgetfamily": "latest",
+        "esgf-subscriptions": "latest",
+        "esgian-ui-library": "latest",
+        "esgit": "latest",
+        "esgleam": "latest",
+        "esgloader": "latest",
+        "esglobals": "latest",
+        "esgo": "latest",
+        "esgpsdemo": "latest",
+        "esgraph": "latest",
+        "esgrep": "latest",
+        "esgrind": "latest",
+        "esgrupo-app-kit": "latest",
+        "esgt-access-control": "latest",
+        "esgweb_client": "latest"
+    }
+}

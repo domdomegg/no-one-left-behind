@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-ceq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ceq": "latest",
+        "ceq-athena-client": "latest",
+        "ceq-csv-split-stream": "latest",
+        "ceq-s3-client": "latest",
+        "ceq-sequelize": "latest",
+        "cequens-athena-client": "latest",
+        "cequens-stomp": "latest"
+    }
+}

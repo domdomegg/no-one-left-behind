@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_hypp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyppo/cli": "latest",
+        "@hyppo/core": "latest",
+        "@hyppo/middleware": "latest",
+        "@hyppo/middleware-electron": "latest",
+        "@hyppo/middleware-playwright": "latest",
+        "@hyppo/script": "latest",
+        "@hyppo/script-animeunity": "latest",
+        "@hyppo/script-demo": "latest",
+        "@hyppo/script-imdb": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-dsr-package-ps",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dsr-package-psalm-kulak-chums-verve": "latest",
+        "dsr-package-pseud-muxed-bajus-comet": "latest",
+        "dsr-package-psora-crumb-cists-pulmo": "latest"
+    }
+}

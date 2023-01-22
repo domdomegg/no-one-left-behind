@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-eventi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eventi": "latest",
+        "eventick": "latest",
+        "eventid": "latest",
+        "eventide": "latest",
+        "eventide_tools": "latest",
+        "eventie": "latest",
+        "eventif": "latest",
+        "eventify": "latest",
+        "eventify-function": "latest",
+        "eventify-js": "latest",
+        "eventil-cli": "latest",
+        "eventilator": "latest",
+        "eventim-reusable": "latest",
+        "eventin": "latest",
+        "eventing": "latest",
+        "eventing-bus": "latest",
+        "eventish": "latest",
+        "eventist": "latest",
+        "eventitem": "latest",
+        "eventium": "latest",
+        "eventize": "latest",
+        "eventize-app": "latest",
+        "eventize-js": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_ai_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ai.s/ui-components": "latest",
+        "@ai.s/ui-components-angular": "latest",
+        "@ai.s/ui-components-react": "latest",
+        "@ai.s/ui-components-vue": "latest",
+        "@ai.s/ui-components-vue3": "latest",
+        "@ai.s/ui-test": "latest"
+    }
+}

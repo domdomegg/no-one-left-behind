@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-sdr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sdr": "latest",
+        "sdr-cli": "latest",
+        "sdr-cli2": "latest",
+        "sdr-docs": "latest",
+        "sdr-models-2": "latest",
+        "sdr33": "latest",
+        "sdrangel-node": "latest",
+        "sdrangelcli": "latest",
+        "sdrc-form": "latest",
+        "sdrc-loader": "latest",
+        "sdrc-table": "latest",
+        "sdrc-ui-library": "latest",
+        "sdrh": "latest",
+        "sdrjs": "latest",
+        "sdrm": "latest",
+        "sdrow": "latest",
+        "sdrv": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-mull",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mull": "latest",
+        "mull-ch": "latest",
+        "mull-ch11": "latest",
+        "mull-ch22": "latest",
+        "mulla": "latest",
+        "muller": "latest",
+        "mullet": "latest",
+        "mullet-css": "latest",
+        "mulletdb": "latest",
+        "mulligan": "latest",
+        "mulltistep-checker": "latest"
+    }
+}

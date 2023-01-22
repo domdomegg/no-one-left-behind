@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-simplei",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simpleid": "latest",
+        "simpleid-js-sdk": "latest",
+        "simpleid-node-sdk": "latest",
+        "simpleidb": "latest",
+        "simpleids": "latest",
+        "simpleify-tools": "latest",
+        "simpleimageupload": "latest",
+        "simpleimg": "latest",
+        "simpleinfluxdb": "latest",
+        "simpleini": "latest",
+        "simpleinstascraper": "latest",
+        "simpleintersectionobserver": "latest",
+        "simpleinterval": "latest",
+        "simpleinvoke": "latest",
+        "simpleio": "latest",
+        "simpleiot-js": "latest",
+        "simpleitjs": "latest",
+        "simpleitjs-ui": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_digi-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@digi-alpha/kms-editor": "latest",
+        "@digi-b2b/components": "latest",
+        "@digi-b2b/sdk": "latest",
+        "@digi-b2b/sdk-sf": "latest",
+        "@digi-edu/building-blocks": "latest",
+        "@digi-edu/dynamic-lesson-content": "latest",
+        "@digi-edu/identity": "latest",
+        "@digi-edu/training-center": "latest",
+        "@digi-lab/common": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_seru",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@serumdb/assertjs": "latest",
+        "@serus/craco-plugin-react-hot-reload": "latest",
+        "@serus/i18n": "latest",
+        "@serusko/cra-template-common": "latest",
+        "@serusko/form": "latest"
+    }
+}

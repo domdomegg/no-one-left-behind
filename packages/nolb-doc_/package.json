@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-doc_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "doc.dll": "latest",
+        "doc.md": "latest",
+        "doc.mdx": "latest",
+        "doc.min.js": "latest",
+        "doc.run": "latest",
+        "doc.search": "latest",
+        "doc_chu-frame-print": "latest",
+        "doc_control": "latest",
+        "doc_docs": "latest",
+        "doc_docs_test": "latest",
+        "doc_evaluator": "latest",
+        "doc_gen": "latest",
+        "doc_test": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-pde",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pDebug": "latest",
+        "pde-ckeditor5-classic": "latest",
+        "pde-engine": "latest",
+        "pdebug": "latest",
+        "pdef": "latest",
+        "pdeffff": "latest",
+        "pdeio-grid-list": "latest",
+        "pdeio-image-search": "latest",
+        "pdeio-multi-forms-tab": "latest",
+        "pdeio-ngx-file-uploader": "latest",
+        "pdelay": "latest",
+        "pdenodeify": "latest",
+        "pdenv": "latest",
+        "pdeshwal": "latest",
+        "pdesign": "latest",
+        "pdetail": "latest",
+        "pdetail-diff": "latest",
+        "pdev": "latest",
+        "pdex-libs-customized": "latest",
+        "pdex-swap-core": "latest",
+        "pdex-toolkit": "latest",
+        "pdexswap-libs-sdk": "latest",
+        "pdexswap_toolkit": "latest"
+    }
+}

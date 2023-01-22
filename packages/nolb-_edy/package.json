@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_edy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@edy/redux-api-middleware": "latest",
+        "@edy/sails-hook-resque": "latest",
+        "@edy4c7/archiver-promise": "latest",
+        "@edy_dflow/first-package": "latest",
+        "@edygar/use-request": "latest",
+        "@edyjoelx/mediaplayer": "latest",
+        "@edymberg/another-vue-carousel": "latest",
+        "@edynote/accessibility": "latest",
+        "@edynote/core": "latest",
+        "@edynote/modifiers": "latest",
+        "@edynote/sortable": "latest",
+        "@edynote/utilities": "latest",
+        "@edyoucated/cypress-schematic": "latest",
+        "@edyoucated/intro.js": "latest",
+        "@edyoucated/time-ago-pipe": "latest",
+        "@edyrod-tickets/common": "latest"
+    }
+}

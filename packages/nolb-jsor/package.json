@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-jsor",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jsor": "latest",
+        "jsora": "latest",
+        "jsorm": "latest",
+        "jsorm-i18n": "latest",
+        "jsorm-utilities": "latest",
+        "jsorm-vue": "latest",
+        "jsormdb": "latest",
+        "jsorpc": "latest",
+        "jsort": "latest",
+        "jsorter": "latest"
+    }
+}

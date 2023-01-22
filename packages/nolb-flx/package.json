@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-flx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "flx": "latest",
+        "flx-compiler": "latest",
+        "flx-components": "latest",
+        "flx-engine": "latest",
+        "flx-grid": "latest",
+        "flx-grid-scss": "latest",
+        "flx-img-cropper": "latest",
+        "flx-layout": "latest",
+        "flx-router": "latest",
+        "flx-storybook": "latest",
+        "flx-templates": "latest",
+        "flx-ui-datatable": "latest",
+        "flx-workflow-layout": "latest",
+        "flxadminpw": "latest",
+        "flxbx": "latest",
+        "flxc": "latest",
+        "flxels": "latest",
+        "flxgrid.css": "latest",
+        "flxng": "latest",
+        "flxpdf": "latest",
+        "flxs-webcomponents-data-grid": "latest"
+    }
+}

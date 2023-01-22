@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-async-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "async-yapi-interface-egg-router": "latest",
+        "async-yidao": "latest",
+        "async-yield": "latest",
+        "async-you": "latest",
+        "async-youtube-video": "latest"
+    }
+}

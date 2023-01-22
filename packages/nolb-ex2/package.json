@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-ex2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ex2": "latest",
+        "ex20lib": "latest",
+        "ex2ex2ee": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_p0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@p0d00c1/first-typescript": "latest",
+        "@p0n3/excel-formula-ast": "latest",
+        "@p0n3/excel-formula-tokenizer": "latest",
+        "@p0stw3b/search": "latest",
+        "@p0vidl0/crypto-js": "latest",
+        "@p0vidl0/ky": "latest",
+        "@p0x6/process_watcher": "latest"
+    }
+}

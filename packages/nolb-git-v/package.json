@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-git-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "git-validate": "latest",
+        "git-validate-fix-output": "latest",
+        "git-validate-tyrchen": "latest",
+        "git-valut": "latest",
+        "git-variables": "latest",
+        "git-vaudeville": "latest",
+        "git-vault": "latest",
+        "git-vault-manager": "latest",
+        "git-vcs": "latest",
+        "git-velocity": "latest",
+        "git-version": "latest",
+        "git-version-bumper": "latest",
+        "git-version-html-webpack-plugin": "latest",
+        "git-version-info": "latest",
+        "git-version-json": "latest",
+        "git-version-script": "latest",
+        "git-version-tag": "latest",
+        "git-version-webpack-plugin": "latest",
+        "git-version-writer": "latest",
+        "git-versioner": "latest",
+        "git-view": "latest",
+        "git-viewer": "latest",
+        "git-vis": "latest",
+        "git-visit": "latest",
+        "git-visulizer": "latest",
+        "git-vs": "latest",
+        "git-vsts": "latest",
+        "git-vue-component-library": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-vue-a1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-a11y": "latest",
+        "vue-a11y-calendar": "latest",
+        "vue-a11y-click": "latest",
+        "vue-a11y-combobox": "latest",
+        "vue-a11y-dialog": "latest",
+        "vue-a11y-dialog-next": "latest",
+        "vue-a11y-input": "latest",
+        "vue-a11y-katex": "latest",
+        "vue-a11y-utils": "latest"
+    }
+}

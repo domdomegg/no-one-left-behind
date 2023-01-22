@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_fontsource_u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fontsource/ubuntu": "latest",
+        "@fontsource/ubuntu-condensed": "latest",
+        "@fontsource/ubuntu-mono": "latest",
+        "@fontsource/uchen": "latest",
+        "@fontsource/ultra": "latest",
+        "@fontsource/unbounded": "latest",
+        "@fontsource/uncial-antiqua": "latest",
+        "@fontsource/underdog": "latest",
+        "@fontsource/unica-one": "latest",
+        "@fontsource/unifont": "latest",
+        "@fontsource/unifrakturcook": "latest",
+        "@fontsource/unifrakturmaguntia": "latest",
+        "@fontsource/unkempt": "latest",
+        "@fontsource/unlock": "latest",
+        "@fontsource/unna": "latest",
+        "@fontsource/updock": "latest",
+        "@fontsource/urbanist": "latest"
+    }
+}

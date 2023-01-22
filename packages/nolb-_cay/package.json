@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_cay",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cayceworld/randomid-generator": "latest",
+        "@caydenchong/microservice-api-helper": "latest",
+        "@cayenne-ui/css": "latest",
+        "@cayenne-ui/modal": "latest",
+        "@cayennelow/btcmarkets-node-sdk": "latest",
+        "@cayleygraph/cayley": "latest",
+        "@caylonlatte/lerna-test-a": "latest",
+        "@caylonlatte/lerna-test-b": "latest",
+        "@caylonlatte/lerna-test-cli": "latest",
+        "@cayoo/vuex-oidc": "latest",
+        "@cayro/ui-core": "latest",
+        "@cayro/ui-icons": "latest",
+        "@cayro/ui-interactions": "latest",
+        "@cayro/ui-primitives": "latest",
+        "@cayro/ui-state": "latest",
+        "@cayro/ui-style": "latest",
+        "@caytu/common": "latest"
+    }
+}

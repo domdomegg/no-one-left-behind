@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_io_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@io.jesi/gridlex": "latest",
+        "@io.jesi/parent": "latest",
+        "@io.jesi/reflex-grid": "latest",
+        "@io.lazy-cat/neoguard": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_test1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@test123-org/hello": "latest",
+        "@test123abc/test": "latest",
+        "@test137e29b/emoji-mart": "latest",
+        "@test137e29b/react-smooth-dnd": "latest",
+        "@test137e29b/smooth-dnd": "latest"
+    }
+}

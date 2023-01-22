@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-rego",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rego": "latest",
+        "regoch-cli": "latest",
+        "regoch-db-nodejs": "latest",
+        "regoch-router": "latest",
+        "regoch-spa": "latest",
+        "regoch-web": "latest",
+        "regoch-web-server": "latest",
+        "regoch-weber": "latest",
+        "regoch-websocket": "latest",
+        "regoch-websocket-angular": "latest",
+        "regoch-websocket-browser": "latest",
+        "regoch-websocket-nodejs": "latest",
+        "regoch-websocket-server": "latest",
+        "regodit": "latest",
+        "regomap": "latest",
+        "regon": "latest",
+        "regon-js": "latest",
+        "regops": "latest"
+    }
+}

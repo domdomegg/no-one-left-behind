@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_skc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@skch15/addition": "latest",
+        "@skcin7/inspire": "latest"
+    }
+}

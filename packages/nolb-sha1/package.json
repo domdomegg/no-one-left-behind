@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-sha1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sha1": "latest",
+        "sha1-browser": "latest",
+        "sha1-cli": "latest",
+        "sha1-client": "latest",
+        "sha1-digest": "latest",
+        "sha1-es": "latest",
+        "sha1-file": "latest",
+        "sha1-file-web": "latest",
+        "sha1-from-file": "latest",
+        "sha1-hash-and-verify": "latest",
+        "sha1-hex": "latest",
+        "sha1-min-0.0.1": "latest",
+        "sha1-regex": "latest",
+        "sha1-stream": "latest",
+        "sha1-sum": "latest",
+        "sha1-uint8array": "latest",
+        "sha1.js": "latest",
+        "sha1_file": "latest",
+        "sha1hash": "latest",
+        "sha1prng": "latest",
+        "sha1sum": "latest",
+        "sha1sum-cli": "latest",
+        "sha1sum-node": "latest"
+    }
+}

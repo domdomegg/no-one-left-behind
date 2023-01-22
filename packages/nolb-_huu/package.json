@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_huu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@huudan/retry-promise-util": "latest",
+        "@huudann/fca-unofficial": "latest",
+        "@huuduc/fakeimg": "latest",
+        "@huumun/lyra": "latest",
+        "@huunam/store-sdk": "latest",
+        "@huuulaa/first-try-npm": "latest"
+    }
+}

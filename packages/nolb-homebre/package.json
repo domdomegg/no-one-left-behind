@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-homebre",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "homebrew": "latest",
+        "homebrew-aau": "latest",
+        "homebrew-brm": "latest",
+        "homebrew-services": "latest",
+        "homebrewcalc": "latest",
+        "homebrewdj-launchpad-driver": "latest",
+        "homebrewlib": "latest"
+    }
+}

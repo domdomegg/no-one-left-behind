@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-stylelint-t",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylelint-tape": "latest",
+        "stylelint-taro-rn": "latest",
+        "stylelint-teamcity-formatter": "latest",
+        "stylelint-teamcity-reporter": "latest",
+        "stylelint-test-rule-ava": "latest",
+        "stylelint-test-rule-tape": "latest",
+        "stylelint-themeizer": "latest",
+        "stylelint-tizo-unused": "latest",
+        "stylelint-tizo-unused-rule": "latest",
+        "stylelint-todo": "latest",
+        "stylelint-trendyminds-standard": "latest"
+    }
+}

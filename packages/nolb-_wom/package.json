@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_wom",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@womade/zonline": "latest",
+        "@womasoft/blockchain-accounts": "latest",
+        "@womasoft/core": "latest",
+        "@womasoft/dapp": "latest",
+        "@womasoft/dex": "latest",
+        "@womasoft/js-utils": "latest",
+        "@womasoft/react": "latest",
+        "@womasoft/react-native": "latest",
+        "@womasoft/react-native-dapp": "latest",
+        "@womasoft/rn-libs": "latest",
+        "@womasoft/wallet": "latest",
+        "@womasoft/wallet-accounts": "latest",
+        "@womasoft/wallet-core": "latest",
+        "@wombat_learning/1st_grade": "latest",
+        "@wombat_learning/kindergarten": "latest",
+        "@wombats-writing-code/fbw-platform-common": "latest",
+        "@wombocompo/button": "latest",
+        "@wombocompo/dialog": "latest",
+        "@wombocompo/indent": "latest",
+        "@womon/hulu": "latest",
+        "@womply/connect": "latest"
+    }
+}

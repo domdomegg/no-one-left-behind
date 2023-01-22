@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_noh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nohab/common": "latest",
+        "@nohab/ourika-common-api": "latest",
+        "@nohab/ourika-common-app": "latest",
+        "@nohat/js-linked-list": "latest",
+        "@nohns/algebra.js": "latest",
+        "@nohost/connect": "latest",
+        "@nohost/router": "latest",
+        "@nohost/server": "latest",
+        "@nohvoyagemap/voyage-svg": "latest"
+    }
+}

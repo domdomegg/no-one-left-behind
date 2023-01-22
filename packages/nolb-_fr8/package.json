@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_fr8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fr8/besu-tx": "latest",
+        "@fr8/common": "latest",
+        "@fr8/fr8": "latest",
+        "@fr8/gatsby-theme": "latest",
+        "@fr8/prettier": "latest",
+        "@fr8/protocol": "latest",
+        "@fr8/truenft-contracts": "latest"
+    }
+}

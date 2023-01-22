@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-homi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "homi": "latest",
+        "homi-shared": "latest",
+        "homicide": "latest",
+        "homie": "latest",
+        "homie-bot": "latest",
+        "homie-config": "latest",
+        "homie-dashboard": "latest",
+        "homie-device": "latest",
+        "homie-dgram": "latest",
+        "homie-pliers": "latest",
+        "homie-server": "latest",
+        "homie-socket": "latest",
+        "homie-table": "latest",
+        "homie2-config": "latest",
+        "homiey-tools": "latest",
+        "homing-courrier": "latest",
+        "homing-pigeon": "latest",
+        "hominoidea": "latest",
+        "homital": "latest"
+    }
+}

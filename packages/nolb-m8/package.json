@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-m8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "m8": "latest",
+        "m8-js": "latest",
+        "m8-mongoose": "latest",
+        "m8-templation": "latest",
+        "m8583": "latest",
+        "m88": "latest",
+        "m8serversso": "latest",
+        "m8t-cli": "latest",
+        "m8t-cli-service": "latest",
+        "m8t-cli-service-next": "latest",
+        "m8t1-utils": "latest",
+        "m8tro-bootstrap": "latest"
+    }
+}

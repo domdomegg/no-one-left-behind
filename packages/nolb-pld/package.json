@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-pld",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pld": "latest",
+        "pld-cli": "latest",
+        "pldate": "latest",
+        "pldb": "latest",
+        "pldemo": "latest",
+        "pldhiman-ckeditor5-custom-build": "latest",
+        "pldin601-config-differ": "latest",
+        "pldtfibr-wifi-password": "latest",
+        "plduoa": "latest"
+    }
+}

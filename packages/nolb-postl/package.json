@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-postl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "Postlog": "latest",
+        "postlang": "latest",
+        "postleaf": "latest",
+        "postleitzahlen": "latest",
+        "postler": "latest",
+        "postler-example": "latest",
+        "postler-preview": "latest",
+        "postlib": "latest",
+        "postling": "latest",
+        "postlink": "latest",
+        "postlist": "latest",
+        "postlit.js": "latest",
+        "postloader": "latest",
+        "postlude": "latest",
+        "postly": "latest"
+    }
+}

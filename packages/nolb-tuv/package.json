@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-tuv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tuv": "latest",
+        "tuval": "latest",
+        "tuval-core": "latest",
+        "tuval-frame-print": "latest",
+        "tuvero": "latest",
+        "tuvi-styles": "latest",
+        "tuvoli": "latest"
+    }
+}

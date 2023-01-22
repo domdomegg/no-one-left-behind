@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-zex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zex": "latest",
+        "zex-auth": "latest",
+        "zex-connect": "latest",
+        "zex-fullscreen": "latest",
+        "zex-mobile": "latest",
+        "zex-print": "latest",
+        "zex-vue-fullpage-next": "latest",
+        "zexam1": "latest",
+        "zexo": "latest",
+        "zexpress": "latest",
+        "zexron-cli": "latest"
+    }
+}

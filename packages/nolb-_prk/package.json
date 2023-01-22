@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_prk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@prk/eslint-config": "latest",
+        "@prk/lavender": "latest",
+        "@prk/prettier-config": "latest",
+        "@prk/react-web-chat": "latest",
+        "@prk/storybook-addon-html": "latest",
+        "@prk/stylelint-config": "latest",
+        "@prkeshri/fs.remote": "latest",
+        "@prkhrv/api-cli": "latest"
+    }
+}

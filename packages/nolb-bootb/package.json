@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-bootb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bootband": "latest",
+        "bootboot": "latest",
+        "bootbot": "latest",
+        "bootbot-cli": "latest",
+        "bootbot-dobro": "latest",
+        "bootbot-multipage": "latest",
+        "bootbot-pl": "latest",
+        "bootbot-ts": "latest",
+        "bootbothook": "latest",
+        "bootbox": "latest",
+        "bootbox-jeremyedit": "latest",
+        "bootbox-react": "latest",
+        "bootbox-svelte": "latest",
+        "bootbox.js": "latest",
+        "bootbox.v5": "latest",
+        "bootbox4": "latest",
+        "bootbox5": "latest",
+        "bootboy": "latest",
+        "bootbuffer": "latest"
+    }
+}

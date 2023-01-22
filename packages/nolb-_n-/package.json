@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_n-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@n-f9/quack.js": "latest",
+        "@n-f9/quack.js-cli": "latest",
+        "@n-f9/solids": "latest",
+        "@n-framework/controls": "latest",
+        "@n-grubb/toolbox": "latest",
+        "@n-h-n/discord.js-12.5.3": "latest",
+        "@n-h-n/linkedin-profile-scraper": "latest",
+        "@n-kit/eslint-config": "latest",
+        "@n-kit/repo-template": "latest",
+        "@n-makino/first-package": "latest",
+        "@n-oouchi/ts-snowflake": "latest",
+        "@n-works/asset-builder": "latest",
+        "@n-works/create-local": "latest",
+        "@n-works/create-wordpress": "latest",
+        "@n-works/lint": "latest"
+    }
+}

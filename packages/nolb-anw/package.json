@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-anw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "anw": "latest",
+        "anwalt.de-design-system": "latest",
+        "anwar-awad-frame-print": "latest",
+        "anwar-calculator": "latest",
+        "anwar-github-example": "latest",
+        "anwb-icons": "latest",
+        "anwenjing-cli": "latest",
+        "anweraloui-test1": "latest",
+        "anwj": "latest"
+    }
+}

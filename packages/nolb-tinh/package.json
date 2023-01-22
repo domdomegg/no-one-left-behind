@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-tinh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tinh": "latest",
+        "tinh-tong": "latest",
+        "tinh-tong-v1": "latest",
+        "tinh-tong-v2": "latest",
+        "tinh-tong-v3": "latest",
+        "tinh-tong-v4": "latest",
+        "tinh-tong-v5": "latest",
+        "tinhcyxolor2": "latest",
+        "tinhte-api": "latest",
+        "tinhte-api-nextjs": "latest",
+        "tinhte-api-react": "latest"
+    }
+}

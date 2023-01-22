@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-medr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "medrado": "latest",
+        "medrecord-react-native-hgraph": "latest",
+        "medrio-components-demo": "latest",
+        "medroid-client": "latest",
+        "medroom-ui-components": "latest",
+        "medroom-ui-kit": "latest",
+        "medrut": "latest"
+    }
+}

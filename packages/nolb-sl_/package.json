@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-sl_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sl_h5_player": "latest",
+        "sl_inbox": "latest",
+        "sl_mashlib": "latest",
+        "sl_name": "latest",
+        "sl_rtc": "latest",
+        "sl_specs": "latest"
+    }
+}

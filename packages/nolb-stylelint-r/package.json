@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-stylelint-r",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylelint-rational-order-plugin": "latest",
+        "stylelint-rational-order-tweak": "latest",
+        "stylelint-react-native": "latest",
+        "stylelint-regex": "latest",
+        "stylelint-report-by-rule": "latest",
+        "stylelint-require-units": "latest",
+        "stylelint-restrict": "latest",
+        "stylelint-result-render": "latest",
+        "stylelint-rodesk": "latest",
+        "stylelint-rokit": "latest",
+        "stylelint-rscss": "latest",
+        "stylelint-rtlcss-comments": "latest",
+        "stylelint-rule-creator": "latest",
+        "stylelint-rule-tester": "latest"
+    }
+}

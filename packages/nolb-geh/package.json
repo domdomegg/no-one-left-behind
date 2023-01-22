@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-geh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "geh": "latest",
+        "geh-sp-122": "latest",
+        "gehc-authentication-module": "latest",
+        "gehenna": "latest",
+        "geheugen": "latest",
+        "geheugen-angular": "latest",
+        "gehj-cli": "latest",
+        "gehouser-frame-print": "latest",
+        "gehry": "latest",
+        "gehtlosjetzt": "latest"
+    }
+}

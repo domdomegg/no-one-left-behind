@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-relu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "relu": "latest",
+        "relu-activation": "latest",
+        "relu-core": "latest",
+        "relude": "latest",
+        "relude-csv": "latest",
+        "relude-eon": "latest",
+        "relude-fetch": "latest",
+        "relude-parse": "latest",
+        "relude-random": "latest",
+        "relude-reason-react": "latest",
+        "relude-url": "latest",
+        "relution-cli": "latest",
+        "relution-client-security": "latest",
+        "relution-file-upload": "latest",
+        "relution-sdk": "latest",
+        "relux": "latest",
+        "relux.js": "latest",
+        "reluzent": "latest",
+        "reluzent-cli": "latest"
+    }
+}

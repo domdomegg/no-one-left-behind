@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-thre",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-threa": "latest",
+        "@zalastax/nolb-thred": "latest",
+        "@zalastax/nolb-three": "latest",
+        "@zalastax/nolb-threk": "latest",
+        "@zalastax/nolb-threl": "latest",
+        "@zalastax/nolb-thres": "latest",
+        "@zalastax/nolb-thret": "latest",
+        "@zalastax/nolb-threw": "latest",
+        "@zalastax/nolb-threx": "latest"
+    }
+}

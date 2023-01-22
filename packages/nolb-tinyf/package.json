@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-tinyf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tinyFrame": "latest",
+        "tinyf-npm-deploy": "latest",
+        "tinyfaces": "latest",
+        "tinyfatboy-demo-0223": "latest",
+        "tinyfileservers": "latest",
+        "tinyflow": "latest",
+        "tinyflux": "latest",
+        "tinyfont": "latest",
+        "tinyforever": "latest",
+        "tinyform": "latest",
+        "tinyformat": "latest",
+        "tinyformatter": "latest",
+        "tinyfox": "latest",
+        "tinyframework": "latest",
+        "tinyfun": "latest",
+        "tinyfuncs": "latest",
+        "tinyfunction": "latest",
+        "tinyfunctions": "latest",
+        "tinyfunk": "latest",
+        "tinyfw": "latest",
+        "tinyfy-image": "latest"
+    }
+}

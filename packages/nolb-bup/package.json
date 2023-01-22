@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-bup",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bup": "latest",
+        "bupdate": "latest",
+        "buphagus": "latest",
+        "bupnp": "latest",
+        "bupper": "latest",
+        "bupt-ai-wangxiaoru": "latest",
+        "bupt-algo-wangxiaoru": "latest",
+        "bupt-c-lang": "latest",
+        "bupt-comp-arch-zhoufeng": "latest",
+        "bupt-compile-liwensheng": "latest",
+        "bupt-cpp-tangxiaocheng": "latest",
+        "bupt-crypto-fengtao": "latest",
+        "bupt-dast-yangzhen": "latest",
+        "bupt-data-mining-zhengyan": "latest",
+        "bupt-db-guowenming": "latest",
+        "bupt-db-xiaoda": "latest",
+        "bupt-discrete": "latest",
+        "bupt-discrete-haojie": "latest",
+        "bupt-graph-mahuadong": "latest",
+        "bupt-info-sec-gulize-pt1": "latest",
+        "bupt-info-sec-gulize-pt2": "latest",
+        "bupt-ml-xgwang": "latest",
+        "bupt-os-liwensheng": "latest",
+        "bupt-proj-mgt-zhanglei": "latest",
+        "bupt-soft-test-yuanyuyu": "latest",
+        "buptlogin": "latest",
+        "bupurbui": "latest"
+    }
+}

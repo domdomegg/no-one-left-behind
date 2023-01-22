@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-aws-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aws-k8s-secrets": "latest",
+        "aws-kcl": "latest",
+        "aws-keyhub": "latest",
+        "aws-kibana-proxy": "latest",
+        "aws-kinesis-agg": "latest",
+        "aws-kinesis-agg-fix": "latest",
+        "aws-kinesis-agg-temp": "latest",
+        "aws-kinesis-producer": "latest",
+        "aws-kinesis-producer-js": "latest",
+        "aws-kinesis-put-media-nodejs": "latest",
+        "aws-kinesis-winston-transport": "latest",
+        "aws-kinesis-writable": "latest",
+        "aws-kit": "latest",
+        "aws-kitchensink": "latest",
+        "aws-kitchensink-s3": "latest",
+        "aws-kitchensink-sns": "latest",
+        "aws-kms-crypt": "latest",
+        "aws-kms-decrypt-env": "latest",
+        "aws-kms-ee": "latest",
+        "aws-kms-ethers-signer": "latest",
+        "aws-kms-jwt": "latest",
+        "aws-kms-pkce": "latest",
+        "aws-kms-provider": "latest",
+        "aws-kms-signer": "latest",
+        "aws-kms-thingy": "latest",
+        "aws-kpl-deagg": "latest"
+    }
+}

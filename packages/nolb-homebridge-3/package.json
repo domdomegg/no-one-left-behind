@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-homebridge-3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "homebridge-352air": "latest",
+        "homebridge-3d-printer": "latest",
+        "homebridge-3em-energy-meter": "latest"
+    }
+}

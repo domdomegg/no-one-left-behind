@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-react-cog",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-coge-cli": "latest",
+        "react-cognito": "latest",
+        "react-cognito-auth": "latest",
+        "react-cognito-dg": "latest",
+        "react-cognito-es5": "latest",
+        "react-cognito-force-password": "latest",
+        "react-cognito-forms": "latest",
+        "react-cognito-identity": "latest",
+        "react-cognito-material": "latest",
+        "react-cognito-mm": "latest"
+    }
+}

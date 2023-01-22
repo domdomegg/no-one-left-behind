@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_awc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@awcodes/alpine-floating-ui": "latest",
+        "@awcodes/filament-plugin-purge": "latest",
+        "@awcrotwell/motion": "latest"
+    }
+}

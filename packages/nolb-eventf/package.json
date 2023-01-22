@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-eventf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "EventField": "latest",
+        "EventFire": "latest",
+        "EventFire.js": "latest",
+        "eventfan": "latest",
+        "eventfeed": "latest",
+        "eventfeed.js": "latest",
+        "eventfish": "latest",
+        "eventflit": "latest",
+        "eventflow": "latest",
+        "eventflowviz": "latest",
+        "eventflux-cdn": "latest",
+        "eventforage": "latest",
+        "eventfrog-api": "latest",
+        "eventful": "latest",
+        "eventful-ah": "latest",
+        "eventful-library": "latest",
+        "eventful-node": "latest",
+        "eventful-promise": "latest",
+        "eventful-react": "latest",
+        "eventful-ws": "latest",
+        "eventful-wss": "latest",
+        "eventfulclass": "latest",
+        "eventfull-data-net": "latest",
+        "eventfullife": "latest",
+        "eventfy": "latest"
+    }
+}

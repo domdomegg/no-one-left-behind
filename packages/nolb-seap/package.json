@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-seap",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "seapeer": "latest",
+        "seapig": "latest",
+        "seaplane": "latest",
+        "seaport": "latest",
+        "seaport-advert": "latest",
+        "seaport-autopilot": "latest",
+        "seaport-bridge": "latest",
+        "seaport-cache": "latest",
+        "seaport-client": "latest",
+        "seaport-gossip": "latest",
+        "seaport-haproxy": "latest",
+        "seaport-js": "latest",
+        "seaport-js-buy": "latest",
+        "seaport-js-gas-1": "latest",
+        "seaport-mdns": "latest",
+        "seaport-proxy": "latest",
+        "seaport-smart": "latest",
+        "seaport-stream": "latest"
+    }
+}

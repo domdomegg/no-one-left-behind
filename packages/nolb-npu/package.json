@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-npu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "npu": "latest",
+        "npub": "latest",
+        "npublebsert": "latest",
+        "npublish": "latest",
+        "npublish-test-a": "latest",
+        "npud": "latest",
+        "npulsesensor": "latest",
+        "npum": "latest",
+        "npup": "latest",
+        "npus": "latest",
+        "npush": "latest",
+        "npush-server": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-lightf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lightfactor-uaf": "latest",
+        "lightfetch-node": "latest",
+        "lightfish-reactmodal": "latest",
+        "lightfish-structures": "latest",
+        "lightflex": "latest",
+        "lightflow": "latest",
+        "lightflus-api": "latest",
+        "lightfold": "latest",
+        "lightfoot": "latest",
+        "lightframe": "latest",
+        "lightframer": "latest",
+        "lightftso-usedapp-core": "latest"
+    }
+}

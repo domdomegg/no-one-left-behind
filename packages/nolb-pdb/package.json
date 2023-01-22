@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-pdb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pdb-lib": "latest",
+        "pdb-links": "latest",
+        "pdb-lite-mol": "latest",
+        "pdb-parser-js": "latest",
+        "pdb-prints": "latest",
+        "pdb-redo": "latest",
+        "pdb-residue-interactions": "latest",
+        "pdb-sequence-viewer": "latest",
+        "pdb-todo": "latest",
+        "pdb-topology-viewer": "latest",
+        "pdb-uniprot-viewer": "latest",
+        "pdb-web-components": "latest",
+        "pdbe-molstar": "latest",
+        "pdbe-molstar-3dbionotes": "latest",
+        "pdbkill": "latest",
+        "pdbm-sql": "latest",
+        "pdbmine": "latest",
+        "pdbnpm0617": "latest",
+        "pdbr-intermock": "latest"
+    }
+}

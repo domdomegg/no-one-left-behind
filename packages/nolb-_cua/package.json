@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_cua",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cua.run/babel": "latest",
+        "@cua.run/client": "latest",
+        "@cuaklabs/cuaktask": "latest",
+        "@cuaklabs/iocuak": "latest",
+        "@cuaklabs/iocuak-common": "latest",
+        "@cuaklabs/iocuak-core": "latest",
+        "@cuaklabs/iocuak-decorators": "latest",
+        "@cuaklabs/iocuak-models": "latest",
+        "@cuaklabs/iocuak-models-api": "latest",
+        "@cuaklabs/iocuak-reflect-metadata-utils": "latest",
+        "@cuaklabs/nestjs-firebase-admin": "latest",
+        "@cuaklabs/nx-plugin": "latest",
+        "@cuaklabs/porygon": "latest",
+        "@cuaklabs/porygon-typeorm": "latest",
+        "@cuarun/client": "latest"
+    }
+}

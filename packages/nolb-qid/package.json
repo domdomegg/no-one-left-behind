@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-qid",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qid": "latest",
+        "qidacheng-lunyu-tongdu-shang": "latest",
+        "qidacheng-lunyu-tongdu-xia": "latest",
+        "qidada-npm": "latest",
+        "qidanyuan": "latest",
+        "qidanyuan1": "latest",
+        "qidaoapi": "latest",
+        "qide-dahechang": "latest",
+        "qide-yuanli": "latest",
+        "qidi": "latest",
+        "qidi123": "latest",
+        "qidian-local-https-crt": "latest",
+        "qidong-linggan": "latest",
+        "qidong-nineizaide-chenggong-mima": "latest",
+        "qidong-shenmi-liaoyu-nengliang": "latest",
+        "qidong-shiluode-nengliang-zhiyuan": "latest",
+        "qidunhu": "latest"
+    }
+}

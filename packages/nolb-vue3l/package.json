@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-vue3l",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue3leafletmap": "latest",
+        "vue3lib": "latest",
+        "vue3lib-test2": "latest",
+        "vue3library-test": "latest",
+        "vue3lo": "latest",
+        "vue3loading": "latest"
+    }
+}

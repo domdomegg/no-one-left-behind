@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-tiq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tiq": "latest",
+        "tiq-client": "latest",
+        "tiq-db": "latest",
+        "tiq-json": "latest",
+        "tiq-server": "latest",
+        "tiqav.js": "latest",
+        "tiqed": "latest",
+        "tiqi-ta404-ui": "latest",
+        "tiqu": "latest",
+        "tiquette": "latest"
+    }
+}

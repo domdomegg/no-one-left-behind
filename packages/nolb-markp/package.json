@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-markp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "markpack": "latest",
+        "markpad": "latest",
+        "markpdf": "latest",
+        "markpiece": "latest",
+        "markplewis-eyeglass-module": "latest",
+        "markplus": "latest",
+        "markplus-plugin-render-catalog": "latest",
+        "markplus-plugin-render-highlight": "latest",
+        "markpoint": "latest",
+        "markpond": "latest",
+        "markpost": "latest",
+        "markppt": "latest",
+        "markpress": "latest",
+        "markpress.js": "latest"
+    }
+}

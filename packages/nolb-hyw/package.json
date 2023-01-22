@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-hyw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hyw": "latest",
+        "hyw-9.13": "latest",
+        "hyw-9.13-1": "latest",
+        "hyw-cli": "latest",
+        "hyw-table": "latest",
+        "hyw-test": "latest",
+        "hyw-todo-list": "latest",
+        "hywpps-hy-ui": "latest",
+        "hywtestpackage": "latest"
+    }
+}

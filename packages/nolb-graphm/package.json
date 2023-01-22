@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-graphm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graphma": "latest",
+        "graphmachine": "latest",
+        "graphmalizer-core": "latest",
+        "graphman": "latest",
+        "graphme": "latest",
+        "graphmetrics": "latest",
+        "graphmilker": "latest",
+        "graphmitter": "latest",
+        "graphml-js": "latest",
+        "graphml-moddle": "latest",
+        "graphml-parser": "latest",
+        "graphml-schema-generator": "latest",
+        "graphml-viewer": "latest",
+        "graphml-views-mongodb": "latest",
+        "graphml.js": "latest",
+        "graphmodel": "latest",
+        "graphmon-express": "latest",
+        "graphmsal": "latest"
+    }
+}

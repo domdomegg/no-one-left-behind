@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_du0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@du012/formula": "latest",
+        "@du012/npm-learning": "latest",
+        "@du012/test-eslint-plugin-react-hooks": "latest",
+        "@du012/test-webpack-import": "latest"
+    }
+}

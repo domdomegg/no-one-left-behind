@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_liw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@liways/way-cli": "latest",
+        "@liwb/carefree-webpack-plugin": "latest",
+        "@liwb/cloud-form": "latest",
+        "@liwb/cloud-utils": "latest",
+        "@liwb/data-mapping": "latest",
+        "@liwb/increase-memory-limit": "latest",
+        "@liwb/pinyin": "latest",
+        "@liwb/vue-cli-plugin-dll": "latest",
+        "@liwb/vue-photo-preview": "latest",
+        "@liwb/vue-router-invoke-webpack-plugin": "latest",
+        "@liweihao/try-exp": "latest",
+        "@liwenhan/tiny": "latest",
+        "@liwenone/iconfont": "latest",
+        "@liwenxiang/indexdb": "latest",
+        "@liwuming/ckeditor5": "latest",
+        "@liwuming/rich-editor": "latest"
+    }
+}

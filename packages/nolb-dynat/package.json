@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-dynat",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dynatable": "latest",
+        "dynaticjs": "latest",
+        "dynatrace": "latest",
+        "dynatrace-agent-api": "latest",
+        "dynatrace-api-balancer": "latest",
+        "dynatrace-cordova-ots-plugin": "latest",
+        "dynatrace-cordova-outsystems-plugin": "latest",
+        "dynatrace-cordova-plugin": "latest",
+        "dynatrace-ionic-instrumentation": "latest",
+        "dynatron": "latest"
+    }
+}

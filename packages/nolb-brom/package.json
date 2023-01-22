@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-brom",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brom": "latest",
+        "broma": "latest",
+        "bromates-hexaplas-araeometer": "latest",
+        "bromba": "latest",
+        "bromcom-nx-angular": "latest",
+        "bromcom-nx-core": "latest",
+        "bromcom-ui": "latest",
+        "bromelia": "latest",
+        "bromide": "latest",
+        "bromide-differ": "latest",
+        "bromine": "latest",
+        "bromise": "latest",
+        "bromises": "latest",
+        "bromo": "latest",
+        "bromockapis": "latest",
+        "bromote": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_azn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aznb/extension-gather": "latest",
+        "@aznora/animations": "latest",
+        "@aznora/cli-schematics": "latest",
+        "@aznora/core": "latest",
+        "@aznora/form": "latest",
+        "@aznora/joi": "latest",
+        "@aznora/ngx-schematics": "latest",
+        "@aznora/ui": "latest",
+        "@aznora/utility": "latest",
+        "@azns/resolver": "latest"
+    }
+}

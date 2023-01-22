@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-qi-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qi-admin-migration": "latest",
+        "qi-authservice": "latest",
+        "qi-cli": "latest",
+        "qi-design-ui": "latest",
+        "qi-draw": "latest",
+        "qi-e-test-gulp": "latest",
+        "qi-element": "latest",
+        "qi-eslint-plugin-react-intl": "latest",
+        "qi-events": "latest",
+        "qi-form": "latest",
+        "qi-generate": "latest",
+        "qi-graphql": "latest",
+        "qi-ican-cli": "latest",
+        "qi-large-number": "latest",
+        "qi-nodes": "latest",
+        "qi-plugin-log": "latest",
+        "qi-px2vw-loader": "latest",
+        "qi-set": "latest",
+        "qi-set-str": "latest",
+        "qi-table": "latest",
+        "qi-test": "latest",
+        "qi-test-lib": "latest",
+        "qi-todo": "latest",
+        "qi-ui-cli3": "latest",
+        "qi-ui-plus": "latest",
+        "qi-validator": "latest",
+        "qi-vcolorpicker": "latest"
+    }
+}

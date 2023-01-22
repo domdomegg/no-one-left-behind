@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_exti",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@extickets/common": "latest",
+        "@extism/as-pdk": "latest",
+        "@extism/extism": "latest",
+        "@extism/runtime-browser": "latest"
+    }
+}

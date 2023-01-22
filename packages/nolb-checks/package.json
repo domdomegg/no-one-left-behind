@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-checks",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "checks": "latest",
+        "checks-and-balances": "latest",
+        "checks-files-js": "latest",
+        "checks-grid-view": "latest",
+        "checks-mix": "latest",
+        "checks-utils": "latest",
+        "checksanjay-starwars-names": "latest",
+        "checksdk": "latest",
+        "checksee": "latest",
+        "checkserver": "latest",
+        "checkservice": "latest",
+        "checkshape": "latest",
+        "checkspaceforfiles": "latest",
+        "checkss": "latest",
+        "checksslcertificate": "latest",
+        "checkstatus": "latest",
+        "checkstream": "latest",
+        "checkstyle-filter-by-name": "latest",
+        "checkstyle-formatter": "latest",
+        "checksum": "latest",
+        "checksum-buffer": "latest",
+        "checksum-calculator": "latest",
+        "checksum-loader": "latest",
+        "checksum-promise": "latest",
+        "checksum-stream": "latest",
+        "checksum-validator": "latest",
+        "checksums": "latest",
+        "checksync": "latest"
+    }
+}

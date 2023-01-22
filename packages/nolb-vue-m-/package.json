@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-vue-m-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-m-ace-editor": "latest",
+        "vue-m-actionsheet": "latest",
+        "vue-m-button": "latest",
+        "vue-m-button-another": "latest",
+        "vue-m-calendar": "latest",
+        "vue-m-carousel": "latest",
+        "vue-m-dataviewer": "latest",
+        "vue-m-date-picker": "latest",
+        "vue-m-dialog": "latest",
+        "vue-m-form": "latest",
+        "vue-m-grid": "latest",
+        "vue-m-index": "latest",
+        "vue-m-layer": "latest",
+        "vue-m-loader": "latest",
+        "vue-m-loading": "latest",
+        "vue-m-message": "latest",
+        "vue-m-monaco-editor": "latest",
+        "vue-m-picker": "latest",
+        "vue-m-quill-editor": "latest",
+        "vue-m-region-picker": "latest",
+        "vue-m-scrollbar": "latest",
+        "vue-m-slider": "latest",
+        "vue-m-swiper": "latest",
+        "vue-m-swipers": "latest",
+        "vue-m-table": "latest",
+        "vue-m-touch": "latest",
+        "vue-m-ts-bus": "latest",
+        "vue-m-validator": "latest"
+    }
+}

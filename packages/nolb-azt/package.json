@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-azt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "azt": "latest",
+        "azt-tracking-service.typed": "latest",
+        "aztec": "latest",
+        "aztec-decoder": "latest",
+        "aztec-scan": "latest",
+        "aztec-ui": "latest",
+        "aztec.js": "latest",
+        "azteca-common": "latest",
+        "azteca-core": "latest",
+        "azteca-forms": "latest",
+        "azteccli": "latest",
+        "aztech": "latest",
+        "aztech-common": "latest",
+        "aztech-ticket-common": "latest",
+        "aztestxyz": "latest",
+        "aztgbot": "latest",
+        "aztogh": "latest",
+        "aztro-js": "latest",
+        "aztsatm": "latest",
+        "aztsgame": "latest",
+        "aztupapi": "latest"
+    }
+}

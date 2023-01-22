@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_miu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@miudiscord/together": "latest",
+        "@miui-sec/gatsby-theme-static": "latest",
+        "@miup/base-common": "latest",
+        "@miup/electron-ioc": "latest",
+        "@miup/electron-static": "latest",
+        "@miup/napi-demo": "latest",
+        "@miup/nest-ali-sms": "latest",
+        "@miup/nest-common": "latest",
+        "@miup/nest-config": "latest",
+        "@miup/nest-log4j": "latest",
+        "@miup/nest-oauth": "latest",
+        "@miup/nest-redis": "latest",
+        "@miup/nest-transaction": "latest",
+        "@miup/ngx-electron-builder": "latest",
+        "@miup/ngx-electron-cli": "latest",
+        "@miurac/create-miurac-admin-dashboard": "latest",
+        "@miurac/init": "latest",
+        "@miuswap/miuswap-core": "latest",
+        "@miuswap/profile-sdk": "latest",
+        "@miuswap/sdk": "latest",
+        "@miuswap/uikit": "latest",
+        "@miuswap/uikits": "latest"
+    }
+}

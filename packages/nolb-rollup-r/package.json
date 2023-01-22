@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-rollup-r",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rollup-react": "latest",
+        "rollup-react-apex-table": "latest",
+        "rollup-react-app": "latest",
+        "rollup-react-app-shubha": "latest",
+        "rollup-react-lib-demo": "latest",
+        "rollup-react-npm": "latest",
+        "rollup-react-playground": "latest",
+        "rollup-react-setup": "latest",
+        "rollup-react-starter-lib-ts": "latest",
+        "rollup-react-test": "latest",
+        "rollup-reactheader": "latest",
+        "rollup-redis-cache": "latest",
+        "rollup-regenerator-runtime": "latest",
+        "rollup-relative-copy-zhong": "latest",
+        "rollup-rely": "latest",
+        "rollup-rewrite-imports": "latest",
+        "rollup-root-css": "latest",
+        "rollup-route-manifest": "latest",
+        "rollup-runtime": "latest"
+    }
+}

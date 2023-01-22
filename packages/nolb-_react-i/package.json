@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_react-i",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@react-i18n/react-i18n": "latest",
+        "@react-icons/all-files": "latest",
+        "@react-infinite-scroll/react-infinite-scroll": "latest",
+        "@react-infinity-staff/dummy": "latest",
+        "@react-infinity/fetch-react": "latest",
+        "@react-ingredients/button": "latest",
+        "@react-ingredients/cursor": "latest",
+        "@react-ingredients/globals": "latest",
+        "@react-ingredients/ingredients-provider": "latest",
+        "@react-ingredients/magnetic-transform": "latest",
+        "@react-ingredients/momentum-scroll": "latest",
+        "@react-instudio/core": "latest",
+        "@react-isomorphic-data/testing": "latest",
+        "@react-items/fetch": "latest"
+    }
+}

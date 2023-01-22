@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_aia",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aia-digital/request-module": "latest",
+        "@aia-digital/ui-library": "latest",
+        "@aia-sg/fmt": "latest",
+        "@aiaa-lambda/initialize-repository": "latest",
+        "@aiaaio/astra-server": "latest",
+        "@aiakane16/vue-form": "latest",
+        "@aiao/color": "latest",
+        "@aiao/date": "latest",
+        "@aiao/elements": "latest",
+        "@aiao/elements-angular": "latest",
+        "@aiao/elements-cdk": "latest",
+        "@aiao/elements-react": "latest",
+        "@aiao/elements-vue": "latest",
+        "@aiao/image-storage": "latest",
+        "@aiao/lazy-component": "latest",
+        "@aiao/lazy-element": "latest",
+        "@aiao/lazy-module": "latest",
+        "@aiao/leancloud-hash": "latest",
+        "@aiao/nest-angular-universal": "latest",
+        "@aiao/nest-typeorm-plus": "latest",
+        "@aiao/nx-tsup": "latest",
+        "@aiao/random": "latest",
+        "@aiao/stencil-toolkit": "latest",
+        "@aiao/typeorm-plus": "latest",
+        "@aiao/universal-fastify-engine": "latest",
+        "@aiao/url": "latest",
+        "@aiao/util": "latest",
+        "@aiaoyang/hello-wasm": "latest"
+    }
+}

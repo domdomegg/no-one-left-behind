@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-trd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "trd": "latest",
+        "trd-1585": "latest",
+        "trd-day4-skpkis": "latest",
+        "trd-ramesh": "latest",
+        "trd-sample-dec": "latest",
+        "trd-sample-dec1": "latest",
+        "trd-simple-dec": "latest",
+        "trdb": "latest",
+        "trdis": "latest",
+        "trdp-addition": "latest",
+        "trds-elements": "latest",
+        "trds-legacy": "latest",
+        "trds-react": "latest",
+        "trds-v2": "latest",
+        "trds-v5": "latest",
+        "trds-v5-react": "latest"
+    }
+}

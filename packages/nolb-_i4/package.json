@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_i4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@i40/eslint-config": "latest",
+        "@i4mi/fhir": "latest",
+        "@i4mi/fhir_questionnaire": "latest",
+        "@i4mi/fhir_r4": "latest",
+        "@i4mi/hci-hospindex-api": "latest",
+        "@i4mi/ionic-on-fhir": "latest",
+        "@i4mi/ionic-storage-service": "latest",
+        "@i4mi/js-on-fhir": "latest",
+        "@i4mi/mhealth-proto-components": "latest",
+        "@i4o-oss/catalystui": "latest",
+        "@i4t/hello-wasm": "latest"
+    }
+}

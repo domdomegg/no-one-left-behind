@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-db3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "db3": "latest",
+        "db3-config": "latest",
+        "db3-ms1": "latest",
+        "db3-mysql": "latest",
+        "db3-order-by": "latest",
+        "db3-query-string": "latest",
+        "db3-set": "latest",
+        "db3-streamify": "latest",
+        "db3-where": "latest",
+        "db3.js": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-stylew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylewars": "latest",
+        "styleway-code-plugin": "latest",
+        "stylewin": "latest",
+        "stylewind": "latest",
+        "stylewind-bridge": "latest",
+        "stylewindcss": "latest",
+        "stylewriter": "latest"
+    }
+}

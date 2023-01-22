@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-hyo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hyo": "latest",
+        "hyoex": "latest",
+        "hyogase": "latest",
+        "hyojin": "latest",
+        "hyojin2": "latest",
+        "hyojin3": "latest",
+        "hyoka": "latest",
+        "hyokyun_hooks": "latest",
+        "hyol": "latest",
+        "hyol-contextmenu": "latest",
+        "hyoo_crowd_lib": "latest",
+        "hyosun-design-system": "latest",
+        "hyot-ui": "latest",
+        "hyougen": "latest",
+        "hyouka-echarts": "latest",
+        "hyouka-element-layout": "latest",
+        "hyouka.js": "latest",
+        "hyoukaechart": "latest",
+        "hyoukaformtable": "latest",
+        "hyoukahyouka": "latest"
+    }
+}

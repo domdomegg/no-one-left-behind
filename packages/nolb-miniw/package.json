@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-miniw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "miniware": "latest",
+        "miniwatch": "latest",
+        "miniweb": "latest",
+        "miniwebsocketserver": "latest",
+        "miniwheels-demo": "latest",
+        "miniwhite001": "latest",
+        "miniwhite001-lib": "latest",
+        "miniwidget": "latest",
+        "miniwidget.com": "latest",
+        "miniwiki": "latest",
+        "miniwind": "latest",
+        "miniwrite": "latest",
+        "miniws": "latest"
+    }
+}

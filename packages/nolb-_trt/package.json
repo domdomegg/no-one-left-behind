@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_trt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trt2/gsm-charset-utils": "latest",
+        "@trt2/optimized-objectlist": "latest",
+        "@trt2/simple-store": "latest",
+        "@trt2/simple-textsearch": "latest",
+        "@trt2/simple-url-queryutils": "latest",
+        "@trt2/tinyjsonrpc-client": "latest",
+        "@trt2/tinyjsonrpc-server": "latest",
+        "@trtc/cloud-sdk-types": "latest",
+        "@trtickets/common": "latest",
+        "@trtickets123/common": "latest",
+        "@trtin/agora-utils": "latest",
+        "@trtshen/ngx-embed-video": "latest"
+    }
+}

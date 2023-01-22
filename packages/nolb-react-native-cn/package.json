@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-react-native-cn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-cn-action-menu": "latest",
+        "react-native-cn-awesome": "latest",
+        "react-native-cn-buttonselect": "latest",
+        "react-native-cn-datepicker": "latest",
+        "react-native-cn-month-year-picker": "latest",
+        "react-native-cn-multi-select": "latest",
+        "react-native-cn-popup-modal": "latest",
+        "react-native-cn-push": "latest",
+        "react-native-cn-quill": "latest",
+        "react-native-cn-richtext-editor": "latest",
+        "react-native-cn-test": "latest",
+        "react-native-cn-tts": "latest",
+        "react-native-cn-tts-ym": "latest",
+        "react-native-cnvitals-react-native": "latest"
+    }
+}

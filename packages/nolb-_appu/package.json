@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_appu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@appulate/eslint-plugin": "latest",
+        "@appulate/loose-node-types-for-web-projects": "latest",
+        "@appulate/minimal-knockout-types-for-devexpress-web-without-global-ko": "latest",
+        "@appuniversum/appuniversum": "latest",
+        "@appuniversum/ember-appuniversum": "latest",
+        "@appuniversum/icon-font": "latest",
+        "@appunto/aoj-accounts": "latest",
+        "@appunto/aoj-screenshots": "latest",
+        "@appunto/aoj-uploads": "latest",
+        "@appunto/api-on-json": "latest",
+        "@appunto/devops-wizard": "latest",
+        "@appunto/ejabberd-api-client": "latest",
+        "@appupnpm/tiny": "latest",
+        "@appupnpm/vue-dropzone": "latest"
+    }
+}

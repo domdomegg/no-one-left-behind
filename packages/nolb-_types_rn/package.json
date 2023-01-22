@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_types_rn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@types/rn-app-upgrade": "latest",
+        "@types/rn-fetch-blob": "latest",
+        "@types/rn-host-detect": "latest",
+        "@types/rn-material-ui-textfield": "latest",
+        "@types/rn-randomnumber": "latest",
+        "@types/rn-swipeable-panel": "latest",
+        "@types/rndm": "latest"
+    }
+}

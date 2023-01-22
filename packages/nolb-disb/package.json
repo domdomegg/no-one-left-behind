@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-disb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "disbench": "latest",
+        "disbot": "latest",
+        "disbot-cli": "latest",
+        "disbot-ts": "latest",
+        "disbot-utils": "latest",
+        "disbot.js": "latest",
+        "disbotapi": "latest",
+        "disbotcore": "latest",
+        "disbotify": "latest",
+        "disbotlist": "latest",
+        "disbots": "latest",
+        "disbots-cli": "latest",
+        "disbots-xyz": "latest",
+        "disbots.js": "latest",
+        "disbots.net": "latest",
+        "disbotsapi": "latest",
+        "disbotsapi-dj": "latest",
+        "disbuild": "latest",
+        "disbull.js": "latest",
+        "disburse": "latest",
+        "disbuts-utils": "latest"
+    }
+}

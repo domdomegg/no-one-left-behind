@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-harc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "harceli": "latest",
+        "harcon": "latest",
+        "harcon-amqp": "latest",
+        "harcon-ecdsa-warper": "latest",
+        "harcon-flow": "latest",
+        "harcon-mqtt": "latest",
+        "harcon-nats": "latest",
+        "harcon-nsq": "latest",
+        "harcon-radiation": "latest",
+        "harcon-sqs": "latest",
+        "harcon-zero": "latest",
+        "harcourts-cooperco-formik": "latest"
+    }
+}

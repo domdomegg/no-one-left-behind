@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-u3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "u3": "latest",
+        "u3-minify": "latest",
+        "u3-utils": "latest",
+        "u3-utils-rn": "latest",
+        "u3.js": "latest",
+        "u3000": "latest",
+        "u32": "latest",
+        "u32vb": "latest",
+        "u3d": "latest",
+        "u3d-loader": "latest"
+    }
+}

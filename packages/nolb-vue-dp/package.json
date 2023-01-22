@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-vue-dp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-dp-image": "latest",
+        "vue-dpape": "latest",
+        "vue-dplayer": "latest",
+        "vue-dplayer-custom": "latest",
+        "vue-dplayer-faustun": "latest",
+        "vue-dplayer-fixed": "latest",
+        "vue-dplayer-server": "latest",
+        "vue-dplayer2": "latest",
+        "vue-dplayer_xu": "latest"
+    }
+}

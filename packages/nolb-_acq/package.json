@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_acq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@acq/acq": "latest",
+        "@acq/bool": "latest",
+        "@acq/chrome": "latest",
+        "@acq/couture": "latest",
+        "@acq/enum-ret": "latest",
+        "@acq/environ": "latest",
+        "@acq/er": "latest",
+        "@acq/gallery": "latest",
+        "@acq/local-rand": "latest",
+        "@acq/parse-path": "latest",
+        "@acq/path": "latest",
+        "@acq/rand": "latest",
+        "@acq/times": "latest",
+        "@acq/url-helper": "latest",
+        "@acqur/css": "latest",
+        "@acqur/pro-layout": "latest",
+        "@acqur/utils": "latest"
+    }
+}

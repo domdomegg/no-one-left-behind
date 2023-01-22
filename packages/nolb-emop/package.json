@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-emop",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emop-components": "latest",
+        "emop-components-angular": "latest",
+        "emop-document-tree": "latest",
+        "emop-layout": "latest",
+        "emop-layout-vue": "latest",
+        "emop-navigation-angular": "latest",
+        "emop-navigation-angular11": "latest",
+        "emop-navigation-vue": "latest",
+        "emop-navigation-vue3": "latest",
+        "emop-sider": "latest",
+        "emop-sider-cjp": "latest",
+        "emop-ui": "latest",
+        "emop-usercenter-angular": "latest",
+        "emop-vue3": "latest",
+        "emopaysdk": "latest",
+        "emopinhh": "latest"
+    }
+}

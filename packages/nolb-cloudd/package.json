@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-cloudd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cloudd": "latest",
+        "clouddatabase": "latest",
+        "clouddatabase-cli": "latest",
+        "clouddb": "latest",
+        "clouddbadapter": "latest",
+        "clouddbapi": "latest",
+        "cloudde": "latest",
+        "cloudde-adapter-interface": "latest",
+        "clouddirectory-client": "latest",
+        "clouddns": "latest",
+        "clouddrive": "latest",
+        "clouddroid-bot": "latest"
+    }
+}

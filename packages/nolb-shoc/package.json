@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-shoc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shoceshop-client": "latest",
+        "shock": "latest",
+        "shock-add": "latest",
+        "shock-common": "latest",
+        "shock.db": "latest",
+        "shocked": "latest",
+        "shocked-channel-redis": "latest",
+        "shocked-client": "latest",
+        "shocked-common": "latest",
+        "shocked-local-broker": "latest",
+        "shocked-network-browser": "latest",
+        "shocked-network-node": "latest",
+        "shocked-network-react-native": "latest",
+        "shocked-react": "latest",
+        "shocked-redis-broker": "latest",
+        "shocked-server": "latest",
+        "shocked-types": "latest",
+        "shocker": "latest",
+        "shockker": "latest",
+        "shockley-test-package-1": "latest",
+        "shockme": "latest",
+        "shocknet": "latest",
+        "shockw4ver": "latest",
+        "shockwave": "latest",
+        "shockwaveisland": "latest",
+        "shocky-cli": "latest",
+        "shocojs": "latest"
+    }
+}

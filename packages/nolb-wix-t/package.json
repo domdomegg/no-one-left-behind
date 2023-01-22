@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-wix-t",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wix-tasks-db-driver": "latest",
+        "wix-tasks-scheduler-proto-api": "latest",
+        "wix-templates-cms": "latest",
+        "wix-test-a": "latest",
+        "wix-test-b": "latest",
+        "wix-test-c": "latest",
+        "wix-test-package": "latest",
+        "wix-test-ports": "latest",
+        "wix-testapp": "latest",
+        "wix-testapp-zio": "latest",
+        "wix-testkit-base": "latest",
+        "wix-text-editor": "latest",
+        "wix-timecapsule-core": "latest",
+        "wix-timecapsule-testkit": "latest",
+        "wix-tiptap-editor": "latest",
+        "wix-tiptap-extensions": "latest",
+        "wix-tpa-style-loader": "latest",
+        "wix-tracing": "latest",
+        "wix-tracing-test-app": "latest",
+        "wix-transform-bo-events": "latest",
+        "wix-tslint-custom-rules": "latest",
+        "wix-types-fix": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_swd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@swdenglian/antd-react-native": "latest",
+        "@swdotcom/editor-flow": "latest",
+        "@swdv-600-master/npm-example": "latest",
+        "@swdv-660-1w-18-fa1/aj-week1-word-counter": "latest",
+        "@swdv-660-1w-18-fa1/chau-week1-node-project": "latest",
+        "@swdv-660-1w-18-fa1/dice": "latest",
+        "@swdv-660-1w-18-fa1/display-greeting-and-cat-fact": "latest",
+        "@swdv-660-1w-18-fa1/node": "latest",
+        "@swdv-660-1w-18-fa1/nodeweek1_randomfraction": "latest",
+        "@swdv-660-1w-18-fa1/npm_project": "latest",
+        "@swdv-660-1w-18-fa1/project-paris": "latest",
+        "@swdv-660-1w-18-fa1/random-greeting": "latest",
+        "@swdv-660-1w-18-fa1/ristow-math-evaluator": "latest",
+        "@swdv-660-1w-18-fa1/safeen_rasool_npm_package": "latest",
+        "@swdv-660-1w-18-fa1/translator": "latest",
+        "@swdv-660-1w-18-fa1/week-1-assignment-ryanhiltonian-rainbow-text-in-box": "latest"
+    }
+}

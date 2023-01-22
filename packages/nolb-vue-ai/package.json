@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-vue-ai",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-ai-carousel": "latest",
+        "vue-ai-design": "latest",
+        "vue-aiie-contenteditor": "latest",
+        "vue-aimg-loader": "latest",
+        "vue-aio-admin": "latest",
+        "vue-aip-calendar": "latest",
+        "vue-air": "latest",
+        "vue-air-component": "latest",
+        "vue-air-dependencies": "latest",
+        "vue-air-element": "latest",
+        "vue-air-layout": "latest",
+        "vue-air-library": "latest",
+        "vue-air-script": "latest",
+        "vue-air-test": "latest",
+        "vue-aira": "latest",
+        "vue-airbnb-calendar": "latest",
+        "vue-airbnb-calendar-plugin-selection": "latest",
+        "vue-airbnb-style-datepicker": "latest",
+        "vue-airbnb-style-datepicker-gedocu": "latest",
+        "vue-airform": "latest",
+        "vue-airloy": "latest",
+        "vue-aiwidget": "latest"
+    }
+}

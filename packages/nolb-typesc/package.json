@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-typesc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-typesca": "latest",
+        "@zalastax/nolb-typesce": "latest",
+        "@zalastax/nolb-typesch": "latest",
+        "@zalastax/nolb-typesci": "latest",
+        "@zalastax/nolb-typescl": "latest",
+        "@zalastax/nolb-typesco": "latest",
+        "@zalastax/nolb-typescr": "latest",
+        "@zalastax/nolb-typescs": "latest"
+    }
+}

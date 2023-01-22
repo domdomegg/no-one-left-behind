@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-brod",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brod": "latest",
+        "brod-caster": "latest",
+        "brodash": "latest",
+        "brodata": "latest",
+        "brodie": "latest",
+        "brodo": "latest",
+        "brodroy": "latest",
+        "brodux": "latest",
+        "brody": "latest",
+        "brody_logger": "latest"
+    }
+}

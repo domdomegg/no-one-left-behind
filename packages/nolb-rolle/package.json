@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-rolle",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rolled": "latest",
+        "rolledup": "latest",
+        "rolleiflex": "latest",
+        "rollem": "latest",
+        "rollem-discord": "latest",
+        "roller": "latest",
+        "roller-bundler": "latest",
+        "roller-cli": "latest",
+        "roller-mapbox-ctrl": "latest",
+        "roller-tailwind-config": "latest",
+        "roller.js": "latest",
+        "roller.ts": "latest",
+        "rollerblade": "latest",
+        "rollerpunk": "latest",
+        "rollerskate": "latest",
+        "rollex": "latest",
+        "rollex-personal": "latest",
+        "rollexp": "latest",
+        "rollexpr": "latest"
+    }
+}

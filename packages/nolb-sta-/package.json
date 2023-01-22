@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-sta-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sta-chasing-hb": "latest",
+        "sta-cli": "latest",
+        "sta-components": "latest",
+        "sta-components-nico": "latest",
+        "sta-components-pene": "latest",
+        "sta-components2": "latest",
+        "sta-localize": "latest",
+        "sta-map": "latest",
+        "sta-oauth-dev": "latest",
+        "sta-oauth-package": "latest",
+        "sta-report": "latest",
+        "sta-report-click": "latest",
+        "sta-test-pkg1": "latest",
+        "sta-vue": "latest"
+    }
+}

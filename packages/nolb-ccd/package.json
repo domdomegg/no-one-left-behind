@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-ccd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ccd": "latest",
+        "ccd-cli": "latest",
+        "ccd-fhir": "latest",
+        "ccd-mongo": "latest",
+        "ccd-ng2": "latest",
+        "ccd-sistema-diseno": "latest",
+        "ccd.js": "latest",
+        "ccd3": "latest",
+        "ccdb": "latest",
+        "ccdb-commonjs": "latest",
+        "ccdds-j": "latest",
+        "ccdelete": "latest",
+        "ccdeletezip": "latest",
+        "ccdepp": "latest",
+        "ccdesign-components": "latest",
+        "ccdevcamp-js-footer": "latest",
+        "ccdir": "latest",
+        "ccdl": "latest",
+        "ccdnc": "latest",
+        "ccdom": "latest",
+        "ccdone": "latest",
+        "ccdown": "latest",
+        "ccdp-component": "latest",
+        "ccdprojects.db": "latest",
+        "ccdriver": "latest",
+        "ccdyyh": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-quiq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "quiq": "latest",
+        "quiq-chat": "latest",
+        "quiq-scripts": "latest",
+        "quiq-socket": "latest",
+        "quiqr": "latest",
+        "quique_cervezas": "latest",
+        "quiqup-redux-network": "latest",
+        "quiqupjs": "latest",
+        "quiqupjs-native-plugin": "latest",
+        "quiqupjs-plugin": "latest"
+    }
+}

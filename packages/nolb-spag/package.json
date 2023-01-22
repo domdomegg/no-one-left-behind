@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-spag",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "spag-code": "latest",
+        "spage-cli": "latest",
+        "spagejs": "latest",
+        "spaghetti": "latest",
+        "spaghetti-audio": "latest",
+        "spaghetti-code": "latest",
+        "spaghetti-frame-print": "latest",
+        "spaghetti-router": "latest",
+        "spaghetti-sergi2": "latest",
+        "spaghetti.js": "latest",
+        "spaghetto": "latest",
+        "spaghetty": "latest",
+        "spagiapi": "latest",
+        "spaginate": "latest",
+        "spago": "latest",
+        "spago2nix": "latest",
+        "spagoil": "latest",
+        "spagtastic-question": "latest"
+    }
+}

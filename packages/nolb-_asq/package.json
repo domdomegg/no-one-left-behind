@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_asq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@asquero/sample": "latest",
+        "@asquero/upload-file-to-s3": "latest",
+        "@asquero/upload-image-to-s3": "latest",
+        "@asquero/wse": "latest",
+        "@asquidsbodytickets/common": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-rant",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rant": "latest",
+        "rant-ui": "latest",
+        "ranta": "latest",
+        "rantanen-igraph": "latest",
+        "rantanplan": "latest",
+        "rantd-rc-picker": "latest",
+        "rantd-react": "latest",
+        "rante-client-lib": "latest",
+        "rante-login": "latest",
+        "rantence": "latest",
+        "ranter": "latest",
+        "rantex": "latest",
+        "rantion-sso-sdk": "latest",
+        "rantjs": "latest",
+        "rantoinne": "latest",
+        "rantscript": "latest"
+    }
+}

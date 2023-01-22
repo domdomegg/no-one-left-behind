@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-clout",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clout": "latest",
+        "clout-auth-sdk": "latest",
+        "clout-cli": "latest",
+        "clout-components": "latest",
+        "clout-flash": "latest",
+        "clout-i18n": "latest",
+        "clout-js": "latest",
+        "clout-mongoose": "latest",
+        "clout-passport": "latest",
+        "clout-pdf-mobile-reader": "latest",
+        "clout-redis-session": "latest",
+        "clout-sequelize": "latest",
+        "clout-socket-io": "latest",
+        "clout-swagger": "latest",
+        "cloutcontracts": "latest",
+        "cloutcontracts-agservers": "latest",
+        "cloutcontracts-api": "latest",
+        "cloutcontracts-contract": "latest",
+        "cloutcontracts-ui": "latest",
+        "cloutly-react-templates": "latest",
+        "cloutpool": "latest",
+        "cloutregulars-frontend": "latest"
+    }
+}

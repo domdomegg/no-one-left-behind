@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-avd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "avd": "latest",
+        "avd-launcher": "latest",
+        "avd-start": "latest",
+        "avd_wc_starter": "latest",
+        "avdan": "latest",
+        "avdann-btn": "latest",
+        "avdcli": "latest",
+        "avddeploy": "latest",
+        "avdev": "latest",
+        "avdhoot-mymath": "latest",
+        "avdiscordutils": "latest",
+        "avdl-compiler": "latest",
+        "avdl2json": "latest",
+        "avdo": "latest",
+        "avdown": "latest",
+        "avdp-wagner": "latest"
+    }
+}

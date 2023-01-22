@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_sln",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@slnpacifist/clickhouse": "latest",
+        "@slnsw/corporate-icon-library": "latest",
+        "@slnsw/dxlab-selfie-uploader": "latest",
+        "@slnsw/eslint-config-dxlab": "latest",
+        "@slnsw/react-indexed-db": "latest",
+        "@slnsw/react-sheet-music": "latest",
+        "@slnsw/react-spinners-kit": "latest",
+        "@slnsw/react-ts-media-player": "latest",
+        "@slnz/fluro": "latest"
+    }
+}

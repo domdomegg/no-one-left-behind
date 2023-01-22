@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_jip",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jipd/default-value": "latest",
+        "@jipd/mongoose-enum-values": "latest",
+        "@jipd/short-id": "latest",
+        "@jipd/string-plural": "latest",
+        "@jipd/string-ucfirst": "latest",
+        "@jipd/string-ucwords": "latest",
+        "@jipin/web": "latest",
+        "@jipo/toldev": "latest",
+        "@jippiticketing/common": "latest",
+        "@jiptickets/common": "latest"
+    }
+}

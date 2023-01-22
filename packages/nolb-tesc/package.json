@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-tesc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tescht1": "latest",
+        "teschtnode": "latest",
+        "tescik": "latest",
+        "tesco": "latest",
+        "tesco-api-node": "latest",
+        "tesco-clubcard-vouchers": "latest",
+        "tesco-connector": "latest",
+        "tesco-spinner": "latest",
+        "tesco-store-location-sdk": "latest",
+        "tesco_react_helloworld": "latest",
+        "tescojs": "latest"
+    }
+}

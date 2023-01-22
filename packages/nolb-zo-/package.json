@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-zo-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zo-bitarray": "latest",
+        "zo-bitop": "latest",
+        "zo-booking-widget": "latest",
+        "zo-capped-array": "latest",
+        "zo-containers-js": "latest",
+        "zo-db-migrate": "latest",
+        "zo-evolve-js": "latest",
+        "zo-frame-print": "latest",
+        "zo-jr": "latest",
+        "zo-mocha-ext": "latest",
+        "zo-secure-random": "latest",
+        "zo-table": "latest",
+        "zo-tail-f": "latest",
+        "zo-taro-ui": "latest",
+        "zo-test-package": "latest",
+        "zo-test-template": "latest",
+        "zo-theone": "latest",
+        "zo-theone-api": "latest",
+        "zo-theone-channel": "latest",
+        "zo-theone-client": "latest",
+        "zo-theone-upgrade": "latest",
+        "zo-tools": "latest",
+        "zo-tpl": "latest",
+        "zo-ui": "latest",
+        "zo-ui-jr": "latest"
+    }
+}

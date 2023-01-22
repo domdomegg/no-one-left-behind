@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-yaq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yaq": "latest",
+        "yaq-cli": "latest",
+        "yaql": "latest",
+        "yaqpbzwrtfckdlis": "latest",
+        "yaqrcode": "latest",
+        "yaqs": "latest",
+        "yaqt": "latest"
+    }
+}

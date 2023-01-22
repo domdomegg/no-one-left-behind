@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-sver",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sver": "latest",
+        "sver-compat": "latest",
+        "svercle": "latest",
+        "sverd": "latest",
+        "sverigesradio": "latest",
+        "sverigesradio-api": "latest",
+        "sveriodic-table": "latest",
+        "sverj": "latest",
+        "svero": "latest",
+        "sverocons": "latest",
+        "sversion": "latest",
+        "sverxmodule": "latest"
+    }
+}

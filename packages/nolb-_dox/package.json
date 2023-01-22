@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_dox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@doxa-code/form": "latest",
+        "@doxa-code/observability": "latest",
+        "@doxa-code/utils": "latest",
+        "@doxacode/form": "latest",
+        "@doxalabs/helloworldx": "latest",
+        "@doxatest/jest-config": "latest",
+        "@doxatest/jest-runner": "latest",
+        "@doxatest/jest-util": "latest",
+        "@doxel/node-hello": "latest",
+        "@doxerfx/country": "latest",
+        "@doxh/holidates": "latest",
+        "@doxiva/notification_handler": "latest",
+        "@doxlab/atomleaf": "latest",
+        "@doxlab/board": "latest",
+        "@doxteam/coded-error": "latest",
+        "@doxteam/error-handler": "latest",
+        "@doxteam/libs": "latest",
+        "@doxteam/reference-data": "latest",
+        "@doxteam/service": "latest",
+        "@doxteam/stream-utils": "latest",
+        "@doxuantien/react-native-my-lib": "latest"
+    }
+}

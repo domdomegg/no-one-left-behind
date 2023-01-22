@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_taj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@taj-inc/common": "latest",
+        "@tajawalae/desktop-ui-components": "latest",
+        "@tajawalae/web-server-middleware": "latest",
+        "@tajcalles/react-flash": "latest",
+        "@tajpouria/mss-utils": "latest",
+        "@tajpouria/stub-common": "latest",
+        "@tajswap-libs/eslint-config-taj": "latest",
+        "@tajswap-libs/sdk": "latest",
+        "@tajswap-libs/taj-swap-core": "latest",
+        "@tajswap-libs/taj-swap-lib": "latest",
+        "@tajswap-libs/tajswap-peripheral": "latest",
+        "@tajswap-libs/uikit": "latest"
+    }
+}

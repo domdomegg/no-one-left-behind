@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-yii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yii": "latest",
+        "yii-ajax": "latest",
+        "yii-cookie": "latest",
+        "yii-profile": "latest",
+        "yii-react-gridview": "latest",
+        "yii-steroids": "latest",
+        "yii-ui-1": "latest",
+        "yii-uikit-datetime-picker": "latest",
+        "yii-uikit-picker": "latest",
+        "yii1": "latest",
+        "yii2-ajaxform-js": "latest",
+        "yii2-ajaxform-plugin": "latest",
+        "yii2-debug-vuejs": "latest",
+        "yii2-pjax": "latest",
+        "yii2-queue-manager-client": "latest",
+        "yii2-webpack": "latest",
+        "yii2core": "latest",
+        "yii2php": "latest",
+        "yii2qmc": "latest",
+        "yiiepapi-node": "latest",
+        "yiiiiiiiii": "latest",
+        "yiimp-node": "latest",
+        "yiiuhb": "latest"
+    }
+}

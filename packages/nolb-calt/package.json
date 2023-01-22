@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-calt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "calt1": "latest",
+        "calterm": "latest",
+        "calthis": "latest",
+        "caltils": "latest",
+        "caltime": "latest",
+        "caltopo-json": "latest",
+        "caltopo-to-geojson": "latest",
+        "caltrans-labextension": "latest"
+    }
+}

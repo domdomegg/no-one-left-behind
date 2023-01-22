@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-quat",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "quat-chat-component": "latest",
+        "quat-chat-component-react": "latest",
+        "quat-client-component": "latest",
+        "quat-client-component-react": "latest",
+        "quat-from-unit-vec3": "latest",
+        "quat-slerp": "latest",
+        "quat.c": "latest",
+        "quaterbacks": "latest",
+        "quaternion": "latest",
+        "quaternion-to-euler": "latest",
+        "quaternion.js": "latest",
+        "quaternionjs": "latest",
+        "quatrok-view-components": "latest",
+        "quattro": "latest",
+        "quattro-stagioni": "latest",
+        "quattroshapes": "latest"
+    }
+}

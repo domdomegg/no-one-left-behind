@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-hs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-hs": "latest",
+        "react-hsc": "latest",
+        "react-hscroll": "latest",
+        "react-hsk-router": "latest",
+        "react-hsl-sliders": "latest",
+        "react-hstate": "latest",
+        "react-hstore": "latest"
+    }
+}

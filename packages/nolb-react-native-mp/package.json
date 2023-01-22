@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-react-native-mp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-mp-android-chart": "latest",
+        "react-native-mparticle": "latest",
+        "react-native-mpchart": "latest",
+        "react-native-mpinduoduo": "latest",
+        "react-native-mplayer": "latest",
+        "react-native-mpod-slider": "latest",
+        "react-native-mpod-video": "latest",
+        "react-native-mpos-native": "latest",
+        "react-native-mpremotecommandcenter": "latest",
+        "react-native-mpush-mix": "latest",
+        "react-native-mpush-mix-android": "latest"
+    }
+}

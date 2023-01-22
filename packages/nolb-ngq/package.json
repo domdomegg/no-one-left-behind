@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-ngq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ngq-autonumeric": "latest",
+        "ngq-datepicker": "latest",
+        "ngq-filestyle": "latest",
+        "ngq-select2": "latest",
+        "ngq-timepicker": "latest",
+        "ngquire": "latest"
+    }
+}

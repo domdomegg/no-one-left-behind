@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-naa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "naa": "latest",
+        "naabscan": "latest",
+        "naakseli-react-helpers": "latest",
+        "naal": "latest",
+        "naamaf-frame-print": "latest",
+        "naampje": "latest",
+        "naan": "latest",
+        "naan-utils": "latest",
+        "naanal-qrcode-reader": "latest",
+        "naanbread-test-npm": "latest",
+        "naar-music-bot": "latest",
+        "naat-banorte-services": "latest",
+        "naat-mrijs": "latest",
+        "naat-mriviewerjs": "latest",
+        "naat-structjs": "latest",
+        "naavi-trix": "latest",
+        "naavi-ui": "latest"
+    }
+}

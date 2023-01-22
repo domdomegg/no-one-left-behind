@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-bot_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bot.dll": "latest",
+        "bot.info": "latest",
+        "bot.js": "latest",
+        "bot.js-easy": "latest",
+        "bot.min.js": "latest",
+        "bot.spark": "latest",
+        "bot.tf-api": "latest",
+        "bot_111": "latest",
+        "bot_api": "latest",
+        "bot_api_wrapper": "latest",
+        "bot_genshin": "latest",
+        "bot_handoff": "latest",
+        "bot_internal_commands": "latest",
+        "bot_server_client": "latest"
+    }
+}

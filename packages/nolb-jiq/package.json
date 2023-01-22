@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-jiq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jiq": "latest",
+        "jiqi-f-monitor": "latest",
+        "jiqi-login-register": "latest",
+        "jiqi-shijue-jiaocheng": "latest",
+        "jiqi-xuexi-daolun": "latest",
+        "jiqi-xuexi-huazhang": "latest",
+        "jiqi-xuexi-jichu-jiaocheng": "latest",
+        "jiqian123": "latest",
+        "jiqian123123456789": "latest",
+        "jiqiling001": "latest",
+        "jiqiling002": "latest",
+        "jiqissctest": "latest",
+        "jiqory": "latest"
+    }
+}

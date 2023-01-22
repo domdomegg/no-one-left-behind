@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-vaq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vaq": "latest",
+        "vaq-plugin-jpush": "latest",
+        "vaqa": "latest",
+        "vaqm-js-client": "latest",
+        "vaquinhalibrary": "latest",
+        "vaquita": "latest"
+    }
+}

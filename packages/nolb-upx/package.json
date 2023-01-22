@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-upx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "upx": "latest",
+        "upx-demo": "latest",
+        "upx-linux": "latest",
+        "upx-win": "latest",
+        "upx.js": "latest",
+        "upx2px": "latest"
+    }
+}

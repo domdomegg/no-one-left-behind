@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_al2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@al2blockchain/alandalus-token-buttons": "latest",
+        "@al2blockchain/helysia": "latest",
+        "@al2k8singh/orgxyz-test": "latest"
+    }
+}

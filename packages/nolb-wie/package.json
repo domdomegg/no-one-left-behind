@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-wie",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wie": "latest",
+        "wie-ist-das-wetter-heute": "latest",
+        "wiegand": "latest",
+        "wiegand-control": "latest",
+        "wiegand-daemon": "latest",
+        "wiegand-encoder": "latest",
+        "wiegand-node": "latest",
+        "wiegand-rfid-reader": "latest",
+        "wiek_math_example": "latest",
+        "wield": "latest",
+        "wielding-events": "latest",
+        "wieldo": "latest",
+        "wieldoformlymaterial": "latest",
+        "wieldy": "latest",
+        "wieldy-webpack": "latest",
+        "wieldyjs": "latest",
+        "wieler-electrode-archetype-react-app": "latest",
+        "wienerlinien": "latest",
+        "wienerlinien-stops-indexeddb": "latest",
+        "wienernir-something-to-prod": "latest",
+        "wienerscript": "latest",
+        "wiesels-mousejs": "latest",
+        "wiesels-navbar": "latest",
+        "wiesi69-hello_world": "latest",
+        "wiestranslate": "latest",
+        "wiev": "latest",
+        "wiew": "latest",
+        "wiex": "latest"
+    }
+}

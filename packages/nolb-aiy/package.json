@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-aiy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aiya": "latest",
+        "aiya-chat-ui": "latest",
+        "aiya-sdk": "latest",
+        "aiya11": "latest",
+        "aiya_sdk_node": "latest",
+        "aiyar": "latest",
+        "aiyarn": "latest",
+        "aiyentam-resume": "latest",
+        "aiyo": "latest",
+        "aiyo-logger": "latest",
+        "aiyong-keyboard": "latest",
+        "aiyongbuyong": "latest",
+        "aiyongbuyong1": "latest",
+        "aiyou": "latest",
+        "aiyou-dg": "latest",
+        "aiyou-npc": "latest",
+        "aiyou-vue-diff": "latest",
+        "aiyou1": "latest",
+        "aiyuke-front-lib": "latest",
+        "aiyun-vue-scroller": "latest",
+        "aiyuwang-chuguide-zhexue": "latest",
+        "aiyuxingde-shiyan-baogao": "latest"
+    }
+}

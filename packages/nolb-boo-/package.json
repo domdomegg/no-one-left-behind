@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-boo-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "boo-boo": "latest",
+        "boo-bottom-docker": "latest",
+        "boo-cli": "latest",
+        "boo-color-selector": "latest",
+        "boo-dialog": "latest",
+        "boo-land-row": "latest",
+        "boo-lg-button": "latest",
+        "boo-lg-form": "latest",
+        "boo-lg-form-item": "latest",
+        "boo-lg-input": "latest",
+        "boo-lg-link": "latest",
+        "boo-list": "latest",
+        "boo-route": "latest",
+        "boo-router": "latest",
+        "boo-state": "latest",
+        "boo-templates": "latest",
+        "boo-test": "latest",
+        "boo-ui-react": "latest",
+        "boo-window": "latest",
+        "boo-wysiwyg-e": "latest"
+    }
+}

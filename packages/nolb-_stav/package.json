@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_stav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stavalfi/b": "latest",
+        "@stavalfi/b1": "latest",
+        "@stavalfi/babel-plugin-module-resolver-loader": "latest",
+        "@stavalfi/c": "latest",
+        "@stavalfi/ci": "latest",
+        "@stavalfi/cli-example": "latest",
+        "@stavalfi/cli-example1": "latest",
+        "@stavalfi/cli-example2": "latest",
+        "@stavalfi/cli-example3": "latest",
+        "@stavalfi/cli-example5": "latest",
+        "@stavalfi/cli-example6": "latest",
+        "@stavalfi/cli-example7": "latest",
+        "@stavalfi/cli-example8": "latest",
+        "@stavalfi/create-folder-structure": "latest",
+        "@stavalfi/docker-registry-client": "latest",
+        "@stavalfi/npm-login-noninteractive": "latest",
+        "@stavalfi/test1": "latest",
+        "@stavalfi/test2": "latest",
+        "@stavalfi/test3": "latest",
+        "@stavelmashally/react-gis": "latest",
+        "@staven/wx-cli": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-nuu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nuu": "latest",
+        "nuudel": "latest",
+        "nuudel-base": "latest",
+        "nuudel-core": "latest",
+        "nuudel-main": "latest",
+        "nuudel-utils": "latest",
+        "nuuid": "latest",
+        "nuuk": "latest",
+        "nuup": "latest",
+        "nuup-test-repo": "latest",
+        "nuupa": "latest",
+        "nuupiot-product-card": "latest",
+        "nuupiot-storybook": "latest",
+        "nuuvem": "latest",
+        "nuuwa-npm-test": "latest"
+    }
+}

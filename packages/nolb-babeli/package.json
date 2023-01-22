@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-babeli",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babelify": "latest",
+        "babelify-9": "latest",
+        "babelify-cache": "latest",
+        "babelify-es6-polyfill": "latest",
+        "babelify-express": "latest",
+        "babelify-external-helpers": "latest",
+        "babelify-impl": "latest",
+        "babelify-jest": "latest",
+        "babelify-newer7-chienkira": "latest",
+        "babelify-require": "latest",
+        "babelify7": "latest",
+        "babelify8": "latest",
+        "babelifyxengine": "latest",
+        "babelise": "latest",
+        "babeliser": "latest",
+        "babelization": "latest",
+        "babelization-template": "latest",
+        "babelize": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_pry",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pry-financials/react-joyride": "latest",
+        "@prym/about": "latest",
+        "@pryme01/react-awesome-lightbox": "latest",
+        "@pryme01/wow": "latest",
+        "@pryme01/wowjs": "latest",
+        "@pryme8/scrolls.js": "latest",
+        "@pryo/environment": "latest",
+        "@pryority/3ntail": "latest",
+        "@pryority/nemiwind": "latest",
+        "@prysm-software/vision-cli": "latest",
+        "@prysm-software/vision-ts": "latest",
+        "@prysm-software/visionjs": "latest",
+        "@pryum/synapse": "latest",
+        "@pryv/boiler": "latest",
+        "@pryv/monitor": "latest",
+        "@pryv/socket.io": "latest",
+        "@pryv/stable-object-representation": "latest"
+    }
+}

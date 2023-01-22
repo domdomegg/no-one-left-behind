@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-ciq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ciq": "latest",
+        "ciq-auth-header": "latest",
+        "ciq-story": "latest",
+        "ciq-style-guide": "latest",
+        "ciq-ui": "latest",
+        "ciql": "latest",
+        "ciql-deploy": "latest",
+        "ciql-json": "latest",
+        "ciql-mailer": "latest",
+        "ciql-secry": "latest",
+        "ciql-toolkit": "latest",
+        "ciqs": "latest",
+        "ciqtek-db": "latest",
+        "ciqtek-editor": "latest",
+        "ciqu-react-calendar": "latest"
+    }
+}

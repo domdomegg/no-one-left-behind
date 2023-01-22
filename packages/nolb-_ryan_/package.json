@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_ryan_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryan.holton/content-editor": "latest",
+        "@ryan.pavlik/khr-reflow": "latest",
+        "@ryan.pavlik/khr-reflow-cli": "latest",
+        "@ryan.pays/eslint-config-underwriteme-test": "latest",
+        "@ryan.ratcliff/synoptic-calculators": "latest",
+        "@ryan.ratcliff/tool-registry-jenkins-publisher": "latest",
+        "@ryan.ratcliff/tools-registry-jenkins-publisher": "latest",
+        "@ryan_williams/lotide": "latest"
+    }
+}

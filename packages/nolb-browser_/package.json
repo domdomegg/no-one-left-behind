@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-browser_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "browser.css": "latest",
+        "browser.log.io": "latest",
+        "browser.min.js": "latest",
+        "browser.runtime": "latest",
+        "browser.utils.lib": "latest",
+        "browser_as_service": "latest",
+        "browser_fingerprint": "latest",
+        "browser_identifier": "latest",
+        "browser_process": "latest",
+        "browser_rpc_bridge_host": "latest",
+        "browser_storage_hook_react": "latest",
+        "browser_tinypng": "latest"
+    }
+}

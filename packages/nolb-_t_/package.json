@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_t_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@t.bland/ckeditor5-build-markdown": "latest",
+        "@t.do/lotide": "latest",
+        "@t.general/expo-firebase-starter": "latest",
+        "@t.general/randomizer": "latest",
+        "@t.kitamura/hello-wasm": "latest",
+        "@t.krapp/sudoku-js": "latest",
+        "@t.pirozzini/lotide": "latest",
+        "@t.simon/ngx-sails": "latest",
+        "@t.smith/lotide": "latest",
+        "@t.voslar/apollo-link-queue": "latest",
+        "@t.voslar/apollo-opentracing": "latest",
+        "@t.voslar/fastify-gql": "latest",
+        "@t.voslar/ts-cache-decorator": "latest",
+        "@t_adachi/jpyc-swap": "latest",
+        "@t_rik/next-i18n-routes": "latest",
+        "@t_weideman/lotide": "latest"
+    }
+}

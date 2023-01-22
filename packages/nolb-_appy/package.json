@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_appy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@appydesign/polaris-vue": "latest",
+        "@appyhigh/express-error-handler": "latest",
+        "@appyhigh/load-test": "latest",
+        "@appyhigh/nodebb-plugin-s3-wasabi": "latest",
+        "@appyhigh/nodebb-plugin-session-sharing-appyhigh": "latest",
+        "@appyhigh/nodebb-theme-appyhigh": "latest",
+        "@appyhigh/react-use-speedtest-hook": "latest",
+        "@appymango/cli": "latest",
+        "@appyourself/core": "latest",
+        "@appyourself/dynamic-component-loader": "latest",
+        "@appyourself/user-profile": "latest",
+        "@appyourself/widget-mobile-app-service": "latest",
+        "@appythings/apidex-cli": "latest"
+    }
+}

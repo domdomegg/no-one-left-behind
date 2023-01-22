@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-tims",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tims": "latest",
+        "tims-ocr-api": "latest",
+        "tims-public-components": "latest",
+        "tims-ui": "latest",
+        "tims.software": "latest",
+        "timsapp": "latest",
+        "timsb": "latest",
+        "timsdk-demo": "latest",
+        "timsgeocoder": "latest",
+        "timshi": "latest",
+        "timsort": "latest",
+        "timsort-node": "latest",
+        "timsy": "latest"
+    }
+}

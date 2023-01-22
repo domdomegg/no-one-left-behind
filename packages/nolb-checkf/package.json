@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-checkf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "checkForModuleDuplicates": "latest",
+        "checkfile": "latest",
+        "checkfoldersize": "latest",
+        "checkfoldersize2": "latest",
+        "checkfor": "latest",
+        "checkforce.js": "latest",
+        "checkforemptiness": "latest",
+        "checkforsearchinformation": "latest",
+        "checkfront": "latest"
+    }
+}

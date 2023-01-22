@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-cah",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cah": "latest",
+        "cah-base-model": "latest",
+        "cah-cards": "latest",
+        "cah-creator": "latest",
+        "cah-deck-maker": "latest",
+        "cah-logger": "latest",
+        "cah-us": "latest",
+        "cah-winston-rollbar": "latest",
+        "cah_game": "latest",
+        "cahcnc91-autocomplete": "latest",
+        "cahcnc91-click-scroll": "latest",
+        "cahey": "latest",
+        "caheza-ui": "latest",
+        "cahier": "latest",
+        "cahim-my-awesome-nodejs-module": "latest",
+        "cahlk": "latest",
+        "cahnrs": "latest",
+        "cahoots": "latest",
+        "cahserver": "latest"
+    }
+}

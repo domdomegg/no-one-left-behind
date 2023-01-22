@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_codeu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@codeunic/best-components": "latest",
+        "@codeunic/co-svelte": "latest",
+        "@codeunic/components": "latest",
+        "@codeunic/library-hooks": "latest",
+        "@codeunic/library-react": "latest",
+        "@codeunic/library-svelte": "latest",
+        "@codeunic/library-ui": "latest",
+        "@codeunic/svelte-library": "latest",
+        "@codeunic/svelte-ui": "latest",
+        "@codeunic/ui-components": "latest",
+        "@codeur/cropit": "latest",
+        "@codeurs/carousel": "latest",
+        "@codeurs/front": "latest",
+        "@codeurs/n-proxy": "latest",
+        "@codeurs/packer": "latest",
+        "@codeurs/php-bin": "latest",
+        "@codeurs/php-bin-linux64": "latest",
+        "@codeurs/php-bin-windows64": "latest",
+        "@codeurs/php-serve": "latest",
+        "@codeurs/react-simple-wheel-picker": "latest",
+        "@codeursarl/ui-cropper": "latest",
+        "@codeus/aria-nativescript": "latest",
+        "@codeus/aria-print": "latest",
+        "@codeus/nativescript-esdc": "latest",
+        "@codeutils/eslint-plugin-code-struct": "latest"
+    }
+}

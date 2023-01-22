@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-crh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "crh": "latest",
+        "crh-homedir-packages": "latest",
+        "crh-vue-cli": "latest",
+        "crhis": "latest",
+        "crho-mediagallery-lib": "latest",
+        "crho-navigation": "latest",
+        "crholib": "latest"
+    }
+}

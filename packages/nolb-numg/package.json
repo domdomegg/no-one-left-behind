@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-numg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "numgame-waheed": "latest",
+        "numgen": "latest",
+        "numgpu": "latest",
+        "numguess": "latest",
+        "numguessgame": "latest",
+        "numguessing-game": "latest"
+    }
+}

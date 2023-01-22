@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-saz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "saz": "latest",
+        "saz-parser": "latest",
+        "saz-player": "latest",
+        "saz-tools": "latest",
+        "saz2har": "latest",
+        "saz2jmx": "latest",
+        "saz2js": "latest",
+        "sazerac": "latest",
+        "sazidnpm": "latest",
+        "sazmining-utils": "latest",
+        "sazo": "latest",
+        "sazona.me": "latest",
+        "sazzle": "latest"
+    }
+}

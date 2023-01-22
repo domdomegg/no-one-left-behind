@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-vue-cli-plugin-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cli-plugin-xavier": "latest",
+        "vue-cli-plugin-xdkj": "latest",
+        "vue-cli-plugin-xg-mock": "latest",
+        "vue-cli-plugin-xia": "latest",
+        "vue-cli-plugin-xiaohoucode": "latest",
+        "vue-cli-plugin-xm": "latest",
+        "vue-cli-plugin-xm-mock": "latest",
+        "vue-cli-plugin-xm-sassglobal": "latest",
+        "vue-cli-plugin-xm-stylelint": "latest",
+        "vue-cli-plugin-xmock": "latest",
+        "vue-cli-plugin-xue-page-generator": "latest",
+        "vue-cli-plugin-xundongbackstage": "latest",
+        "vue-cli-plugin-xuwu": "latest"
+    }
+}

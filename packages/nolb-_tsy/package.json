@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_tsy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tsyeyuanfeng/metro-bundler": "latest",
+        "@tsykhovskyi/ivar": "latest",
+        "@tsykhovskyi/lua-debugger": "latest",
+        "@tsyrulalexander/data-grid": "latest",
+        "@tsyrulalexander/process-designer": "latest"
+    }
+}

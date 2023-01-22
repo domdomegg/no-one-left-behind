@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-fre-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fre-cli": "latest",
+        "fre-controle": "latest",
+        "fre-embed": "latest",
+        "fre-godot": "latest",
+        "fre-lowcode-component": "latest",
+        "fre-router": "latest",
+        "fre-routes": "latest"
+    }
+}

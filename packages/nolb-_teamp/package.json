@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_teamp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@teampanfu/phaser-cachebuster": "latest",
+        "@teampanfu/phaser-nineslice": "latest",
+        "@teampickle/dmoji": "latest",
+        "@teampimcserver/hexo-cookieconsent": "latest",
+        "@teampimcserver/hexo-deployer-git": "latest",
+        "@teampimcserver/hexo-pwa": "latest",
+        "@teampimcserver/hexo-reading-time": "latest",
+        "@teampimcserver/hexo-toc": "latest",
+        "@teampimcserver/hexo-user-posts-count": "latest",
+        "@teamppm/react-hermes": "latest"
+    }
+}

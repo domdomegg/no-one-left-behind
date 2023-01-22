@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_ngd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ngdai0402/tiny": "latest",
+        "@ngdbtools/common": "latest",
+        "@ngdbtools/core": "latest",
+        "@ngdbtools/dynamic-form": "latest",
+        "@ngdbtools/dynamic-table": "latest",
+        "@ngdevelop/ngindia-logger": "latest",
+        "@ngdevelop/rating": "latest",
+        "@ngdevelop/sample-lib": "latest",
+        "@ngdevelop/sample-rating": "latest",
+        "@ngdirective/date-time-picker": "latest",
+        "@ngdo/schematics": "latest",
+        "@ngdoseo/seo": "latest",
+        "@ngdux/data-model-common": "latest",
+        "@ngdux/form": "latest",
+        "@ngdux/list": "latest",
+        "@ngdux/store-common": "latest"
+    }
+}

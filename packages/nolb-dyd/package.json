@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-dyd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dyd": "latest",
+        "dyd-ele": "latest",
+        "dyd-h5-cli": "latest",
+        "dyd-scaffold": "latest",
+        "dyd-ui": "latest",
+        "dyd-util": "latest",
+        "dyd-utils": "latest",
+        "dyd_byvoidmodule_dyd": "latest",
+        "dyd_ts_test": "latest",
+        "dydb": "latest",
+        "dyddiad": "latest",
+        "dyddnscombinejs": "latest",
+        "dydl": "latest",
+        "dydra": "latest",
+        "dydup-base": "latest",
+        "dydup-serve": "latest",
+        "dydx_nodejs_connector": "latest"
+    }
+}

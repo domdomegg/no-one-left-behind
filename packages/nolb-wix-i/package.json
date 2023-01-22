@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-wix-i",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wix-i18n": "latest",
+        "wix-i18n-js": "latest",
+        "wix-i18n-js-old": "latest",
+        "wix-immutable-proxy": "latest",
+        "wix-inbox-mobile": "latest",
+        "wix-insights-client": "latest",
+        "wix-insights-server": "latest",
+        "wix-insta-template": "latest",
+        "wix-instance": "latest",
+        "wix-instance-parser-js": "latest",
+        "wix-instance-testkit": "latest",
+        "wix-invoices-mobile": "latest",
+        "wix-invoices-statics": "latest"
+    }
+}

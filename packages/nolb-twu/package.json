@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-twu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "twu-registered-users-data-service": "latest",
+        "twudu": "latest",
+        "twug": "latest",
+        "twui": "latest",
+        "twui_npm": "latest",
+        "twurlrc": "latest",
+        "twurple": "latest",
+        "twurple-base-bot": "latest",
+        "twurth.cookiebanner": "latest"
+    }
+}

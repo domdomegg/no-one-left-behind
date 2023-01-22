@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-abn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "abn": "latest",
+        "abn-amro-mt940-fix": "latest",
+        "abn-validator": "latest",
+        "abnacn-validator": "latest",
+        "abnar-cli": "latest",
+        "abnar-ui": "latest",
+        "abndlr": "latest",
+        "abneed-palindrome": "latest",
+        "abneedrdz-palindrome": "latest",
+        "abner": "latest",
+        "abner-channel-youtube": "latest",
+        "abner-cli": "latest",
+        "abner-dialog": "latest",
+        "abner-to-upercase": "latest",
+        "abnerpersio-package": "latest",
+        "abnf": "latest",
+        "abnfa": "latest",
+        "abnormal": "latest",
+        "abnsjs25jul2018": "latest",
+        "abntest-cookie": "latest"
+    }
+}

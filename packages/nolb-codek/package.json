@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-codek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "codek": "latest",
+        "codekamma": "latest",
+        "codekarma": "latest",
+        "codekart": "latest",
+        "codekata": "latest",
+        "codekiq-ui": "latest",
+        "codekit-jsx-hack": "latest",
+        "codekit-scanner": "latest",
+        "codekite": "latest",
+        "codekulkarni-cli": "latest"
+    }
+}

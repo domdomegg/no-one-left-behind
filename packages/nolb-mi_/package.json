@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-mi_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mi_angel": "latest",
+        "mi_calculadora_alexitowy": "latest",
+        "mi_calculadora_vicfer": "latest",
+        "mi_fir_hel_wor": "latest",
+        "mi_proyecto_npm": "latest",
+        "mi_tao": "latest"
+    }
+}

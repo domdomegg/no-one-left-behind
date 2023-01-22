@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_l4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@l4dybird/nuxt3-module-page-meta": "latest",
+        "@l4dybird/nuxt3-quasar-module": "latest",
+        "@l4logger/nodejs": "latest"
+    }
+}

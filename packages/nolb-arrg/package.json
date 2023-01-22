@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-arrg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "arrg": "latest",
+        "arrgh": "latest",
+        "arrgh.js": "latest",
+        "arrguojin": "latest",
+        "arrgv": "latest",
+        "arrgzx": "latest"
+    }
+}

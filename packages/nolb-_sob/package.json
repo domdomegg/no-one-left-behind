@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_sob",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sobaswap/sdk": "latest",
+        "@sobernation/queue": "latest",
+        "@sobers/core": "latest",
+        "@sobers/material": "latest",
+        "@soberwp/sass-tools": "latest",
+        "@sobol/app": "latest",
+        "@sobol/client": "latest",
+        "@sobol/craco": "latest",
+        "@sobol/sdk": "latest",
+        "@sobolt/sobolt-components": "latest",
+        "@sobored/dynamsoft": "latest",
+        "@sobotics/caching": "latest",
+        "@sobotics/chatapi": "latest",
+        "@sobotics/genericbotapi": "latest",
+        "@sobotics/metasmokeapi": "latest",
+        "@sobotics/nattyapi": "latest",
+        "@sobotics/sotools": "latest",
+        "@sobron/common": "latest",
+        "@sobs/node-media-server": "latest",
+        "@sobs/sobs-package": "latest",
+        "@sobsontickets/common": "latest",
+        "@sobtid/fastify-exambank": "latest"
+    }
+}

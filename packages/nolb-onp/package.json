@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-onp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "onpage-hub-api-client": "latest",
+        "onpage-js": "latest",
+        "onpage-render": "latest",
+        "onpage-rest-api-client": "latest",
+        "onpage-seo": "latest",
+        "onpage-stable-at-all-costs": "latest",
+        "onpage-widgets": "latest",
+        "onpbx-ws-api": "latest",
+        "onpe-alert": "latest",
+        "onplan-ckeditor": "latest",
+        "onpm": "latest",
+        "onpoint-api": "latest",
+        "onpoint-backend-test-nikita-tsapaev": "latest",
+        "onpoint-backend-test-vasilievashura": "latest",
+        "onpoint-backend-test-zamashnyuk-n": "latest",
+        "onpoint-react-beautiful-dnd": "latest",
+        "onpoint-utils": "latest",
+        "onpoint_mpa_boilerplate_2004": "latest",
+        "onpromise": "latest",
+        "onpushstate": "latest",
+        "onpwerb": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-simm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simm-store": "latest",
+        "simmer": "latest",
+        "simmerjs": "latest",
+        "simmerplate": "latest",
+        "simmetrics": "latest",
+        "simmetrics-lodash": "latest",
+        "simmi.p11": "latest",
+        "simmigonstatespackage": "latest",
+        "simmind": "latest",
+        "simmo-figma-test": "latest",
+        "simmor": "latest",
+        "simmple": "latest",
+        "simmple-greeting-project": "latest",
+        "simmut": "latest",
+        "simmutable": "latest",
+        "simmy-cli": "latest"
+    }
+}

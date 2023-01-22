@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-shoa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shoaib-calulator-1": "latest",
+        "shoaib-cli-atm": "latest",
+        "shoaib-cli-calculator": "latest",
+        "shoaib-helper-sc-demo": "latest",
+        "shoaib-number-guessing-game": "latest",
+        "shoaib546": "latest",
+        "shoaib_atm": "latest",
+        "shoaib_calculator": "latest",
+        "shoaib_currency_converter": "latest",
+        "shoaib_currency_converter_app": "latest",
+        "shoaib_guessgame": "latest",
+        "shoaib_quiz": "latest",
+        "shoaib_student_management_system": "latest",
+        "shoaib_todolist": "latest",
+        "shoaib_word_counter_app": "latest",
+        "shoaibcli": "latest",
+        "shoaibnumbergame": "latest",
+        "shoait-sdk": "latest",
+        "shoal": "latest",
+        "shoal-integrationtests": "latest",
+        "shoaling": "latest",
+        "shoalmate": "latest",
+        "shoarma": "latest"
+    }
+}

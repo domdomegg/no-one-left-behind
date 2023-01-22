@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-obb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "obb": "latest",
+        "obb-achievements": "latest",
+        "obb-battle-engine": "latest",
+        "obb-elo": "latest",
+        "obb.elo": "latest",
+        "obbap": "latest",
+        "obbie": "latest",
+        "obbkit-cli": "latest",
+        "obbui": "latest",
+        "obby-components": "latest",
+        "obby-lib": "latest",
+        "obby.js": "latest",
+        "obbz": "latest"
+    }
+}

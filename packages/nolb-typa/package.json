@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-typa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typable": "latest",
+        "typable-react": "latest",
+        "typac": "latest",
+        "typada-lint-rules": "latest",
+        "typal": "latest",
+        "typanion": "latest",
+        "typapi": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-numa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "numa": "latest",
+        "numa-tiku": "latest",
+        "numa-vital": "latest",
+        "numab": "latest",
+        "numabbr": "latest",
+        "numabbrev": "latest",
+        "numable": "latest",
+        "numachina": "latest",
+        "numadd": "latest",
+        "numaddbybit": "latest",
+        "numalet": "latest",
+        "numan-calculator": "latest",
+        "numan_atm": "latest",
+        "numar": "latest",
+        "numarabicconv": "latest",
+        "numarray": "latest",
+        "numary": "latest",
+        "numas": "latest",
+        "numas-cli": "latest",
+        "numas.wasm": "latest",
+        "numavui-wap": "latest"
+    }
+}

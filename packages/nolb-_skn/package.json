@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_skn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@skn0tt/signer": "latest",
+        "@sknight/babylon-vrm": "latest",
+        "@sknk/object-validator": "latest",
+        "@sknmty/db-tools": "latest",
+        "@sknmty/global-tools": "latest",
+        "@sknmty/node-tools": "latest",
+        "@sknn/common": "latest",
+        "@sknr15/linkedmap": "latest",
+        "@skntickets/common": "latest",
+        "@sknutti/hello-wasm": "latest",
+        "@sknx/request": "latest"
+    }
+}

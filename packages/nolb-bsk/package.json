@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-bsk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bsk": "latest",
+        "bsk-button": "latest",
+        "bsk-core": "latest",
+        "bsk-core-full": "latest",
+        "bsk-dummy-1": "latest",
+        "bsk-form": "latest",
+        "bsk-js": "latest",
+        "bsk-library-test": "latest",
+        "bsk-masonry-layout-plugin": "latest",
+        "bsk-password-validator": "latest",
+        "bsk-request-manager": "latest",
+        "bsk-slider": "latest",
+        "bsk-ui-design": "latest",
+        "bsk-util": "latest",
+        "bsk-utilities": "latest",
+        "bsk-validations": "latest",
+        "bskton-au-input": "latest",
+        "bskton-fa-input": "latest",
+        "bsky": "latest"
+    }
+}

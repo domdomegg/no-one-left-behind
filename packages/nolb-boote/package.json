@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-boote",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bootecho-driver": "latest",
+        "booted": "latest",
+        "bootenv": "latest",
+        "bootepg": "latest",
+        "booter": "latest",
+        "booter-cli": "latest",
+        "booter-cms": "latest",
+        "booter-cms-lb4": "latest",
+        "booter-cms-vue": "latest",
+        "booter-di": "latest",
+        "booter-react-redux": "latest",
+        "booter-tools": "latest",
+        "booterial": "latest",
+        "bootevent": "latest"
+    }
+}

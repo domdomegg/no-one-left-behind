@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_e3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@e3-neon/neon-cli": "latest",
+        "@e3c-summer-worker/homepage-ticker": "latest",
+        "@e3c-summer-worker/navigation": "latest",
+        "@e3c-summer-worker/navigation-cantonese": "latest",
+        "@e3c-summer-worker/navigation-mandarin": "latest",
+        "@e3c-summer-worker/navigation-saturday": "latest",
+        "@e3c-summer-worker/scrolling-terrain-bg": "latest",
+        "@e3dio/auto-restart": "latest",
+        "@e3gtickets/common": "latest",
+        "@e3labs/sync-erp-connector": "latest",
+        "@e3libs/ngx-core": "latest",
+        "@e3m-software/base-web-frontend": "latest",
+        "@e3sar33/easy-math": "latest",
+        "@e3sar33/minify-css": "latest"
+    }
+}

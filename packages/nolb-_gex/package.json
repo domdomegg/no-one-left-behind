@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_gex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gexayr/nice-handsome-button": "latest",
+        "@gexiaolong/richtexteditor": "latest",
+        "@gexk/gxk": "latest",
+        "@gexk/noa": "latest",
+        "@gexplorer/stylelint-angular-builder": "latest",
+        "@gexue/gexue_test_publish": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-confa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "confa": "latest",
+        "confab": "latest",
+        "confab-addons": "latest",
+        "confab-features": "latest",
+        "confabulate": "latest",
+        "confabulous": "latest",
+        "confabulous-etcd-loader": "latest",
+        "confabulous-http-loader": "latest",
+        "confabulous-postgres-loader": "latest",
+        "confabulous-s3-loader": "latest",
+        "confabulous-vault-loader": "latest",
+        "confactory": "latest",
+        "confappdata": "latest"
+    }
+}

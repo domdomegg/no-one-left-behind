@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-goog-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "goog-base-migrator": "latest",
+        "goog-class-to-es6": "latest",
+        "goog-libphonenumber": "latest",
+        "goog-loader": "latest",
+        "goog-oauth-2-client": "latest",
+        "goog-places-api": "latest",
+        "goog-sheet-api": "latest",
+        "goog-webfont-dl": "latest",
+        "goog-webfont-dl-regular": "latest",
+        "goog-webfont-dl-standardized": "latest"
+    }
+}

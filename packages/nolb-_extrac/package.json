@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_extrac",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@extractions/setup-crate": "latest",
+        "@extractors/pyin": "latest",
+        "@extractr-io/puphpeteer": "latest",
+        "@extractr-io/rialto": "latest",
+        "@extractus/article-extractor": "latest",
+        "@extractus/feed-extractor": "latest",
+        "@extractus/oembed-extractor": "latest"
+    }
+}

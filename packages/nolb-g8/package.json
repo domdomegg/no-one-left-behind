@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-g8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "g8": "latest",
+        "g8-js-sdk": "latest",
+        "g8-popup-menu": "latest",
+        "g8-typedoc-dark": "latest",
+        "g8-vue-tree": "latest",
+        "g8-xml-edit": "latest",
+        "g8-xml-patch": "latest",
+        "g8-xml-patch-cli": "latest",
+        "g8untcotribwatch": "latest",
+        "g8w": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_edr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@edrawjs/core": "latest",
+        "@edrc/shared": "latest",
+        "@edribeiro/checkout-server-sdk": "latest",
+        "@edric-phan/interface": "latest",
+        "@edris-lab/react-meta": "latest",
+        "@edropin/accounts-svc": "latest",
+        "@edropin/accounts-ts": "latest",
+        "@edropin/accounts-ts-fetch": "latest",
+        "@edropin/algolia-utility": "latest",
+        "@edropin/auth": "latest",
+        "@edropin/canvas": "latest",
+        "@edropin/client-key-auth": "latest",
+        "@edropin/courses-svc": "latest",
+        "@edropin/datastore-utility": "latest",
+        "@edropin/entity-slug": "latest",
+        "@edropin/events-react": "latest",
+        "@edropin/events-svc": "latest",
+        "@edropin/events-ts": "latest",
+        "@edropin/events-ts-fetch": "latest",
+        "@edropin/firebase-auth": "latest",
+        "@edropin/permission-helper": "latest",
+        "@edropin/permission-manager": "latest",
+        "@edropin/response-utility": "latest",
+        "@edropin/store-isvc": "latest",
+        "@edropin/store-svc": "latest",
+        "@edropin/store-ts": "latest",
+        "@edropin/store-ts-fetch": "latest",
+        "@edruta/tiny": "latest"
+    }
+}

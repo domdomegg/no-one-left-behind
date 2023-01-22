@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-pinb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pinba": "latest",
+        "pinba-server": "latest",
+        "pinbahouse": "latest",
+        "pinball": "latest",
+        "pinball-master-vue-wysiwyg": "latest",
+        "pinballdb": "latest",
+        "pinbank-cli": "latest",
+        "pinblock": "latest",
+        "pinboard": "latest",
+        "pinboard-api": "latest",
+        "pinboard-bookmarks": "latest",
+        "pinboard-cli": "latest",
+        "pinboard-grid": "latest",
+        "pinboard-proxy": "latest",
+        "pinboard-to-tiddlywiki-bookmarks": "latest",
+        "pinboard.in-button": "latest",
+        "pinboard.js": "latest",
+        "pinbox": "latest",
+        "pinbuggy.api": "latest"
+    }
+}

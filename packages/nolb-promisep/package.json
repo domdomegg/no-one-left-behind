@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-promisep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "promisepay": "latest",
+        "promisepipe": "latest",
+        "promisepm2": "latest",
+        "promisepro": "latest",
+        "promiseprops": "latest",
+        "promiseproxy": "latest",
+        "promiseproxy-chrome": "latest",
+        "promiseproxy-node": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-bin2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bin2": "latest",
+        "bin2020-cli": "latest",
+        "bin2carray": "latest",
+        "bin2dec": "latest",
+        "bin2faas": "latest",
+        "bin2hex": "latest",
+        "bin2node": "latest",
+        "bin2png": "latest",
+        "bin2wav-cli": "latest"
+    }
+}

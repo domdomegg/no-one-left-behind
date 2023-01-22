@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-dynams",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dynamsoft-barcode-reader-web-sdk": "latest",
+        "dynamsoft-camera-enhancer": "latest",
+        "dynamsoft-capture-vision-cordova": "latest",
+        "dynamsoft-capture-vision-react-native": "latest",
+        "dynamsoft-code-parser": "latest",
+        "dynamsoft-document-normalizer": "latest",
+        "dynamsoft-javascript-barcode": "latest",
+        "dynamsoft-javascript-barcode-6.x-resource": "latest",
+        "dynamsoft-label-recognizer": "latest",
+        "dynamsoft-mbc": "latest",
+        "dynamsoft-node-barcode": "latest",
+        "dynamsoft-sdk": "latest"
+    }
+}

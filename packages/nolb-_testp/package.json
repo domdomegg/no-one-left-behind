@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_testp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@testpack03/auto-form": "latest",
+        "@testpackagethenguyen/one": "latest",
+        "@testpossessed/angularfire-repo-factory": "latest",
+        "@testpossessed/ng-schematics": "latest",
+        "@testpossessed/ts-data-builder": "latest",
+        "@testpossessed/ts-substitute": "latest",
+        "@testpractice/range-series-aui": "latest",
+        "@testprism/npm-package-example": "latest",
+        "@testprivate/core": "latest",
+        "@testprivate/exchange-connector": "latest",
+        "@testprivate/generator": "latest",
+        "@testprotocol/avatar": "latest",
+        "@testprotocol/reverse-records": "latest"
+    }
+}

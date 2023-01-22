@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-browl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "browl": "latest",
+        "browl-loader": "latest",
+        "browl-make": "latest",
+        "browl-memory": "latest",
+        "browl-npm": "latest",
+        "browl-null": "latest",
+        "browl-plugin-dotenv": "latest",
+        "browl-plugin-nginx": "latest",
+        "browl-plugin-settings-config": "latest",
+        "browl-plugin-settings-config-nginx-adapter": "latest",
+        "browl-util": "latest",
+        "browl-yaml": "latest",
+        "browlog": "latest"
+    }
+}

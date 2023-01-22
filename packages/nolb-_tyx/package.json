@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_tyx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tyx1703/fluent-ui": "latest",
+        "@tyx1703/game-of-life": "latest"
+    }
+}

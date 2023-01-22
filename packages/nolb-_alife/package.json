@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_alife",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alifel-test/n1": "latest",
+        "@alifel-test/n3": "latest",
+        "@alifel-test/n4": "latest",
+        "@alifel-test/n6": "latest",
+        "@alifel-test/n7": "latest",
+        "@alifelived/a-life-lived-recorder": "latest",
+        "@alifelived/opus": "latest",
+        "@alifelived/react-native-audio-record": "latest",
+        "@alifelived/react-native-component-lib": "latest",
+        "@alifelived/types": "latest",
+        "@alifensome/components": "latest"
+    }
+}

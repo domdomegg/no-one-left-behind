@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-hypero",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hyperobj": "latest",
+        "hyperobj-context": "latest",
+        "hyperobject": "latest",
+        "hyperobjects": "latest",
+        "hyperocean": "latest",
+        "hyperocean-transparent": "latest",
+        "hyperon": "latest",
+        "hyperons": "latest",
+        "hyperoop": "latest",
+        "hyperoop-router": "latest",
+        "hyperoop-todo-hist": "latest",
+        "hyperoperate": "latest",
+        "hyperopt": "latest",
+        "hyperoptics": "latest",
+        "hyperoute": "latest"
+    }
+}

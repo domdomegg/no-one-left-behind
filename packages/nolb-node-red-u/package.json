@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-node-red-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-udp2": "latest",
+        "node-red-ui-node-lineargauge": "latest",
+        "node-red-ui-node-table": "latest",
+        "node-red-umbparser": "latest",
+        "node-red-universal-convertor": "latest",
+        "node-red-upload-file-to-box": "latest"
+    }
+}

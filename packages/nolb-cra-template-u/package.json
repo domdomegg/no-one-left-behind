@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-cra-template-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cra-template-udev": "latest",
+        "cra-template-udt": "latest",
+        "cra-template-ui": "latest",
+        "cra-template-ui-crud-framework": "latest",
+        "cra-template-ui-unimed": "latest",
+        "cra-template-ui5-webcomponents-react-seed": "latest",
+        "cra-template-ui5-webcomponents-react-typescript-seed": "latest",
+        "cra-template-uki": "latest",
+        "cra-template-ultralight": "latest",
+        "cra-template-umworks": "latest",
+        "cra-template-unbxd-search-default": "latest",
+        "cra-template-unicorn": "latest",
+        "cra-template-unifire-js": "latest",
+        "cra-template-universal": "latest",
+        "cra-template-universal-ts": "latest",
+        "cra-template-upgraded": "latest",
+        "cra-template-use-arv": "latest",
+        "cra-template-useless-admin": "latest",
+        "cra-template-usgs": "latest",
+        "cra-template-using-atomic-design": "latest",
+        "cra-template-uvgo": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_devj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@devjaewoo-hooks/use-axios": "latest",
+        "@devjaewoo/react-svg-connector": "latest",
+        "@devjasonclarke/vue-3": "latest",
+        "@devjasonclarke/vue-tem": "latest",
+        "@devjdrel2001/error-tracker": "latest",
+        "@devjerry/hoxy": "latest",
+        "@devjobs/base": "latest",
+        "@devjoyvn/autoloader-ts": "latest",
+        "@devjoyvn/concurrency": "latest",
+        "@devjoyvn/convert-number-vn": "latest",
+        "@devjoyvn/fakebrowser": "latest",
+        "@devjoyvn/simulate-action": "latest",
+        "@devjoyvn/web-components": "latest",
+        "@devjruiz/platzimediaplayer": "latest",
+        "@devjumpgo/tiny": "latest"
+    }
+}

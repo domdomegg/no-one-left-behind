@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_hyg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hygame/protobufjs": "latest",
+        "@hyggedyne/scrabbleify": "latest",
+        "@hygh-tech/imagemin-jpeg-compress": "latest",
+        "@hygiene/cli": "latest",
+        "@hygiene/core": "latest",
+        "@hygiene/plugin-github-url": "latest",
+        "@hygorcerticraft/logging": "latest",
+        "@hygraph/app-sdk": "latest",
+        "@hygraph/app-sdk-react": "latest",
+        "@hygraph/baukasten": "latest",
+        "@hygraph/icons": "latest",
+        "@hygraph/management-sdk": "latest",
+        "@hygraph/theme": "latest",
+        "@hygull/bibtex": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-foz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "foz": "latest",
+        "foz-cli": "latest",
+        "foz-compose": "latest",
+        "fozan-main": "latest",
+        "fozero-cli": "latest",
+        "fozg-ui": "latest",
+        "fozmodule": "latest",
+        "fozy": "latest",
+        "fozy-menu": "latest"
+    }
+}

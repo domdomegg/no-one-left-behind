@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-fisc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fisc": "latest",
+        "fiscal": "latest",
+        "fiscal-fns": "latest",
+        "fiscal-js": "latest",
+        "fiscal-printer": "latest",
+        "fiscal-printers": "latest",
+        "fiscal-server-module": "latest",
+        "fiscal-year": "latest",
+        "fiscal-year-nepal": "latest",
+        "fiscaly": "latest",
+        "fischbacher": "latest",
+        "fischer-color": "latest",
+        "fischer960": "latest",
+        "fischfiletrouterdemo": "latest",
+        "fisco": "latest",
+        "fisco-bcos": "latest",
+        "fisco-sdk-js": "latest",
+        "fiscusmatt-schematics": "latest"
+    }
+}

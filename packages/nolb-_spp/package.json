@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_spp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@spphr/eslint-plugin": "latest",
+        "@sppk/antd": "latest",
+        "@sppk/axios": "latest",
+        "@sppk/create-vite": "latest",
+        "@sppk/my-lib": "latest",
+        "@sppk/nrm": "latest",
+        "@sppk/simple-vue": "latest",
+        "@sppk/vite": "latest",
+        "@spps/beano": "latest",
+        "@spps/datepicker": "latest",
+        "@sppt/common": "latest"
+    }
+}

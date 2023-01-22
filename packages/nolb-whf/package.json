@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-whf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "whf-chat": "latest",
+        "whf-modules": "latest",
+        "whfdzeurnmylokax": "latest",
+        "whfmthify": "latest",
+        "whfp-motion-webcam": "latest",
+        "whfp-ngrok": "latest",
+        "whfp-teamspeak": "latest"
+    }
+}

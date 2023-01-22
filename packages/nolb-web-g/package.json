@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-web-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "web-gadget": "latest",
+        "web-gambit": "latest",
+        "web-gambit-cli": "latest",
+        "web-game-framework": "latest",
+        "web-gash": "latest",
+        "web-gejmika-front": "latest",
+        "web-general-tools": "latest",
+        "web-generate": "latest",
+        "web-generator": "latest",
+        "web-gesture": "latest",
+        "web-gesture-events": "latest",
+        "web-getsum": "latest",
+        "web-gg": "latest",
+        "web-glede": "latest",
+        "web-glede-plugin": "latest",
+        "web-glossary": "latest",
+        "web-gly-plugin": "latest",
+        "web-glywidget-ui": "latest",
+        "web-gm": "latest",
+        "web-gongcheng-shijianzhede-yanjiu-fangfa": "latest",
+        "web-google-maps": "latest",
+        "web-gpio-react": "latest",
+        "web-graphs": "latest",
+        "web-greeting": "latest",
+        "web-grider": "latest",
+        "web-guess-your-number": "latest",
+        "web-guide-av": "latest"
+    }
+}

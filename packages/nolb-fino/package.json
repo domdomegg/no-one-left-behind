@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-fino",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fino": "latest",
+        "fino-cli": "latest",
+        "fino-test": "latest",
+        "finobot_backend": "latest",
+        "finocial.eth": "latest",
+        "finodex-default-token-list": "latest",
+        "finodex-sdk": "latest",
+        "finoer": "latest",
+        "finoer-dupulicate": "latest",
+        "finolog-node": "latest",
+        "finom": "latest",
+        "finomial-angular-formio": "latest",
+        "finomial-formiojs": "latest",
+        "finone-web-rc": "latest",
+        "finone-web-test": "latest",
+        "finops-andrew-sdk": "latest",
+        "finops-export": "latest",
+        "finos-dynamic-form": "latest"
+    }
+}

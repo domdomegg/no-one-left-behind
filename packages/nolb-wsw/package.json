@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-wsw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wsw": "latest",
+        "wsw-alipay": "latest",
+        "wsw-cli": "latest",
+        "wsw-copydir": "latest",
+        "wsw-data-access": "latest",
+        "wsw-event-bus": "latest",
+        "wsw-express": "latest",
+        "wsw-form-maker": "latest",
+        "wsw-framework": "latest",
+        "wsw-maps": "latest",
+        "wsw-monaco-cdn": "latest",
+        "wsw-plugin": "latest",
+        "wsw-sel-phono": "latest",
+        "wsw-ui": "latest",
+        "wsw-unity": "latest",
+        "wsw-update": "latest",
+        "wsw123": "latest",
+        "wsw_smy": "latest",
+        "wsw_test": "latest",
+        "wswap-sdk": "latest",
+        "wswg-for-zipify": "latest",
+        "wswplay-ts-rest-axios": "latest",
+        "wsws_sfe": "latest",
+        "wswsws-lib": "latest"
+    }
+}

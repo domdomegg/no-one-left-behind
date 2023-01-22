@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-anf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "anf": "latest",
+        "anf-core": "latest",
+        "anf-ioc": "latest",
+        "anf-project-lvl1-braingames": "latest",
+        "anf-scripts": "latest",
+        "anf-webapp": "latest",
+        "anfalfadhil-resume": "latest",
+        "anfejs": "latest",
+        "anfi-proj-lvl1-braingames": "latest",
+        "anfieldka-proj-lvl1-braingames": "latest",
+        "anfikkk-brain-games": "latest",
+        "anfis": "latest",
+        "anflower-ui": "latest",
+        "anfly-temp-test": "latest",
+        "anfordern": "latest",
+        "anfotree": "latest",
+        "anfoui": "latest",
+        "anfp-scraper": "latest",
+        "anfrage": "latest",
+        "anfrage-playground": "latest",
+        "anft-gated-tribus": "latest",
+        "anfuns-assets": "latest"
+    }
+}

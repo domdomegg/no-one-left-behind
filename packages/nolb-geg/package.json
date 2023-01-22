@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-geg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "geg": "latest",
+        "geg-auth-adapter": "latest",
+        "geg.common.angular": "latest",
+        "gege": "latest",
+        "gege-cc": "latest",
+        "gege-ui": "latest",
+        "gegege-ui": "latest",
+        "gegehprast-whatsapp-web.js": "latest",
+        "gegevanne": "latest",
+        "gegevensmagazijn.ts": "latest",
+        "gegewu-date": "latest",
+        "gegewu-qs": "latest",
+        "geggleto-circuit-breaker": "latest",
+        "gegham": "latest",
+        "gegi-sdk": "latest"
+    }
+}

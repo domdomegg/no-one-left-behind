@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_fontsource_z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fontsource/zcool-kuaile": "latest",
+        "@fontsource/zcool-qingke-huangyou": "latest",
+        "@fontsource/zcool-xiaowei": "latest",
+        "@fontsource/zen-antique": "latest",
+        "@fontsource/zen-antique-soft": "latest",
+        "@fontsource/zen-dots": "latest",
+        "@fontsource/zen-kaku-gothic-antique": "latest",
+        "@fontsource/zen-kaku-gothic-new": "latest",
+        "@fontsource/zen-kurenaido": "latest",
+        "@fontsource/zen-loop": "latest",
+        "@fontsource/zen-maru-gothic": "latest",
+        "@fontsource/zen-old-mincho": "latest",
+        "@fontsource/zen-tokyo-zoo": "latest",
+        "@fontsource/zeyada": "latest",
+        "@fontsource/zhi-mang-xing": "latest",
+        "@fontsource/zilla-slab": "latest",
+        "@fontsource/zilla-slab-highlight": "latest"
+    }
+}

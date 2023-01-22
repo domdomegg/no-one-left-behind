@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-qms",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qms": "latest",
+        "qms-angular": "latest",
+        "qms-automation-testing-2": "latest",
+        "qms-automation-testing-21": "latest",
+        "qms-common": "latest",
+        "qms-dev-js": "latest",
+        "qms-js": "latest",
+        "qms-json-form": "latest",
+        "qms-lib": "latest",
+        "qms-nest": "latest",
+        "qms-nest-dev": "latest",
+        "qms-nestjs": "latest",
+        "qms-nestjs-test": "latest",
+        "qms-rollup": "latest",
+        "qms-test-common": "latest",
+        "qms-test-rollup": "latest",
+        "qms-test-ui": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_goz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gozala/automerge-backend-wasm": "latest",
+        "@gozala/ed25519": "latest",
+        "@gozala/fzstd": "latest",
+        "@gozaru/firestore-client": "latest",
+        "@gozaru/firestore-driver": "latest",
+        "@gozdeozcel/serverless-plugin-edgedelta": "latest",
+        "@gozenc/animpure": "latest",
+        "@gozenc/interpolate-html-plugin": "latest",
+        "@gozhtet/plugin-api": "latest",
+        "@gozi1/lotide": "latest"
+    }
+}

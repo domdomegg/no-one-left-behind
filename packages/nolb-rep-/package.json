@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-rep-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rep-android": "latest",
+        "rep-colors": "latest",
+        "rep-extract": "latest",
+        "rep-gallery": "latest",
+        "rep-ios": "latest",
+        "rep-js": "latest",
+        "rep-max": "latest",
+        "rep-mobile": "latest",
+        "rep-msg": "latest",
+        "rep-runner": "latest",
+        "rep-ultra": "latest",
+        "rep-web": "latest",
+        "rep-xt": "latest"
+    }
+}

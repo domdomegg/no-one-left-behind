@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-react-native-tv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-tv": "latest",
+        "react-native-tv-box": "latest",
+        "react-native-tv-exit": "latest",
+        "react-native-tv-focus-wrapper": "latest",
+        "react-native-tv-ws-protocol": "latest",
+        "react-native-tva": "latest",
+        "react-native-tvfocus": "latest",
+        "react-native-tvhub": "latest",
+        "react-native-tvisdk": "latest",
+        "react-native-tvos": "latest",
+        "react-native-tvos-compatible": "latest",
+        "react-native-tvos-controller": "latest",
+        "react-native-tvos-elements": "latest",
+        "react-native-tvos-nz": "latest",
+        "react-native-tvsdk-steps": "latest",
+        "react-native-tvsdk-test": "latest",
+        "react-native-tvsheng-webview": "latest",
+        "react-native-tvsquared": "latest",
+        "react-native-tvtouchablescale": "latest"
+    }
+}

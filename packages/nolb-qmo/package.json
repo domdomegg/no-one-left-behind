@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-qmo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qmock": "latest",
+        "qmod": "latest",
+        "qmodule": "latest",
+        "qmodule3": "latest",
+        "qmohitsingh-npm-package": "latest",
+        "qmongo": "latest",
+        "qmos": "latest",
+        "qmosbase": "latest",
+        "qmote": "latest",
+        "qmotion": "latest",
+        "qmovies": "latest",
+        "qmox": "latest",
+        "qmox-app": "latest",
+        "qmox-base": "latest",
+        "qmox-cli": "latest",
+        "qmox-spa": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_zex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zexdex.app/eslint-config-zexdexapp": "latest",
+        "@zexdex.app/qswap-sdk": "latest",
+        "@zexdex.app/zexdexapp-sdk": "latest",
+        "@zexdex.app/zexdexapp-token-lists": "latest",
+        "@zexdex.app/zexdexapp-uikit": "latest",
+        "@zexdexapp/eslint-config-zexdexapp": "latest",
+        "@zexdexapp/uikit": "latest",
+        "@zexdexapp/zexdexapp-sdk": "latest",
+        "@zexdexapp/zexdexapp-token-lists": "latest",
+        "@zextras/carbonio-admin-ui": "latest",
+        "@zextras/carbonio-design-system": "latest",
+        "@zextras/carbonio-shell-ui": "latest",
+        "@zextras/carbonio-ui-configs": "latest",
+        "@zextras/carbonio-ui-preview": "latest",
+        "@zextras/carbonio-ui-sdk": "latest"
+    }
+}

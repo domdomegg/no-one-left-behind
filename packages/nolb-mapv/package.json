@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-mapv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mapv": "latest",
+        "mapv-backport": "latest",
+        "mapv-ex": "latest",
+        "mapv-frame-print": "latest",
+        "mapv-three": "latest",
+        "mapv-ty": "latest",
+        "mapv-x": "latest",
+        "mapv_export_tween": "latest",
+        "mapvgl": "latest",
+        "mapview": "latest",
+        "mapvue": "latest"
+    }
+}

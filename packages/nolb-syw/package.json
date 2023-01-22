@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-syw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "syw": "latest",
+        "syw-electron-titlebar": "latest",
+        "syw-lib-2": "latest",
+        "syw-uikit": "latest",
+        "sywac": "latest",
+        "sywac-style-basic": "latest",
+        "sywac-style-chunky": "latest",
+        "sywcli": "latest",
+        "sywebpack-demo": "latest",
+        "sywiz-test-button": "latest",
+        "sywl-lib": "latest",
+        "sywl-payment": "latest",
+        "sywtools": "latest"
+    }
+}

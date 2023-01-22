@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-tranq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tranquil": "latest",
+        "tranquil-frwk": "latest",
+        "tranquil-stream": "latest",
+        "tranquil-turtle": "latest",
+        "tranquility": "latest",
+        "tranquility-lane": "latest",
+        "tranquility.js": "latest"
+    }
+}

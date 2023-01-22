@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_rej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@rej156/draft-js": "latest",
+        "@rej156/react-mde": "latest",
+        "@rej22/react-test": "latest",
+        "@rejdeboerp/react-components": "latest",
+        "@rejinr/wc-sample": "latest",
+        "@rejinr/wc-sample-react": "latest",
+        "@rejs/re-future": "latest"
+    }
+}

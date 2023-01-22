@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_soj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sojborg/react-clock": "latest",
+        "@sojeda/prettier-config": "latest",
+        "@sojer23/apiperformance": "latest",
+        "@sojs/analyzer": "latest",
+        "@sojs/common": "latest",
+        "@sojs/core": "latest",
+        "@sojs/dashboard": "latest",
+        "@sojs/openapi": "latest",
+        "@sojs/platform-express": "latest",
+        "@sojs/platform-fastify": "latest",
+        "@sojs/swagger": "latest",
+        "@sojs/testing": "latest",
+        "@sojs_coder/db": "latest",
+        "@sojs_coder/sodb": "latest"
+    }
+}

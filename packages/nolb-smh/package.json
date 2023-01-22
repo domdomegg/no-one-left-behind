@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-smh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smh": "latest",
+        "smh-changeloger": "latest",
+        "smh-cli": "latest",
+        "smh-markdowner": "latest",
+        "smh-parser": "latest",
+        "smhello": "latest",
+        "smhelper": "latest",
+        "smhi": "latest",
+        "smhi-node": "latest",
+        "smhi-thunder": "latest"
+    }
+}

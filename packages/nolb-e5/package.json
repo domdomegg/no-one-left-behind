@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-e5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "e5": "latest",
+        "e5-allure-reporter": "latest",
+        "e5-lang": "latest",
+        "e5-wdio-allure-reporter": "latest",
+        "e5core-angular-services": "latest",
+        "e5core-angular-ui": "latest",
+        "e5d-component": "latest",
+        "e5d-dic": "latest",
+        "e5d-service": "latest",
+        "e5d-template": "latest",
+        "e5peter-example": "latest",
+        "e5peter-example-lib": "latest",
+        "e5r-dev": "latest"
+    }
+}

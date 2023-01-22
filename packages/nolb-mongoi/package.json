@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-mongoi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mongoi": "latest",
+        "mongoid": "latest",
+        "mongoid-autoincrement": "latest",
+        "mongoid-js": "latest",
+        "mongoid2hashdir": "latest",
+        "mongoify": "latest",
+        "mongoimpl": "latest",
+        "mongoimport": "latest",
+        "mongoimporter": "latest",
+        "mongoindex": "latest",
+        "mongoing": "latest",
+        "mongoise": "latest",
+        "mongoish": "latest",
+        "mongoist": "latest",
+        "mongoize-orm": "latest"
+    }
+}

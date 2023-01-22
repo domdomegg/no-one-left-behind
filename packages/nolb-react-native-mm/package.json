@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-native-mm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-mmeiqia": "latest",
+        "react-native-mmkv": "latest",
+        "react-native-mmkv-flipper-plugin": "latest",
+        "react-native-mmkv-pegas": "latest",
+        "react-native-mmkv-storage": "latest",
+        "react-native-mmstorage": "latest",
+        "react-native-mmswiper": "latest"
+    }
+}

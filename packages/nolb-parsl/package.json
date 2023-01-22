@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-parsl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "parsl": "latest",
+        "parsle": "latest",
+        "parsless": "latest",
+        "parslet": "latest",
+        "parslets": "latest",
+        "parsley": "latest",
+        "parsley-bundler": "latest",
+        "parsley-comment": "latest",
+        "parsley-laravel-extras": "latest",
+        "parsley-payment": "latest",
+        "parsley-storybook": "latest",
+        "parsley_scheme": "latest",
+        "parsleyjs": "latest",
+        "parsleyjs-creditcard-validator": "latest",
+        "parsleyjs-validators": "latest",
+        "parsly": "latest"
+    }
+}

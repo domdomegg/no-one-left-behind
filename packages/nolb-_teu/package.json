@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_teu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@teunlao/dumb-package": "latest",
+        "@teunlao/lucky-package": "latest",
+        "@teunlao/testy": "latest",
+        "@teurons/mental-engine": "latest",
+        "@teurons/neptune-nodejs": "latest",
+        "@teuteuf/react-emoji-render": "latest",
+        "@teuteuf/react-pwa-install": "latest"
+    }
+}

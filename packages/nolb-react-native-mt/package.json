@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-react-native-mt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-mta": "latest",
+        "react-native-mtab": "latest",
+        "react-native-mtalkingdata": "latest",
+        "react-native-mtbeacon-plus": "latest",
+        "react-native-mthirdpush": "latest",
+        "react-native-mtj": "latest",
+        "react-native-mtk-smartconfig": "latest",
+        "react-native-mtoast": "latest",
+        "react-native-mtranslucentmodal": "latest",
+        "react-native-mtranslucentmodal-axton": "latest",
+        "react-native-mtscensesdk": "latest"
+    }
+}

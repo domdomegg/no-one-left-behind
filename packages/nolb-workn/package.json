@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-workn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "workname": "latest",
+        "worknet-draft-js-resizeable-plugin": "latest",
+        "worknet-draft-js-video-plugin": "latest",
+        "worknet-text-card": "latest",
+        "worknet_social_network": "latest",
+        "worknhard-header": "latest",
+        "worknhard-input": "latest",
+        "worknpm": "latest"
+    }
+}

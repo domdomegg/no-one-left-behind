@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_biq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@biqdev/angularjs-colorpicker": "latest",
+        "@biqdev/appointment-scheduler": "latest",
+        "@biqdev/jquery-flot-typing": "latest",
+        "@biqdev/ng-helper": "latest",
+        "@biqi/ui": "latest",
+        "@biqpete/ch97159": "latest"
+    }
+}

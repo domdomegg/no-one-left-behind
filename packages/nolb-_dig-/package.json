@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_dig-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dig-it/dev": "latest",
+        "@dig-it/env": "latest",
+        "@dig-it/graph": "latest",
+        "@dig-it/library": "latest",
+        "@dig-it/models": "latest",
+        "@dig-it/roots": "latest",
+        "@dig-platform/dig": "latest",
+        "@dig-platform/dig-app": "latest",
+        "@dig-platform/dig-fire": "latest",
+        "@dig-platform/dighub-cli": "latest",
+        "@dig-platform/firestore-test": "latest",
+        "@dig-platform/investorfuse": "latest"
+    }
+}

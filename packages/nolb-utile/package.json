@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-utile",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "utile": "latest",
+        "utile-114827-a": "latest",
+        "utile-114827-b": "latest",
+        "utile-1812b-222": "latest",
+        "utileejs": "latest",
+        "utileo": "latest",
+        "utileriasdb": "latest",
+        "utiles-distance": "latest",
+        "utiles-distance1": "latest",
+        "utilex": "latest"
+    }
+}

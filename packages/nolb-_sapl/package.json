@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_sapl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@saplaneguy/enigma-merge-menu": "latest",
+        "@sapling-data/loki-dev-client": "latest",
+        "@sapling-data/loki-javascript-client": "latest",
+        "@sapling/cli": "latest",
+        "@sapling/db-driver-mongodb": "latest",
+        "@sapling/render-driver-nunjucks": "latest",
+        "@sapling/sapling": "latest",
+        "@saplingai/sapling-js": "latest"
+    }
+}

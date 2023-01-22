@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-guk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "guk": "latest",
+        "guk-sp63.13330.2012": "latest",
+        "gukbap": "latest",
+        "guke": "latest",
+        "guki": "latest",
+        "gukou-ui": "latest",
+        "guku-ui": "latest",
+        "gukun": "latest"
+    }
+}

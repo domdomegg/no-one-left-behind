@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-react-natives",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-natives": "latest",
+        "react-nativescript": "latest",
+        "react-nativescript-date-picker": "latest",
+        "react-nativescript-navigation": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-antr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "antr": "latest",
+        "antra": "latest",
+        "antra-cli-quiz-game": "latest",
+        "antra-ui": "latest",
+        "antra-x": "latest",
+        "antraege": "latest",
+        "antraks-react-components": "latest",
+        "antralib": "latest",
+        "antrax": "latest",
+        "antri": "latest",
+        "antrl-js": "latest",
+        "antrovert": "latest",
+        "antrunner": "latest",
+        "antrunner-npm": "latest"
+    }
+}

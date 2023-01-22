@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_acs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@acs1899/tool-callapp": "latest",
+        "@acsantosabino/hacker-chat-client": "latest",
+        "@acsanyi-test/acsanyi-test-package1": "latest",
+        "@acsanyi-test/acsanyi-test-package2": "latest",
+        "@acsanyi-test/acsanyi-test-package3": "latest",
+        "@acsanyi-test/ibm-oas": "latest",
+        "@acsanyi-test/openapi-validator-core": "latest",
+        "@acsanyi-test/simple-rule": "latest",
+        "@acsesmedia/byb-modules-header": "latest",
+        "@acsl/fw": "latest",
+        "@acsl/ge": "latest",
+        "@acsl/ge-center": "latest",
+        "@acsl/ge-sdk": "latest",
+        "@acsl/stc": "latest",
+        "@acss-dnd/template": "latest",
+        "@acss27/acss": "latest",
+        "@acst11/etcher-sdk": "latest",
+        "@acst11/node-raspberrypi-usbboot": "latest",
+        "@acst11/testbot": "latest"
+    }
+}

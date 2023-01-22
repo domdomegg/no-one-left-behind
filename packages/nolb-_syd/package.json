@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_syd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sydannyopal/lotide": "latest",
+        "@sydcon/ghop": "latest",
+        "@sydinh/sydinh-node-package": "latest",
+        "@sydney-sisco/lotide": "latest",
+        "@sydneycoding/flatten": "latest",
+        "@sydneycoding/sorted": "latest",
+        "@sydneyunilibrary/sierra-record-check-digit": "latest",
+        "@sydo26/live-clone-file": "latest",
+        "@sydy/eslint-config-react-app": "latest"
+    }
+}

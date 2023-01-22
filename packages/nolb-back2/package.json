@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-back2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "back2": "latest",
+        "back2front-cli": "latest",
+        "back2thefuture": "latest",
+        "back2top": "latest",
+        "back2top-sia": "latest",
+        "back2top4vue": "latest"
+    }
+}

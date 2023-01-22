@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_koj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@koj-co/prettierrc": "latest",
+        "@koj/config": "latest",
+        "@koj/firebase-sync": "latest",
+        "@koj/strapi": "latest",
+        "@koj/svelte-api-client": "latest",
+        "@koj/template": "latest",
+        "@koj/types": "latest",
+        "@koj/workers-template": "latest",
+        "@koja/scope-placeholder": "latest",
+        "@kojidev/openapi-ts": "latest",
+        "@kojikanao/card": "latest",
+        "@kojikanao/gengitignore": "latest",
+        "@kojiro.ueda/bandia": "latest",
+        "@kojiro.ueda/csv-parser": "latest",
+        "@kojiro.ueda/open": "latest",
+        "@kojiro.ueda/zrouter": "latest",
+        "@kojole/gas-trello": "latest"
+    }
+}

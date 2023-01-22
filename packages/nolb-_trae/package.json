@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_trae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@traed/vue-responsive-table": "latest",
+        "@traefik-admin/client": "latest",
+        "@traefiklabs/faency": "latest",
+        "@traent/create-workflow": "latest",
+        "@traent/ngx-components": "latest",
+        "@traent/ngx-dialog": "latest",
+        "@traent/ngx-paginator": "latest",
+        "@traent/ngx-spinner": "latest",
+        "@traent/ngx-toast": "latest",
+        "@traent/ngx-tooltip": "latest",
+        "@traent/ts-utils": "latest",
+        "@traent/workflow-cli": "latest",
+        "@traent/workflow-lib": "latest"
+    }
+}

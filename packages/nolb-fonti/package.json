@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-fonti",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fonti": "latest",
+        "fonticon": "latest",
+        "fonticonslmt": "latest",
+        "fonticonslmt_v5": "latest",
+        "fontify": "latest",
+        "fontii": "latest",
+        "fontina": "latest",
+        "fontinfo": "latest",
+        "fontinspect": "latest",
+        "fontisto": "latest",
+        "fontizer": "latest"
+    }
+}

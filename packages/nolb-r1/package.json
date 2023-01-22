@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-r1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "r1": "latest",
+        "r1-entity-builder": "latest",
+        "r1-ext-hub": "latest",
+        "r1-horizontal-scroll": "latest",
+        "r1-inst-peerdep": "latest",
+        "r1-io": "latest",
+        "r1-localize": "latest",
+        "r10": "latest",
+        "r10-mva10-theme": "latest",
+        "r11y": "latest",
+        "r1390397": "latest",
+        "r16n": "latest",
+        "r17-react-credit-cards": "latest",
+        "r18": "latest",
+        "r19": "latest",
+        "r1cl": "latest",
+        "r1connect": "latest",
+        "r1connect5": "latest",
+        "r1csfile": "latest",
+        "r1mo-discord.js": "latest",
+        "r1ooooooooo": "latest",
+        "r1scraper": "latest"
+    }
+}

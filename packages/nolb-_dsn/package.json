@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_dsn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dsna/asterix-cartesian": "latest",
+        "@dsninjas/segunmod1": "latest",
+        "@dsnp/activity-content": "latest",
+        "@dsnp/contracts": "latest",
+        "@dsnp/frequency-api-augment": "latest",
+        "@dsnp/mrc-rpc": "latest",
+        "@dsnp/parquetjs": "latest",
+        "@dsnp/sdk": "latest",
+        "@dsnp/test-generators": "latest"
+    }
+}

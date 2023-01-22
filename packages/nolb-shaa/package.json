@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-shaa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shaanpackage": "latest",
+        "shaara-core": "latest",
+        "shaara-preset-base": "latest",
+        "shaara-preset-react-native": "latest",
+        "shaarli-api": "latest",
+        "shaarli-client": "latest",
+        "shaase-plugin-webpack": "latest",
+        "shaata-positive": "latest",
+        "shaayen": "latest"
+    }
+}

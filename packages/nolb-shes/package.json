@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-shes",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shes": "latest",
+        "shes50103": "latest",
+        "shesays-blogpic": "latest",
+        "shescape": "latest",
+        "shesha": "latest",
+        "shesha-react": "latest",
+        "shesha-reactjs": "latest",
+        "shesha-reports": "latest",
+        "sheshalog": "latest",
+        "sheshamobile.core": "latest",
+        "sheshamobile.core.controls": "latest",
+        "sheshan_my_react_app": "latest",
+        "sheshan_react_app": "latest",
+        "sheshe": "latest",
+        "shesite": "latest",
+        "sheslime": "latest",
+        "shest": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-metak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "metakeen": "latest",
+        "metakeep": "latest",
+        "metakeep-lambda": "latest",
+        "metakey": "latest",
+        "metakgp-visualize-cli": "latest",
+        "metakit-sdk": "latest",
+        "metaklass": "latest",
+        "metaknight": "latest",
+        "metakongz": "latest"
+    }
+}

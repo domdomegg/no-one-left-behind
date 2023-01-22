@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-node-red-contrib-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-contrib-qcloud-iotexplorer": "latest",
+        "node-red-contrib-qlab": "latest",
+        "node-red-contrib-qmaker-crc16": "latest",
+        "node-red-contrib-qmaker-crc16-2": "latest",
+        "node-red-contrib-qmisoft": "latest",
+        "node-red-contrib-qmotion": "latest",
+        "node-red-contrib-qnap-timeseries": "latest",
+        "node-red-contrib-qrcode-generator": "latest",
+        "node-red-contrib-qrdecode": "latest",
+        "node-red-contrib-quantum": "latest",
+        "node-red-contrib-query-json-with-sql": "latest",
+        "node-red-contrib-queue-gate": "latest",
+        "node-red-contrib-queued-sqlite": "latest",
+        "node-red-contrib-queued-sqlite-fix": "latest",
+        "node-red-contrib-queuemanager": "latest",
+        "node-red-contrib-quotes": "latest",
+        "node-red-contrib-qwatch": "latest"
+    }
+}

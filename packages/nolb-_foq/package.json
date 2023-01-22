@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_foq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@foqum/object-to-formdata": "latest",
+        "@foqum/react-native-document-picker": "latest",
+        "@foqum/redux-offline-crud-rest": "latest",
+        "@foqum/string-template": "latest",
+        "@foqum/tcomb-form-native-builder": "latest",
+        "@foqum/tcomb-form-native-templates-material": "latest",
+        "@foqum/walk-object": "latest"
+    }
+}

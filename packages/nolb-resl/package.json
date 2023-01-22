@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-resl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "resl": "latest",
+        "reslack": "latest",
+        "reslact": "latest",
+        "reslajs": "latest",
+        "reslate": "latest",
+        "reslick": "latest",
+        "reslider": "latest",
+        "reslink": "latest",
+        "reslint": "latest",
+        "resload": "latest",
+        "resload-loader": "latest",
+        "resload-text": "latest",
+        "resloader": "latest",
+        "resloadermod": "latest",
+        "reslog": "latest",
+        "reslot": "latest",
+        "resly": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_fi1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fi1osof/node.social": "latest",
+        "@fi1osof/react-draft-wysiwyg": "latest",
+        "@fi1osof/rtcmulticonnection-v3": "latest"
+    }
+}

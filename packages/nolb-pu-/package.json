@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-pu-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pu-commerce-connect": "latest",
+        "pu-editor": "latest",
+        "pu-flickity-fullscreen": "latest",
+        "pu-schedule-connect": "latest",
+        "pu-test": "latest",
+        "pu-vue-router-cli": "latest"
+    }
+}

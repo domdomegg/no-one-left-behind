@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-spb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "spb": "latest",
+        "spb-brain-game": "latest",
+        "spb-component-library": "latest",
+        "spb-differ": "latest",
+        "spb-module-testing": "latest",
+        "spb-unofficial-wrapper": "latest",
+        "spb14-coin": "latest",
+        "spb14-device": "latest",
+        "spb25-coin": "latest",
+        "spb25-device": "latest",
+        "spb25-die": "latest",
+        "spb25-disk": "latest",
+        "spb25-mongodie": "latest",
+        "spbi-js-footer": "latest",
+        "spbmrc": "latest",
+        "spbones": "latest",
+        "spboy_2005": "latest",
+        "spbrander": "latest",
+        "spbt": "latest",
+        "spbx-logging": "latest",
+        "spbx-logic": "latest",
+        "spbx-session": "latest"
+    }
+}

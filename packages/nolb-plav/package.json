@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-plav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "plave-viewer-vue": "latest",
+        "plaveoo-component": "latest",
+        "plavify.backend-node": "latest",
+        "plavify.backend-node.common": "latest",
+        "plavify.backend-node.mongo": "latest",
+        "plavify.backend-node.typeorm": "latest"
+    }
+}

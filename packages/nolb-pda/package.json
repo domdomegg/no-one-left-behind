@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-pda",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pda": "latest",
+        "pda-react-scripts": "latest",
+        "pda-test": "latest",
+        "pda-vxe-table": "latest",
+        "pdan": "latest",
+        "pdas-custom-calendar": "latest",
+        "pdash": "latest",
+        "pdata": "latest",
+        "pdatastore": "latest",
+        "pdate": "latest",
+        "pdatuenotifier": "latest",
+        "pdavila-forms": "latest",
+        "pdax-components": "latest"
+    }
+}

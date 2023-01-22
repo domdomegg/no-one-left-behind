@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-google-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "google-u2f-api.js": "latest",
+        "google-ua": "latest",
+        "google-university": "latest",
+        "google-upload": "latest",
+        "google-url": "latest",
+        "google-url-2": "latest",
+        "google-url-helper": "latest",
+        "google-url-shortener": "latest",
+        "google-user-manager": "latest",
+        "google-utility-sync-data": "latest"
+    }
+}

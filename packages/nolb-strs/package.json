@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-strs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "strs": "latest",
+        "strscan": "latest",
+        "strscan-parser": "latest",
+        "strscan-ts": "latest",
+        "strscanner": "latest",
+        "strsearch": "latest",
+        "strsearch2regexp": "latest",
+        "strsim": "latest",
+        "strsplit": "latest",
+        "strssapp": "latest",
+        "strstr": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-dsr-package-ph",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dsr-package-phage-betid-delph-strip": "latest",
+        "dsr-package-phare-unrid-basho-loury": "latest",
+        "dsr-package-pheer-oater-guide-nulla": "latest",
+        "dsr-package-phews-aloof-studs-spiks": "latest",
+        "dsr-package-phoca-grown-coofs-borak": "latest",
+        "dsr-package-phohs-rumbo-yirds-units": "latest",
+        "dsr-package-phots-zowie-peaky-feoff": "latest",
+        "dsr-package-phuts-comps-rowen-chump": "latest"
+    }
+}

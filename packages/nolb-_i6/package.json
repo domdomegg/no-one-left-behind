@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_i6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@i6/logger": "latest",
+        "@i60tickets/common": "latest",
+        "@i62navpm/app-engine-email": "latest",
+        "@i62navpm/check-pdf-script": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-straw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "straw": "latest",
+        "straw-cli": "latest",
+        "straw-ui": "latest",
+        "strawbees-app-packager": "latest",
+        "strawbees-code-compiler-service": "latest",
+        "strawbees-code-static-desktop": "latest",
+        "strawbees-content-graphql-server": "latest",
+        "strawbees-music-static-desktop": "latest",
+        "strawbees-nwjs-builder": "latest",
+        "strawberry": "latest",
+        "strawberry-builder": "latest",
+        "strawberry-css": "latest",
+        "strawberry-pm": "latest",
+        "strawberry-processor": "latest",
+        "strawberry-ui": "latest",
+        "strawberryme": "latest",
+        "strawbox": "latest",
+        "strawes": "latest",
+        "strawman": "latest",
+        "strawpedo": "latest",
+        "strawpoll": "latest",
+        "strawpoll-bots": "latest",
+        "strawpoll-bots-alekrabbe": "latest",
+        "strawpoll-cli": "latest",
+        "strawpoll-lib": "latest",
+        "strawpoll.js": "latest",
+        "strawpolljs": "latest",
+        "straws": "latest"
+    }
+}

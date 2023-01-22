@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-epb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "epb": "latest",
+        "epb-shard-component2": "latest",
+        "epbdjs": "latest",
+        "epbdjs-cli": "latest",
+        "epbuilder": "latest"
+    }
+}

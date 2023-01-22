@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-bop",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bop": "latest",
+        "bop_common": "latest",
+        "bopa-feed": "latest",
+        "boparaiamrit_gmt": "latest",
+        "bopen": "latest",
+        "bopen-cli": "latest",
+        "bopit": "latest",
+        "bopjs": "latest",
+        "bopkg": "latest",
+        "boplayer": "latest",
+        "bopm": "latest",
+        "bopomofo": "latest",
+        "bopomofo-to-pinyin": "latest",
+        "bopper": "latest",
+        "bops": "latest",
+        "bops-browser": "latest",
+        "bops-function-hello-world": "latest",
+        "bops-ui-test": "latest",
+        "boptions": "latest",
+        "bopular": "latest",
+        "bopup": "latest",
+        "bopy_addresspicker": "latest"
+    }
+}

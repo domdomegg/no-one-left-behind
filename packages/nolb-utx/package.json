@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-utx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "utx": "latest",
+        "utx-core": "latest",
+        "utxo": "latest",
+        "utxo-auth": "latest",
+        "utxo-in-js": "latest",
+        "utxo-js-rpc": "latest",
+        "utxo-mnemonic": "latest",
+        "utxo-networks": "latest",
+        "utxo-rpc": "latest",
+        "utxo-rpc-client": "latest",
+        "utxo-selection": "latest",
+        "utxofactory": "latest",
+        "utxoninja": "latest"
+    }
+}

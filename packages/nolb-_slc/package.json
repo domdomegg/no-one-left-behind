@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_slc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@slc3/amulite": "latest",
+        "@slc3/amulite-handlebars": "latest",
+        "@slc3/gulp-md-ligatures": "latest",
+        "@slc3/libxml-xsd": "latest",
+        "@slc3/mongoose-string-ids": "latest",
+        "@slc3/node-window-manager": "latest",
+        "@slc3/samlify": "latest",
+        "@slc3/word-cloud": "latest",
+        "@slccie/lib_builder": "latest",
+        "@slcdemogallery/common": "latest",
+        "@slcdevank/my-lib": "latest",
+        "@slcdevank/my-workspace": "latest",
+        "@slck/ngx-requisite": "latest",
+        "@slck/utils": "latest",
+        "@slcloud/external-component": "latest",
+        "@slcloud/material-table": "latest",
+        "@slcloud/react-advanced-datetimerange-picker": "latest",
+        "@slcloud/react-native-photo-gallery": "latest",
+        "@slcloud/react-native-photo-view": "latest",
+        "@slcnamaste/common": "latest",
+        "@slco/eslint-config-slco": "latest",
+        "@slcq/lotide": "latest",
+        "@slctickets/common": "latest"
+    }
+}

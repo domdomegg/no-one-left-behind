@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-suf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "suf": "latest",
+        "suf-canvas": "latest",
+        "suf-cli": "latest",
+        "suf-gen": "latest",
+        "suf-log": "latest",
+        "suf-node": "latest",
+        "suf-password": "latest",
+        "suf-regex": "latest",
+        "suf-utils": "latest",
+        "suf_ui": "latest",
+        "sufan-online-chat": "latest",
+        "sufan-vui": "latest",
+        "sufengfilelist": "latest",
+        "suffer": "latest",
+        "sufficient": "latest",
+        "suffix": "latest",
+        "suffix-array": "latest",
+        "suffix-from": "latest",
+        "suffix-thumb": "latest",
+        "suffixtree": "latest",
+        "suffragium": "latest",
+        "sufi": "latest",
+        "suflow": "latest",
+        "suform": "latest",
+        "suform1": "latest",
+        "sufs": "latest",
+        "suftnet-ui": "latest",
+        "sufy-ajax": "latest"
+    }
+}

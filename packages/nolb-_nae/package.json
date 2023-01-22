@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_nae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nae-bad/eslint-config": "latest",
+        "@nae-bad/prettier-config": "latest",
+        "@naeemark/joi-to-swagger": "latest",
+        "@naeemark/test-pkg": "latest",
+        "@naeemur/react-native-audio-toolkit": "latest",
+        "@naeimsafaee/ns-config": "latest",
+        "@naeimsafaee/ns-route": "latest",
+        "@naeka/ember-custom-actions": "latest",
+        "@naetverkjs/angular-renderer": "latest",
+        "@naetverkjs/area": "latest",
+        "@naetverkjs/arrange": "latest",
+        "@naetverkjs/comments": "latest",
+        "@naetverkjs/connections": "latest",
+        "@naetverkjs/history": "latest",
+        "@naetverkjs/keyboard": "latest",
+        "@naetverkjs/lifecycle": "latest",
+        "@naetverkjs/naetverk": "latest",
+        "@naetverkjs/react-renderer": "latest",
+        "@naetverkjs/selection": "latest"
+    }
+}

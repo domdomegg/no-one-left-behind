@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_esk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@eskaetickets/common": "latest",
+        "@eskalacja/as-react": "latest",
+        "@eskalacja/as-sass": "latest",
+        "@eskalacja/tmp-repro-dynamic-imports": "latest",
+        "@eskalacja/tmp-repro-dynamic-imports-meta": "latest",
+        "@eskawl/configger": "latest",
+        "@eskesmedia/j-table": "latest",
+        "@eskesmedia/j-table-row": "latest",
+        "@eskindir/data-view": "latest",
+        "@eskindir/dime-data-view": "latest",
+        "@eskindir/example-component-library": "latest",
+        "@eskindir/greet": "latest",
+        "@eskindir/hwrld": "latest",
+        "@eskindir/paraph": "latest",
+        "@eskit/application": "latest",
+        "@eskit/core": "latest",
+        "@eskit/eventstore": "latest",
+        "@eskit/express-plugins": "latest",
+        "@eskit/messaging": "latest",
+        "@eskit/projections": "latest",
+        "@eskit/repository": "latest",
+        "@esky-ui/in-view": "latest",
+        "@esky-ui/scroll-direction": "latest",
+        "@esky-ui/tabs": "latest"
+    }
+}

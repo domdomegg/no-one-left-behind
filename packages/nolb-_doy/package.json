@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_doy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@doyakovlev/arui-scripts": "latest",
+        "@doyakovlev/reload-server-webpack-plugin": "latest",
+        "@doyensec/csp-evaluator": "latest",
+        "@doyensec/electronegativity": "latest",
+        "@doylemark/eslint": "latest",
+        "@doylemark/eslint-config": "latest",
+        "@doylemark/tsconfig": "latest",
+        "@doyourthing/core": "latest",
+        "@doyourthing/ui": "latest",
+        "@doyourthing/utils": "latest"
+    }
+}

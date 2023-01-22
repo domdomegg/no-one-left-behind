@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_ce-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ce-spgi/common-api": "latest",
+        "@ce-spgi/sequelize": "latest",
+        "@ce-t/codestyle-typescript": "latest",
+        "@ce-t/mining-api": "latest",
+        "@ce-t/mining-lib": "latest",
+        "@ce-t/mining-server": "latest",
+        "@ce-t/mining-server-lib": "latest",
+        "@ce-tickets/common": "latest"
+    }
+}

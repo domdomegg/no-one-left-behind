@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-seab",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "seabass": "latest",
+        "seabasslab-init-viewer": "latest",
+        "seabedui-icons": "latest",
+        "seaber-datepicker": "latest",
+        "seabird": "latest",
+        "seabird-plugin-browser": "latest",
+        "seabird-plugin-calendar": "latest",
+        "seabird-plugin-documentmanager": "latest",
+        "seabird-plugin-filepicker": "latest",
+        "seabird-plugin-viewnavigator": "latest",
+        "seabo-cli-service": "latest",
+        "seaborn-doc-zh": "latest",
+        "seabug-contracts": "latest"
+    }
+}

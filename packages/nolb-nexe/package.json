@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-nexe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nexe": "latest",
+        "nexe-decompile": "latest",
+        "nexe-deploy-utils": "latest",
+        "nexe-fs": "latest",
+        "nexe-my-package": "latest",
+        "nexe-natives": "latest",
+        "nexe-natives-fix": "latest",
+        "nexe-webpack-plugin": "latest",
+        "nexec": "latest",
+        "nexecp": "latest",
+        "nexen-examples": "latest",
+        "nexent-azure-search": "latest",
+        "nexenv": "latest",
+        "nexered": "latest",
+        "nexevent": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-corl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "corlab_build_classic": "latest",
+        "corldr-cats": "latest",
+        "corleone": "latest",
+        "corleone_static_server": "latest",
+        "corley-eventbrite": "latest",
+        "corlib": "latest",
+        "corlormanager": "latest",
+        "corluk-local1": "latest",
+        "corlysis-js": "latest"
+    }
+}

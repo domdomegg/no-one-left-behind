@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-osj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "osj-cli": "latest",
+        "osjmrfpakyugwvqh": "latest",
+        "osjs-bluelight-installer-application": "latest",
+        "osjs-browser-application": "latest",
+        "osjs-build": "latest",
+        "osjs-build-parallel-cli": "latest",
+        "osjs-devices-adapter": "latest",
+        "osjs-gba-application": "latest",
+        "osjs-glitch-application": "latest",
+        "osjs-hardware-provider": "latest",
+        "osjs-hellowolrdinshell-application": "latest",
+        "osjs-json-auth": "latest",
+        "osjs-linux-installer-application": "latest",
+        "osjs-mongo-auth": "latest",
+        "osjs-nes-application": "latest",
+        "osjs-pm2-provider": "latest",
+        "osjs-scheme-loader": "latest",
+        "osjs-shell-app": "latest",
+        "osjs-shell-core": "latest",
+        "osjs-syscfg-application": "latest",
+        "osjs-sysinfo-application": "latest",
+        "osjs-tetris-application": "latest",
+        "osjs-twilioclient-application": "latest",
+        "osjs-videoplayer-application": "latest",
+        "osjs-youtube-adapter": "latest"
+    }
+}

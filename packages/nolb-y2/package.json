@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-y2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "y2": "latest",
+        "y2-tools": "latest",
+        "y2-ui": "latest",
+        "y2-utils": "latest",
+        "y23": "latest",
+        "y24_utils": "latest",
+        "y2be-player": "latest",
+        "y2css": "latest",
+        "y2gif": "latest",
+        "y2j-t": "latest",
+        "y2j-te": "latest",
+        "y2j-test": "latest",
+        "y2jc": "latest",
+        "y2k": "latest",
+        "y2mate-api": "latest",
+        "y2nw": "latest",
+        "y2r": "latest",
+        "y2s": "latest",
+        "y2srt": "latest",
+        "y2t": "latest",
+        "y2t-common-css": "latest",
+        "y2t-egg-framework": "latest",
+        "y2t-egg-return": "latest",
+        "y2t-ldap": "latest",
+        "y2t-vs": "latest",
+        "y2tx": "latest",
+        "y2x": "latest"
+    }
+}

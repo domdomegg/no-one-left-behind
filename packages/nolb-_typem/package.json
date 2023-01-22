@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_typem",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@typemail/starttls": "latest",
+        "@typemon/di": "latest",
+        "@typemon/dynamodb-expression": "latest",
+        "@typemon/dynamodb-service": "latest",
+        "@typemon/equals": "latest",
+        "@typemon/iframe-protocol": "latest",
+        "@typemon/ioc-container": "latest",
+        "@typemon/lambdify": "latest",
+        "@typemon/lint-rules": "latest",
+        "@typemon/stack": "latest",
+        "@typemon/test": "latest",
+        "@typemon/types": "latest"
+    }
+}

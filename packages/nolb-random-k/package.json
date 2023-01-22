@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-random-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "random-kevin-touxiang": "latest",
+        "random-key": "latest",
+        "random-key-generator": "latest",
+        "random-key-obj": "latest",
+        "random-keys": "latest",
+        "random-kill": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_traz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trazable/changelog-generator": "latest",
+        "@trazable/eslint-config": "latest",
+        "@trazable/eslint-config-base": "latest",
+        "@trazable/eslint-config-node": "latest",
+        "@trazable/eslint-config-patch": "latest",
+        "@trazable/eslint-config-react": "latest",
+        "@trazable/eslint-config-typescript": "latest",
+        "@trazeapp/core": "latest",
+        "@trazeapp/dates": "latest"
+    }
+}

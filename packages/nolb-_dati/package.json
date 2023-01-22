@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_dati",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datical/dat-resizable-column": "latest",
+        "@daticket/common": "latest",
+        "@daticketing/common": "latest",
+        "@datickets/common": "latest",
+        "@datickets/common-oth": "latest",
+        "@dating-feed/sdk-react": "latest",
+        "@dative-gpi/shards": "latest",
+        "@dative-gpi/sliver": "latest",
+        "@dativejs/helpers": "latest"
+    }
+}

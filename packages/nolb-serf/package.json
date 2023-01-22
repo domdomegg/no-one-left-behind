@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-serf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "serf": "latest",
+        "serf-build": "latest",
+        "serf-event-handler": "latest",
+        "serf-rpc": "latest",
+        "serfdom": "latest",
+        "serfer": "latest",
+        "serfetrsdbhadll": "latest"
+    }
+}

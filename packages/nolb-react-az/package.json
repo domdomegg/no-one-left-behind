@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-react-az",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-az-calendar": "latest",
+        "react-azhu-btn": "latest",
+        "react-azhu-component": "latest",
+        "react-aztec": "latest",
+        "react-azure-adb2c": "latest",
+        "react-azure-adb2c-netchex": "latest",
+        "react-azure-b2c": "latest",
+        "react-azure-blob-storage": "latest",
+        "react-azure-maps": "latest",
+        "react-azure-maps-next": "latest",
+        "react-azure-maps-next-js": "latest",
+        "react-azure-media-player": "latest",
+        "react-azure-mp": "latest"
+    }
+}

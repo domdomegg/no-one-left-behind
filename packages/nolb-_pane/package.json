@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_pane",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@panelbear/panelbear-js": "latest",
+        "@panelbear/panelbear-nextjs": "latest",
+        "@panelbear/vuepress-plugin-panelbear": "latest",
+        "@panelist/nest-file-fastify": "latest",
+        "@panelist/react-hls-player": "latest",
+        "@panels/eslint-config": "latest",
+        "@panels/scripts": "latest",
+        "@panels/ui": "latest",
+        "@panels/utils": "latest",
+        "@panenco/breadcrumbs": "latest",
+        "@panenco/eslint-config-react": "latest",
+        "@panenco/formik-form-field": "latest",
+        "@panenco/formik-wizard-form": "latest",
+        "@panenco/pagination": "latest",
+        "@panenco/papi": "latest",
+        "@panenco/pwa-utils": "latest",
+        "@panenco/rollup-plugin-svg-sprite": "latest",
+        "@panenco/shortlist-ui": "latest",
+        "@panenco/ui": "latest",
+        "@paneron/extension-hls": "latest",
+        "@paneruvipin/common-code": "latest",
+        "@panezhang/cli": "latest"
+    }
+}

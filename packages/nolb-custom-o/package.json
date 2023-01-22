@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-custom-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "custom-o-sea": "latest",
+        "custom-object": "latest",
+        "custom-object-library": "latest",
+        "custom-object-manager": "latest",
+        "custom-object-set": "latest",
+        "custom-ocjs": "latest",
+        "custom-ocr": "latest",
+        "custom-office-document-properties": "latest",
+        "custom-offline-map": "latest",
+        "custom-opensea-v4": "latest",
+        "custom-oracledb": "latest",
+        "custom-orch-fu": "latest",
+        "custom-orch-fun": "latest",
+        "custom-orch-func": "latest",
+        "custom-orch-function": "latest",
+        "custom-order": "latest",
+        "custom-order-test": "latest",
+        "custom-org-name-button": "latest",
+        "custom-org-name-composite": "latest",
+        "custom-org-name-icon": "latest",
+        "custom-output-text": "latest",
+        "custom-overlay-buttons": "latest"
+    }
+}

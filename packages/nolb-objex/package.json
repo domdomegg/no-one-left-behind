@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-objex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "objex": "latest",
+        "objex-lib": "latest",
+        "objexp": "latest",
+        "objext": "latest",
+        "objextender": "latest",
+        "objextension": "latest"
+    }
+}

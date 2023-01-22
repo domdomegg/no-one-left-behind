@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-go2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "go2": "latest",
+        "go23-provider-engine": "latest",
+        "go23wallet": "latest",
+        "go2dts": "latest",
+        "go2fe-node-template": "latest",
+        "go2index-theme-acrou": "latest",
+        "go2index-theme-dr": "latest",
+        "go2index-theme-james": "latest",
+        "go2js": "latest",
+        "go2mailbox": "latest",
+        "go2map": "latest",
+        "go2mya": "latest",
+        "go2npm": "latest"
+    }
+}

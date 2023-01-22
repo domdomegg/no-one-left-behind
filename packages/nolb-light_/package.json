@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-light_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "light.css": "latest",
+        "light.js": "latest",
+        "light.konva": "latest",
+        "light.konva-static": "latest",
+        "light__spark-frame-print": "latest",
+        "light_box": "latest",
+        "light_chat": "latest",
+        "light_cover_letter_builder": "latest",
+        "light_first_npm_package": "latest",
+        "light_query": "latest"
+    }
+}

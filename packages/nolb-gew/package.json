@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-gew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gew": "latest",
+        "gew-api-client-js": "latest",
+        "gewd-test": "latest",
+        "geweibaba": "latest",
+        "gewenmao-test": "latest",
+        "gewp": "latest",
+        "gewu": "latest",
+        "gewu-e2e": "latest",
+        "gewu-fetch": "latest",
+        "gewu-form": "latest",
+        "gewu-http": "latest",
+        "gewu-i18n": "latest",
+        "gewu-ob": "latest",
+        "gewu-request": "latest",
+        "gewu-route": "latest",
+        "gewu-thread": "latest",
+        "gewu-ui": "latest",
+        "gewu-utils": "latest",
+        "gewu-ux": "latest",
+        "gewu-ux-extend": "latest",
+        "gewulian": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-dyn-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dyn-conf": "latest",
+        "dyn-curry": "latest",
+        "dyn-dns-cloudflare": "latest",
+        "dyn-dns-update": "latest",
+        "dyn-domains": "latest",
+        "dyn-formiojs": "latest",
+        "dyn-forms-component": "latest",
+        "dyn-js": "latest",
+        "dyn-likecli": "latest",
+        "dyn-mock-sample": "latest",
+        "dyn-mocker": "latest",
+        "dyn-repl": "latest",
+        "dyn-require": "latest",
+        "dyn-ring-buffer": "latest",
+        "dyn-u-builder": "latest",
+        "dyn-update": "latest",
+        "dyn-xrm-api": "latest"
+    }
+}

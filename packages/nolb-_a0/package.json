@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_a0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@a0000778/eslint-plugin-habit": "latest",
+        "@a0000778/redis_mutex": "latest",
+        "@a07z/1move.js": "latest",
+        "@a0znpm/fecli": "latest",
+        "@a0znpm/feutils": "latest",
+        "@a0znpm/theme-vue-base": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_be-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@be-better-today/react-form-bbt": "latest",
+        "@be-codified/happy-jira": "latest",
+        "@be-metamorph/user-defined-property-backend": "latest",
+        "@be-metamorph/user-defined-property-backend-adapter-mongodb": "latest",
+        "@be-metamorph/user-defined-property-shared": "latest",
+        "@be-neo/neo-https-proxy": "latest",
+        "@be-reactive/store": "latest",
+        "@be-true/bdash": "latest",
+        "@be-true/config": "latest",
+        "@be-true/server": "latest",
+        "@be-true/utils": "latest",
+        "@be-true/ws": "latest",
+        "@be-ui/mobile": "latest",
+        "@be-ui/pc": "latest"
+    }
+}

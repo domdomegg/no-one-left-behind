@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_pld",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pldin601/eventemitter-to-async-generator": "latest",
+        "@pldin601/iamlisp": "latest",
+        "@pldin601/iamlisp-eval": "latest",
+        "@pldn/ldwizard": "latest"
+    }
+}

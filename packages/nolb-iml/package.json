@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-iml",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "iml": "latest",
+        "imlazy": "latest",
+        "imlazy-intl-translation": "latest",
+        "imlazy-io": "latest",
+        "imlazy.js": "latest",
+        "imleo-colors": "latest",
+        "imleykin-diff-builder": "latest",
+        "imli": "latest",
+        "imline": "latest",
+        "imlint": "latest",
+        "imlint-checklist": "latest",
+        "imlint-validate-sass": "latest",
+        "imlinzoe": "latest",
+        "imloader": "latest",
+        "imloaderjs": "latest",
+        "imloaders": "latest",
+        "imlog": "latest"
+    }
+}

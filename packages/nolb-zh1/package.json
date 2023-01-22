@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-zh1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zh1111": "latest",
+        "zh123456": "latest",
+        "zh1webpack-demo": "latest"
+    }
+}

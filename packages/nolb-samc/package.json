@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-samc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "samc2": "latest",
+        "samc3": "latest",
+        "samc4": "latest",
+        "samc5": "latest",
+        "samcalc": "latest",
+        "samcalculator": "latest",
+        "samcart-api": "latest",
+        "samchigo": "latest",
+        "samchon": "latest",
+        "samchon-collection": "latest",
+        "samchon-framework": "latest",
+        "samchon-library": "latest",
+        "samchon-xml": "latest",
+        "samchun-react-scripts": "latest",
+        "samchungy-a": "latest",
+        "samchungy-b": "latest",
+        "samchungy-dep-a": "latest",
+        "samchungy-dep-b": "latest",
+        "samchungy-dep-c": "latest",
+        "samchungy-dep-d": "latest",
+        "samchungy-dep-e": "latest",
+        "samcli-create": "latest",
+        "samcodes": "latest",
+        "samcommonlib": "latest",
+        "samconnect-mysql": "latest",
+        "samcook-devcamp-js-footer": "latest",
+        "samcopywhyvue": "latest",
+        "samcustombutton": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_material-icon-sq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/material-icon-square-filled": "latest",
+        "@hyper.fun/material-icon-square-foot-filled": "latest",
+        "@hyper.fun/material-icon-square-foot-outlined": "latest",
+        "@hyper.fun/material-icon-square-foot-round": "latest",
+        "@hyper.fun/material-icon-square-foot-sharp": "latest",
+        "@hyper.fun/material-icon-square-foot-twotone": "latest",
+        "@hyper.fun/material-icon-square-outlined": "latest",
+        "@hyper.fun/material-icon-square-round": "latest",
+        "@hyper.fun/material-icon-square-sharp": "latest",
+        "@hyper.fun/material-icon-square-twotone": "latest"
+    }
+}

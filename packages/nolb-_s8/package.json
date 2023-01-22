@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_s8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@s8/ml-types": "latest",
+        "@s8/static-bc": "latest",
+        "@s8/static-bg": "latest",
+        "@s8/static-br": "latest",
+        "@s8/static-bw": "latest",
+        "@s8/static-cc": "latest",
+        "@s8/static-ff": "latest",
+        "@s8/static-gr": "latest",
+        "@s8/static-hc": "latest",
+        "@s8/static-octer": "latest",
+        "@s8/static-onc": "latest",
+        "@s8/static-pm": "latest",
+        "@s8/static-sb": "latest",
+        "@s8/static-tl": "latest",
+        "@s8/static-tm": "latest",
+        "@s8/static-to": "latest",
+        "@s8/static-us": "latest",
+        "@s8/static-vl": "latest",
+        "@s8/static-wq": "latest",
+        "@s88d-puppy/appsync-generate-map-templates": "latest",
+        "@s88d-puppy/auth": "latest",
+        "@s88d-puppy/dbal": "latest",
+        "@s88d-puppy/http": "latest",
+        "@s88d-puppy/mscal": "latest",
+        "@s88d-puppy/sls-appsync-offline": "latest",
+        "@s88d-puppy/sls-remove-http-events": "latest",
+        "@s88d/dbal": "latest",
+        "@s89/ble-ancs": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-pdd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pdd": "latest",
+        "pdd-calendar": "latest",
+        "pdd-fairygui-cc": "latest",
+        "pdd-node-sdk": "latest",
+        "pdd-sdk": "latest",
+        "pdd-trello": "latest",
+        "pdd.js": "latest",
+        "pddapi": "latest",
+        "pddclient": "latest",
+        "pddcsq": "latest",
+        "pddcsq2": "latest",
+        "pddev": "latest",
+        "pddl-gantt": "latest",
+        "pddl-planning-service-client": "latest",
+        "pddl-workspace": "latest",
+        "pddui-cli": "latest",
+        "pddux": "latest",
+        "pddx": "latest"
+    }
+}

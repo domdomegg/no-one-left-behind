@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-expr-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "expr-cli": "latest",
+        "expr-eval": "latest",
+        "expr-eval-async": "latest",
+        "expr-eval-bignumber": "latest",
+        "expr-eval-boss": "latest",
+        "expr-eval-cli": "latest",
+        "expr-eval-ex": "latest",
+        "expr-eval-monday": "latest",
+        "expr-eval-stable": "latest",
+        "expr-exit-code": "latest",
+        "expr-manager": "latest",
+        "expr-mongo": "latest",
+        "expr-parser": "latest",
+        "expr-prop": "latest",
+        "expr-taskcli": "latest",
+        "expr-tree": "latest"
+    }
+}

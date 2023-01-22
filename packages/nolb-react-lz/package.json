@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-lz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-lz-editor": "latest",
+        "react-lz-editor-fork": "latest",
+        "react-lz-editor-ne-smalltown": "latest",
+        "react-lz-editor-weiyao": "latest",
+        "react-lz-editor-whkfzyx": "latest",
+        "react-lzc-editor": "latest",
+        "react-lzloader": "latest"
+    }
+}

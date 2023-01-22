@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-drap",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "Draper": "latest",
+        "drap": "latest",
+        "drapala-my-exercices": "latest",
+        "drapdebug": "latest",
+        "drapeau": "latest",
+        "draper": "latest",
+        "draper_ads": "latest",
+        "drapes": "latest",
+        "draphy": "latest",
+        "drapid": "latest",
+        "drapper": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-googlef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "googlefblogin": "latest",
+        "googlefit-rest-utils": "latest",
+        "googleflightscraper": "latest",
+        "googleflog": "latest",
+        "googlefontcss64": "latest",
+        "googlefontcssmerge": "latest",
+        "googlefonts": "latest",
+        "googlefonts-hmau": "latest",
+        "googlefonts-inliner": "latest",
+        "googlefonts-sprite-generator": "latest"
+    }
+}

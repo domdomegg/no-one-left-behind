@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-egg-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "egg-zeus-utils": "latest",
+        "egg-zing-orm": "latest",
+        "egg-zing-rabbitmq": "latest",
+        "egg-zip": "latest",
+        "egg-zipkin": "latest",
+        "egg-zk": "latest",
+        "egg-zkeep-cache": "latest",
+        "egg-zkeep-controller": "latest",
+        "egg-zkeep-entity": "latest",
+        "egg-zkeep-pay": "latest",
+        "egg-zkeep-service": "latest",
+        "egg-zkeep-task": "latest",
+        "egg-zmxy": "latest",
+        "egg-zookeeper": "latest",
+        "egg-zookeeper-client": "latest",
+        "egg-zqsign": "latest",
+        "egg-zrole": "latest",
+        "egg-zy-aliarea": "latest",
+        "egg-zy-geetest": "latest",
+        "egg-zy-redis": "latest",
+        "egg-zy-test": "latest",
+        "egg-zz-socket.io": "latest"
+    }
+}

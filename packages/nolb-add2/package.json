@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-add2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "add2": "latest",
+        "add202": "latest",
+        "add234567890123": "latest",
+        "add2345678901234": "latest",
+        "add2calendar": "latest",
+        "add2digits": "latest",
+        "add2next": "latest",
+        "add2num": "latest",
+        "add2num-lib": "latest",
+        "add2path": "latest"
+    }
+}

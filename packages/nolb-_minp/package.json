@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_minp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@minpeter/hello-wasm": "latest",
+        "@minpush/tracker": "latest",
+        "@minpush/weapp-component": "latest"
+    }
+}

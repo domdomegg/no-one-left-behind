@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-phx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "phx": "latest",
+        "phx-live-state": "latest",
+        "phx-mailer": "latest",
+        "phx-nodelogger": "latest",
+        "phx-pagination": "latest",
+        "phx-smartprice": "latest",
+        "phx-socket": "latest",
+        "phx-utils": "latest",
+        "phx-wildcard": "latest",
+        "phx.js": "latest",
+        "phx1230rikao": "latest",
+        "phxindex": "latest",
+        "phxl-lib": "latest",
+        "phxl-mobile": "latest",
+        "phxl_component_library": "latest",
+        "phxmui5components": "latest",
+        "phxzhoukao1": "latest"
+    }
+}

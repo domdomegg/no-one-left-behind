@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-basex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "basex": "latest",
+        "basex-encoder": "latest",
+        "basex-script": "latest",
+        "basex-standalone": "latest",
+        "basex-stream": "latest",
+        "basex-ti-cli": "latest",
+        "basex.rest": "latest",
+        "basext": "latest"
+    }
+}

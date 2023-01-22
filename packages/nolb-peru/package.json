@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-peru",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "peru": "latest",
+        "peru-dni": "latest",
+        "peru-doc-validators": "latest",
+        "peru-ubigeo": "latest",
+        "peru_ruc_dni_exchange": "latest",
+        "perudadb": "latest",
+        "perugluglu_siriolibanes_psus": "latest",
+        "perui": "latest",
+        "perulema": "latest",
+        "perun": "latest",
+        "peruna.js-server": "latest",
+        "perusal": "latest",
+        "perusal-immutable": "latest",
+        "peruse": "latest",
+        "peruser": "latest",
+        "peruuse": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-thim",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "Thimble": "latest",
+        "thimble": "latest",
+        "thimble-node": "latest",
+        "thimblecss": "latest",
+        "thimbleful": "latest",
+        "thimma-maps": "latest"
+    }
+}

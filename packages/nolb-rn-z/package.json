@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-rn-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rn-zalo": "latest",
+        "rn-zalo-kit": "latest",
+        "rn-zalo-sdk": "latest",
+        "rn-zebra-printer-bluetooth": "latest",
+        "rn-zendesk": "latest",
+        "rn-zendesk-chat-api": "latest",
+        "rn-zhuge": "latest",
+        "rn-zinger-library": "latest",
+        "rn-zoom-voice-call": "latest",
+        "rn-zooma-alipay": "latest",
+        "rn-zooma-amap": "latest",
+        "rn-zooma-weibo": "latest",
+        "rn-zoomable": "latest",
+        "rn-zoomable-image-viewer": "latest",
+        "rn-zss-rich-text-editor": "latest",
+        "rn-zykdemomodule": "latest"
+    }
+}

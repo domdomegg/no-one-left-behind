@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-vue-pk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-pkg-testing": "latest",
+        "vue-pkg-wcs": "latest",
+        "vue-pku": "latest"
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_doa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@doabit/semantic-ui-sass": "latest",
+        "@doabit/stisla-theme": "latest",
+        "@doahuang/parallax": "latest",
+        "@doain/client": "latest",
+        "@doain/node": "latest",
+        "@doamatto/gulp-eslint": "latest",
+        "@doan_company/first_package": "latest",
+        "@doananh234/react-modern-calendar-datepicker": "latest",
+        "@doannguyen/test-web-ui": "latest",
+        "@doannguyen/web-ui": "latest",
+        "@doars/common": "latest",
+        "@doars/doars": "latest",
+        "@doars/doars-alias": "latest",
+        "@doars/doars-fetch": "latest",
+        "@doars/doars-intersect": "latest",
+        "@doars/doars-morph": "latest",
+        "@doars/doars-router": "latest",
+        "@doars/doars-store": "latest",
+        "@doars/doars-update": "latest",
+        "@doars/doars-view": "latest",
+        "@doars/interpret": "latest",
+        "@doatech/vue-slider-component": "latest"
+    }
+}

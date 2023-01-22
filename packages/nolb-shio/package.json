@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-shio",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shio": "latest",
+        "shio-lab-vue-ctk-date-time-picker": "latest",
+        "shio-togel": "latest",
+        "shiolink-client": "latest",
+        "shiolinkjs": "latest",
+        "shion": "latest",
+        "shion-canvas": "latest",
+        "shiorack": "latest",
+        "shiori": "latest",
+        "shiori-dll-downloader": "latest",
+        "shiori-encode-layer": "latest",
+        "shiori-request-helper": "latest",
+        "shiori_converter": "latest",
+        "shiori_transaction": "latest",
+        "shioridetector-common_names": "latest",
+        "shiorif": "latest",
+        "shiorijk": "latest",
+        "shiorijs": "latest",
+        "shioriloader": "latest",
+        "shios": "latest"
+    }
+}

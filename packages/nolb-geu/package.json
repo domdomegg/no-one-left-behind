@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-geu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "geu": "latest",
+        "geui": "latest",
+        "geul": "latest",
+        "geum": "latest",
+        "geupsik": "latest",
+        "geussing_game_umer": "latest"
+    }
+}

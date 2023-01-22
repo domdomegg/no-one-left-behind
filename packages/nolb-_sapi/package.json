@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_sapi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sapianco/node-red-contrib-storage-s3": "latest",
+        "@sapianse/bundler": "latest",
+        "@sapics/eslint-config-illustrator": "latest",
+        "@sapics/glob-watcher": "latest",
+        "@sapics/gulp": "latest",
+        "@sapics/gulp-image-resize": "latest",
+        "@sapien/core": "latest",
+        "@sapien/core.layers": "latest",
+        "@sapien/core.types": "latest",
+        "@sapien/layers": "latest",
+        "@sapien/package-name": "latest",
+        "@sapien/types": "latest",
+        "@sapien99/vue-cli-plugin-electron-builder-notarize": "latest",
+        "@sapieneptus-org-delete-demo/pkg-1": "latest",
+        "@sapienslabs/ticketing-common": "latest",
+        "@sapient-ui/core": "latest",
+        "@sapient-ui/react": "latest",
+        "@sapient-xt/atomic-react-pattern-lib": "latest",
+        "@sapioweb/authentication": "latest",
+        "@sapir_shaiek/sapir-magic": "latest",
+        "@sapirelmakayes/slugger": "latest"
+    }
+}

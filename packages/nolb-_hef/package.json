@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_hef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hefame/microservice-logger": "latest",
+        "@hefame/microservice-request-authorize": "latest",
+        "@hefame/rfc-read-table": "latest",
+        "@hefeng-cli/cli": "latest",
+        "@hefeng-cli/core": "latest",
+        "@heffayxd/react-picture-crop": "latest",
+        "@hefive/mcdn": "latest",
+        "@hefive/npm-driver-sandbox": "latest",
+        "@heft/colors": "latest",
+        "@heft/ui": "latest",
+        "@heftapp/hefty": "latest"
+    }
+}

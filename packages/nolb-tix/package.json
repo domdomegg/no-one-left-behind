@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-tix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tix": "latest",
+        "tix-angular-chart": "latest",
+        "tix-react-ssr": "latest",
+        "tix-react-ui": "latest",
+        "tix.db-cellphone_repair": "latest",
+        "tix.js": "latest",
+        "tix.min.js": "latest",
+        "tix_cli": "latest",
+        "tixdb": "latest",
+        "tixfactory.exceptions": "latest",
+        "tixfactory.firebase": "latest",
+        "tixfactory.http": "latest",
+        "tixfactory.socket": "latest",
+        "tixfactory.storage": "latest",
+        "tixfactory.twitter": "latest",
+        "tixfactory.util": "latest",
+        "tixif-ngx-busy": "latest",
+        "tixio": "latest",
+        "tixte": "latest",
+        "tixte-passport": "latest",
+        "tixte.js": "latest",
+        "tixtec-counterpart": "latest",
+        "tixtec-date-names": "latest",
+        "tixtec-pluralizers": "latest",
+        "tixy": "latest",
+        "tixy-land": "latest"
+    }
+}

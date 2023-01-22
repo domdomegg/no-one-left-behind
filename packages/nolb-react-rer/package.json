@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-react-rer",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-rerender": "latest",
+        "react-rerender-component": "latest",
+        "react-rerender-image": "latest",
+        "react-rerender-test": "latest",
+        "react-rerender-warnings": "latest",
+        "react-rerouter": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-tyf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tyf": "latest",
+        "tyf-aop": "latest",
+        "tyf-tools": "latest",
+        "tyfell": "latest",
+        "tyfff-utlis": "latest",
+        "tyfon": "latest",
+        "tyfon-client": "latest",
+        "tyfon-conventions": "latest",
+        "tyfon-js": "latest",
+        "tyfon-server": "latest",
+        "tyfsm": "latest",
+        "tyfun": "latest",
+        "tyfy": "latest",
+        "tyfy-bootstrap": "latest"
+    }
+}

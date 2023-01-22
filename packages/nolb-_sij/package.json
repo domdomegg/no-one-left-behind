@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_sij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sijiaoh/docker-mysql": "latest",
+        "@sijiaoh/graphql-codegen-default-queries": "latest",
+        "@sijiaoh/ts-index-generator": "latest",
+        "@sijilolai/neat-ui": "latest",
+        "@sijith/custom-popup": "latest",
+        "@sijo0703/swappityswap": "latest",
+        "@sijo0703/u-exchange-sdk": "latest"
+    }
+}

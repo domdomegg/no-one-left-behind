@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-angularp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "angularpackage": "latest",
+        "angularparse": "latest",
+        "angularparse2": "latest",
+        "angularplasmid": "latest",
+        "angularplate": "latest",
+        "angularplus": "latest",
+        "angularpm": "latest",
+        "angularpoc": "latest",
+        "angularpopservice": "latest",
+        "angularportlet": "latest",
+        "angularprepjs": "latest",
+        "angularpro2": "latest",
+        "angularproject": "latest",
+        "angularproject-azurebatch": "latest",
+        "angularpwa": "latest"
+    }
+}

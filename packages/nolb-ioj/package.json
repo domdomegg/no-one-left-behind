@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-ioj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ioj": "latest",
+        "iojs": "latest",
+        "iojs-bin": "latest",
+        "iojs-bundler": "latest",
+        "iojs-darwin-x64": "latest",
+        "iojs-dep-check": "latest",
+        "iojs-linux-arm64": "latest",
+        "iojs-linux-armv6l": "latest",
+        "iojs-linux-armv7l": "latest",
+        "iojs-linux-x64": "latest",
+        "iojs-linux-x86": "latest",
+        "iojs-logos": "latest",
+        "iojs-nanomsg": "latest",
+        "iojs-sunos-x64": "latest",
+        "iojs-sunos-x86": "latest",
+        "iojs-versions": "latest",
+        "iojson": "latest",
+        "iojson-ts": "latest"
+    }
+}

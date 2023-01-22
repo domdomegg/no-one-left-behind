@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-antc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "antc": "latest",
+        "antcg": "latest",
+        "antchain": "latest",
+        "antchain-sdk": "latest",
+        "antcloud-node-stack": "latest",
+        "antcloud-react-crons": "latest",
+        "antcook-build": "latest",
+        "antcook-cli-utils": "latest",
+        "antcss": "latest",
+        "antcube": "latest",
+        "antcube-inspector": "latest",
+        "antcube-wxtool": "latest"
+    }
+}

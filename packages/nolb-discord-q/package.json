@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-discord-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discord-qt": "latest",
+        "discord-queue-bot": "latest",
+        "discord-quick-button-page": "latest",
+        "discord-quiz": "latest",
+        "discord-quiz-bot": "latest",
+        "discord-quotes-api": "latest"
+    }
+}

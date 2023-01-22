@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-eth_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eth_account": "latest",
+        "eth_contract_address_recovery": "latest",
+        "eth_contracts_halper": "latest",
+        "eth_cron": "latest",
+        "eth_hdwallet_generator": "latest",
+        "eth_helper": "latest",
+        "eth_mnemonic_signer": "latest",
+        "eth_reward": "latest",
+        "eth_tx_sender": "latest",
+        "eth_typing": "latest"
+    }
+}

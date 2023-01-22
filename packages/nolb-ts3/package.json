@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-ts3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ts3": "latest",
+        "ts3-clientquery": "latest",
+        "ts3-node-framework": "latest",
+        "ts3-nodejs-library": "latest",
+        "ts3-nodejs-scentral": "latest",
+        "ts3-query": "latest",
+        "ts3-slider": "latest",
+        "ts3-uri-blacklist": "latest",
+        "ts3-version-preprocessor": "latest",
+        "ts300": "latest",
+        "ts3abweb": "latest",
+        "ts3audiobot-api": "latest",
+        "ts3d-hc-collabserver": "latest",
+        "ts3d-hc-imageservice": "latest",
+        "ts3d-hc-textbox": "latest",
+        "ts3d.hc.caas": "latest",
+        "ts3d.hc.conversionserver": "latest",
+        "ts3d.hc.twinmanager": "latest",
+        "ts3dutils": "latest",
+        "ts3query": "latest",
+        "ts3tgbot": "latest",
+        "ts3tools": "latest",
+        "ts3x": "latest"
+    }
+}

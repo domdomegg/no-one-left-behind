@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-vue-aj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-ajajx-loading": "latest",
+        "vue-ajax": "latest",
+        "vue-ajax-form": "latest",
+        "vue-ajax-form-component": "latest",
+        "vue-ajax-handler": "latest",
+        "vue-ajax-intercept": "latest",
+        "vue-ajax-loading": "latest",
+        "vue-ajax-manager": "latest",
+        "vue-ajax-plugin": "latest",
+        "vue-ajax-plugin-huangrui": "latest",
+        "vue-ajax-search-select": "latest",
+        "vue-ajax-support": "latest",
+        "vue-ajax-upload": "latest",
+        "vue-ajax-upload-mine": "latest",
+        "vue-ajcx": "latest",
+        "vue-ajiao-tree": "latest",
+        "vue-ajv-validation": "latest"
+    }
+}

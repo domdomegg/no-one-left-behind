@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-typ3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typ3-cli": "latest",
+        "typ3of": "latest",
+        "typ3r": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-rollup-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rollup-uglifyes-commandline-tool": "latest",
+        "rollup-ui": "latest",
+        "rollup-ui-test": "latest",
+        "rollup-umd-build": "latest",
+        "rollup-umd-scripts": "latest",
+        "rollup-umdtest": "latest",
+        "rollup-url-plugin": "latest",
+        "rollup-userscript-template": "latest"
+    }
+}

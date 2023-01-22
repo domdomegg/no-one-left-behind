@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-tins",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tins": "latest",
+        "tinsaedev-node-telegram-bot-api": "latest",
+        "tinsel": "latest",
+        "tinseth": "latest",
+        "tinsmod": "latest",
+        "tinso-editor-engine": "latest",
+        "tinso-editor-pro": "latest",
+        "tinso-question": "latest",
+        "tinso-scantron": "latest",
+        "tinsoftproxy": "latest",
+        "tinspector": "latest",
+        "tinsystems": "latest"
+    }
+}

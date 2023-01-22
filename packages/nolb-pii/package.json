@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-pii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pii": "latest",
+        "pii-api": "latest",
+        "pii-detector": "latest",
+        "pii-filter": "latest",
+        "pii-network": "latest",
+        "pii-network3": "latest",
+        "pii-service-dockerized-testkit-protos": "latest",
+        "piiclic-lib": "latest",
+        "piie-web-sdk": "latest",
+        "piii": "latest",
+        "piii-filters": "latest",
+        "piiito-joker": "latest",
+        "piijt-components": "latest",
+        "piik": "latest",
+        "piilani": "latest",
+        "piilist": "latest",
+        "piinfo": "latest",
+        "piio-gallery": "latest",
+        "piio-images-react": "latest",
+        "piio-images-vue": "latest",
+        "piip-web2-react-scripts": "latest",
+        "piipweb-cra-template": "latest",
+        "piipweb-react-scripts": "latest",
+        "piir": "latest",
+        "piixpay-express-middleware": "latest"
+    }
+}

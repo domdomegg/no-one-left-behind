@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-native-cp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-cp": "latest",
+        "react-native-cp-init": "latest",
+        "react-native-cp-update-button": "latest",
+        "react-native-cplus": "latest",
+        "react-native-cppay": "latest",
+        "react-native-cprogress": "latest",
+        "react-native-cpx-research": "latest"
+    }
+}

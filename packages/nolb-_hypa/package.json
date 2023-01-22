@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_hypa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hypatia-app/app": "latest",
+        "@hypatia-app/backend": "latest",
+        "@hypatia-app/client": "latest",
+        "@hypatia-app/common": "latest",
+        "@hypatia-app/expedite": "latest",
+        "@hypatia-app/quill": "latest"
+    }
+}

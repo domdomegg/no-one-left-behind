@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-protp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "protparamjs": "latest",
+        "protpl": "latest",
+        "protpl-js-module": "latest",
+        "protpl-lerna-ts-module": "latest",
+        "protpl-react-component-module": "latest",
+        "protpl-react-ts-snowpack": "latest",
+        "protpl-ts-module": "latest"
+    }
+}

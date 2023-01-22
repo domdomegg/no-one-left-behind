@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_gaw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gawicks/commitlint": "latest",
+        "@gaws/builder": "latest",
+        "@gaws/core": "latest",
+        "@gaws/facebook": "latest",
+        "@gaws/gaws": "latest",
+        "@gaws/html": "latest",
+        "@gaws/utils": "latest"
+    }
+}

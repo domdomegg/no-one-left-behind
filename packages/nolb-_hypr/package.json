@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_hypr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyprnz/date-time": "latest",
+        "@hyprnz/es-domain": "latest",
+        "@hyprnz/es-domain-azure": "latest",
+        "@hyprtrail/minecraftserver": "latest",
+        "@hyprtrail/minecraftserver-addons": "latest",
+        "@hyprtrail/minecraftwrapper": "latest",
+        "@hyprtxt/react-calendar-timeline": "latest",
+        "@hyprtxt/react-fun": "latest"
+    }
+}

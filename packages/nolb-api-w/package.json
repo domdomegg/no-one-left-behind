@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-api-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "api-w": "latest",
+        "api-walker": "latest",
+        "api-wandbox": "latest",
+        "api-warehouse-service-provider": "latest",
+        "api-watcher": "latest",
+        "api-watchman": "latest",
+        "api-weather": "latest",
+        "api-web": "latest",
+        "api-webpack-plugin": "latest",
+        "api-wechat": "latest",
+        "api-wish": "latest",
+        "api-withmoney": "latest",
+        "api-workdown-cli": "latest",
+        "api-wrapper": "latest",
+        "api-wrapper-library": "latest",
+        "api-wrappy": "latest",
+        "api-ws": "latest",
+        "api-ws-rb": "latest"
+    }
+}

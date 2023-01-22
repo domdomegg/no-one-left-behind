@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-puh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "puh": "latest",
+        "puh.js": "latest",
+        "puhaha-puhaha": "latest",
+        "puheet-searchkit": "latest",
+        "puhoucorejs": "latest",
+        "puhuanet": "latest",
+        "puhui-system-init": "latest"
+    }
+}

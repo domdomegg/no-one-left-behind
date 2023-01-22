@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_tya",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tyah/count-words": "latest",
+        "@tyankatsu0105/copy-versions": "latest",
+        "@tyankatsu0105/css-houdini": "latest",
+        "@tyankatsu0105/css-houdini-ripple": "latest",
+        "@tyankatsu0105/css-houdini-stripe": "latest",
+        "@tyankatsu0105/dev-tool-configs": "latest",
+        "@tyankatsu0105/eslint-plugin": "latest",
+        "@tyankatsu0105/eslint-plugin-with-typescript": "latest",
+        "@tyankatsu0105/eslint-with-typescript": "latest",
+        "@tyankatsu0105/my-toolchain": "latest",
+        "@tyankatsu0105/npm-package-with-golang": "latest",
+        "@tyankatsu0105/npm-test": "latest",
+        "@tyankatsu0105/sample-package-npm-scoped": "latest",
+        "@tyankatsu0105/sandbox-check-dts": "latest",
+        "@tyankatsu0105/sandbox-shipjs": "latest",
+        "@tyankatsu0105/stylelint-typescript": "latest",
+        "@tyankatsu0105/types-gridsome": "latest",
+        "@tyankatsu0105/verification-shipjs-897": "latest",
+        "@tyankatsu0105/web-components": "latest"
+    }
+}

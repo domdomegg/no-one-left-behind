@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-rxm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rxm": "latest",
+        "rxm-hello": "latest",
+        "rxmake": "latest",
+        "rxmask": "latest",
+        "rxme": "latest",
+        "rxmetics": "latest",
+        "rxminimal": "latest",
+        "rxml": "latest",
+        "rxmod": "latest",
+        "rxmodel": "latest",
+        "rxmongo": "latest",
+        "rxmp": "latest",
+        "rxmpreviewplayer": "latest",
+        "rxmq": "latest",
+        "rxmq.aliases": "latest",
+        "rxmq.middleware": "latest",
+        "rxmsg": "latest",
+        "rxmx-components": "latest"
+    }
+}

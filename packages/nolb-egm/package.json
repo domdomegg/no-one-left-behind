@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-egm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "egm": "latest",
+        "egm-test-block": "latest",
+        "egm0121-expo-task-manager": "latest",
+        "egm96": "latest",
+        "egm96-universal": "latest",
+        "egmutza-test123": "latest",
+        "egmz-product-card": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-ipn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ipn": "latest",
+        "ipn-cross-domain-storage": "latest",
+        "ipn-pal": "latest",
+        "ipn-ua": "latest",
+        "ipnation": "latest",
+        "ipnc": "latest",
+        "ipnf": "latest",
+        "ipnfo": "latest",
+        "ipnode": "latest",
+        "ipnp-custom-errors": "latest",
+        "ipnpm": "latest",
+        "ipns": "latest",
+        "ipns-did": "latest",
+        "ipns-did-resolver": "latest"
+    }
+}

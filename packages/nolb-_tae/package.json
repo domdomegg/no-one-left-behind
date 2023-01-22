@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_tae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@taeho/user-basic": "latest",
+        "@taehooks/use-title": "latest",
+        "@taejin5314/lotide": "latest",
+        "@taejung/progress_bar": "latest",
+        "@taeks/use-title": "latest",
+        "@taeminkim/test-module-bf": "latest",
+        "@taemu12/tenu-available": "latest",
+        "@taenykim/generator": "latest",
+        "@taenykim/generator-webpack-boilerplate": "latest",
+        "@taenzer-digital/bedrock": "latest",
+        "@taethni/d3-org-chart": "latest",
+        "@taeuk-gang/chartjs-plugin-streaming": "latest",
+        "@taeuk-gang/xterm": "latest",
+        "@taeyang/loader": "latest",
+        "@taeyang/router": "latest",
+        "@taeyang/tools": "latest"
+    }
+}

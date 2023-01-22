@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-mapu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mapu": "latest",
+        "mapuid": "latest",
+        "mapulse-dsl": "latest",
+        "mapuspra": "latest",
+        "maputil": "latest",
+        "maputnik": "latest",
+        "maputnik-design": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-e6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "e6": "latest",
+        "e6-base-chart": "latest",
+        "e6-lang": "latest",
+        "e6-publish": "latest",
+        "e6-svgicon": "latest",
+        "e6-tree": "latest",
+        "e6-ui": "latest",
+        "e6-ui-react": "latest",
+        "e621": "latest",
+        "e621-api": "latest",
+        "e621-api-ts": "latest",
+        "e621-thumbnailer": "latest",
+        "e621-wrap": "latest",
+        "e621-wrapper": "latest",
+        "e621downloader.js": "latest",
+        "e6api": "latest",
+        "e6b": "latest",
+        "e6b-lib": "latest",
+        "e6city": "latest",
+        "e6date": "latest",
+        "e6datetime": "latest",
+        "e6dl": "latest",
+        "e6loading": "latest",
+        "e6n-structure-mapper": "latest",
+        "e6page": "latest",
+        "e6s-bots": "latest",
+        "e6select": "latest",
+        "e6time": "latest"
+    }
+}

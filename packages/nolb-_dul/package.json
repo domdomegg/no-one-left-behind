@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_dul",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dulcet-platform/babel-jest": "latest",
+        "@dulcetjs/prop-types": "latest",
+        "@dulcetjs/webpack": "latest",
+        "@dulegit/component-library": "latest",
+        "@dulemon/react-tooltip": "latest",
+        "@duli-ui/utils": "latest",
+        "@dullaghan/cli": "latest",
+        "@dullaghan/cli-scaffold-templates": "latest",
+        "@dullaghan/cli-shared-utils": "latest",
+        "@dullaghan/eslint-config-react": "latest",
+        "@dullaghan/heading-tag": "latest",
+        "@dullaghan/prettier-config": "latest",
+        "@dullar/bem": "latest",
+        "@dullar/cli": "latest",
+        "@dullar/cube": "latest",
+        "@dullar/earth": "latest",
+        "@dullar/jupiter": "latest",
+        "@dullar/mars": "latest",
+        "@dullar/mercury": "latest",
+        "@dullar/queen": "latest",
+        "@dullar/venus": "latest",
+        "@dullar/vue-framework": "latest",
+        "@dullex/table": "latest",
+        "@dulliag/components": "latest",
+        "@dulliag/discord-helper": "latest",
+        "@dulliag/logger.js": "latest",
+        "@dulysse1/better-node": "latest",
+        "@dulysse1/better-stripe": "latest"
+    }
+}

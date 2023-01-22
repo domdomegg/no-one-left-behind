@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-nodebb-plugin-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodebb-plugin-xbone": "latest",
+        "nodebb-plugin-xeno-canto": "latest",
+        "nodebb-plugin-xkcd-embed": "latest"
+    }
+}

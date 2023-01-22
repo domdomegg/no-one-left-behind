@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-json-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "json-native": "latest",
+        "json-native-bigint": "latest",
+        "json-native-promise": "latest",
+        "json-nest": "latest",
+        "json-nested-find": "latest",
+        "json-nested-parser": "latest",
+        "json-nested-replace": "latest",
+        "json-next": "latest",
+        "json-nice": "latest",
+        "json-node": "latest",
+        "json-node-normalizer": "latest",
+        "json-normalization": "latest",
+        "json-normalize": "latest",
+        "json-normalizer": "latest",
+        "json-notation-switcher": "latest",
+        "json-notify": "latest",
+        "json-now": "latest",
+        "json-null-replacer": "latest",
+        "json-numeric-diff": "latest"
+    }
+}

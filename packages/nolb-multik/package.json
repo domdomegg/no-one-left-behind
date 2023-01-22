@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-multik",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "multik": "latest",
+        "multikart": "latest",
+        "multikey": "latest",
+        "multikey-hash": "latest",
+        "multikey-map": "latest",
+        "multikey-queue": "latest",
+        "multikey-store": "latest",
+        "multikeymap": "latest",
+        "multikeys": "latest",
+        "multikeysort": "latest"
+    }
+}

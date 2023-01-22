@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_smk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@smk17/babel-plugin-custom-import": "latest",
+        "@smkhalsa/neo4j-graphql-js": "latest",
+        "@smkirkpatrick-ticketing/common": "latest"
+    }
+}

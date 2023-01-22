@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_proy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@proyectcoinmanager/core": "latest",
+        "@proyectcoinmanager/uikit": "latest",
+        "@proyecto-didi/app-sdk": "latest",
+        "@proyecto-didi/didi-blockchain-manager": "latest",
+        "@proyecto-didi/didi-ssi-issuer-module-functional-test": "latest",
+        "@proyecto-didi/didi-ssi-logger": "latest",
+        "@proyecto-didi/didi-ssi-semillas-web-functional-test": "latest",
+        "@proyecto-didi/didi-ssi-server-functional-test": "latest",
+        "@proyecto-didi/vc-validator": "latest",
+        "@proyecto-pu/common": "latest",
+        "@proyecto26/animatable-component": "latest",
+        "@proyecto26/animatable-component-react": "latest"
+    }
+}

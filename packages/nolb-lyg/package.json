@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-lyg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lyg": "latest",
+        "lyg-web": "latest",
+        "lyg_bar": "latest",
+        "lyg_baz": "latest",
+        "lyg_foo": "latest",
+        "lyg_foo-parent-1": "latest",
+        "lyg_foo-parent-2": "latest",
+        "lygel-frame-print": "latest",
+        "lygia": "latest",
+        "lyglcheng": "latest",
+        "lygos": "latest",
+        "lygrafmajik": "latest",
+        "lygt": "latest",
+        "lygt-test": "latest",
+        "lyguitar": "latest"
+    }
+}

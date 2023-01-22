@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_im_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@im.ray/source": "latest",
+        "@im__reaper/apex": "latest",
+        "@im_banana/databasetool": "latest",
+        "@im_fe/im-cli": "latest",
+        "@im_jun/test-package": "latest",
+        "@im_manderson/zos-test": "latest"
+    }
+}

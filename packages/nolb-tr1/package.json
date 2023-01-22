@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-tr1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tr11p-commons": "latest",
+        "tr1al": "latest",
+        "tr1pp-kafka-producer": "latest"
+    }
+}

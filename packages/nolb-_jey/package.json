@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_jey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jeydolen/config": "latest",
+        "@jeydolen/generic_singleton": "latest",
+        "@jeydotc/justjs": "latest",
+        "@jeygeethan/actiontext-backblaze": "latest",
+        "@jeygeethan/activestorage-backblaze": "latest",
+        "@jeyhunkhh1/az-lang-number-to-word": "latest",
+        "@jeykeu/font-os": "latest",
+        "@jeylabs/aws-lambda-poppler": "latest",
+        "@jeynakim/lotide": "latest",
+        "@jeysal/babel-plugin-ramda": "latest",
+        "@jeysonlesmes/age-range-filter": "latest",
+        "@jeysonlesmes/filter-section": "latest",
+        "@jeysonlesmes/ngx-airbnb-calendar": "latest",
+        "@jeysonlesmes/vue-airbnb-style-datepicker": "latest",
+        "@jeysonrgxd/my-first-module": "latest",
+        "@jeyz/event-bus": "latest",
+        "@jeyz/streams": "latest"
+    }
+}

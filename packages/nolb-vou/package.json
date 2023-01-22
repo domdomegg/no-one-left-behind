@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-vou",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vou": "latest",
+        "vouch": "latest",
+        "vouch-lib-access-check": "latest",
+        "vouch-lib-encryption": "latest",
+        "vouch-lib-pubsub": "latest",
+        "vouch-promise": "latest",
+        "vouch-verified": "latest",
+        "vouchdao": "latest",
+        "vouchdb": "latest",
+        "vouchedfor-acl": "latest",
+        "vouchedfor-weather": "latest",
+        "voucher": "latest",
+        "voucher-code-generator": "latest",
+        "voucher-codes": "latest",
+        "voucher-codes-generator": "latest",
+        "voucher-demo": "latest",
+        "voucher-generator": "latest",
+        "voucher-table": "latest",
+        "voucher-validator": "latest",
+        "voucher_1": "latest",
+        "voucherify": "latest",
+        "voucherify.js": "latest",
+        "vouchpanel": "latest",
+        "vougee-authenticator": "latest",
+        "vouill-vue-ui": "latest",
+        "vound": "latest",
+        "voundation-xy-grid": "latest",
+        "vouter": "latest"
+    }
+}

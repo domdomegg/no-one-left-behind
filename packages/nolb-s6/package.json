@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-s6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "s6": "latest",
+        "s600-cos": "latest",
+        "s600-package-a": "latest",
+        "s600-package-b": "latest",
+        "s616-note": "latest",
+        "s68k": "latest",
+        "s6_makenpm": "latest"
+    }
+}

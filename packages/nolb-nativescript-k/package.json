@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-nativescript-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nativescript-kakao-maps": "latest",
+        "nativescript-kde-audioplayer-tk": "latest",
+        "nativescript-keyboard-toolbar": "latest",
+        "nativescript-keyboardshowing": "latest",
+        "nativescript-keyframes": "latest",
+        "nativescript-kiip": "latest",
+        "nativescript-kinvey-list": "latest",
+        "nativescript-kontaktio": "latest",
+        "nativescript-kontaktio-v2": "latest"
+    }
+}

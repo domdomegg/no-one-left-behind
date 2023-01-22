@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_ony",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ony/icons": "latest",
+        "@ony3000/base64-converter": "latest",
+        "@onylab/common-api": "latest",
+        "@onytgvx/expo-image-picker-multiple": "latest",
+        "@onytgvx/expo-video-player": "latest",
+        "@onytgvx/multiple-image-selector": "latest",
+        "@onytgvx/react-native-aws3": "latest",
+        "@onytgvx/react-native-calendars": "latest",
+        "@onytgvx/react-native-datepicker": "latest",
+        "@onyxia/ui": "latest",
+        "@onyxjs/policy": "latest"
+    }
+}

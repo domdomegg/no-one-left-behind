@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-swm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "swm": "latest",
+        "swm-c10n-demo": "latest",
+        "swm-client": "latest",
+        "swm-client-lib": "latest",
+        "swm-glamor-prefixer": "latest",
+        "swm-grid": "latest",
+        "swm-learning-tool": "latest",
+        "swmathutil": "latest",
+        "swmc-binder": "latest",
+        "swmcc": "latest",
+        "swmcho-publish-test": "latest",
+        "swmpjs": "latest",
+        "swms-contentheader-cpn": "latest",
+        "swmserver": "latest"
+    }
+}

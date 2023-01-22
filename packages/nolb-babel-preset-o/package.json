@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-babel-preset-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-preset-o": "latest",
+        "babel-preset-o-app": "latest",
+        "babel-preset-o-module": "latest",
+        "babel-preset-obec": "latest",
+        "babel-preset-objective": "latest",
+        "babel-preset-olegman": "latest",
+        "babel-preset-omi": "latest",
+        "babel-preset-omit-plugins": "latest",
+        "babel-preset-omni-app": "latest",
+        "babel-preset-omodule": "latest",
+        "babel-preset-openagenda": "latest",
+        "babel-preset-opencollective": "latest",
+        "babel-preset-opencollective-webpack": "latest",
+        "babel-preset-optimise": "latest",
+        "babel-preset-optimizations": "latest",
+        "babel-preset-optimize": "latest",
+        "babel-preset-optimized": "latest",
+        "babel-preset-optimizer": "latest",
+        "babel-preset-orangeyyy": "latest",
+        "babel-preset-oreact": "latest",
+        "babel-preset-orgilla": "latest",
+        "babel-preset-oriflame": "latest",
+        "babel-preset-orionsoft-react-app": "latest",
+        "babel-preset-oryx-package": "latest"
+    }
+}

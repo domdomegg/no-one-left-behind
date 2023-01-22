@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_onu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@onu-ui/components": "latest",
+        "@onu-ui/docs": "latest",
+        "@onu-ui/playground": "latest",
+        "@onu-ui/preset": "latest",
+        "@onu-ui/utils": "latest",
+        "@onur-ngti/parse-server-mailgun": "latest",
+        "@onuranl/vue-loading-plugin": "latest",
+        "@onurkantar/react-native-key-event-listener": "latest",
+        "@onurkenis/create-quick-app": "latest",
+        "@onurkose/vue-spa-auth": "latest",
+        "@onus-elements/core": "latest",
+        "@onus-elements/react": "latest"
+    }
+}

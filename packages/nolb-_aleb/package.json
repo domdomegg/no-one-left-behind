@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_aleb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aleb.unumed/react-day-picker": "latest",
+        "@aleb/node-package-test": "latest",
+        "@alebak/starwars-names": "latest",
+        "@alebcay/openlens-node-pod-menu": "latest",
+        "@alebusse/account-lib": "latest",
+        "@alebusse/statics": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_thim",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@thimal/lama": "latest",
+        "@thimal/socksv5": "latest",
+        "@thimal/ssh2-promise": "latest",
+        "@thimar/eslint-config": "latest",
+        "@thimar/prettier-config": "latest",
+        "@thimlohsedev/branch_lightyear": "latest",
+        "@thimlohsedev/generator-spike-lee": "latest",
+        "@thimpat/electronutils": "latest",
+        "@thimpat/libutils": "latest",
+        "@thimpat/testutils": "latest",
+        "@thimpat/toolkit": "latest"
+    }
+}

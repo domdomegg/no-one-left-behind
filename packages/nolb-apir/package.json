@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-apir",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "apira": "latest",
+        "apirage": "latest",
+        "apirage-client": "latest",
+        "apirage-server": "latest",
+        "apiraiser": "latest",
+        "apirblx": "latest",
+        "apiref": "latest",
+        "apirequest": "latest",
+        "apirequests": "latest",
+        "apirestfake": "latest",
+        "apirix-ng-apx": "latest",
+        "apirocket": "latest",
+        "apiroyale": "latest"
+    }
+}

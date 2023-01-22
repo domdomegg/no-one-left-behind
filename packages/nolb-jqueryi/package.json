@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-jqueryi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jqueryify": "latest",
+        "jqueryify-all": "latest",
+        "jqueryify2": "latest",
+        "jqueryifyui": "latest",
+        "jqueryimgmask": "latest"
+    }
+}

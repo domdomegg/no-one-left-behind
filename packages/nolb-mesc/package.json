@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-mesc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mesc": "latest",
+        "mescaline": "latest",
+        "mesch": "latest",
+        "mescroll": "latest",
+        "mescroll-nb": "latest",
+        "mescroll-uni": "latest",
+        "mescroll.js": "latest",
+        "mescute-web-mfe-core": "latest"
+    }
+}

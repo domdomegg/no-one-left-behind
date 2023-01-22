@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_ali_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ali.bakhodirov/plugin-chart-traffic-lights": "latest",
+        "@ali_fatmi/alifatmi": "latest",
+        "@ali_nawaz/style-kit": "latest",
+        "@ali_safari/usecase": "latest",
+        "@ali_znzd/generate-react-cli": "latest",
+        "@ali_znzd/react-clamp-line": "latest"
+    }
+}

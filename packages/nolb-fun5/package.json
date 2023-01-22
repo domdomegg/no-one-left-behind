@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-fun5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fun5": "latest",
+        "fun5-cli-dev": "latest",
+        "fun5-cli-dev-components": "latest",
+        "fun5-cli-dev-template-custom-vue3": "latest",
+        "fun5-cli-dev-template-vue-element-admin": "latest",
+        "fun5-cli-dev-template-vue3": "latest",
+        "fun5-components": "latest",
+        "fun5-components-backend": "latest",
+        "fun5-lib": "latest"
+    }
+}

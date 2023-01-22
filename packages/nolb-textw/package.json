@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-textw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "textware-api": "latest",
+        "textwcl": "latest",
+        "textwerttty": "latest",
+        "textwidth": "latest",
+        "textwithnewlines": "latest",
+        "textworld": "latest",
+        "textwrite": "latest"
+    }
+}

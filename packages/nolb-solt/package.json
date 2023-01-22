@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-solt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "solt": "latest",
+        "solt9029-npm-tutorial": "latest",
+        "soltar": "latest",
+        "solti": "latest",
+        "soltokenbalance": "latest",
+        "soltransfer": "latest",
+        "solts": "latest",
+        "soltsice": "latest",
+        "solty": "latest",
+        "soltype-pb": "latest",
+        "soltypes": "latest"
+    }
+}

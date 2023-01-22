@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-urc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "urc": "latest",
+        "urc-atom": "latest",
+        "urc-atom-examples": "latest",
+        "urc-cli": "latest",
+        "urca-password-strength": "latest",
+        "urchin": "latest",
+        "urcl-new": "latest",
+        "urcli": "latest",
+        "urclient": "latest",
+        "urcloud": "latest",
+        "urcord": "latest"
+    }
+}

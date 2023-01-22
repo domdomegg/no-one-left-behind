@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_drf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@drfarm/grid": "latest",
+        "@drfonix/new-component": "latest",
+        "@drfrost/xum": "latest",
+        "@drfte/react-components": "latest",
+        "@drfte/react-hooks": "latest",
+        "@drfte/react-ui": "latest",
+        "@drfte/react-ui-context": "latest",
+        "@drftickets/common": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_trivikr-test_h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trivikr-test/hash-blob-browser": "latest",
+        "@trivikr-test/hash-blob-browser-esm": "latest",
+        "@trivikr-test/hash-blob-browser-esm-wrapper": "latest",
+        "@trivikr-test/hash-node": "latest",
+        "@trivikr-test/hash-node-esm": "latest",
+        "@trivikr-test/hash-node-esm-wrapper": "latest",
+        "@trivikr-test/hash-stream-node": "latest",
+        "@trivikr-test/hash-stream-node-esm": "latest",
+        "@trivikr-test/hash-stream-node-esm-wrapper": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_exn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@exness-ui/default-theme": "latest",
+        "@exness/select-component-ab": "latest",
+        "@exnessimo/style": "latest",
+        "@exnessimus/hooks": "latest",
+        "@exnext/annihilation.js": "latest",
+        "@exnext/eventex": "latest",
+        "@exnext/rotatex": "latest",
+        "@exnodes/ps-react-components": "latest"
+    }
+}

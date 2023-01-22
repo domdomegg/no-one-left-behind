@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-myso",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mysocialapp-ts-client": "latest",
+        "mysodexo": "latest",
+        "mysoft-erp-parser": "latest",
+        "mysoft-init": "latest",
+        "mysoft-paas-cli": "latest",
+        "mysoft-ypack": "latest",
+        "mysolc": "latest",
+        "mysomepackagename": "latest",
+        "mysondeverani": "latest",
+        "mysort": "latest",
+        "mysort0307": "latest",
+        "mysort111": "latest",
+        "mysorter": "latest"
+    }
+}

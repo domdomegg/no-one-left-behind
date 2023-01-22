@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-reax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reax": "latest",
+        "reax-avatar": "latest",
+        "reax-commons": "latest",
+        "reax-hook": "latest",
+        "reax-standalone": "latest",
+        "reax-store": "latest",
+        "reax-ui": "latest",
+        "reax.js": "latest",
+        "reax3-pkg-uyp": "latest",
+        "reaxe": "latest",
+        "reaxes": "latest",
+        "reaxi": "latest",
+        "reaxiom": "latest",
+        "reaxios": "latest",
+        "reaxjs": "latest",
+        "reaxn": "latest",
+        "reaxpress-state": "latest",
+        "reaxt": "latest",
+        "reaxtor": "latest",
+        "reaxtor-falcor": "latest",
+        "reaxtor-falcor-json-graph": "latest",
+        "reaxtor-falcor-path-utils": "latest",
+        "reaxtor-falcor-router": "latest",
+        "reaxtor-falcor-syntax-path": "latest",
+        "reaxtor-falcor-syntax-pathmap": "latest",
+        "reaxtor-redux": "latest",
+        "reaxtor-redux-example": "latest",
+        "reaxy": "latest"
+    }
+}

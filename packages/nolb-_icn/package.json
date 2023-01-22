@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_icn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@icnaming/client": "latest",
+        "@icnaming/favorites_client": "latest",
+        "@icnaming/favorites_server": "latest",
+        "@icnaming/registrar_client": "latest",
+        "@icnaming/registrar_control_gateway_client": "latest",
+        "@icnaming/registrar_control_gateway_server": "latest",
+        "@icnaming/registrar_server": "latest",
+        "@icnaming/registry_client": "latest",
+        "@icnaming/registry_server": "latest",
+        "@icnaming/resolver_client": "latest",
+        "@icnaming/resolver_server": "latest",
+        "@icncsx/generate-compliment": "latest",
+        "@icncsx/kodash": "latest",
+        "@icncsx/kquery": "latest"
+    }
+}

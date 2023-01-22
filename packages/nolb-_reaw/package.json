@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_reaw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reaway666/vite-plugin-svg-icon": "latest",
+        "@reaway666/vite-plugin-svg-icons": "latest",
+        "@reawayjs/vite-plugin-svg-icons": "latest"
+    }
+}

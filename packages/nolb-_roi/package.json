@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_roi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@roiding/plugin-baidu-analytics": "latest",
+        "@roiding/vuepress-plugin-baidu-analytics": "latest",
+        "@roie.fink/pie-chart": "latest",
+        "@roikkuto/react-store": "latest",
+        "@roimaswap/sdk": "latest",
+        "@roimaswap/uikit": "latest",
+        "@roine/dict": "latest",
+        "@roistat/ui": "latest",
+        "@roit/integration-models": "latest",
+        "@roit/roit-apidocs-awsapigateway-integration": "latest",
+        "@roit/roit-company-interfaces": "latest",
+        "@roit/roit-company-models": "latest",
+        "@roit/roit-components": "latest",
+        "@roit/roit-data-firestore": "latest",
+        "@roit/roit-date": "latest",
+        "@roit/roit-firestore-connector": "latest",
+        "@roit/roit-model-mapper": "latest",
+        "@roit/roit-queues": "latest",
+        "@roit/roit-response-handler": "latest",
+        "@roit/roit-rule-engine-consumer": "latest",
+        "@roit/roit-secret-manager": "latest",
+        "@roit/roit-sql-builder": "latest",
+        "@roit/roit-storage": "latest",
+        "@roit/roit-utils": "latest",
+        "@roiteee/nodearraymodule": "latest",
+        "@roiteee/randomstringmodule": "latest",
+        "@roizor/hypixel-js": "latest",
+        "@roizor/rlogger": "latest"
+    }
+}

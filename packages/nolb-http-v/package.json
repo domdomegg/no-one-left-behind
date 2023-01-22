@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-http-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "http-variable-server": "latest",
+        "http-verbs": "latest",
+        "http-verify": "latest",
+        "http-verror": "latest",
+        "http-version": "latest",
+        "http-view-stream": "latest",
+        "http-vkm": "latest",
+        "http-vue-loader": "latest",
+        "http-vue-loader-6": "latest",
+        "http-vue-loader-mime": "latest",
+        "http-vue-loader-plus": "latest"
+    }
+}

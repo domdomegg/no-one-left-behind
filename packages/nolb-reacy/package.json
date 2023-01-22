@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-reacy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reacy": "latest",
+        "reacy-ui": "latest",
+        "reacycle": "latest"
+    }
+}

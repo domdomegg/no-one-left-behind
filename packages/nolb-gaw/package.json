@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-gaw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gaw": "latest",
+        "gaw-cli": "latest",
+        "gawain": "latest",
+        "gawati-auth-middleware": "latest",
+        "gawati-editor-lang-packs": "latest",
+        "gawati-lang-packs": "latest",
+        "gawati-viewer": "latest",
+        "gawati-workflow": "latest",
+        "gawin-remote-lib": "latest",
+        "gawk": "latest",
+        "gawp": "latest",
+        "gawr": "latest",
+        "gawrap": "latest",
+        "gaws": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-naq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "naq": "latest",
+        "naq-flow": "latest",
+        "naq-reports-quick": "latest",
+        "naq-tunnel": "latest",
+        "naqed": "latest",
+        "naqi": "latest",
+        "naqi-444": "latest",
+        "naql": "latest",
+        "naqvi-app": "latest",
+        "naqvi-cli": "latest"
+    }
+}

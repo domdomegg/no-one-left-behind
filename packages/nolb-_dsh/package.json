@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_dsh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dsh-prose/date-picker": "latest",
+        "@dsh-prose/event": "latest",
+        "@dsh-prose/hooks": "latest",
+        "@dsh-prose/react-drag": "latest",
+        "@dsh-prose/swipe": "latest",
+        "@dsh-prose/utils": "latest",
+        "@dshaneg/generator-node-app": "latest",
+        "@dshaneg/text-adventure-core": "latest",
+        "@dshark95/cordova-plugin-pvt-fingerprint-aio": "latest",
+        "@dshbuilds/gitlab-npm-audit-parser": "latest",
+        "@dshch/ngx-ui": "latest",
+        "@dshch/rad-ui": "latest",
+        "@dsherret/to-absolute-glob": "latest",
+        "@dshiells/saml2-js": "latest",
+        "@dshjs/utils": "latest",
+        "@dshl/bigint-tools": "latest",
+        "@dshl/verdaccio-docker": "latest",
+        "@dshlass/react-flow-chart": "latest",
+        "@dshooks/use-lockscroll": "latest",
+        "@dshvarova/region-list": "latest"
+    }
+}

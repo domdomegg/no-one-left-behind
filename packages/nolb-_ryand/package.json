@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_ryand",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryandavie/components": "latest",
+        "@ryandejaegher/my-astro-component": "latest",
+        "@ryandejaegher/my-component": "latest",
+        "@ryandejaegher/my-vite-react-library": "latest",
+        "@ryandejaegher/my-vite-vue-library": "latest",
+        "@ryandejaegher/plugin-one": "latest",
+        "@ryandejaegher/ryan-math-modules": "latest",
+        "@ryandejaegher/ryan-math-submodule": "latest",
+        "@ryandejaegher/ryan-tailwind-presets": "latest",
+        "@ryandejaegher/stencil-web-components": "latest",
+        "@ryandejaegher/theme-one": "latest",
+        "@ryandejaegher/theme-two": "latest",
+        "@ryandemesa/lotide": "latest",
+        "@ryands17/rcomp": "latest",
+        "@ryandur/my-first-publish": "latest",
+        "@ryandur/sand": "latest",
+        "@ryandur/webpack-configs": "latest"
+    }
+}

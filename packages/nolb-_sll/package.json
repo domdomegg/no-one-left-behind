@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_sll",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sll1001/homebridge-plugin-test": "latest",
+        "@sll1001/homebridge-plugin-xiaomi-dmaker-22l": "latest",
+        "@sllujaan/display": "latest"
+    }
+}

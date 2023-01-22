@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-y9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "y9": "latest",
+        "y9-mars-inst-passport": "latest",
+        "y9-mars-repository": "latest",
+        "y9-mars-security": "latest",
+        "y9-mars-service": "latest",
+        "y9-mars-util": "latest",
+        "y9-mysql": "latest",
+        "y9-neptune": "latest",
+        "y9-node-redis-mq": "latest",
+        "y9-node-request": "latest",
+        "y9-node-retry": "latest",
+        "y9-node-soproxy": "latest",
+        "y9-passport-weixin": "latest",
+        "y9-soproxy": "latest",
+        "y9-watermark": "latest",
+        "y9-wx-api": "latest",
+        "y900-components": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_conr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@conr2d/bcrypto": "latest",
+        "@conr2d/eosjs": "latest",
+        "@conradconnect/paas-api": "latest",
+        "@conradlin/gatsby-source-notion-database": "latest",
+        "@conradlin/notabase": "latest",
+        "@conradoluiz/next-with-typescript": "latest",
+        "@conradw/lotide": "latest"
+    }
+}

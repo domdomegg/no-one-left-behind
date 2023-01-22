@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-stew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "Stewed": "latest",
+        "stew": "latest",
+        "stew-cli": "latest",
+        "stew-core": "latest",
+        "stew-select": "latest",
+        "stew-ui": "latest",
+        "steward": "latest",
+        "steward-bot": "latest",
+        "steward-client": "latest",
+        "steward-http-wrapper": "latest",
+        "stewardbank-sso": "latest",
+        "stewardess": "latest",
+        "stewart": "latest",
+        "stewart-platform-simulator": "latest",
+        "stewed": "latest",
+        "stewie": "latest",
+        "stewie-client": "latest",
+        "stewie-editor": "latest",
+        "stewie-server": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_fov",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fov42550564/react-native-device": "latest",
+        "@fovea/cli": "latest",
+        "@fovea/common": "latest",
+        "@fovea/compiler": "latest",
+        "@fovea/core": "latest",
+        "@fovea/dom": "latest",
+        "@fovea/lib": "latest",
+        "@fovea/material": "latest",
+        "@fovea/postcss-fovea-parser": "latest",
+        "@fovea/rollup-plugin-fovea": "latest",
+        "@fovea/router": "latest",
+        "@fovea/scheduler": "latest",
+        "@fovea/style": "latest",
+        "@fovegage/hello-wasm": "latest",
+        "@fovira/common": "latest"
+    }
+}

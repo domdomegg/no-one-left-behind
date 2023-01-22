@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-sven",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sven": "latest",
+        "sven-dev-tools": "latest",
+        "sven-storylines": "latest",
+        "sven-ui": "latest",
+        "sven-ui-components": "latest",
+        "sven-ui-kit-svelte": "latest",
+        "sven-utils": "latest",
+        "sven_hoek-frame-print": "latest",
+        "svench": "latest",
+        "svench-cli": "latest",
+        "svench-docs": "latest",
+        "svench-vite": "latest",
+        "svenerate": "latest",
+        "svenjs": "latest",
+        "svenjsx": "latest",
+        "svenjsx-loader": "latest",
+        "svenkilberg-frame-print": "latest",
+        "svenlc-uc-components": "latest",
+        "svenmodule": "latest",
+        "svenne-loader": "latest",
+        "svensation": "latest",
+        "svenschwob": "latest",
+        "svenskify": "latest",
+        "svenskprovtagning-commons": "latest",
+        "svent": "latest",
+        "sventestnpm": "latest",
+        "svenum": "latest"
+    }
+}

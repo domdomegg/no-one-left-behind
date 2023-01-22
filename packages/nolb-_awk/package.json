@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_awk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@awkewainze/checkverify": "latest",
+        "@awkewainze/simpleduration": "latest",
+        "@awkewainze/simpletimer": "latest",
+        "@awkravchuk/react-audio-recorder": "latest",
+        "@awkward/eslint-config": "latest",
+        "@awkward/localisation": "latest",
+        "@awkward/react-mentions": "latest",
+        "@awkward/react-simple-masonry": "latest",
+        "@awkward/sequelize-reassociate": "latest",
+        "@awkward/sequelize-relocate": "latest",
+        "@awkward/simple-dyno": "latest",
+        "@awkward/utils": "latest",
+        "@awkward/webpack-config-sketch-web": "latest",
+        "@awkwarddev/djspage": "latest"
+    }
+}

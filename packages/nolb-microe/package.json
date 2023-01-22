@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-microe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "microed": "latest",
+        "microedge-rxstate": "latest",
+        "microedge-skyux2-contrib": "latest",
+        "microedit": "latest",
+        "microee": "latest",
+        "microejb": "latest",
+        "microelement": "latest",
+        "microemit": "latest",
+        "microend-component": "latest",
+        "microenum": "latest",
+        "microenvi": "latest",
+        "microerrormessages": "latest",
+        "microevent": "latest",
+        "microevent-emit": "latest",
+        "microevent-github": "latest",
+        "microevent.ts": "latest",
+        "microevent2": "latest",
+        "microevents": "latest",
+        "microexample": "latest",
+        "microexpresscion": "latest"
+    }
+}

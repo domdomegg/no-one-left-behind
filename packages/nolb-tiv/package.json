@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-tiv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tiv": "latest",
+        "tiva": "latest",
+        "tive": "latest",
+        "tive-cli": "latest",
+        "tiver": "latest",
+        "tiversion": "latest",
+        "tivetan-sort-js": "latest",
+        "tiveyuk_math_example": "latest",
+        "tiview": "latest",
+        "tivik": "latest",
+        "tivit-component-library": "latest",
+        "tivo": "latest",
+        "tivo-remote": "latest",
+        "tivoli": "latest"
+    }
+}

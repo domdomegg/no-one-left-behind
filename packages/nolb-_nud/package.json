@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_nud",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nudabagana/learnstorybook-design-system": "latest",
+        "@nudabagana/useful-hooks": "latest",
+        "@nudge-coach/icons": "latest",
+        "@nudge-coach/native-icons": "latest",
+        "@nudge-coach/nudge-design": "latest",
+        "@nudge-coach/nudge-ui": "latest",
+        "@nudge-coach/tokens": "latest",
+        "@nudge-coach/ui": "latest",
+        "@nudgeit/easing-ts": "latest",
+        "@nudgeit/nit-pipes": "latest",
+        "@nudgelabs/geometry-design-system-lib": "latest",
+        "@nudgelabs/metron-design-system-lib": "latest",
+        "@nudgem/curated-collections": "latest",
+        "@nudgem/nudgem-helper": "latest",
+        "@nudgem/survey": "latest",
+        "@nudj/dummy": "latest",
+        "@nudj/tachyons": "latest",
+        "@nudjur/js-logger": "latest",
+        "@nudles/http-package": "latest"
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-cordova-d",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cordova-daimler-push-notification": "latest",
+        "cordova-deploy": "latest",
+        "cordova-deploy-windows-phone": "latest",
+        "cordova-dev": "latest",
+        "cordova-dev-opts": "latest",
+        "cordova-device-accounts": "latest",
+        "cordova-device-accounts-npm": "latest",
+        "cordova-device-accounts-v2": "latest",
+        "cordova-device-information-plugin": "latest",
+        "cordova-deviceready": "latest",
+        "cordova-devtool-hot-load": "latest",
+        "cordova-dg4500": "latest",
+        "cordova-dhcp-plugin": "latest",
+        "cordova-dialog-gps": "latest",
+        "cordova-digits": "latest",
+        "cordova-disable-http-cache": "latest",
+        "cordova-disable-nsurl-cache": "latest",
+        "cordova-dji": "latest",
+        "cordova-dns-plugin": "latest",
+        "cordova-dnsjava-nslookup": "latest",
+        "cordova-documentpicker": "latest",
+        "cordova-documents-provider-read-write": "latest",
+        "cordova-doubletest-plugin": "latest",
+        "cordova-dropbox-copy": "latest",
+        "cordova-dtefmobile": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-stringl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stringlapi": "latest",
+        "stringlb": "latest",
+        "stringle": "latest",
+        "stringlengthfindertesting": "latest",
+        "stringlib-nn": "latest",
+        "stringlibrarynpm": "latest",
+        "stringlike": "latest",
+        "stringlish": "latest",
+        "stringlist": "latest",
+        "stringlist-api": "latest",
+        "stringlist-regexp": "latest",
+        "stringly": "latest"
+    }
+}

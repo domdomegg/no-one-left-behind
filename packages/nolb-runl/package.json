@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-runl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "runl": "latest",
+        "runlambda": "latest",
+        "runlambdas": "latest",
+        "runlater": "latest",
+        "runlet": "latest",
+        "runlet-helloworld": "latest",
+        "runlify": "latest",
+        "runling": "latest",
+        "runling-test-plugin": "latest",
+        "runlol": "latest",
+        "runlong": "latest",
+        "runloop": "latest",
+        "runlrf": "latest"
+    }
+}

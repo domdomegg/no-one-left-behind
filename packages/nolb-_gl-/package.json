@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_gl-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gl-cli-dev/cli": "latest",
+        "@gl-cli-dev/cli-scripts": "latest",
+        "@gl-cli-dev/command": "latest",
+        "@gl-cli-dev/exec": "latest",
+        "@gl-cli-dev/get-npm-info": "latest",
+        "@gl-cli-dev/init": "latest",
+        "@gl-cli-dev/log": "latest",
+        "@gl-cli-dev/packages": "latest",
+        "@gl-cli-dev/utils": "latest",
+        "@gl-ticketing/common": "latest",
+        "@gl-widget/basic-geometry": "latest",
+        "@gl-widget/gl-widget": "latest",
+        "@gl-widget/materials": "latest",
+        "@gl-widget/obj-parser": "latest",
+        "@gl-widget/orbit-controls": "latest",
+        "@gl-widget/pass": "latest",
+        "@gl-widget/physical-shader": "latest",
+        "@gl-widget/svg-element": "latest"
+    }
+}

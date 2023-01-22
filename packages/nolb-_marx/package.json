@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_marx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@marx-dex/marx-dex-default-token-list": "latest",
+        "@marx-dex/marx-dex-lib": "latest",
+        "@marx-dex/marx-dex-sdk-core": "latest",
+        "@marx-dex/marx-dex-token-lists": "latest",
+        "@marx-dex/marx-dex-v2-core": "latest",
+        "@marx-dex/marx-dex-v2-periphery": "latest",
+        "@marx-dex/marx-dex-v2-sdk": "latest",
+        "@marxa/auth": "latest",
+        "@marxa/crud-panel": "latest",
+        "@marxa/devkit": "latest",
+        "@marxa/devkit-v9": "latest",
+        "@marxa/index": "latest",
+        "@marxa/navbar": "latest",
+        "@marxa/search": "latest",
+        "@marxa/slider": "latest",
+        "@marxa/social-share": "latest",
+        "@marxa/storage": "latest",
+        "@marxa/storage-v9": "latest",
+        "@marxian/react-scripts": "latest",
+        "@marxian/reveal-chromalay": "latest",
+        "@marxlnfcs/nest-powerdns": "latest",
+        "@marxlnfcs/powerdns": "latest",
+        "@marxus/babel-parser": "latest",
+        "@marxus/babel-plugin-transform-property-prefix-symbol": "latest"
+    }
+}

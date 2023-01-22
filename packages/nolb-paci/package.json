@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-paci",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pacific": "latest",
+        "pacific-expeditors-styleguide": "latest",
+        "pacific-time-offset": "latest",
+        "pacificator": "latest",
+        "pacifiquem": "latest",
+        "pacify": "latest",
+        "pacing-events-redis": "latest",
+        "pacino-ui": "latest",
+        "paciolifrontend": "latest",
+        "pacis_module": "latest",
+        "pacit": "latest"
+    }
+}

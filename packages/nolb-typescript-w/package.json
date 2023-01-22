@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-typescript-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typescript-walk": "latest",
+        "typescript-wasm-app": "latest",
+        "typescript-watcher": "latest",
+        "typescript-web-builder": "latest",
+        "typescript-web-storage": "latest",
+        "typescript-webhook-example": "latest",
+        "typescript-webkit": "latest",
+        "typescript-webpack": "latest",
+        "typescript-webpack-boilerplate": "latest",
+        "typescript-webpack-compatibility-plugin": "latest",
+        "typescript-webpack-importing-rollup-mjs-es-modules-demo--module1": "latest",
+        "typescript-webpack-importing-rollup-mjs-es-modules-demo--module2": "latest",
+        "typescript-webpack-plugin": "latest",
+        "typescript-webpack-uses-esm-modules-demo--module1": "latest",
+        "typescript-webpack-uses-esm-modules-demo--module2": "latest",
+        "typescript-webworker-rpc": "latest",
+        "typescript-windows": "latest",
+        "typescript-with-globs": "latest",
+        "typescript-with-implicits": "latest",
+        "typescript-word-counter": "latest",
+        "typescript-workshop": "latest",
+        "typescript-workspace-plugin": "latest",
+        "typescript-workspaces-as-packages-example-client": "latest",
+        "typescript-workspaces-as-packages-example-server": "latest",
+        "typescript-wp-graphql-composer": "latest",
+        "typescript-wrapper": "latest",
+        "typescript-ws-test-df": "latest",
+        "typescript-wtf": "latest"
+    }
+}

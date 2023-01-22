@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-tema",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tema": "latest",
+        "tema-asimed": "latest",
+        "tema-cli": "latest",
+        "tema-design": "latest",
+        "tema-design-site": "latest",
+        "tema-portinari": "latest",
+        "temail": "latest",
+        "temainfo": "latest",
+        "temainfo-angular-core": "latest",
+        "temainfo-angular-models": "latest",
+        "temaki": "latest",
+        "temaluigi": "latest",
+        "temando-carrier-gateway": "latest",
+        "temando-renderer": "latest",
+        "temando-test-npm": "latest",
+        "temant-theme": "latest",
+        "temapjs": "latest",
+        "temara": "latest",
+        "temawp": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-iph",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "iphaeton-idly-gl": "latest",
+        "iphaser-cli": "latest",
+        "iphb-logs": "latest",
+        "iphigenia-in-aulis": "latest",
+        "iphilia": "latest",
+        "iphior": "latest",
+        "iphone": "latest",
+        "iphone-availability-cli": "latest",
+        "iphone-finder": "latest",
+        "iphone-inline-video": "latest",
+        "iphone-inline-video-fork": "latest",
+        "iphone-install-overlay": "latest",
+        "iphone-png": "latest",
+        "iphone-simulation-view": "latest",
+        "iphone-x-bar": "latest",
+        "iphone-x-notch": "latest",
+        "iphone007007": "latest",
+        "iphonegap": "latest",
+        "iphong-styled-components": "latest",
+        "iphoto": "latest",
+        "iphoto-center": "latest",
+        "iphoto-event-exporter": "latest",
+        "iphp": "latest",
+        "iphttp": "latest",
+        "iphub-client": "latest",
+        "iphunter": "latest"
+    }
+}

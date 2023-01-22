@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-react-native-3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-360": "latest",
+        "react-native-3d-card": "latest",
+        "react-native-3d-model-view": "latest",
+        "react-native-3d-swiper": "latest",
+        "react-native-3dcube-navigation": "latest",
+        "react-native-3dcube-navigation-reworked": "latest",
+        "react-native-3dcube-navigation-typescript": "latest"
+    }
+}

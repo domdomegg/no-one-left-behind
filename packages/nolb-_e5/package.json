@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_e5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@e50tickets/common": "latest",
+        "@e53e04ac/node-omron-2jcie-bu": "latest"
+    }
+}

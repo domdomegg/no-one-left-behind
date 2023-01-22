@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-lye",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lye": "latest",
+        "lye-first-npm-package": "latest",
+        "lyeditor": "latest",
+        "lyef-counter": "latest",
+        "lyef-flags": "latest",
+        "lyef-full-header": "latest",
+        "lyef-pokemon": "latest",
+        "lyef-react-cli": "latest",
+        "lyef-react-component": "latest",
+        "lyef-react-counter": "latest",
+        "lyef-redux-boilerplate": "latest",
+        "lyef-switch-button": "latest",
+        "lyertia-utils": "latest",
+        "lyerwang": "latest",
+        "lyex": "latest"
+    }
+}

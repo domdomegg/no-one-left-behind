@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_unil",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@uniland-ui/anatomy": "latest",
+        "@uniland-ui/composables": "latest",
+        "@uniland-ui/styled": "latest",
+        "@uniland-ui/styled-system": "latest",
+        "@uniland-ui/system": "latest",
+        "@uniland-ui/theme": "latest",
+        "@uniland-ui/theme-tools": "latest",
+        "@uniland-ui/u-color-mode": "latest",
+        "@uniland-ui/u-flex": "latest",
+        "@uniland-ui/u-form-control": "latest",
+        "@uniland-ui/u-icon": "latest",
+        "@uniland-ui/u-layout": "latest",
+        "@uniland-ui/u-reset": "latest",
+        "@uniland-ui/u-theme-provider": "latest",
+        "@uniland-ui/utils": "latest",
+        "@uniland-ui/vue": "latest",
+        "@uniland-ui/vue-auto-import": "latest",
+        "@unilog/date-picker": "latest",
+        "@unilogin/commons": "latest",
+        "@unilogin/contracts": "latest",
+        "@unilogin/ops": "latest",
+        "@unilogin/provider": "latest",
+        "@unilogin/react": "latest",
+        "@unilogin/relayer": "latest",
+        "@unilogin/sdk": "latest",
+        "@unilogin/web3": "latest"
+    }
+}

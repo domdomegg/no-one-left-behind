@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_cls",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@clsdcltask/dclauth": "latest",
+        "@clsnazel/lotide": "latest",
+        "@clstickets/common": "latest",
+        "@clsx/react": "latest"
+    }
+}

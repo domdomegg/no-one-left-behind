@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-abv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "abv": "latest",
+        "abv-agent": "latest",
+        "abv-core": "latest",
+        "abv-events": "latest",
+        "abv-fetch": "latest",
+        "abv-pack": "latest",
+        "abv-parser": "latest",
+        "abv-spa": "latest",
+        "abv-ts": "latest",
+        "abv-vfs": "latest",
+        "abv-wallet": "latest",
+        "abv1": "latest",
+        "abvgd": "latest"
+    }
+}

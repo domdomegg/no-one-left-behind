@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-markt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "markt": "latest",
+        "marktable": "latest",
+        "marktail": "latest",
+        "markteller": "latest",
+        "marktera-squarespace": "latest",
+        "marktest": "latest",
+        "marktestp": "latest",
+        "marktex": "latest",
+        "marktext-editor": "latest",
+        "marktguru": "latest",
+        "marktguru.at": "latest",
+        "markthat": "latest",
+        "markthat-cli": "latest",
+        "markthere": "latest",
+        "marktiddly": "latest",
+        "markting-ui": "latest",
+        "markto": "latest",
+        "marktop": "latest",
+        "marktown": "latest",
+        "marktplaats-js": "latest",
+        "marktree": "latest",
+        "marktwain": "latest",
+        "markty": "latest",
+        "markty-csv": "latest",
+        "markty-toml": "latest",
+        "marktype": "latest"
+    }
+}

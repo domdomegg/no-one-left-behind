@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_ior",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@iore8655/react-bus": "latest",
+        "@ioredis/as-callback": "latest",
+        "@ioredis/commands": "latest",
+        "@ioredis/interface-generator": "latest",
+        "@iori_/iori-test": "latest",
+        "@iorn/hello-wasm": "latest",
+        "@iortho/matrix2d": "latest"
+    }
+}

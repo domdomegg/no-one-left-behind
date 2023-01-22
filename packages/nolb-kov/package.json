@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-kov",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "kov": "latest",
+        "kov-adal-angular5": "latest",
+        "kov-base": "latest",
+        "kov-loader": "latest",
+        "kov-selectpage": "latest",
+        "kov-util": "latest",
+        "kova": "latest",
+        "kova.js": "latest",
+        "kovacs": "latest",
+        "kovai": "latest",
+        "kovalsky": "latest",
+        "kovan-hardfork-whitelist": "latest",
+        "kovarik-glyphicons-bootstrap2": "latest",
+        "kovarp-jquery-cookiebar": "latest",
+        "kovarp-utilities": "latest",
+        "kovatoch-frame-print": "latest",
+        "kovaxt": "latest",
+        "kovendi-form": "latest",
+        "kover": "latest",
+        "kover_gridwise_module": "latest",
+        "kover_web_module": "latest",
+        "koverse-thrift": "latest",
+        "kovi": "latest",
+        "kovid": "latest",
+        "kovjonas": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_auc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@auc-ghent/canvas-lms-all-courses-terms-tabs-plugin": "latest",
+        "@auc-ghent/canvas-lms-flex-layout-plugin": "latest",
+        "@auc-ghent/canvas-lms-rich-content-editor-enhancements-plugin": "latest",
+        "@aucguy/api-intercept": "latest",
+        "@aucosy/cra-template": "latest",
+        "@aucsys/react-image-gallery": "latest",
+        "@aucsys/redux-ez": "latest",
+        "@auctionhut/common": "latest",
+        "@auctionify/smart-contract": "latest",
+        "@auctria/auctria-api": "latest",
+        "@auctumnus/polka": "latest",
+        "@auctumnus/xsampa": "latest"
+    }
+}

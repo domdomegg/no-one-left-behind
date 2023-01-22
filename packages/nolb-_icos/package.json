@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_icos",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@icosense/connect": "latest",
+        "@icosense/nodered-contrib-sms77": "latest",
+        "@icoset/icoset": "latest",
+        "@icoset/icoset-webpack-plugin": "latest",
+        "@icoset/preset-devicon": "latest",
+        "@icoset/preset-evil-icons": "latest",
+        "@icoset/preset-feather-icons": "latest",
+        "@icoset/preset-mdi": "latest",
+        "@icoset/preset-simple-icons": "latest"
+    }
+}

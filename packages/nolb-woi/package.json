@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-woi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "woi": "latest",
+        "woiad-page": "latest",
+        "woiasu": "latest",
+        "woiehrwu": "latest",
+        "woisk-editor": "latest",
+        "woix-screen": "latest",
+        "woix-zrender": "latest"
+    }
+}

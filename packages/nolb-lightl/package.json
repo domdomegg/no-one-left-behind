@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-lightl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lightlayer": "latest",
+        "lightlevel": "latest",
+        "lightlib.js": "latest",
+        "lightlink": "latest",
+        "lightload": "latest",
+        "lightlog": "latest",
+        "lightlogger": "latest",
+        "lightlook": "latest",
+        "lightly": "latest",
+        "lightly-design": "latest",
+        "lightly-react": "latest",
+        "lightly-test": "latest",
+        "lightlytics-publisher-core": "latest"
+    }
+}

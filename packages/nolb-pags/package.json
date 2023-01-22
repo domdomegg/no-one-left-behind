@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-pags",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pagseguro": "latest",
+        "pagseguro-api": "latest",
+        "pagseguro-checkout": "latest",
+        "pagseguro-checkout-ts": "latest",
+        "pagseguro-node": "latest",
+        "pagseguro-nodejs": "latest",
+        "pagseguro-nodejs-lib": "latest",
+        "pagseguro-nodets": "latest",
+        "pagseguro-payment": "latest",
+        "pagseguro-pix": "latest",
+        "pagseguro-react": "latest",
+        "pagseguro-react-signatures": "latest",
+        "pagseguro-that-works": "latest",
+        "pagseguro-user-session": "latest",
+        "pagseguro-utils": "latest",
+        "pagseguro.js": "latest",
+        "pagsfs": "latest",
+        "pagsi": "latest"
+    }
+}

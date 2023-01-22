@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-objc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "objc": "latest",
+        "objc-dep": "latest",
+        "objc2swift": "latest",
+        "objcast": "latest",
+        "objcheck": "latest",
+        "objclone": "latest",
+        "objconf": "latest",
+        "objcov": "latest",
+        "objcsv.ahk": "latest",
+        "objct": "latest",
+        "objctfy": "latest"
+    }
+}

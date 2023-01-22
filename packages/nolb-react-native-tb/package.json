@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-react-native-tb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-tb": "latest",
+        "react-native-tbase": "latest",
+        "react-native-tbb-bluetooth": "latest",
+        "react-native-tbd": "latest",
+        "react-native-tbunion": "latest"
+    }
+}

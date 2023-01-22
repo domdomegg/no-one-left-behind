@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-smarto",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smartobject": "latest",
+        "smartobject-js": "latest",
+        "smartobject-watchify": "latest",
+        "smartofus": "latest",
+        "smartone": "latest",
+        "smartools": "latest",
+        "smartops-ui-core": "latest",
+        "smartoptim": "latest",
+        "smartos-image-server": "latest",
+        "smartos-tools": "latest",
+        "smartour": "latest"
+    }
+}

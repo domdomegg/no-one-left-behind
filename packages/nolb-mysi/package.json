@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-mysi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mysignup": "latest",
+        "mysimple-multi-select": "latest",
+        "mysimple123mathlib": "latest",
+        "mysimplecalculator": "latest",
+        "mysimplelibapp": "latest",
+        "mysimplelogin": "latest",
+        "mysimplenpmtest": "latest",
+        "mysimpleql": "latest",
+        "mysimplertestfile": "latest",
+        "mysimplertestfile-test": "latest",
+        "mysimpleui": "latest",
+        "mysis": "latest",
+        "mysite": "latest",
+        "mysitusheader": "latest"
+    }
+}

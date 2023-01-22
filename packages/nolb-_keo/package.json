@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_keo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@keokilee/react-native-mock": "latest",
+        "@keokilee/recompose-relay": "latest",
+        "@keokilee/wasm-add": "latest",
+        "@keonik/how-to-publish": "latest",
+        "@keops-society/magnet-config": "latest",
+        "@keops-society/magnet-routers": "latest",
+        "@keops-society/sass-compiler": "latest",
+        "@keoz/common": "latest"
+    }
+}

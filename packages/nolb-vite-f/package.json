@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-vite-f",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vite-fait": "latest",
+        "vite-federation": "latest",
+        "vite-file-cache-plugin": "latest",
+        "vite-first-plugin": "latest",
+        "vite-fix-syntax": "latest",
+        "vite-flow-fcl": "latest",
+        "vite-fontmin": "latest",
+        "vite-fork": "latest",
+        "vite-form": "latest",
+        "vite-form-data": "latest",
+        "vite-fs": "latest",
+        "vite-fvtt-module-dev": "latest"
+    }
+}

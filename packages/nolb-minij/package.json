@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-minij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "miniJsonp": "latest",
+        "minijack": "latest",
+        "minijanus": "latest",
+        "minijanus-ts": "latest",
+        "minijasminenode": "latest",
+        "minijasminenode-relaunchable": "latest",
+        "minijasminenode2": "latest",
+        "minijasminenode23": "latest",
+        "minijasminenodewrap": "latest",
+        "minijest": "latest",
+        "minijoi": "latest",
+        "minijoy-game-dev": "latest",
+        "minijoy-tinypng": "latest",
+        "minijs": "latest",
+        "minijs-lzq": "latest",
+        "minijsonfile": "latest"
+    }
+}

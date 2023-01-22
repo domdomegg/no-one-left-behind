@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-web-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "web-x-component-progress": "latest",
+        "web-xc-av": "latest",
+        "web-xdc": "latest",
+        "web-xeyes": "latest",
+        "web-xiaotao23": "latest",
+        "web-xiu": "latest",
+        "web-xml-crypto": "latest",
+        "web-xxkj-core": "latest",
+        "web-xxkj-open": "latest",
+        "web-xxz": "latest"
+    }
+}

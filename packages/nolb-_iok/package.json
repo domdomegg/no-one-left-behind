@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_iok",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@iok97531/h-flow": "latest",
+        "@iok97531/module-test": "latest",
+        "@iok97531/smui": "latest",
+        "@iokfine/dappeteer": "latest",
+        "@ioki/node-ts-cache": "latest",
+        "@ioki/node-ts-cache-storage-elasticsearch": "latest",
+        "@ioki/node-ts-cache-storage-ioredis": "latest",
+        "@ioki/node-ts-cache-storage-memory": "latest",
+        "@ioki/node-ts-cache-storage-node-fs": "latest",
+        "@ioki/node-ts-cache-storage-pg": "latest",
+        "@ioki/transitland-gql-client": "latest",
+        "@iokoko/local-client": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-node-red-a",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-account-balance": "latest",
+        "node-red-addons": "latest",
+        "node-red-admin": "latest",
+        "node-red-alexa-home-web": "latest",
+        "node-red-alphabet": "latest",
+        "node-red-alterdata-bimer": "latest",
+        "node-red-api-generique": "latest",
+        "node-red-api-storage": "latest",
+        "node-red-app": "latest",
+        "node-red-appwrite": "latest",
+        "node-red-aquila": "latest",
+        "node-red-arcgis-rest": "latest",
+        "node-red-asterisk-ami-manager": "latest",
+        "node-red-audio-out": "latest",
+        "node-red-auth-contrib-bluemix": "latest",
+        "node-red-auth-contrib-ldap": "latest",
+        "node-red-auth-github": "latest",
+        "node-red-auth-gitlab2": "latest",
+        "node-red-auth-pam": "latest",
+        "node-red-auth-twitter": "latest",
+        "node-red-aws-cognito": "latest",
+        "node-red-aws-tools": "latest",
+        "node-red-axios": "latest",
+        "node-red-azure-iot-hub": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-interd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "interdb": "latest",
+        "interdependent": "latest",
+        "interdependent-event-emitter": "latest",
+        "interdict": "latest",
+        "interdimensional": "latest",
+        "interdrop": "latest"
+    }
+}

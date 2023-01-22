@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-react-native-1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-168chat": "latest",
+        "react-native-17yin": "latest",
+        "react-native-1app": "latest",
+        "react-native-1app-theme": "latest",
+        "react-native-1d-barcodes": "latest",
+        "react-native-1ziton-bdidentifi": "latest"
+    }
+}

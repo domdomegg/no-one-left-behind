@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_ale-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ale-de/cirrus-node": "latest",
+        "@ale-de/misep-server": "latest",
+        "@ale-de/misep-service-arangodb": "latest",
+        "@ale-de/miseplatform-service-arangodb": "latest",
+        "@ale-de/miseplatform-service-bot": "latest",
+        "@ale-de/miseplatform-service-pm2": "latest",
+        "@ale-de/miseplatform-service-rainbow": "latest",
+        "@ale-de/nodered-contrib-misep": "latest",
+        "@ale-de/ov_cirrus_rest_api": "latest",
+        "@ale-de/rainbowservice": "latest",
+        "@ale-ignite-ui/docs": "latest",
+        "@ale-ignite-ui/react": "latest",
+        "@ale-ignite-ui/tokens": "latest",
+        "@ale-rainbow/agi-node": "latest",
+        "@ale-rainbow/i18n": "latest",
+        "@ale-rainbow/rainbow-notification": "latest",
+        "@ale-rainbow/syncho": "latest"
+    }
+}

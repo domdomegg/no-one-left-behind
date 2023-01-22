@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-svelte-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svelte-javascript-tutorials": "latest",
+        "svelte-jcc": "latest",
+        "svelte-jest": "latest",
+        "svelte-jester": "latest",
+        "svelte-jester-mock": "latest",
+        "svelte-jester-quokka": "latest",
+        "svelte-jotai": "latest",
+        "svelte-js": "latest",
+        "svelte-json-tree": "latest",
+        "svelte-json-tree-auto": "latest",
+        "svelte-json-tree-view": "latest",
+        "svelte-jsoneditor": "latest",
+        "svelte-jsoneditor-plus": "latest",
+        "svelte-jsoneditor-tao": "latest",
+        "svelte-jspanel4": "latest",
+        "svelte-jss": "latest",
+        "svelte-jsx": "latest",
+        "svelte-jui": "latest",
+        "svelte-juxtapose": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_ngl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ngld/canvas": "latest",
+        "@ngld/icon": "latest",
+        "@ngld/pan-zoom": "latest",
+        "@ngld/transition": "latest",
+        "@nglib/config": "latest",
+        "@nglibrary/ngx-choosy": "latest",
+        "@nglibrary/utils": "latest",
+        "@nglogger/console": "latest",
+        "@nglogger/core": "latest",
+        "@nglogger/raven": "latest",
+        "@nglovers/angular-templates": "latest",
+        "@nglrx/pipes": "latest",
+        "@nglx/cfg": "latest"
+    }
+}

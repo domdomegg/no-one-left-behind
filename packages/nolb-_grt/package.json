@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_grt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@grticketing/common": "latest",
+        "@grtickets/common": "latest",
+        "@grtjn/ml-visjs-graph-js": "latest",
+        "@grtt0/wadk": "latest"
+    }
+}

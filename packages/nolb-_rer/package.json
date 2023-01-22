@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_rer",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reredux/reredux": "latest",
+        "@reref/cli": "latest",
+        "@reref/core": "latest",
+        "@reref/dev": "latest",
+        "@rererere/react-bootstrap": "latest",
+        "@rero/ng-core": "latest",
+        "@rero/rero-ils-ui": "latest",
+        "@rero/sonar-ui": "latest",
+        "@reroute/browser": "latest",
+        "@reroute/core": "latest",
+        "@rerr/microfrontends": "latest",
+        "@rerr/ui": "latest"
+    }
+}

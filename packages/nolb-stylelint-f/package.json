@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-stylelint-f",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylelint-find-new-rules": "latest",
+        "stylelint-find-rules": "latest",
+        "stylelint-force-app-name-prefix": "latest",
+        "stylelint-force-selector-name-prefix": "latest",
+        "stylelint-formatter-codeclimate": "latest",
+        "stylelint-formatter-compact": "latest",
+        "stylelint-formatter-github": "latest",
+        "stylelint-formatter-github-annotate": "latest",
+        "stylelint-formatter-github-checks": "latest",
+        "stylelint-formatter-html": "latest",
+        "stylelint-formatter-markdown": "latest",
+        "stylelint-formatter-pretty": "latest",
+        "stylelint-formatter-relative-junit": "latest",
+        "stylelint-formatter-simplest": "latest",
+        "stylelint-formatter-stats": "latest",
+        "stylelint-formatter-table": "latest",
+        "stylelint-formatter-utils": "latest",
+        "stylelint-formatter-vsts": "latest",
+        "stylelint-formatter-xunit": "latest",
+        "stylelint-formatter-yasf": "latest",
+        "stylelint-formatter-yhw": "latest",
+        "stylelint-formatters-html": "latest",
+        "stylelint-founder": "latest",
+        "stylelint-function-url-local-root": "latest",
+        "stylelint-function-url-no-domain": "latest"
+    }
+}

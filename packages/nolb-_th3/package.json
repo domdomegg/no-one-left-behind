@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_th3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@th3-s1lenc3/gh-colors": "latest",
+        "@th3holdingssdnbhd/th3-chat-sdk-v1": "latest",
+        "@th3rdwave/bundlesize": "latest",
+        "@th3rdwave/hermes-engine": "latest",
+        "@th3rdwave/image-loader": "latest",
+        "@th3rdwave/pour": "latest",
+        "@th3rdwave/react-native": "latest",
+        "@th3rdwave/react-native-codegen": "latest",
+        "@th3rdwave/react-native-draggable-grid": "latest",
+        "@th3rdwave/react-native-incremental": "latest",
+        "@th3rdwave/react-native-keyboard-aware-scroll-view": "latest",
+        "@th3rdwave/react-navigation-bottom-sheet": "latest",
+        "@th3rdwave/relay-compiler-language-typescript": "latest",
+        "@th3rdwave/safe-area-view": "latest",
+        "@th3rdwave/web-image": "latest",
+        "@th3rdwave/web-image-loader": "latest",
+        "@th3rius/csprng": "latest",
+        "@th3rius/ibis": "latest",
+        "@th3s4mur41/release-config": "latest",
+        "@th3shadowbroker/spigotmc.js": "latest",
+        "@th3unkn0wn/typeorm": "latest",
+        "@th3wall/streak-counter": "latest"
+    }
+}

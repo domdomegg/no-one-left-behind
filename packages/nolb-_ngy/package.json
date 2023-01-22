@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_ngy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ngyuki/browser-sync-webpack-plugin": "latest",
+        "@ngyv/object-utils": "latest",
+        "@ngyv/prop-utils": "latest",
+        "@ngyv/re-modelr": "latest"
+    }
+}

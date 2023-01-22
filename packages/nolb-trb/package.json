@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-trb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "trb": "latest",
+        "trb-apollo-link-renew": "latest",
+        "trb-calendar": "latest",
+        "trb-emoji-list": "latest",
+        "trb-luma-shades": "latest",
+        "trb-modal": "latest",
+        "trb-tailwindcss": "latest",
+        "trbel": "latest",
+        "trbg": "latest",
+        "trbible": "latest",
+        "trbirthday-card": "latest",
+        "trbl": "latest",
+        "trbl-evergreen": "latest",
+        "trbl-evergreen-aws": "latest",
+        "trbl-evergreen-consul": "latest",
+        "trbl-evergreen-mongo": "latest",
+        "trboss": "latest",
+        "trbot-pubuim": "latest"
+    }
+}

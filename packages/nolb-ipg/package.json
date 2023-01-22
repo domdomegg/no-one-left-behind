@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-ipg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ipg-node": "latest",
+        "ipg-transaction-id": "latest",
+        "ipg-typ0": "latest",
+        "ipg-typ2": "latest",
+        "ipgen": "latest",
+        "ipgeo": "latest",
+        "ipgeo-test": "latest",
+        "ipgeo-test-sdk": "latest",
+        "ipgeo-ts-sdk": "latest",
+        "ipgeo-typescript-test-sdk": "latest",
+        "ipgeobase": "latest",
+        "ipgeoblock-fixed": "latest",
+        "ipgeolocation": "latest",
+        "ipgeolocation-bd": "latest",
+        "ipgeolocation-io": "latest",
+        "ipgeolocation-ip-test": "latest",
+        "ipgeolocation-te": "latest",
+        "ipgeolocation-test": "latest",
+        "ipgeolocation-test-sdk": "latest",
+        "ipget": "latest",
+        "ipgmail": "latest",
+        "ipgs": "latest"
+    }
+}

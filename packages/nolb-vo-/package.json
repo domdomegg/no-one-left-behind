@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-vo-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vo-cli": "latest",
+        "vo-coffee": "latest",
+        "vo-component-hs": "latest",
+        "vo-component-lib": "latest",
+        "vo-components": "latest",
+        "vo-core": "latest",
+        "vo-daterangepicker": "latest",
+        "vo-element": "latest",
+        "vo-front-cli": "latest",
+        "vo-pages": "latest",
+        "vo-storage-control": "latest",
+        "vo-task": "latest",
+        "vo-turn-page": "latest",
+        "vo-ui": "latest",
+        "vo-unpkg": "latest",
+        "vo-verdaccio": "latest",
+        "vo-verdaccio-ui-theme": "latest"
+    }
+}

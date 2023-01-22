@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-j5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "j5": "latest",
+        "j5-4d-goldelox": "latest",
+        "j5-cli": "latest",
+        "j5-delta": "latest",
+        "j5-ds-touch": "latest",
+        "j5-io": "latest",
+        "j5-io-types": "latest",
+        "j5-lvserial": "latest",
+        "j5-plugin": "latest",
+        "j5-rc-receiver": "latest",
+        "j5-songs": "latest",
+        "j5-sparkfun-weather-shield": "latest",
+        "j58": "latest",
+        "j5e": "latest",
+        "j5ik": "latest",
+        "j5js": "latest"
+    }
+}

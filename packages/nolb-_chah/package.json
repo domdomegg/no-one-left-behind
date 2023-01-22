@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_chah",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chaharshubhamsingh/ckeditor5-custom-build": "latest",
+        "@chaharshubhamsingh/ckeditor5-custom-build-inline": "latest",
+        "@chaharshubhamsingh/dir-scanner": "latest",
+        "@chaharshubhamsingh/dirscanner": "latest"
+    }
+}

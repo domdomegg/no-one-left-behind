@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-numf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "numfin-components": "latest",
+        "numfin-geometry": "latest",
+        "numfin-mongoose": "latest",
+        "numfin-mongoose-types": "latest",
+        "numfin-sequelize": "latest",
+        "numfin-sticky": "latest",
+        "numfin-vue-env": "latest",
+        "numfmt": "latest",
+        "numformat.js": "latest",
+        "numformatterx": "latest",
+        "numfun": "latest"
+    }
+}

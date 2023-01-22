@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-scb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "scb": "latest",
+        "scb-ame2ee": "latest",
+        "scb-api": "latest",
+        "scb-api-wrapper": "latest",
+        "scb-components-lib": "latest",
+        "scb-diagnostics": "latest",
+        "scb-form-components": "latest",
+        "scb-graylog": "latest",
+        "scb-zds": "latest",
+        "scb2promise": "latest",
+        "scb_wrapper": "latest"
+    }
+}

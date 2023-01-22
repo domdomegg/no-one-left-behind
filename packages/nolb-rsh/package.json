@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-rsh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rsh": "latest",
+        "rsh-ptest": "latest",
+        "rsh-react-template": "latest",
+        "rsh-react-ts-template": "latest",
+        "rsh-ws": "latest",
+        "rshah-lib": "latest",
+        "rshake": "latest",
+        "rsharmafirst": "latest",
+        "rsharp-cli": "latest",
+        "rshell": "latest",
+        "rshelljs": "latest",
+        "rshetty-package-node": "latest",
+        "rshetty-package-node-js": "latest",
+        "rshetty-sample-node": "latest",
+        "rship": "latest",
+        "rshrt": "latest",
+        "rshtml": "latest",
+        "rshtml-express": "latest"
+    }
+}

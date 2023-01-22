@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-fastr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fastr": "latest",
+        "fastrack": "latest",
+        "fastrand": "latest",
+        "fastrandom": "latest",
+        "fastrange": "latest",
+        "fastrealpath": "latest",
+        "fastrecord": "latest",
+        "fastrecorder": "latest",
+        "fastred": "latest",
+        "fastred-bem": "latest",
+        "fastredis": "latest",
+        "fastreg": "latest",
+        "fastrep": "latest",
+        "fastret": "latest",
+        "fastret-cli": "latest",
+        "fastret-framework": "latest",
+        "fastro": "latest",
+        "fastro-cli": "latest",
+        "fastroll": "latest",
+        "fastrpc": "latest",
+        "fastrx": "latest"
+    }
+}

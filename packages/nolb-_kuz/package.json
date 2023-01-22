@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_kuz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kuzanatoliorg/algorithms": "latest",
+        "@kuzanatoliorg/react-async-image-loader": "latest",
+        "@kuzanatoliorg/testing-library-react-utils": "latest",
+        "@kuzanatoliorg/testing-library-react_utils": "latest",
+        "@kuzirashi/safe-deployments": "latest",
+        "@kuzirashi/test-provider": "latest",
+        "@kuzkov/test-package": "latest",
+        "@kuzminyhsa/timers-deploy": "latest",
+        "@kuzmycz/react-cache": "latest",
+        "@kuzmycz/react-cache-tools": "latest",
+        "@kuzmycz/react-form-ula": "latest",
+        "@kuznetsovgm/btncounter": "latest",
+        "@kuzorov/constitute": "latest",
+        "@kuzorov/json-rpc-dispatcher": "latest",
+        "@kuzorov/smoothscroll-polyfill": "latest",
+        "@kuzorov/webstorage-fallback": "latest",
+        "@kuzumochi/hello-wasm": "latest"
+    }
+}

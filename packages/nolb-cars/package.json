@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-cars",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cars": "latest",
+        "cars-19": "latest",
+        "cars-generator": "latest",
+        "cars-management": "latest",
+        "cars-parts-services-api": "latest",
+        "carserviceui": "latest",
+        "carsite": "latest",
+        "carsmile-car": "latest",
+        "carsmile-car-binding": "latest",
+        "carsmile-document-binding": "latest",
+        "carsmile-graphql": "latest",
+        "carsmile-media-binding": "latest",
+        "carsmile-order-binding": "latest",
+        "carsmile-user-binding": "latest",
+        "carson": "latest",
+        "carsond-website-footer": "latest",
+        "carspeed": "latest",
+        "carsten": "latest",
+        "carsten-express-plugin": "latest",
+        "carsten-ichs": "latest",
+        "carsten62737823237833": "latest",
+        "carsten67378232378": "latest",
+        "carsten6737823237833": "latest",
+        "carsxe-api": "latest"
+    }
+}

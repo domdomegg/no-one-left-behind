@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_trk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trkm/html-form-apply-ts": "latest",
+        "@trkm/html-support-ts": "latest",
+        "@trkm/html-types-ts": "latest",
+        "@trkm/http-context": "latest",
+        "@trkm/http-context-ts": "latest",
+        "@trkm/http-cookies-ts": "latest",
+        "@trkm/http-session-deepmerge-ts": "latest",
+        "@trkm/http-url-ts": "latest",
+        "@trkm/http-uuid-generate-v4-ts": "latest",
+        "@trkm/library-ts": "latest",
+        "@trkm/library-web": "latest",
+        "@trkm/object-json-path-ts": "latest",
+        "@trkm/tracking-default-ts": "latest",
+        "@trkm/types": "latest"
+    }
+}

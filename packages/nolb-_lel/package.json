@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_lel",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lelandmiller/seamless-immutable": "latest",
+        "@lelberto/query-hook": "latest",
+        "@lelishipem/crypto_utils": "latest",
+        "@lelouchwe/nuxt-svg": "latest",
+        "@leluxnet/xbot": "latest"
+    }
+}

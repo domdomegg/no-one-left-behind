@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-grb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grb": "latest",
+        "grb-artnetlightshow": "latest",
+        "grbl": "latest",
+        "grbl-manager": "latest",
+        "grbl-parser": "latest",
+        "grbl-simulator": "latest",
+        "grbl-stream": "latest",
+        "grblhal-parser": "latest",
+        "grbljs": "latest",
+        "grbnpmtestdemo": "latest",
+        "grbpf": "latest"
+    }
+}

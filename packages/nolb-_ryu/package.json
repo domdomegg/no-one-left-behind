@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_ryu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryube/i18n-sheets-to-json": "latest",
+        "@ryubro/redux-action-creator": "latest",
+        "@ryukato79/link-developers-sdk": "latest",
+        "@ryukobot/discord-akairo": "latest",
+        "@ryukobot/erlpack": "latest",
+        "@ryukobot/paginationembed": "latest",
+        "@ryumiya/argparser": "latest",
+        "@ryumiya/keymanager": "latest",
+        "@ryumiya/serial": "latest",
+        "@ryunaq/tabs": "latest",
+        "@ryunen344/apkstats-js": "latest",
+        "@ryunen344/danger-plugin-jacoco": "latest",
+        "@ryunosuke/assetter": "latest",
+        "@ryuring/goodbye": "latest",
+        "@ryuring/hello": "latest",
+        "@ryusei/code": "latest",
+        "@ryusei/light": "latest",
+        "@ryuseijs/ryusei-light": "latest",
+        "@ryusenpai/react-audio-visualizer": "latest",
+        "@ryuuji3/react-mask-hook": "latest",
+        "@ryuuji3/use-callback-after-render": "latest",
+        "@ryuusei/cra-template-typescript-esl-sc-mui": "latest",
+        "@ryuusei/cra-template-typescript-eslint": "latest",
+        "@ryuusei/cra-template-typescript-eslint-scss": "latest",
+        "@ryuusi/hello-wasm": "latest",
+        "@ryuuto829/eslint-config-with-prettier": "latest"
+    }
+}

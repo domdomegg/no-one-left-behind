@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-h8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "h8": "latest",
+        "h8-reporter": "latest",
+        "h8-restriction": "latest",
+        "h8-ui-element": "latest",
+        "h8-ui-elements": "latest",
+        "h8-ui-elements-dropdown": "latest",
+        "h8-ui-lib-useronboarding": "latest",
+        "h886166": "latest",
+        "h8_mail": "latest",
+        "h8h-element-erp-theme": "latest",
+        "h8h-vue-elementui-extend": "latest",
+        "h8helper": "latest",
+        "h8k-components": "latest",
+        "h8k-design": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-fasp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fasp-audio-receiver": "latest",
+        "fasp-client": "latest",
+        "fasp-client-cli": "latest",
+        "fasp-demo-web": "latest",
+        "fasp-qk": "latest",
+        "fasp-receiver": "latest",
+        "fasp-server": "latest",
+        "fasp-server-cli": "latest",
+        "fasp-tools-demo": "latest",
+        "fasp-tools-toolbar": "latest",
+        "fasp-web-client": "latest",
+        "faspbp-parser": "latest"
+    }
+}

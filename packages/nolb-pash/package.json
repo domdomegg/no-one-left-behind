@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-pash",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pash": "latest",
+        "pasha": "latest",
+        "pasha-kit": "latest",
+        "pasha-learning-js": "latest",
+        "pasha-life-folder-structure": "latest",
+        "pashaguzu": "latest",
+        "pashaish-helpers": "latest",
+        "pashaish-sender-api": "latest",
+        "pashaish-sender-api-helper": "latest",
+        "pashalib": "latest",
+        "pashalib-react": "latest",
+        "pasharp": "latest",
+        "pashmak": "latest",
+        "pashmak-frame-print": "latest",
+        "pasho4components": "latest",
+        "pashua": "latest"
+    }
+}

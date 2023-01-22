@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-retype",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "retype": "latest",
+        "@zalastax/nolb-retype_": "latest",
+        "@zalastax/nolb-retypea": "latest",
+        "@zalastax/nolb-retyped": "latest",
+        "@zalastax/nolb-retypej": "latest",
+        "@zalastax/nolb-retypes": "latest",
+        "@zalastax/nolb-retypew": "latest"
+    }
+}

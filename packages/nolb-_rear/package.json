@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_rear",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@rearc/noop-cli": "latest",
+        "@rearc/noop-discovery": "latest",
+        "@rearc/noop-log": "latest",
+        "@rearden/graphql-playground-react": "latest",
+        "@rearguard/batch": "latest",
+        "@rearguard/is-bot": "latest",
+        "@rearguard/is-burner": "latest",
+        "@rearguard/is-email": "latest",
+        "@rearm/ctx": "latest"
+    }
+}

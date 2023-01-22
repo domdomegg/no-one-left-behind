@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-discord-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discord-kaios-backend": "latest",
+        "discord-kenway-handler": "latest",
+        "discord-kobito": "latest",
+        "discord-kommando.js": "latest",
+        "discord-kommando.js-plugins": "latest",
+        "discord-konstantin-api-client": "latest"
+    }
+}

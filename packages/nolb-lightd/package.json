@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-lightd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lightd": "latest",
+        "lightd-mobile": "latest",
+        "lightdash": "latest",
+        "lightdash-cli": "latest",
+        "lightdb": "latest",
+        "lightdemo": "latest",
+        "lightdiff": "latest",
+        "lightdm-webkit2-typescript": "latest",
+        "lightdom": "latest",
+        "lightdown": "latest"
+    }
+}

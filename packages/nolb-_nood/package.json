@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_nood",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@noodl/cloudservices-sdk": "latest",
+        "@noodl/noodl-cli": "latest",
+        "@noodl/noodl-sdk": "latest",
+        "@noodlep/core": "latest",
+        "@noodlep/my-test-package": "latest",
+        "@noodlep/ui": "latest",
+        "@noodletired/rest-ts-axios": "latest",
+        "@noodletired/rest-ts-core": "latest",
+        "@noodletired/rest-ts-express": "latest",
+        "@noodlewrecker7/logger": "latest",
+        "@noodlex/addic7ed-api": "latest",
+        "@noodlex/eztv": "latest",
+        "@noodlex/node-kodi-fix": "latest",
+        "@noodlex/node-torrent9-api": "latest",
+        "@noodlio/stitches": "latest",
+        "@noods/react": "latest",
+        "@noods/vue": "latest"
+    }
+}

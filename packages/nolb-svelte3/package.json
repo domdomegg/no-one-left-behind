@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-svelte3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svelte3-app": "latest",
+        "svelte3-autocomplete": "latest",
+        "svelte3-redux": "latest",
+        "svelte3-router": "latest",
+        "svelte3_storybook": "latest",
+        "svelte3d": "latest"
+    }
+}

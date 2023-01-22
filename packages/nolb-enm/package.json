@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-enm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "enm": "latest",
+        "enm-cli": "latest",
+        "enma": "latest",
+        "enma-cli": "latest",
+        "enmabrito-frame-print": "latest",
+        "enmail": "latest",
+        "enmap": "latest",
+        "enmap-json-sync": "latest",
+        "enmap-level": "latest",
+        "enmap-memory": "latest",
+        "enmap-mongo": "latest",
+        "enmap-pgsql": "latest",
+        "enmap-rethink": "latest",
+        "enmap-sqlite": "latest",
+        "enmap5": "latest",
+        "enmapi": "latest",
+        "enmasse": "latest",
+        "enmeaten": "latest",
+        "enmeti": "latest",
+        "enmity": "latest",
+        "enml-js": "latest",
+        "enml2html": "latest",
+        "enml2text": "latest",
+        "enmore-element-plugins": "latest",
+        "enmotech-ui": "latest",
+        "enms-module": "latest"
+    }
+}

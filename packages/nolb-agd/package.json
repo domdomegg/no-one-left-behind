@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-agd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "agd": "latest",
+        "agda": "latest",
+        "agda-explore": "latest",
+        "agda-libjs": "latest",
+        "agda-nplib": "latest",
+        "agda-parametricity": "latest",
+        "agda-protocols": "latest",
+        "agdata001": "latest",
+        "agdelis-first-module": "latest",
+        "agdev": "latest",
+        "agdevcamp-js-footer": "latest",
+        "agdlebasr": "latest",
+        "agdt-java-io": "latest",
+        "agdt-java-vector3d": "latest"
+    }
+}

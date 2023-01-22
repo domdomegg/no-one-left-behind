@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_clos",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@closeally/immer-yjs": "latest",
+        "@closeio/autolinker": "latest",
+        "@closeio/backbone-testing-library": "latest",
+        "@closeio/smart-tooltip-delay": "latest",
+        "@closeio/use-abortable-effect": "latest",
+        "@closeio/use-infinite-scroll": "latest",
+        "@closeio/use-is-truncated": "latest",
+        "@closeman/ywcli": "latest",
+        "@closerplatform/artichoke": "latest",
+        "@closerplatform/closer-sdk": "latest",
+        "@closerplatform/spinner": "latest",
+        "@closerplatform/spinner-auth": "latest",
+        "@closerplatform/spinner-openapi": "latest",
+        "@closerplatform/wheelhouse": "latest",
+        "@closet-design-system/core-framer": "latest",
+        "@closet-viewer/closet-viewer": "latest",
+        "@closet-viewer/closet-viewer-benchmark": "latest",
+        "@closet-viewer/closet-viewer-test": "latest",
+        "@closet-viewer/srest-algebra": "latest",
+        "@closetbox/react-places-autocomplete": "latest",
+        "@closetsweep/common": "latest",
+        "@closrks/hsl-to-hex": "latest",
+        "@closs/closs-ui": "latest",
+        "@clostickets/common": "latest",
+        "@closx/a-cache": "latest"
+    }
+}

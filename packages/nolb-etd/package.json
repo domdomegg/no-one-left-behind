@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-etd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "etd": "latest",
+        "etd-antd": "latest",
+        "etd-core-ng-collection-lib": "latest",
+        "etd-plt": "latest",
+        "etd-react-ui": "latest",
+        "etd-ui-ng-rest-lib": "latest",
+        "etd-ui-ng-rest-svc": "latest",
+        "etd-wallet-provider": "latest",
+        "etdb-downloads": "latest",
+        "etdb-subscribe": "latest",
+        "etduroch-frame-print2": "latest",
+        "etdw": "latest"
+    }
+}

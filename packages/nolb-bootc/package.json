@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-bootc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bootcamp": "latest",
+        "bootcamp-42-book-discovery": "latest",
+        "bootcamp-book-discovery": "latest",
+        "bootcamp-cli": "latest",
+        "bootcamp-dh-2022-decoder-morse": "latest",
+        "bootcamp-dh-exercise-node-conversor-from-text-to-morse-and-from-morse-to-text": "latest",
+        "bootcamp-firebase-chat": "latest",
+        "bootcamp-first-npm.module": "latest",
+        "bootcamp-mvc-framework": "latest",
+        "bootcamp-sass4": "latest",
+        "bootcamp-ui": "latest",
+        "bootcamp25": "latest",
+        "bootcamp_37_pagination": "latest",
+        "bootcampers-names": "latest",
+        "bootcampuicomponentsai": "latest",
+        "bootcampuicomponentsai2": "latest",
+        "bootcards": "latest",
+        "bootcatch-themes": "latest",
+        "bootcdn": "latest",
+        "bootcdn-cli": "latest",
+        "bootcheck": "latest",
+        "bootclass": "latest",
+        "bootcomp": "latest",
+        "bootcomplete": "latest",
+        "bootcss": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-tima",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tima": "latest",
+        "tima-coin": "latest",
+        "tima-core-framework": "latest",
+        "timaaz-frame-print": "latest",
+        "timable": "latest",
+        "timagic": "latest",
+        "timaiv_js": "latest",
+        "timajs": "latest",
+        "timaline": "latest",
+        "timarney-component": "latest",
+        "timarney-module1": "latest",
+        "timarney-module2": "latest",
+        "timarney-module3": "latest",
+        "timaschew-test1": "latest",
+        "timatorg-utils": "latest",
+        "timav-cli": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-woh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "woh": "latest",
+        "wohaoeya": "latest",
+        "wohaonanshou": "latest",
+        "wohaoniu": "latest",
+        "wohlhartcorelibrary": "latest",
+        "wohlig": "latest",
+        "wohlig-framework-core": "latest",
+        "wohlig-framework-core-socket": "latest",
+        "wohoo-frame-print": "latest",
+        "wohoox": "latest",
+        "wohvubsaemxdjkrt": "latest"
+    }
+}

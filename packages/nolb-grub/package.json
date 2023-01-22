@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-grub",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grub": "latest",
+        "grubba-meteorrn": "latest",
+        "grubba-rpc": "latest",
+        "grubbs": "latest",
+        "grubby": "latest",
+        "gruber-validate": "latest",
+        "gruberhubris": "latest",
+        "grubhero": "latest",
+        "grubhub-api": "latest",
+        "grubhub-distributor": "latest",
+        "grubtech-auth-library": "latest",
+        "grubtech-authentication-library": "latest",
+        "grubtech-backend-communication-module": "latest",
+        "grubtech-merchant-portal-suite": "latest",
+        "grubtech-microfrontend-framework-module": "latest",
+        "grubulon": "latest"
+    }
+}

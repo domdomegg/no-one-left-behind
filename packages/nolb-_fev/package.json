@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_fev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fev/fev": "latest",
+        "@fev/fev-utils": "latest",
+        "@fev/load": "latest",
+        "@fev/temp": "latest",
+        "@fev/vue-mask": "latest",
+        "@fevernova90/next-sanity-image": "latest",
+        "@fevo-tech/graphql-codegen-cli": "latest",
+        "@fevo-tech/graphql-codegen-core": "latest",
+        "@fevo-tech/graphql-codegen-plugin-helpers": "latest",
+        "@fevo-tech/graphql-codegen-testing": "latest",
+        "@fevo-tech/graphql-codegen-typescript": "latest",
+        "@fevo-tech/graphql-codegen-typescript-graphql-request": "latest",
+        "@fevo-tech/graphql-codegen-typescript-operations": "latest",
+        "@fevo-tech/graphql-codegen-typescript-resolvers": "latest",
+        "@fevo-tech/graphql-codegen-visitor-plugin-common": "latest"
+    }
+}

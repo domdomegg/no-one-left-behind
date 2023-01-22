@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_digic",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@digicat/canonical-redirector": "latest",
+        "@digicat/cf-graphql": "latest",
+        "@digicat/components": "latest",
+        "@digicat/compute-ethereum-account-address": "latest",
+        "@digicat/ethereum-contract-watcher": "latest",
+        "@digicat/ethereum-extract-contract-events": "latest",
+        "@digicat/ethereum-finality-watcher": "latest",
+        "@digicat/ethereum-transaction-watcher": "latest",
+        "@digicat/termination-manager": "latest",
+        "@digicatapult/components": "latest",
+        "@digicatapult/dscp-node": "latest",
+        "@digicatapult/dscp-process-management": "latest",
+        "@digicatapult/ui-component-library": "latest",
+        "@digichanges/nexp-cli": "latest",
+        "@digichanges/shared-experience": "latest",
+        "@digichanges/solid-components": "latest",
+        "@digichanges/solid-multiselect": "latest",
+        "@digichanges/solid-slider": "latest",
+        "@digicms/admin": "latest",
+        "@digicms/cms": "latest",
+        "@digicms/helper-plugin": "latest",
+        "@digicms/plugin-users-permissions": "latest",
+        "@digicommerce/bo-lqv9eu": "latest",
+        "@digicommerce/cms": "latest",
+        "@digicommerce/cms-admin": "latest",
+        "@digicommerce/sf-4e9bfd": "latest",
+        "@digicore/meteor-typescript": "latest"
+    }
+}

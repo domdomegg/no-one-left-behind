@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-vue-cli-plugin-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cli-plugin-kaihua-clean-vue": "latest",
+        "vue-cli-plugin-kaihua-react": "latest",
+        "vue-cli-plugin-kami": "latest",
+        "vue-cli-plugin-kanban": "latest",
+        "vue-cli-plugin-kbone": "latest",
+        "vue-cli-plugin-kg-request": "latest",
+        "vue-cli-plugin-khakitron": "latest",
+        "vue-cli-plugin-kingscode-scaffold": "latest",
+        "vue-cli-plugin-kite": "latest",
+        "vue-cli-plugin-klkspa": "latest",
+        "vue-cli-plugin-knowbox": "latest",
+        "vue-cli-plugin-kolobok-preset": "latest",
+        "vue-cli-plugin-kop": "latest",
+        "vue-cli-plugin-korol-test": "latest",
+        "vue-cli-plugin-kroot": "latest",
+        "vue-cli-plugin-ksz-cli": "latest",
+        "vue-cli-plugin-ktgh": "latest"
+    }
+}

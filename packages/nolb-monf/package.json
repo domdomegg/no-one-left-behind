@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-monf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "monfact": "latest",
+        "monfernape-components": "latest",
+        "monfernape-sample-buttons": "latest",
+        "monffy-first-demo": "latest",
+        "monfig": "latest",
+        "monfooze": "latest",
+        "monfy": "latest"
+    }
+}

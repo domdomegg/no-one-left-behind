@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_kix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kixarcoin/default-token-list": "latest",
+        "@kixarcoin/governance": "latest",
+        "@kixarcoin/lib": "latest",
+        "@kixarcoin/liquidity-staker": "latest",
+        "@kixarcoin/merkle-distributor": "latest",
+        "@kixarcoin/sdk": "latest",
+        "@kixarcoin/token-lists": "latest",
+        "@kixarcoin/v1-core": "latest",
+        "@kixarcoin/v1-periphery": "latest",
+        "@kixeye/eslint-config-kixeye": "latest",
+        "@kixeye/km-logger": "latest"
+    }
+}

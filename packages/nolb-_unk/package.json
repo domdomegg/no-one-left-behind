@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_unk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@unki/time-ago-pipe": "latest",
+        "@unkn/express": "latest",
+        "@unkn/styles": "latest",
+        "@unkn/utils": "latest",
+        "@unknot/unknot": "latest",
+        "@unknovvn/eventmediatr": "latest",
+        "@unknovvn/number-converter": "latest",
+        "@unknown222/test-publish-lib": "latest",
+        "@unknownone76/chtbt": "latest",
+        "@unknownone76/mat": "latest",
+        "@unknownone76/yrd": "latest",
+        "@unknownpgr/git-key": "latest",
+        "@unknownpgr/rpc": "latest",
+        "@unknownpgr/rpc-gen": "latest",
+        "@unknownuniverse/shapemanager": "latest"
+    }
+}

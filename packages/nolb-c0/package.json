@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-c0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "c0": "latest",
+        "c0-parser": "latest",
+        "c0-printer": "latest",
+        "c0_0c": "latest",
+        "c0bancore-lib": "latest",
+        "c0bancore-wallet-client": "latest",
+        "c0d3": "latest",
+        "c0d3-diff": "latest",
+        "c0d3.js": "latest",
+        "c0d3r24-package1": "latest",
+        "c0js": "latest",
+        "c0l0r": "latest",
+        "c0lor": "latest",
+        "c0met": "latest",
+        "c0mm1t": "latest",
+        "c0n": "latest",
+        "c0nfig": "latest",
+        "c0onje": "latest",
+        "c0t": "latest",
+        "c0zen-sudoku": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-qix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qix": "latest",
+        "qix-boiler": "latest",
+        "qix-faker": "latest",
+        "qix-graphql": "latest",
+        "qix-info": "latest",
+        "qix-ts-test": "latest",
+        "qixi": "latest",
+        "qixi-relation-graph": "latest",
+        "qixi-task": "latest",
+        "qixiacy": "latest",
+        "qixijuan666": "latest",
+        "qixin": "latest",
+        "qixin-api": "latest",
+        "qixin20160112": "latest",
+        "qixinbin": "latest",
+        "qixiyumodule": "latest",
+        "qixtestpkg": "latest",
+        "qixtestpkg2": "latest",
+        "qixuan_daily_test": "latest",
+        "qixuede-xuanlv": "latest"
+    }
+}

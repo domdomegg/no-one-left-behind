@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-readw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "readweb": "latest",
+        "readwise": "latest",
+        "readwithhighlighting": "latest",
+        "readwords": "latest",
+        "readwordscal": "latest",
+        "readwrite": "latest",
+        "readwrite-gif": "latest",
+        "readwrite-lock": "latest",
+        "readwritelock": "latest",
+        "readwritemod-priya": "latest"
+    }
+}

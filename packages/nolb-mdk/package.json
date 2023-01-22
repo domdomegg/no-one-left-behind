@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-mdk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mdk": "latest",
+        "mdk-component": "latest",
+        "mdk-dropdown": "latest",
+        "mdk-nbt": "latest",
+        "mdk-react-component": "latest",
+        "mdkate": "latest",
+        "mdkeywords": "latest",
+        "mdkit": "latest",
+        "mdkjs": "latest",
+        "mdkjs-cli": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-restc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "restc": "latest",
+        "restcache": "latest",
+        "restcat": "latest",
+        "restcharts": "latest",
+        "restchi": "latest",
+        "restclient": "latest",
+        "restclient-json-to-xml": "latest",
+        "restclient-json-to-xml-uno": "latest",
+        "restclientwrapper": "latest",
+        "restcoder-cli": "latest",
+        "restcomplete": "latest",
+        "restconf": "latest",
+        "restcopyfile": "latest",
+        "restcountries-js": "latest",
+        "restcountries-wrapper": "latest",
+        "restcp": "latest",
+        "restcraft": "latest",
+        "restcrawler": "latest",
+        "restcrud": "latest",
+        "restctl": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-discr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discrack.js": "latest",
+        "discreet": "latest",
+        "discreet-dml": "latest",
+        "discreet-request": "latest",
+        "discrepances": "latest",
+        "discrete-input": "latest",
+        "discrete-logic-parser": "latest",
+        "discrete-queue": "latest",
+        "discrete-sampling": "latest",
+        "discrete-spsa": "latest",
+        "discrete-stream": "latest",
+        "discrete-time": "latest",
+        "discrete-ui": "latest",
+        "discrete-vector": "latest",
+        "discrete-wavelets": "latest",
+        "discretecrypt.js": "latest",
+        "discretejs": "latest",
+        "discretize-svg-path": "latest",
+        "discriminate": "latest",
+        "discrip": "latest",
+        "discript.js": "latest"
+    }
+}

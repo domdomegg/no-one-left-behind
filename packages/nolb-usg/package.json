@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-usg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "usg": "latest",
+        "usg-components-lib": "latest",
+        "usgo": "latest",
+        "usgs": "latest",
+        "usgs-component-library-vue": "latest",
+        "usgs-earthquake-api": "latest",
+        "usgs-earthquake-reports": "latest",
+        "usgs-ned": "latest",
+        "usgs-stream": "latest",
+        "usgs-triplifier": "latest",
+        "usgs-ui": "latest",
+        "usgssearch": "latest"
+    }
+}

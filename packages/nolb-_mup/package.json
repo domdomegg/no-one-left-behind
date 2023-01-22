@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_mup",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@muperro/tojson": "latest",
+        "@mupi/cli": "latest",
+        "@mupi/core": "latest",
+        "@mupi/schematics": "latest",
+        "@mupiao/alert": "latest",
+        "@mupli/templatejs": "latest",
+        "@muporash/react-formhandler": "latest",
+        "@muppets/finance-data-example1": "latest",
+        "@muppets/kerfuffle": "latest",
+        "@mupro/input-form-dimension": "latest",
+        "@mupro/input-form-output": "latest",
+        "@mupro/input-form-phase": "latest",
+        "@mupro/input-form-structure": "latest",
+        "@mupro/input-form-tensor": "latest",
+        "@mupro/main-process": "latest",
+        "@mupro/output-view-chart": "latest",
+        "@mupro/output-view-console": "latest",
+        "@mupro/output-view-control": "latest",
+        "@mupro/output-view-vtk": "latest",
+        "@mupro/start-stop-control": "latest",
+        "@mupub/base-components": "latest",
+        "@mupub/components": "latest",
+        "@mupub/fields": "latest",
+        "@mupub/fields-map": "latest",
+        "@mupub/npmpackage-demo": "latest",
+        "@mupub/utils": "latest"
+    }
+}

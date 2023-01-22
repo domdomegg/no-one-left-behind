@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-autow",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "Autowebpcss": "latest",
+        "autowallpaper": "latest",
+        "autowamp": "latest",
+        "autoware_remote_monitor": "latest",
+        "autowatch": "latest",
+        "autoweb": "latest",
+        "autowebapp-cli": "latest",
+        "autowebperf": "latest",
+        "autoweigh": "latest",
+        "autowire": "latest",
+        "autowire-ui": "latest",
+        "autowired": "latest",
+        "autowired-js": "latest",
+        "autowirejs": "latest",
+        "autowiring": "latest",
+        "autoworker": "latest",
+        "autowrap": "latest",
+        "autowrong": "latest",
+        "autows": "latest"
+    }
+}

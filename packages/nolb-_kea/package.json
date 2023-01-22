@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_kea",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@keacluster/parimpar": "latest",
+        "@keacluster/test": "latest",
+        "@keagan1998/js-dsa": "latest",
+        "@kealabs/redux-audio": "latest",
+        "@kealm/demo-cli": "latest",
+        "@kealm/react-components": "latest",
+        "@kealm/react-hooks": "latest",
+        "@kealm/react-mobile": "latest",
+        "@kealm/rn-components": "latest",
+        "@kealm/vue-components": "latest",
+        "@kealm/vue-editor": "latest",
+        "@keanucode/initrepo": "latest",
+        "@keao/utils": "latest",
+        "@keatickets/common": "latest",
+        "@keatonr06/reactjs-dropdown-component": "latest",
+        "@keawade/chip8-emu": "latest",
+        "@keawade/framethework": "latest",
+        "@keawade/using": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-types_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "types.d.ts": "latest",
+        "types.d3": "latest",
+        "types.hacked": "latest",
+        "types.js": "latest",
+        "types.leaflet.heat": "latest",
+        "types.leaflet.heatmap": "latest",
+        "types.ts": "latest",
+        "types__mongoose-paginate-v2": "latest",
+        "types_cesium": "latest",
+        "types_checker_23": "latest",
+        "types_crawler": "latest",
+        "types_import_html": "latest",
+        "types_opendata_spec_covid19": "latest",
+        "types_test": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-lightc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "LightCinematic": "latest",
+        "lightcanvas": "latest",
+        "lightcards": "latest",
+        "lightcase": "latest",
+        "lightcast": "latest",
+        "lightchain-wallet-backend": "latest",
+        "lightci": "latest",
+        "lightcm": "latest",
+        "lightco": "latest",
+        "lightcode-logger": "latest",
+        "lightcompose": "latest",
+        "lightcone": "latest",
+        "lightcone_v3.js": "latest",
+        "lightcontrol": "latest",
+        "lightcookie": "latest",
+        "lightcore": "latest",
+        "lightcraft": "latest",
+        "lightcrawler": "latest",
+        "lightcrawler-docker": "latest",
+        "lightct": "latest"
+    }
+}

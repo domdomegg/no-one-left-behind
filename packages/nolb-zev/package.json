@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-zev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zev": "latest",
+        "zev-tiny-observable": "latest",
+        "zev.js": "latest",
+        "zeva": "latest",
+        "zevent": "latest",
+        "zevent-api": "latest",
+        "zeverkit": "latest",
+        "zevi-lib": "latest",
+        "zevkstacmkonlfdu": "latest",
+        "zevs-lite-calculator1-early-bird": "latest",
+        "zevs-lite-components-example": "latest",
+        "zevs-lite-cost-plugin-construction": "latest",
+        "zevs-lite-cost-plugin-construction-delivery": "latest",
+        "zevs-lite-cost-plugin-construction-gefest-edition": "latest",
+        "zevs-lite-cost-plugin-construction-installation": "latest",
+        "zevs-lite-cost-plugin-construction-uninstallation": "latest",
+        "zevs-lite-dictionaries": "latest",
+        "zevs-lite-editor": "latest",
+        "zevs-lite-estimate-example": "latest",
+        "zevs-lite-estimate-model": "latest",
+        "zevs-lite-library": "latest",
+        "zevs-lite-model": "latest",
+        "zevs-lite-viewer": "latest",
+        "zevs-lite-viewer-example": "latest",
+        "zevs-lite-yandex-map-api": "latest",
+        "zevvle-cli": "latest",
+        "zevvle-sdk-node": "latest"
+    }
+}

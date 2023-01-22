@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-avg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "avg": "latest",
+        "avg-cli": "latest",
+        "avg-color-gen": "latest",
+        "avg-core": "latest",
+        "avg-core-hackathon": "latest",
+        "avg-core-ts": "latest",
+        "avg-crop-img": "latest",
+        "avg-disable-devtool-new": "latest",
+        "avg-engine": "latest",
+        "avg-storyscript": "latest",
+        "avg-stream": "latest",
+        "avg-test": "latest",
+        "avg-timing": "latest",
+        "avg-ts-storyscript": "latest",
+        "avg-tts": "latest",
+        "avg.engine": "latest",
+        "avgcounter": "latest",
+        "avgmaker": "latest",
+        "avgr-angular-component-library": "latest",
+        "avgr-component-library": "latest",
+        "avgtime": "latest",
+        "avgviewer": "latest"
+    }
+}

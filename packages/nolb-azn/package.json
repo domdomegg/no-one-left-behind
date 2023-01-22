@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-azn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "azn-builder-types": "latest",
+        "azn_rates": "latest",
+        "aznobody-lib": "latest",
+        "aznumconv": "latest",
+        "aznummap": "latest",
+        "aznumsuffix": "latest"
+    }
+}

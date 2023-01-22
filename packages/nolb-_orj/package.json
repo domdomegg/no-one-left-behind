@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_orj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@orjdev/mysqm": "latest",
+        "@orjdev/paypal": "latest",
+        "@orjellingsen/vue3-treeselect": "latest",
+        "@orjive/drop-down-menus": "latest"
+    }
+}

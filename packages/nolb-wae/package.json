@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-wae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wae": "latest",
+        "wae-adhoc": "latest",
+        "wae-cli": "latest",
+        "wae-components": "latest",
+        "wae-ws": "latest",
+        "waeasyapi": "latest",
+        "waechter": "latest",
+        "waecm01": "latest",
+        "waef": "latest",
+        "waef-dev-proxy": "latest",
+        "waef-dev-webpack": "latest",
+        "waef-reactkit": "latest",
+        "waegeo-ui": "latest",
+        "wael": "latest",
+        "waelio-utils": "latest",
+        "waellet-ledger": "latest",
+        "waelpack": "latest",
+        "waelst": "latest"
+    }
+}

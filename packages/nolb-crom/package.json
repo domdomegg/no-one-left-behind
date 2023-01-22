@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-crom",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "crom": "latest",
+        "croma-color-picker": "latest",
+        "cromag": "latest",
+        "cromatica": "latest",
+        "crometrics": "latest",
+        "cromjob": "latest",
+        "cromlech": "latest",
+        "cromo-js": "latest",
+        "cromox": "latest",
+        "cromulent": "latest"
+    }
+}

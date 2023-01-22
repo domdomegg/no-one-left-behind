@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-htl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htl": "latest",
+        "htl-cc": "latest",
+        "htl-compiler": "latest",
+        "htl-loader": "latest",
+        "htl-template-loader": "latest",
+        "htl-test-package": "latest",
+        "htl-ui": "latest",
+        "htlc": "latest",
+        "htlcs": "latest",
+        "htlengine-testing": "latest",
+        "htlhcdtwy": "latest",
+        "htlib": "latest",
+        "htlm5-adplayer-skin": "latest",
+        "htlog": "latest",
+        "htlparsevr2": "latest",
+        "htlzl": "latest"
+    }
+}

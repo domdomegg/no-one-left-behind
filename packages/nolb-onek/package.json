@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-onek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "onekey": "latest",
+        "onekey-auth": "latest",
+        "onekey-layout": "latest",
+        "onekeyboard": "latest",
+        "onekijs": "latest",
+        "onekijs-core": "latest",
+        "onekijs-cra": "latest",
+        "onekijs-framework": "latest",
+        "onekijs-next": "latest",
+        "onekijs-ssr": "latest",
+        "onekijs-theme-clarity": "latest",
+        "onekijs-ui": "latest",
+        "onekit": "latest",
+        "onekit-jssdk": "latest",
+        "onekswwh": "latest",
+        "onekuma": "latest"
+    }
+}

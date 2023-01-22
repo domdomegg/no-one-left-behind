@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_webn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@webnanogy/ht-test-lib": "latest",
+        "@webnode-plugin/ssot": "latest",
+        "@webnode/cdi": "latest",
+        "@webnode/http": "latest",
+        "@webnode/litedi": "latest",
+        "@webnode/livedata": "latest",
+        "@webnode/pg-template": "latest",
+        "@webnode/react-livecom": "latest",
+        "@webnode/react-style": "latest",
+        "@webnostix/button": "latest",
+        "@webnostix/chunky-soap-bounce": "latest",
+        "@webnostix/j-table": "latest",
+        "@webnostix/j-table-row": "latest",
+        "@webnotes/local-api": "latest",
+        "@webnotes/local-client": "latest",
+        "@webnovel/chereads-icons": "latest",
+        "@webnovel/eslint-config-yued-fe": "latest",
+        "@webnovel/react-i18n": "latest",
+        "@webnovel/react-native-tab-view": "latest",
+        "@webnsurf/bootstrap": "latest",
+        "@webnt/my-test-package": "latest"
+    }
+}

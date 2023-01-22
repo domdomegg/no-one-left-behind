@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-wsf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wsf": "latest",
+        "wsf-cli": "latest",
+        "wsf-lib": "latest",
+        "wsf-library": "latest",
+        "wsf-models": "latest",
+        "wsf-ui": "latest",
+        "wsf2": "latest",
+        "wsf2js": "latest",
+        "wsf2json": "latest",
+        "wsfed": "latest",
+        "wsfetch": "latest",
+        "wsflc": "latest",
+        "wsfls": "latest",
+        "wsfogserver": "latest",
+        "wsfp": "latest",
+        "wsftest": "latest",
+        "wsftp": "latest",
+        "wsftp-client": "latest",
+        "wsfuller-tui-poc": "latest",
+        "wsfutil": "latest",
+        "wsfvc_ybw": "latest"
+    }
+}

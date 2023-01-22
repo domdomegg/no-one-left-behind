@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-passport-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "passport-zalo": "latest",
+        "passport-zalovn": "latest",
+        "passport-zebedee-alpha": "latest",
+        "passport-zendesk": "latest",
+        "passport-zengine": "latest",
+        "passport-zero": "latest",
+        "passport-zimbra": "latest",
+        "passport-zitadel": "latest",
+        "passport-zoho-crm": "latest",
+        "passport-zoho-crm-oauth": "latest",
+        "passport-zoib": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-icy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "icy": "latest",
+        "icy-cli": "latest",
+        "icy-components": "latest",
+        "icy-error": "latest",
+        "icy-jwt": "latest",
+        "icy-log": "latest",
+        "icy-metadata": "latest",
+        "icy-ngx-signalr-hubservice": "latest",
+        "icy-panorama": "latest",
+        "icy-rip": "latest",
+        "icy-socket": "latest",
+        "icy-streamer": "latest",
+        "icy-test": "latest",
+        "icy-test-lib": "latest",
+        "icy_test_utils": "latest",
+        "icya-lego-bricks": "latest",
+        "icya-ui": "latest",
+        "icyad": "latest",
+        "icyad-test": "latest",
+        "icycupcake": "latest",
+        "icylace-object-utils": "latest",
+        "icyli": "latest",
+        "icylog": "latest",
+        "icymobi-cli": "latest",
+        "icymobicli": "latest",
+        "icytea-command-handler": "latest"
+    }
+}

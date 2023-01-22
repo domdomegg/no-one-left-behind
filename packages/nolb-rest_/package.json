@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-rest_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rest.events": "latest",
+        "rest.js": "latest",
+        "rest.node": "latest",
+        "rest_api_greeting": "latest",
+        "rest_api_practice": "latest",
+        "rest_api_sarthak": "latest",
+        "rest_api_test_automation_template": "latest",
+        "rest_base": "latest",
+        "rest_form_components": "latest",
+        "rest_marks_full": "latest",
+        "rest_postman": "latest",
+        "rest_response_helper": "latest"
+    }
+}

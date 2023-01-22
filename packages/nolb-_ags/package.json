@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_ags",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ags1773/library": "latest",
+        "@ags1773/ui-components": "latest",
+        "@agschema/ag": "latest",
+        "@agseco/ievj": "latest",
+        "@agsosa74/ui-components": "latest",
+        "@agspot/landing": "latest",
+        "@agss/mylibdts-testing": "latest"
+    }
+}

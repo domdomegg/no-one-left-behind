@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_cl-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cl-djkim/hello": "latest",
+        "@cl-live-server/cli": "latest",
+        "@cl-live-server/live-server": "latest",
+        "@cl-live-server/logger": "latest",
+        "@cl-live-server/static-server-handler": "latest",
+        "@cl-ms-ticketing/common": "latest",
+        "@cl-ticketing-dev/common": "latest",
+        "@cl-tool/sys": "latest",
+        "@cl-tools/eslint-config-cl-react": "latest",
+        "@cl-tools/eslint-config-cl-typescript": "latest"
+    }
+}

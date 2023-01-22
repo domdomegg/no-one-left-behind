@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-appn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "appname": "latest",
+        "appnameplugin": "latest",
+        "appnativefy": "latest",
+        "appness-common": "latest",
+        "appnet": "latest",
+        "appnet.io": "latest",
+        "appnet.io-controller": "latest",
+        "appnet.io-stun-proxy": "latest",
+        "appnet.link": "latest",
+        "appnet.link-controller": "latest",
+        "appnext-node": "latest",
+        "appnext-plugin": "latest",
+        "appnexus": "latest",
+        "appnexus-api": "latest",
+        "appnexus-cmp": "latest",
+        "appnexus_api": "latest",
+        "appnodeoscar": "latest",
+        "appnotification": "latest"
+    }
+}

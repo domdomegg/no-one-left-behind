@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_gae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gaea-team/create-master-project": "latest",
+        "@gaea-team/create-slave-project": "latest",
+        "@gaea-team/master-spa": "latest",
+        "@gaea-team/slave-spa": "latest",
+        "@gaearon/google-closure-compiler-js": "latest",
+        "@gaearon/jsdom": "latest",
+        "@gaearon/lag-radar": "latest",
+        "@gaearon/prepack": "latest",
+        "@gaearon/react-collapsed": "latest",
+        "@gaearon/react-live": "latest",
+        "@gaearon/rollup-plugin-closure-compiler-js": "latest",
+        "@gaelazzo/edge-db": "latest",
+        "@gaelmotte/gmotte-sfdx-plugin": "latest",
+        "@gaelmotte/sfdx-gmotte-plugin": "latest",
+        "@gaer87/micro-frontends": "latest",
+        "@gaetancovelli/heap": "latest",
+        "@gaetanvilleneuve/iut-import": "latest",
+        "@gaetanw/holidates": "latest",
+        "@gaetanw/npxcard": "latest"
+    }
+}

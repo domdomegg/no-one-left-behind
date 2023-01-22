@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-wib",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wib": "latest",
+        "wibbitz": "latest",
+        "wibbitz-lottie-web": "latest",
+        "wibbitz-puppeteer-screen-recorder": "latest",
+        "wibble": "latest",
+        "wibe-serverless-sdk": "latest",
+        "wibe-validator": "latest",
+        "wibtx": "latest",
+        "wibu-types": "latest",
+        "wibuapi": "latest",
+        "wibusoft": "latest",
+        "wibutton": "latest",
+        "wiby": "latest"
+    }
+}

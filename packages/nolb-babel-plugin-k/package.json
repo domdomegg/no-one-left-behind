@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-babel-plugin-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-plugin-k12import": "latest",
+        "babel-plugin-k12swagger": "latest",
+        "babel-plugin-kea": "latest",
+        "babel-plugin-ken-wheeler": "latest",
+        "babel-plugin-kiana-demand-loading": "latest",
+        "babel-plugin-kimport": "latest",
+        "babel-plugin-kirei": "latest",
+        "babel-plugin-kmui": "latest",
+        "babel-plugin-knifecycle": "latest",
+        "babel-plugin-ko-component": "latest",
+        "babel-plugin-ko-component-flatten": "latest",
+        "babel-plugin-ko-component-register": "latest",
+        "babel-plugin-kos-hmr": "latest",
+        "babel-plugin-kotlish-also": "latest",
+        "babel-plugin-kth": "latest",
+        "babel-plugin-kv-import": "latest",
+        "babel-plugin-kwola": "latest"
+    }
+}

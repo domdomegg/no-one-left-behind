@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-build_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "build.dll": "latest",
+        "build.js": "latest",
+        "build.json": "latest",
+        "build.min.js": "latest",
+        "build.sh": "latest",
+        "build_chromium": "latest",
+        "build_cli": "latest",
+        "build_local": "latest",
+        "build_miassist": "latest",
+        "build_platform_node": "latest",
+        "build_rollup": "latest",
+        "build_salesforce_package": "latest",
+        "build_that_fail": "latest"
+    }
+}

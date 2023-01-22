@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-shob",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shobha1": "latest",
+        "shobhit-lib-validator": "latest",
+        "shobhit_101": "latest",
+        "shoby-myz-web": "latest"
+    }
+}

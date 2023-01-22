@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_reactg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reactgo/cli": "latest",
+        "@reactgrids/reactgrids": "latest",
+        "@reactgular/chunks": "latest",
+        "@reactgular/destroyable": "latest",
+        "@reactgular/devices": "latest",
+        "@reactgular/layouts": "latest",
+        "@reactgular/logger": "latest",
+        "@reactgular/media": "latest",
+        "@reactgular/object-handlebars": "latest",
+        "@reactgular/observables": "latest",
+        "@reactgular/stateful": "latest",
+        "@reactguru/calendar": "latest"
+    }
+}

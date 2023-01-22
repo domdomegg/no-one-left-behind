@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-storj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "storj": "latest",
+        "storj-admin-cli": "latest",
+        "storj-analytics": "latest",
+        "storj-backup": "latest",
+        "storj-cli": "latest",
+        "storj-collectd-plugin": "latest",
+        "storj-complex": "latest",
+        "storj-crypto": "latest",
+        "storj-express": "latest",
+        "storj-farmer": "latest",
+        "storj-lib": "latest",
+        "storj-mongodb-adapter": "latest",
+        "storj-nodejs": "latest",
+        "storj-service-error-types": "latest",
+        "storj-service-mailer": "latest",
+        "storj-service-middleware": "latest",
+        "storj-service-storage-models": "latest",
+        "storj-sugar": "latest",
+        "storj-telemetry-reporter": "latest",
+        "storjboard": "latest",
+        "storjshare-daemon": "latest",
+        "storjshare-daemon-proxy": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_go1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@go1/apim-cli": "latest",
+        "@go1/react-setup": "latest",
+        "@go1d/babel-plugin-transform-go1d-imports": "latest",
+        "@go1d/go1d": "latest",
+        "@go1d/go1d-exchange": "latest",
+        "@go1d/mine": "latest",
+        "@go1d/retriever": "latest",
+        "@go1f/caddie": "latest",
+        "@go1f/nestjs-kafka-client": "latest",
+        "@go1framework/ddd": "latest"
+    }
+}

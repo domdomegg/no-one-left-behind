@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-axs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "axs": "latest",
+        "axs-authentication": "latest",
+        "axs-components": "latest",
+        "axs-db": "latest",
+        "axs-file": "latest",
+        "axs-image": "latest",
+        "axs-router": "latest",
+        "axs-ui": "latest",
+        "axs-upload": "latest",
+        "axsd": "latest",
+        "axsemantics": "latest",
+        "axserver": "latest",
+        "axshare-downloader": "latest",
+        "axshare-wireframe-exporter": "latest",
+        "axsharma": "latest",
+        "axsor-ng-hello": "latest",
+        "axsqxse": "latest",
+        "axsrvuofnzhdctkq": "latest",
+        "axsty": "latest",
+        "axswap-sdk": "latest"
+    }
+}

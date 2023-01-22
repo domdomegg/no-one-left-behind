@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_ju_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ju_duan/cordova-android-support-gradle-release": "latest",
+        "@ju_duan/cordova-plugin-aliyun-emas-analytics": "latest",
+        "@ju_duan/cordova-plugin-webview-x5": "latest"
+    }
+}

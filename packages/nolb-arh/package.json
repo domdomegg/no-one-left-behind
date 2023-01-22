@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-arh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "arh": "latest",
+        "arha-split-text": "latest",
+        "arham": "latest",
+        "arham-first-library": "latest",
+        "arhcex-reply": "latest",
+        "arhia": "latest",
+        "arhooks-react": "latest",
+        "arhooks-vue": "latest",
+        "arhs-atlasboard": "latest"
+    }
+}

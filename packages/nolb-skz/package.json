@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-skz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "skz": "latest",
+        "skz-helper": "latest",
+        "skz-obj-validator": "latest",
+        "skz-rqst": "latest",
+        "skz-ui": "latest",
+        "skzet-backend": "latest",
+        "skzz-code-input": "latest",
+        "skzz-conf-column": "latest",
+        "skzz-conf-table": "latest",
+        "skzz-debounce-button": "latest",
+        "skzz-digital-scroll": "latest",
+        "skzz-docker": "latest",
+        "skzz-edit-table": "latest",
+        "skzz-effect-ball": "latest",
+        "skzz-form-create": "latest",
+        "skzz-html2canvas": "latest",
+        "skzz-image-upload": "latest",
+        "skzz-qr-code": "latest",
+        "skzz-step-loading": "latest",
+        "skzz-theme-chalk": "latest",
+        "skzz-time-line": "latest",
+        "skzz-tinymce": "latest",
+        "skzz-tool": "latest",
+        "skzz-utils": "latest",
+        "skzz-verification-code": "latest",
+        "skzz-virtual-list": "latest",
+        "skzz-zzd-login": "latest"
+    }
+}

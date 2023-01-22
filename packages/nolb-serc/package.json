@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-serc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "serc.js": "latest",
+        "sercan-new": "latest",
+        "sercaser1-frame-print": "latest",
+        "serce": "latest",
+        "serch-live": "latest",
+        "serch-live-1": "latest",
+        "serchduran-angular-translate-quality": "latest",
+        "serchgt": "latest",
+        "sercomm-rv6699": "latest"
+    }
+}

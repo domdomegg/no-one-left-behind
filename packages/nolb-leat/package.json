@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-leat",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "leat-frame-print": "latest",
+        "leat-mine": "latest",
+        "leat-poker": "latest",
+        "leat-stratum-proxy": "latest",
+        "leather": "latest",
+        "leatherman": "latest",
+        "leatherman-bootstrap": "latest",
+        "leatherman-cms": "latest",
+        "leatherman-react": "latest",
+        "leatherman-uikit-material": "latest",
+        "leatherstrap": "latest"
+    }
+}

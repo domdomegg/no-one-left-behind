@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_cok",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@coka/axios": "latest",
+        "@coka/cli": "latest",
+        "@coka/coka": "latest",
+        "@coka/ssr": "latest",
+        "@coka/vite-ssr": "latest",
+        "@cokakoala/discord.js": "latest",
+        "@coke43/yuui": "latest",
+        "@cokecolombres/platzom": "latest",
+        "@cokencode/chainify": "latest",
+        "@cokepizza/react-native-joi": "latest",
+        "@cokeswap/sdk": "latest",
+        "@cokitchen/components": "latest",
+        "@coko/client": "latest",
+        "@coko/client-dev": "latest",
+        "@coko/lint": "latest",
+        "@coko/server": "latest",
+        "@coko/service-auth": "latest",
+        "@coko/storybook": "latest",
+        "@cokoghenun/async-iterator": "latest"
+    }
+}

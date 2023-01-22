@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_danc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dancastillo/cache": "latest",
+        "@dance-show/react-boot": "latest",
+        "@dance-show/react-cli": "latest",
+        "@dance-show/react-cli-mobile": "latest",
+        "@dance2die/gatsby-theme-events": "latest",
+        "@dance2die/promise-to-resource": "latest",
+        "@dance2die_demo/doctor": "latest",
+        "@dance2die_demo/patient": "latest",
+        "@dancecuts/soundtouchjs-audio-worklet": "latest",
+        "@dancecuts/soundtouchjs-scheduled-audio-worklet": "latest",
+        "@danchenkov/api-documenter": "latest",
+        "@dancheskus/react-scripts": "latest",
+        "@danchitnis/comport": "latest",
+        "@danchitnis/react-fps-stats": "latest",
+        "@danchitnis/simple-slider": "latest",
+        "@dancingleprechaun/green-wallet-template": "latest",
+        "@dancingleprechaun/troll-plugin": "latest",
+        "@dancingspirit/dancingserver": "latest",
+        "@danclay/discord-dialogflow": "latest",
+        "@dancomanio/rndocumentscanner": "latest",
+        "@dancongerbestie/widget-snippet": "latest",
+        "@dancotton/typeless": "latest",
+        "@dancrumb/fallback-plan": "latest",
+        "@dancrumb/fpish": "latest",
+        "@dancrumb/testify": "latest"
+    }
+}

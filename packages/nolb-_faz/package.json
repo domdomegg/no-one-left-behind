@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_faz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fazal/ckeditor5-custom-build": "latest",
+        "@fazenda/mdnsearch": "latest",
+        "@fazil47/react-component-library": "latest",
+        "@fazio/app-utils": "latest",
+        "@fazio/ipfs-upload-button": "latest",
+        "@fazio/nx-cross-ddd": "latest",
+        "@fazio/nx-cross-ddd-plugin": "latest",
+        "@fazio/test": "latest",
+        "@fazio/test-utils": "latest",
+        "@fazland/atlante": "latest",
+        "@fazor/fazor": "latest",
+        "@fazor/socket.io-client": "latest",
+        "@fazri.alfan/npm-helloworld-test": "latest",
+        "@faztasio/rubikscube": "latest",
+        "@faztasio/snippetjs": "latest",
+        "@fazulk/eslint-config": "latest",
+        "@fazulk/eslint-config-basic": "latest",
+        "@fazulk/eslint-config-react": "latest",
+        "@fazulk/eslint-config-ts": "latest",
+        "@fazulk/eslint-config-vue": "latest",
+        "@fazulk/testing-vue3": "latest",
+        "@fazza4613/awesome-cron-parser": "latest"
+    }
+}

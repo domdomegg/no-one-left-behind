@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_ryancavanaugh_z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryancavanaugh/z-schema": "latest",
+        "@ryancavanaugh/zepto": "latest",
+        "@ryancavanaugh/zeroclipboard": "latest",
+        "@ryancavanaugh/zip.js": "latest",
+        "@ryancavanaugh/zmq": "latest",
+        "@ryancavanaugh/zone.js": "latest",
+        "@ryancavanaugh/zynga-scroller": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-huba",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "huba": "latest",
+        "huba-excel": "latest",
+        "huba-gramophone": "latest",
+        "huba-natural": "latest",
+        "hubaba": "latest",
+        "hubaba1": "latest",
+        "hubabuba": "latest",
+        "hubacli": "latest",
+        "hubary-plugin": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-boj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "boj": "latest",
+        "boj-crawler": "latest",
+        "boj-fetch": "latest",
+        "boj-solution-tester": "latest",
+        "bojack": "latest",
+        "bojackhorseman-random-msg": "latest",
+        "bojagi": "latest",
+        "bojan-cli": "latest",
+        "bojan-cli-lib": "latest",
+        "bojan-react-component-library": "latest",
+        "bojan-react-component-library-styled": "latest",
+        "bojan-test": "latest",
+        "bojanalaya": "latest",
+        "bojaneka": "latest",
+        "bojans-library": "latest",
+        "bojansco": "latest",
+        "bojanvidanovic": "latest",
+        "boject-path": "latest",
+        "bojhelper": "latest",
+        "boji": "latest",
+        "bojin4": "latest",
+        "bojler": "latest",
+        "bojouelement": "latest",
+        "bojs": "latest"
+    }
+}

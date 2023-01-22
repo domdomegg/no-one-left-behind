@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_g2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@g20210618/lowcode-components": "latest",
+        "@g2a/config": "latest",
+        "@g2a/request-id": "latest",
+        "@g2a/standard-error": "latest",
+        "@g2crowd/commitlint-config-g2": "latest",
+        "@g2crowd/elasticsearch-js-client": "latest",
+        "@g2crowd/extract-options": "latest",
+        "@g2crowd/sparkline": "latest",
+        "@g2crowd/widget": "latest",
+        "@g2d/cli": "latest",
+        "@g2d/core": "latest",
+        "@g2i/local": "latest",
+        "@g2nb/jupyter-wysiwyg": "latest",
+        "@g2nb/jupyterlab-theme": "latest",
+        "@g2nb/nbtools": "latest",
+        "@g2p/ngx-evo-payments": "latest",
+        "@g2s-hermes/cli": "latest",
+        "@g2view/g2view-commons": "latest",
+        "@g2view/markmap-lib": "latest",
+        "@g2x/apollo": "latest"
+    }
+}

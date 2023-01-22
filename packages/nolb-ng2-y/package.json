@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-ng2-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ng2-ya-table": "latest",
+        "ng2-yata": "latest",
+        "ng2-yeo-module": "latest",
+        "ng2-yii2-rest": "latest",
+        "ng2-yk-notifier": "latest",
+        "ng2-ymaps": "latest",
+        "ng2-ynslider": "latest",
+        "ng2-youtube": "latest",
+        "ng2-youtube-player": "latest",
+        "ng2-youtube-player-mini": "latest"
+    }
+}

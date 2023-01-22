@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-react-native-mk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-mkepler": "latest",
+        "react-native-mkmenu": "latest",
+        "react-native-mktextinput": "latest"
+    }
+}

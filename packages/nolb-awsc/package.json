@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-awsc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "awsc-janus-wx": "latest",
+        "awsca": "latest",
+        "awscdk-81-patch": "latest",
+        "awscdk-appsync-utils": "latest",
+        "awscdk-dynamodb-global-tables": "latest",
+        "awscdk-v1-stack-finder": "latest",
+        "awschome": "latest",
+        "awscibo": "latest",
+        "awscibo-api": "latest",
+        "awscms": "latest",
+        "awscognito": "latest",
+        "awscred": "latest"
+    }
+}

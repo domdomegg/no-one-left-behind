@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-react-native-pk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-pk-bot": "latest",
+        "react-native-pk-image-picker": "latest",
+        "react-native-pkce-challenge": "latest"
+    }
+}

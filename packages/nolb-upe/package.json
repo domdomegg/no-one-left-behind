@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-upe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "upem": "latest",
+        "upem-sdk": "latest",
+        "upembed-plyr": "latest",
+        "upend": "latest",
+        "upend-testbuild": "latest",
+        "upend-treeview": "latest",
+        "upendra-mymath": "latest",
+        "upendra-star-print": "latest",
+        "upenjais": "latest",
+        "uper": "latest",
+        "upercase": "latest",
+        "upercasetestdemo": "latest",
+        "uperlab-feathers-serverless": "latest",
+        "upes": "latest",
+        "upexam-common": "latest",
+        "upexamdata-common": "latest"
+    }
+}

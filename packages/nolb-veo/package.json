@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-veo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "veo": "latest",
+        "veoci-cordova-plugin-push": "latest",
+        "veoci-i18n": "latest",
+        "veoci-slickgrid": "latest",
+        "veoci-vue2-leaflet-polylinedecorator": "latest",
+        "veoci-vuetify-google-autocomplete": "latest",
+        "veojs-unit": "latest",
+        "veon": "latest",
+        "veoo-statsd": "latest",
+        "veox": "latest"
+    }
+}

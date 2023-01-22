@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-fs2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fs2": "latest",
+        "fs2-homework": "latest",
+        "fs20dimmer2mqtt": "latest",
+        "fs2http": "latest",
+        "fs2json": "latest",
+        "fs2obj": "latest"
+    }
+}

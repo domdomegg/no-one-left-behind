@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_dr6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dr666m1/bq2cst": "latest",
+        "@dr666m1/prettier-plugin-bq": "latest"
+    }
+}

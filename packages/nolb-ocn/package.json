@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-ocn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ocn": "latest",
+        "ocn-build-miniprogram": "latest",
+        "ocn-commit": "latest",
+        "ocn-uni": "latest",
+        "ocn_convert": "latest",
+        "ocnfolder": "latest",
+        "ocnkit": "latest",
+        "ocnlists": "latest",
+        "ocnparse": "latest",
+        "ocnps": "latest",
+        "ocns-components": "latest",
+        "ocnui": "latest",
+        "ocnuikit": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-xil",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "xil": "latest",
+        "xila": "latest",
+        "xila-shenhua-zhanxing-taluo": "latest",
+        "xilan": "latest",
+        "xilanhua": "latest",
+        "xiler-web-utils": "latest",
+        "xiliang-tree-tool": "latest",
+        "xiliangxiaoke-cli-dev": "latest",
+        "xiliangxk-cli": "latest",
+        "xiliangxk-cli-lib": "latest",
+        "xilingbutton": "latest",
+        "xilixili-ui-1": "latest",
+        "xiliyu-npm-test": "latest",
+        "xill": "latest",
+        "xilong-mini": "latest",
+        "xilong88-npm-demo": "latest",
+        "xilution-ui-footer": "latest",
+        "xilution-ui-header": "latest"
+    }
+}

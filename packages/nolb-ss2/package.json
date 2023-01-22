@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-ss2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ss2": "latest",
+        "ss2-ui-components": "latest",
+        "ss201910": "latest",
+        "ss2json": "latest",
+        "ss2react": "latest",
+        "ss2vue": "latest"
+    }
+}

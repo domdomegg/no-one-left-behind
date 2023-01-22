@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_em2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@em2046/hello-wasm": "latest",
+        "@em2046/material-design-icons-vue-next": "latest",
+        "@em2046/nova-next": "latest",
+        "@em2046/vitepress": "latest",
+        "@em2m/surveyor": "latest"
+    }
+}

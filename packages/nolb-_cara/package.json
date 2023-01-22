@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_cara",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cara-care/caramel": "latest",
+        "@cara-care/react-event-hook": "latest",
+        "@cara/babel-plugin-import-meta": "latest",
+        "@cara/minami": "latest",
+        "@cara/porter": "latest",
+        "@cara/porter-cli": "latest",
+        "@carabi/ui": "latest",
+        "@caracal7/reactor.js": "latest",
+        "@caracat/event-lib": "latest",
+        "@caracolsportsclub/firebaseui": "latest",
+        "@carafe-fm/bundler": "latest",
+        "@carafe-fm/bundler-dev": "latest",
+        "@carafe-fm/create-bundle": "latest",
+        "@carafe-fm/create-bundle-dev": "latest",
+        "@carakan-react-native/my-cart": "latest",
+        "@caraluna/solend-beta-sdk": "latest",
+        "@caraluna/solend-experimental-sdk": "latest",
+        "@carameldrop/tinypack": "latest",
+        "@caramelpoint/contuxt": "latest",
+        "@caranmegil/react-google-login": "latest",
+        "@caravaggio/forma": "latest",
+        "@caravellabs/telemetry-reporter": "latest",
+        "@caravinci/arranger-components": "latest",
+        "@caravinci/arranger-server": "latest"
+    }
+}

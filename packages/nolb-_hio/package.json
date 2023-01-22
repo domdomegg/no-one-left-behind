@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_hio",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hiogawa/base64": "latest",
+        "@hiogawa/bigdecimal.js": "latest",
+        "@hiogawa/ffmpeg": "latest",
+        "@hiogawa/ffmpeg-experiment": "latest",
+        "@hiogawa/flac-picture": "latest",
+        "@hiogawa/jest-snapshot-mocha-plugin": "latest",
+        "@hiogawa/path-json": "latest",
+        "@hiogawa/pdf-rs-wasm": "latest",
+        "@hiogawa/pdf-rs-wasm-cli": "latest",
+        "@hiogawa/sudachi.wasm": "latest",
+        "@hiogawa/sudachi.wasm.cli": "latest",
+        "@hiogawa/svg-rust-nodejs": "latest",
+        "@hiogawa/zip.wasm": "latest",
+        "@hiogopariz/react-object-forms": "latest",
+        "@hiokidaichi/hello-wasm": "latest",
+        "@hioperator/prettier-config": "latest",
+        "@hiorii/randomid-generator": "latest"
+    }
+}

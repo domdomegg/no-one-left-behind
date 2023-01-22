@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-an2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "an2-data-js": "latest",
+        "an2-dnd": "latest",
+        "an2-link-js": "latest",
+        "an2md": "latest"
+    }
+}

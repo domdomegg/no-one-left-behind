@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-node-red-i",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-i2c-mcp3428": "latest",
+        "node-red-i2c-pecmac125a": "latest",
+        "node-red-ibmconnections": "latest",
+        "node-red-ibmiotpush": "latest",
+        "node-red-iced-coffeescript": "latest",
+        "node-red-ifttt": "latest",
+        "node-red-iiot-opcua": "latest",
+        "node-red-instagram": "latest",
+        "node-red-intensity": "latest",
+        "node-red-internal-nodes": "latest",
+        "node-red-ipfs": "latest",
+        "node-red-ipfstest": "latest",
+        "node-red-ipinfo": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_jec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jec46/leaflet-filelayer": "latest",
+        "@jeckyhuang/designer-v3": "latest",
+        "@jeclark/css-reset": "latest",
+        "@jecloud/cli": "latest",
+        "@jecloud/func": "latest",
+        "@jecloud/plugin": "latest",
+        "@jecloud/ui": "latest",
+        "@jecloud/utils": "latest",
+        "@ject/callable": "latest",
+        "@ject/chore": "latest",
+        "@ject/method": "latest",
+        "@ject/mixin": "latest",
+        "@ject/noop": "latest",
+        "@ject/oneself": "latest",
+        "@ject/pipe": "latest",
+        "@ject/rename": "latest"
+    }
+}

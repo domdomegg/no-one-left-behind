@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-babo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babo": "latest",
+        "babonless": "latest",
+        "baboom": "latest",
+        "baboon": "latest",
+        "baboon-backend": "latest",
+        "baboon-checker": "latest",
+        "baboon-frontend": "latest",
+        "baboon-greet-me": "latest",
+        "baboon-image": "latest",
+        "baboon-image-uri": "latest",
+        "babosa": "latest"
+    }
+}

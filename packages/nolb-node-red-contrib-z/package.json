@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-node-red-contrib-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-contrib-z2m": "latest",
+        "node-red-contrib-zabbix": "latest",
+        "node-red-contrib-zabbix-sender": "latest",
+        "node-red-contrib-zapier": "latest",
+        "node-red-contrib-zattoo": "latest",
+        "node-red-contrib-zblight": "latest",
+        "node-red-contrib-zeebe": "latest",
+        "node-red-contrib-zendesk": "latest",
+        "node-red-contrib-zenvia": "latest",
+        "node-red-contrib-zeromq": "latest",
+        "node-red-contrib-zibase": "latest",
+        "node-red-contrib-zigbee": "latest",
+        "node-red-contrib-zigbee2mqtt": "latest",
+        "node-red-contrib-zigbee2mqtt-devices": "latest",
+        "node-red-contrib-zigsim": "latest",
+        "node-red-contrib-zip": "latest",
+        "node-red-contrib-zmq": "latest",
+        "node-red-contrib-zont-online": "latest",
+        "node-red-contrib-zoom-session": "latest",
+        "node-red-contrib-zoomus-api": "latest",
+        "node-red-contrib-zundokokiyoshi": "latest",
+        "node-red-contrib-zundokokiyoshi99": "latest",
+        "node-red-contrib-zwave-js": "latest",
+        "node-red-contrib-zwavejs2mqtt": "latest",
+        "node-red-contrib-zway": "latest",
+        "node-red-contrib-zwift": "latest",
+        "node-red-contrib-zyre": "latest"
+    }
+}

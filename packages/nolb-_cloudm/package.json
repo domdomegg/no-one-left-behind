@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_cloudm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cloudmeet/web-core": "latest",
+        "@cloudmlm/cloudmlm-auth": "latest",
+        "@cloudmlm/cms-ckeditor": "latest",
+        "@cloudmlm/cms-page-components": "latest",
+        "@cloudmlm/cms-theme": "latest",
+        "@cloudmlm/kendo-form-controls": "latest",
+        "@cloudmlm/kendo-grid": "latest",
+        "@cloudmlm/kendo-notification": "latest",
+        "@cloudmod/polymorphic-storage": "latest",
+        "@cloudmod/simple-auth": "latest",
+        "@cloudmod/simple-cicd": "latest",
+        "@cloudmod/simple-network": "latest",
+        "@cloudmod/simple-web-ui": "latest",
+        "@cloudmodding/texture-manipulator": "latest",
+        "@cloudmosaic/quickstarts": "latest",
+        "@cloudmpower/hcaptcha-cmp": "latest"
+    }
+}

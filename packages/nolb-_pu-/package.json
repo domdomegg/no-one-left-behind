@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_pu-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pu-cli/cli": "latest",
+        "@pu-cli/core": "latest",
+        "@pu-cli/get-npm-info": "latest",
+        "@pu-cli/log": "latest",
+        "@pu-cli/utils": "latest",
+        "@pu-teng/core": "latest",
+        "@pu-teng/utils": "latest"
+    }
+}

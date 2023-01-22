@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-vite-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vite-helper": "latest",
+        "vite-hmr-test": "latest",
+        "vite-hooks": "latest",
+        "vite-hot-client": "latest",
+        "vite-html": "latest",
+        "vite-html-plugin": "latest",
+        "vite-hugo-plugin": "latest"
+    }
+}

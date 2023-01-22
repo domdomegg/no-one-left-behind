@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-ck5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ck5-build-ola": "latest",
+        "ck5-custom-build-mm": "latest",
+        "ck5-custom-build-mm-1": "latest",
+        "ck5-custom-build-mm-test": "latest",
+        "ck5-from-scratch": "latest",
+        "ck5-mck-editor": "latest",
+        "ck5-media-gallery": "latest",
+        "ck5-text-build": "latest",
+        "ck5custom-snv": "latest"
+    }
+}

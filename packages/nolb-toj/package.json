@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-toj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "Toji": "latest",
+        "toj-back-end-core": "latest",
+        "toj-back-end-storage": "latest",
+        "toj-back-end-storage2": "latest",
+        "toj-back-end-users": "latest",
+        "tojava": "latest",
+        "toji": "latest",
+        "tojo_app": "latest",
+        "tojs": "latest",
+        "tojson": "latest",
+        "tojson-loader": "latest",
+        "tojsonfile": "latest"
+    }
+}

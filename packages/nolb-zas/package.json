@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-zas",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zas": "latest",
+        "zas0929testing": "latest",
+        "zas0929testing2": "latest",
+        "zasda1": "latest",
+        "zash": "latest",
+        "zash-cli": "latest",
+        "zashiki-promise-middleware": "latest",
+        "zashiki-routing-middleware": "latest",
+        "zashuaren-fangfa": "latest",
+        "zashuaren-fangfa-yaoyi": "latest",
+        "zashuaren-wenji-jiyulu": "latest",
+        "zashuaren-xinzuo-ersipian-tongyi": "latest",
+        "zasifer": "latest",
+        "zaskier-frame-print": "latest",
+        "zasm_custom_hexx": "latest",
+        "zasmin": "latest",
+        "zasmin-react": "latest",
+        "zasmin-react-icons": "latest",
+        "zasse": "latest",
+        "zasyncfunctionscope": "latest",
+        "zasyntax-icons": "latest",
+        "zasz": "latest"
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-react-native-ss",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-ss-cardview": "latest",
+        "react-native-ssb-client": "latest",
+        "react-native-ssb-client-keys": "latest",
+        "react-native-ssb-shims": "latest",
+        "react-native-ssd-mylibrary": "latest",
+        "react-native-ssdp": "latest",
+        "react-native-ssdp-remote": "latest",
+        "react-native-ssdp-rok": "latest",
+        "react-native-sse": "latest",
+        "react-native-sse-client": "latest",
+        "react-native-sse-library": "latest",
+        "react-native-ssh": "latest",
+        "react-native-ssh-sftp": "latest",
+        "react-native-sshclient": "latest",
+        "react-native-ssi-keypass": "latest",
+        "react-native-ssl-pin": "latest",
+        "react-native-ssl-pinning": "latest",
+        "react-native-ssl-pinning-backup": "latest",
+        "react-native-ssl-request": "latest",
+        "react-native-sso": "latest",
+        "react-native-sso-authentication": "latest",
+        "react-native-sspay": "latest",
+        "react-native-sss": "latest",
+        "react-native-sssa": "latest",
+        "react-native-ssui": "latest"
+    }
+}

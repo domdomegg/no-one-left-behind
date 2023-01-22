@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-nexm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "NexManager": "latest",
+        "NexmoJS": "latest",
+        "nexmann": "latest",
+        "nexmap": "latest",
+        "nexment": "latest",
+        "nexment-dev": "latest",
+        "nexment-vue": "latest",
+        "nexmo": "latest",
+        "nexmo-api": "latest",
+        "nexmo-cli": "latest",
+        "nexmo-client": "latest",
+        "nexmo-conversation": "latest",
+        "nexmo-conversation-js": "latest",
+        "nexmo-node": "latest",
+        "nexmo-prog-conv-bootstrap": "latest",
+        "nexmo-stitch": "latest",
+        "nexmoapi": "latest",
+        "nexmoclient_js": "latest",
+        "nexmoe.css": "latest",
+        "nexmofy": "latest"
+    }
+}

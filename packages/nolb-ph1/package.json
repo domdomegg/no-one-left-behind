@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-ph1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ph14": "latest",
+        "ph14-graphql": "latest",
+        "ph14-grpc": "latest",
+        "ph14-koa": "latest"
+    }
+}

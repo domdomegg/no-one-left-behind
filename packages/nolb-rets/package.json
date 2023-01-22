@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-rets",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rets": "latest",
+        "rets-cli": "latest",
+        "rets-client": "latest",
+        "rets-ddf-client": "latest",
+        "rets-promise": "latest",
+        "rets-rabbit-angular": "latest",
+        "rets-rabbit-js": "latest",
+        "rets-rabbit-test": "latest",
+        "rets.js": "latest",
+        "retsac": "latest",
+        "retset": "latest",
+        "retsly-js-auth": "latest",
+        "retsly-js-backbone": "latest",
+        "retsly-js-sdk": "latest",
+        "retsly-js-typeahead": "latest",
+        "retsly-schemas": "latest",
+        "retsu": "latest"
+    }
+}

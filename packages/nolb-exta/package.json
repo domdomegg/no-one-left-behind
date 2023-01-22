@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-exta",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "extag": "latest",
+        "extag-dom": "latest",
+        "extamed-model": "latest",
+        "extamed-sharedpassword": "latest",
+        "extant": "latest",
+        "extapp": "latest",
+        "extapp-service": "latest",
+        "extargsparse": "latest",
+        "extarray": "latest",
+        "extasy": "latest",
+        "extasync": "latest",
+        "extatic": "latest",
+        "extatistic": "latest",
+        "extauth": "latest",
+        "extaws": "latest"
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_tese",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@teselagen/apollo-methods": "latest",
+        "@teselagen/calc-pi": "latest",
+        "@teselagen/dbmgr": "latest",
+        "@teselagen/liquibase-tools": "latest",
+        "@teselagen/query-filter": "latest",
+        "@teselagen/queue-middleware": "latest",
+        "@teselagen/react-list": "latest",
+        "@teselagen/react-table": "latest",
+        "@teselagen/s3-uploads": "latest",
+        "@teselagen/webpack-link": "latest",
+        "@teselagen/xlsx-to-csv": "latest",
+        "@tesera/oss-app": "latest",
+        "@tesera/oss-page-docs": "latest",
+        "@teseraio/cookie-consent-manager": "latest",
+        "@teseraio/oss-react-app": "latest",
+        "@teseraio/oss-react-changelog": "latest",
+        "@teseraio/oss-react-community": "latest",
+        "@teseraio/oss-react-docs": "latest",
+        "@teseraio/oss-react-landing": "latest",
+        "@teseraio/oss-react-navbar": "latest",
+        "@teseraio/tesera-oss": "latest",
+        "@teseraio/test-segment": "latest"
+    }
+}

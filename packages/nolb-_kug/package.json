@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_kug",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kugatsu/utilities": "latest",
+        "@kugatsu/vue-composes": "latest",
+        "@kugatsu/vue3-toast": "latest",
+        "@kugatsu/vueautocompleteinput": "latest",
+        "@kugatsu/vuenotification": "latest",
+        "@kugga/cli": "latest",
+        "@kugga/core": "latest",
+        "@kugga/konamicode": "latest",
+        "@kugihaito/paradox": "latest",
+        "@kugou-miniapp/cli": "latest",
+        "@kugou-miniapp/cli-service": "latest",
+        "@kugou-miniapp/cli-shared-utils": "latest",
+        "@kugou-miniapp/kugou-generator-react": "latest",
+        "@kugou-miniapp/kugou-generator-react2": "latest",
+        "@kugou-miniapp/kugou-generator-svelte": "latest",
+        "@kugou-miniapp/kugou-generator-vue": "latest"
+    }
+}

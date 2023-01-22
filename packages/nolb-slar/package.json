@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-slar",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "slarch": "latest",
+        "slardar": "latest",
+        "slark": "latest",
+        "slark-ui": "latest",
+        "slarkjs": "latest",
+        "slarn-autocomplete": "latest",
+        "slarn-autocomplete-ca": "latest",
+        "slarty": "latest",
+        "slarver": "latest"
+    }
+}

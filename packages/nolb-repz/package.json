@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-repz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "repze-library": "latest",
+        "repzo": "latest",
+        "repzo-chargebee": "latest",
+        "repzo-invoice": "latest",
+        "repzo-qoyod": "latest",
+        "repzo-quickbooks": "latest",
+        "repzo-sap-absjo": "latest"
+    }
+}

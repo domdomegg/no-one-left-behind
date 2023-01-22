@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_shom",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shoma-mano/prismix": "latest",
+        "@shoma-mano/prismix_install_test": "latest",
+        "@shoma-mano/test": "latest",
+        "@shome/ebus-cli": "latest",
+        "@shome/ebus-client": "latest"
+    }
+}

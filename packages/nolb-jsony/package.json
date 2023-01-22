@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-jsony",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jsony": "latest",
+        "jsony-brunch": "latest",
+        "jsonya-cli": "latest",
+        "jsonymize": "latest",
+        "jsonyx": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_icm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@icma/stats": "latest",
+        "@icma/vue-print": "latest",
+        "@icma/vue-table-export": "latest",
+        "@icmaa/config-sync": "latest",
+        "@icmaa/storefront-query-builder": "latest",
+        "@icmzendesk/common": "latest"
+    }
+}

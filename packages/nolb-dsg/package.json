@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-dsg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dsg": "latest",
+        "dsg-angular2-wizard": "latest",
+        "dsg-components": "latest",
+        "dsg-editor": "latest",
+        "dsg-engine": "latest",
+        "dsg-microservice": "latest",
+        "dsg-mock-restful-express": "latest",
+        "dsg-ng2-bs4-modal": "latest",
+        "dsg-project-nan": "latest",
+        "dsg-slot-machine-comp": "latest",
+        "dsg-test": "latest",
+        "dsgdf": "latest",
+        "dsgdgsgdssdgsgd": "latest",
+        "dsgen": "latest",
+        "dsger": "latest",
+        "dsghghgsfh": "latest",
+        "dsgov-assests": "latest",
+        "dsgov-react": "latest",
+        "dsgovstencil": "latest",
+        "dsgstng-api": "latest",
+        "dsgswap-sdk": "latest",
+        "dsgvo": "latest"
+    }
+}

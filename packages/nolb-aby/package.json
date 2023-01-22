@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-aby",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aby": "latest",
+        "aby-1012": "latest",
+        "aby.js": "latest",
+        "abyiss": "latest",
+        "abyjs.db": "latest",
+        "abyjs.mongo": "latest",
+        "abyme": "latest",
+        "abyrd-cli": "latest",
+        "abyrd-react-boilerplate": "latest",
+        "abyrd-textarea-resize": "latest",
+        "abyss": "latest",
+        "abyss-scripts": "latest",
+        "abyss-sdk": "latest",
+        "abyss.css": "latest",
+        "abyss_cloud_core": "latest",
+        "abyss_core": "latest",
+        "abyss_crypt_core": "latest",
+        "abyss_storage_core": "latest",
+        "abyssa": "latest",
+        "abyssa_alws_fork": "latest",
+        "abyssal": "latest",
+        "abyssal-cli": "latest",
+        "abyssinia-facebook-login": "latest",
+        "abyssinian": "latest"
+    }
+}

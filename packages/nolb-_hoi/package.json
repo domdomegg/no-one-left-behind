@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_hoi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hoi4/firebase-analytics": "latest",
+        "@hoi4/ngx-pinch-zoom": "latest",
+        "@hoifong/tiny": "latest",
+        "@hoijnet/tuscli": "latest",
+        "@hoijof/mongodb-async": "latest",
+        "@hoisel/ionic-calendar": "latest",
+        "@hoishin/editorconfig": "latest",
+        "@hoishin/eslint-config": "latest",
+        "@hoishin/eslint-config-ts": "latest",
+        "@hoishin/eslintrc-ts": "latest",
+        "@hoishin/prettierrc": "latest",
+        "@hoishin/tsconfig": "latest",
+        "@hoishin/tslint-config": "latest",
+        "@hoist/easyxml": "latest",
+        "@hoist/mongoose-shortid": "latest",
+        "@hoist/node-sdk": "latest"
+    }
+}

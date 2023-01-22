@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-antg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "antg-github-example": "latest",
+        "antgroup": "latest",
+        "antguo-npm": "latest",
+        "antguo-npm-test": "latest"
+    }
+}

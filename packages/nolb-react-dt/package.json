@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-react-dt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-dt": "latest",
+        "react-dt-selector": "latest",
+        "react-dtable": "latest",
+        "react-dtcomponents": "latest",
+        "react-dticheckboxlist": "latest",
+        "react-dtl": "latest",
+        "react-dtl-poc": "latest",
+        "react-dtp": "latest",
+        "react-dtpicker": "latest",
+        "react-dts-codegen": "latest",
+        "react-dts-generator": "latest",
+        "react-dttpicker": "latest",
+        "react-dtui": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-wsr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wsr": "latest",
+        "wsr-bundles": "latest",
+        "wsr-composer": "latest",
+        "wsr-types": "latest",
+        "wsrecon": "latest",
+        "wsrelay": "latest",
+        "wsreq": "latest",
+        "wsrlyf": "latest",
+        "wsrn": "latest",
+        "wsrpc": "latest",
+        "wsrpc-js": "latest",
+        "wsrpc-js-client": "latest",
+        "wsrpc-python": "latest",
+        "wsrps": "latest",
+        "wsrr": "latest",
+        "wsrs": "latest",
+        "wsrtc": "latest",
+        "wsrtest": "latest",
+        "wsrun": "latest",
+        "wsrv": "latest"
+    }
+}

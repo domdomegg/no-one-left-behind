@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-mobr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mobrix-designer": "latest",
+        "mobrix-designer-plugin-drawer": "latest",
+        "mobrix-designer-plugin-forms": "latest",
+        "mobrix-designer-plugin-router": "latest",
+        "mobrix-designer-plugins": "latest",
+        "mobrix-designer-tools": "latest",
+        "mobrix-designer-types": "latest",
+        "mobrix-engine": "latest",
+        "mobrix-engine-plugin-epics": "latest",
+        "mobrix-engine-plugin-localization": "latest",
+        "mobrix-engine-plugin-modal": "latest",
+        "mobrix-engine-plugin-router": "latest",
+        "mobrix-engine-plugin-themer": "latest",
+        "mobrix-engine-plugin-ui": "latest",
+        "mobrix-engine-plugin-url-checker": "latest",
+        "mobrix-engine-plugins": "latest",
+        "mobrix-engine-tools": "latest",
+        "mobrix-engine-types": "latest",
+        "mobrix-ui": "latest",
+        "mobrix-utils": "latest",
+        "mobro-utils": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-msj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "msJackson": "latest",
+        "msj": "latest",
+        "msj-aleatorio": "latest",
+        "msj-aletorio": "latest",
+        "msj-de-seguridad-twilio": "latest",
+        "msj-random-str": "latest",
+        "msj_bao": "latest",
+        "msj_text": "latest",
+        "msj_text1": "latest",
+        "msjmsj": "latest",
+        "msjob-aspromise": "latest",
+        "msjs": "latest",
+        "msjst": "latest"
+    }
+}

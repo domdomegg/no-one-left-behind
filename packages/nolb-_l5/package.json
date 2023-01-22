@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_l5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@l5769389/eleui": "latest",
+        "@l5e/ng-span": "latest",
+        "@l5e/ng-user": "latest",
+        "@l5i/dashjs": "latest",
+        "@l5i/hls.js": "latest",
+        "@l5i/stylelint-config-sass": "latest",
+        "@l5i/vast-client": "latest",
+        "@l5i/vtt.js": "latest",
+        "@l5i/window.hls": "latest"
+    }
+}

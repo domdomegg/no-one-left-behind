@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-ci_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ci.cm": "latest",
+        "ci.sh": "latest",
+        "ci_bootstrap_3": "latest",
+        "ci_cd_example": "latest",
+        "ci_component": "latest",
+        "ci_component_test": "latest",
+        "ci_dashboard": "latest",
+        "ci_mariasql": "latest",
+        "ci_node": "latest",
+        "ci_platform_frontend": "latest",
+        "ci_session_decrypter": "latest"
+    }
+}

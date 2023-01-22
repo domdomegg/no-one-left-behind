@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-mpx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mpx": "latest",
+        "mpx-bee": "latest",
+        "mpx-cli": "latest",
+        "mpx-cli-service": "latest",
+        "mpx-client": "latest",
+        "mpx-echarts": "latest",
+        "mpx-es-check": "latest",
+        "mpx-eslint-parser": "latest",
+        "mpx-fetch": "latest",
+        "mpx-promisify": "latest",
+        "mpx-sdk": "latest",
+        "mpx-tailwindcss-preset": "latest",
+        "mpx-ui": "latest",
+        "mpx-webpack-plugin": "latest",
+        "mpx2rem": "latest",
+        "mpxml-eslint-parser": "latest",
+        "mpxr-escrow-contract": "latest",
+        "mpxr-token-contract": "latest",
+        "mpxts": "latest",
+        "mpxx": "latest"
+    }
+}

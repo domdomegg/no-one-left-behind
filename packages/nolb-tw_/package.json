@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-tw_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tw.dict": "latest",
+        "tw.funs.utility": "latest",
+        "tw.macro": "latest",
+        "tw_crud": "latest",
+        "tw_exchange": "latest",
+        "tw_lib": "latest",
+        "tw_socket_remote": "latest"
+    }
+}

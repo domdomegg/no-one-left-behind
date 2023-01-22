@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-react-native-ms",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-ms": "latest",
+        "react-native-ms-adal": "latest",
+        "react-native-ms-intune-mam": "latest",
+        "react-native-msa": "latest",
+        "react-native-msa-fork": "latest",
+        "react-native-msal": "latest",
+        "react-native-msal-client": "latest",
+        "react-native-msal-module": "latest",
+        "react-native-msal-plugin": "latest",
+        "react-native-msb-travel": "latest",
+        "react-native-mscreen-capture": "latest",
+        "react-native-mscrollable-tabview": "latest",
+        "react-native-msmart-tip": "latest",
+        "react-native-msp": "latest",
+        "react-native-mspeechiflytek": "latest",
+        "react-native-mssql": "latest",
+        "react-native-mswiper": "latest",
+        "react-native-msyan-image-picker": "latest"
+    }
+}

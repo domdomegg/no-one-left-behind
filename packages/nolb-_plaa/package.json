@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_plaa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@plaa/metascraper": "latest",
+        "@plaa/metascraper-amazon": "latest",
+        "@plaa/metascraper-audio": "latest",
+        "@plaa/metascraper-author": "latest",
+        "@plaa/metascraper-clearbit-logo": "latest",
+        "@plaa/metascraper-date": "latest",
+        "@plaa/metascraper-description": "latest",
+        "@plaa/metascraper-helpers": "latest",
+        "@plaa/metascraper-image": "latest",
+        "@plaa/metascraper-lang": "latest",
+        "@plaa/metascraper-logo": "latest",
+        "@plaa/metascraper-logo-favicon": "latest",
+        "@plaa/metascraper-media-provider": "latest",
+        "@plaa/metascraper-publisher": "latest",
+        "@plaa/metascraper-readability": "latest",
+        "@plaa/metascraper-soundcloud": "latest",
+        "@plaa/metascraper-title": "latest",
+        "@plaa/metascraper-url": "latest",
+        "@plaa/metascraper-video": "latest",
+        "@plaa/metascraper-youtube": "latest",
+        "@plaas/ion-currencymask": "latest",
+        "@plaato/api-client": "latest"
+    }
+}

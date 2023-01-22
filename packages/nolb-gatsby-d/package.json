@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-gatsby-d",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gatsby-design-tokens": "latest",
+        "gatsby-dev-cli": "latest",
+        "gatsby-directus": "latest",
+        "gatsby-disable-404": "latest",
+        "gatsby-docs-starter": "latest",
+        "gatsby-docs-ui": "latest",
+        "gatsby-drupal-webform": "latest",
+        "gatsby-dynamic-image": "latest",
+        "gatsby-dynamical-navigation": "latest"
+    }
+}

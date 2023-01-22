@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_cht",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cht-org-1/test": "latest",
+        "@cht-org-1/test1223": "latest",
+        "@chtalent/apis-common": "latest",
+        "@chtalent/tools-common": "latest",
+        "@chtalent/tools-models": "latest",
+        "@chthomos/azure-function-express": "latest",
+        "@chthonic/accordion": "latest",
+        "@chthonic/use-game-loop": "latest",
+        "@chthsoft/blessed-components": "latest",
+        "@chticket/common": "latest",
+        "@chticketing/common": "latest",
+        "@chtickets/common": "latest",
+        "@chticketsorg/common": "latest",
+        "@chtijs/eslint-config": "latest",
+        "@chttl/chttl-plugin-chart-big-number": "latest",
+        "@chttl/plugin-chart-chttl-event": "latest",
+        "@chttl/plugin-chart-chttl-table": "latest",
+        "@chttl/plugin-chart-chttl-time-table": "latest",
+        "@chttrbx/common": "latest",
+        "@chttrbx/jwt": "latest",
+        "@chttrbx/kafka": "latest",
+        "@chttrbx/mail": "latest",
+        "@chttrbx/mongo": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-valh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "valhakis": "latest",
+        "valhalla": "latest",
+        "valhalla-boilerplates": "latest",
+        "valheim": "latest",
+        "valheim-admin-ui": "latest",
+        "valheim-hotkeys": "latest",
+        "valheim-manager": "latest",
+        "valhimpufbcknryx": "latest",
+        "valhttps": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_andj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@andjsrk/is-nullish": "latest",
+        "@andjsrk/local-host": "latest",
+        "@andjsrk/stateless-iterator": "latest",
+        "@andjuly/fly-test": "latest"
+    }
+}

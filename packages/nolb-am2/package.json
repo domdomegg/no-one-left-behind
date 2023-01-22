@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-am2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "am2": "latest",
+        "am2-starter-project": "latest",
+        "am21-11-16": "latest",
+        "am2302": "latest",
+        "am2315": "latest",
+        "am2320": "latest",
+        "am2320b": "latest",
+        "am27th-mdlinks": "latest",
+        "am2hhello": "latest"
+    }
+}

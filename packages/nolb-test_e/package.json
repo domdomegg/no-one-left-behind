@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-test_e",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "test.egor.podvalkov": "latest",
+        "test.etherscan.io": "latest",
+        "test_e_lzm": "latest",
+        "test_eg": "latest",
+        "test_electron_autoupdate_v3": "latest",
+        "test_emburse_wallet_app": "latest",
+        "test_engine": "latest",
+        "test_es6": "latest",
+        "test_es6_home": "latest",
+        "test_example_deleted": "latest",
+        "test_examples": "latest",
+        "test_excel": "latest",
+        "test_exercice_1_nodejs": "latest",
+        "test_export_mher": "latest",
+        "test_express": "latest",
+        "test_express_app": "latest",
+        "test_express_crud": "latest",
+        "test_express_module": "latest",
+        "test_express_module3": "latest",
+        "test_eyuesheng": "latest",
+        "test_ez_dash": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-react-et",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-et": "latest",
+        "react-et-dp-fon": "latest",
+        "react-etc": "latest",
+        "react-eternal-list": "latest",
+        "react-eth": "latest",
+        "react-eth-address": "latest",
+        "react-ether": "latest",
+        "react-ether-button": "latest",
+        "react-ether-qrcode": "latest",
+        "react-ethereum": "latest",
+        "react-ethereum-provider": "latest",
+        "react-etherjs-utils": "latest",
+        "react-ethers": "latest",
+        "react-ethersjs": "latest",
+        "react-ethmoid": "latest",
+        "react-ethvtx": "latest",
+        "react-etude-piano": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_crx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@crx-api/messaging": "latest",
+        "@crx-template/chrome-extension-inferno-js": "latest",
+        "@crx-template/chrome-extension-inferno-ts": "latest",
+        "@crx-template/chrome-extension-preact-js": "latest",
+        "@crx-template/chrome-extension-preact-ts": "latest",
+        "@crx-template/chrome-extension-react-js": "latest",
+        "@crx-template/chrome-extension-react-ts": "latest",
+        "@crx-template/chrome-extension-solid-js": "latest",
+        "@crx-template/chrome-extension-solid-ts": "latest",
+        "@crx-template/chrome-extension-svelte-js": "latest",
+        "@crx-template/chrome-extension-svelte-ts": "latest",
+        "@crx-template/chrome-extension-vanilla-js": "latest",
+        "@crx-template/chrome-extension-vanilla-ts": "latest",
+        "@crx-template/chrome-extension-vue-js": "latest",
+        "@crx-template/chrome-extension-vue-ts": "latest",
+        "@crxjs/migrate": "latest",
+        "@crxjs/vite-plugin": "latest",
+        "@crxs/gulp-crx": "latest"
+    }
+}

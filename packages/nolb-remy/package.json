@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-remy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "remy": "latest",
+        "remy-bach-resume": "latest",
+        "remy-cli-dev": "latest",
+        "remy-he-test": "latest",
+        "remy-he-test-lib": "latest",
+        "remy-test-1": "latest",
+        "remy-test-lib": "latest",
+        "remy-vuln-test": "latest",
+        "remy_brain": "latest",
+        "remyak-frame-print": "latest"
+    }
+}

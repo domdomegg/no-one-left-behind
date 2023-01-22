@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-exn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "exn": "latest",
+        "exn-core": "latest",
+        "exname": "latest",
+        "exnet": "latest",
+        "exnode-core": "latest",
+        "exnomo": "latest",
+        "exnomy-charts": "latest",
+        "exnomy-sdk-wallet": "latest",
+        "exnomy-sdk-walletnew": "latest",
+        "exnomy-sdknew-wallet-": "latest",
+        "exnomy-wallet": "latest",
+        "exnomy-wallet-new": "latest",
+        "exnomy-wallet-test": "latest",
+        "exnpm": "latest"
+    }
+}

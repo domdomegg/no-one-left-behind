@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_expo-google-fonts_u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@expo-google-fonts/ubuntu": "latest",
+        "@expo-google-fonts/ubuntu-condensed": "latest",
+        "@expo-google-fonts/ubuntu-mono": "latest",
+        "@expo-google-fonts/uchen": "latest",
+        "@expo-google-fonts/ultra": "latest",
+        "@expo-google-fonts/uncial-antiqua": "latest",
+        "@expo-google-fonts/underdog": "latest",
+        "@expo-google-fonts/unica-one": "latest",
+        "@expo-google-fonts/unifrakturcook": "latest",
+        "@expo-google-fonts/unifrakturmaguntia": "latest",
+        "@expo-google-fonts/unkempt": "latest",
+        "@expo-google-fonts/unlock": "latest",
+        "@expo-google-fonts/unna": "latest",
+        "@expo-google-fonts/urbanist": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-itg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "itg": "latest",
+        "itg-cli-functions": "latest",
+        "itg-cli-hackathon": "latest",
+        "itg-npm-p-cli": "latest",
+        "itg-react-scripts": "latest",
+        "itg-swagger": "latest",
+        "itg-templates": "latest",
+        "itgalaxy": "latest",
+        "itgaodeif": "latest",
+        "itgk-tools": "latest",
+        "itglue-wrapper": "latest",
+        "itgro-react-scripts": "latest",
+        "itguat-llh": "latest",
+        "itguymax": "latest",
+        "itgx-tools": "latest",
+        "itgx1-tools": "latest"
+    }
+}

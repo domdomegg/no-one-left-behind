@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-lyo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lyo": "latest",
+        "lyoko-vraudioplayer": "latest",
+        "lyon-fn": "latest",
+        "lyon-lab": "latest",
+        "lyon-lyb": "latest",
+        "lyon-mother": "latest",
+        "lyon-react-loading-button": "latest",
+        "lyonearr": "latest",
+        "lyonesse": "latest",
+        "lyons": "latest",
+        "lyonscript": "latest",
+        "lyonscript-cli": "latest",
+        "lyonscript-core": "latest",
+        "lyonscript-helpers": "latest",
+        "lyonscript-specs": "latest",
+        "lyonverre": "latest",
+        "lyove": "latest"
+    }
+}

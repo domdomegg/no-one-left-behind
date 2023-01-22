@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-bootm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bootmaas": "latest",
+        "bootman": "latest",
+        "bootmap": "latest",
+        "bootmark": "latest",
+        "bootmarkc": "latest",
+        "bootme": "latest",
+        "bootme-cli": "latest",
+        "bootme-delay": "latest",
+        "bootme-docker": "latest",
+        "bootme-gitclone": "latest",
+        "bootme-githook": "latest",
+        "bootme-json-runner": "latest",
+        "bootme-projectx": "latest",
+        "bootme-request": "latest",
+        "bootme-shell": "latest",
+        "bootme-task-spinner": "latest",
+        "bootme-temp": "latest",
+        "bootme-template": "latest",
+        "bootmenu": "latest"
+    }
+}

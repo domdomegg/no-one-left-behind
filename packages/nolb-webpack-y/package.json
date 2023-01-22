@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-webpack-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "webpack-yam-plugin": "latest",
+        "webpack-yaml-loader": "latest",
+        "webpack-yasin": "latest",
+        "webpack-yate-utils": "latest",
+        "webpack-ycx": "latest",
+        "webpack-ysy": "latest"
+    }
+}

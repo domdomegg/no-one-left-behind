@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_mato",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mato-dev/common": "latest",
+        "@matoa-ui/components": "latest",
+        "@matoa-ui/design-token": "latest",
+        "@matoa-ui/helpers": "latest",
+        "@matochondrion/basscss-columns": "latest",
+        "@matochondrion/basscss-responsive-flexbox": "latest",
+        "@matokenswap/contracts": "latest",
+        "@matoruru/animal": "latest",
+        "@matoseb/utils": "latest",
+        "@matoslav/eslint-config": "latest",
+        "@matoss/core": "latest",
+        "@matoss/foundation": "latest",
+        "@matoss/react": "latest",
+        "@matoss/scss": "latest",
+        "@matoz/cursorjs": "latest",
+        "@matoz/react-native-gifted-chat": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-log2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "log2": "latest",
+        "log2amqp": "latest",
+        "log2base2-acejs": "latest",
+        "log2cloud": "latest",
+        "log2console": "latest",
+        "log2dir": "latest",
+        "log2discord": "latest",
+        "log2elasticsearch": "latest",
+        "log2file": "latest",
+        "log2gelf": "latest",
+        "log2json": "latest",
+        "log2json2stdout": "latest",
+        "log2link": "latest",
+        "log2md": "latest",
+        "log2mejs": "latest",
+        "log2mongo": "latest",
+        "log2out": "latest",
+        "log2print": "latest",
+        "log2qtest": "latest",
+        "log2release": "latest",
+        "log2screen-js": "latest",
+        "log2slack": "latest",
+        "log2sls": "latest",
+        "log2splunk": "latest",
+        "log2stream": "latest",
+        "log2textarea": "latest"
+    }
+}

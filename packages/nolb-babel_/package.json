@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-babel_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel_node_skeleton": "latest",
+        "babel_test1": "latest",
+        "babel_typescript_cli": "latest"
+    }
+}

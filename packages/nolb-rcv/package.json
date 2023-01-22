@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-rcv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rcv": "latest",
+        "rcv-desktop-sdk": "latest",
+        "rcv-full-screen": "latest",
+        "rcv-widget-ssr": "latest",
+        "rcv-with-media-plugins": "latest",
+        "rcv-with-plugins": "latest",
+        "rcversion": "latest",
+        "rcvoiceroomlib-v1": "latest"
+    }
+}

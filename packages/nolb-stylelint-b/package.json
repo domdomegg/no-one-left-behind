@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-stylelint-b",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylelint-bare-webpack-plugin": "latest",
+        "stylelint-basebuilder": "latest",
+        "stylelint-bee": "latest",
+        "stylelint-bem-newbie": "latest",
+        "stylelint-bem-no-element-nesting": "latest",
+        "stylelint-bem-validator": "latest",
+        "stylelint-block-as-partial": "latest",
+        "stylelint-browser-compat": "latest",
+        "stylelint-brunch": "latest",
+        "stylelint-bundle": "latest"
+    }
+}

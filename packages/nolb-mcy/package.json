@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-mcy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mcy-rc-components": "latest",
+        "mcy01": "latest",
+        "mcy02": "latest",
+        "mcy03": "latest",
+        "mcya": "latest",
+        "mcyang-cli-lego-components": "latest",
+        "mcyang-cli-template-custom-vue2": "latest",
+        "mcyang-cli-template-vue-element-admin": "latest",
+        "mcyang-cli-template-vue2": "latest",
+        "mcyang-cli-template-webpack-h5": "latest",
+        "mcypack": "latest",
+        "mcywebpack": "latest"
+    }
+}

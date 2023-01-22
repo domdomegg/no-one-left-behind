@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-react-native-tm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-tm": "latest",
+        "react-native-tm-components": "latest",
+        "react-native-tmap": "latest",
+        "react-native-tmap-navi": "latest",
+        "react-native-tmapsdk": "latest",
+        "react-native-tmapsdk-dev": "latest",
+        "react-native-tmflibrary": "latest",
+        "react-native-tmk-baidumobstat": "latest",
+        "react-native-tmk-bluetooth-classic": "latest",
+        "react-native-tmk-system-setting": "latest",
+        "react-native-tmodal": "latest",
+        "react-native-tmp-tvsdk": "latest",
+        "react-native-tmx-profiling": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-zhaz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zhazha": "latest",
+        "zhazha-cli": "latest",
+        "zhazha-npm-hello-word": "latest",
+        "zhazhaqing": "latest",
+        "zhazhayun2022": "latest",
+        "zhazhiha": "latest",
+        "zhazhihai2": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-cdd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cdd": "latest",
+        "cdd-cut": "latest",
+        "cdd-dou": "latest",
+        "cdd-lessonweek": "latest",
+        "cdd-lib": "latest",
+        "cdd-pdf-view": "latest",
+        "cdd-scroller": "latest",
+        "cdd-simple-page-gulp": "latest",
+        "cdd-vault": "latest",
+        "cdd22": "latest",
+        "cdd555": "latest",
+        "cdd_lesson4": "latest",
+        "cdda-chinese-text-dataset": "latest",
+        "cddd": "latest",
+        "cddgulp": "latest",
+        "cddl": "latest",
+        "cddp-ui": "latest",
+        "cddr-components": "latest",
+        "cddt": "latest",
+        "cddtest": "latest",
+        "cddvue": "latest"
+    }
+}

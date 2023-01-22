@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_stov",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stove-labs/arbitrage-bot": "latest",
+        "@stove-labs/arbitrage-bot-accountant": "latest",
+        "@stove-labs/arbitrage-bot-cli": "latest",
+        "@stove-labs/arbitrage-bot-exchange-utils": "latest",
+        "@stove-labs/arbitrage-bot-profit-finder-lite": "latest",
+        "@stove-labs/arbitrage-bot-reporter": "latest",
+        "@stove-labs/arbitrage-bot-swap-execution": "latest",
+        "@stove-labs/arbitrage-bot-token-registry": "latest",
+        "@stove-labs/arbitrage-bot-trigger-chain": "latest",
+        "@stove-labs/granary": "latest",
+        "@stove-labs/tezos-dex-quipuswap": "latest",
+        "@stove-labs/tezos-dex-vortex": "latest",
+        "@stove-labs/tezos-nft-sdk": "latest",
+        "@stove-labs/wxtz-sdk": "latest"
+    }
+}

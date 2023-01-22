@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-apiq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "apiq": "latest",
+        "apiqa": "latest",
+        "apiqe": "latest",
+        "apiql": "latest",
+        "apiql-express": "latest",
+        "apiqq": "latest",
+        "apiquery": "latest",
+        "apiqueue": "latest"
+    }
+}

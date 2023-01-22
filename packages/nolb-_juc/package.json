@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_juc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jucedogi/platzom": "latest",
+        "@jucegt/cors-proxy": "latest",
+        "@juceliohv/meu-modulo-compartilhado": "latest",
+        "@jucesarsilva/notifications-firestone": "latest",
+        "@jucesarsilva/notifications-firestore": "latest",
+        "@jucesarsilva/notifications-frontend-firestore": "latest",
+        "@jucesarsilva/notifications-realtime-database": "latest",
+        "@jucombre/commit-analyzer": "latest",
+        "@jucr/nestjs-kafka-events": "latest",
+        "@jucttr/array": "latest",
+        "@jucttr/object": "latest",
+        "@jucttr/test": "latest"
+    }
+}

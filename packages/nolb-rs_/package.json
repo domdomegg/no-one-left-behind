@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-rs_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rs.array": "latest",
+        "rs.component-library": "latest",
+        "rs.crawlshot": "latest",
+        "rs.designsystem": "latest",
+        "rs.js": "latest",
+        "rs.pineapple.email-sender-module": "latest",
+        "rs.process.interop.node": "latest",
+        "rs_basic_node_test": "latest",
+        "rs_get-file": "latest",
+        "rs_sync_demo": "latest",
+        "rs_test_utils": "latest"
+    }
+}

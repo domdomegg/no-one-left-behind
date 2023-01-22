@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-ccy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ccy": "latest",
+        "ccy-icons": "latest",
+        "ccy-test-actions-publish": "latest",
+        "ccy-test-lib": "latest",
+        "ccy-ui": "latest",
+        "ccy_jf": "latest",
+        "ccyamoah-frame-print": "latest",
+        "ccycle": "latest",
+        "ccyl-pdf-shower": "latest",
+        "ccylovehs": "latest",
+        "ccymysql": "latest",
+        "ccyrlatconventer": "latest",
+        "ccyy-rc-util": "latest",
+        "ccyybb": "latest",
+        "ccyytt": "latest"
+    }
+}

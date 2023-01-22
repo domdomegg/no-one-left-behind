@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-snc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "snc": "latest",
+        "snc-ang-querybuilder": "latest",
+        "snc-assetsbi-rq": "latest",
+        "snc-design-system": "latest",
+        "snc-myfactory-rq": "latest",
+        "snc_dbscan": "latest",
+        "sncare-cli": "latest",
+        "sncb-nmbs-train-search": "latest",
+        "sncc": "latest",
+        "snce-aws-uploader": "latest",
+        "snce-aws-utils": "latest",
+        "snce-frontend-utils": "latest",
+        "sncf": "latest",
+        "sncf-api": "latest",
+        "sncf-delays": "latest",
+        "sncf-wifi-portal-client": "latest",
+        "sncf.js": "latest",
+        "sncicd-install-app": "latest",
+        "sncicd-plugin-activate": "latest",
+        "sncicd-tests-run": "latest",
+        "sncloud": "latest",
+        "snconfig": "latest",
+        "sncorp04": "latest",
+        "sncp": "latest",
+        "sncr-gen": "latest",
+        "sncrypto": "latest"
+    }
+}

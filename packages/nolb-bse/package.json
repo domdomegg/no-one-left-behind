@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-bse",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bse": "latest",
+        "bse-admin": "latest",
+        "bse-datepicker": "latest",
+        "bse-editor": "latest",
+        "bse-productselector": "latest",
+        "bsearch": "latest",
+        "bsearch.js": "latest",
+        "bsecure": "latest",
+        "bsecure-payment-plugin": "latest",
+        "bsecure-payments-js": "latest",
+        "bsem_poc": "latest",
+        "bser": "latest",
+        "bser-item-finder": "latest",
+        "bsergi": "latest",
+        "bsert": "latest",
+        "bserve": "latest",
+        "bservice": "latest"
+    }
+}

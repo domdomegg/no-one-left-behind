@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_elc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@elcalc/evaluate": "latest",
+        "@elcapitansponge/tysql": "latest",
+        "@elchache/firebase-hackernews": "latest",
+        "@elchetz/cld": "latest",
+        "@elchetz/jsonapi-serializer": "latest",
+        "@elchininet/isometric": "latest",
+        "@elchologamer/core": "latest",
+        "@elcoach/react-native-crashlytics": "latest",
+        "@elcoach/react-native-video-elcoach": "latest",
+        "@elcode.cn/util": "latest",
+        "@elcodev/pulumi-istio": "latest",
+        "@elcodev/pulumi-pass": "latest",
+        "@elconder/uicomponents": "latest",
+        "@elcoruco/mexico-states-map": "latest"
+    }
+}

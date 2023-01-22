@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_cr4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cr4zyc4t/babel-preset-react-app": "latest",
+        "@cr4zyc4t/draft-js": "latest",
+        "@cr4zyc4t/eslint-common": "latest",
+        "@cr4zyc4t/eslint-config-common": "latest",
+        "@cr4zyc4t/eslint-config-react-strict": "latest",
+        "@cr4zyc4t/native-styled": "latest",
+        "@cr4zyc4t/phantom-html2pdf": "latest",
+        "@cr4zyc4t/react-contextmenu": "latest",
+        "@cr4zyc4t/react-scripts": "latest",
+        "@cr4zyc4t/react-scrollbars-custom": "latest"
+    }
+}

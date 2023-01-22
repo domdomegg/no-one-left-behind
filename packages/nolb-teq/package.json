@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-teq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "teq": "latest",
+        "teq-components-test": "latest",
+        "teq-draft-js-mention-plugin": "latest",
+        "teq-http": "latest",
+        "teq-router": "latest",
+        "teq-tonic": "latest",
+        "teqarbfmpuvcnkkg": "latest",
+        "teqlabs-testify": "latest",
+        "teqnia-ng-image-fullscreen-view": "latest",
+        "teqnia-ng-image-fullscreen-view-1": "latest",
+        "teqo-ui-library": "latest",
+        "tequery": "latest",
+        "tequid": "latest",
+        "tequila": "latest",
+        "tequila-css": "latest",
+        "tequila-ui": "latest",
+        "tequilajs": "latest"
+    }
+}

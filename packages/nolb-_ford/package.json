@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_ford",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fordate/digit": "latest",
+        "@fordate/extend": "latest",
+        "@fordate/set": "latest",
+        "@fordate/time2input": "latest",
+        "@fordate/week": "latest",
+        "@forde/front": "latest",
+        "@fordi-org/bsimp": "latest",
+        "@fordi-org/buildless": "latest",
+        "@fordi-org/create-element": "latest",
+        "@fordi-org/get-options": "latest",
+        "@fordi-org/noodly": "latest",
+        "@fordi-org/xtc": "latest"
+    }
+}

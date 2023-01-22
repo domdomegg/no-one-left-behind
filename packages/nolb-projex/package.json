@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-projex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "projext": "latest",
+        "projext-plugin-rollup": "latest",
+        "projext-plugin-rollup-angularjs": "latest",
+        "projext-plugin-rollup-react": "latest",
+        "projext-plugin-runner": "latest",
+        "projext-plugin-webpack": "latest",
+        "projext-plugin-webpack-angularjs": "latest",
+        "projext-plugin-webpack-aurelia": "latest",
+        "projext-plugin-webpack-react": "latest",
+        "projextjiangguoqing": "latest"
+    }
+}

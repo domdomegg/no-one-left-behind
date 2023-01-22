@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-brk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brk": "latest",
+        "brk-figma-demo-sln": "latest",
+        "brk-figma-mvp1": "latest",
+        "brk-npm-packages-test": "latest",
+        "brk-tokens-mvp1": "latest",
+        "brkfst-butter-cli": "latest",
+        "brkfst-jam-cli": "latest",
+        "brkfst-pkg-bootstrap-4": "latest",
+        "brkgyln-my-component-library": "latest",
+        "brkgyln-nan-bpm-form-package": "latest",
+        "brkjrdn-sprite-bounds": "latest",
+        "brkn": "latest",
+        "brkn-cli": "latest",
+        "brko_hacker": "latest",
+        "brkontru": "latest"
+    }
+}

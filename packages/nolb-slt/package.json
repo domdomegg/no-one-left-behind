@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-slt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "slt": "latest",
+        "slt-debug": "latest",
+        "slt-user": "latest",
+        "sltc": "latest",
+        "sltechnicaltips-web-api": "latest",
+        "sltechnicaltips-web-api-2": "latest",
+        "sltomd": "latest",
+        "sltool": "latest",
+        "sltools": "latest",
+        "sltree": "latest",
+        "sltt": "latest",
+        "sltx-nexus-plugin-relay-global-id": "latest",
+        "sltx-nexus-plugin-relay-mutation": "latest",
+        "sltx-nexus-plugin-relay-node-interface": "latest",
+        "sltz": "latest"
+    }
+}

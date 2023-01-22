@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-cs4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cs4220_lab4": "latest",
+        "cs462-budget": "latest"
+    }
+}

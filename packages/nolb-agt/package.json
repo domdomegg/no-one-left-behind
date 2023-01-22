@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-agt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "agt": "latest",
+        "agt-backend": "latest",
+        "agt-framework": "latest",
+        "agt-helpers": "latest",
+        "agtardis3d-pankod-cli": "latest",
+        "agtcalendar": "latest",
+        "agtech-logger": "latest",
+        "agthijritogregorian": "latest"
+    }
+}

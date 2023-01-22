@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_tri-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tri-bit/drizop": "latest",
+        "@tri-bit/react-json-previewer": "latest",
+        "@tri-tolstiaka/cli": "latest",
+        "@tri-tolstiaka/dev-server": "latest",
+        "@tri-tolstiaka/dummy": "latest",
+        "@tri-tolstiaka/fire.app": "latest",
+        "@tri-tolstiaka/templates": "latest",
+        "@tri-tolstiaka/webpack-config": "latest"
+    }
+}

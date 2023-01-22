@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_myy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@myy-cli-dev/core": "latest",
+        "@myy-cli-dev/utils": "latest",
+        "@myyalin/ckeditor5-ct-arsa": "latest",
+        "@myyrakle/boom": "latest",
+        "@myyrakle/compare-semver": "latest",
+        "@myyrakle/nest-cli": "latest",
+        "@myyrakle/nestjs-custum-schematics": "latest",
+        "@myyrakle/swagger-axios-codegen": "latest",
+        "@myywlc/antd": "latest",
+        "@myywlc/hello": "latest",
+        "@myywlc/lin-cli": "latest",
+        "@myywlc/nyrm": "latest"
+    }
+}

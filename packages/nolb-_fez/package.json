@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_fez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fezvrasta/babel-plugin-macros": "latest",
+        "@fezvrasta/eslint-plugin-no-iife": "latest",
+        "@fezvrasta/next-env": "latest",
+        "@fezvrasta/react-virtuoso": "latest",
+        "@fezvrasta/tsc-silent": "latest",
+        "@fezzle/joystick": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_lup",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lupa/excel": "latest",
+        "@lupa/lupa": "latest",
+        "@lupa/mock": "latest",
+        "@lupascudan/loopback-sdk-builder": "latest",
+        "@lupe.-/rainbow-log": "latest",
+        "@lupeiran/test-example-block": "latest",
+        "@lupeng_01/lu-cli": "latest",
+        "@luping/js_notebook": "latest",
+        "@lupino/ws-fetch": "latest",
+        "@luplink/ngx-luplink": "latest",
+        "@lupoliemilio/emilios-bot": "latest",
+        "@lupoliemilio/my-fetch": "latest",
+        "@lupu60/nest-toolbox-bunyan-logger": "latest",
+        "@lupu60/nest-toolbox-winston-logger": "latest",
+        "@lupu60/nestjs-toolbox": "latest",
+        "@lupus-ai/mui-currency-textfield": "latest"
+    }
+}

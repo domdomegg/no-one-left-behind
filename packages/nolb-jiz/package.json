@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-jiz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jiz": "latest",
+        "jizaini": "latest",
+        "jizcode-vue": "latest",
+        "jizha": "latest",
+        "jizhang": "latest",
+        "jizhanhao": "latest",
+        "jizhi-tiaodou": "latest",
+        "jizura-datasources": "latest",
+        "jizura-xelatex": "latest"
+    }
+}

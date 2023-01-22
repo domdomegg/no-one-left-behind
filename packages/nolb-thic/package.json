@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-thic",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thicc": "latest",
+        "thick": "latest",
+        "thicker": "latest",
+        "thicker_cli": "latest",
+        "thicket": "latest",
+        "thicket-build-support": "latest",
+        "thicket-camera": "latest",
+        "thicket-elements": "latest",
+        "thicket-zmq-fiber": "latest",
+        "thickshake": "latest",
+        "thickshake-deploy": "latest",
+        "thickshake-images": "latest",
+        "thickshake-styles": "latest"
+    }
+}

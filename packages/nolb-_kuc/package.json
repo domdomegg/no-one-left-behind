@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_kuc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kuchain/pbc-calendar": "latest",
+        "@kucial/first_package": "latest",
+        "@kucial/react-pull-to-refresh": "latest",
+        "@kucial/token.css": "latest",
+        "@kucic/react-native-linesdk": "latest",
+        "@kucic/react-native-nmap": "latest",
+        "@kuckboy/node-upload": "latest",
+        "@kuckboy/prettier-config": "latest",
+        "@kucoin/kcc-bridge-sdk": "latest",
+        "@kucrut/svelte-stuff": "latest",
+        "@kucrut/vite-for-wp": "latest",
+        "@kuczynski/js-sdk": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_kii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kiibohd/usb": "latest",
+        "@kiigame/adventure_engine": "latest",
+        "@kiiid/electron-dl": "latest",
+        "@kiiid/electron-windows-badge": "latest",
+        "@kiina/bigquery-logger": "latest",
+        "@kiina/bot-analytics": "latest",
+        "@kiina/bot-controller": "latest",
+        "@kiina/botmaster-messenger": "latest",
+        "@kiina/botmaster-socket.io": "latest",
+        "@kiina/charts-comparison": "latest",
+        "@kiina/marvin": "latest",
+        "@kiina/node-zendesk": "latest",
+        "@kiina/zendesk-api": "latest",
+        "@kiind/build": "latest",
+        "@kiip/client": "latest",
+        "@kiip/core": "latest",
+        "@kiip/indexeddb": "latest",
+        "@kiip/memorydb": "latest",
+        "@kiip/rxdb": "latest",
+        "@kiip/server": "latest",
+        "@kiip/sqlite": "latest"
+    }
+}

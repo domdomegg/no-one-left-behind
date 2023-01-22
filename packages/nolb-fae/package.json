@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-fae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "FAEN": "latest",
+        "fae": "latest",
+        "fae-css": "latest",
+        "faelribeiro22": "latest",
+        "faemto": "latest",
+        "faer-components": "latest",
+        "faer-web-components": "latest",
+        "faerie": "latest",
+        "faerun-notebook": "latest",
+        "faery": "latest",
+        "faexempressous": "latest"
+    }
+}

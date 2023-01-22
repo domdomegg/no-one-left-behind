@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_maw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mawahujihara/react-native-share-local": "latest",
+        "@mawahujihara/react-native-umeng": "latest",
+        "@mawarblx/mawa": "latest",
+        "@mawarid/dashboard": "latest",
+        "@mawenfeng1997/myplugin.js": "latest",
+        "@mawhea/module-aws-services": "latest",
+        "@mawhea/module-config-singleton": "latest",
+        "@mawhea/module-lambda-handlers": "latest",
+        "@mawhea/module-nodejs-utils": "latest",
+        "@mawhea/module-repositories": "latest",
+        "@mawhea/module-winston-logger": "latest",
+        "@mawhea/ngx-amplify-auth-ui": "latest",
+        "@mawhea/ngx-camera": "latest",
+        "@mawhea/ngx-core": "latest",
+        "@mawindev/framework-script": "latest",
+        "@mawl/components": "latest",
+        "@mawl/models": "latest",
+        "@mawl/scraping-module": "latest",
+        "@mawl/scrapping-module": "latest",
+        "@mawoka/hashcash": "latest",
+        "@mawoka/pbe": "latest"
+    }
+}

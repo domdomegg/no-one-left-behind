@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_mins",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@minskylab/realshadow": "latest",
+        "@minso_minso/auth-browser-sdk": "latest",
+        "@minsohng/react-shadow-dom-retarget-events": "latest",
+        "@minsomai/v-nepalidatepicker": "latest",
+        "@minsoo0715/ex-cli": "latest",
+        "@minstack/factor": "latest",
+        "@minstack/query": "latest",
+        "@minstack/router": "latest",
+        "@minstack/styled": "latest",
+        "@minsu4u/draggable": "latest",
+        "@minsu4u/sortable": "latest",
+        "@minsu4u/sortable-list": "latest",
+        "@minsu4u/sortable2": "latest",
+        "@minsu4u/use-intersection-observer": "latest",
+        "@minsuk4820/nft-metadata-filter": "latest",
+        "@minsulaiman/image-watcher": "latest",
+        "@minswap/blockfrost-adapter": "latest",
+        "@minswap/cardano-serialization-lib-browser": "latest",
+        "@minswap/cardano-serialization-lib-nodejs": "latest",
+        "@minswap/market-cap": "latest",
+        "@minswap/tiny-invariant": "latest"
+    }
+}

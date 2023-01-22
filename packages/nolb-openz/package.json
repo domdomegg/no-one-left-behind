@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-openz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "openzepkole": "latest",
+        "openzeppelin-abis": "latest",
+        "openzeppelin-argent-solidity": "latest",
+        "openzeppelin-contracts": "latest",
+        "openzeppelin-eth": "latest",
+        "openzeppelin-eth-fork": "latest",
+        "openzeppelin-loader": "latest",
+        "openzeppelin-network-test": "latest",
+        "openzeppelin-solidity": "latest",
+        "openzeppelin-solidity-2.3.0": "latest",
+        "openzeppelin-solidity-metadata": "latest",
+        "openzeppelin-test-helpers": "latest",
+        "openzeppelin-token": "latest",
+        "openzeppelin-zos": "latest",
+        "openzipkin-thrift": "latest",
+        "openzipkin-thriftrw": "latest",
+        "openzwave": "latest",
+        "openzwave-shared": "latest",
+        "openzwave_modified": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-slc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "slc": "latest",
+        "slc-parser": "latest",
+        "slc-test": "latest",
+        "slc_impressao-mp20-mi-bematech": "latest",
+        "slc_zk1": "latest",
+        "slcan": "latest",
+        "slcan2ws": "latest",
+        "slcar-cli": "latest",
+        "slck": "latest",
+        "slckeditor5-custom-build": "latest",
+        "slcoocnpm": "latest",
+        "slcovidpm": "latest",
+        "slcss": "latest",
+        "slct": "latest"
+    }
+}

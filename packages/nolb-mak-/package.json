@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-mak-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mak-datepicker-fixed": "latest",
+        "mak-demo-ap": "latest",
+        "mak-reusable-component": "latest",
+        "mak-stack": "latest",
+        "mak-tedious-connection-pool": "latest",
+        "mak-test-components": "latest"
+    }
+}

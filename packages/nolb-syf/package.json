@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-syf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "syf": "latest",
+        "syf-test": "latest",
+        "syf-ui": "latest",
+        "syf-validate-util": "latest",
+        "syf111": "latest",
+        "syf_old": "latest",
+        "syfed-scaffold": "latest",
+        "syfed-table": "latest",
+        "syfed-tree-select": "latest",
+        "syflessse": "latest",
+        "syfmodule": "latest",
+        "syfmto": "latest",
+        "syfol": "latest",
+        "syfrm-vue-print": "latest",
+        "syfszzz": "latest",
+        "syftime": "latest",
+        "syftools": "latest",
+        "syfzcx": "latest"
+    }
+}

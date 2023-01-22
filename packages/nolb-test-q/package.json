@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-test-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "test-q-core": "latest",
+        "test-qe-ui": "latest",
+        "test-qf-npm-module": "latest",
+        "test-qishuixian": "latest",
+        "test-qiupeng": "latest",
+        "test-qmantd": "latest",
+        "test-qq": "latest",
+        "test-qqwq": "latest",
+        "test-qr-react": "latest",
+        "test-qtuzzoff": "latest",
+        "test-quarry-sdk": "latest",
+        "test-query": "latest",
+        "test-queue": "latest",
+        "test-quick-create-demo": "latest",
+        "test-quiz": "latest"
+    }
+}

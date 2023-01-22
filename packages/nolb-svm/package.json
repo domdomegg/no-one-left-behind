@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-svm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svm": "latest",
+        "svm-camera": "latest",
+        "svm-email": "latest",
+        "svm-generator": "latest",
+        "svm-js": "latest",
+        "svm-light": "latest",
+        "svm-nest-lib": "latest",
+        "svm-tools": "latest",
+        "svm-web-sample": "latest",
+        "svm-web-security": "latest",
+        "svm3d": "latest",
+        "svmacs": "latest",
+        "svmconv": "latest",
+        "svmd": "latest",
+        "svme": "latest",
+        "svmilli": "latest",
+        "svmn": "latest",
+        "svmodhandler": "latest",
+        "svmq": "latest",
+        "svms-process-font": "latest",
+        "svms-ui-common": "latest",
+        "svmx-eva-test-a": "latest",
+        "svmx-filter-words": "latest",
+        "svmx-num-fmt": "latest",
+        "svmx-react-scripts": "latest",
+        "svmxc-sfdx": "latest",
+        "svmxc-x": "latest"
+    }
+}

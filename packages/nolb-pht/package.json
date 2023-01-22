@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-pht",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pht": "latest",
+        "phtabs": "latest",
+        "phteven": "latest",
+        "phtevenjs-phtring": "latest",
+        "phtml": "latest",
+        "phtml-define-plus": "latest",
+        "phtml-loader": "latest",
+        "phtml-tape": "latest",
+        "phtml-utility-class": "latest",
+        "phtn": "latest",
+        "phtps": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_ax2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ax2/api-core": "latest",
+        "@ax2/api-media": "latest",
+        "@ax2/api-page": "latest",
+        "@ax2/api-sitemap": "latest",
+        "@ax2/dayjs-module": "latest",
+        "@ax2/document-generation-core": "latest",
+        "@ax2/gpt-ads-module": "latest",
+        "@ax2/lozad-module": "latest",
+        "@ax2/multisite-module": "latest",
+        "@ax2/redirect-ssl": "latest",
+        "@ax2/router": "latest",
+        "@ax2/sitemap-module": "latest",
+        "@ax2/vue-components": "latest",
+        "@ax2/xms-api-core": "latest",
+        "@ax2/xms-core": "latest",
+        "@ax2/xms-crud-module": "latest",
+        "@ax2/xms-dashboard-module": "latest",
+        "@ax2/xms-media-manager": "latest",
+        "@ax2/xms-media-manager-module": "latest",
+        "@ax2/xms-page-builder": "latest",
+        "@ax2/xms-user-role": "latest"
+    }
+}

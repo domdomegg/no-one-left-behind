@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-hexd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hexdex_todo_cli": "latest",
+        "hexdigest": "latest",
+        "hexdo": "latest",
+        "hexdump": "latest",
+        "hexdump-js": "latest",
+        "hexdump-nodejs": "latest",
+        "hexdump-parser": "latest",
+        "hexdump-stream": "latest",
+        "hexdump.js": "latest"
+    }
+}

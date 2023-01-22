@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_spw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@spwashi/language": "latest",
+        "@spwashi/react-d3": "latest",
+        "@spwashi/react-utils-dom": "latest",
+        "@spwashi/spw": "latest",
+        "@spwashi/spw-editor": "latest",
+        "@spwashi/spw-parser": "latest",
+        "@spwisner/component-zenith-input-only": "latest",
+        "@spwisner/component-zenith-test-input": "latest",
+        "@spwisner/helper-zenith-theme": "latest",
+        "@spwisner/project-name": "latest",
+        "@spwisner/zenith-test-library-component": "latest"
+    }
+}

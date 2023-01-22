@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-compod",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "compodoc": "latest",
+        "compodoc-input-only": "latest",
+        "compodoc-interface": "latest",
+        "compodocs-utils": "latest",
+        "compodraw": "latest",
+        "compodraw-instructs": "latest"
+    }
+}

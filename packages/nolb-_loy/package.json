@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_loy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@loyalove/dxf-parser": "latest",
+        "@loyalove/egg-nuxt": "latest",
+        "@loyaltylion/faktory-worker": "latest",
+        "@loyaltylion/jest-expect-typings": "latest",
+        "@loyaltylion/style": "latest",
+        "@loyaltylion/typeorm": "latest",
+        "@loydle/how-to-publish-to-npm": "latest",
+        "@loyhooks/use-axios": "latest",
+        "@loyhooks/use-before-leave": "latest",
+        "@loyhooks/use-confirm": "latest",
+        "@loyhooks/use-fadein": "latest",
+        "@loyhooks/use-fullscreen": "latest",
+        "@loyhooks/use-hover": "latest",
+        "@loyhooks/use-input": "latest",
+        "@loyhooks/use-network": "latest",
+        "@loyhooks/use-preventleave": "latest",
+        "@loyhooks/use-scroll": "latest",
+        "@loyhooks/use-title": "latest",
+        "@loymax-solutions/angular-ui-bootstrap": "latest",
+        "@loymax-solutions/gulp-eslint": "latest",
+        "@loymax-solutions/protractor-helpers": "latest"
+    }
+}

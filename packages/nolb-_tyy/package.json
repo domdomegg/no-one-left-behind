@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_tyy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tyyha/system-ui": "latest",
+        "@tyyha/system-web": "latest",
+        "@tyyha/tqy-system-ui": "latest",
+        "@tyyk/vcss": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_alic-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alic-cli-dev/cloudbuild": "latest",
+        "@alic-cli-dev/command": "latest",
+        "@alic-cli-dev/core": "latest",
+        "@alic-cli-dev/exec": "latest",
+        "@alic-cli-dev/format-path": "latest",
+        "@alic-cli-dev/get-npm-info": "latest",
+        "@alic-cli-dev/git": "latest",
+        "@alic-cli-dev/init": "latest",
+        "@alic-cli-dev/log": "latest",
+        "@alic-cli-dev/package": "latest",
+        "@alic-cli-dev/publish": "latest",
+        "@alic-cli-dev/rename": "latest",
+        "@alic-cli-dev/request": "latest",
+        "@alic-cli-dev/utils": "latest"
+    }
+}

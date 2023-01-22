@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-vef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vef": "latest",
+        "vef-ui": "latest",
+        "vefa": "latest",
+        "vefa-static": "latest",
+        "veff2-infinity-modules": "latest",
+        "vefforritun-2-2018": "latest",
+        "vefforritun22019": "latest",
+        "vefi-multi-sig": "latest",
+        "vefi-nfts-v2": "latest",
+        "vefi-token-launchpad-staking": "latest",
+        "veflow": "latest",
+        "veform": "latest"
+    }
+}

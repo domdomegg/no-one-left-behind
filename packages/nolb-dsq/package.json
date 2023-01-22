@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-dsq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dsq": "latest",
+        "dsq-s3": "latest",
+        "dsq_tool": "latest",
+        "dsqhost-js-tools": "latest",
+        "dsql": "latest",
+        "dsqlcore": "latest",
+        "dsqueue": "latest"
+    }
+}

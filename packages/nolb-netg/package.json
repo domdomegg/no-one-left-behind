@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-netg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "netgame": "latest",
+        "netgame-client": "latest",
+        "netgate": "latest",
+        "netgate-mongoose": "latest",
+        "netgear": "latest",
+        "netgear-r7300": "latest",
+        "netglyph": "latest",
+        "netgosms": "latest",
+        "netgsm": "latest",
+        "netguru-bootstrapper-4": "latest",
+        "netguru-react-scripts": "latest"
+    }
+}

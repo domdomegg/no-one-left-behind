@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_digin",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@digination/digination-ui": "latest",
+        "@diginet/cors-proxy": "latest",
+        "@diginet/dfm2json": "latest",
+        "@diginet/flatify": "latest",
+        "@diginet/noice-json-rpc": "latest",
+        "@diginet/ra-customizable-datagrid": "latest",
+        "@diginet/seq-logger": "latest",
+        "@diginet/tcp-proxy": "latest",
+        "@diginetica/any-query-react": "latest",
+        "@diginetica/core": "latest",
+        "@diginex/libra-core": "latest",
+        "@diginex/multer": "latest",
+        "@diginize/siro-wifi": "latest"
+    }
+}

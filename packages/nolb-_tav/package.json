@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_tav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tavanasystem/advance-toolbar": "latest",
+        "@tavanasystem/tips-mat-table": "latest",
+        "@tavata/ui": "latest",
+        "@taven-liu/mono-demo-components": "latest",
+        "@taven-liu/monorepo-demo-components": "latest",
+        "@taven-liu/monorepo-demo-utils": "latest",
+        "@taven-liu/npm-publish-test": "latest",
+        "@tavernard/eslint-config": "latest",
+        "@tavernier-app/tavernier-toolbox": "latest",
+        "@tavernjs/tavern": "latest",
+        "@tavexit/cottonmouth": "latest",
+        "@tavexit/nemid": "latest",
+        "@tavito/tavito-npm": "latest",
+        "@tavolando/platzimediaplayer": "latest"
+    }
+}

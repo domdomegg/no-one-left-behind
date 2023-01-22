@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-simk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simkey": "latest",
+        "simkin-tiny-tools": "latest",
+        "simkit-bootstrap-ui-kit": "latest",
+        "simkuring-cli": "latest"
+    }
+}

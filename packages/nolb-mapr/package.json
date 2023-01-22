@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-mapr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mapr-js": "latest",
+        "mapr-list": "latest",
+        "mapray-js": "latest",
+        "mapray-js-monorepo": "latest",
+        "mapred": "latest",
+        "mapred.io": "latest",
+        "mapreduce": "latest",
+        "mapreducejs": "latest",
+        "mapreplace": "latest",
+        "maprereduce": "latest",
+        "maprest": "latest",
+        "maprest.js": "latest",
+        "mapreusable": "latest",
+        "maprify": "latest",
+        "mapro84": "latest",
+        "mapromise": "latest",
+        "maprotator3000": "latest",
+        "maproxy": "latest",
+        "maprs-sticky-advert-test": "latest"
+    }
+}

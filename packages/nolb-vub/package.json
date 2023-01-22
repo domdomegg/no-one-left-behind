@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-vub",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vub": "latest",
+        "vub-ecard": "latest",
+        "vub-hello-cli": "latest",
+        "vubak": "latest",
+        "vubel": "latest",
+        "vubo": "latest",
+        "vubox": "latest",
+        "vubsub": "latest",
+        "vubx": "latest",
+        "vubylon": "latest"
+    }
+}

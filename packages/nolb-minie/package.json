@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-minie",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "minie": "latest",
+        "miniearth-sdk": "latest",
+        "miniechart": "latest",
+        "minied_utils": "latest",
+        "minieditor": "latest",
+        "minieditor-vc": "latest",
+        "miniee": "latest",
+        "miniesecurity": "latest",
+        "minievent": "latest",
+        "miniexam": "latest",
+        "minieye-device-data-common": "latest",
+        "minieye-device-data-common2": "latest",
+        "minieye-rpc-client": "latest",
+        "minieye-user-common": "latest"
+    }
+}

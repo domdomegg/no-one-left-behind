@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_ict",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ictglobe-public/common": "latest",
+        "@ictgroup/communication": "latest",
+        "@ictgroup/configuration": "latest",
+        "@ictgroup/globals": "latest",
+        "@ictgroup/ui-messages": "latest",
+        "@ictgroup/ui-repo": "latest",
+        "@ictickets/common": "latest",
+        "@ictoanen/pub-sub": "latest",
+        "@ictrobot/aoc-leaderboard": "latest",
+        "@ictrobot/c2wasm": "latest",
+        "@ictu/axe-reports": "latest",
+        "@ictu/testx": "latest",
+        "@ictu/testx-http-keywords": "latest",
+        "@ictu/testx-keywords-postgres": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-libk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "libk": "latest",
+        "libkarai-js": "latest",
+        "libkct": "latest",
+        "libkeen": "latest",
+        "libkernel": "latest",
+        "libkernelalpha": "latest",
+        "libkerneldev": "latest",
+        "libkeybase": "latest",
+        "libkicad": "latest",
+        "libkim": "latest",
+        "libkit": "latest",
+        "libkjsone": "latest",
+        "libkmodule": "latest",
+        "libkss-js": "latest",
+        "libkv": "latest"
+    }
+}

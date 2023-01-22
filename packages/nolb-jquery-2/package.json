@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-jquery-2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jquery-2-patched": "latest",
+        "jquery-2-typescript-async-await-adapter": "latest",
+        "jquery-2.1": "latest"
+    }
+}

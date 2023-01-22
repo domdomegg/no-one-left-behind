@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-expressf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "expressflix": "latest",
+        "expressfold": "latest",
+        "expressfr": "latest",
+        "expressframe": "latest",
+        "expressfrombehind": "latest",
+        "expressfs": "latest",
+        "expressful": "latest",
+        "expressful-content": "latest",
+        "expressful-example": "latest",
+        "expressful-scripts": "latest",
+        "expressful-tools": "latest"
+    }
+}

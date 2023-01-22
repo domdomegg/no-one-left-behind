@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-seru",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "serum": "latest",
+        "serum-machine": "latest",
+        "serum-ts-pipdex": "latest",
+        "serum-vial": "latest",
+        "serumjs": "latest",
+        "serumm-ts-pipdex": "latest",
+        "serususock": "latest"
+    }
+}

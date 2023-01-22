@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_testk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@testkit-labs/cli": "latest",
+        "@testkit-labs/codeceptjs-helper": "latest",
+        "@testkit-labs/cypress-runner": "latest",
+        "@testkrishanu/krishanutest": "latest"
+    }
+}

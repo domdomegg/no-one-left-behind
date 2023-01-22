@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-nod-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nod-commons": "latest",
+        "nod-consultas-sqlite": "latest",
+        "nod-eth": "latest",
+        "nod-ex-generator": "latest",
+        "nod-frame-print": "latest",
+        "nod-nft-mint-and-check-token": "latest",
+        "nod-pg-manager": "latest",
+        "nod-react-scripts": "latest",
+        "nod-validate": "latest",
+        "nod-validation": "latest"
+    }
+}

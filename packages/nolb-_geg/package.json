@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_geg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gegeweb/leaflet-routing-machine-openroute": "latest",
+        "@gegyhamdani/is-int": "latest"
+    }
+}

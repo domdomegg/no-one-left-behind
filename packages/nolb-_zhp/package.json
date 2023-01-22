@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_zhp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zhp-fe/zhp-cli": "latest",
+        "@zhp-pl/ui": "latest",
+        "@zhpfe/cli": "latest",
+        "@zhpfe/design": "latest",
+        "@zhpfe/fabric": "latest",
+        "@zhpfe/icons": "latest",
+        "@zhpfe/markdown-loader": "latest",
+        "@zhpfe/touch-emulator": "latest"
+    }
+}

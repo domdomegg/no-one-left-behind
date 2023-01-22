@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-eggd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eggdb": "latest",
+        "eggdb-array": "latest",
+        "eggdb-bson": "latest",
+        "eggdesign": "latest",
+        "eggdesign-ui": "latest",
+        "eggdown": "latest",
+        "eggdrop": "latest"
+    }
+}

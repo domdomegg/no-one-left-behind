@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-rsw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rsw": "latest",
+        "rsw-node": "latest",
+        "rswaf-icx-converter": "latest",
+        "rswaf-screenshoter": "latest",
+        "rswartzendruber-frame-print": "latest",
+        "rswebcapture": "latest",
+        "rswing": "latest",
+        "rswp-sdk": "latest"
+    }
+}

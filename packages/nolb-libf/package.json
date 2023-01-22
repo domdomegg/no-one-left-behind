@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-libf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "libf1": "latest",
+        "libf2": "latest",
+        "libfaketime-env": "latest",
+        "libfas": "latest",
+        "libfast": "latest",
+        "libfb": "latest",
+        "libfec": "latest",
+        "libfel": "latest",
+        "libffi": "latest",
+        "libfhqcli-web-js": "latest",
+        "libfilterlyl": "latest",
+        "libflacjs": "latest",
+        "libflare": "latest",
+        "libflattree": "latest",
+        "libflif.js": "latest",
+        "libflitter": "latest",
+        "libfluid": "latest",
+        "libfn": "latest",
+        "libfortuna": "latest",
+        "libfs": "latest",
+        "libfsasync": "latest",
+        "libft": "latest",
+        "libftdi": "latest",
+        "libfun": "latest",
+        "libfuse": "latest",
+        "libfuzzer-sys": "latest",
+        "libfyffe": "latest"
+    }
+}

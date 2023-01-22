@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-caq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "caq": "latest",
+        "caqaz-ca-ca-ca-ca-ca-ca-ca-ca-ca-ca-ca-caqaz": "latest",
+        "caql": "latest",
+        "caql-decompiler": "latest",
+        "caql-js-compiler": "latest",
+        "caqti-async-ppx": "latest",
+        "caqui": "latest"
+    }
+}

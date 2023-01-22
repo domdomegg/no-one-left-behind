@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-redux-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "redux-x-action": "latest",
+        "redux-xforms": "latest",
+        "redux-xhr-middleware": "latest",
+        "redux-xs": "latest",
+        "redux-xstate": "latest",
+        "redux-xtras": "latest"
+    }
+}

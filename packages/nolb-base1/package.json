@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-base1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "base1": "latest",
+        "base10-36luhnalgorithm": "latest",
+        "base11": "latest",
+        "base1112064": "latest",
+        "base12": "latest",
+        "base128": "latest",
+        "base128-encoding": "latest",
+        "base1396": "latest",
+        "base16": "latest",
+        "base16-builder": "latest",
+        "base16-builder-node": "latest",
+        "base16-builder-ts": "latest",
+        "base16-builder-typescript": "latest",
+        "base16-json": "latest",
+        "base16-prism": "latest",
+        "base16-tomorrow-dark-vscode": "latest",
+        "base16-ts": "latest",
+        "base16.js": "latest",
+        "base16384": "latest",
+        "base16dark": "latest",
+        "base18813unitedstatesconstitution": "latest"
+    }
+}

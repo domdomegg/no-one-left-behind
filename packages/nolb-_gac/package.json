@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_gac",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gaccc/app-homepage": "latest",
+        "@gachamon/controller": "latest",
+        "@gachamon/template": "latest",
+        "@gachamon/ui": "latest",
+        "@gachou/gachou-backend": "latest",
+        "@gachou/testdata": "latest",
+        "@gaconkzk/flyui": "latest",
+        "@gaconkzk/flyui-svelte": "latest",
+        "@gaconkzk/flyui-vue3": "latest",
+        "@gacquroff/lotide": "latest",
+        "@gact/css": "latest",
+        "@gact/history": "latest",
+        "@gact/key": "latest",
+        "@gact/react-router": "latest",
+        "@gact/react-store": "latest",
+        "@gact/store": "latest"
+    }
+}

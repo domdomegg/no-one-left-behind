@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-react-wp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-wp": "latest",
+        "react-wp-admin": "latest",
+        "react-wp-api": "latest",
+        "react-wp-blog": "latest",
+        "react-wp-cli": "latest",
+        "react-wp-content-loader": "latest",
+        "react-wp-context": "latest",
+        "react-wp-rest-api-provider": "latest",
+        "react-wp-scripts": "latest",
+        "react-wp-ssr": "latest"
+    }
+}

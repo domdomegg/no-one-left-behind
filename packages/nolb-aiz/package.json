@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-aiz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aiz": "latest",
+        "aiz-d3-org-chart": "latest",
+        "aiz-img-crop": "latest",
+        "aiz-react-beautiful-dnd": "latest",
+        "aizaworld_sdk": "latest",
+        "aizenangel-frame-print": "latest",
+        "aizentech-core": "latest",
+        "aizentech-events-core": "latest",
+        "aizhi_uum": "latest",
+        "aiziji-zhishi-yige-kaishi": "latest",
+        "aizk-ui-react": "latest",
+        "aizuji": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-styf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "styf-vue-cli": "latest",
+        "styfle": "latest",
+        "styflux": "latest",
+        "styflux2": "latest"
+    }
+}

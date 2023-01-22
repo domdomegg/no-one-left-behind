@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-json-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "json-joi": "latest",
+        "json-joi-converter": "latest",
+        "json-joke": "latest",
+        "json-joust": "latest",
+        "json-joy": "latest",
+        "json-jql": "latest",
+        "json-js": "latest",
+        "json-js-env": "latest",
+        "json-js-env-cli": "latest",
+        "json-json-template": "latest",
+        "json-json-view": "latest",
+        "json-jsonpath-diff": "latest",
+        "json-jsx": "latest",
+        "json-jsx-converter": "latest",
+        "json-junit": "latest"
+    }
+}

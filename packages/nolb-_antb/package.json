@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_antb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@antbat/base-client-js": "latest",
+        "@antbat/datasource": "latest",
+        "@antbat/logger": "latest",
+        "@antby/eslint-config": "latest",
+        "@antby/eslint-config-basic": "latest",
+        "@antby/eslint-config-ts": "latest"
+    }
+}

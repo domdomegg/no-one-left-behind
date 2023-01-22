@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_imh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@imhele/act-auth-jan": "latest",
+        "@imhele/eslint-plugin": "latest",
+        "@imhele/gulp-prettier": "latest",
+        "@imhele/ots": "latest",
+        "@imhele/prettier-config": "latest",
+        "@imhele/radix": "latest",
+        "@imhele/rule-set-scripts": "latest",
+        "@imhele/stylelint-config": "latest",
+        "@imhele/tsconfig": "latest",
+        "@imhele/webpack-theme-color-replacer": "latest",
+        "@imhilla/hsl-to-hex": "latest",
+        "@imhjh/common": "latest",
+        "@imhjh/server": "latest",
+        "@imhjh/webpack": "latest",
+        "@imhoff/colors": "latest",
+        "@imhoff/csv": "latest",
+        "@imhoff/eslint-config": "latest",
+        "@imhoff/google-fonts-downloader": "latest",
+        "@imhoff/prettier-config": "latest",
+        "@imhoff/react-hooks": "latest",
+        "@imhoff/rehype-shiki": "latest",
+        "@imhsp/electron-quick-start": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-bld",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bld": "latest",
+        "bld-cli": "latest",
+        "bld-core": "latest",
+        "bld-scene-writer": "latest",
+        "bld-tslint-config-standard": "latest",
+        "bld-wc-stencil": "latest",
+        "bld.js": "latest",
+        "blddlts": "latest",
+        "bldg25-chat": "latest",
+        "bldg25-chat-server": "latest",
+        "bldr": "latest"
+    }
+}

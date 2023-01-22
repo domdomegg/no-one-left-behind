@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_trivia",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trivia-time/assets": "latest",
+        "@triviality/commander": "latest",
+        "@triviality/core": "latest",
+        "@triviality/eventsourcing": "latest",
+        "@triviality/eventsourcing-redux": "latest",
+        "@triviality/logger": "latest",
+        "@triviality/react": "latest",
+        "@triviality/redux": "latest",
+        "@triviality/serializer": "latest",
+        "@triviality/storage": "latest"
+    }
+}

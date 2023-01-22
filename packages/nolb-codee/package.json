@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-codee",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "codee_hanyubo": "latest",
+        "codeebo-react-grid": "latest",
+        "codeeditor2": "latest",
+        "codeee_hanyubo": "latest",
+        "codeeggs": "latest",
+        "codeengineering-lib": "latest",
+        "codeep37-utils": "latest",
+        "codeet-ui": "latest",
+        "codeethers": "latest",
+        "codeeval-runner": "latest",
+        "codeevent": "latest"
+    }
+}

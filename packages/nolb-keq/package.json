@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-keq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "keq": "latest",
+        "keq-cli": "latest",
+        "keq-debug": "latest",
+        "keq-exception": "latest",
+        "keq-headers": "latest",
+        "keq-proxy": "latest",
+        "keq-swagger-path": "latest",
+        "keq-url-template": "latest",
+        "keqin-video-player": "latest",
+        "keqin-vue-video-player": "latest",
+        "kequapp": "latest",
+        "kequjwt": "latest",
+        "kequtest": "latest",
+        "kequtwitch": "latest"
+    }
+}

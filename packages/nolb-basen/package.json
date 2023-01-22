@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-basen",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "basen": "latest",
+        "basename": "latest",
+        "basename-cli": "latest",
+        "basenine": "latest",
+        "basenji": "latest",
+        "basenji-tools": "latest",
+        "basenumber": "latest"
+    }
+}

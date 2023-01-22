@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_semir",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@semir_serapion/button": "latest",
+        "@semir_serapion/components": "latest",
+        "@semir_serapion/footer-hand-creme": "latest",
+        "@semir_serapion/input": "latest"
+    }
+}

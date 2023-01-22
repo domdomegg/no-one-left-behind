@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_semib",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@semibold/browser-storage": "latest",
+        "@semibold/closure-compiler-plugin": "latest",
+        "@semibold/fullscreen": "latest",
+        "@semibran/fs-tree": "latest",
+        "@semibran/manifest": "latest",
+        "@semibran/patch": "latest"
+    }
+}

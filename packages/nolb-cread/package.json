@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-cread",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cread": "latest",
+        "creaded-amazon-shared-lib": "latest",
+        "creadits-editor5-image-upload": "latest",
+        "creador-de-desafios-pilasbloques": "latest",
+        "creador-de-grupos": "latest",
+        "cready": "latest"
+    }
+}

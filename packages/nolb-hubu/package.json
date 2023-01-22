@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-hubu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hubu": "latest",
+        "hubucket": "latest",
+        "hubudp": "latest",
+        "hubular": "latest",
+        "hubuntu-ui": "latest",
+        "hubup": "latest",
+        "huburn": "latest",
+        "hubutton": "latest",
+        "hubutui": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-usei",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "useid-eservice-sdk": "latest",
+        "useify": "latest",
+        "useimageloadstate": "latest",
+        "useimg": "latest",
+        "useinputdebounce": "latest",
+        "useintldates": "latest",
+        "useismobile": "latest",
+        "useismouse": "latest",
+        "useit": "latest",
+        "useitch": "latest"
+    }
+}

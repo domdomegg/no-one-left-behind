@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_elw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@elwell/blocko": "latest",
+        "@elwiiman/cr-stylesguide-test1": "latest",
+        "@elwinvdhazel/elastique-stretch-core": "latest",
+        "@elwood-studio/cli": "latest",
+        "@elwood-studio/distribute-compiler": "latest",
+        "@elwood-studio/distribute-nextjs": "latest",
+        "@elwood-studio/distribute-react": "latest",
+        "@elwood-studio/distribute-types": "latest",
+        "@elwood-studio/primer-components": "latest",
+        "@elwood-studio/storage-cli": "latest",
+        "@elwood-studio/storage-config": "latest",
+        "@elwood-studio/storage-git-remote": "latest",
+        "@elwood-studio/storage-manager": "latest",
+        "@elwood-studio/types": "latest",
+        "@elwood-studio/workflow-config": "latest",
+        "@elwood-studio/workflow-runner": "latest",
+        "@elwood-studio/workflow-secrets": "latest",
+        "@elwood-studio/workflow-server": "latest",
+        "@elwood-studio/workflow-types": "latest",
+        "@elwood-technology/sqlite": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-dbk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dbk": "latest",
+        "dbk-1901-rk1": "latest",
+        "dbk-1902a-day1": "latest",
+        "dbk-1902a-rk1": "latest",
+        "dbk-1902a-zk1": "latest",
+        "dbk-affiliatewindow": "latest",
+        "dbk-aws-utils": "latest",
+        "dbk-breakpoints": "latest",
+        "dbk-changelog": "latest",
+        "dbk-dbk": "latest",
+        "dbk-dbk1": "latest",
+        "dbk-rakuten": "latest",
+        "dbk-seed": "latest",
+        "dbk-top-level-layouts": "latest",
+        "dbk-xmpp-server": "latest",
+        "dbkaplun": "latest",
+        "dbkit": "latest",
+        "dbkr": "latest",
+        "dbks": "latest",
+        "dbkvtz-math-helper": "latest"
+    }
+}

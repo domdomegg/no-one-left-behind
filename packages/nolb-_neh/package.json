@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_neh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@neh_jain/awesome-buttons": "latest",
+        "@neha3195g/react-boiler-dummy": "latest",
+        "@nehaakram12/image-lazy-loader": "latest",
+        "@nehaakram12/lazy-loader": "latest",
+        "@nehaakram12/tiny": "latest",
+        "@nehakarmakar/inputcomponent": "latest",
+        "@nehalist/gatsby-theme-nehalem": "latest",
+        "@nehalk/is-palindrome-js": "latest",
+        "@nehasharma/currencyconventor": "latest",
+        "@nehasharma/currencyconvertor": "latest",
+        "@nehasharma/mathfun": "latest",
+        "@nehasharma/tempconvert": "latest",
+        "@nehasijaria/lotide": "latest",
+        "@neherlab/nextclade": "latest",
+        "@nehrdani/babel-preset-kickstart": "latest",
+        "@nehrdani/kickstart": "latest",
+        "@nehrdani/kickstart-dev-utils": "latest",
+        "@nehring/react-useform": "latest",
+        "@nehring/serverless-component-forward-host": "latest",
+        "@nehrr/utils": "latest",
+        "@nehsharmms/jwt": "latest"
+    }
+}

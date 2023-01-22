@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-treo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "treo": "latest",
+        "treo-promise": "latest",
+        "treo-websql": "latest",
+        "treon": "latest",
+        "treos-bootconfig": "latest",
+        "treos-deploy": "latest",
+        "treos-local-config": "latest",
+        "treos-system-meta": "latest",
+        "treos-update": "latest"
+    }
+}

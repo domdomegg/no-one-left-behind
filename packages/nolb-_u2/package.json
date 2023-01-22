@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_u2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@u20170424/demo-u20170424": "latest",
+        "@u27n/core": "latest",
+        "@u27n/preact": "latest",
+        "@u27n/typescript": "latest",
+        "@u27n/webpack": "latest",
+        "@u29dc/set": "latest",
+        "@u2dv/feature-toggle-client": "latest",
+        "@u2dv/marketplace_common": "latest",
+        "@u2dv/marketplace_ui_kit": "latest",
+        "@u2i/jsonapi-serializer": "latest",
+        "@u2i/slim-select": "latest",
+        "@u2takey/jupyter-lab-serverless": "latest"
+    }
+}

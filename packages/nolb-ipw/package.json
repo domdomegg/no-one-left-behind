@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-ipw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ipwa": "latest",
+        "ipwa-demo": "latest",
+        "ipware": "latest",
+        "ipwhere": "latest",
+        "ipwm": "latest",
+        "ipwnedyou": "latest",
+        "ipwords": "latest",
+        "ipworks": "latest",
+        "ipwp-cli": "latest",
+        "ipws": "latest",
+        "ipws-content": "latest"
+    }
+}

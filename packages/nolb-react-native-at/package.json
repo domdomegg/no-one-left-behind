@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-react-native-at",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-atende-pah": "latest",
+        "react-native-atlas": "latest",
+        "react-native-atom": "latest",
+        "react-native-atom-payment": "latest",
+        "react-native-atom-template": "latest",
+        "react-native-atom-template-typescript": "latest",
+        "react-native-atome-paylater": "latest",
+        "react-native-atomic": "latest",
+        "react-native-atomic-file-ops": "latest",
+        "react-native-atomic-styles": "latest",
+        "react-native-atomize": "latest",
+        "react-native-atoms": "latest",
+        "react-native-atoz-list": "latest",
+        "react-native-atoz-list-assac": "latest",
+        "react-native-atoz-list2": "latest",
+        "react-native-atoz-listview": "latest",
+        "react-native-attention-grabber": "latest",
+        "react-native-attitude": "latest",
+        "react-native-atuoheight-webview": "latest"
+    }
+}

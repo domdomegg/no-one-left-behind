@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-htz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htz": "latest",
+        "htz-auto-changelog-tmpl": "latest",
+        "htz-commons-lib": "latest",
+        "htz-desktop": "latest",
+        "htz-dispatch-event": "latest",
+        "htz-gulu": "latest",
+        "htz-inter": "latest",
+        "htz-mag": "latest",
+        "htz-new-sercive": "latest",
+        "htz-padding": "latest",
+        "htz-sassbp": "latest",
+        "htz-ttf2woff": "latest",
+        "htzfirstf": "latest",
+        "htzg": "latest",
+        "htzg-view": "latest",
+        "htzh-app100": "latest",
+        "htzh-ui": "latest",
+        "htzq-front-cli": "latest",
+        "htzr-api": "latest",
+        "htzr-types": "latest"
+    }
+}

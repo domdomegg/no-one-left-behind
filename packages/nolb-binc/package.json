@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-binc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "binc": "latest",
+        "bincan": "latest",
+        "binch": "latest",
+        "binci": "latest",
+        "bincode-bindings": "latest",
+        "bincode-ts": "latest",
+        "bincoding-test": "latest",
+        "bincoding-ui": "latest",
+        "bincon": "latest",
+        "binconv": "latest",
+        "bincr": "latest",
+        "bincraft": "latest",
+        "bincube": "latest"
+    }
+}

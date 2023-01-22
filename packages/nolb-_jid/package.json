@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_jid",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jidayyy/helloworld": "latest",
+        "@jidayyy/usehover": "latest",
+        "@jidayyy/useonclickoutside": "latest",
+        "@jidayyy/usewindowdimension": "latest",
+        "@jidelaguila/minimalista": "latest",
+        "@jidiart/sesamy-button": "latest",
+        "@jidibingren/ios-ipa-server": "latest",
+        "@jidibingren/simple-fileserver": "latest"
+    }
+}

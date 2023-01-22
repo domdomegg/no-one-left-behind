@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-vsp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vsp": "latest",
+        "vsp-js-helper": "latest",
+        "vsp-nodejs-examples": "latest",
+        "vsp-shared-angular-commons": "latest",
+        "vsparser": "latest",
+        "vspec": "latest",
+        "vsphere": "latest",
+        "vsphere-connect": "latest",
+        "vsphere-infra": "latest",
+        "vsphere-schema": "latest",
+        "vsphere-web-services-soap": "latest",
+        "vsplatzom": "latest",
+        "vspn": "latest",
+        "vspread": "latest",
+        "vsproj": "latest",
+        "vsproject": "latest",
+        "vspxr-cli": "latest",
+        "vspy": "latest"
+    }
+}

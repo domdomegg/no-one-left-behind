@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_microo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@microon/abc": "latest",
+        "@microon/acl": "latest",
+        "@microon/auth": "latest",
+        "@microon/cache": "latest",
+        "@microon/mock": "latest",
+        "@microon/platform": "latest",
+        "@microon/theme": "latest"
+    }
+}

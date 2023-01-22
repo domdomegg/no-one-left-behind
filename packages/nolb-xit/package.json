@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-xit",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "xit": "latest",
+        "xit-logger": "latest",
+        "xit-parse": "latest",
+        "xita-liaoyu": "latest",
+        "xita-liaoyu-xinnian-wajue": "latest",
+        "xite-reporting-sdk": "latest",
+        "xitech": "latest",
+        "xitech-cli": "latest",
+        "xitech-utils": "latest",
+        "xiter": "latest",
+        "xiteup": "latest",
+        "xiti": "latest",
+        "xiti-smarttag-plugin": "latest",
+        "xitilianijsad": "latest",
+        "xitkov": "latest",
+        "xitme": "latest",
+        "xitong-fenxi-yusheji": "latest",
+        "xitong-fenxi-yusheji-daolun": "latest",
+        "xitong-fenxi-yusheji-jiaocheng": "latest",
+        "xitong-fenxi-yusheji-minjie-diedai-fangfa": "latest",
+        "xitong-pailiede-quanxi-zhihui": "latest",
+        "xitsonga-words": "latest",
+        "xitypansisd": "latest"
+    }
+}

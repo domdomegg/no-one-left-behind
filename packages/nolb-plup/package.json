@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-plup",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "plupload": "latest",
+        "plupload-antd-react": "latest",
+        "plupload-es6": "latest",
+        "plupload-i18n-es": "latest",
+        "plupload-stop": "latest",
+        "plupload_2.1.9": "latest",
+        "plupload_v3": "latest"
+    }
+}

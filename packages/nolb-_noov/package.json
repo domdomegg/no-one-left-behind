@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_noov",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@noovolari/dpapi-addon": "latest",
+        "@noovolari/leapp-cli": "latest",
+        "@noovolari/leapp-cli-nightly": "latest",
+        "@noovolari/leapp-core": "latest",
+        "@noovolari/leapp-core-nightly": "latest"
+    }
+}

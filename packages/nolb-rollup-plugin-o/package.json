@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-rollup-plugin-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rollup-plugin-obfuscator": "latest",
+        "rollup-plugin-object-exists": "latest",
+        "rollup-plugin-off-main-thread": "latest",
+        "rollup-plugin-onerror": "latest",
+        "rollup-plugin-openapi": "latest",
+        "rollup-plugin-opencc": "latest",
+        "rollup-plugin-optimal-minify": "latest",
+        "rollup-plugin-optimize": "latest",
+        "rollup-plugin-optimize-arguments": "latest",
+        "rollup-plugin-optimize-js": "latest",
+        "rollup-plugin-optimize-lodash-imports": "latest",
+        "rollup-plugin-optional": "latest",
+        "rollup-plugin-oss": "latest",
+        "rollup-plugin-output": "latest",
+        "rollup-plugin-output-manifest": "latest",
+        "rollup-plugin-output-size": "latest",
+        "rollup-plugin-overture": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-home_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "home.dll": "latest",
+        "home.js": "latest",
+        "home.min.js": "latest",
+        "home_a_b_d_w_w_e": "latest",
+        "home_assistant_electron": "latest",
+        "home_auto": "latest",
+        "home_element-ui-ceshi": "latest",
+        "home_lh2580": "latest",
+        "home_li": "latest",
+        "home_qzui": "latest",
+        "home_work14_button_counter": "latest"
+    }
+}

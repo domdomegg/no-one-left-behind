@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-color_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "color.css": "latest",
+        "color.dll": "latest",
+        "color.dove-header": "latest",
+        "color.flow": "latest",
+        "color.js": "latest",
+        "color.min.js": "latest",
+        "color_all_paragraphs": "latest",
+        "color_cat-ngx-treetable": "latest",
+        "color_cellxgene_spatial": "latest",
+        "color_console_log": "latest",
+        "color_game": "latest",
+        "color_identifier": "latest",
+        "color_library": "latest",
+        "color_log": "latest",
+        "color_name_converter": "latest",
+        "color_orelito": "latest",
+        "color_pals": "latest",
+        "color_picker_component": "latest",
+        "color_project": "latest",
+        "color_ramps": "latest",
+        "color_scheme_app": "latest",
+        "color_scheme_library": "latest",
+        "color_swatch_react2": "latest",
+        "color_test95": "latest"
+    }
+}

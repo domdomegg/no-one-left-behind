@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-tinya",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "TinyAnimate": "latest",
+        "tinyacl": "latest",
+        "tinyact": "latest",
+        "tinyajax": "latest",
+        "tinyangrykitten-simplebankclient": "latest",
+        "tinyanims": "latest",
+        "tinyanyimg": "latest",
+        "tinyapp": "latest",
+        "tinyapp-enhance": "latest",
+        "tinyapp-radio-button": "latest",
+        "tinyapp-redux": "latest",
+        "tinyapp-typing": "latest",
+        "tinyapp_nid": "latest",
+        "tinyargs": "latest",
+        "tinyauth": "latest"
+    }
+}

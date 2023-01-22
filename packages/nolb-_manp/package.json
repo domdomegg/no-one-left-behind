@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_manp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@manpacker/cli": "latest",
+        "@manpacker/generator": "latest",
+        "@manpacker/generator-react": "latest",
+        "@manpacker/generator-vue": "latest",
+        "@manpacker/noden": "latest",
+        "@manpower/vue-components": "latest",
+        "@manpreet30/vue-bar-graph": "latest",
+        "@manpreethehe/contract": "latest"
+    }
+}

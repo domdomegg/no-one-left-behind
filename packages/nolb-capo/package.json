@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-capo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "capo": "latest",
+        "capo-anti-links": "latest",
+        "capo-anti-swear": "latest",
+        "capo-data-sourcer": "latest",
+        "capoeira": "latest",
+        "caponata": "latest",
+        "capone": "latest",
+        "capone-cli": "latest",
+        "capontap-to-freeagent": "latest",
+        "capoo": "latest",
+        "capops": "latest",
+        "caporal": "latest",
+        "caporal-loader": "latest",
+        "capot": "latest",
+        "capot-billing": "latest",
+        "capot-contacts": "latest"
+    }
+}

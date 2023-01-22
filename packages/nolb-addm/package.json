@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-addm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "addmath": "latest",
+        "addmd5": "latest",
+        "addmefast": "latest",
+        "addmeshreyas": "latest",
+        "addmius": "latest",
+        "addmodule": "latest",
+        "addmonths": "latest",
+        "addmy-design-system": "latest",
+        "addmyip": "latest",
+        "addmynumber": "latest"
+    }
+}

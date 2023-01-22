@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_whu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@whu-court/auto-update": "latest",
+        "@whu-court/cli": "latest",
+        "@whu-court/config-manager": "latest",
+        "@whu-court/core": "latest",
+        "@whu-court/env": "latest",
+        "@whu-court/github-auth": "latest",
+        "@whu-court/http": "latest",
+        "@whu-court/logger": "latest",
+        "@whu-court/mock": "latest",
+        "@whu-court/report": "latest",
+        "@whu-court/reporter": "latest",
+        "@whu-court/runtime": "latest",
+        "@whu-court/scratch": "latest",
+        "@whu-court/types": "latest",
+        "@whu-court/utils": "latest",
+        "@whubbard/hello-wasm": "latest",
+        "@whuhu/data-view": "latest"
+    }
+}

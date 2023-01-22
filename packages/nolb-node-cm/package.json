@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-node-cm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-cmake": "latest",
+        "node-cmake-generator": "latest",
+        "node-cmark": "latest",
+        "node-cmd": "latest",
+        "node-cmd-demo": "latest",
+        "node-cmd-line": "latest",
+        "node-cmd-promise": "latest",
+        "node-cmd-switch": "latest",
+        "node-cmder": "latest",
+        "node-cmdline-parser": "latest",
+        "node-cmk": "latest",
+        "node-cmpp": "latest",
+        "node-cmpp-2": "latest",
+        "node-cmpp-3": "latest",
+        "node-cms": "latest",
+        "node-cmzubrecki": "latest"
+    }
+}

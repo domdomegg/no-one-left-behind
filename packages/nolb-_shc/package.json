@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_shc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shcallaway/ez-s3": "latest",
+        "@shcallaway/git-diff": "latest",
+        "@shcherbin/database": "latest",
+        "@shcherbin/dotenv": "latest",
+        "@shcherbin/eslint-config": "latest",
+        "@shcherbin/eslint-config-typescript": "latest",
+        "@shcherbin/modules": "latest"
+    }
+}

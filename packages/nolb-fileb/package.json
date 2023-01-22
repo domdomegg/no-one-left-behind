@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-fileb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "FileBrowser": "latest",
+        "filebank-mongoose-model": "latest",
+        "filebao": "latest",
+        "filebase": "latest",
+        "filebased-db": "latest",
+        "filebaser": "latest",
+        "filebazaar": "latest",
+        "filebeat-logger": "latest",
+        "filebin.js": "latest",
+        "filebit-client": "latest",
+        "fileboard": "latest",
+        "filebokz": "latest",
+        "filebot": "latest",
+        "filebounce": "latest",
+        "filebridge": "latest",
+        "filebridge-client": "latest",
+        "filebrowse-directive": "latest",
+        "filebrowser": "latest",
+        "filebrowser-electron": "latest",
+        "filebrowser-frontend": "latest",
+        "filebrowser-usermanager": "latest",
+        "filebtn": "latest",
+        "filebucket": "latest",
+        "filebuffer": "latest",
+        "filebus": "latest",
+        "filebutton": "latest"
+    }
+}

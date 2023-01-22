@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_semi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-_semi-": "latest",
+        "@zalastax/nolb-_semia": "latest",
+        "@zalastax/nolb-_semib": "latest",
+        "@zalastax/nolb-_semic": "latest",
+        "@zalastax/nolb-_semin": "latest",
+        "@zalastax/nolb-_semio": "latest",
+        "@zalastax/nolb-_semir": "latest",
+        "@zalastax/nolb-_semit": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-subw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "subway": "latest",
+        "subway-assets": "latest",
+        "subway-navigation-core": "latest",
+        "subway-router": "latest",
+        "subway_off_line": "latest",
+        "subway_sdk": "latest",
+        "subweb-design-system": "latest",
+        "subwooferjs": "latest",
+        "subworkers": "latest",
+        "subwriter": "latest"
+    }
+}

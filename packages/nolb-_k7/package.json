@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_k7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@k7-cli/core": "latest",
+        "@k7-cli/utils": "latest",
+        "@k7e/cloudgaap-commons-ts": "latest",
+        "@k7e/react-theme-provider-ts": "latest",
+        "@k7eon/bruteforce-security-checker": "latest",
+        "@k7eon/k7": "latest",
+        "@k7h/api-builder": "latest",
+        "@k7h/test": "latest",
+        "@k7un/hello-world": "latest"
+    }
+}

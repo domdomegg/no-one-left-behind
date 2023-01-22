@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-ccn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ccNetViz": "latest",
+        "ccn": "latest",
+        "ccn-customer-project": "latest",
+        "ccn-gd-project": "latest",
+        "ccn-lib": "latest",
+        "ccn-web-components": "latest",
+        "ccn4bnode": "latest",
+        "ccna8008": "latest",
+        "ccnet": "latest",
+        "ccnet2": "latest",
+        "ccnetmc": "latest",
+        "ccnetviz": "latest",
+        "ccnews": "latest",
+        "ccnode": "latest",
+        "ccnode-find": "latest",
+        "ccnotificationcenter": "latest",
+        "ccnp": "latest",
+        "ccnpm": "latest",
+        "ccnpmsample": "latest",
+        "ccnpmtest": "latest",
+        "ccnq": "latest",
+        "ccnq3": "latest",
+        "ccns-can": "latest"
+    }
+}

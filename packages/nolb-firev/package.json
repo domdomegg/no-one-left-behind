@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-firev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "firevd": "latest",
+        "fireview": "latest",
+        "firevue": "latest",
+        "firevue-reactive": "latest",
+        "firevue_ui": "latest",
+        "firevuex": "latest"
+    }
+}

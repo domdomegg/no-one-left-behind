@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-vue3-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue3-ue-sdk": "latest",
+        "vue3-ueditor": "latest",
+        "vue3-ui": "latest",
+        "vue3-ui-1": "latest",
+        "vue3-ui-components": "latest",
+        "vue3-ui-cuicui": "latest",
+        "vue3-ui-meng": "latest",
+        "vue3-umd": "latest",
+        "vue3-unicons": "latest",
+        "vue3-upc-barcode-generator": "latest",
+        "vue3-upload-images": "latest",
+        "vue3-upload-qiniu": "latest",
+        "vue3-uploader": "latest",
+        "vue3-uploadfiles": "latest",
+        "vue3-use": "latest",
+        "vue3-use-alert": "latest",
+        "vue3-use-axios": "latest",
+        "vue3-use-hooks": "latest",
+        "vue3-use-modal": "latest",
+        "vue3-usecookies": "latest",
+        "vue3-usestate": "latest",
+        "vue3-usf-feedback-form": "latest",
+        "vue3-uuid": "latest"
+    }
+}

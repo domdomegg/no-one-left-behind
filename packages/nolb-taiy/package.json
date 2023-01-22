@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-taiy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "taiy-ui": "latest",
+        "taiya-record-video": "latest",
+        "taiya-wsbm": "latest",
+        "taiyaki": "latest",
+        "taiyang-huigui": "latest",
+        "taiyang-vs-shangsheng-zhichang-quanzhanxing": "latest",
+        "taiyang-xingyun-quanshu": "latest",
+        "taiyi-app": "latest",
+        "taiyi-gulp": "latest",
+        "taiyi-im-component": "latest",
+        "taiyi-jutu-shiyi-huibian": "latest",
+        "taiyi-kaozheng": "latest",
+        "taiyi-lib-language": "latest",
+        "taiyi-lib-performance": "latest",
+        "taiyi-mini-im-component": "latest",
+        "taiyi-monaco": "latest",
+        "taiyi-tanyuan": "latest",
+        "taiyi-tongjie": "latest",
+        "taiyi-util": "latest",
+        "taiyiweb": "latest",
+        "taiyonoryoshy": "latest",
+        "taiyuze-dashuaige": "latest",
+        "taiyuze-zhuiyouqizhi": "latest",
+        "taiyuze_yuzhoudiyishuai": "latest",
+        "taiyuzewoaini": "latest"
+    }
+}

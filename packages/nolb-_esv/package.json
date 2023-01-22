@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_esv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@esvelo/eslint-config": "latest",
+        "@esveo/satellite-visualisation": "latest",
+        "@esvinson/formidable": "latest",
+        "@esvinson/heretic": "latest",
+        "@esvinson/rets-client": "latest",
+        "@esvue/esjs": "latest",
+        "@esvue/esvue": "latest",
+        "@esvue/vite-plugin-esvue": "latest"
+    }
+}

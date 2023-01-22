@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-socr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "socr": "latest",
+        "socrat-projector": "latest",
+        "socrata": "latest",
+        "socrata-metrics": "latest",
+        "socrata-metrics-api": "latest",
+        "socrata-stream": "latest",
+        "socrate-core": "latest",
+        "socrate-ng": "latest",
+        "socrates": "latest",
+        "socrates-container": "latest",
+        "socrates-css": "latest",
+        "socrates-with-devtools": "latest",
+        "socrates.js": "latest",
+        "socratex": "latest",
+        "socrative.js": "latest",
+        "socratone-js-helpers": "latest",
+        "socreate": "latest"
+    }
+}

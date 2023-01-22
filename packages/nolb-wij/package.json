@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-wij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wij": "latest",
+        "wijitlib": "latest",
+        "wijmo": "latest",
+        "wijmo-angular2-sample": "latest",
+        "wijmo-input-controls-test": "latest",
+        "wijmo-styles-test": "latest",
+        "wijmo5-culture-loader": "latest",
+        "wijmo_test": "latest",
+        "wijnandholleman": "latest"
+    }
+}

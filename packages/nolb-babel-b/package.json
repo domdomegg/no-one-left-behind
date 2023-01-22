@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-babel-b",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-backwards": "latest",
+        "babel-base": "latest",
+        "babel-beautify-js": "latest",
+        "babel-bits": "latest",
+        "babel-blacklist": "latest",
+        "babel-blue-tap": "latest",
+        "babel-boilerplate": "latest",
+        "babel-br": "latest",
+        "babel-bridge": "latest",
+        "babel-browser": "latest",
+        "babel-browser-harness": "latest",
+        "babel-browser-king": "latest",
+        "babel-browser-only": "latest",
+        "babel-browser-transform": "latest",
+        "babel-browsers-preset-generator": "latest",
+        "babel-brunch": "latest",
+        "babel-brunch-7": "latest",
+        "babel-build": "latest",
+        "babel-bundle": "latest"
+    }
+}

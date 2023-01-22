@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-p8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "p8": "latest",
+        "p8-12": "latest",
+        "p8-adam1": "latest",
+        "p8-project": "latest",
+        "p8-to-js": "latest",
+        "p8-ui": "latest",
+        "p8086": "latest",
+        "p81-common-debug-utils": "latest",
+        "p82yf-libocr": "latest",
+        "p8g.js": "latest",
+        "p8h-common": "latest",
+        "p8h-ui": "latest"
+    }
+}

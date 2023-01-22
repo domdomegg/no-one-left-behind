@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-sharg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shargs": "latest",
+        "shargs-core": "latest",
+        "shargs-opts": "latest",
+        "shargs-parser": "latest",
+        "shargs-repl": "latest",
+        "shargs-usage": "latest"
+    }
+}

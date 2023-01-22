@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_ki2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ki2/anydb": "latest",
+        "@ki2/anydb-mongo-adapter": "latest",
+        "@ki2/contextify-core": "latest",
+        "@ki2/contextify-express": "latest",
+        "@ki2/contextify-hooks": "latest",
+        "@ki2/contextify-socketio": "latest",
+        "@ki2/dbx-api": "latest",
+        "@ki2/dbx5": "latest",
+        "@ki2/dbx6": "latest",
+        "@ki2/events": "latest",
+        "@ki2/feathersjs-innerhooks": "latest",
+        "@ki2/loadingx-api": "latest",
+        "@ki2/loadingx5": "latest",
+        "@ki2/loadingx6": "latest",
+        "@ki2/mobx-services": "latest",
+        "@ki2/react-front-utils": "latest",
+        "@ki2/utils": "latest",
+        "@ki2/utils-extra": "latest",
+        "@ki2/utils-react": "latest"
+    }
+}

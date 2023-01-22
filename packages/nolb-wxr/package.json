@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-wxr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wxr": "latest",
+        "wxr-cloud": "latest",
+        "wxr-generator": "latest",
+        "wxr-hand-leapmotion": "latest",
+        "wxr-uikit": "latest",
+        "wxr_yzmxm": "latest",
+        "wxrc": "latest",
+        "wxrenamer": "latest",
+        "wxrgen": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-babel-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-garbage-collector": "latest",
+        "babel-gard": "latest",
+        "babel-generate-guard-clauses": "latest",
+        "babel-generator": "latest",
+        "babel-get-export-sources": "latest",
+        "babel-gettext": "latest",
+        "babel-gettext-extractor": "latest",
+        "babel-gettext-plugin": "latest",
+        "babel-global-scope": "latest",
+        "babel-globals": "latest",
+        "babel-globals-module-formatter": "latest",
+        "babel-gql": "latest"
+    }
+}

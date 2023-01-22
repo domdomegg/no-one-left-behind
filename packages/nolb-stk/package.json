@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-stk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stk": "latest",
+        "stk-cli": "latest",
+        "stk-cli-madkvr": "latest",
+        "stk-components": "latest",
+        "stk-hello": "latest",
+        "stk-lang": "latest",
+        "stk-persona-etl": "latest",
+        "stk-react-orgchart": "latest",
+        "stk-simple-kvr-mad": "latest",
+        "stk-winston": "latest",
+        "stk500": "latest",
+        "stk500-v2": "latest",
+        "stk_experiments": "latest",
+        "stkchartcomponent": "latest",
+        "stkit": "latest",
+        "stklus-loaer": "latest"
+    }
+}

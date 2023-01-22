@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_yat",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yatabis/hello-wasm": "latest",
+        "@yates/components": "latest",
+        "@yatesdev/sineboard-api": "latest",
+        "@yatesdev/sineboard-client-debug": "latest",
+        "@yatesdev/sineboard-core": "latest",
+        "@yatesdev/sineboard-datasource-drivetime": "latest",
+        "@yatesdev/sineboard-datasource-error": "latest",
+        "@yatesdev/sineboard-datasource-random8bit": "latest",
+        "@yatesdev/sineboard-datasource-static": "latest",
+        "@yatesdev/sineboard-log": "latest",
+        "@yatesdev/sineboard-renderer-block": "latest",
+        "@yatesdev/sineboard-renderer-error": "latest",
+        "@yatesdev/sineboard-renderer-text": "latest",
+        "@yathomasi/gatsby-remark-relative-images": "latest",
+        "@yatiac/name-that-color": "latest",
+        "@yatickets/common": "latest",
+        "@yatishbalaji/json-to-table": "latest",
+        "@yatping/destack": "latest",
+        "@yatping/react-designer": "latest",
+        "@yatsyk/treemap-core": "latest",
+        "@yattaki/event-handler": "latest",
+        "@yattaki/template-npm": "latest"
+    }
+}

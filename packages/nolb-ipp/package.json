@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-ipp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ipp": "latest",
+        "ipp-easyprint": "latest",
+        "ipp-encoder": "latest",
+        "ipp-message": "latest",
+        "ipp-module": "latest",
+        "ipp-picture": "latest",
+        "ipp-printer": "latest",
+        "ipp-printer-3000": "latest",
+        "ipp-server": "latest",
+        "ipp-spy": "latest",
+        "ippai-ui": "latest",
+        "ippan-app-manager": "latest",
+        "ippanfsdb": "latest",
+        "ippankiban": "latest",
+        "ippanserver": "latest",
+        "ipper": "latest",
+        "ippin": "latest",
+        "ipplusplus": "latest",
+        "ippm": "latest",
+        "ippm-node": "latest",
+        "ippm-systemjs": "latest",
+        "ipport": "latest",
+        "ippower9258": "latest",
+        "ipppm-pivot": "latest",
+        "ippt": "latest",
+        "ippt-utils": "latest",
+        "ippv1": "latest",
+        "ippyrus": "latest"
+    }
+}

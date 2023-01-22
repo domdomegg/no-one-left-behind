@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-fia",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fia": "latest",
+        "fia-command-dev": "latest",
+        "fia-command-dist": "latest",
+        "fia-command-pack": "latest",
+        "fiact": "latest",
+        "fiado-backend-toolkit-package": "latest",
+        "fialog-core": "latest",
+        "fiance": "latest",
+        "fiancee": "latest",
+        "fiannafail-cp-react-tree-table": "latest",
+        "fianso": "latest",
+        "fiap-ed-02": "latest",
+        "fiap-ed-220522": "latest",
+        "fiapgcxeqyotukhz": "latest",
+        "fiapmd-out-bruce": "latest",
+        "fiapmd-out-edilson": "latest",
+        "fiapmd-out-luis": "latest",
+        "fias-input": "latest",
+        "fiasco": "latest",
+        "fiasdb": "latest",
+        "fiat": "latest",
+        "fiat-rates": "latest",
+        "fiat1234": "latest",
+        "fiatconnect-sdk-test": "latest",
+        "fiav": "latest"
+    }
+}

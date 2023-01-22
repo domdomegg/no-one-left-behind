@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-bej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bej": "latest",
+        "bejamas-cli": "latest",
+        "bejamas-gatsby-starter": "latest",
+        "bejamas-standards": "latest",
+        "bejenshah1-random-number-generator": "latest",
+        "bejesus-api": "latest",
+        "bejesus-cli": "latest",
+        "bejs": "latest",
+        "bejson": "latest"
+    }
+}

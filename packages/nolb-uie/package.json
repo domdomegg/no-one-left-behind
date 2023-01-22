@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-uie",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "uiedbook": "latest",
+        "uieffectupm": "latest",
+        "uielbedroom": "latest",
+        "uielementmodules": "latest",
+        "uiembed": "latest",
+        "uiengine": "latest",
+        "uiengine-adapter-ejs": "latest",
+        "uiengine-adapter-handlebars": "latest",
+        "uiengine-adapter-html": "latest",
+        "uiengine-adapter-marko": "latest",
+        "uiengine-adapter-pug": "latest",
+        "uiengine-adapter-react": "latest",
+        "uiengine-adapter-vue": "latest",
+        "uiengine-theme": "latest",
+        "uiengine-theme-default": "latest",
+        "uieventdispatcher": "latest",
+        "uiex": "latest",
+        "uiexam": "latest",
+        "uiexexpxex": "latest",
+        "uiexo": "latest"
+    }
+}

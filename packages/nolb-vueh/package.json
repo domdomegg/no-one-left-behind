@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-vueh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vueh": "latest",
+        "vueh5component": "latest",
+        "vueheader": "latest",
+        "vuehelloworld11": "latest",
+        "vuehh": "latest",
+        "vuehoksijsoneditor": "latest",
+        "vuehoksimucomponent": "latest",
+        "vuehotzone2": "latest",
+        "vuehr": "latest",
+        "vuehtml-cli": "latest",
+        "vuehub": "latest"
+    }
+}

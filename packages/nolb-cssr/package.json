@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-cssr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cssr-types": "latest",
+        "cssrb": "latest",
+        "cssreboot": "latest",
+        "cssrecipes-custom-media-queries": "latest",
+        "cssrecipes-defaults": "latest",
+        "cssrecipes-grid": "latest",
+        "cssrecipes-media-queries": "latest",
+        "cssrecipes-reset": "latest",
+        "cssrecipes-tooltip": "latest",
+        "cssrecipes-utils": "latest",
+        "cssrecipes-vertical-rhythm": "latest",
+        "cssrem": "latest",
+        "cssrem-loader": "latest",
+        "cssremedy": "latest",
+        "cssremedy-mod": "latest",
+        "cssreset": "latest",
+        "cssreset-init": "latest",
+        "cssreveal": "latest",
+        "cssrgb": "latest",
+        "cssrules": "latest",
+        "cssrules-loader": "latest"
+    }
+}

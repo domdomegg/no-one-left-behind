@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-node-red-m",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-m2mdm": "latest",
+        "node-red-m2test": "latest",
+        "node-red-m2x": "latest",
+        "node-red-mapex-alert": "latest",
+        "node-red-mapex-graf": "latest",
+        "node-red-mapex-machine": "latest",
+        "node-red-mapex-web-service": "latest",
+        "node-red-mapper": "latest",
+        "node-red-mcp23xxx": "latest",
+        "node-red-mdashboard": "latest",
+        "node-red-menus": "latest",
+        "node-red-mocknode": "latest",
+        "node-red-module-creator": "latest",
+        "node-red-modules-util": "latest",
+        "node-red-mojito-plugin": "latest",
+        "node-red-mongo": "latest",
+        "node-red-mongo-storage-plugin": "latest",
+        "node-red-mongodb": "latest",
+        "node-red-monteedescente-bus": "latest",
+        "node-red-ms-cognitive-textanalytics-ja": "latest",
+        "node-red-msbot-connector": "latest",
+        "node-red-multi-sensor": "latest",
+        "node-red-my-chatbot-out": "latest"
+    }
+}

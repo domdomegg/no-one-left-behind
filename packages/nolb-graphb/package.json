@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-graphb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graphback": "latest",
+        "graphback-benchmarks": "latest",
+        "graphback-cli": "latest",
+        "graphbase-core": "latest",
+        "graphberry": "latest",
+        "graphberry-ble": "latest",
+        "graphberry-gpio": "latest",
+        "graphberry-wireless-tools": "latest",
+        "graphbook": "latest",
+        "graphbot": "latest",
+        "graphbrainz": "latest",
+        "graphbrainz-extension-boilerplate": "latest",
+        "graphbrainz-extension-discogs": "latest",
+        "graphbrainz-extension-lastfm": "latest",
+        "graphbrainz-extension-spotify": "latest"
+    }
+}

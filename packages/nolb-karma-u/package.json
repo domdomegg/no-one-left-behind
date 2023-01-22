@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-karma-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "karma-u-launcher": "latest",
+        "karma-ubuntu-browser-launcher": "latest",
+        "karma-ubuntu-reporter": "latest",
+        "karma-ui": "latest",
+        "karma-ui5": "latest",
+        "karma-uiuxengineering-jspm": "latest",
+        "karma-underscore-template-preprocessor": "latest",
+        "karma-unexpected": "latest",
+        "karma-unicorn-reporter": "latest",
+        "karma-unit-coverage": "latest",
+        "karma-url": "latest"
+    }
+}

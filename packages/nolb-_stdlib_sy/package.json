@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_stdlib_sy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stdlib/symbol": "latest",
+        "@stdlib/symbol-async-iterator": "latest",
+        "@stdlib/symbol-ctor": "latest",
+        "@stdlib/symbol-iterator": "latest"
+    }
+}

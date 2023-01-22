@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-winx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "winx": "latest",
+        "winx-form": "latest",
+        "winx-form-winx": "latest",
+        "winx.js": "latest",
+        "winxdev": "latest",
+        "winxformjs": "latest",
+        "winxin-element-ui": "latest"
+    }
+}

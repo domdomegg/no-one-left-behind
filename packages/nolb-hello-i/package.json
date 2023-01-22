@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-hello-i",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hello-i-am-john-walker": "latest",
+        "hello-ib": "latest",
+        "hello-ice2": "latest",
+        "hello-imfaus-world": "latest",
+        "hello-in-multiple-languages-beta": "latest",
+        "hello-index": "latest",
+        "hello-indexeddb": "latest",
+        "hello-ink": "latest",
+        "hello-international": "latest",
+        "hello-intl": "latest",
+        "hello-ironblockhd": "latest",
+        "hello-iu": "latest"
+    }
+}

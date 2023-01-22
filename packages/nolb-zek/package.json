@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-zek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zek": "latest",
+        "zek-dolphinng": "latest",
+        "zek-tools": "latest",
+        "zek-ui": "latest",
+        "zeke": "latest",
+        "zeke-bam": "latest",
+        "zeke-bootstrap": "latest",
+        "zeke-demo-component": "latest",
+        "zeke-markdown": "latest",
+        "zeke-request": "latest",
+        "zeke.sikelianos.com": "latest",
+        "zeker": "latest",
+        "zeki-ui-library": "latest",
+        "zekin_data_structure": "latest",
+        "zeko369-fork-orval": "latest",
+        "zeko369-tsconfig": "latest",
+        "zekrobot2": "latest",
+        "zekrom": "latest",
+        "zeku": "latest",
+        "zekutil": "latest",
+        "zekutils": "latest"
+    }
+}

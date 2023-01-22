@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-bih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bih": "latest",
+        "bihao-ccxt": "latest",
+        "bihaoyuan": "latest",
+        "bihaoyuan1": "latest",
+        "bihaoyuan2": "latest",
+        "bihisankey": "latest",
+        "bihongojs": "latest",
+        "bihu-cli": "latest",
+        "bihu-recognizer-plugin": "latest",
+        "bihuan": "latest"
+    }
+}

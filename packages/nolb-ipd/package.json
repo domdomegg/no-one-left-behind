@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-ipd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ipdata": "latest",
+        "ipdata-components": "latest",
+        "ipdatabase": "latest",
+        "ipdb": "latest",
+        "ipdbplugin": "latest",
+        "ipdbqdashboard": "latest",
+        "ipdel-cdk": "latest",
+        "ipdfs": "latest",
+        "ipdict": "latest",
+        "ipdid": "latest",
+        "ipdid-did-resolver": "latest",
+        "ipdw": "latest"
+    }
+}

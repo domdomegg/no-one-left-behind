@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-micro_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "micro.dll": "latest",
+        "micro.js": "latest",
+        "micro.min.js": "latest",
+        "micro.offset": "latest",
+        "micro_app": "latest",
+        "micro_error": "latest",
+        "micro_es": "latest",
+        "micro_hive": "latest",
+        "micro_kafka": "latest",
+        "micro_log": "latest",
+        "micro_mail": "latest",
+        "micro_mysql": "latest",
+        "micro_nedb": "latest",
+        "micro_pg": "latest",
+        "micro_protocols": "latest",
+        "micro_route_sqkii": "latest",
+        "micro_tool": "latest",
+        "micro_ui_test": "latest",
+        "micro_web": "latest"
+    }
+}

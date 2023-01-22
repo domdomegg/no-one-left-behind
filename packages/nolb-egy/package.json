@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-egy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "egy-apis": "latest",
+        "egy-io": "latest",
+        "egyetem-tv-web": "latest",
+        "egyp": "latest",
+        "egypt": "latest",
+        "egypt-ancient-places": "latest",
+        "egypt-banks-scraper": "latest",
+        "egypt-cities": "latest",
+        "egyptian-nationalid": "latest",
+        "egyptian-unitfraction": "latest",
+        "egyptionize": "latest",
+        "egyptjs": "latest",
+        "egypy": "latest",
+        "egys": "latest"
+    }
+}

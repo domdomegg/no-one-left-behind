@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-random-e",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "random-electronic-music-style": "latest",
+        "random-element": "latest",
+        "random-element-selector": "latest",
+        "random-elon-quote": "latest",
+        "random-email": "latest",
+        "random-emails-generator": "latest",
+        "random-emcee-col": "latest",
+        "random-emil": "latest",
+        "random-emoji": "latest",
+        "random-emoji-generator": "latest",
+        "random-emoji-sh": "latest",
+        "random-emojies": "latest",
+        "random-emojis": "latest",
+        "random-encoder": "latest",
+        "random-english-words": "latest",
+        "random-enough": "latest",
+        "random-entities": "latest",
+        "random-entity": "latest",
+        "random-env": "latest",
+        "random-esm": "latest",
+        "random-even-numbers": "latest",
+        "random-event": "latest",
+        "random-ext": "latest",
+        "random-extra": "latest"
+    }
+}

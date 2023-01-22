@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-electra",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "electra": "latest",
+        "electra-cli": "latest",
+        "electra-element-ui": "latest",
+        "electra-js": "latest",
+        "electra-one": "latest",
+        "electra-smart-js-client": "latest",
+        "electraeo": "latest",
+        "electralize": "latest",
+        "electray": "latest"
+    }
+}

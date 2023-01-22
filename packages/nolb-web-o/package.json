@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-web-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "web-object": "latest",
+        "web-observer": "latest",
+        "web-ocket": "latest",
+        "web-ocpc": "latest",
+        "web-of-science-import": "latest",
+        "web-okapi": "latest",
+        "web-one-key-sc": "latest",
+        "web-onion": "latest",
+        "web-open-app": "latest",
+        "web-opener": "latest",
+        "web-optimize-and-minify": "latest",
+        "web-option": "latest",
+        "web-organization-management": "latest",
+        "web-orientation": "latest",
+        "web-os-api": "latest",
+        "web-os-core": "latest",
+        "web-otp": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-thz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thz": "latest",
+        "thzs-inspect-api": "latest",
+        "thzs-test-api": "latest"
+    }
+}

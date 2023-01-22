@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_manh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@manhcuong1414/nx-remotecache-s3": "latest",
+        "@manhcuong1996/uikit": "latest",
+        "@manhcuongbk56/hello-wasm": "latest",
+        "@manhjin/copy": "latest",
+        "@manhjin/killport": "latest",
+        "@manhjin/node-terminal": "latest",
+        "@manhjin/req-user": "latest",
+        "@manhjin/test": "latest",
+        "@manhnd/esc-pos-encoder": "latest",
+        "@manhnguyen98/vue2-core-video-player": "latest",
+        "@manhnt217/magic-number": "latest",
+        "@manhpt4/weather": "latest",
+        "@manhtien4655/common": "latest",
+        "@manhtien4655/nats": "latest",
+        "@manhtienit/common": "latest",
+        "@manhtrueprofit/true-button": "latest",
+        "@manhydra/http-proxy": "latest",
+        "@manhydra/libxmljs": "latest",
+        "@manhydra/node-pre-gyp": "latest",
+        "@manhydra/rimraf": "latest"
+    }
+}

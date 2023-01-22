@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-ion2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ion2": "latest",
+        "ion2-auth0": "latest",
+        "ion2-calendar": "latest",
+        "ion2-calendar-dna": "latest",
+        "ion2-calendar-infinite": "latest",
+        "ion2-calendar-menusifu": "latest",
+        "ion2-calendar-week": "latest",
+        "ion2-calendar-winker": "latest",
+        "ion2-calendars-menusifu": "latest",
+        "ion2-code-calendar": "latest",
+        "ion2-datetime-picker": "latest",
+        "ion2-firebase": "latest",
+        "ion2-helper": "latest",
+        "ion2-image-slide": "latest",
+        "ion2-pdf": "latest",
+        "ion2-store": "latest"
+    }
+}

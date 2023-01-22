@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-vse",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vse": "latest",
+        "vsearch-component": "latest",
+        "vsechart": "latest",
+        "vsee": "latest",
+        "vseeyou-line": "latest",
+        "vselect-component": "latest",
+        "vselector": "latest",
+        "vself": "latest",
+        "vsemkiv-frame-print": "latest",
+        "vseq": "latest",
+        "vser": "latest",
+        "vser-contracts": "latest",
+        "vser-router": "latest",
+        "vsers": "latest",
+        "vsers-contracts": "latest",
+        "vsers-providers": "latest",
+        "vsesfj": "latest",
+        "vset": "latest",
+        "vsezapomnim": "latest"
+    }
+}

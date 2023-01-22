@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-runf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "runf": "latest",
+        "runfa_cai": "latest",
+        "runfast": "latest",
+        "runfi-pages": "latest",
+        "runfile": "latest",
+        "runflower": "latest",
+        "runfood-cloudbeds-api": "latest",
+        "runfor": "latest",
+        "runforcover": "latest",
+        "runforest": "latest",
+        "runfork": "latest",
+        "runform": "latest",
+        "runfu": "latest"
+    }
+}

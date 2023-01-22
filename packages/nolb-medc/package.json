@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-medc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "medcalc": "latest",
+        "medcare-core-ui": "latest",
+        "medcel.ui": "latest",
+        "medcharts": "latest",
+        "medcon": "latest",
+        "medcrab-operate-plugins": "latest",
+        "medcrab-saas-plugin": "latest",
+        "medcrab-saas-plugins": "latest",
+        "medcrm-shared": "latest",
+        "medcury-logger": "latest"
+    }
+}

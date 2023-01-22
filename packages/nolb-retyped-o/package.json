@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-retyped-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "retyped-oauth.js-tsd-ambient": "latest",
+        "retyped-obelisk.js-tsd-ambient": "latest",
+        "retyped-object-assign-tsd-ambient": "latest",
+        "retyped-object-hash-tsd-ambient": "latest",
+        "retyped-object-path-tsd-ambient": "latest",
+        "retyped-oblo-util-tsd-ambient": "latest",
+        "retyped-oboe-tsd-ambient": "latest",
+        "retyped-observe-js-tsd-ambient": "latest",
+        "retyped-oclazyload-tsd-ambient": "latest",
+        "retyped-oclazyload-tsd-ambient-2": "latest",
+        "retyped-office-js-tsd-ambient": "latest",
+        "retyped-offline-js-tsd-ambient": "latest",
+        "retyped-oidc-token-manager-tsd-ambient": "latest",
+        "retyped-on-finished-tsd-ambient": "latest",
+        "retyped-on-headers-tsd-ambient": "latest",
+        "retyped-once-tsd-ambient": "latest",
+        "retyped-onsenui-tsd-ambient": "latest",
+        "retyped-open-tsd-ambient": "latest",
+        "retyped-openjscad-tsd-ambient": "latest",
+        "retyped-openlayers-tsd-ambient": "latest",
+        "retyped-openpgp-tsd-ambient": "latest",
+        "retyped-opn-tsd-ambient": "latest",
+        "retyped-optimist-tsd-ambient": "latest",
+        "retyped-oracledb-tsd-ambient": "latest",
+        "retyped-orchestrator-tsd-ambient": "latest",
+        "retyped-os-locale-tsd-ambient": "latest",
+        "retyped-osmtogeojson-tsd-ambient": "latest",
+        "retyped-owlcarousel-tsd-ambient": "latest"
+    }
+}

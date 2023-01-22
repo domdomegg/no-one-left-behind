@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_rug",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@rugal/pulumi-istio": "latest",
+        "@rugal/pulumi-secret-store": "latest",
+        "@rugdev/module-statistic-moongose_model": "latest",
+        "@rugdev/statistic-moongose-model": "latest",
+        "@rugdoc/uikit": "latest",
+        "@rugenerous/exchange-contracts": "latest",
+        "@rugenerous/interface": "latest",
+        "@rugenerous/sdk": "latest",
+        "@rugenerous/token-lists": "latest",
+        "@rugenerous/web3-react-injected-connector": "latest",
+        "@ruggs/animation-hooks": "latest",
+        "@rugo-vn/admin": "latest",
+        "@rugo-vn/api": "latest",
+        "@rugo-vn/auth": "latest",
+        "@rugo-vn/common": "latest",
+        "@rugo-vn/db": "latest",
+        "@rugo-vn/driver": "latest",
+        "@rugo-vn/exception": "latest",
+        "@rugo-vn/fx": "latest",
+        "@rugo-vn/manage": "latest",
+        "@rugo-vn/model": "latest",
+        "@rugo-vn/schema": "latest",
+        "@rugo-vn/server": "latest",
+        "@rugo-vn/service": "latest",
+        "@rugo-vn/static": "latest",
+        "@rugo-vn/storage": "latest",
+        "@rugo-vn/vue": "latest",
+        "@rugpullindex/list-metadata": "latest"
+    }
+}

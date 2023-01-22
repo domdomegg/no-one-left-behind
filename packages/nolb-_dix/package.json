@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_dix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dixeed/angularjs-scripts": "latest",
+        "@dixeed/backend-utils": "latest",
+        "@dixeed/eslint-config": "latest",
+        "@dixeed/hapi-starter-kit": "latest",
+        "@dixeed/ovh-cli": "latest",
+        "@dixi/core": "latest",
+        "@dixia/react-native-echarts-wrapper": "latest",
+        "@dixid/front-server": "latest",
+        "@dixidan/eslint-config": "latest",
+        "@dixita0607/test-npm": "latest",
+        "@dixons/codeceptjs-resemblehelper": "latest"
+    }
+}

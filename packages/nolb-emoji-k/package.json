@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-emoji-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emoji-kaaba": "latest",
+        "emoji-key": "latest",
+        "emoji-keyboard": "latest",
+        "emoji-keycap-star": "latest",
+        "emoji-keycap-ten": "latest",
+        "emoji-keywords": "latest",
+        "emoji-kimono": "latest",
+        "emoji-king": "latest",
+        "emoji-kiss": "latest",
+        "emoji-kissing": "latest",
+        "emoji-kissing-cat": "latest",
+        "emoji-kissing-closed-eyes": "latest",
+        "emoji-kissing-heart": "latest",
+        "emoji-kissing-smiling-eyes": "latest",
+        "emoji-knife": "latest",
+        "emoji-knife-fork-plate": "latest",
+        "emoji-koala": "latest",
+        "emoji-koko": "latest",
+        "emoji-kr": "latest"
+    }
+}

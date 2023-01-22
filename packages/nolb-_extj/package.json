@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_extj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@extjs/ext-build": "latest",
+        "@extjs/ext-build-generate-app": "latest",
+        "@extjs/ext-gen": "latest",
+        "@extjs/ext-webpack-plugin": "latest",
+        "@extjs/extjs-webpack-plugin": "latest",
+        "@extjs/generator-ext-generate": "latest",
+        "@extjs/generator-ext-react": "latest",
+        "@extjs/generator-extjs": "latest",
+        "@extjs/generator-sencha-generate": "latest",
+        "@extjs/reactor": "latest",
+        "@extjs/reactor-babel-plugin": "latest",
+        "@extjs/reactor-boilerplate": "latest",
+        "@extjs/reactor-typescript-boilerplate": "latest",
+        "@extjs/reactor-webpack-plugin": "latest",
+        "@extjs/sencha-cmd": "latest",
+        "@extjs/sencha-cmd-linux-32": "latest",
+        "@extjs/sencha-cmd-linux-64": "latest",
+        "@extjs/sencha-cmd-macos": "latest",
+        "@extjs/sencha-cmd-macos-jre": "latest",
+        "@extjs/sencha-cmd-windows": "latest",
+        "@extjs/sencha-cmd-windows-32-jre": "latest",
+        "@extjs/sencha-cmd-windows-64-jre": "latest"
+    }
+}

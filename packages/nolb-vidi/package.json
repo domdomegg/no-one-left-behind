@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-vidi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vidi": "latest",
+        "vidi-dashboard": "latest",
+        "vidi-graph-gl": "latest",
+        "vidi-influx-sink": "latest",
+        "vidi-metrics": "latest",
+        "vidi-seneca-metrics": "latest",
+        "vidi-toolbag-influx-queries": "latest",
+        "vidi-toolbag-metrics": "latest",
+        "vidia-design-system": "latest",
+        "vidible-compose": "latest",
+        "vidibo-player": "latest",
+        "vidie": "latest",
+        "vidiff": "latest",
+        "vidim": "latest",
+        "vidinfo": "latest",
+        "vidio-dd-rum": "latest",
+        "vidio-dl": "latest",
+        "vidiq": "latest",
+        "vidiq-ui-kit": "latest",
+        "vidisha": "latest",
+        "vidit": "latest",
+        "vidit-test": "latest",
+        "vidiun-player-js": "latest"
+    }
+}

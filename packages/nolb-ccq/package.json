@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-ccq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ccq": "latest",
+        "ccq-cli": "latest",
+        "ccq-core": "latest",
+        "ccq-server": "latest",
+        "ccq-ui": "latest",
+        "ccqccqup": "latest",
+        "ccqccqup0": "latest",
+        "ccqccqup1": "latest",
+        "ccqccqup2": "latest",
+        "ccqp": "latest",
+        "ccquan-ui": "latest"
+    }
+}

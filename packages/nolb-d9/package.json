@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-d9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "d9": "latest",
+        "d9-components": "latest",
+        "d9-international-phone-number": "latest",
+        "d9attributes": "latest",
+        "d9image": "latest",
+        "d9lab_front_end_utils_pkg": "latest",
+        "d9r": "latest"
+    }
+}

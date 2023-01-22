@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-node-sk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-sk-promise": "latest",
+        "node-skanetrafiken": "latest",
+        "node-skautis": "latest",
+        "node-skebby": "latest",
+        "node-skebby-sms": "latest",
+        "node-skeleton": "latest",
+        "node-skeleton-cli": "latest",
+        "node-sketch": "latest",
+        "node-sketch-bridge": "latest",
+        "node-sketchfab": "latest",
+        "node-skia": "latest",
+        "node-skia-canvas": "latest",
+        "node-skill": "latest",
+        "node-skillfactory-repository": "latest",
+        "node-skk-control": "latest",
+        "node-skladisce": "latest",
+        "node-sklambda": "latest",
+        "node-skm": "latest",
+        "node-skycrypt": "latest",
+        "node-skyk": "latest",
+        "node-skyscanner-live": "latest",
+        "node-skytap": "latest"
+    }
+}

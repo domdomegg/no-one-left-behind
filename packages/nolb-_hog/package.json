@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_hog",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hogan-cli-dev/core": "latest",
+        "@hogan-cli-dev/utils": "latest",
+        "@hoganassessments/maybe-ts": "latest",
+        "@hoganb/semantic-release": "latest",
+        "@hogashi/rot13": "latest",
+        "@hogashi/sb2md": "latest",
+        "@hogbros/batch-observe": "latest",
+        "@hogbros/observe-property": "latest",
+        "@hogent-mobile/expo-template": "latest",
+        "@hogiagroup/enumerable": "latest",
+        "@hognevevle/vue-avatar-cropper": "latest",
+        "@hogssys/bundler": "latest",
+        "@hogssys/docker-util": "latest",
+        "@hogye-test/asdf": "latest"
+    }
+}

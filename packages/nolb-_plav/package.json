@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_plav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@plavc/health-checker": "latest",
+        "@plavc/ngx-api-validator": "latest",
+        "@plavc/ts-api-validator": "latest",
+        "@plavjanik/zowe-fake-cm": "latest",
+        "@plavjanik/zowe-sample-spring-boot-api-service": "latest",
+        "@plavjanik/zowe-server": "latest"
+    }
+}

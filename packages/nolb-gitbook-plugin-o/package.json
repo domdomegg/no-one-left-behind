@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-gitbook-plugin-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gitbook-plugin-oerschema": "latest",
+        "gitbook-plugin-og-custom": "latest",
+        "gitbook-plugin-og-description": "latest",
+        "gitbook-plugin-oh": "latest",
+        "gitbook-plugin-olark": "latest",
+        "gitbook-plugin-open-chapters": "latest",
+        "gitbook-plugin-open-graph": "latest",
+        "gitbook-plugin-openhec": "latest",
+        "gitbook-plugin-openwrite": "latest",
+        "gitbook-plugin-otherlink": "latest",
+        "gitbook-plugin-outline": "latest"
+    }
+}

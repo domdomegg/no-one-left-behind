@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-nuw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nuw": "latest",
+        "nuwa": "latest",
+        "nuwa-app1": "latest",
+        "nuwa-boot": "latest",
+        "nuwa-cli": "latest",
+        "nuwa-design": "latest",
+        "nuwa-master": "latest",
+        "nuwanda": "latest",
+        "nuwe-timeline": "latest",
+        "nuwidget": "latest",
+        "nuwork_schema": "latest",
+        "nuworks-ui-library": "latest"
+    }
+}

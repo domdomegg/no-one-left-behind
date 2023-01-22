@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-urw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "urw-core35-fonts": "latest",
+        "urw-loader": "latest",
+        "urwah-calculator": "latest",
+        "urwanda": "latest",
+        "urway-appleapy-react-native": "latest",
+        "urwaypg": "latest",
+        "urweather": "latest"
+    }
+}

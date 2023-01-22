@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_imy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@imyangyong/eslint-config": "latest",
+        "@imyangyong/eslint-config-basic": "latest",
+        "@imyangyong/eslint-config-react": "latest",
+        "@imyangyong/eslint-config-ts": "latest",
+        "@imyangyong/eslint-config-vue": "latest",
+        "@imyangyong/utils": "latest",
+        "@imyar1989/axe": "latest",
+        "@imyon/eslint-config-basic": "latest",
+        "@imyon/eslint-config-preset": "latest",
+        "@imyon/eslint-config-prettier": "latest",
+        "@imyon/eslint-config-typescript": "latest",
+        "@imyon/eslint-config-vue": "latest",
+        "@imyoon/cp": "latest",
+        "@imyoon/model-cli": "latest",
+        "@imyoon/nginx-helper": "latest",
+        "@imyoon/nginx-register": "latest",
+        "@imyoon/tse": "latest"
+    }
+}

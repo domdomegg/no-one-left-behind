@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-dynap",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dynapack": "latest",
+        "dynaphore-cryptor": "latest",
+        "dynapi": "latest",
+        "dynapictures": "latest",
+        "dynapictures-editor-sdk": "latest",
+        "dynapictures-react-sdk": "latest",
+        "dynapp": "latest",
+        "dynapromise-client-full-query": "latest",
+        "dynapromise-full-query": "latest"
+    }
+}

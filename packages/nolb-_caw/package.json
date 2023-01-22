@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_caw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@caw-studios/cypressinstaller": "latest",
+        "@cawall/road-js": "latest",
+        "@cawemo/diagram-tile": "latest",
+        "@cawemo/project-tile": "latest",
+        "@cawemo/theme": "latest",
+        "@cawfree/lottie-mutate": "latest",
+        "@cawfree/react-jsx-provider": "latest",
+        "@cawfree/react-native-collapsible-view": "latest",
+        "@cawfree/react-native-cycle-text": "latest",
+        "@cawfree/react-native-elastic-footer": "latest",
+        "@cawfree/react-native-elsewhere": "latest",
+        "@cawfree/react-native-heat-map": "latest",
+        "@cawfree/react-native-layout-animation-provider": "latest",
+        "@cawfree/react-native-lightbox": "latest",
+        "@cawfree/react-native-lottie-files-picker": "latest",
+        "@cawfree/react-native-masonry": "latest",
+        "@cawfree/react-native-modal-provider": "latest",
+        "@cawfree/react-native-redux-form-by-config": "latest",
+        "@cawfree/react-native-safely-nested-list": "latest",
+        "@cawfree/react-native-simple-date-picker": "latest",
+        "@cawfree/react-native-simpler-date-picker": "latest",
+        "@cawfree/react-native-windowed-collapsible": "latest",
+        "@cawfree/react-search-props": "latest",
+        "@cawfree/sofia": "latest",
+        "@cawfree/timebuffer": "latest",
+        "@cawo88/component-library-example": "latest",
+        "@cawo88/design-system-component-library-example": "latest",
+        "@cawo88/design-token-transformer": "latest"
+    }
+}

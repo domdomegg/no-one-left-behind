@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-drab",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "drab.css": "latest",
+        "draba-injector": "latest",
+        "draba-injector2": "latest",
+        "draba-mysql-fixtures": "latest",
+        "drabs": "latest"
+    }
+}

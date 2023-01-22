@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-easy-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "easy-oas3-parser": "latest",
+        "easy-oauth": "latest",
+        "easy-oauth2-client": "latest",
+        "easy-obfuscator": "latest",
+        "easy-obj-loader": "latest",
+        "easy-object": "latest",
+        "easy-object-conv": "latest",
+        "easy-object-js": "latest",
+        "easy-object-pool": "latest",
+        "easy-object-selector": "latest",
+        "easy-object-validator": "latest",
+        "easy-obs": "latest",
+        "easy-observable": "latest",
+        "easy-observer": "latest",
+        "easy-oc": "latest",
+        "easy-oclif-cli": "latest",
+        "easy-odatajs": "latest",
+        "easy-on-board": "latest",
+        "easy-operation-component": "latest",
+        "easy-opgp": "latest",
+        "easy-options": "latest",
+        "easy-opts": "latest",
+        "easy-oracle": "latest",
+        "easy-oracledb": "latest",
+        "easy-orm": "latest",
+        "easy-otp": "latest",
+        "easy-outliner": "latest"
+    }
+}

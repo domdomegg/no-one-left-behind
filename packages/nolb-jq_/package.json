@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-jq_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jq.js": "latest",
+        "jq.node": "latest",
+        "jq.schedule": "latest",
+        "jq.visibility": "latest",
+        "jq_arima": "latest",
+        "jq_search_select": "latest",
+        "jq_slider": "latest",
+        "jq_x12arima": "latest"
+    }
+}

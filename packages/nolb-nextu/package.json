@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-nextu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nextui-date-picker": "latest",
+        "nextui-temp-button": "latest",
+        "nextui-temp-dropdown": "latest",
+        "nextui-temp-form": "latest",
+        "nextui-temp-header": "latest",
+        "nextui-temp-styles": "latest",
+        "nextup": "latest",
+        "nextup-js": "latest",
+        "nextup-ui": "latest",
+        "nextus": "latest",
+        "nextus.js": "latest"
+    }
+}

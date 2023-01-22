@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_acd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@acdepartment/ac-cli": "latest",
+        "@acdepartment/ac-cli-core": "latest",
+        "@acdepartment/ac-cli-init": "latest",
+        "@acdepartment/ac-cli-utils": "latest",
+        "@acdepartment/create-ac-cli": "latest",
+        "@acdf/build": "latest",
+        "@acdf/test": "latest",
+        "@acdh/event-drops": "latest",
+        "@acdh/network-visualization": "latest",
+        "@acdi/avaldao-contract": "latest",
+        "@acdi/efem-contract": "latest",
+        "@acdi/efem-crowdfunding": "latest",
+        "@acdi/efem-dapp": "latest",
+        "@acdi/eth-contract-class": "latest",
+        "@acdi/give4forest-contract": "latest",
+        "@acdi/give4forests-crowdfunding-contract": "latest",
+        "@acdibble/emitter": "latest",
+        "@acdibble/lazy-range": "latest",
+        "@acdibble/tuql": "latest",
+        "@acdlite/react": "latest",
+        "@acdlite/react-dom": "latest",
+        "@acdlite/router": "latest",
+        "@acdzh/eslint-config": "latest"
+    }
+}

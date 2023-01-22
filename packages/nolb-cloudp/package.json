@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-cloudp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cloudpack": "latest",
+        "cloudpack-common": "latest",
+        "cloudpack-middleware-express": "latest",
+        "cloudpackage": "latest",
+        "cloudpak": "latest",
+        "cloudpandastrap": "latest",
+        "cloudpath-services-access": "latest",
+        "cloudpath-services-access-node": "latest",
+        "cloudpatrol": "latest",
+        "cloudpayments": "latest",
+        "cloudpier-pulse-emitter": "latest",
+        "cloudpilot-emu-embedded": "latest",
+        "cloudpivot-alm-platform": "latest",
+        "cloudplayback": "latest",
+        "cloudprnt-emulator": "latest",
+        "cloudproof_js": "latest",
+        "cloudproof_js_demo": "latest",
+        "cloudpt": "latest",
+        "cloudpub": "latest",
+        "cloudpub-media": "latest",
+        "cloudpub-redis": "latest",
+        "cloudpurge_robotjs": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_codu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@codument/cli": "latest",
+        "@codument/server": "latest",
+        "@codument/ui": "latest",
+        "@codustry/konva_selection_box": "latest",
+        "@codustry/myais": "latest",
+        "@codux-framework/framework": "latest"
+    }
+}

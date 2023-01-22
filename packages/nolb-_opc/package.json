@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_opc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@opc-mock/one-portal-component-library": "latest",
+        "@opc-mock/opc-app-header": "latest",
+        "@opc-mock/opc-back-to-top": "latest",
+        "@opchik98/mikrol-command": "latest",
+        "@opcjs/div": "latest",
+        "@opcjs/nami": "latest",
+        "@opcjs/zoro": "latest",
+        "@opcjs/zoro-plugin": "latest",
+        "@opct/ae2": "latest",
+        "@opct/common": "latest",
+        "@opct/dbuf": "latest",
+        "@opct/gui": "latest",
+        "@opct/image": "latest",
+        "@opct/mineos": "latest",
+        "@opct/openos": "latest",
+        "@opctim/js_serializer": "latest",
+        "@opctl/sdk": "latest",
+        "@opctl/sdk-react": "latest",
+        "@opcua/testscopepackage": "latest"
+    }
+}

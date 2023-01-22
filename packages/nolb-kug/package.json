@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-kug",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "kuga": "latest",
+        "kugel": "latest",
+        "kugichkas-uilib": "latest",
+        "kugou": "latest",
+        "kugou-downloader": "latest",
+        "kugou-lyric": "latest"
+    }
+}

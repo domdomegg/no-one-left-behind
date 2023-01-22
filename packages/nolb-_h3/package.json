@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_h3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@h3/eslint-config": "latest",
+        "@h3/mucky": "latest",
+        "@h3/reveal": "latest",
+        "@h3ar7b3a7/my-lib": "latest",
+        "@h3ar7b3a7/spin-anything": "latest",
+        "@h3c/h-ui": "latest",
+        "@h3c/h3c-cli": "latest",
+        "@h3lpd3sk/gamesparks": "latest",
+        "@h3n5/iview": "latest",
+        "@h3n5/vux": "latest",
+        "@h3n5/vux-cli3": "latest",
+        "@h3r/cookies": "latest",
+        "@h3r/observable": "latest",
+        "@h3r/wrtc": "latest",
+        "@h3rald/h3": "latest",
+        "@h3t/semantic-ui-react-formik-functional": "latest",
+        "@h3xag0nx/iron-autocompound": "latest"
+    }
+}

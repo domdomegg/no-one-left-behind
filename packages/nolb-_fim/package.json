@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_fim",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fim3/hfc": "latest",
+        "@fim3/hui": "latest",
+        "@fim3/request": "latest",
+        "@fim3/super-drag": "latest",
+        "@fim3/super-request": "latest",
+        "@fimblr/ui-core": "latest",
+        "@fimbul/bifrost": "latest",
+        "@fimbul/circular": "latest",
+        "@fimbul/heimdall": "latest",
+        "@fimbul/mimir": "latest",
+        "@fimbul/mithotyn": "latest",
+        "@fimbul/valtyr": "latest",
+        "@fimbul/ve": "latest",
+        "@fimbul/wotan": "latest",
+        "@fimbul/ymir": "latest"
+    }
+}

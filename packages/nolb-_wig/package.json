@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_wig",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wigansmedia/common": "latest",
+        "@wiggindev/event-listeners": "latest",
+        "@wiggindev/events": "latest",
+        "@wiggindev/hooks": "latest",
+        "@wiggindev/utils": "latest",
+        "@wigglydonnie/lotide": "latest",
+        "@wiggot/foundation-extended-lib": "latest",
+        "@wiggot/rc-up": "latest",
+        "@wigo/apex-client": "latest",
+        "@wigo/apex-utils": "latest",
+        "@wigo/sdk": "latest",
+        "@wigoswap/eslint-config-wigo": "latest",
+        "@wigoswap/wigo-profile": "latest",
+        "@wigoswap/wigo-sdk": "latest",
+        "@wigoswap/wigo-uikit": "latest",
+        "@wigoswap/wigoswap-sdk": "latest",
+        "@wigxel/react-components": "latest",
+        "@wigxel/ui-components": "latest",
+        "@wigxel/utils": "latest"
+    }
+}

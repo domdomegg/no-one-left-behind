@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_boz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bozelljacobs/ext-rich-text-types": "latest",
+        "@bozemanpass/example": "latest",
+        "@bozemanpass/example-after": "latest",
+        "@bozemanpass/hairball": "latest",
+        "@bozemanpass/yarnball": "latest",
+        "@bozerkins/tsconfig-base": "latest",
+        "@bozhajsnote/local-api": "latest",
+        "@bozhajsnote/local-client": "latest",
+        "@bozhatickets/common": "latest",
+        "@bozhkovatanas/react-use-storage": "latest",
+        "@bozkurt/react-scripts": "latest"
+    }
+}

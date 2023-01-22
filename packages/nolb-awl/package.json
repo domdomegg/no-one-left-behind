@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-awl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "awl": "latest",
+        "awlib": "latest",
+        "awlibs": "latest",
+        "awlog": "latest",
+        "awly": "latest",
+        "awly-cli": "latest",
+        "awly-code-highlighter": "latest"
+    }
+}

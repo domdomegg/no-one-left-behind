@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-hubot-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hubot-xbmc": "latest",
+        "hubot-xero-reimbursements": "latest",
+        "hubot-xiexie": "latest",
+        "hubot-xkcd": "latest",
+        "hubot-xkcd-image": "latest",
+        "hubot-xmatters": "latest",
+        "hubot-xmpp": "latest",
+        "hubot-xrp": "latest"
+    }
+}

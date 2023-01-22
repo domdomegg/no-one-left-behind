@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-clz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clz": "latest",
+        "clz-buffer": "latest",
+        "clz-cli": "latest",
+        "clz-tracker": "latest",
+        "clz32": "latest",
+        "clzkk": "latest",
+        "clzzi-react-ts-boilerplate": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-imf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "imf": "latest",
+        "imf-asset-registration": "latest",
+        "imf-asset-registration-api": "latest",
+        "imf-common": "latest",
+        "imf-data-nodejs-sdk": "latest",
+        "imf-datetime": "latest",
+        "imf-oauth-user-sdk": "latest",
+        "imfanr": "latest",
+        "imfbp": "latest",
+        "imfd-panel-app-backend": "latest",
+        "imfe": "latest",
+        "imfe-xform-m": "latest",
+        "imfetch": "latest",
+        "imflow": "latest",
+        "imfo": "latest",
+        "imforbossjob": "latest",
+        "imform-minip-component": "latest",
+        "imforza-cli": "latest",
+        "imfox": "latest",
+        "imfs": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-vax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vax": "latest",
+        "vax-check-cvs": "latest",
+        "vax-loader": "latest",
+        "vax-qc": "latest",
+        "vax-tradingview": "latest",
+        "vax1.js": "latest",
+        "vaxe": "latest",
+        "vaxfind": "latest",
+        "vaxic": "latest",
+        "vaxic-bpgen": "latest",
+        "vaxic-ratelimit": "latest",
+        "vaxios-plugin": "latest",
+        "vaxjs": "latest",
+        "vaxpass-authorization-sdk": "latest",
+        "vaxpass-user-sdk": "latest",
+        "vaxpass-vaccination-sdk": "latest",
+        "vaxue": "latest",
+        "vaxy-docker-types": "latest",
+        "vaxy-http-types": "latest"
+    }
+}

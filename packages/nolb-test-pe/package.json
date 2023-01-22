@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-test-pe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "test-peer-dep": "latest",
+        "test-peer-dependencies-package": "latest",
+        "test-peer-deps-fork-ts": "latest",
+        "test-peer-deps-optional": "latest",
+        "test-peer-range": "latest",
+        "test-peerless07": "latest",
+        "test-peleg": "latest",
+        "test-pendo": "latest",
+        "test-people": "latest",
+        "test-peque": "latest",
+        "test-perf-summary": "latest",
+        "test-performance": "latest",
+        "test-periodicjs": "latest",
+        "test-perms-repo": "latest",
+        "test-persister-woohoo": "latest",
+        "test-personal-pakg": "latest",
+        "test-petstore-service": "latest"
+    }
+}

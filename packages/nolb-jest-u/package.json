@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-jest-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jest-unexpected": "latest",
+        "jest-unhandled-promise": "latest",
+        "jest-unique-reporter": "latest",
+        "jest-unit": "latest",
+        "jest-universal": "latest",
+        "jest-url-loader": "latest",
+        "jest-url-matchers": "latest",
+        "jest-useragent-mock": "latest",
+        "jest-util": "latest",
+        "jest-utils": "latest",
+        "jest-utils-lwc-internals": "latest"
+    }
+}

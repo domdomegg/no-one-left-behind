@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-timek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "timekeep": "latest",
+        "timekeeper": "latest",
+        "timekeeping": "latest",
+        "timekeepr": "latest",
+        "timekit": "latest",
+        "timekit-booking": "latest",
+        "timekit-sdk": "latest"
+    }
+}

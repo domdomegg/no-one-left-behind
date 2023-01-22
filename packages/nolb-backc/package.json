@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-backc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "backcall": "latest",
+        "backchannel": "latest",
+        "backchannel-common": "latest",
+        "backchannel-server": "latest",
+        "backchannel-web": "latest",
+        "backchat-proxy": "latest",
+        "backchatio-hookup": "latest",
+        "backchatio-websocket": "latest",
+        "backclover-uikit": "latest",
+        "backconnect": "latest"
+    }
+}

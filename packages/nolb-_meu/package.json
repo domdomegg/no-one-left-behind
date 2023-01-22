@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_meu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@meui-js/components": "latest",
+        "@meui-js/core": "latest",
+        "@meui-js/esbuild-plugin-meui": "latest",
+        "@meui-js/native": "latest",
+        "@meui-js/os": "latest",
+        "@meui-js/preact": "latest",
+        "@meui-js/spring": "latest",
+        "@meui-js/std": "latest",
+        "@meumobi/mmb-media-provider": "latest",
+        "@meumobi/nfmb-data-mgmt": "latest",
+        "@meumobi/nfmb-data-modeling": "latest",
+        "@meumobi/nfmb-data-models": "latest",
+        "@meumobi/nfmb-utils": "latest",
+        "@meumobi/ngx-ionic-img-viewer": "latest",
+        "@meumobi/ngx-youtube-provider": "latest",
+        "@meundies/loom": "latest",
+        "@meupag/sdk": "latest",
+        "@meurrensjonathan/test-design-system": "latest"
+    }
+}

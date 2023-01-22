@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-win9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "win9000-test-npm": "latest",
+        "win93-trollbox-bot": "latest",
+        "win95-media-player": "latest",
+        "win95-media-player-esm": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-baq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "baq": "latest",
+        "baqday-npm-1": "latest",
+        "baqend": "latest",
+        "baqend-coding-standard": "latest",
+        "baqend-webpack-plugin": "latest",
+        "baqi": "latest",
+        "baqi-chat": "latest",
+        "baqi-chronic": "latest",
+        "baqi-doctor": "latest",
+        "baqi-heart": "latest",
+        "baqi-patient": "latest",
+        "baqi-tumour": "latest",
+        "baqidiaokuzhuai": "latest",
+        "baqidiaokuzhuai2": "latest",
+        "baqijiege": "latest",
+        "baquery": "latest",
+        "baquiax-demo1": "latest"
+    }
+}

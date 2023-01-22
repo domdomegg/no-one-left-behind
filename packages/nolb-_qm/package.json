@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_qm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@qm-cli-dev/core": "latest",
+        "@qm-cli-dev/utils": "latest",
+        "@qmagics/fx-ui": "latest",
+        "@qmap/engine": "latest",
+        "@qmateub/how-to-publish-to-npm": "latest",
+        "@qmatic/cdk": "latest",
+        "@qmatic/service-discovery": "latest",
+        "@qmatic/try-npm": "latest",
+        "@qmbase/pbd-admin": "latest",
+        "@qmfe/beacon": "latest",
+        "@qmfe/is-function": "latest",
+        "@qmfe/readystate": "latest",
+        "@qmhc/date-util": "latest",
+        "@qmhc/flex-table": "latest",
+        "@qmhc/split": "latest",
+        "@qmhc/vue-grid-layout": "latest",
+        "@qminder/eslint-config": "latest",
+        "@qminder/framework": "latest",
+        "@qmp/babel-preset": "latest",
+        "@qmp/core": "latest",
+        "@qmp/ts-config": "latest",
+        "@qmtprotal/core": "latest",
+        "@qmtprotal/utils": "latest",
+        "@qmxt/toolset": "latest"
+    }
+}

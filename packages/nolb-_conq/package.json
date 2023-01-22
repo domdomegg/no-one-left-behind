@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_conq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@conqa/serverless-openapi-documentation": "latest",
+        "@conqr/search-query-parser": "latest",
+        "@conquera99/qty-convert-tools": "latest",
+        "@conqueror-ecommerce/common": "latest",
+        "@conquerpage/docs": "latest",
+        "@conquerpage/react": "latest",
+        "@conquerpage/tokens": "latest",
+        "@conquerplus/react-native-vimeo-iframe": "latest",
+        "@conquerplus/react-native-web-video": "latest",
+        "@conquiztador/ng-grid": "latest"
+    }
+}

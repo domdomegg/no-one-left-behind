@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_dat-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dat-daemon/cli": "latest",
+        "@dat-daemon/client": "latest",
+        "@dat-daemon/config": "latest",
+        "@dat-daemon/http": "latest",
+        "@dat-daemon/protocol": "latest",
+        "@dat-daemon/tray": "latest",
+        "@dat-dev/cli": "latest",
+        "@dat-dev/cli2": "latest",
+        "@dat-dev/cli3": "latest",
+        "@dat-dev/cli4": "latest",
+        "@dat-dev/cli5": "latest",
+        "@dat-dev/cli6": "latest",
+        "@dat-dev/cli7": "latest",
+        "@dat-dev/cli8": "latest",
+        "@dat-dev/clii": "latest"
+    }
+}

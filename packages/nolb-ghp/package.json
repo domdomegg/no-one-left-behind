@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-ghp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ghp": "latest",
+        "ghp-blogs": "latest",
+        "ghp-cli": "latest",
+        "ghp-my-storybook-components": "latest",
+        "ghp-product-card": "latest",
+        "ghpage": "latest",
+        "ghpagedeploy": "latest",
+        "ghpages": "latest",
+        "ghpages-blog-cli": "latest",
+        "ghpages-convert": "latest",
+        "ghpages-spa-webpack-plugin": "latest",
+        "ghpdbjs": "latest",
+        "ghpg": "latest",
+        "ghpm": "latest",
+        "ghpost-address": "latest",
+        "ghpr": "latest",
+        "ghpulls": "latest"
+    }
+}

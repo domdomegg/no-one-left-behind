@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_onb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@onb-frs/iiif-cropper": "latest",
+        "@onboardbase/cli": "latest",
+        "@onboardbase/pulumi-onboardbase": "latest",
+        "@onboardbase/secrets": "latest",
+        "@onboarden/importer": "latest",
+        "@onboarding_shared/all": "latest",
+        "@onboarding_shared/builder": "latest",
+        "@onboarding_shared/button": "latest",
+        "@onboarding_shared/card": "latest",
+        "@onboardio/onboardio-script": "latest",
+        "@onboardist/ui": "latest",
+        "@onboardmoney/cli": "latest",
+        "@onboardmoney/sdk": "latest",
+        "@onbright/hardware-suit": "latest",
+        "@onbright/oui": "latest",
+        "@onbright/vue-photo-preview": "latest",
+        "@onbright/vue-print": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_myd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mydaco/mydaco-scripts": "latest",
+        "@mydaco/mydaco-starter": "latest",
+        "@mydata/client": "latest",
+        "@myday/common": "latest",
+        "@mydesigns/opencv": "latest",
+        "@mydevices/pubsub-transporter": "latest",
+        "@mydevices/transporter": "latest",
+        "@mydevsandbox-com/log-hello": "latest",
+        "@mydiem/aot-fixer-pug": "latest",
+        "@mydiem/diem-angular-util": "latest",
+        "@mydiem/diem-common": "latest",
+        "@mydiem/diem-forms": "latest",
+        "@mydiem/diem-util": "latest",
+        "@mydion/components": "latest",
+        "@mydnex/ckeditor5-internallink-plugin": "latest",
+        "@mydney/core": "latest",
+        "@mydoc/react-native-mydoc-auth": "latest",
+        "@mydoc/react-native-mydoc-consultation": "latest",
+        "@mydoc/web-makeup": "latest",
+        "@mydoclaw/querystring-json": "latest",
+        "@mydoge/y-ui": "latest",
+        "@mydogeofficial/dogecoin-js": "latest",
+        "@mydoormot/common": "latest",
+        "@mydrivetime/design-system": "latest"
+    }
+}

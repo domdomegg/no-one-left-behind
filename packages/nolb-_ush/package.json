@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_ush",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ushaikh/react-native-ui": "latest",
+        "@usheninte/postgres-parser": "latest",
+        "@usher.so/auth": "latest",
+        "@usher.so/campaigns": "latest",
+        "@usher.so/cli": "latest",
+        "@usher.so/datamodels": "latest",
+        "@usher.so/js": "latest",
+        "@usher.so/partnerships": "latest",
+        "@usher.so/satellite": "latest",
+        "@usher.so/shared": "latest",
+        "@ushiboy/cyclone": "latest",
+        "@ushiboy/cyclone-mock-store": "latest",
+        "@ushiboy/freezable-store": "latest",
+        "@ushiboy/observable-store": "latest",
+        "@ushiboy/picmd": "latest",
+        "@ushiboy/react-cyclone": "latest",
+        "@ushu/react-native-template-typescript": "latest"
+    }
+}

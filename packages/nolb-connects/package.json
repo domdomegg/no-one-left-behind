@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-connects",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "connects-utils": "latest",
+        "connectsdk": "latest",
+        "connectsdk-react-native": "latest",
+        "connectservice": "latest",
+        "connectsiya": "latest",
+        "connectsql": "latest"
+    }
+}

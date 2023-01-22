@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-time1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "time1": "latest",
+        "time1-service": "latest",
+        "time1-yangxy666": "latest",
+        "time111": "latest",
+        "time14": "latest",
+        "time15": "latest"
+    }
+}

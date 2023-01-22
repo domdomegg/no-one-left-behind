@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-sma-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sma-cache": "latest",
+        "sma-cli": "latest",
+        "sma-contact-flow-parser": "latest",
+        "sma-contact-flow-parser1": "latest",
+        "sma-core": "latest",
+        "sma-test": "latest",
+        "sma-types": "latest"
+    }
+}

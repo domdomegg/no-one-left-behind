@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-keym",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "keymachine": "latest",
+        "keymail-cli": "latest",
+        "keymaker": "latest",
+        "keymaker-toolbox": "latest",
+        "keymanager-cli": "latest",
+        "keymap": "latest",
+        "keymapper": "latest",
+        "keymaster": "latest",
+        "keymaster-custom": "latest",
+        "keymaster-patched": "latest",
+        "keymaster-reloaded": "latest",
+        "keymaster-shift": "latest",
+        "keymaster-ssr": "latest",
+        "keymaster-updated": "latest",
+        "keymbinatorial": "latest",
+        "keymetrics": "latest",
+        "keymetrics-agent": "latest",
+        "keymetrics-api": "latest",
+        "keymetrics-cli": "latest",
+        "keymetrics.js": "latest",
+        "keymgr": "latest",
+        "keymirror": "latest",
+        "keymirror-flow": "latest",
+        "keymirror-js": "latest",
+        "keymirror-nested": "latest",
+        "keymirror-symbol": "latest",
+        "keymirrorprefix": "latest",
+        "keymit": "latest"
+    }
+}

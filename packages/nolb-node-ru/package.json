@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-node-ru",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-rubenbix": "latest",
+        "node-rule-engine": "latest",
+        "node-rule34": "latest",
+        "node-ruler": "latest",
+        "node-rules": "latest",
+        "node-rules-engine": "latest",
+        "node-rules-system": "latest",
+        "node-rules-system-esm": "latest",
+        "node-run": "latest",
+        "node-run-cmd": "latest",
+        "node-run-webpack-plugin": "latest",
+        "node-runbox": "latest",
+        "node-runc": "latest",
+        "node-runkeeper": "latest",
+        "node-runnder": "latest",
+        "node-runner": "latest",
+        "node-runner-v": "latest",
+        "node-runners": "latest",
+        "node-runneruu": "latest",
+        "node-runnr": "latest",
+        "node-runscore": "latest",
+        "node-runtastic": "latest",
+        "node-runtime-stats": "latest",
+        "node-runtime-webpack-plugin": "latest",
+        "node-rush": "latest",
+        "node-rust-sqlite": "latest",
+        "node-ruuvitag": "latest"
+    }
+}

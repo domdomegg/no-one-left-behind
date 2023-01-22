@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-th2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "th2": "latest",
+        "th2-template-m": "latest",
+        "th2_15520340": "latest",
+        "th2v": "latest",
+        "th2v-deploy-obf": "latest",
+        "th2w": "latest"
+    }
+}

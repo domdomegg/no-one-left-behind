@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_vey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@veyh/dedent": "latest",
+        "@veyh/eslint-config": "latest",
+        "@veyh/gulp-boilerplate": "latest",
+        "@veyh/is-error": "latest",
+        "@veyh/only-allow": "latest",
+        "@veyh/test-boilerplate": "latest",
+        "@veypi/msg": "latest",
+        "@veypi/one-icon": "latest"
+    }
+}

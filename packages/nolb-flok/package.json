@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-flok",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "flok-core": "latest",
+        "flok-gui": "latest",
+        "flok-repl": "latest",
+        "flok-web": "latest",
+        "flokey": "latest",
+        "floki": "latest",
+        "floki-native": "latest",
+        "floki-uikit": "latest",
+        "floki.js": "latest",
+        "flokishiba-libs-uikit": "latest",
+        "flokit": "latest",
+        "flokit-theme-default": "latest"
+    }
+}

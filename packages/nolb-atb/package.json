@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-atb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "atb": "latest",
+        "atb-branch-module": "latest",
+        "atb-cli": "latest",
+        "atb-insight-api": "latest",
+        "atb-insight-ui": "latest",
+        "atb-library": "latest",
+        "atb-rxjs-toolbox": "latest",
+        "atbar": "latest",
+        "atbase": "latest",
+        "atbash": "latest",
+        "atbash-cipher": "latest",
+        "atbash-wizard": "latest",
+        "atbatjs": "latest",
+        "atbcoind-rpc": "latest",
+        "atbcoinjs-lib": "latest",
+        "atbcore-lib": "latest",
+        "atbcore-node": "latest",
+        "atbl": "latest",
+        "atbmarket": "latest",
+        "atbuild": "latest"
+    }
+}

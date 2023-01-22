@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-react-pk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-pkce": "latest",
+        "react-pkce-coustome": "latest",
+        "react-pkce-oauth2": "latest",
+        "react-pkce-urlencoded": "latest",
+        "react-pkg-scripts": "latest",
+        "react-pkg-test": "latest",
+        "react-pkg-ui": "latest",
+        "react-pkga": "latest",
+        "react-pkgb": "latest",
+        "react-pkgc": "latest",
+        "react-pkgs": "latest"
+    }
+}

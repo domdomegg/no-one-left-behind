@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-parq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "parque-magico": "latest",
+        "parque_core_test": "latest",
+        "parquet": "latest",
+        "parquet-aws": "latest",
+        "parquet-wasm": "latest",
+        "parquetjs": "latest",
+        "parquetjs-aws": "latest",
+        "parquetjs-clone": "latest",
+        "parquetjs-decimal": "latest",
+        "parquetjs-enaible": "latest",
+        "parquetjs-lite": "latest",
+        "parquetjs-lite-dict": "latest",
+        "parquetjs-lite-gas": "latest",
+        "parquetjs-patch": "latest",
+        "parquetjs-react": "latest",
+        "parquetjs-stream": "latest",
+        "parquetjs-ts": "latest",
+        "parquets": "latest",
+        "parquetscraper": "latest"
+    }
+}

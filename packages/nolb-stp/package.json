@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-stp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stp": "latest",
+        "stp-api-enterprise-js": "latest",
+        "stp-cdk": "latest",
+        "stp-crud": "latest",
+        "stp-fs": "latest",
+        "stp-mui": "latest",
+        "stp-router": "latest",
+        "stp-utils": "latest",
+        "stpan": "latest",
+        "stpancras-storybook-app": "latest",
+        "stpass-antd": "latest",
+        "stpclient": "latest",
+        "stpicalc": "latest",
+        "stpl": "latest",
+        "stpnut": "latest",
+        "stpro": "latest",
+        "stprogress": "latest",
+        "stprop": "latest",
+        "stpwrds": "latest",
+        "stpwtch": "latest"
+    }
+}

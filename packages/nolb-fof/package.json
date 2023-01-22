@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-fof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fof": "latest",
+        "fof-style": "latest",
+        "fof-utils": "latest",
+        "fof-vue-charts": "latest",
+        "fofel": "latest",
+        "fofire": "latest",
+        "fofo": "latest",
+        "fofof": "latest",
+        "fofofo": "latest",
+        "foft": "latest",
+        "fofx": "latest",
+        "fofx-cron": "latest",
+        "fofx-mongodb": "latest",
+        "fofx-web": "latest",
+        "fofx-ws": "latest"
+    }
+}

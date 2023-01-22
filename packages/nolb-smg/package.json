@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-smg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smg": "latest",
+        "smg-commons": "latest",
+        "smg-dbf": "latest",
+        "smg-dev-template": "latest",
+        "smg-dev-template-ts": "latest",
+        "smg-dining-and-showtimes-lib": "latest",
+        "smg-my-storybook-components": "latest",
+        "smg-opencv": "latest",
+        "smg-shp-write": "latest",
+        "smg-untis-parser": "latest",
+        "smg-web-design-system": "latest",
+        "smglobal": "latest",
+        "smgr": "latest",
+        "smgtools": "latest",
+        "smgzcntest1": "latest"
+    }
+}

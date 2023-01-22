@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-nej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nej": "latest",
+        "nej-automask": "latest",
+        "nej-cli": "latest",
+        "nej-commonjs": "latest",
+        "nej-d": "latest",
+        "nej-es6": "latest",
+        "nej-global-dependency-fixer": "latest",
+        "nej-ie.js": "latest",
+        "nej-imagemin": "latest",
+        "nej-js": "latest",
+        "nej-loader": "latest",
+        "nej-minimage": "latest",
+        "nej-mocha": "latest",
+        "nej-webserver": "latest",
+        "nej.js": "latest",
+        "nejc": "latest",
+        "nejcode": "latest",
+        "nejelnk-example": "latest",
+        "neji": "latest",
+        "nejm": "latest",
+        "nejpublisher": "latest",
+        "nejs": "latest",
+        "nejsconf-2018": "latest",
+        "nejson": "latest",
+        "nejt": "latest"
+    }
+}

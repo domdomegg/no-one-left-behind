@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-react-ct",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-ct": "latest",
+        "react-cta-buttons": "latest",
+        "react-ctools": "latest",
+        "react-ctrl": "latest",
+        "react-ctrl-f": "latest",
+        "react-ctrls": "latest",
+        "react-ctx": "latest",
+        "react-ctx-connect": "latest",
+        "react-ctx-form": "latest",
+        "react-ctx-forms": "latest",
+        "react-ctx-menu": "latest",
+        "react-ctx-provider": "latest",
+        "react-ctx-router": "latest",
+        "react-ctx-state": "latest",
+        "react-ctx-store": "latest",
+        "react-ctx-toolkit": "latest",
+        "react-ctxmenu-trigger": "latest",
+        "react-ctxt": "latest"
+    }
+}

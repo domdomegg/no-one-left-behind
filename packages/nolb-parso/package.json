@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-parso",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "parso": "latest",
+        "parsoca": "latest",
+        "parsoid": "latest",
+        "parsoid-dom-utils": "latest",
+        "parsoid-jsapi": "latest",
+        "parsomatic": "latest",
+        "parsomen.core": "latest",
+        "parson": "latest",
+        "parsonaldata": "latest",
+        "parsonic": "latest",
+        "parsony": "latest",
+        "parsony-cli": "latest",
+        "parsony-web": "latest"
+    }
+}

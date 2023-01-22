@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-fsu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fsu": "latest",
+        "fsuipc": "latest",
+        "fsuipc-wasm": "latest",
+        "fsuipc.js": "latest",
+        "fsuite": "latest",
+        "fsup": "latest",
+        "fsurl": "latest",
+        "fsutil": "latest",
+        "fsutil-lib": "latest",
+        "fsuxx": "latest"
+    }
+}

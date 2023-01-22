@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-hoz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hoz": "latest",
+        "hoz-test-lib": "latest",
+        "hozcanif": "latest",
+        "hozera": "latest",
+        "hozera_yxh": "latest",
+        "hozi-dev-content-css": "latest",
+        "hozi-dev-markdown-to-html": "latest",
+        "hozi-player-api": "latest",
+        "hozz": "latest"
+    }
+}

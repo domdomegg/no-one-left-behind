@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-lin3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lin3s-css-grid": "latest",
+        "lin3s-distribution": "latest",
+        "lin3s-event-bus": "latest",
+        "lin3s-front-foundation": "latest",
+        "lin3s-react-analytics": "latest",
+        "lin3s-react-analytics-enhanced-ecommerce": "latest",
+        "lin3s-react-analytics-enhanced-ecommerce-sylius": "latest",
+        "lin3s-sylius-shop-api-client": "latest"
+    }
+}

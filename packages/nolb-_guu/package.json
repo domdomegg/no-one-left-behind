@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_guu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@guumaster/rpg-generator-engine": "latest",
+        "@guumaster/rpgen": "latest",
+        "@guumaster/rpgen-gameicons": "latest",
+        "@guuri11/i18n-cli": "latest"
+    }
+}

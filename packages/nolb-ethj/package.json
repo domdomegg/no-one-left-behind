@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-ethj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ethjs": "latest",
+        "ethjs-abi": "latest",
+        "ethjs-abi-updated": "latest",
+        "ethjs-account": "latest",
+        "ethjs-contract": "latest",
+        "ethjs-contract-boilerplate": "latest",
+        "ethjs-custom-signer": "latest",
+        "ethjs-element": "latest",
+        "ethjs-ens": "latest",
+        "ethjs-filter": "latest",
+        "ethjs-format": "latest",
+        "ethjs-iolite-signer": "latest",
+        "ethjs-provider-http": "latest",
+        "ethjs-provider-signer": "latest",
+        "ethjs-query": "latest",
+        "ethjs-rpc": "latest",
+        "ethjs-schema": "latest",
+        "ethjs-sha3": "latest",
+        "ethjs-signer": "latest",
+        "ethjs-template": "latest",
+        "ethjs-unit": "latest",
+        "ethjs-unit-ledgerium": "latest",
+        "ethjs-util": "latest",
+        "ethjs-xns": "latest",
+        "ethjsbiquery": "latest"
+    }
+}

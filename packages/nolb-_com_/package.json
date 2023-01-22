@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_com_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@com.chirag.software/desktop-share": "latest",
+        "@com.christiangrete.libs.js/sequential-promise-processor": "latest",
+        "@com.robhameetman/design": "latest",
+        "@com.robhameetman/scripts": "latest",
+        "@com.roloops/com.amanotes.packagemanager": "latest",
+        "@com.vos.test/com.vos.test.packagethree": "latest",
+        "@com_dskejiku/js_http": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-soca",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "soca": "latest",
+        "soca-web-ui-common": "latest",
+        "socalbrewer-frame-print": "latest",
+        "socar-atiomic-converts": "latest",
+        "socar-atomic-converts": "latest",
+        "socar-baseapi": "latest",
+        "socar-cli-beta": "latest",
+        "socar-datalayer": "latest",
+        "socar-demo": "latest",
+        "socar-domain": "latest",
+        "socar-formily": "latest",
+        "socar-grid": "latest",
+        "socar-hooks": "latest",
+        "socar-jsonapi": "latest",
+        "socar-jsonapi2": "latest",
+        "socar-microapps": "latest",
+        "socar-print": "latest",
+        "socar-utils": "latest",
+        "socar-weblogger": "latest",
+        "socarlosb": "latest",
+        "socat": "latest"
+    }
+}

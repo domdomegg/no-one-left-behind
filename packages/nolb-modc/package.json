@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-modc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "modcgi": "latest",
+        "modcheck": "latest",
+        "modclean": "latest",
+        "modclean-benchmark": "latest",
+        "modclean-patterns-angular": "latest",
+        "modclean-patterns-default": "latest",
+        "modclean-patterns-nm": "latest",
+        "modcli": "latest",
+        "modcli-actionrouter": "latest",
+        "modcli-configrc": "latest",
+        "modcli-forever": "latest",
+        "modcli-help": "latest",
+        "modcli-mustache-renderer": "latest",
+        "modcli-params": "latest",
+        "modcol": "latest",
+        "modconf": "latest",
+        "modconv": "latest",
+        "modcraft": "latest",
+        "modcrawler": "latest",
+        "modcss": "latest"
+    }
+}

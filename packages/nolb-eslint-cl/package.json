@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-eslint-cl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslint-clang-formatter": "latest",
+        "eslint-clean-code": "latest",
+        "eslint-clean-code-rules": "latest",
+        "eslint-cli": "latest",
+        "eslint-closest-cli": "latest",
+        "eslint-closure": "latest",
+        "eslint-clovis": "latest"
+    }
+}

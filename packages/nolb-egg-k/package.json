@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-egg-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "egg-kafka": "latest",
+        "egg-kafka-client": "latest",
+        "egg-kafka-email": "latest",
+        "egg-kafka-java-bridge": "latest",
+        "egg-kafka-node": "latest",
+        "egg-kafka-nodemailer": "latest",
+        "egg-kafkajs": "latest",
+        "egg-kafkajs2": "latest",
+        "egg-kauth": "latest",
+        "egg-keepwork-kafkajs": "latest",
+        "egg-kelvin": "latest",
+        "egg-keycloak": "latest",
+        "egg-keystone": "latest",
+        "egg-keyv": "latest",
+        "egg-kit": "latest",
+        "egg-kmore": "latest",
+        "egg-knex": "latest",
+        "egg-knex-model": "latest",
+        "egg-knex-model-js": "latest",
+        "egg-knex-promise": "latest",
+        "egg-koid": "latest",
+        "egg-kong.geteway": "latest",
+        "egg-kubernetes": "latest",
+        "egg-kue": "latest",
+        "egg-kue-jobs": "latest",
+        "egg-kue2": "latest"
+    }
+}

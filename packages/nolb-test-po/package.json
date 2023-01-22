@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-test-po",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "test-po": "latest",
+        "test-poa-faktasider-common": "latest",
+        "test-poberwong": "latest",
+        "test-point": "latest",
+        "test-poki-1": "latest",
+        "test-polayya-lib-xyz-were-polle-xnrs-123": "latest",
+        "test-pollyjs-adapter-xhr-forked-tmp": "latest",
+        "test-polygon": "latest",
+        "test-pon-lib": "latest",
+        "test-popperjs": "latest",
+        "test-popup": "latest",
+        "test-port": "latest",
+        "test-port-provider": "latest",
+        "test-porta": "latest",
+        "test-portal": "latest",
+        "test-post-build": "latest",
+        "test-poster-editor": "latest",
+        "test-postinstall": "latest",
+        "test-postinstall-node-version-check": "latest",
+        "test-postinstall-o": "latest",
+        "test-postinstall-package": "latest",
+        "test-postraner": "latest"
+    }
+}

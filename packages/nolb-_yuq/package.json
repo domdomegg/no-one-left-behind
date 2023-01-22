@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_yuq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yuq/pi_utils": "latest",
+        "@yuqi0122/eslint-config-yuqi-basic": "latest",
+        "@yuqi0122/eslint-config-yuqi-prettier": "latest",
+        "@yuqi0122/eslint-config-yuqi-react": "latest",
+        "@yuqi0122/eslint-config-yuqi-typescript": "latest",
+        "@yuqiangchn/core": "latest",
+        "@yuqiangchn/utils": "latest",
+        "@yuqigui1083/yvue-ui": "latest",
+        "@yuqing521/omi-cli": "latest",
+        "@yuqing521/package-a": "latest",
+        "@yuqing521/package-b": "latest",
+        "@yuqing521/package-c": "latest",
+        "@yuqing521/yucli": "latest",
+        "@yuque/sdk": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-id_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "id.dll": "latest",
+        "id.gits.generatortahubulat": "latest",
+        "id.js": "latest",
+        "id.log": "latest",
+        "id.min.js": "latest",
+        "id.panin.cordova.plugin.sftp": "latest",
+        "id_check": "latest",
+        "id_converter": "latest",
+        "id_generator_app": "latest",
+        "id_translator": "latest"
+    }
+}

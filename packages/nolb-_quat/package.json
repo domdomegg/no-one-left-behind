@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_quat",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@quatico/dom-serializer": "latest",
+        "@quatico/magellan-addons": "latest",
+        "@quatico/magellan-cli": "latest",
+        "@quatico/magellan-client": "latest",
+        "@quatico/magellan-server": "latest",
+        "@quatico/magellan-shared": "latest",
+        "@quatico/websmith-api": "latest",
+        "@quatico/websmith-cli": "latest",
+        "@quatico/websmith-compiler": "latest",
+        "@quatico/websmith-core": "latest",
+        "@quatico/websmith-webpack": "latest",
+        "@quatrain/backend-firestore": "latest",
+        "@quatrain/core": "latest",
+        "@quatrefoil/meshline": "latest",
+        "@quatrefoil/triadica-lib": "latest",
+        "@quatrefoil/utils": "latest",
+        "@quattro-bet/embeddable-app": "latest",
+        "@quattro-bet/sportsbook-control": "latest"
+    }
+}

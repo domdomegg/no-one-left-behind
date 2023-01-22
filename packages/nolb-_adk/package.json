@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_adk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@adk-kapur/react-native-customer-io": "latest",
+        "@adk2/react-scripts": "latest"
+    }
+}

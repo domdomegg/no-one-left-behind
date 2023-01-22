@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-ghi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ghi": "latest",
+        "ghi-cli": "latest",
+        "ghi-server": "latest",
+        "ghi-server-test": "latest",
+        "ghib": "latest",
+        "ghibli": "latest",
+        "ghibli-api": "latest",
+        "ghibli-wrapper": "latest",
+        "ghibli_flix": "latest",
+        "ghify-request": "latest",
+        "ghify-request-options": "latest",
+        "ghinfo": "latest",
+        "ghint": "latest",
+        "ghis-buttons-lib": "latest",
+        "ghis-lib": "latest",
+        "ghishadow": "latest",
+        "ghison-state": "latest",
+        "ghissues": "latest",
+        "ghitto": "latest"
+    }
+}

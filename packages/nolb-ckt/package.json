@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-ckt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ckt": "latest",
+        "ckt-base-shared": "latest",
+        "ckt-breaker": "latest",
+        "ckt-ui": "latest",
+        "cktest-share": "latest",
+        "cktestpackage": "latest",
+        "cktestpackage1": "latest",
+        "cktjs": "latest",
+        "cktool": "latest"
+    }
+}

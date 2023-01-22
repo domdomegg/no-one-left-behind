@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-test-package-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "test-package-ui-kit-native": "latest",
+        "test-package-ui-ts-test": "latest",
+        "test-package-unique": "latest",
+        "test-package-unique-123aaa": "latest",
+        "test-package-uo": "latest",
+        "test-package-upload-yarn-lock": "latest",
+        "test-package-ur": "latest",
+        "test-package-utils": "latest",
+        "test-package-uvn-two": "latest"
+    }
+}

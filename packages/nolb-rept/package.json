@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-rept",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rept": "latest",
+        "reptant": "latest",
+        "reptar": "latest",
+        "reptar-excerpt": "latest",
+        "reptar-html-minifier": "latest",
+        "reptar-theme-jekyll": "latest",
+        "reptar-theme-thread": "latest",
+        "reptf": "latest",
+        "repticx": "latest",
+        "reptile": "latest",
+        "reptile_duxiaohong": "latest",
+        "reptilejs": "latest",
+        "reptiles": "latest",
+        "reptilian": "latest",
+        "reptily-dbinterface": "latest",
+        "repture": "latest"
+    }
+}

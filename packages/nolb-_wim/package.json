@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_wim",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wimcartago/wim-security-pack-test": "latest",
+        "@wimdental/i18n": "latest",
+        "@wimmar/eslint-config-vue": "latest",
+        "@wimmie/wvd-vue-quick-chat": "latest",
+        "@wimmmmly/justin": "latest",
+        "@wimsuenens/netsuite-restlet": "latest"
+    }
+}

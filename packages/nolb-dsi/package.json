@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-dsi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dsi": "latest",
+        "dsi-aws-boilerplate": "latest",
+        "dsi-core-pkg": "latest",
+        "dsi-encrypt-password": "latest",
+        "dsi-level1-components": "latest",
+        "dsi-mongoose-auto-increment": "latest",
+        "dsi-svg-spinner": "latest",
+        "dsi-ui-web-components": "latest",
+        "dsi18n": "latest",
+        "dsia": "latest",
+        "dsig": "latest",
+        "dsign": "latest",
+        "dsign-components": "latest",
+        "dsigner": "latest",
+        "dsignsdk": "latest",
+        "dsilva-react-module-seed": "latest",
+        "dsimms-react-pagination": "latest",
+        "dsimms-tax-calc": "latest",
+        "dsimpleorm": "latest",
+        "dsite": "latest"
+    }
+}

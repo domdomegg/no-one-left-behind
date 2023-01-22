@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-stylelint-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylelint-unisian": "latest",
+        "stylelint-unused-classes": "latest",
+        "stylelint-uppercase-letter-spacing": "latest",
+        "stylelint-use-logical": "latest",
+        "stylelint-use-logical-spec": "latest",
+        "stylelint-use-nesting": "latest",
+        "stylelint-use-nesting-scss": "latest"
+    }
+}

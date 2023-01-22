@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-msx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "msx": "latest",
+        "msx-brunch": "latest",
+        "msx-loader": "latest",
+        "msx-optimized": "latest",
+        "msx-silent": "latest",
+        "msx-x": "latest",
+        "msx-x-loader": "latest",
+        "msx_src_server": "latest",
+        "msxcli": "latest",
+        "msxcli-express-temp": "latest",
+        "msxcli-koa-temp": "latest",
+        "msxwwwmsx": "latest",
+        "msxyz-cli": "latest"
+    }
+}

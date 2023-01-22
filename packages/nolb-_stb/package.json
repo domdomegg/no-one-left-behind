@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_stb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stball/dragsort": "latest",
+        "@stblassitude/mumble-client-codecs-browser": "latest",
+        "@stbm/vue-components": "latest",
+        "@stbmoz-onboarding/core": "latest",
+        "@stbui/one-cli": "latest",
+        "@stbui/one-common": "latest",
+        "@stbui/one-core": "latest",
+        "@stbui/one-http": "latest",
+        "@stbui/one-platform-express": "latest",
+        "@stbui/one-platform-koa": "latest",
+        "@stbui/one-platform-node": "latest",
+        "@stbui/prophet": "latest",
+        "@stbui/prophet-antd": "latest",
+        "@stbui/prophet-common": "latest",
+        "@stbui/prophet-core": "latest",
+        "@stbui/prophet-data-json-server": "latest",
+        "@stbui/prophet-i18n-polyglot": "latest",
+        "@stbui/prophet-language-chinese": "latest",
+        "@stbui/prophet-language-english": "latest",
+        "@stbui/rc": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-wan3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wan3": "latest",
+        "wan3-bzz": "latest",
+        "wan3-core": "latest",
+        "wan3-core-helpers": "latest",
+        "wan3-core-method": "latest",
+        "wan3-core-promievent": "latest",
+        "wan3-core-requestmanager": "latest",
+        "wan3-core-subscriptions": "latest",
+        "wan3-eth": "latest",
+        "wan3-eth-abi": "latest",
+        "wan3-eth-accounts": "latest",
+        "wan3-eth-contract": "latest",
+        "wan3-eth-ens": "latest",
+        "wan3-eth-iban": "latest",
+        "wan3-eth-personal": "latest",
+        "wan3-net": "latest",
+        "wan3-providers-http": "latest",
+        "wan3-providers-ipc": "latest",
+        "wan3-providers-ws": "latest",
+        "wan3-shh": "latest",
+        "wan3-utils": "latest"
+    }
+}

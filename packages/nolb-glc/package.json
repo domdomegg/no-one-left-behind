@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-glc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "glc": "latest",
+        "glc-cli": "latest",
+        "glc-data-glue-crawlers-serverless-plugin": "latest",
+        "glc1314mzl": "latest",
+        "glchart": "latest",
+        "glcheck": "latest",
+        "glci": "latest",
+        "glci_c-2022": "latest",
+        "glcli1122": "latest",
+        "glcp-github-user-widget": "latest",
+        "glcp-ionic5-datepicker": "latest",
+        "glcp-my-first-ionic-library": "latest",
+        "glcp-ng-mock-api": "latest",
+        "glcp-ng-swiper": "latest"
+    }
+}

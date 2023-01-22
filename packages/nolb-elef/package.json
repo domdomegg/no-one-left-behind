@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-elef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "elefant-state": "latest",
+        "elefctron": "latest",
+        "elefixed": "latest",
+        "elefran": "latest",
+        "elefrant-mongoose-validator": "latest",
+        "elefrant-orm": "latest",
+        "elefrant-redis-cache": "latest",
+        "elefrant-util": "latest",
+        "elefrantio": "latest",
+        "eleftron": "latest"
+    }
+}

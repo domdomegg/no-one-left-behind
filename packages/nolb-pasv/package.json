@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-pasv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pasvalid": "latest",
+        "pasvalid124": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_le-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@le-cli-dev/core": "latest",
+        "@le-cli-dev/unit": "latest",
+        "@le-cli/command": "latest",
+        "@le-cli/core": "latest",
+        "@le-cli/exec": "latest",
+        "@le-cli/format-path": "latest",
+        "@le-cli/get-npm-info": "latest",
+        "@le-cli/git": "latest",
+        "@le-cli/init": "latest",
+        "@le-cli/log": "latest",
+        "@le-cli/package": "latest",
+        "@le-cli/publish": "latest",
+        "@le-cli/request": "latest",
+        "@le-cli/utils": "latest",
+        "@le-co/code-painter": "latest",
+        "@le-phare/faros-avant-theme": "latest",
+        "@le-phare/konami": "latest",
+        "@le-phare/webpack-config": "latest"
+    }
+}

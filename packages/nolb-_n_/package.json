@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_n_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@n.alexandr/web-storage": "latest",
+        "@n.batrakov/test": "latest",
+        "@n.cento/template": "latest",
+        "@n.itra/abie-sla": "latest",
+        "@n.itra/caps-db-api": "latest",
+        "@n.itra/win-bx-binotel": "latest",
+        "@n.see/gif-parser": "latest",
+        "@n.see/gif-player": "latest",
+        "@n.see/gif-player-vue-next": "latest",
+        "@n.see/psd-parser": "latest",
+        "@n.vignesh/passwd-val": "latest",
+        "@n.wolfe/scoped-test": "latest",
+        "@n_bryant/classnames-helper": "latest",
+        "@n_bryant/nb-material-theme": "latest",
+        "@n_margolis/reporters": "latest",
+        "@n_rey/storybook-addon-preview": "latest",
+        "@n_sandstrom/amqp-messenger": "latest"
+    }
+}

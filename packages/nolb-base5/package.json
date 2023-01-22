@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-base5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "base5-icons": "latest",
+        "base5-ui": "latest",
+        "base52": "latest",
+        "base58": "latest",
+        "base58-encode": "latest",
+        "base58-js": "latest",
+        "base58-monero": "latest",
+        "base58-native": "latest",
+        "base58-native-x": "latest",
+        "base58-nodes": "latest",
+        "base58-random": "latest",
+        "base58-solidity": "latest",
+        "base58-string": "latest",
+        "base58-universal": "latest",
+        "base58check": "latest",
+        "base58encoder": "latest"
+    }
+}

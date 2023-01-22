@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_vut",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vutex/vuepress-plugin-component-container": "latest",
+        "@vutex/vuepress-plugin-math": "latest",
+        "@vutex/vuepress-plugin-media": "latest",
+        "@vutex/vuepress-plugin-shiki": "latest",
+        "@vutex/vuepress-theme-vutex": "latest",
+        "@vutex/wapp2md": "latest",
+        "@vutien/dmm-v2-sdk": "latest",
+        "@vutien/dmm-v3-sdk": "latest",
+        "@vutien/interfacesdk": "latest",
+        "@vutien/sdk-core": "latest",
+        "@vutils/objx": "latest",
+        "@vutk/yame": "latest",
+        "@vutpov/dummy-integratee": "latest",
+        "@vutpov/react-mui-daterange-picker": "latest",
+        "@vutr/gstate": "latest",
+        "@vutr/purser-core": "latest",
+        "@vutr/purser-ledger": "latest",
+        "@vutr/purser-metamask": "latest",
+        "@vutr/purser-software": "latest",
+        "@vutr/purser-trezor": "latest",
+        "@vutr/react-coverflow": "latest",
+        "@vutr/redux-zero": "latest",
+        "@vutran/object-map": "latest",
+        "@vutran2712/reactgrid": "latest"
+    }
+}

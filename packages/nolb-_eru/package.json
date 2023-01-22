@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_eru",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@eru085730/test-npm-module": "latest",
+        "@eruerufu/css-reset": "latest",
+        "@erufunouta/phoenix": "latest",
+        "@erufunouta/phoenix-builder": "latest",
+        "@erufunouta/phoenix-button": "latest",
+        "@erufunouta/phoenix-text": "latest",
+        "@erui/button": "latest",
+        "@erui/input": "latest",
+        "@erui/theme-chalk": "latest",
+        "@erulabs/react-markdown-always-wrap-text": "latest",
+        "@erupcja/selfbot-eris": "latest",
+        "@erupcja/uonetplus-hebe-certificate-generator-node": "latest",
+        "@erutidians/auto-dop": "latest"
+    }
+}

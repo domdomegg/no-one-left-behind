@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_q1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@q149/angular-inviewport": "latest",
+        "@q149/angular-scrollspy": "latest",
+        "@q19project/math-docs": "latest"
+    }
+}

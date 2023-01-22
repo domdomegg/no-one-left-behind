@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-thc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thc": "latest",
+        "thc-deployment-tool": "latest",
+        "thc_demo": "latest",
+        "thcdesignsystem": "latest",
+        "thcnpm": "latest",
+        "thcode1": "latest",
+        "thcode2": "latest",
+        "thcode3": "latest",
+        "thcore": "latest",
+        "thcovid": "latest"
+    }
+}

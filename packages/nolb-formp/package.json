@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-formp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "formp": "latest",
+        "formpackage": "latest",
+        "formpackage1": "latest",
+        "formpigeon-cordova-sketch": "latest",
+        "formplate": "latest",
+        "formplex-react": "latest"
+    }
+}

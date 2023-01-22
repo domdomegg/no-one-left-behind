@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-vue-cli-a",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cli-addon-ui-karma": "latest",
+        "vue-cli-addon-ui-testcafe": "latest",
+        "vue-cli-an": "latest",
+        "vue-cli-auto": "latest",
+        "vue-cli-auto-router": "latest",
+        "vue-cli-autofix": "latest"
+    }
+}

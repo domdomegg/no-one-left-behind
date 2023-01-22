@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_parz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@parzh/calc": "latest",
+        "@parzh/git-try": "latest",
+        "@parzh/pkg-has-two-versions": "latest",
+        "@parzh/retryable": "latest",
+        "@parzh/typed-redux-actions": "latest"
+    }
+}

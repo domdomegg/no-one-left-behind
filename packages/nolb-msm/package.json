@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-msm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "msm": "latest",
+        "msm-cli": "latest",
+        "msm-data-protos": "latest",
+        "msm-event-protos": "latest",
+        "msm-kadapat": "latest",
+        "msm-my-storybook-components": "latest",
+        "msm-pass-ui-cg-v1": "latest",
+        "msm-protos": "latest",
+        "msm-transcoder-nodejs": "latest",
+        "msmaker-corelib": "latest",
+        "msmart-base": "latest",
+        "msmart-ui": "latest",
+        "msmc": "latest",
+        "msme-sharing-button": "latest",
+        "msmicroutils": "latest",
+        "msmink": "latest",
+        "msmodule": "latest",
+        "msmp-comp": "latest",
+        "msmp-comp3": "latest",
+        "msmpa-product-card": "latest",
+        "msms": "latest",
+        "msms-my-storybook-components": "latest",
+        "msms-product-card": "latest",
+        "msms-vue-clock": "latest",
+        "msmvc": "latest",
+        "msmzzj": "latest"
+    }
+}

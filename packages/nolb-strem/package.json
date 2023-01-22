@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-strem",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stremio-addon-ipfs": "latest",
+        "stremio-addon-linter": "latest",
+        "stremio-addon-sdk": "latest",
+        "stremio-addon-sdk-mateus": "latest",
+        "stremio-addons": "latest",
+        "stremio-addons-box": "latest",
+        "stremio-addons-client": "latest",
+        "stremio-aggregators": "latest",
+        "stremio-api-client": "latest",
+        "stremio-cast": "latest",
+        "stremio-cinemeta-proxy": "latest",
+        "stremio-filmon": "latest",
+        "stremio-json-data": "latest",
+        "stremio-local-addon": "latest",
+        "stremio-local-addons": "latest",
+        "stremio-local-files": "latest",
+        "stremio-official-addons": "latest",
+        "stremio-opensubtitles": "latest",
+        "stremio-translations": "latest",
+        "stremio-twitch": "latest",
+        "stremio-vodo": "latest",
+        "stremio-watched-bitfield": "latest"
+    }
+}

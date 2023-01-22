@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_d8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@d85/hsl-to-hex": "latest",
+        "@d8660091/react-popper": "latest",
+        "@d89/base": "latest",
+        "@d8corp/jap-express": "latest",
+        "@d8x/d8x-futures-node-sdk": "latest",
+        "@d8x/perpetual-futures": "latest",
+        "@d8x/perpetuals-sdk": "latest"
+    }
+}

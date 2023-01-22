@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-oner",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "oner": "latest",
+        "oner-flexbox": "latest",
+        "oner-io": "latest",
+        "oner-storage": "latest",
+        "oneref": "latest",
+        "onerepublicsu-tools-text": "latest",
+        "onering-solana-sdk": "latest",
+        "onerostermicroservice": "latest",
+        "onerr": "latest",
+        "onerror": "latest",
+        "onerunnerplugin": "latest"
+    }
+}

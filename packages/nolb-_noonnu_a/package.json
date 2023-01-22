@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_noonnu_a",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@noonnu/ac-cchildrenfall": "latest",
+        "@noonnu/ac-cchildrenheart-otf-regular": "latest",
+        "@noonnu/ac-cchildrensky": "latest",
+        "@noonnu/accchildrenfall": "latest",
+        "@noonnu/accchildrenheartotf-regular": "latest",
+        "@noonnu/accchildrensky": "latest",
+        "@noonnu/adobaonly-r": "latest",
+        "@noonnu/ainmom": "latest",
+        "@noonnu/amsterdam": "latest",
+        "@noonnu/anssang": "latest",
+        "@noonnu/ansungtangmyun-bold": "latest",
+        "@noonnu/ansungtangmyun-esg": "latest",
+        "@noonnu/arita-buri-semi-bold": "latest",
+        "@noonnu/arita-buri-semibold": "latest",
+        "@noonnu/arita-dotum-medium": "latest",
+        "@noonnu/atomy-bold": "latest"
+    }
+}

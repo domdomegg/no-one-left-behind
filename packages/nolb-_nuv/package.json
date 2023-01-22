@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_nuv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nuva-lowcode/designer": "latest",
+        "@nuva-lowcode/trigger": "latest",
+        "@nuvibit/github-terraform-semantic-release-config": "latest",
+        "@nuvo-prime/samlify": "latest",
+        "@nuvolo/babel-preset-sn-ts": "latest",
+        "@nuvolo/dev-env": "latest",
+        "@nuvolo/eslint-config": "latest",
+        "@nuvolo/prettier-config": "latest",
+        "@nuvolo/servicenow-types": "latest",
+        "@nuvolo/sn-socket": "latest",
+        "@nuvolo/webpack-config": "latest"
+    }
+}

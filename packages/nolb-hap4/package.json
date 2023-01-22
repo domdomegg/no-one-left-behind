@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-hap4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hap4": "latest",
+        "hap4-antd": "latest",
+        "hap4-front": "latest"
+    }
+}

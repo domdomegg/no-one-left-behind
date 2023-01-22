@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-ant_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ant.js": "latest",
+        "ant_components": "latest",
+        "ant_cpbutton": "latest",
+        "ant_design_pro_tabs": "latest",
+        "ant_est_and_yhb": "latest",
+        "ant_ui": "latest",
+        "ant_wallet": "latest"
+    }
+}

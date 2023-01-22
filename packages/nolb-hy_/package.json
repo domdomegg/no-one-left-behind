@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-hy_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hy.demo": "latest",
+        "hy.nd": "latest",
+        "hy_bsd": "latest",
+        "hy_commonui": "latest",
+        "hy_gx": "latest",
+        "hy_package": "latest",
+        "hy_page_render": "latest",
+        "hy_test_1": "latest",
+        "hy_test_abc": "latest",
+        "hy_test_util": "latest",
+        "hy_test_utils": "latest",
+        "hy_text": "latest",
+        "hy_trst_utils": "latest",
+        "hy_utils_00": "latest",
+        "hy_vuethemecolor": "latest",
+        "hy_vux": "latest",
+        "hy_world_test": "latest"
+    }
+}

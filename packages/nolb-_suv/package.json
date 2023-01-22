@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_suv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@suvam_adhikary/practice_package": "latest",
+        "@suvarnabonula/mycustommodule": "latest",
+        "@suvayu/converter": "latest",
+        "@suvayu/converter-linux-x64-gnu": "latest",
+        "@suvayu/converter-linux-x64-musl": "latest",
+        "@suvelocity/tester": "latest",
+        "@suveshagnihotri/suvesh_test": "latest",
+        "@suvink/bark-day": "latest",
+        "@suvojitseal/ngx-charts": "latest",
+        "@suvorovr/react-native-invoke-app": "latest"
+    }
+}

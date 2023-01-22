@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-hapi-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hapi-universal-webpack-plugin": "latest",
+        "hapi-upload": "latest",
+        "hapi-upload-azure": "latest",
+        "hapi-upload-s3": "latest",
+        "hapi-uploader": "latest",
+        "hapi-upyun": "latest",
+        "hapi-url": "latest",
+        "hapi-user-router": "latest",
+        "hapi-user-store-multi-tenant": "latest",
+        "hapi-usergen-mongo": "latest",
+        "hapi-users": "latest",
+        "hapi-users-plugin": "latest",
+        "hapi-utils": "latest"
+    }
+}

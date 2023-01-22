@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-genp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "genp": "latest",
+        "genpac": "latest",
+        "genpack": "latest",
+        "genpack-greet": "latest",
+        "genpact": "latest",
+        "genpage": "latest",
+        "genpass": "latest",
+        "genpass-lib": "latest",
+        "genpasswd": "latest",
+        "genpkg": "latest",
+        "genplate": "latest",
+        "genpnp": "latest",
+        "genpress": "latest",
+        "genprj": "latest",
+        "genproj": "latest",
+        "genproject": "latest",
+        "genprojs": "latest",
+        "genpsswrd": "latest",
+        "genpswd": "latest",
+        "genpw": "latest",
+        "genpwd": "latest"
+    }
+}

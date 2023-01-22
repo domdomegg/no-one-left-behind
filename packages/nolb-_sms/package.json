@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_sms",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sms-frontend/components": "latest",
+        "@sms-frontend/eagle-eye": "latest",
+        "@sms77.io/botbuilder-adapter-sms": "latest",
+        "@sms77.io/browser-storage": "latest",
+        "@sms77.io/counter": "latest",
+        "@sms77.io/file-handler": "latest",
+        "@sms77.io/locale-transformer": "latest",
+        "@sms77.io/lowdb-wrapper": "latest",
+        "@sms77.io/shared-inbound-numbers": "latest",
+        "@sms77.io/strapi": "latest",
+        "@sms77io/cd": "latest",
+        "@smsadvert/json-autotranslate": "latest",
+        "@smschathumal/ionic-stencil-pwa": "latest",
+        "@smschathumal/practera-component-library": "latest",
+        "@smsedge/smsedge-api-node-js": "latest",
+        "@smsgold/node-sdk": "latest",
+        "@smsh/gen-oms-model": "latest",
+        "@smsh/oms-orm": "latest",
+        "@smsh/oms-orm-v2": "latest",
+        "@smslab/appfy": "latest",
+        "@smsoumitra/hci-ui-components": "latest",
+        "@smsoumitra/sm-sample-react-components": "latest",
+        "@smsoumitra/ui-lib": "latest",
+        "@smstickets/common": "latest"
+    }
+}

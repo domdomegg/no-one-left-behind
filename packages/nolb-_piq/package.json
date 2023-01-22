@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_piq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@piq9117/bs-mailgun": "latest",
+        "@piq9117/ng2-form-validator": "latest",
+        "@piq9117/write-file": "latest",
+        "@piqachu-vue/base": "latest",
+        "@piqachu-vue/button": "latest",
+        "@piqachu-vue/icon": "latest",
+        "@piqachu/base": "latest",
+        "@piqachu/button": "latest",
+        "@piqachu/icon": "latest",
+        "@piqachu/icons": "latest",
+        "@piqachu/reset": "latest",
+        "@piqachu/utilities": "latest",
+        "@piqachu/variables": "latest"
+    }
+}

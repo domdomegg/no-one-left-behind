@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-ioh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ioh": "latest",
+        "iohelper": "latest",
+        "iohook": "latest",
+        "iohook-lib": "latest",
+        "iohook-openb3": "latest",
+        "iohook-prebuild-test": "latest",
+        "iohook-vldm": "latest",
+        "iohook2": "latest",
+        "iohpbaseform": "latest",
+        "iohpeditcomp": "latest",
+        "iohpjsfunctions": "latest",
+        "iohptable": "latest",
+        "iohptokenadmin": "latest",
+        "iohub-lib": "latest"
+    }
+}

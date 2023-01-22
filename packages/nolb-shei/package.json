@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-shei",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sheigl-ngx-lib": "latest",
+        "sheik": "latest",
+        "sheikah": "latest",
+        "sheikah-slate": "latest",
+        "sheikh": "latest",
+        "sheild-crypter": "latest",
+        "shein": "latest",
+        "shein-assets": "latest",
+        "shein-axure-plugin": "latest",
+        "shein-cli": "latest",
+        "shein-docsearch": "latest",
+        "shein-feedback": "latest",
+        "shein-hooks": "latest",
+        "shein-icon": "latest",
+        "shein-test-aa-b": "latest",
+        "shein-test-aaa": "latest",
+        "shein-test-aaa-bb": "latest",
+        "shein-test-abc": "latest",
+        "shein-test-abc-a": "latest",
+        "shein-ua-detection": "latest",
+        "shein-ua-device": "latest",
+        "sheinq": "latest",
+        "sheit": "latest"
+    }
+}

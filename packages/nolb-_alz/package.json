@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_alz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alza54/css-modules-typescript-loader": "latest",
+        "@alza54/eslint-config-javascript": "latest",
+        "@alza54/eslint-config-jest": "latest",
+        "@alza54/eslint-config-jsdoc": "latest",
+        "@alza54/eslint-config-nuxt": "latest",
+        "@alza54/eslint-config-typescript": "latest",
+        "@alza54/eslint-config-vue": "latest",
+        "@alza54/stylelint-config-nuxt": "latest",
+        "@alza54/stylelint-config-scss": "latest",
+        "@alza54/typescript-plugin-css-modules": "latest",
+        "@alzalabany/storage": "latest",
+        "@alzee/resume": "latest",
+        "@alzhan/rncore-commands": "latest",
+        "@alzintani/superevents": "latest",
+        "@alzuma/tools": "latest"
+    }
+}

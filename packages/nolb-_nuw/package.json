@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_nuw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nuware/actors": "latest",
+        "@nuware/dom": "latest",
+        "@nuware/effect": "latest",
+        "@nuware/emitter": "latest",
+        "@nuware/functions": "latest",
+        "@nuware/id": "latest",
+        "@nuware/invariant": "latest",
+        "@nuware/lenses": "latest",
+        "@nuware/mvc": "latest",
+        "@nuware/nitro": "latest",
+        "@nuware/router": "latest",
+        "@nuware/store": "latest",
+        "@nuwe/component-library": "latest",
+        "@nuwe/components": "latest",
+        "@nuwe/components-v2": "latest",
+        "@nuwe/hooks": "latest",
+        "@nuwe/js-eslint-config": "latest",
+        "@nuwe/lib": "latest",
+        "@nuwe/materio": "latest",
+        "@nuwe/mui-theme": "latest",
+        "@nuworks/http-server": "latest",
+        "@nuwton/sdk": "latest"
+    }
+}

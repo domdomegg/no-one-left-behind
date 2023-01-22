@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-aw_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aw_button": "latest",
+        "aw_calendar": "latest",
+        "aw_cookies_policy": "latest",
+        "aw_effects": "latest",
+        "aw_extern_functions": "latest",
+        "aw_form": "latest",
+        "aw_form_elements": "latest",
+        "aw_form_elements_common": "latest",
+        "aw_form_elements_df": "latest",
+        "aw_form_helpers": "latest",
+        "aw_form_mixins": "latest",
+        "aw_help_panel": "latest",
+        "aw_icons_svg": "latest",
+        "aw_litelement": "latest",
+        "aw_menu_button": "latest",
+        "aw_polymer_3": "latest",
+        "aw_popups": "latest",
+        "aw_social_nets": "latest",
+        "aw_sortable": "latest",
+        "aw_swipeable_views": "latest",
+        "aw_table": "latest",
+        "aw_tactil": "latest",
+        "aw_webcomponents": "latest",
+        "aw_wininfo": "latest",
+        "aw_wys": "latest"
+    }
+}

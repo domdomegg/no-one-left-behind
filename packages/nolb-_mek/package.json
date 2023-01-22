@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_mek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@meka-js/cli": "latest",
+        "@meka-js/client": "latest",
+        "@meka-js/core": "latest",
+        "@mekalaselvakumar/custom-button": "latest",
+        "@mekarahulguru/react-component-library": "latest",
+        "@mekari/mekari-ui-vue": "latest",
+        "@mekari/mvc-test": "latest",
+        "@mekasmith/geocore": "latest",
+        "@mekefly/templates": "latest",
+        "@mekefly/test1": "latest",
+        "@mekefly/test2": "latest",
+        "@mekefly/universe": "latest",
+        "@mekefly/worm-ui": "latest",
+        "@meklitc/new_module": "latest",
+        "@meklitc7/date-library": "latest",
+        "@meklitc7/string-library": "latest",
+        "@mekr/ber": "latest",
+        "@meks/vue-janosh": "latest",
+        "@meksiabdou/alert-reactjs": "latest",
+        "@meksiabdou/react-input": "latest",
+        "@meksiabdou/react-native-actionsheet": "latest",
+        "@meksiabdou/react-native-barcode-mask": "latest",
+        "@meksiabdou/react-native-switch": "latest",
+        "@mekumari/tiny": "latest",
+        "@mekwall/p-queue": "latest",
+        "@mekya/testmodule": "latest"
+    }
+}

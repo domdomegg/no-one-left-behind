@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-ghc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ghc": "latest",
+        "ghc-db": "latest",
+        "ghc-element-components": "latest",
+        "ghcal": "latest",
+        "ghcd": "latest",
+        "ghch": "latest",
+        "ghcl-bin": "latest",
+        "ghclassroom": "latest",
+        "ghclone": "latest",
+        "ghcopy": "latest",
+        "ghcr": "latest",
+        "ghcrawler": "latest",
+        "ghcrawler-cli": "latest",
+        "ghcrawler-dashboard": "latest",
+        "ghcs": "latest",
+        "ghcudlmhk15dmriqil4k8rxzd5axu9ri": "latest"
+    }
+}

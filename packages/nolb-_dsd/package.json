@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_dsd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dsdash/array": "latest",
+        "@dsdash/object": "latest",
+        "@dsdemo/components": "latest",
+        "@dsdemo/eslint-config": "latest",
+        "@dsdemo/icons": "latest",
+        "@dsdemo/styles": "latest",
+        "@dsdev/react-native-iphone-helper": "latest",
+        "@dsdunn/complete-me": "latest",
+        "@dsdunn/name-reverse": "latest"
+    }
+}

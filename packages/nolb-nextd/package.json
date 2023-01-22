@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-nextd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nextdapp": "latest",
+        "nextdash": "latest",
+        "nextday": "latest",
+        "nextday-js": "latest",
+        "nextdb": "latest",
+        "nextdocs": "latest",
+        "nextdoor": "latest",
+        "nextdoor-api": "latest",
+        "nextdotbs": "latest",
+        "nextdrive-eslint-config-essentials": "latest"
+    }
+}

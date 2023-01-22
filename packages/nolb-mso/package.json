@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-mso",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mso": "latest",
+        "mso-cli": "latest",
+        "mso-flex": "latest",
+        "mso-ng2-smart-table": "latest",
+        "mso-ng2-wizard": "latest",
+        "mso-pdf": "latest",
+        "msocial-ui": "latest",
+        "msoconv": "latest",
+        "msoconvert": "latest",
+        "msoffice2pdf": "latest",
+        "msolano00": "latest",
+        "mson": "latest",
+        "mson-react": "latest",
+        "mson-to-schemas": "latest",
+        "mson-zoo": "latest",
+        "mson2json": "latest",
+        "msonnim-brain-games": "latest",
+        "msonnim-gendiff": "latest",
+        "msooozhf": "latest",
+        "msopen": "latest",
+        "msops-css": "latest",
+        "msorch": "latest",
+        "msorch-cli": "latest",
+        "msott-data-provider": "latest",
+        "msotype": "latest",
+        "msowmi13": "latest",
+        "msoyks-math-solver": "latest"
+    }
+}

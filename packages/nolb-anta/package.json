@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-anta",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "anta": "latest",
+        "anta-cli": "latest",
+        "anta-element-ui-components": "latest",
+        "anta-element-ui-components-next": "latest",
+        "anta-element-ui-schema-form": "latest",
+        "anta-element-ui-schema-table": "latest",
+        "anta-element-ui-styles": "latest",
+        "anta-img-view": "latest",
+        "anta.js": "latest",
+        "antai-ui": "latest",
+        "antaiib-ui": "latest",
+        "antakshari": "latest",
+        "antalbokor-input": "latest",
+        "antallab": "latest",
+        "antalya": "latest",
+        "antalya.css": "latest",
+        "antani": "latest",
+        "antanipsum-cli": "latest",
+        "antar_mantar": "latest",
+        "antarctic-runner": "latest",
+        "antares": "latest",
+        "antares-http": "latest",
+        "antares-mysql-dumper": "latest",
+        "antares-protocol": "latest",
+        "antares-sp": "latest",
+        "antarest": "latest",
+        "antarest-sql": "latest"
+    }
+}

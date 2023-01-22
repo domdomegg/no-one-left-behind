@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-react-wx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-wx": "latest",
+        "react-wx-images-viewer": "latest",
+        "react-wx-menu": "latest",
+        "react-wx-request": "latest",
+        "react-wxapp": "latest",
+        "react-wxeap": "latest",
+        "react-wxeap-mobile": "latest",
+        "react-wxlogin": "latest",
+        "react-wxpreview": "latest",
+        "react-wxxcx": "latest"
+    }
+}

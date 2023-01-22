@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-discorda",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discorda": "latest",
+        "discorda-kiro": "latest",
+        "discordaction": "latest",
+        "discordaddonlaguild": "latest",
+        "discordaiaddon": "latest",
+        "discordalphajs": "latest",
+        "discordapi-es": "latest",
+        "discordapp.js": "latest",
+        "discordaudio": "latest",
+        "discordaudiov13": "latest",
+        "discordauther": "latest",
+        "discordaxo.js": "latest"
+    }
+}

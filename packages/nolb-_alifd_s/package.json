@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_alifd_s",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alifd/sass-mapper": "latest",
+        "@alifd/sass-tracker": "latest",
+        "@alifd/sassdoc-parser": "latest",
+        "@alifd/scaffold-lite": "latest",
+        "@alifd/scaffold-lite-js": "latest",
+        "@alifd/scaffold-simple": "latest",
+        "@alifd/shell": "latest",
+        "@alifd/stylelint-config-next": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-vue-cli-plugin-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cli-plugin-ucsb": "latest",
+        "vue-cli-plugin-ueba-mf": "latest",
+        "vue-cli-plugin-ui-ams": "latest",
+        "vue-cli-plugin-ui-chrome-extension": "latest",
+        "vue-cli-plugin-ui-karma": "latest",
+        "vue-cli-plugin-ui-template": "latest",
+        "vue-cli-plugin-ui-testcafe": "latest",
+        "vue-cli-plugin-ui5-webcomponents": "latest",
+        "vue-cli-plugin-uibuilder-widget": "latest",
+        "vue-cli-plugin-uikit": "latest",
+        "vue-cli-plugin-umi": "latest",
+        "vue-cli-plugin-uncle-vue": "latest",
+        "vue-cli-plugin-uni": "latest",
+        "vue-cli-plugin-uni-eslint": "latest",
+        "vue-cli-plugin-uni-mp-launch": "latest",
+        "vue-cli-plugin-uni-sub": "latest",
+        "vue-cli-plugin-uniapp-third-devtools": "latest",
+        "vue-cli-plugin-unif-js": "latest",
+        "vue-cli-plugin-unify-store": "latest",
+        "vue-cli-plugin-unipwa": "latest",
+        "vue-cli-plugin-unit-jest-with-mode-support": "latest",
+        "vue-cli-plugin-unit-karma": "latest",
+        "vue-cli-plugin-unit-karmajs": "latest",
+        "vue-cli-plugin-unit-karmajscli3": "latest",
+        "vue-cli-plugin-universal": "latest",
+        "vue-cli-plugin-ut-builder": "latest"
+    }
+}

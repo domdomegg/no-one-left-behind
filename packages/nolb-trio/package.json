@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-trio",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "trio": "latest",
+        "triode": "latest",
+        "triodos-csv": "latest",
+        "triojs": "latest",
+        "triolet._config": "latest",
+        "triolet._validator": "latest",
+        "triolet.api": "latest",
+        "triolet.audioworker": "latest",
+        "triolet.browser": "latest",
+        "triolet.bundle": "latest",
+        "triolet.client": "latest",
+        "triolet.driver": "latest",
+        "triolet.driver.nodeaudio": "latest",
+        "triolet.driver.webaudio": "latest",
+        "triolet.dsp": "latest",
+        "triolet.worker": "latest",
+        "trion": "latest",
+        "trionesdemo": "latest",
+        "triota": "latest",
+        "triotech-application-client": "latest",
+        "triotech-mobile-app": "latest",
+        "triotest": "latest"
+    }
+}

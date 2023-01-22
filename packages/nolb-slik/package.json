@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-slik",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "slik": "latest",
+        "slik-chat": "latest",
+        "slik-tools": "latest",
+        "slika-api": "latest",
+        "sliker": "latest",
+        "slikio": "latest"
+    }
+}

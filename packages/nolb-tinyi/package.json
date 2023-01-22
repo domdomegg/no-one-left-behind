@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-tinyi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tinyImages": "latest",
+        "tinyid": "latest",
+        "tinyield4ts": "latest",
+        "tinyify": "latest",
+        "tinyimage": "latest",
+        "tinyimg": "latest",
+        "tinyimg-cli": "latest",
+        "tinyimg-compression-plugin": "latest",
+        "tinyimg-loader": "latest",
+        "tinyimg-scripts": "latest",
+        "tinyimg-ss": "latest",
+        "tinyimg-webpack-plugin": "latest",
+        "tinyimg-webpack-plugin-no-key": "latest",
+        "tinyimgs": "latest",
+        "tinyinject": "latest",
+        "tinyint": "latest",
+        "tinyisland-axios": "latest",
+        "tinyit": "latest",
+        "tinyiter": "latest"
+    }
+}

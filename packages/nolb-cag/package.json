@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-cag",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cag": "latest",
+        "cag-auth-module": "latest",
+        "cag-context-aware-module": "latest",
+        "cagatay": "latest",
+        "cagd": "latest",
+        "cage": "latest",
+        "cage-cli": "latest",
+        "cage-element": "latest",
+        "cage-js": "latest",
+        "cagematch": "latest",
+        "cagen": "latest",
+        "cagescript": "latest",
+        "cagey": "latest",
+        "cagey-client-messenger": "latest",
+        "cagey-logger": "latest",
+        "cagey-peer-network": "latest",
+        "cagey-sessions": "latest",
+        "cagibi": "latest",
+        "cagip-interactive-landscape": "latest",
+        "cagliari-opendata": "latest",
+        "cagophilist": "latest",
+        "cagor": "latest"
+    }
+}

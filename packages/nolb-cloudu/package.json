@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-cloudu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cloudui": "latest",
+        "cloudup": "latest",
+        "cloudup-cli": "latest",
+        "cloudup-client": "latest",
+        "cloudup-config": "latest",
+        "cloudup-ua": "latest",
+        "cloudux": "latest",
+        "cloudux-bootstrap": "latest",
+        "cloudux-l10n": "latest",
+        "cloudux-starter-kit": "latest",
+        "cloudux-starter-kit-service": "latest"
+    }
+}

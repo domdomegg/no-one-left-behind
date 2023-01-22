@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-trix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "TrixCSS": "latest",
+        "trix": "latest",
+        "trix-font-size": "latest",
+        "trix-scientific": "latest",
+        "trix-vue2": "latest",
+        "trixeditor": "latest",
+        "trixi": "latest",
+        "trixie": "latest",
+        "trixion": "latest",
+        "trixjs": "latest",
+        "trixler": "latest",
+        "trixly": "latest",
+        "trixml": "latest",
+        "trixolma-ui": "latest",
+        "trixtor": "latest"
+    }
+}

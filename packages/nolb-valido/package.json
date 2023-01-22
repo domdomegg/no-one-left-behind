@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-valido",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "valido": "latest",
+        "validoc": "latest",
+        "validocs": "latest",
+        "validol": "latest",
+        "validole": "latest",
+        "validolum": "latest",
+        "validotron": "latest",
+        "validoz": "latest",
+        "validozer": "latest",
+        "validozer-monad": "latest"
+    }
+}

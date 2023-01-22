@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_elj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@elja/react-selectable-fast": "latest",
+        "@eljefedelrodeo/canvas-datagrid": "latest",
+        "@eljefedelrodeo/vue-canvas-datagrid": "latest",
+        "@eljs/changelog-preset": "latest",
+        "@eljs/create": "latest",
+        "@eljs/create-plugin-npm-node": "latest",
+        "@eljs/create-plugin-npm-web": "latest",
+        "@eljs/create-preset-structure": "latest",
+        "@eljs/create-presets-default": "latest",
+        "@eljs/create-template": "latest",
+        "@eljs/node-utils": "latest",
+        "@eljs/release": "latest",
+        "@eljs/scaffold": "latest",
+        "@eljs/service": "latest",
+        "@eljs/template-default-presets": "latest",
+        "@eljs/template-npm-node": "latest",
+        "@eljs/template-npm-web": "latest",
+        "@eljs/utils": "latest"
+    }
+}

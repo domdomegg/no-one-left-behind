@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_akc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@akc29/akashictool4multi": "latest",
+        "@akc42/akc-route": "latest",
+        "@akc42/app-utils": "latest",
+        "@akc42/distributed-router": "latest",
+        "@akc42/server-utils": "latest",
+        "@akc42/sqlite-db": "latest",
+        "@akccakcctw/vuepress-plugin-last-updated-by": "latest",
+        "@akccakcctw/vuepress-plugin-usage-count": "latest",
+        "@akcelepatop/dayspan": "latest",
+        "@akcelepatop/shedule": "latest",
+        "@akcelepatop/tsuml": "latest",
+        "@akcentacz/eslint-config": "latest"
+    }
+}

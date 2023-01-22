@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-google-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "google-web-screenshot": "latest",
+        "google-webclient": "latest",
+        "google-webfonts-json-encoder": "latest",
+        "google-webfonts-preview": "latest",
+        "google-webfonts-webpack-plugin": "latest",
+        "google-widget-review7": "latest",
+        "google-wifi-api-node": "latest",
+        "google-wifi-status": "latest",
+        "google-worksheet-stream": "latest",
+        "google-workspace": "latest",
+        "google-workspace-service-library": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_ec0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ec0lint/create-config": "latest",
+        "@ec0lint/ec0lintrc": "latest",
+        "@ec0lint/plugin-css": "latest"
+    }
+}

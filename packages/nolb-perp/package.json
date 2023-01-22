@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-perp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "perp": "latest",
+        "perp-v2-sdk": "latest",
+        "perpage": "latest",
+        "perpe90": "latest",
+        "perpetra": "latest",
+        "perpetual": "latest",
+        "perpetual-js": "latest",
+        "perpetual-pools-v2-subgraph": "latest",
+        "perpetual-queue": "latest",
+        "perpetual-yas": "latest",
+        "perpetually": "latest",
+        "perpetuum-analytics": "latest",
+        "perpl": "latest",
+        "perplex": "latest",
+        "perplexed": "latest",
+        "perpod-test-module": "latest",
+        "perprj": "latest",
+        "perprom": "latest",
+        "perpule-subscription": "latest",
+        "perpusmsa": "latest",
+        "perpydata": "latest"
+    }
+}

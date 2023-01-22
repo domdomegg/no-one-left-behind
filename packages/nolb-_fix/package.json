@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_fix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fix-policing/shared": "latest",
+        "@fixddd/tiny": "latest",
+        "@fixel/fixel-components": "latest",
+        "@fixel/fixel-design-system": "latest",
+        "@fixelcloud/react-chat-panel": "latest",
+        "@fixer.ru/log": "latest",
+        "@fixerteam/barcode-scanner": "latest",
+        "@fixies/ng-jhipster": "latest",
+        "@fixies/ng2-material-dropdown": "latest",
+        "@fixies/ngx-autofocus-fix": "latest",
+        "@fixies/ngx-slick": "latest",
+        "@fixies/primeng": "latest",
+        "@fixings/eslint-config": "latest",
+        "@fixings/prettier-config": "latest",
+        "@fixparts/ui": "latest",
+        "@fixt/components": "latest",
+        "@fixt/fixt-toolkit": "latest",
+        "@fixt/fixt-uikit": "latest",
+        "@fixt/timeline-component": "latest",
+        "@fixter/eslint-config-react": "latest",
+        "@fixture-factory/fixture-factory": "latest"
+    }
+}

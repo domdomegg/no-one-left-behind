@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_hi5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hi5/avatar": "latest",
+        "@hi5/button": "latest",
+        "@hi5/chip": "latest",
+        "@hi5/colorcards": "latest",
+        "@hi5/dropdown": "latest",
+        "@hi5/grid": "latest",
+        "@hi5/hooks": "latest",
+        "@hi5/icon": "latest",
+        "@hi5/nav": "latest",
+        "@hi5/navbar": "latest",
+        "@hi5/progress": "latest",
+        "@hi5/pushlayout": "latest",
+        "@hi5/radiobutton": "latest",
+        "@hi5/spinner": "latest",
+        "@hi5/tabs": "latest",
+        "@hi5/tag": "latest",
+        "@hi5/themes": "latest",
+        "@hi5ve/koa-api-mapper": "latest",
+        "@hi5ve/koa-testbox": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_vii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@viibe/impulse-integration-js": "latest",
+        "@viice/crawl-files": "latest",
+        "@viice/docker-cli": "latest",
+        "@viict/material-ui-pickers": "latest",
+        "@viict/node-nitgen-enbsp": "latest",
+        "@viiinzzz/diagram2image": "latest",
+        "@viiinzzz/featurebook": "latest",
+        "@viiinzzz/featurebook-api": "latest",
+        "@viiinzzz/featurebook-feature": "latest",
+        "@viiinzzz/featurebook-html": "latest",
+        "@viiinzzz/featurebook-markdown": "latest",
+        "@viiinzzz/featurebook-pdf": "latest",
+        "@viiinzzz/featurebook-scrum": "latest",
+        "@viiinzzz/featurebook-serve": "latest",
+        "@viiinzzz/markdown2pdfmake": "latest",
+        "@viiinzzz/sequelize-typescript-migration": "latest",
+        "@viiksetjs/utils": "latest",
+        "@viiksetjs/web": "latest",
+        "@viinestjs/auth": "latest",
+        "@viinestjs/claimsidentity": "latest",
+        "@viinestjs/logger": "latest",
+        "@viith/sdk": "latest",
+        "@viith/zc-ui": "latest",
+        "@viivue/atomic-css": "latest",
+        "@viivue/easy-tab-accordion": "latest",
+        "@viivue/frontend-debug": "latest"
+    }
+}

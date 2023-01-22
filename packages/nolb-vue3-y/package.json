@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-vue3-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue3-yandex-metrika": "latest",
+        "vue3-yangqy": "latest",
+        "vue3-youtube": "latest",
+        "vue3-yytest": "latest"
+    }
+}

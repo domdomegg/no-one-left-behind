@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-knc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "knc-react-image": "latest",
+        "knc-render": "latest",
+        "knc-scripts": "latest",
+        "kncp": "latest"
+    }
+}

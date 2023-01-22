@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-ghm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ghm": "latest",
+        "ghm-cli": "latest",
+        "ghm-date-picker": "latest",
+        "ghm_angular": "latest",
+        "ghmd": "latest",
+        "ghmd-table": "latest",
+        "ghmd2html": "latest",
+        "ghmd2pdf": "latest",
+        "ghmenu": "latest",
+        "ghmin-org-filter": "latest",
+        "ghmnbdertyui": "latest",
+        "ghmount": "latest",
+        "ghmsg": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_asr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@asr_sdk/wx": "latest",
+        "@asraful009/arr-sum": "latest",
+        "@asrat-77/my-app": "latest",
+        "@asrat-77/slider": "latest",
+        "@asrat-77/slider-component": "latest",
+        "@asri/agent": "latest",
+        "@asri/logger": "latest"
+    }
+}

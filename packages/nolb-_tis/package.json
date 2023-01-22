@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_tis",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tisant/sbsjs": "latest",
+        "@tisch7/react-native-tab-bar-interaction": "latest",
+        "@tiscode/eslint-config-base": "latest",
+        "@tiscode/pagarme": "latest",
+        "@tiscotservices/carpooluikit": "latest",
+        "@tiscotservices/daruikit": "latest",
+        "@tiscotservices/forkeduikitforlibreind": "latest",
+        "@tiscotservices/zooswapuikit": "latest",
+        "@tisf/rn-init": "latest",
+        "@tisf/rn-setup": "latest",
+        "@tisf/shared": "latest",
+        "@tislaamo/eslint-config": "latest",
+        "@tislib/ui-expose-angular-lib": "latest",
+        "@tislib/ui-expose-core": "latest",
+        "@tislib/ui-expose-tool": "latest",
+        "@tisoap/eslint-config-ts-react": "latest",
+        "@tisoap/react-flow-smart-edge": "latest",
+        "@tissuejs/ui": "latest",
+        "@tissueswap/uikit": "latest",
+        "@tistware/my-ui": "latest"
+    }
+}

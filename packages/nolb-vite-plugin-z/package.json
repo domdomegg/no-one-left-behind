@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-vite-plugin-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vite-plugin-zig": "latest",
+        "vite-plugin-zip": "latest",
+        "vite-plugin-zip-dist": "latest",
+        "vite-plugin-zip-dist-js": "latest",
+        "vite-plugin-zip-file": "latest",
+        "vite-plugin-zip-pack": "latest",
+        "vite-plugin-zodenv": "latest",
+        "vite-plugin-zoka": "latest"
+    }
+}

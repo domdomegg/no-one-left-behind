@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-starn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "starn": "latest",
+        "starname": "latest",
+        "starnames": "latest",
+        "starneit": "latest",
+        "starnet_ztree": "latest",
+        "starnnik-brain-games": "latest",
+        "starnnik-gendiff": "latest",
+        "starnode": "latest"
+    }
+}

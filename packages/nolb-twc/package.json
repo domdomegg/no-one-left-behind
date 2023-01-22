@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-twc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "twc": "latest",
+        "twc-helloworld": "latest",
+        "twc-hero": "latest",
+        "twc-plop": "latest",
+        "twc_rest_client": "latest",
+        "twcc": "latest",
+        "twcl": "latest",
+        "twcli": "latest",
+        "twclsx": "latest",
+        "twcm-error-modal": "latest",
+        "twcm-image": "latest",
+        "twcm-input": "latest",
+        "twcn": "latest",
+        "twcn3": "latest",
+        "twcolorgen": "latest",
+        "twcomp": "latest",
+        "twcomps": "latest",
+        "twconf": "latest",
+        "twcrypt": "latest",
+        "twcui": "latest"
+    }
+}

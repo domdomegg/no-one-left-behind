@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-streamc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "streamcast": "latest",
+        "streamcatcher": "latest",
+        "streamception": "latest",
+        "streamchamp-components": "latest",
+        "streamchunker": "latest",
+        "streamclean": "latest",
+        "streamcloud-scraper": "latest",
+        "streamcloud-scrapper": "latest",
+        "streamcompanion": "latest",
+        "streamcomputing-tools": "latest",
+        "streamcount": "latest",
+        "streamcrypt": "latest",
+        "streamcsvjson": "latest",
+        "streamcutter": "latest"
+    }
+}

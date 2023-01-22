@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-cssb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cssb-logger": "latest",
+        "cssb-max-descendants": "latest",
+        "cssbackpack": "latest",
+        "cssbag": "latest",
+        "cssbeautifier": "latest",
+        "cssbeautify": "latest",
+        "cssbeautify-cli": "latest",
+        "cssbebop.js": "latest",
+        "cssberries": "latest",
+        "cssberries-angular2-hotkeys": "latest",
+        "cssberries-colors": "latest",
+        "cssberries-icons": "latest",
+        "cssbros": "latest",
+        "cssbrush": "latest",
+        "cssbun": "latest"
+    }
+}

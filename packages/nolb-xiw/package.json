@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-xiw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "xiw": "latest",
+        "xiwc-npm.test": "latest",
+        "xiwen-tooltip": "latest",
+        "xiwen-utils": "latest",
+        "xiwi-global-page": "latest",
+        "xiwicloud-global-components": "latest",
+        "xiwicloud-global-ui": "latest"
+    }
+}

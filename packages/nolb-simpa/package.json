@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-simpa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simpa": "latest",
+        "simpak": "latest",
+        "simpals-react-scripts": "latest",
+        "simpan.js": "latest",
+        "simpany-ckeditor5": "latest",
+        "simpapp": "latest",
+        "simpapp-phonegap-file-upload": "latest",
+        "simparser": "latest",
+        "simpartic": "latest",
+        "simpay-typescript-api": "latest"
+    }
+}

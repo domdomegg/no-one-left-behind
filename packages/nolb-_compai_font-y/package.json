@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_compai_font-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@compai/font-yaldevi": "latest",
+        "@compai/font-yanone-kaffeesatz": "latest",
+        "@compai/font-yantramanav": "latest",
+        "@compai/font-yatra-one": "latest",
+        "@compai/font-yellowtail": "latest",
+        "@compai/font-yeon-sung": "latest",
+        "@compai/font-yeseva-one": "latest",
+        "@compai/font-yesteryear": "latest",
+        "@compai/font-yomogi": "latest",
+        "@compai/font-yrsa": "latest",
+        "@compai/font-yuji-boku": "latest",
+        "@compai/font-yuji-hentaigana-akari": "latest",
+        "@compai/font-yuji-hentaigana-akebono": "latest",
+        "@compai/font-yuji-mai": "latest",
+        "@compai/font-yuji-syuku": "latest",
+        "@compai/font-yusei-magic": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_teamg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@teamgantt/eb-blue-green": "latest",
+        "@teamgantt/eslint-config": "latest",
+        "@teamgantt/pipeline-lambda": "latest",
+        "@teamgi/strapi-provider-email-sparkpost": "latest",
+        "@teamgold/eventemitter": "latest",
+        "@teamgold/eventemitter_ts_v3": "latest",
+        "@teamgold/fast-websocket-client": "latest",
+        "@teamgrid-app/components": "latest",
+        "@teamgrid-app/nuxt-settings": "latest",
+        "@teamgrid-app/nuxt-status": "latest",
+        "@teamgrid-app/nuxt-teamgrid-sdk": "latest",
+        "@teamgrid-app/nuxt-teamgrid-storage": "latest",
+        "@teamgrid/eslint-config": "latest"
+    }
+}

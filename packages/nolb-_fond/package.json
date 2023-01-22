@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_fond",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fond-of/eslint-config": "latest",
+        "@fond-of/prettier-config": "latest",
+        "@fondakogb/carousel-loop": "latest",
+        "@fondi/material-ui": "latest",
+        "@fondi/react-phone-input": "latest",
+        "@fondi/react-select": "latest"
+    }
+}

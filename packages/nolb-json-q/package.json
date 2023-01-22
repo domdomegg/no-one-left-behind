@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-json-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "json-q": "latest",
+        "json-ql": "latest",
+        "json-qs-converter": "latest",
+        "json-querier": "latest",
+        "json-query": "latest",
+        "json-query-ad": "latest",
+        "json-query-chain": "latest",
+        "json-query-engine": "latest",
+        "json-query-matcher": "latest",
+        "json-query-string": "latest",
+        "json-quotes": "latest"
+    }
+}

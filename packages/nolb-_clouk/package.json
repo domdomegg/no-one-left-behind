@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_clouk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cloukit/common": "latest",
+        "@cloukit/dropout": "latest",
+        "@cloukit/icon": "latest",
+        "@cloukit/library-build-chain": "latest",
+        "@cloukit/multi-select": "latest",
+        "@cloukit/notification": "latest",
+        "@cloukit/pagination": "latest",
+        "@cloukit/story": "latest",
+        "@cloukit/theme": "latest",
+        "@cloukit/toggle": "latest",
+        "@cloukit/tooltip": "latest"
+    }
+}

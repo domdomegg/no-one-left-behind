@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-datar",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "datar": "latest",
+        "datarank": "latest",
+        "datarank-nodejs": "latest",
+        "datareachable_font": "latest",
+        "datareader": "latest",
+        "datarecorder": "latest",
+        "datareduce": "latest",
+        "datareplicationchartview": "latest",
+        "datarepo": "latest",
+        "datareporter": "latest",
+        "datareporter-plywood": "latest",
+        "datareports": "latest",
+        "datareptile_test": "latest",
+        "datarev": "latest",
+        "datarev-rethinkdb": "latest",
+        "datarex": "latest",
+        "datarobot": "latest",
+        "datarobot-ai": "latest",
+        "dataroll": "latest",
+        "datarooms.com-pkg-test": "latest",
+        "datars": "latest",
+        "datart-extension-charts": "latest",
+        "datart-fe-cli": "latest"
+    }
+}

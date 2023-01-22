@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_yal",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yal-app/cli": "latest",
+        "@yal-app/types": "latest",
+        "@yalam/babel": "latest",
+        "@yalam/cli": "latest",
+        "@yalam/core": "latest",
+        "@yalam/operators": "latest",
+        "@yalam/reporter": "latest",
+        "@yalam/typescript": "latest",
+        "@yalamber/react-fb-image-grid": "latest",
+        "@yalamber/simple-uniswap-sdk": "latest",
+        "@yalelibrary/yul-dc-structure-editor": "latest",
+        "@yalert-ui/icons": "latest",
+        "@yalopov/redux-websocket": "latest",
+        "@yalovich/dom": "latest",
+        "@yalovich/validator": "latest",
+        "@yalt/js_utils": "latest"
+    }
+}

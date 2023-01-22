@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_maxm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@maxmalov/ember-cli-jss-shims": "latest",
+        "@maxmalov/express-utils": "latest",
+        "@maxmattone/browserstack-side-runner": "latest",
+        "@maxmattone/code-export-browserstack-mocha": "latest",
+        "@maxmattone/percy-nightwatch-element-selection": "latest",
+        "@maxmattone/selenium-side-runner": "latest",
+        "@maxmaximov/angular-elastic": "latest",
+        "@maxmaximov/babel-plugin-angular-annotate": "latest",
+        "@maxmellon/agreed-typed": "latest",
+        "@maxmellon/babel-preset": "latest",
+        "@maxmellon/cli-table": "latest",
+        "@maxmellon/fx5": "latest",
+        "@maxmellon/pupperium-cli": "latest",
+        "@maxmellon/react-native": "latest",
+        "@maxmellon/redux-async-loader": "latest",
+        "@maxmil7/greenkeeper_mod": "latest",
+        "@maxmilton/parallel": "latest",
+        "@maxmilton/rollup-plugin-css": "latest",
+        "@maxmilton/solid-router": "latest",
+        "@maxmilton/stylelint-config": "latest",
+        "@maxmind/geoip2-node": "latest",
+        "@maxmind/minfraud-api-node": "latest",
+        "@maxmouchet/julia-node-extension-demo": "latest",
+        "@maxmugen/gatsby-source-sanity": "latest"
+    }
+}

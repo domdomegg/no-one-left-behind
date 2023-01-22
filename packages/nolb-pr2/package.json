@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-pr2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pr2": "latest",
+        "pr2-04.18": "latest",
+        "pr20-smoothscroll": "latest",
+        "pr222iw-tokenizer": "latest"
+    }
+}

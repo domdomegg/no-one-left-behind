@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-test-ps",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "test-ps-connectors-common": "latest",
+        "test-ps-gs-nb": "latest",
+        "test-ps-pkg": "latest",
+        "test-psc-package-bin": "latest",
+        "test-psumancomp1": "latest",
+        "test-psumancomp2": "latest",
+        "test-psumancomp3": "latest"
+    }
+}

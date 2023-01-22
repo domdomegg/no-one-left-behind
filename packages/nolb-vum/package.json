@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-vum",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vum": "latest",
+        "vum-scripts": "latest",
+        "vum2.0": "latest",
+        "vuma": "latest",
+        "vuma-template": "latest",
+        "vumi": "latest",
+        "vumigo_v01": "latest",
+        "vumigo_v02": "latest",
+        "vumigo_v02_ts": "latest",
+        "vuminal": "latest",
+        "vumix": "latest",
+        "vump": "latest",
+        "vumper": "latest",
+        "vumu-email-composer": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-fsg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fsg": "latest",
+        "fsg-api": "latest",
+        "fsg-assert": "latest",
+        "fsg-flux": "latest",
+        "fsg-framework": "latest",
+        "fsg-mock": "latest",
+        "fsg-schema": "latest",
+        "fsg-service": "latest",
+        "fsg-util": "latest",
+        "fsgateclient": "latest",
+        "fsgbymhkvtpnrozu": "latest",
+        "fsgdb": "latest",
+        "fsgen": "latest",
+        "fsghub": "latest",
+        "fsgk": "latest",
+        "fsgod": "latest"
+    }
+}

@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-si7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "si7021-rpi": "latest",
+        "si7021-sensor": "latest"
+    }
+}

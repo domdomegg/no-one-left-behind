@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-stj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stj": "latest",
+        "stj-components": "latest",
+        "stj-escaninho": "latest",
+        "stj-node-test": "latest",
+        "stj-server": "latest",
+        "stj-static-server": "latest",
+        "stjc-product-card": "latest",
+        "stjk": "latest",
+        "stjk-dts-plugin": "latest",
+        "stjk-mf-cli": "latest",
+        "stjk-mf-react": "latest",
+        "stjk-tsconfig": "latest",
+        "stjquery": "latest",
+        "stjr-stack": "latest",
+        "stjs": "latest",
+        "stjs_dev": "latest",
+        "stjuks-lib-test": "latest"
+    }
+}

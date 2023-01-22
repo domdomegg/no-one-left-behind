@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_tsk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tskalla/testskill": "latest",
+        "@tskctl/taskctl_graph": "latest",
+        "@tskir93/demo-npm": "latest",
+        "@tskit/test": "latest",
+        "@tskmgr/client": "latest",
+        "@tskmgr/common": "latest",
+        "@tsko/react-scripts": "latest",
+        "@tskon/react-hook-validation": "latest",
+        "@tskurauskas/time-line": "latest",
+        "@tskvivekmani/hello_ts": "latest",
+        "@tskyles/mongo-model": "latest"
+    }
+}

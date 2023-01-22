@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_huk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hukai95/baseform": "latest",
+        "@huke/redux-http-middleware": "latest",
+        "@huksley/bpmn-to-image": "latest",
+        "@huksley/express-rocket": "latest",
+        "@huksley/gmail-js": "latest",
+        "@huksley/markdoc": "latest",
+        "@huksley/mermaid.cli": "latest",
+        "@huksley/react-responsive-modal": "latest",
+        "@huksley/request": "latest",
+        "@huksley/serverless-esbuild": "latest",
+        "@huksley/spectral": "latest",
+        "@huksley/workflow-es": "latest",
+        "@hukuntao/hello-world": "latest"
+    }
+}

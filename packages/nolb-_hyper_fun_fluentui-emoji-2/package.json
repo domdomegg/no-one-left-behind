@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_fluentui-emoji-2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/fluentui-emoji-2nd-place-medal-color": "latest",
+        "@hyper.fun/fluentui-emoji-2nd-place-medal-flat": "latest",
+        "@hyper.fun/fluentui-emoji-2nd-place-medal-high-contrast": "latest"
+    }
+}

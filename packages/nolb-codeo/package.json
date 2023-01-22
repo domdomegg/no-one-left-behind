@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-codeo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "codeoasis-webcomponents": "latest",
+        "codeobe-js-sdk": "latest",
+        "codeobetestjs": "latest",
+        "codeoc": "latest",
+        "codeofdesign": "latest",
+        "codeofwar": "latest",
+        "codeoncoffee-quick-pivot": "latest",
+        "codeorg": "latest",
+        "codeorg-node": "latest",
+        "codeout": "latest",
+        "codeowner": "latest",
+        "codeowner-finder": "latest",
+        "codeowners": "latest",
+        "codeowners-api": "latest",
+        "codeowners-cli": "latest",
+        "codeowners-enforcer": "latest",
+        "codeowners-generator": "latest",
+        "codeowners-git-hook": "latest",
+        "codeowners-utils": "latest"
+    }
+}

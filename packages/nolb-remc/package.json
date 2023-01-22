@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-remc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "remcalc": "latest",
+        "remcob00-cordova-youtube-android-player-api": "latest",
+        "remconvert": "latest",
+        "remcycle": "latest"
+    }
+}

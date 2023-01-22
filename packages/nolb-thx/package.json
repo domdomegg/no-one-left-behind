@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-thx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thx": "latest",
+        "thx-antivirus": "latest",
+        "thx-cert": "latest",
+        "thx-cli": "latest",
+        "thx-cli-core": "latest",
+        "thx-event-center": "latest",
+        "thx-kit-magix": "latest",
+        "thx-knight": "latest",
+        "thx-magix-scripts": "latest",
+        "thx-modal": "latest",
+        "thx-plugin-cert": "latest",
+        "thx-plugin-clear": "latest",
+        "thx-plugin-create-daily": "latest",
+        "thx-portal": "latest",
+        "thx-portal-rule": "latest",
+        "thx-scripts": "latest",
+        "thx-snowpack-v1": "latest",
+        "thx.semver": "latest",
+        "thx214": "latest",
+        "thxbot": "latest",
+        "thxcs-pulumi-deployment": "latest",
+        "thxmx-ui": "latest"
+    }
+}

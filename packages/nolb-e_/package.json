@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-e_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "e.file": "latest",
+        "e.g.": "latest",
+        "e.jarvis": "latest",
+        "e.js": "latest",
+        "e.router": "latest",
+        "e_bay_buy_api": "latest",
+        "e_expense": "latest",
+        "e_fanyi": "latest",
+        "e_pluribus_unum": "latest",
+        "e_store_client_api": "latest",
+        "e_xiezhuo": "latest"
+    }
+}

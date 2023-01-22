@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_bog",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bogachenkov/react-scrolling-progress": "latest",
+        "@bogadana/semantic-release-cargo": "latest",
+        "@bogdan_vs/toast-lib": "latest",
+        "@bogdanbledea/test-package": "latest",
+        "@bogdanso/react-router": "latest",
+        "@bogdanso/react-router-dom": "latest",
+        "@bogeychan/elysia-oauth2": "latest",
+        "@bogeychan/kingworld-oauth2": "latest",
+        "@boggieswap-libs/sdk": "latest",
+        "@bognarpal/bp-modal": "latest",
+        "@bogochunas/error-handler": "latest",
+        "@bogochunas/fetch": "latest",
+        "@bogochunas/logger": "latest",
+        "@bogochunas/vehicle-format-converter": "latest",
+        "@bogomolov.tech/scrapper": "latest",
+        "@bogoslavskiy/react-native-steezy": "latest",
+        "@bogoslavskiy/react-slots": "latest",
+        "@bogsti/greetings": "latest",
+        "@bogsti/test-button": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_byq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@byqucez/npmscript": "latest",
+        "@byqv/qv-api-gd": "latest",
+        "@byqv/qv-base": "latest",
+        "@byqv/qv-core": "latest",
+        "@byqv/qv-header": "latest",
+        "@byqv/qv-saeq-landing-page": "latest",
+        "@byqv/qv-saeq-quote-page": "latest",
+        "@byqv/qv-theme": "latest"
+    }
+}

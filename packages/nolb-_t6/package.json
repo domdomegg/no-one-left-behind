@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_t6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@t6engineering/formiojs": "latest",
+        "@t6engineering/react-formio": "latest",
+        "@t6rminaator/custom-components": "latest",
+        "@t6rminaator/custom-components-angular": "latest"
+    }
+}

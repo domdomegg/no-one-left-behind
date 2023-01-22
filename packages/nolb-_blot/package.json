@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_blot",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@blot/common": "latest",
+        "@blotoutio/edgetag-sdk-browser": "latest",
+        "@blotoutio/edgetag-sdk-core": "latest",
+        "@blotoutio/edgetag-sdk-js": "latest",
+        "@blotoutio/edgetag-sdk-react-native": "latest",
+        "@blotoutio/jsencrypt-no-random-padding": "latest",
+        "@blotoutio/providers-auto-form-fill-sdk": "latest",
+        "@blotoutio/providers-blotout-cloud-sdk": "latest",
+        "@blotoutio/providers-facebook-sdk": "latest",
+        "@blotoutio/providers-google-analytics-4-sdk": "latest",
+        "@blotoutio/providers-tiktok-sdk": "latest",
+        "@blotoutio/sdk-browser": "latest",
+        "@blotoutio/sdk-core": "latest",
+        "@blotoutio/sdk-events": "latest",
+        "@blotoutio/sdk-personal": "latest",
+        "@blotoutio/sdk-react-native": "latest",
+        "@blotoutio/ui-kit": "latest",
+        "@blott/mini-react-hanger": "latest"
+    }
+}

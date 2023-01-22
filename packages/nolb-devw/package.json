@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-devw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "devwadav": "latest",
+        "devwars-reddit-bot": "latest",
+        "devwars-stream-status-bot": "latest",
+        "devwatch": "latest",
+        "devweb": "latest",
+        "devweb-materialui": "latest",
+        "devweb13-libraries-react": "latest",
+        "devweekeg": "latest",
+        "devweekev": "latest",
+        "devweekrc": "latest",
+        "devweekrcj": "latest",
+        "devweekrp": "latest",
+        "devweekym": "latest",
+        "devworx": "latest"
+    }
+}

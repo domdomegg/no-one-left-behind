@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-bootp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bootpack": "latest",
+        "bootpack-888": "latest",
+        "bootpack-cdn": "latest",
+        "bootpack-workspace-app": "latest",
+        "bootpack-workspace-themes": "latest",
+        "bootpag": "latest",
+        "bootpag2": "latest",
+        "bootpage": "latest",
+        "bootpage-test-data": "latest",
+        "bootpay-backend-nodejs": "latest",
+        "bootpay-js": "latest",
+        "bootpay-rest-client": "latest",
+        "bootpopup": "latest",
+        "bootprint": "latest",
+        "bootprint-base": "latest",
+        "bootprint-json-schema": "latest",
+        "bootprint-openapi": "latest",
+        "bootprint-openapi-luyun-fork": "latest",
+        "bootprint-opendxl": "latest",
+        "bootprint-swagger": "latest",
+        "bootprint-unit-testing": "latest",
+        "bootproject-zones-app": "latest",
+        "bootprompt": "latest",
+        "bootpulse": "latest"
+    }
+}

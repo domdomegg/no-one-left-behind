@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-opg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "opg": "latest",
+        "opg-boilerpipe": "latest",
+        "opg-java": "latest",
+        "opg-lib": "latest",
+        "opgg-duo-scraper": "latest",
+        "opgg-ladder": "latest",
+        "opgg-mmr": "latest",
+        "opgg-scrape": "latest",
+        "opgg-scraper": "latest",
+        "opgg-use-device-detector": "latest",
+        "opggedited": "latest",
+        "opgp-service": "latest"
+    }
+}

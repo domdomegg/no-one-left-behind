@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-tex-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tex-cli": "latest",
+        "tex-equation-to-svg": "latest",
+        "tex-linebreak": "latest",
+        "tex-linebreak-poesie-io": "latest",
+        "tex-linebreak2": "latest",
+        "tex-lint": "latest",
+        "tex-live-match": "latest",
+        "tex-math": "latest",
+        "tex-math-parser": "latest",
+        "tex-mathopnames": "latest",
+        "tex-node": "latest",
+        "tex-repl": "latest",
+        "tex-to-chtml": "latest",
+        "tex-to-isle": "latest",
+        "tex-to-mml": "latest",
+        "tex-to-myst": "latest",
+        "tex-to-svg": "latest",
+        "tex-ui": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-soco",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "soco": "latest",
+        "soco.ai": "latest",
+        "socoapi": "latest",
+        "socoemem": "latest",
+        "socommujs": "latest",
+        "socomodule": "latest",
+        "socomsa": "latest",
+        "socool": "latest",
+        "socoolsoliesobeautiful": "latest",
+        "socotra": "latest",
+        "socotra-store": "latest"
+    }
+}

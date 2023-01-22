@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_tsq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tsq/aliyun-signature": "latest",
+        "@tsq/api-factory": "latest",
+        "@tsq/app-error": "latest",
+        "@tsq/app-log": "latest",
+        "@tsq/check-id": "latest",
+        "@tsq/express-response": "latest",
+        "@tsq/plyr": "latest",
+        "@tsq/react-plyr": "latest",
+        "@tsq/translator": "latest",
+        "@tsq/utils": "latest",
+        "@tsqq/father-pkg1": "latest",
+        "@tsqq/father-pkg2": "latest",
+        "@tsquare/switcher": "latest",
+        "@tsqueue/client": "latest"
+    }
+}

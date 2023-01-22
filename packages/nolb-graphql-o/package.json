@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-graphql-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graphql-obj2arg": "latest",
+        "graphql-object": "latest",
+        "graphql-object-meta-transformer": "latest",
+        "graphql-objectid-scalar": "latest",
+        "graphql-opaque-typed-document": "latest",
+        "graphql-operation-generator": "latest",
+        "graphql-operation-statistics": "latest",
+        "graphql-operation-to-pojo": "latest",
+        "graphql-operations-string-loader": "latest",
+        "graphql-optimize-query": "latest",
+        "graphql-orm": "latest",
+        "graphql-orm-connetor": "latest",
+        "graphql-orm-datasource": "latest",
+        "graphql-osm": "latest",
+        "graphql-otel": "latest",
+        "graphql-outfields": "latest",
+        "graphql-output-generator": "latest",
+        "graphql-over-websocket": "latest",
+        "graphql-over-ws": "latest",
+        "graphql-override": "latest"
+    }
+}

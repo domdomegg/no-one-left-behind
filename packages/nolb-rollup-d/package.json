@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-rollup-d",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rollup-datav-dev": "latest",
+        "rollup-datav-libs": "latest",
+        "rollup-demo": "latest",
+        "rollup-demo-123": "latest",
+        "rollup-demo-bear": "latest",
+        "rollup-demo-experiarmus": "latest",
+        "rollup-demo-lib": "latest",
+        "rollup-demo-tanjianqing-test": "latest",
+        "rollup-demo-test": "latest",
+        "rollup-demo-tongteng": "latest",
+        "rollup-demo-vue": "latest",
+        "rollup-demo-wcy": "latest",
+        "rollup-demo-yf": "latest",
+        "rollup-dependency-tree": "latest",
+        "rollup-dev-server": "latest",
+        "rollup-dyc-demo": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-w_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "w.js": "latest",
+        "w.process.tree.windows": "latest",
+        "w_bytemd": "latest",
+        "w_chartroom": "latest",
+        "w_cxp_cli_q": "latest",
+        "w_dbservice": "latest",
+        "w_sir_cli_01": "latest",
+        "w_soar": "latest",
+        "w_units": "latest",
+        "w_units_axios": "latest",
+        "w_units_load": "latest",
+        "w_vue_antd_components": "latest",
+        "w_z_admin005": "latest"
+    }
+}

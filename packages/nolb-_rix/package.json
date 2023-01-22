@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_rix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@rix0rrr/testnpm": "latest",
+        "@rixcy/components": "latest",
+        "@rixgiii/common": "latest",
+        "@rixio/atom": "latest",
+        "@rixio/cache": "latest",
+        "@rixio/form-store": "latest",
+        "@rixio/lens": "latest",
+        "@rixio/list": "latest",
+        "@rixio/list-react": "latest",
+        "@rixio/list-react-native": "latest",
+        "@rixio/react": "latest",
+        "@rixio/react-native": "latest",
+        "@rixio/rxjs-atom": "latest",
+        "@rixio/rxjs-atom-promise": "latest",
+        "@rixio/rxjs-cache": "latest",
+        "@rixio/rxjs-react": "latest",
+        "@rixio/rxjs-react-native": "latest",
+        "@rixio/rxjs-wrapped": "latest",
+        "@rixio/wrapped": "latest",
+        "@rixo/eslint": "latest",
+        "@rixo/eslint-config": "latest",
+        "@rixo/eslint-config-atom": "latest",
+        "@rixo/eslint-config-svelte": "latest",
+        "@rixo/eslint-config-svelte-native": "latest",
+        "@rixui/sheep-ui": "latest",
+        "@rixxlx/bootstrap-social": "latest"
+    }
+}

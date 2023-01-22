@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-wsa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wsa": "latest",
+        "wsa-comments": "latest",
+        "wsa-gantt": "latest",
+        "wsa-icons": "latest",
+        "wsaaaqqq": "latest",
+        "wsaaaqqq_test": "latest",
+        "wsaas": "latest",
+        "wsabates-table": "latest",
+        "wsabi": "latest",
+        "wsabi-client": "latest",
+        "wsabi-client-bacon": "latest",
+        "wsagi": "latest",
+        "wsaml": "latest",
+        "wsamp": "latest",
+        "wsanalyzer": "latest",
+        "wsany": "latest",
+        "wsapi": "latest",
+        "wsapi-js": "latest",
+        "wsapix": "latest",
+        "wsarkk": "latest",
+        "wsauth": "latest",
+        "wsaxz": "latest",
+        "wsaxzefwf": "latest"
+    }
+}

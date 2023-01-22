@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_ngf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ngfancy/ng-bs-switch": "latest",
+        "@ngfancy/ng-gridview": "latest",
+        "@ngfed/fb-business": "latest",
+        "@ngfed/fc-components": "latest",
+        "@ngfi/admin-data": "latest",
+        "@ngfi/angular": "latest",
+        "@ngfi/files": "latest",
+        "@ngfi/firestore-qbuilder": "latest",
+        "@ngfi/functions": "latest",
+        "@ngfi/multi-lang": "latest",
+        "@ngfi/state": "latest",
+        "@ngfi/time": "latest",
+        "@ngfk/material": "latest",
+        "@ngfk/ng-store": "latest",
+        "@ngfk/poi-preset-react-typescript": "latest",
+        "@ngfk/store": "latest",
+        "@ngfk/ts-redux": "latest",
+        "@ngflex/merge-coverage-reports": "latest",
+        "@ngflex/ngrx-firebase": "latest",
+        "@ngflix/feign": "latest",
+        "@ngforage/ngforage-ng4": "latest",
+        "@ngforage/ngforage-ng5": "latest",
+        "@ngfrx/changesetfetcher": "latest",
+        "@ngfx/rtc": "latest",
+        "@ngfx/ui": "latest"
+    }
+}

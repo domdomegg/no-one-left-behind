@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_mie",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@miedzikd/svelte-store": "latest",
+        "@miekassu/forked-uni-swap-sdk": "latest",
+        "@miekassu/preamp-fork": "latest",
+        "@miekassu/projen-nextjs-ts-package": "latest",
+        "@miepitome/common": "latest",
+        "@mierak/react-virtualized-grid": "latest",
+        "@mieron/instagram-clone": "latest",
+        "@miersx/lotide": "latest",
+        "@mies-co/next-ant": "latest",
+        "@mies-co/next-lng": "latest",
+        "@mies-co/next-secrets": "latest",
+        "@mies-co/next-styled-components": "latest",
+        "@mies-co/next-utils": "latest",
+        "@miesil/ng2-dragula": "latest",
+        "@miesil/pp-breadcrumbs": "latest",
+        "@mietitori/deltaforce-types": "latest",
+        "@mietz-gmbh/lambda-build-js": "latest",
+        "@mievro/react-component-library": "latest",
+        "@miew/eslint-config-react": "latest",
+        "@miew/prettier-config": "latest",
+        "@mieweb/wikigdrive": "latest",
+        "@miez/helpers": "latest",
+        "@miez/xerrors": "latest"
+    }
+}

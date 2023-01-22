@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_react-mo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@react-mobile-kit/cli": "latest",
+        "@react-mobile-kit/h5": "latest",
+        "@react-mock/fetch": "latest",
+        "@react-mock/localstorage": "latest",
+        "@react-mock/state": "latest",
+        "@react-mock/xhr": "latest",
+        "@react-modular/sandbox": "latest",
+        "@react-modular/types": "latest",
+        "@react-modules/chat-list": "latest",
+        "@react-modules/chat-messages": "latest",
+        "@react-mool/core": "latest",
+        "@react-mool/eui": "latest",
+        "@react-mool/i18n-it": "latest"
+    }
+}

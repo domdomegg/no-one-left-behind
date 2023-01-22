@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-stg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stg": "latest",
+        "stg-button": "latest",
+        "stg-file-upload": "latest",
+        "stg-uploader": "latest",
+        "stg_openalpr_api": "latest",
+        "stgame": "latest",
+        "stgcfdi": "latest",
+        "stge": "latest",
+        "stgertrwew": "latest",
+        "stgit": "latest"
+    }
+}

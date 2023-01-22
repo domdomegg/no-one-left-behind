@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_shae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shaendro/marking-menu": "latest",
+        "@shaenkan/channel-router-library": "latest",
+        "@shaenkan/common-library": "latest",
+        "@shaenkan/common-service-library": "latest",
+        "@shaenkan/controle-servidor-contract-library": "latest",
+        "@shaenkan/form-conqueror-library": "latest",
+        "@shaenkan/grid-icon-library": "latest",
+        "@shaenkan/login-service-library": "latest",
+        "@shaenkan/navigator": "latest",
+        "@shaenkan/new-alert-library": "latest",
+        "@shaenkan/payment-paypal-library": "latest",
+        "@shaenkan/payment-paypal-service": "latest",
+        "@shaenkan/quadro-branco-library": "latest",
+        "@shaenkan/servidor-service-library": "latest",
+        "@shaenkan/validation-page-library": "latest",
+        "@shaenx/js-plus": "latest"
+    }
+}

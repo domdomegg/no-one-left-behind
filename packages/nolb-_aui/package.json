@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_aui",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aui.io/aui-nats": "latest",
+        "@auicomponents/action": "latest",
+        "@auicomponents/actionsheet": "latest",
+        "@auicomponents/alert": "latest",
+        "@auicomponents/button": "latest",
+        "@auicomponents/confirm": "latest",
+        "@auicomponents/css": "latest",
+        "@auicomponents/datetime": "latest",
+        "@auicomponents/grid": "latest",
+        "@auicomponents/loading": "latest",
+        "@auicomponents/page": "latest",
+        "@auicomponents/popup": "latest",
+        "@auicomponents/refresh": "latest",
+        "@auicomponents/router": "latest",
+        "@auicomponents/slider": "latest",
+        "@auicomponents/tabbar": "latest",
+        "@auicomponents/titlebar": "latest",
+        "@auicomponents/toast": "latest",
+        "@auicomponents/utils": "latest"
+    }
+}

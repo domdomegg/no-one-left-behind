@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_codej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@codejack/cra-template": "latest",
+        "@codejamninja/apollo-cache-redux": "latest",
+        "@codejamninja/docusaurus-pdf": "latest",
+        "@codejamninja/k8s-operator": "latest",
+        "@codejamninja/n8n": "latest",
+        "@codejamninja/n8n-nodes-base": "latest",
+        "@codejamninja/nest-keycloak-connect": "latest",
+        "@codejamninja/sofa-api": "latest",
+        "@codejamninja/solito": "latest",
+        "@codejamninja/typegraphql-nestjs": "latest",
+        "@codejedi365/gitlab-npm-audit-parser": "latest",
+        "@codejedi365/jest-serial-runner": "latest",
+        "@codejockie/json-html": "latest",
+        "@codejockie/otp-gen": "latest",
+        "@codejournal/local-api": "latest",
+        "@codejournal/local-client": "latest",
+        "@codejunkies/vue-pwned-password": "latest",
+        "@codejw/testapp": "latest"
+    }
+}

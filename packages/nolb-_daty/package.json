@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_daty",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datyin/eslint-config": "latest",
+        "@datyin/eslint-config-react": "latest",
+        "@datyin/eslint-config-ts": "latest",
+        "@datyin/eslint-config-vue": "latest"
+    }
+}

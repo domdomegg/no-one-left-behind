@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-stylex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylex": "latest",
+        "stylex-atomic-loader": "latest",
+        "stylex-css": "latest",
+        "stylex-react": "latest",
+        "stylexjs": "latest",
+        "stylextract-loader": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-awsp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "awsp": "latest",
+        "awsp-plus": "latest",
+        "awsp-searchable": "latest",
+        "awsparams": "latest",
+        "awsparamstoretoconfig": "latest",
+        "awspeweera": "latest",
+        "awspm": "latest",
+        "awsprof": "latest",
+        "awsprofile": "latest",
+        "awsprofiles": "latest",
+        "awsps": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-genera",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-generaa": "latest",
+        "@zalastax/nolb-generab": "latest",
+        "@zalastax/nolb-generac": "latest",
+        "@zalastax/nolb-generad": "latest",
+        "@zalastax/nolb-general": "latest",
+        "@zalastax/nolb-generap": "latest",
+        "@zalastax/nolb-generar": "latest",
+        "@zalastax/nolb-generat": "latest"
+    }
+}

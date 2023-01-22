@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-cyi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cyia-build-file": "latest",
+        "cyia-code-util": "latest",
+        "cyia-ng-test": "latest",
+        "cyia-ngx-common": "latest",
+        "cyia-ngx-component": "latest",
+        "cyia-ngx-devkit": "latest",
+        "cyia-ngx-form": "latest",
+        "cyia-ngx-log": "latest",
+        "cyinn": "latest",
+        "cyio-bot": "latest",
+        "cyio-greet": "latest",
+        "cyiot-automation": "latest",
+        "cyiot-http-server": "latest",
+        "cyitao-todo-cli": "latest"
+    }
+}

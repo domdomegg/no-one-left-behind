@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-wxk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wxk-04a-test1": "latest",
+        "wxk-04a-test3": "latest",
+        "wxk-04a-test5": "latest",
+        "wxk-b-cli": "latest",
+        "wxk-bianli-mulu": "latest",
+        "wxk-example-block": "latest",
+        "wxk-miniprogram": "latest",
+        "wxk_demo": "latest",
+        "wxk_demo2": "latest",
+        "wxk_exam": "latest",
+        "wxkit": "latest",
+        "wxkj-et-sdk-marketing-normal": "latest",
+        "wxkj-et-sdk-marketing-normal-test": "latest",
+        "wxks": "latest"
+    }
+}

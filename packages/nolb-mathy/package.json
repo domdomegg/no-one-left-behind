@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-mathy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mathy": "latest",
+        "mathy-lab": "latest",
+        "mathy-unicode-characters": "latest"
+    }
+}

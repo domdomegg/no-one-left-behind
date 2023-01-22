@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_nodek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nodekit/express-isomorphic": "latest",
+        "@nodekit/express-isomorphic-react": "latest",
+        "@nodekit/express-isomorphic2": "latest",
+        "@nodekit/express-middleware-attach": "latest",
+        "@nodekit/express-route-mapper": "latest",
+        "@nodekit/logger": "latest",
+        "@nodekit/route-mapper": "latest"
+    }
+}

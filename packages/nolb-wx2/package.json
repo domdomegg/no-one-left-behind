@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-wx2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wx2": "latest",
+        "wx2-npmtest001": "latest",
+        "wx2-react": "latest",
+        "wx2ali": "latest",
+        "wx2ant": "latest",
+        "wx2any": "latest",
+        "wx2ks": "latest",
+        "wx2my": "latest",
+        "wx2swan": "latest",
+        "wx2swan-pro": "latest",
+        "wx2tt": "latest",
+        "wx2vivo": "latest",
+        "wx2web": "latest"
+    }
+}

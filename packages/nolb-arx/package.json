@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-arx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "arx": "latest",
+        "arx-angular-hateoas": "latest",
+        "arx-convert": "latest",
+        "arx-header-size": "latest",
+        "arx-level-json-converter": "latest",
+        "arx-level-json-prettify": "latest",
+        "arx-level-statistics": "latest",
+        "arx.npm": "latest",
+        "arxios": "latest",
+        "arxiv": "latest",
+        "arxiv-api": "latest",
+        "arxiv-api-node": "latest",
+        "arxiv-latex-to-utf8": "latest",
+        "arxiv-to-xml": "latest",
+        "arxjs": "latest"
+    }
+}

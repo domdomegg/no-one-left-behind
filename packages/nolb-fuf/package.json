@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-fuf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fuf": "latest",
+        "fuf-cli": "latest",
+        "fufefe": "latest",
+        "fufei-time-meter": "latest",
+        "fufenghua": "latest",
+        "fufengtoast1": "latest",
+        "fuffamail": "latest",
+        "fuffer-xor": "latest",
+        "fufu": "latest",
+        "fufu-router": "latest"
+    }
+}

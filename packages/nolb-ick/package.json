@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-ick",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ick": "latest",
+        "ick-cli": "latest",
+        "ick-components-dev": "latest",
+        "ick-components-test": "latest",
+        "ickey-lib": "latest",
+        "ickle": "latest",
+        "ickons": "latest",
+        "ickt": "latest",
+        "ickt-demo": "latest",
+        "icktjs": "latest",
+        "icky": "latest",
+        "icky-alerts": "latest",
+        "ickyrr-gagarin": "latest"
+    }
+}

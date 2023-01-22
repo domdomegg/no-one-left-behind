@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-wsm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wsm": "latest",
+        "wsm-api": "latest",
+        "wsm-cli": "latest",
+        "wsm-loading": "latest",
+        "wsm-web-component": "latest",
+        "wsmagik": "latest",
+        "wsmanagement": "latest",
+        "wsmanager": "latest",
+        "wsmco-rtl-css-react-scripts": "latest",
+        "wsmm-mini-app-angular-sdk": "latest",
+        "wsmng": "latest",
+        "wsmock-js": "latest",
+        "wsmq": "latest",
+        "wsmsgbroker": "latest",
+        "wsmyth-palindrome": "latest"
+    }
+}

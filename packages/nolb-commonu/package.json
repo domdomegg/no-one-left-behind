@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-commonu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "commonui": "latest",
+        "commonui-formu": "latest",
+        "commonui-helper": "latest",
+        "commonui-lib-test": "latest",
+        "commonui_modules": "latest",
+        "commonuipackage": "latest",
+        "commonusedfn": "latest",
+        "commonutil_demo": "latest",
+        "commonutil_feng": "latest",
+        "commonutilities": "latest",
+        "commonutilities_satyendra": "latest",
+        "commonutils-android-pro": "latest",
+        "commonutils-ios-pro": "latest",
+        "commonutils-mcrm": "latest",
+        "commonutils-shadow": "latest",
+        "commonutilsplugin": "latest",
+        "commonutilsplugins": "latest"
+    }
+}

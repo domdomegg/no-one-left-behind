@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_trz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trz/classnames": "latest",
+        "@trz/hooks": "latest",
+        "@trz/serialize": "latest",
+        "@trz/type": "latest",
+        "@trz/uri": "latest",
+        "@trz/util": "latest",
+        "@trzczy1/adam-crypto": "latest",
+        "@trzczy1/adam-temple": "latest",
+        "@trzewior/ng-dynamic": "latest",
+        "@trzmaxim/money": "latest"
+    }
+}

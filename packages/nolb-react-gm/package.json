@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-react-gm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-gm": "latest",
+        "react-gm-split": "latest",
+        "react-gmail": "latest",
+        "react-gmail-scanner": "latest",
+        "react-gmap": "latest",
+        "react-gmap-filter": "latest",
+        "react-gmap-mj": "latest",
+        "react-gmap-plugin": "latest",
+        "react-gmap3": "latest",
+        "react-gmaps": "latest",
+        "react-gmaps-id": "latest",
+        "react-gmaps-v2": "latest",
+        "react-gms": "latest"
+    }
+}

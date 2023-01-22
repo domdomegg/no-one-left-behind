@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-woq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "woq": "latest",
+        "woqi-weather": "latest",
+        "woqs": "latest",
+        "woqu": "latest",
+        "woqu-cli": "latest",
+        "woqu-treeselect": "latest",
+        "woqunitai": "latest",
+        "woqusongpengfei": "latest"
+    }
+}

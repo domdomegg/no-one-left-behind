@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-pif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pif": "latest",
+        "pif-parser": "latest",
+        "piface": "latest",
+        "piface-node": "latest",
+        "piface-node-12": "latest",
+        "pifall": "latest",
+        "piff": "latest",
+        "piff-cli": "latest",
+        "piffero": "latest",
+        "pifflevalve-frame-print": "latest",
+        "pifi": "latest",
+        "pifind": "latest",
+        "piflo-pack-test": "latest",
+        "pifpaf": "latest",
+        "pifs": "latest",
+        "pifss-comps": "latest",
+        "pifu": "latest",
+        "pify": "latest",
+        "pify-all": "latest",
+        "pify-all-methods-pmb": "latest",
+        "pify-async": "latest",
+        "pify-express-handler": "latest",
+        "pify-first-callback": "latest",
+        "pify-native": "latest",
+        "pify-proto": "latest"
+    }
+}

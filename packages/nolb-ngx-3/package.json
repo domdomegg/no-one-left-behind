@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-ngx-3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ngx-3a": "latest",
+        "ngx-3a-aws": "latest",
+        "ngx-3a-firebase": "latest",
+        "ngx-3a-mongo": "latest",
+        "ngx-3a-se": "latest"
+    }
+}

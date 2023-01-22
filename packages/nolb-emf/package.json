@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-emf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emf": "latest",
+        "emf-my-storybook-components": "latest",
+        "emf-product-card": "latest",
+        "emfc": "latest",
+        "emfdf": "latest",
+        "emfed": "latest",
+        "emfelogin": "latest",
+        "emfit-qs": "latest",
+        "emflac": "latest",
+        "emfn": "latest",
+        "emfooter": "latest",
+        "emfr": "latest",
+        "emfrest": "latest",
+        "emfw": "latest"
+    }
+}

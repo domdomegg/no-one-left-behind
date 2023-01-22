@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-el_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "el.js": "latest",
+        "el.js-controls": "latest",
+        "el_": "latest",
+        "el_button_test": "latest",
+        "el_dorado_top_screen": "latest",
+        "el_pais_articulo_al_azar": "latest",
+        "el_scheduler": "latest",
+        "el_tree_jqq": "latest",
+        "el_vue3_components_czy": "latest"
+    }
+}

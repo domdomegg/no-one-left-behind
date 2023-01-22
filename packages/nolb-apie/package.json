@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-apie",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "apie": "latest",
+        "apiece": "latest",
+        "apied-piper": "latest",
+        "apiengine": "latest",
+        "apiens-node-agent": "latest",
+        "apiep": "latest",
+        "apier": "latest",
+        "apier-accessverifier": "latest",
+        "apier-authenticator": "latest",
+        "apier-cli": "latest",
+        "apier-database": "latest",
+        "apier-dataparser": "latest",
+        "apier-libcurl": "latest",
+        "apier-permissioner": "latest",
+        "apier-react-tabtab": "latest",
+        "apier-responsebuilder": "latest",
+        "apier-validationsrunner": "latest",
+        "apierjs": "latest",
+        "apiex": "latest",
+        "apiexplorer": "latest",
+        "apiexpress": "latest",
+        "apiextender": "latest",
+        "apiez": "latest"
+    }
+}

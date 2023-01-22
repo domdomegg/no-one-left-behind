@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_v0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@v012345/webpack-demo": "latest",
+        "@v0id/fetch": "latest",
+        "@v0id/json.io": "latest",
+        "@v0idpointer/nhentai.js": "latest",
+        "@v0rt4c/dat": "latest",
+        "@v0rt4c/otb": "latest",
+        "@v0rt4c/otbm": "latest",
+        "@v0rt4c/spr": "latest",
+        "@v0x-shared/common": "latest",
+        "@v0x12/shared-modules": "latest"
+    }
+}

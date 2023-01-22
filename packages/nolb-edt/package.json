@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-edt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "edt": "latest",
+        "edt-lib": "latest",
+        "edt-ui": "latest",
+        "edt-workflow-components": "latest",
+        "edtalkingwithhexlet": "latest",
+        "edtdesign-test": "latest",
+        "edteam-style-guides": "latest",
+        "edtech": "latest",
+        "edtf": "latest",
+        "edtfy": "latest",
+        "edtool": "latest",
+        "edtr-view": "latest",
+        "edtro-vss-react-scripts": "latest"
+    }
+}

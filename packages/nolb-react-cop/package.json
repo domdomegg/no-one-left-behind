@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-react-cop",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-coparenter-dlls": "latest",
+        "react-copy": "latest",
+        "react-copy-antd": "latest",
+        "react-copy-button": "latest",
+        "react-copy-button-wrapper": "latest",
+        "react-copy-clipboard": "latest",
+        "react-copy-code": "latest",
+        "react-copy-content": "latest",
+        "react-copy-html-to-clipboard": "latest",
+        "react-copy-mailto": "latest",
+        "react-copy-pasta": "latest",
+        "react-copy-props": "latest",
+        "react-copy-text": "latest",
+        "react-copy-to-clipboard": "latest",
+        "react-copy-to-clipboard-es-class": "latest",
+        "react-copy-to-clipboard-ui": "latest",
+        "react-copy-write": "latest",
+        "react-copyable": "latest",
+        "react-copyable-promo-banner": "latest",
+        "react-copyright": "latest",
+        "react-copyright-notice-component": "latest",
+        "react-copyright-year": "latest",
+        "react-copyrighter": "latest",
+        "react-copytoclipboard": "latest",
+        "react-copyweasel": "latest"
+    }
+}

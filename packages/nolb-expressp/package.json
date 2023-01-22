@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-expressp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "expresspatternplate": "latest",
+        "expresspial": "latest",
+        "expressplus": "latest",
+        "expressprog": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-redux-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "redux-yasdic-cache": "latest",
+        "redux-yasio": "latest",
+        "redux-yep": "latest",
+        "redux-yeti": "latest",
+        "redux-yield-effect": "latest",
+        "redux-yjs-bindings": "latest",
+        "redux-yo": "latest",
+        "redux-yuanqi-test": "latest",
+        "redux-yucks": "latest"
+    }
+}

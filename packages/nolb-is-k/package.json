@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-is-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "is-kai": "latest",
+        "is-kde": "latest",
+        "is-kelp": "latest",
+        "is-key": "latest",
+        "is-key-combo": "latest",
+        "is-key-down": "latest",
+        "is-keyword": "latest",
+        "is-keyword-js": "latest",
+        "is-khatija": "latest",
+        "is-khmer": "latest",
+        "is-kiko": "latest",
+        "is-kindof": "latest",
+        "is-kinesis-lambda-event": "latest",
+        "is-known-mersenne": "latest",
+        "is-koa-app": "latest",
+        "is-kool": "latest",
+        "is-kotlin-keyword": "latest",
+        "is-kpp-js": "latest",
+        "is-kubernetes": "latest"
+    }
+}

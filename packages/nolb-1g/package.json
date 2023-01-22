@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-1g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "1g": "latest",
+        "1g6table": "latest",
+        "1gallery": "latest",
+        "1game-texas-holdem": "latest",
+        "1gendiff123456": "latest",
+        "1gg": "latest",
+        "1grids": "latest"
+    }
+}

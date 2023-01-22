@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_react-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@react-oauth/google": "latest",
+        "@react-observatory/inject-epic": "latest",
+        "@react-observatory/inject-reducer": "latest",
+        "@react-observatory/with-action": "latest",
+        "@react-observatory/with-router-action": "latest",
+        "@react-ol/fiber": "latest",
+        "@react-ops/react-ops": "latest",
+        "@react-org/hooks": "latest",
+        "@react-overlay/overlays": "latest"
+    }
+}

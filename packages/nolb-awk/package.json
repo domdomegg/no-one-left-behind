@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-awk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "awk": "latest",
+        "awk-cli": "latest",
+        "awk-language-server": "latest",
+        "awkit-cli": "latest",
+        "awkj": "latest",
+        "awkjs": "latest",
+        "awkkoans": "latest",
+        "awklib": "latest",
+        "awko-admin": "latest",
+        "awkvard": "latest",
+        "awkward": "latest",
+        "awkward-validator": "latest",
+        "awkwardpotato": "latest"
+    }
+}

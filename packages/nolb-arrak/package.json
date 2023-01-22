@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-arrak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "arrakis": "latest",
+        "arrakis-collection": "latest",
+        "arrakis-collection-native": "latest",
+        "arrakis-compilator": "latest",
+        "arrakis-component": "latest",
+        "arrakis-console": "latest",
+        "arrakis-core": "latest",
+        "arrakis-debugger": "latest",
+        "arrakis-html-generator": "latest",
+        "arrakis-lsl": "latest"
+    }
+}

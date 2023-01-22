@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-superi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "superid": "latest",
+        "superid-cli-utils": "latest",
+        "superid-component": "latest",
+        "superid-components-test": "latest",
+        "superid-react-native": "latest",
+        "superify": "latest",
+        "superigor": "latest",
+        "superimp": "latest",
+        "superimport": "latest",
+        "superinit": "latest",
+        "superinit-bootstrapx": "latest",
+        "superinput": "latest",
+        "superinstance": "latest",
+        "superintendent": "latest",
+        "superinterval": "latest",
+        "superintl": "latest",
+        "superio": "latest",
+        "superior": "latest",
+        "superior-handler": "latest",
+        "superior-leaflet": "latest",
+        "superior-mq": "latest",
+        "superior-scss": "latest",
+        "superior-tracking": "latest"
+    }
+}

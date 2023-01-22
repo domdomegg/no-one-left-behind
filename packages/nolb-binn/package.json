@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-binn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "binn": "latest",
+        "binn-loader": "latest",
+        "binn.js": "latest",
+        "binnacle": "latest",
+        "binnear": "latest",
+        "binned-stacked-inventory": "latest",
+        "binner": "latest",
+        "binnng": "latest",
+        "binno-web-widget": "latest",
+        "binny": "latest"
+    }
+}

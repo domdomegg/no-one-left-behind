@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-azo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "azo": "latest",
+        "azo-framework": "latest",
+        "azoft": "latest",
+        "azog": "latest",
+        "azogi": "latest",
+        "azon": "latest",
+        "azon.js": "latest",
+        "azoneui": "latest",
+        "azoom-eslint-module": "latest",
+        "azora": "latest",
+        "azot-init": "latest",
+        "azot-workflow": "latest",
+        "azota-file": "latest",
+        "azota-parse-selected-page": "latest",
+        "azoth": "latest",
+        "azoth-compiler": "latest"
+    }
+}

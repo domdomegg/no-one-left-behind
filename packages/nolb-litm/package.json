@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-litm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "litmonw-hello": "latest",
+        "litmos-sdk": "latest",
+        "litmove": "latest",
+        "litmra": "latest",
+        "litmus": "latest",
+        "litmus-api": "latest",
+        "litmus-common-ui": "latest",
+        "litmus-lab": "latest",
+        "litmus-pkg": "latest",
+        "litmus-test": "latest",
+        "litmus-ui": "latest"
+    }
+}

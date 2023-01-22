@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-marky",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "marky": "latest",
+        "marky-decorator": "latest",
+        "marky-deep-links": "latest",
+        "marky-editor": "latest",
+        "marky-mark": "latest",
+        "marky-markdown": "latest",
+        "marky-markdown-lite": "latest",
+        "marky-markdown-pipable": "latest",
+        "marky-marked": "latest",
+        "marky-theme": "latest",
+        "marky-theme-dev": "latest",
+        "markyap": "latest",
+        "markyeahjr-test": "latest",
+        "markyjs": "latest",
+        "markymark": "latest",
+        "markyoumu": "latest",
+        "markyoxall-frame-print": "latest",
+        "markyusi": "latest"
+    }
+}

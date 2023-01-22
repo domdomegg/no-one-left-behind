@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-lyp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lyp": "latest",
+        "lyp-3185-ui": "latest",
+        "lyp-components": "latest",
+        "lyp-firework-redpack-rain": "latest",
+        "lyp-hmtt": "latest",
+        "lyp-npm-publish": "latest",
+        "lyp-pages": "latest",
+        "lyp-pagination": "latest",
+        "lyp-test-plugin": "latest",
+        "lyp-ts-npm-template": "latest",
+        "lyp-ui": "latest",
+        "lyp_ping": "latest",
+        "lyp_tools": "latest",
+        "lyp_utils": "latest",
+        "lypack": "latest",
+        "lypagers": "latest",
+        "lypcjdhh": "latest",
+        "lypjs": "latest",
+        "lyplugin": "latest",
+        "lyplus-ui": "latest",
+        "lyproject": "latest",
+        "lypublisharrmethod": "latest"
+    }
+}

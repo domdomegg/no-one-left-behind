@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-gene-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gene-cli": "latest",
+        "gene-curtis-gradebook": "latest",
+        "gene-event-handler": "latest",
+        "gene-file": "latest",
+        "gene-js": "latest",
+        "gene-lib": "latest",
+        "gene-ontology-ribbon": "latest",
+        "gene-pool": "latest",
+        "gene-rator": "latest",
+        "gene-sim": "latest",
+        "gene-takovic-sports-talk": "latest",
+        "gene-to-graphics": "latest",
+        "gene-tools": "latest",
+        "gene-ui": "latest"
+    }
+}

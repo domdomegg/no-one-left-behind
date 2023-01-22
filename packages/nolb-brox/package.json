@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-brox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brox": "latest",
+        "broxclub-jslib": "latest",
+        "broxel-sdk-app": "latest",
+        "broxel-sdk-app-dev": "latest",
+        "broxjs": "latest",
+        "broxus-ton-tokens-contracts": "latest",
+        "broxy": "latest"
+    }
+}

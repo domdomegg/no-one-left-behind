@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_itp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@itp-atakan/ckeditor5-build-inline": "latest",
+        "@itpeople/lazy-load": "latest",
+        "@itpeople/server": "latest",
+        "@itpeople/webp-middleware": "latest",
+        "@itper/chokidar": "latest",
+        "@itper/css-shorthand-expand": "latest",
+        "@itper/pack": "latest",
+        "@itperch/react-scripts": "latest",
+        "@itpfl/oauth2client": "latest",
+        "@itplusx/nuxt-thumbor": "latest",
+        "@itpolsri/felis-silvestris-paging": "latest",
+        "@itpolsri/simple-webstorage": "latest",
+        "@itprogerru/example_test_package": "latest",
+        "@itprogerru/use-debounce": "latest",
+        "@itprogerru/use-timer": "latest",
+        "@itpropro/tree-structure-ts": "latest",
+        "@itprosteer/vendure-np-shipping": "latest",
+        "@itpsolver/react-datepicker": "latest",
+        "@itpsolver/react-multi-date-picker": "latest",
+        "@itpsp-cli/core": "latest",
+        "@itpsp-cli/utils": "latest"
+    }
+}

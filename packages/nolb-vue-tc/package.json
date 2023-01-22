@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-vue-tc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-tc-ruler": "latest",
+        "vue-tcb": "latest",
+        "vue-tcbj": "latest",
+        "vue-tcl-ui": "latest",
+        "vue-tclvant": "latest",
+        "vue-tcplayer": "latest"
+    }
+}

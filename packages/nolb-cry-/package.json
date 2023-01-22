@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-cry-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cry-baby": "latest",
+        "cry-can": "latest",
+        "cry-can2": "latest",
+        "cry-cli": "latest",
+        "cry-cms": "latest",
+        "cry-cmsserver": "latest",
+        "cry-components": "latest",
+        "cry-crypto-pwd": "latest",
+        "cry-db": "latest",
+        "cry-db-exec": "latest",
+        "cry-dbapiserver": "latest",
+        "cry-durs": "latest",
+        "cry-ebus": "latest",
+        "cry-ebus-dist": "latest",
+        "cry-helpers": "latest",
+        "cry-icon": "latest",
+        "cry-layer": "latest",
+        "cry-local-query": "latest",
+        "cry-mailsender": "latest",
+        "cry-mailsenderserver": "latest",
+        "cry-serialize": "latest",
+        "cry-table": "latest",
+        "cry-vies": "latest"
+    }
+}

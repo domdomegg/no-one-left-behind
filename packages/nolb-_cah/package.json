@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_cah",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cahamilton/eslint-config": "latest",
+        "@cahamilton/prettier-config": "latest",
+        "@cahamilton/stylelint-config": "latest",
+        "@cahil/class-validator": "latest",
+        "@cahil/cs": "latest",
+        "@cahil/snowfall": "latest",
+        "@cahil/standards": "latest",
+        "@cahil/utils": "latest",
+        "@cahillbrand/common": "latest",
+        "@cahmoraes93/deep-strict-equal": "latest",
+        "@cahmoraes93/either": "latest",
+        "@cahmoraes93/fluentsql": "latest",
+        "@cahmoraes93/maybe": "latest",
+        "@cahmoraes93/simple-immuter": "latest",
+        "@cahmoraes93/utils": "latest"
+    }
+}

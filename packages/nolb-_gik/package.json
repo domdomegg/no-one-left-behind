@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_gik",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gik/eslint-config": "latest",
+        "@gik/eslint-config-cycle": "latest",
+        "@gik/eslint-config-node": "latest",
+        "@gik/eslint-config-react": "latest",
+        "@gik/npm": "latest",
+        "@gik/redux-factory": "latest",
+        "@gik/tools": "latest",
+        "@gik/tools-checker": "latest",
+        "@gik/tools-configurator": "latest",
+        "@gik/tools-logger": "latest",
+        "@gik/tools-mapper": "latest",
+        "@gik/tools-populator": "latest",
+        "@gik/tools-server": "latest",
+        "@gik/tools-streamer": "latest",
+        "@gik/tools-thrower": "latest",
+        "@giki/giki": "latest",
+        "@gikiapp/react-native-calendar-heatmap": "latest",
+        "@gikiapp/react-native-contribution-calendar": "latest",
+        "@gikiapp/sdk": "latest"
+    }
+}

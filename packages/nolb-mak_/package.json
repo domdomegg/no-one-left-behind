@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-mak_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mak_atm": "latest",
+        "mak_game": "latest",
+        "mak_poi": "latest",
+        "mak_todo_list": "latest"
+    }
+}

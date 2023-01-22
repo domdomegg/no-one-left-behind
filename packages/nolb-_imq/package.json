@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_imq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@imqueue/async-logger": "latest",
+        "@imqueue/cli": "latest",
+        "@imqueue/core": "latest",
+        "@imqueue/dd-trace": "latest",
+        "@imqueue/graphql-dependency": "latest",
+        "@imqueue/job": "latest",
+        "@imqueue/js": "latest",
+        "@imqueue/net": "latest",
+        "@imqueue/opentelemetry-instrumentation-imqueue": "latest",
+        "@imqueue/pg-cache": "latest",
+        "@imqueue/pg-pubsub": "latest",
+        "@imqueue/rpc": "latest",
+        "@imqueue/travis": "latest",
+        "@imqueue/type-graphql-dependency": "latest"
+    }
+}

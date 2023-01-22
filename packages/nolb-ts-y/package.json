@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-ts-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ts-y-random": "latest",
+        "ts-yaml": "latest",
+        "ts-yaml-buildkite": "latest",
+        "ts-yamp": "latest",
+        "ts-yang-utils": "latest",
+        "ts-yargs": "latest",
+        "ts-year-timeline": "latest",
+        "ts-yyds-cli": "latest",
+        "ts-yyz": "latest"
+    }
+}

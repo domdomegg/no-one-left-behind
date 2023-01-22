@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-yuv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yuv": "latest",
+        "yuv-buffer": "latest",
+        "yuv-canvas": "latest",
+        "yuv-components": "latest",
+        "yuv-rx": "latest",
+        "yuv-video": "latest",
+        "yuv-view": "latest",
+        "yuv_coordinate_detection": "latest",
+        "yuva": "latest",
+        "yuva-lib": "latest",
+        "yuva-ui": "latest",
+        "yuval_npmpack": "latest",
+        "yuval_zehavi-frame-print": "latest",
+        "yuvalmo-nothing-to-prod-api": "latest",
+        "yuvalr-nothing-to-prod": "latest",
+        "yuvan-frame-print": "latest",
+        "yuvarajsha": "latest",
+        "yuve-shared": "latest",
+        "yuvi": "latest",
+        "yuviatic-react-components": "latest",
+        "yuvjs": "latest",
+        "yuvraj-frame-print": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_yuc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yuccaexchange/sdk": "latest",
+        "@yuccaexchange/uikit": "latest",
+        "@yucccc/utils": "latest",
+        "@yuchiaoki/wasm-example": "latest",
+        "@yuchida-tickets/common": "latest",
+        "@yuchijiakang/predict-horoscope": "latest",
+        "@yuchunhua/npmjs-demo": "latest",
+        "@yucj/test-mono-repo-with-cicd-packages-a": "latest",
+        "@yucj/test-mono-repo-with-cicd-packages-b": "latest",
+        "@yucn/theme-vue": "latest",
+        "@yucolab/0000-util-logger-js": "latest",
+        "@yucom/common": "latest",
+        "@yucom/context": "latest",
+        "@yucom/log": "latest",
+        "@yucom/logger": "latest",
+        "@yucom/placeholders": "latest",
+        "@yucom/plugin": "latest",
+        "@yucom/rest-client": "latest",
+        "@yucom/rest-server": "latest"
+    }
+}

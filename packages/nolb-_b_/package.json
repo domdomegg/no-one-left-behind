@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_b_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@b.taranenko/js-remote-debugger": "latest",
+        "@b.taranenko/react-big-calendar": "latest",
+        "@b.taranenko/react-cropperjs": "latest",
+        "@b.taranenko/react-flags-select": "latest",
+        "@b.taranenko/react-native-blur": "latest",
+        "@b.taranenko/react-native-country-list": "latest",
+        "@b.taranenko/react-native-country-picker": "latest",
+        "@b.taranenko/react-native-table-component": "latest",
+        "@b.taranenko/vcards-js": "latest",
+        "@b_logger/logger": "latest"
+    }
+}

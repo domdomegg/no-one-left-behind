@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-simp-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simp-bar": "latest",
+        "simp-calc": "latest",
+        "simp-ddb": "latest",
+        "simp-fs-easy": "latest",
+        "simp-html-parser": "latest",
+        "simp-less": "latest",
+        "simp-node-auth": "latest",
+        "simp-o-matic": "latest",
+        "simp-toast": "latest",
+        "simp-ui": "latest"
+    }
+}

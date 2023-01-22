@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-mdf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mdf": "latest",
+        "mdf-demo": "latest",
+        "mdf-formula-designer": "latest",
+        "mdf-plugin-log4js": "latest",
+        "mdf-plugin-viewhook": "latest",
+        "mdf-render-adapters": "latest",
+        "mdf-render-transformers": "latest",
+        "mdf-wiki": "latest",
+        "mdfa": "latest",
+        "mdface": "latest",
+        "mdfc-map-to-html": "latest",
+        "mdfd": "latest",
+        "mdfigcaption": "latest",
+        "mdfile": "latest",
+        "mdfilegen": "latest",
+        "mdfilegenerator": "latest",
+        "mdfilterable-select": "latest",
+        "mdfind": "latest",
+        "mdfind-stream": "latest",
+        "mdfive": "latest",
+        "mdfjs": "latest",
+        "mdflashmessage": "latest",
+        "mdform": "latest",
+        "mdfs": "latest"
+    }
+}

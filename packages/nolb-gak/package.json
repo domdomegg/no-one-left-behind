@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-gak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gak": "latest",
+        "gake": "latest",
+        "gakk1": "latest",
+        "gakki": "latest",
+        "gakki-ast": "latest",
+        "gakki-cli": "latest",
+        "gakki-vue-cli": "latest",
+        "gakkisama": "latest",
+        "gakkishi": "latest",
+        "gakko": "latest",
+        "gakko-lessonsync": "latest",
+        "gakkoapi": "latest",
+        "gaku": "latest",
+        "gakupo": "latest",
+        "gakus-study-npm-modules": "latest",
+        "gakus-ui-component-for-web": "latest"
+    }
+}

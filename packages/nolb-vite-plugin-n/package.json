@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-vite-plugin-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vite-plugin-naive-ui-md": "latest",
+        "vite-plugin-native-sw": "latest",
+        "vite-plugin-nestjs": "latest",
+        "vite-plugin-netlify": "latest",
+        "vite-plugin-next": "latest",
+        "vite-plugin-next-react-router": "latest",
+        "vite-plugin-nextcloud": "latest",
+        "vite-plugin-ngmi-polyfill": "latest",
+        "vite-plugin-nightwatch": "latest",
+        "vite-plugin-no-bug": "latest",
+        "vite-plugin-no-bundle": "latest",
+        "vite-plugin-no-fallback": "latest",
+        "vite-plugin-node": "latest",
+        "vite-plugin-node-polyfills": "latest",
+        "vite-plugin-node-ssh": "latest",
+        "vite-plugin-node-stdlib-browser": "latest",
+        "vite-plugin-node2string": "latest",
+        "vite-plugin-nodecg": "latest",
+        "vite-plugin-nologdebugger": "latest",
+        "vite-plugin-notifier": "latest",
+        "vite-plugin-nunjucks": "latest",
+        "vite-plugin-nuxt-env": "latest",
+        "vite-plugin-nuxt-test": "latest",
+        "vite-plugin-nx-dotenv": "latest"
+    }
+}

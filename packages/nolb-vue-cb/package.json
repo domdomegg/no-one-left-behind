@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-vue-cb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cb-roll": "latest",
+        "vue-cb-turntable": "latest",
+        "vue-cblm-example": "latest",
+        "vue-cbsc": "latest",
+        "vue-cbus": "latest"
+    }
+}

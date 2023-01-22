@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-leu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "leu": "latest",
+        "leuchtstoff": "latest",
+        "leufu-node-rtsp-stream": "latest",
+        "leumi-cli": "latest",
+        "leumi-open-banking-tools": "latest",
+        "leumi-xls-parser": "latest",
+        "leunamantharas-dummy-library": "latest",
+        "leung-library": "latest",
+        "leungjhowe-npm-test": "latest",
+        "leuniswapv2heco": "latest",
+        "leurjim-palindrome": "latest",
+        "leus": "latest",
+        "leute": "latest",
+        "leutil": "latest",
+        "leuv": "latest",
+        "leux": "latest"
+    }
+}

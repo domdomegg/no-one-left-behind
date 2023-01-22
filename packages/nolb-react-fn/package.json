@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-react-fn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-fn": "latest",
+        "react-fn-credits": "latest",
+        "react-fn-datatables": "latest",
+        "react-fn-seed": "latest",
+        "react-fnr": "latest",
+        "react-fns": "latest",
+        "react-fns-address": "latest",
+        "react-fns-dom-elements": "latest"
+    }
+}

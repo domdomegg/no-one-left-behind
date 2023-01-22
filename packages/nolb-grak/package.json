@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-grak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grakkit-aio": "latest",
+        "grakkit-boilerplate-util": "latest",
+        "grakkit-sound-browser": "latest",
+        "grakn": "latest",
+        "grakn-api": "latest",
+        "grakn-client": "latest",
+        "grakn-node": "latest",
+        "grakn-protocol": "latest",
+        "graknlabs-grpc-protocol": "latest",
+        "graknlabs-protocol": "latest",
+        "grakopp": "latest",
+        "graktgen": "latest"
+    }
+}

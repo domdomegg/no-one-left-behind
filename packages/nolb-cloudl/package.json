@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-cloudl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cloudless": "latest",
+        "cloudless-sdk": "latest",
+        "cloudless-upload": "latest",
+        "cloudlet": "latest",
+        "cloudli": "latest",
+        "cloudlify": "latest",
+        "cloudlify-keystone": "latest",
+        "cloudlink-hv": "latest",
+        "cloudlinter": "latest",
+        "cloudlinux-ui": "latest",
+        "cloudlinux-ui-app": "latest",
+        "cloudlist.js": "latest",
+        "cloudlogjs": "latest",
+        "cloudly": "latest",
+        "cloudly-analytics": "latest",
+        "cloudly-endpoint": "latest",
+        "cloudly-formdata": "latest",
+        "cloudly-hook": "latest",
+        "cloudly-http": "latest",
+        "cloudly-rest": "latest",
+        "cloudly-router": "latest",
+        "cloudly-storage": "latest",
+        "cloudly-ui": "latest",
+        "cloudly-worker": "latest",
+        "cloudlytics-libs": "latest"
+    }
+}

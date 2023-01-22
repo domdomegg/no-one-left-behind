@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-azd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "azdanovs-random-starwars-names": "latest",
+        "azdata": "latest",
+        "azdata-test": "latest",
+        "azdatagraph": "latest",
+        "azdate": "latest",
+        "azde-scripts": "latest",
+        "azdev-automation": "latest",
+        "azdev-git-migrator": "latest",
+        "azdevops-kube-summary": "latest",
+        "azdo-cancel-previous-builds": "latest",
+        "azdoc": "latest",
+        "azdom": "latest"
+    }
+}

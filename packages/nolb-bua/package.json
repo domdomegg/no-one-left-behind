@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-bua",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bua": "latest",
+        "bua-node": "latest",
+        "buaa-algo": "latest",
+        "buaa-c-lang": "latest",
+        "buaa-comp-arch-liuxudong": "latest",
+        "buaa-comp-theory": "latest",
+        "buaa-compile-shixiaohua": "latest",
+        "buaa-crypto-liweiguo": "latest",
+        "buaa-dast": "latest",
+        "buaa-db-langbo": "latest",
+        "buaa-front-end-chenshaoqiang": "latest",
+        "buaa-graph-wangyunxiao": "latest",
+        "buaa-info-sec": "latest",
+        "buaa-java": "latest",
+        "buaa-ml-huangdi": "latest",
+        "buaa-net-liuyi": "latest",
+        "buaa-oop-tanhuobin": "latest",
+        "buaa-os-wanglei": "latest",
+        "buaa-soft-arch-zhangli": "latest",
+        "buaa-webvpn-tunnel": "latest",
+        "buaba_eservices": "latest",
+        "buakaw": "latest",
+        "buatnpm": "latest",
+        "buaya": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_hue",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hue-platform/hue-admin-firebase": "latest",
+        "@hue-platform/hue-cli": "latest",
+        "@huebert/react-swipeable-views": "latest",
+        "@hueco/admin-layout": "latest",
+        "@hueco/components": "latest",
+        "@hueco/css": "latest",
+        "@hueco/page-layout": "latest",
+        "@hueco/pro-layout": "latest",
+        "@hueco/styles": "latest",
+        "@hueco/utils": "latest",
+        "@huehuejs/common-lang": "latest",
+        "@huehuejs/name-convention": "latest",
+        "@huehuejs/x-data": "latest",
+        "@huelet/foundation-ui": "latest",
+        "@huelet/pencil.js": "latest",
+        "@huelet/player": "latest",
+        "@huequica/native_extensions": "latest",
+        "@huesos/common": "latest",
+        "@hueyh/hello-npm-ts": "latest",
+        "@hueyy/feed": "latest",
+        "@hueyy/gatsby-source-goodreads": "latest",
+        "@hueyy/kenobi": "latest",
+        "@hueyyeng/simple-react-lightbox": "latest"
+    }
+}

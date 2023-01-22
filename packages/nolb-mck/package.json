@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-mck",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mck": "latest",
+        "mckick": "latest",
+        "mckinsey": "latest",
+        "mckmyeditor": "latest",
+        "mckoa": "latest",
+        "mckpath": "latest",
+        "mckrouter": "latest",
+        "mcktools": "latest",
+        "mcktsp": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-utr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "utr": "latest",
+        "utra-bridge": "latest",
+        "utrack": "latest",
+        "utracker": "latest",
+        "utracking": "latest",
+        "utransformers": "latest",
+        "utransition": "latest",
+        "utraq-datatable": "latest",
+        "utrechtstijl": "latest",
+        "utree": "latest",
+        "utree-js": "latest",
+        "utrie": "latest",
+        "utrigg-form-embed-react": "latest",
+        "utrigg-form-embed-vue": "latest",
+        "utrim": "latest",
+        "utrobin-jest-puppeteer-react": "latest",
+        "utry-agent": "latest",
+        "utry-agent-center": "latest",
+        "utry-excel-data": "latest",
+        "utry-excel-viewer": "latest",
+        "utry-modtest": "latest",
+        "utry-router-tab": "latest",
+        "utry-ulcap-items-base": "latest",
+        "utry-uscript-data": "latest",
+        "utry-uscript-expression": "latest",
+        "utry-uscript-viewer": "latest"
+    }
+}

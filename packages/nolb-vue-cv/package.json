@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-vue-cv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cv-annotation": "latest",
+        "vue-cva1": "latest",
+        "vue-cva2": "latest",
+        "vue-cvs": "latest",
+        "vue-cvs-ui": "latest",
+        "vue-cvss": "latest"
+    }
+}

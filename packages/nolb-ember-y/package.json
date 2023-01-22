@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-ember-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ember-yaml-cms": "latest",
+        "ember-yebo-lists": "latest",
+        "ember-yeti-table": "latest",
+        "ember-yitu": "latest",
+        "ember-yoga-sass": "latest",
+        "ember-youtube": "latest",
+        "ember-yuidoc-codemod": "latest",
+        "ember-yup": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-is-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "is-zawgyi": "latest",
+        "is-zero": "latest",
+        "is-zero-buffer": "latest",
+        "is-zero-or-positive-integer": "latest",
+        "is-zip": "latest",
+        "is-zip-file": "latest",
+        "is-zone": "latest",
+        "is-zoom": "latest",
+        "is-zoom-app": "latest",
+        "is-zst": "latest",
+        "is-zumrudu-anka": "latest",
+        "is-zzz": "latest"
+    }
+}

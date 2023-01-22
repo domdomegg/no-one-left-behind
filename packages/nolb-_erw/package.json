@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_erw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@erwanriou/test_booker_common": "latest",
+        "@erwijet/docker-compose-scaffold": "latest",
+        "@erwijet/ntimes": "latest",
+        "@erwin.flores/forms-plugin": "latest",
+        "@erwinheldy/duallistbox": "latest",
+        "@erwinheldy/imagecompare": "latest",
+        "@erwinheldy/my-template": "latest",
+        "@erwinheldy/star-rating": "latest",
+        "@erwink/esb": "latest",
+        "@erwink/svelte-kit": "latest",
+        "@erwinstone/bs-select": "latest",
+        "@erwinstone/bs-tag": "latest",
+        "@erwinstone/bs-toast": "latest",
+        "@erwinstone/cssmin": "latest",
+        "@erwinstone/globcopy": "latest",
+        "@erwinstone/input-touchspin": "latest",
+        "@erwinstone/jsmin": "latest",
+        "@erwinv/envvar": "latest",
+        "@erwinv/koa-http-proxy": "latest",
+        "@erwinverdonk/aws-cfn-acm-certificate-resource": "latest",
+        "@erwinverdonk/aws-cfn-sns-subscription-attributes-resource": "latest",
+        "@erwinverdonk/aws-cfn-stack-resource": "latest",
+        "@erwinverdonk/aws-cfn-wait": "latest",
+        "@erwinverdonk/aws-cloudformation-deploy": "latest",
+        "@erwinverdonk/aws-lambda-upload-deploy": "latest",
+        "@erwinverdonk/bdd-test-runner": "latest"
+    }
+}

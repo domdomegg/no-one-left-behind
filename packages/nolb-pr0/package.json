@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-pr0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pr0-io": "latest",
+        "pr0con-pancakes": "latest",
+        "pr0gramm-api": "latest",
+        "pr0gramm-api-2": "latest",
+        "pr0gramm.css": "latest",
+        "pr0kbot": "latest",
+        "pr0mised-m0ng0": "latest"
+    }
+}

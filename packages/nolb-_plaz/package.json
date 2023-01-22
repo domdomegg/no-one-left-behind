@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_plaz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@plazaar/metabase-client": "latest",
+        "@plazaar/plazaar-scripts": "latest",
+        "@plazarjs/array-util": "latest",
+        "@plazarjs/bootstrap-ui": "latest",
+        "@plazarjs/core": "latest",
+        "@plazarjs/http": "latest",
+        "@plazarjs/object-util": "latest",
+        "@plazarjs/string-util": "latest"
+    }
+}

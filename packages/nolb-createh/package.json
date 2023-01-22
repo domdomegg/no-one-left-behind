@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-createh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "createhash-chaintor": "latest",
+        "createhmac-chaintor": "latest",
+        "createhtmltable": "latest",
+        "createhttp": "latest"
+    }
+}

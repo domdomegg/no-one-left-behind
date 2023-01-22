@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-webpack-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "webpack-karma-die-hard": "latest",
+        "webpack-karma-jasmine": "latest",
+        "webpack-keene": "latest",
+        "webpack-key-parse": "latest",
+        "webpack-kfc-replace-window": "latest",
+        "webpack-kill-process": "latest",
+        "webpack-kit": "latest",
+        "webpack-kit-nimedev": "latest",
+        "webpack-kit-nimedev-base": "latest",
+        "webpack-kit-nimedev-ts": "latest",
+        "webpack-kit-presets": "latest",
+        "webpack-koa-dev-middleware": "latest",
+        "webpack-koa-hot-middleware": "latest",
+        "webpack-koa-hot-reload": "latest",
+        "webpack-koa-middleware": "latest",
+        "webpack-koa-stats-exposer": "latest",
+        "webpack-koa2-middleware": "latest",
+        "webpack-koa2-server": "latest",
+        "webpack-kotlin-loader": "latest",
+        "webpack-krakenio-loader": "latest",
+        "webpack-ks3-oss": "latest"
+    }
+}

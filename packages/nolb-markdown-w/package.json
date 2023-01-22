@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-markdown-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "markdown-walker": "latest",
+        "markdown-wasm": "latest",
+        "markdown-watch": "latest",
+        "markdown-watch-cat": "latest",
+        "markdown-web-copy": "latest",
+        "markdown-webpack-plugin": "latest",
+        "markdown-website-compiler": "latest",
+        "markdown-website-loader": "latest",
+        "markdown-wiki": "latest",
+        "markdown-wine": "latest",
+        "markdown-with-front-matter-loader": "latest",
+        "markdown-with-metadata-loader": "latest",
+        "markdown-word": "latest",
+        "markdown-writer": "latest",
+        "markdown-wysiwyg": "latest"
+    }
+}

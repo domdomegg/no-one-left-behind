@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-streak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "streak": "latest",
+        "streak-counter": "latest",
+        "streak-counter-mkl": "latest",
+        "streak-view": "latest",
+        "streaka-knex": "latest",
+        "streaka-ui-select": "latest",
+        "streakapi": "latest",
+        "streaker": "latest",
+        "streaker-cli": "latest",
+        "streaker-js": "latest",
+        "streakers-ca": "latest",
+        "streakify": "latest",
+        "streakingman-cli": "latest",
+        "streakjs": "latest",
+        "streaksheet": "latest",
+        "streaky-pork": "latest",
+        "streaky-util": "latest"
+    }
+}

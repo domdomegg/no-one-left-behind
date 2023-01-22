@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_im3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@im30etherpad/ep_catalog_plugin": "latest",
+        "@im33357/uniswap-v2-sdk": "latest"
+    }
+}

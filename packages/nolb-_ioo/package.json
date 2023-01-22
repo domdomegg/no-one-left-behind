@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_ioo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@iooota_srl/angular-cron-gen": "latest",
+        "@iooota_srl/angular-cron-humanize": "latest",
+        "@iooota_srl/cordova-plugin-crosswalk-migration-iooota": "latest",
+        "@iooxa/article": "latest",
+        "@iooxa/components": "latest",
+        "@iooxa/editor": "latest",
+        "@iooxa/ink-article": "latest",
+        "@iooxa/ink-basic": "latest",
+        "@iooxa/ink-chart": "latest",
+        "@iooxa/runtime": "latest",
+        "@iooxa/schema": "latest",
+        "@iooxa/svg": "latest"
+    }
+}

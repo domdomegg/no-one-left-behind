@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-vew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vew": "latest",
+        "vew-ui": "latest",
+        "vewatch": "latest",
+        "vewe-on-with-delay": "latest",
+        "vewe-switch-plugin": "latest",
+        "vewebcomponentsquestions": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-wix-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wix-gatekeeper-aspect": "latest",
+        "wix-gatekeeper-client": "latest",
+        "wix-gatekeeper-testkit": "latest",
+        "wix-generator-base": "latest",
+        "wix-generator-toolkit": "latest",
+        "wix-gliba-hello-world": "latest",
+        "wix-graphql-query-builder": "latest",
+        "wix-greynode-sample-app": "latest",
+        "wix-greynode-testkit": "latest",
+        "wix-grpc-client": "latest",
+        "wix-grpc-common": "latest",
+        "wix-grpc-server": "latest",
+        "wix-grpc-testkit": "latest",
+        "wix-grunt-inline": "latest",
+        "wix-gruntfile": "latest"
+    }
+}

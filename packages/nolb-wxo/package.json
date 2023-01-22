@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-wxo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wxoauth": "latest",
+        "wxoauth-express": "latest",
+        "wxopensource-qs": "latest",
+        "wxos-cli": "latest",
+        "wxos-theme": "latest",
+        "wxos-ui": "latest",
+        "wxos-widget": "latest"
+    }
+}

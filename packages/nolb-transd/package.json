@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-transd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "transdata": "latest",
+        "transdev": "latest",
+        "transdiacritics": "latest",
+        "transdis": "latest",
+        "transdraw": "latest",
+        "transduce": "latest",
+        "transduce-async": "latest",
+        "transduce-gen": "latest",
+        "transduce-stream": "latest",
+        "transduce-ts": "latest",
+        "transduce-with-generators": "latest",
+        "transduce-x": "latest",
+        "transducer": "latest",
+        "transducer-protocol": "latest",
+        "transducerjs": "latest",
+        "transducers": "latest",
+        "transducers-es6": "latest",
+        "transducers-js": "latest",
+        "transducers.js": "latest",
+        "transducing": "latest",
+        "transducist": "latest",
+        "transduction": "latest",
+        "transductive": "latest",
+        "transductx": "latest",
+        "transdux": "latest"
+    }
+}

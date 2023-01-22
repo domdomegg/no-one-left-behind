@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-sam_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sam.ai-slack": "latest",
+        "sam.io": "latest",
+        "sam.pipe": "latest",
+        "sam_chand_app": "latest",
+        "sam_components": "latest",
+        "sam_demo_20": "latest",
+        "sam_first_package": "latest",
+        "sam_jobs": "latest",
+        "sam_josh_jake_prenda": "latest",
+        "sam_l": "latest",
+        "sam_zgj-ui": "latest"
+    }
+}

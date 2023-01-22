@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-bootj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bootjs": "latest",
+        "bootjs-auth": "latest",
+        "bootjs-cli": "latest",
+        "bootjs-common": "latest",
+        "bootjs-config": "latest",
+        "bootjs-exception": "latest",
+        "bootjs-render": "latest"
+    }
+}

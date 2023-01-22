@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_ts2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ts2asl/asl-lib": "latest",
+        "@ts2asl/cdk-typescript-statemachine": "latest",
+        "@ts2asl/cdk-v1-typescript-statemachine": "latest",
+        "@ts2asl/convert": "latest",
+        "@ts2doc/components": "latest",
+        "@ts2doc/json": "latest",
+        "@ts2doc/storybook-addon": "latest",
+        "@ts2vtl/aws-apigateway": "latest",
+        "@ts2vtl/aws-appsync": "latest",
+        "@ts2vtl/core": "latest",
+        "@ts2vtl/java-types": "latest",
+        "@ts2vtl/vtl": "latest"
+    }
+}

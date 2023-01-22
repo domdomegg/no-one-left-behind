@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-amw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "amw": "latest",
+        "amw-services": "latest",
+        "amw-ui": "latest",
+        "amwal-checkout": "latest",
+        "amwal-checkout-angular": "latest",
+        "amwal-checkout-button": "latest",
+        "amwal-checkout-button-react": "latest",
+        "amwal-checkout-button-vue": "latest",
+        "amwal-checkout-react": "latest",
+        "amway-lc": "latest",
+        "amway-lc-fn": "latest",
+        "amway-lc-js-sdk": "latest",
+        "amway-lc-react": "latest",
+        "amway-poc-lib-test": "latest",
+        "amwic-react-scripts": "latest",
+        "amwiki": "latest",
+        "amws": "latest",
+        "amwybj": "latest"
+    }
+}

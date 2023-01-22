@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-dyn3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dyn365-access-token": "latest",
+        "dyn365-dev-proxy": "latest",
+        "dyn365-proj": "latest"
+    }
+}

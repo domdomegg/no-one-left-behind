@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-fast_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fast.com": "latest",
+        "fast.db": "latest",
+        "fast.js": "latest",
+        "fast_admin_view": "latest",
+        "fast_array_intersect": "latest",
+        "fast_bindall": "latest",
+        "fast_build": "latest",
+        "fast_fetch_react": "latest",
+        "fast_gcd": "latest",
+        "fast_generate_childstore": "latest",
+        "fast_inon": "latest",
+        "fast_js_utils": "latest",
+        "fast_load_balance": "latest",
+        "fast_npm_package": "latest",
+        "fast_prompt": "latest",
+        "fast_qr": "latest",
+        "fast_slice": "latest",
+        "fast_tcp_server": "latest",
+        "fast_tianhy": "latest",
+        "fast_zhhx_table": "latest"
+    }
+}

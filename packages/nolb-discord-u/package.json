@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-discord-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discord-ui": "latest",
+        "discord-uno": "latest",
+        "discord-uno-br": "latest",
+        "discord-uptime": "latest",
+        "discord-uptime-bot": "latest",
+        "discord-urpc": "latest",
+        "discord-user": "latest",
+        "discord-user-bots": "latest",
+        "discord-user-fetch": "latest",
+        "discord-user-grabber": "latest",
+        "discord-user-parser": "latest",
+        "discord-user-settings": "latest",
+        "discord-utilities": "latest",
+        "discord-utilities-js": "latest",
+        "discord-utility-package": "latest",
+        "discord-utils-bot": "latest",
+        "discord-utils-classes": "latest",
+        "discord-utils-spanish": "latest",
+        "discord-utils.js": "latest"
+    }
+}

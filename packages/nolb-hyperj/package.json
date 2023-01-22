@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-hyperj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hyperj": "latest",
+        "hyperjoy": "latest",
+        "hyperjs": "latest",
+        "hyperjs-theme": "latest",
+        "hyperjson": "latest",
+        "hyperjson-browser": "latest",
+        "hyperjson-connect": "latest",
+        "hyperjson-response": "latest",
+        "hyperjsondb": "latest",
+        "hyperjsx": "latest",
+        "hyperjump": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-prei",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "preidman-ccxt": "latest",
+        "preimg": "latest",
+        "preinstall": "latest",
+        "preinstall-no-yarn": "latest",
+        "preinstall-whoami": "latest",
+        "preinstallv5": "latest",
+        "preis-farm": "latest",
+        "preisachjs": "latest"
+    }
+}

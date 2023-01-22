@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_f9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@f94leo/notifying": "latest",
+        "@f97/fshare": "latest",
+        "@f97/google-translate-api": "latest",
+        "@f97/pyload-js": "latest",
+        "@f97/react-usa-map": "latest",
+        "@f97/vntk": "latest",
+        "@f9software/collection": "latest",
+        "@f9software/filters": "latest",
+        "@f9software/form": "latest",
+        "@f9software/form-ui": "latest",
+        "@f9software/gladius": "latest",
+        "@f9software/model": "latest",
+        "@f9software/reducers": "latest",
+        "@f9software/registry": "latest"
+    }
+}

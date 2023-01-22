@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-react3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react360imgthree": "latest",
+        "react360vidthree": "latest",
+        "react3dcsscarousel": "latest",
+        "react3dtagcloud": "latest",
+        "react3dtagcloud_withclick": "latest",
+        "react3dtagcloud_withclick_style": "latest",
+        "react3dtagcloud_withcolor": "latest",
+        "react3l": "latest",
+        "react3l-advanced-filters": "latest",
+        "react3l-axios-observable": "latest",
+        "react3l-cli": "latest",
+        "react3l-common": "latest",
+        "react3l-decorators": "latest",
+        "react3l-i18next-extractor": "latest",
+        "react3l-library": "latest",
+        "react3l-localization": "latest",
+        "react3l-native-kit": "latest",
+        "react3l-ui-library": "latest",
+        "react3l-ui-library-test": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-thp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thp-avue": "latest",
+        "thp-button": "latest",
+        "thp-button-hjn": "latest",
+        "thp-button-ui": "latest",
+        "thp-button-ui-test": "latest",
+        "thp-demo123-ui": "latest",
+        "thp-echarts": "latest",
+        "thp-echarts-ui": "latest",
+        "thp-submission": "latest",
+        "thp-vue": "latest",
+        "thpace": "latest",
+        "thpham-frame-print": "latest",
+        "thpkscreenhsot": "latest",
+        "thplayer": "latest"
+    }
+}

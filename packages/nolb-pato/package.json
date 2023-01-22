@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-pato",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pato": "latest",
+        "patofinder": "latest",
+        "patois": "latest",
+        "patologiasmentais": "latest",
+        "patomation-react-components": "latest",
+        "patootie": "latest",
+        "patorest": "latest",
+        "patostream": "latest",
+        "patova": "latest"
+    }
+}

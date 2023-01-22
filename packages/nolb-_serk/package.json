@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_serk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@serkans/common": "latest",
+        "@serkans/error-handler": "latest",
+        "@serkans/log-service": "latest",
+        "@serkans/rabbitmq-service": "latest",
+        "@serkans/status-codes": "latest",
+        "@serkans/ticketsystem-common": "latest",
+        "@serkodev/svgtofont": "latest",
+        "@serkonda7/yaml2json": "latest",
+        "@serkyron/death-by-captcha": "latest"
+    }
+}

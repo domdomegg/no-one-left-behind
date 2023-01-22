@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-swp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "swp": "latest",
+        "swp-core-user": "latest",
+        "swp-something": "latest",
+        "swp-ui-kit": "latest",
+        "swpacks": "latest",
+        "swparser": "latest",
+        "swpc-builder": "latest",
+        "swpe_current_test.js": "latest",
+        "swpe_module": "latest",
+        "swped": "latest",
+        "swpm": "latest",
+        "swpnlgkwdpkg": "latest",
+        "swpnlgkwdsyntelpkg": "latest",
+        "swpnlsynteltest": "latest",
+        "swproxy": "latest",
+        "swproxy-mod": "latest",
+        "swproxy-mod-rewrite": "latest",
+        "swptest": "latest"
+    }
+}

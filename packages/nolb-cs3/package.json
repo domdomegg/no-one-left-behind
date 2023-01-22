@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-cs3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cs338test": "latest",
+        "cs360-getcity.beefster": "latest",
+        "cs360getcity": "latest",
+        "cs360server": "latest",
+        "cs3d-core-tools-streaming-volume-for-dev": "latest",
+        "cs3f3": "latest"
+    }
+}

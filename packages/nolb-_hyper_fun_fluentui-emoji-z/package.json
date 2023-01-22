@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_fluentui-emoji-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/fluentui-emoji-zany-face-color": "latest",
+        "@hyper.fun/fluentui-emoji-zany-face-flat": "latest",
+        "@hyper.fun/fluentui-emoji-zany-face-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-zebra-color": "latest",
+        "@hyper.fun/fluentui-emoji-zebra-flat": "latest",
+        "@hyper.fun/fluentui-emoji-zebra-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-zipper-mouth-face-color": "latest",
+        "@hyper.fun/fluentui-emoji-zipper-mouth-face-flat": "latest",
+        "@hyper.fun/fluentui-emoji-zipper-mouth-face-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-zzz-color": "latest",
+        "@hyper.fun/fluentui-emoji-zzz-flat": "latest",
+        "@hyper.fun/fluentui-emoji-zzz-high-contrast": "latest"
+    }
+}

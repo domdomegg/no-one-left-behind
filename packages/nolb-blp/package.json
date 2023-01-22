@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-blp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "blp": "latest",
+        "blp-rest": "latest",
+        "blpapi": "latest",
+        "blpapi-http": "latest",
+        "blpeters-palindrome": "latest",
+        "blprnt": "latest",
+        "blprnt-node": "latest",
+        "blproof": "latest",
+        "blps": "latest",
+        "blpublish": "latest"
+    }
+}

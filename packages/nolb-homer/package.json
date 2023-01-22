@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-homer",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "homer": "latest",
+        "homer-helper": "latest",
+        "homer_file_loader": "latest",
+        "homeran-loading": "latest",
+        "homerico-helloword": "latest",
+        "homerphr-notifications": "latest",
+        "homerun": "latest",
+        "homerun-ats-theme": "latest",
+        "homerunner-client": "latest"
+    }
+}

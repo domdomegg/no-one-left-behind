@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-ghn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ghn": "latest",
+        "ghn-layout-reset": "latest",
+        "ghn-logistics-css-module": "latest",
+        "ghn-marquee-plugin": "latest",
+        "ghn-npm-demo": "latest",
+        "ghn-sso": "latest",
+        "ghn-sso-v1": "latest",
+        "ghn-test": "latest",
+        "ghninouaddjs": "latest",
+        "ghnp": "latest"
+    }
+}

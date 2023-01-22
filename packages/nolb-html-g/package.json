@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-html-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "html-gdpr-guard": "latest",
+        "html-gen": "latest",
+        "html-gen-pdf": "latest",
+        "html-generate": "latest",
+        "html-generator": "latest",
+        "html-generator-npm": "latest",
+        "html-generators": "latest",
+        "html-geolocation": "latest",
+        "html-get": "latest",
+        "html-git-version-plugin": "latest",
+        "html-gl": "latest",
+        "html-google-translate": "latest",
+        "html-grabber": "latest",
+        "html-graph": "latest",
+        "html-gulp": "latest",
+        "html-gulp-pj": "latest",
+        "html-gxb-layout-loader": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-jic",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jic-common": "latest",
+        "jic-ui-framework": "latest",
+        "jic_data_web-dev": "latest",
+        "jic_data_web_dedv": "latest",
+        "jiccdemo": "latest",
+        "jicdata": "latest",
+        "jichaoli": "latest",
+        "jichaosfirstnpmdemo": "latest",
+        "jicheng": "latest",
+        "jicheng_ww": "latest",
+        "jichoo": "latest",
+        "jichoup": "latest",
+        "jichu": "latest",
+        "jichuang-auth-middle": "latest",
+        "jicket": "latest",
+        "jicking": "latest",
+        "jicking-test-proj": "latest",
+        "jickl-react-nickname": "latest",
+        "jicklepuice": "latest",
+        "jicli": "latest",
+        "jiclibitgo": "latest",
+        "jiconnol-palindrome": "latest",
+        "jicredm-cli": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_emt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@emte/adx-alm-toolkit": "latest",
+        "@emtecinc/falcon-core": "latest",
+        "@emtecinc/sass-render": "latest",
+        "@emtecinc/single-spa-backbone": "latest",
+        "@emtecpoc/componentlibrary": "latest",
+        "@emticket/common": "latest",
+        "@emticketing/common": "latest",
+        "@emtickets/common": "latest",
+        "@emtrann/lotide": "latest",
+        "@emtupp/lotide": "latest",
+        "@emtux/actions": "latest",
+        "@emtux/api": "latest",
+        "@emtux/eslint-plugin": "latest",
+        "@emtux/utils": "latest",
+        "@emtwo/ping-centre": "latest",
+        "@emtypes/code": "latest",
+        "@emtypes/dogwater": "latest",
+        "@emtypes/isstream": "latest",
+        "@emtypes/lab": "latest",
+        "@emtypes/merge-stream": "latest",
+        "@emtypes/rethinkdbdash": "latest",
+        "@emtypes/thinky": "latest",
+        "@emtypes/tildify": "latest",
+        "@emtypes/waterline": "latest"
+    }
+}

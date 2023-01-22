@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-flai",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "flail": "latest",
+        "flair": "latest",
+        "flair-api-ts": "latest",
+        "flair-doc": "latest",
+        "flair-kit": "latest",
+        "flair-scraper-scheduler": "latest",
+        "flair-sdk": "latest",
+        "flair-test": "latest",
+        "flair-ui": "latest",
+        "flair-visualizations": "latest",
+        "flair-visualizations-pkg": "latest",
+        "flaired": "latest",
+        "flairjs": "latest",
+        "flairjs-cli": "latest",
+        "flairjs-fabric": "latest",
+        "flairjs-fabric-defaults": "latest",
+        "flairrcurrency-toolkit": "latest",
+        "flairrcurrency-web": "latest",
+        "flairstech-org-chart": "latest",
+        "flairtable": "latest",
+        "flaiscode.db": "latest"
+    }
+}

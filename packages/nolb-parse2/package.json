@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-parse2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "parse2": "latest",
+        "parse2-kmz": "latest",
+        "parse2flybase": "latest",
+        "parse2use": "latest"
+    }
+}

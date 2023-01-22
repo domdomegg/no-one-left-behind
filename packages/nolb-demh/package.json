@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-demh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "demhat-pkg-a": "latest",
+        "demhat-pkg-b": "latest",
+        "demhat-pkg-c": "latest"
+    }
+}

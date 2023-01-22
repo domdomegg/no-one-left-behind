@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-httpi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "httpi": "latest",
+        "httpie": "latest",
+        "httpies": "latest",
+        "httpify": "latest",
+        "httpignore": "latest",
+        "httpinfrastructure": "latest",
+        "httping": "latest",
+        "httpinkie": "latest",
+        "httpinvoke": "latest",
+        "httpipe": "latest",
+        "httpiped": "latest",
+        "httpiped-stream": "latest",
+        "httpism": "latest",
+        "httpity": "latest",
+        "httpizar": "latest",
+        "httpize": "latest"
+    }
+}

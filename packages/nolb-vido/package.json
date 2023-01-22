@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-vido",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vido": "latest",
+        "vidoco_module": "latest",
+        "vidom": "latest",
+        "vidom-animation-group": "latest",
+        "vidom-css-animation-group": "latest",
+        "vidom-redux": "latest",
+        "vidom-ui": "latest",
+        "vidon": "latest",
+        "vidovly": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_crt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@crtc_trust/common-style": "latest",
+        "@crtc_trust/core": "latest",
+        "@crtickets/common": "latest",
+        "@crtl/react-infinite-list": "latest",
+        "@crtr9/runaway": "latest",
+        "@crtx/pcf-components": "latest",
+        "@crtxio/abi": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_ecn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ecn/graphql-serverless": "latest",
+        "@ecn/serverless": "latest",
+        "@ecnft/js-sdk-core": "latest",
+        "@ecnft/js-sdk-react": "latest",
+        "@ecnft/orbis-component": "latest",
+        "@ecnft/wl-user-core": "latest",
+        "@ecnft/wl-user-react": "latest",
+        "@ecnova/sdk-js-namespace": "latest",
+        "@ecnova/sdk-js-system": "latest"
+    }
+}

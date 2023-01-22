@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-simt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simte": "latest",
+        "simteconf": "latest",
+        "simtega-plugin-static": "latest",
+        "simtegalib": "latest",
+        "simter-vue-colgroup": "latest",
+        "simter-vue-table": "latest",
+        "simter-vue-thead": "latest",
+        "simter-vue-tree": "latest",
+        "simtra": "latest",
+        "simts": "latest"
+    }
+}

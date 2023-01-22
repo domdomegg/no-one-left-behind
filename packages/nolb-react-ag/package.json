@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-react-ag",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-ag-grid": "latest",
+        "react-ag-grid-example": "latest",
+        "react-against-the-machine": "latest",
+        "react-agenda": "latest",
+        "react-agenda-calendar": "latest",
+        "react-agent": "latest",
+        "react-agent-server": "latest",
+        "react-agentscript": "latest",
+        "react-aggregation": "latest",
+        "react-aggressive": "latest",
+        "react-aggrid-framework-components": "latest",
+        "react-agiletc-editor": "latest",
+        "react-agiletc-editor-test": "latest",
+        "react-agiletc-minder-editor": "latest",
+        "react-agiletc-minder-editor-fistbump": "latest",
+        "react-agnostic": "latest",
+        "react-ago-component": "latest",
+        "react-agon": "latest",
+        "react-agora": "latest",
+        "react-agrid": "latest",
+        "react-agrouter": "latest",
+        "react-ags-maps": "latest",
+        "react-agthy": "latest",
+        "react-agwate": "latest",
+        "react-agwate-ui": "latest"
+    }
+}

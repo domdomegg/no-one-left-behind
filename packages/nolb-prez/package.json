@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-prez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "prez": "latest",
+        "prez-plugins": "latest",
+        "prez-standard": "latest",
+        "prez-utils": "latest",
+        "prezdown": "latest",
+        "prezentation": "latest",
+        "prezi": "latest",
+        "prezi-godauth": "latest",
+        "prezo": "latest"
+    }
+}

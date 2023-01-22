@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_doz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dozee-studio/react-library-public-button": "latest",
+        "@dozensofus/hwps": "latest",
+        "@dozerg/condition": "latest",
+        "@dozerg/end-of-line": "latest",
+        "@dozerg/find-up": "latest",
+        "@dozerg/merge-options": "latest",
+        "@dozerg/no-new": "latest",
+        "@dozerg/pylon": "latest",
+        "@dozerg/require-module": "latest",
+        "@dozero/test": "latest",
+        "@dozgrou/react-native-toastr": "latest",
+        "@dozoisch/react-scripts": "latest",
+        "@dozy/arre": "latest"
+    }
+}

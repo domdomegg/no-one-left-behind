@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-unik",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "unik": "latest",
+        "unik-id": "latest",
+        "unike-event-store": "latest",
+        "uniki": "latest",
+        "unikit": "latest",
+        "uniklay": "latest",
+        "unikoa": "latest",
+        "unikoa-bootstrap": "latest",
+        "unikoa-react-render": "latest",
+        "unikorn": "latest",
+        "unikorn.db": "latest",
+        "uniktnamn": "latest",
+        "unikum-frontend-toolbox": "latest",
+        "unikylin": "latest"
+    }
+}

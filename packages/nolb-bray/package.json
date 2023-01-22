@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-bray",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bray-curtis": "latest",
+        "braydoncoyer-business-card": "latest",
+        "brayns": "latest",
+        "braytech_react-scripts": "latest",
+        "brayz-things": "latest"
+    }
+}

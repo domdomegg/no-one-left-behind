@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-karp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "karp": "latest",
+        "karp-rabin-search": "latest",
+        "karpackage": "latest",
+        "karpenko_talk_to_hexlet": "latest",
+        "karpov_lev": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_syu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@syu93/create-node-api": "latest",
+        "@syu93/lit-router": "latest",
+        "@syu93/translit": "latest",
+        "@syuancheng/mixer-cli": "latest",
+        "@syuancheng/sycli": "latest",
+        "@syuchan1005/use-shared-transition": "latest",
+        "@syuesw/testa": "latest",
+        "@syuesw/testb": "latest",
+        "@syuesw/testc": "latest",
+        "@syug/eslint-config-syug": "latest",
+        "@syuilo/aiscript": "latest",
+        "@syuilo/custom-electron-titlebar": "latest",
+        "@syukurilexs/expressjs-traffic": "latest",
+        "@syukurilexs/nestjs-config": "latest",
+        "@syukurilexs/nestjs-log": "latest",
+        "@syukurilexs/nestjs-logger": "latest",
+        "@syukurilexs/nestjs-mariadb": "latest",
+        "@syumai/goplayground": "latest",
+        "@syumai/goplayground-node": "latest",
+        "@syumai/react-sidebar-layout": "latest",
+        "@syuminghuang/easyformdata": "latest",
+        "@syusui-s/gmpromisify": "latest",
+        "@syuta-sugawara/lion-lib": "latest"
+    }
+}

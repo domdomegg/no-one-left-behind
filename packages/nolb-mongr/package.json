@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-mongr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mongr": "latest",
+        "mongra": "latest",
+        "mongraph-cli": "latest",
+        "mongrate": "latest",
+        "mongrate-cli": "latest",
+        "mongration": "latest",
+        "mongrations": "latest",
+        "mongrator": "latest",
+        "mongrel": "latest",
+        "mongrel2": "latest",
+        "mongres": "latest",
+        "mongresql": "latest",
+        "mongrest": "latest",
+        "mongresto": "latest",
+        "mongro": "latest",
+        "mongroup": "latest"
+    }
+}

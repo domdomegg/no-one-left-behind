@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-rn-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rn-oauth": "latest",
+        "rn-obfuscating": "latest",
+        "rn-object-store": "latest",
+        "rn-ocr": "latest",
+        "rn-offline-tts": "latest",
+        "rn-ol-utils": "latest",
+        "rn-onboarding": "latest",
+        "rn-onboarding-swiper": "latest",
+        "rn-open-animate": "latest",
+        "rn-open-especifics-settings": "latest",
+        "rn-openapp": "latest",
+        "rn-openconnect": "latest",
+        "rn-openpay": "latest",
+        "rn-openvpn": "latest",
+        "rn-optimized-flatlist": "latest",
+        "rn-option-select": "latest",
+        "rn-orientation-view": "latest",
+        "rn-os": "latest",
+        "rn-os-engine": "latest",
+        "rn-os-ui": "latest",
+        "rn-otp": "latest",
+        "rn-otp-input": "latest",
+        "rn-otp-timer": "latest",
+        "rn-over-lay-changes": "latest",
+        "rn-overlay": "latest",
+        "rn-overlay-view": "latest",
+        "rn-ovis-ui": "latest"
+    }
+}

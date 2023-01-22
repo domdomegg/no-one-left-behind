@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_noden",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nodenv/devutil": "latest",
+        "@nodenv/jetbrains-npm": "latest",
+        "@nodenv/node-build": "latest",
+        "@nodenv/node-build-jxcore": "latest",
+        "@nodenv/node-build-prerelease": "latest",
+        "@nodenv/node-build-update-defs": "latest",
+        "@nodenv/nodenv": "latest",
+        "@nodenv/nodenv-aliases": "latest",
+        "@nodenv/nodenv-default-packages": "latest",
+        "@nodenv/nodenv-each": "latest",
+        "@nodenv/nodenv-env": "latest",
+        "@nodenv/nodenv-installer": "latest",
+        "@nodenv/nodenv-man": "latest",
+        "@nodenv/nodenv-npm-migrate": "latest",
+        "@nodenv/nodenv-package-json-engine": "latest",
+        "@nodenv/nodenv-package-rehash": "latest",
+        "@nodenv/nodenv-update": "latest",
+        "@nodenv/nodenv-vars": "latest"
+    }
+}

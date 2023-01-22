@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-fsx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fsx": "latest",
+        "fsxa-api": "latest",
+        "fsxa-nuxt-module": "latest",
+        "fsxa-pattern-library": "latest",
+        "fsxa-ui": "latest",
+        "fsxero": "latest",
+        "fsximg": "latest",
+        "fsxintsmodules": "latest",
+        "fsxl": "latest",
+        "fsxt": "latest",
+        "fsxtra": "latest",
+        "fsxu": "latest",
+        "fsxx": "latest"
+    }
+}

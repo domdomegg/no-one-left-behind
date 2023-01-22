@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_cloudo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cloudogu/dogu-integration-test-library": "latest",
+        "@cloudogu/react-img-editor": "latest",
+        "@cloudoki/donderflow": "latest",
+        "@cloudonaut/cloudonaut": "latest",
+        "@cloudonaut/javascriptsdk": "latest",
+        "@cloudonix.io/cloudonix-cli": "latest",
+        "@cloudops/generator-cloudmc-plugin": "latest",
+        "@cloudos/auth": "latest",
+        "@cloudos/cfs": "latest",
+        "@cloudos/core": "latest",
+        "@cloudos/flow-ui": "latest",
+        "@cloudos/fs": "latest",
+        "@cloudos/gitee-api": "latest",
+        "@cloudos/gitee-fs": "latest",
+        "@cloudos/ipc": "latest",
+        "@cloudos/lib-starter": "latest",
+        "@cloudos/logic": "latest",
+        "@cloudos/os": "latest",
+        "@cloudos/registry": "latest"
+    }
+}

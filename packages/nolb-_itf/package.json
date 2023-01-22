@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_itf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@itfiers/daisyui": "latest",
+        "@itfin/components": "latest",
+        "@itfin/lib": "latest",
+        "@itfin/rest": "latest",
+        "@itfin/resume-parser": "latest",
+        "@itfin/vue-components": "latest",
+        "@itflex/app-components": "latest",
+        "@itflex/components": "latest",
+        "@itflex/sdk": "latest",
+        "@itflex/validation": "latest",
+        "@itflex/validations": "latest",
+        "@itfobos/ts-optional": "latest"
+    }
+}

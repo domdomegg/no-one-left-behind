@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_sio",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sioked/bloomer": "latest",
+        "@sioked/cra-react-redux-scripts": "latest",
+        "@siomarjr/obfuscator-metro": "latest",
+        "@sioncohen/mymodule": "latest",
+        "@sionna/randomid-generator": "latest",
+        "@siopao2001/lotide": "latest",
+        "@siorbita/sioelement": "latest",
+        "@siorbita/sioproxy": "latest",
+        "@siourdas-vasilis/deploytos3": "latest"
+    }
+}

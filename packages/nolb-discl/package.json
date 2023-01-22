@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-discl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "disclaimers": "latest",
+        "disclevels": "latest",
+        "disclient": "latest",
+        "disclient-cli": "latest",
+        "disclientapi": "latest",
+        "disclord": "latest",
+        "disclose": "latest",
+        "disclose-data": "latest",
+        "disclose.js": "latest",
+        "disclosure": "latest",
+        "disclosure-di": "latest",
+        "disclosure-js": "latest",
+        "discloud": "latest",
+        "discloud-api": "latest",
+        "discloud-cli": "latest",
+        "discloud-status": "latest",
+        "discloud.app": "latest",
+        "discloud_restart": "latest",
+        "disclysia": "latest"
+    }
+}

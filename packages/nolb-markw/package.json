@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-markw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "markw-demo": "latest",
+        "markw-newcli": "latest",
+        "markw-test-cmp": "latest",
+        "markw_info_demo": "latest",
+        "markw_mynewcli": "latest",
+        "markwigg-newcli": "latest",
+        "markwoj-palindrome": "latest",
+        "markwright": "latest",
+        "markwylde-presh": "latest"
+    }
+}

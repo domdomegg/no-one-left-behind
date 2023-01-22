@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-senf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "senf-atomic-design-system": "latest",
+        "senf-atomic-design-system2": "latest",
+        "senfi": "latest",
+        "senfino-gulp-tasks": "latest",
+        "senfluence": "latest"
+    }
+}

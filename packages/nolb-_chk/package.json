@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_chk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chkhanu/bx-panel-helper": "latest",
+        "@chkp/cp-mgmt-api-typescript-sdk": "latest",
+        "@chkp/reserve": "latest",
+        "@chkt/continuity": "latest",
+        "@chkt/eslint-config": "latest",
+        "@chkt/hive": "latest",
+        "@chkt/maybe": "latest",
+        "@chkt/onceupon": "latest",
+        "@chkt/states": "latest"
+    }
+}

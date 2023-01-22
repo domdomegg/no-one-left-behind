@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_neq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@neq1/animate": "latest",
+        "@neq1/columns-generator": "latest",
+        "@neq1/core": "latest",
+        "@neq1/dashboard-generator": "latest",
+        "@neq1/desktop-generator": "latest",
+        "@neq1/dnd": "latest",
+        "@neq1/dynamic-generator": "latest",
+        "@neq1/editors": "latest",
+        "@neq1/geometry": "latest",
+        "@neq1/layout": "latest",
+        "@neq1/local-storage": "latest",
+        "@neq1/menubar-generator": "latest",
+        "@neq1/panel": "latest",
+        "@neq1/path-hook": "latest",
+        "@neq1/rows-generator": "latest",
+        "@neq1/styles": "latest",
+        "@neq1/typestate": "latest"
+    }
+}

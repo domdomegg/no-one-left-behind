@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-react-native-mr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-mraescrypt-lib": "latest",
+        "react-native-mrangers-log": "latest",
+        "react-native-mrc-map": "latest",
+        "react-native-mrt": "latest",
+        "react-native-mrz-library": "latest",
+        "react-native-mrz-my": "latest",
+        "react-native-mrz-reader-ipm": "latest",
+        "react-native-mrz-scanner": "latest",
+        "react-native-mrzscannerlib": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_aleo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aleoceshi/core": "latest",
+        "@aleoceshi/tools": "latest",
+        "@aleodoni-common/common": "latest",
+        "@aleodoni-common/ldap-client": "latest",
+        "@aleodoni-common/result": "latest",
+        "@aleodoni-common/tailwind-components": "latest",
+        "@aleohq/components": "latest",
+        "@aleohq/sdk": "latest",
+        "@aleohq/ui": "latest"
+    }
+}

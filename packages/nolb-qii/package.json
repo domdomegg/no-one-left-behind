@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-qii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qii": "latest",
+        "qiip": "latest",
+        "qiita": "latest",
+        "qiita-analyze": "latest",
+        "qiita-analyzer": "latest",
+        "qiita-cli": "latest",
+        "qiita-coat": "latest",
+        "qiita-export": "latest",
+        "qiita-home": "latest",
+        "qiita-js": "latest",
+        "qiita-js-2": "latest",
+        "qiita-markdown-js-proto": "latest",
+        "qiita-team-to-scrapbox": "latest",
+        "qiita-widget": "latest",
+        "qiita4js": "latest",
+        "qiita_export_all": "latest",
+        "qiitable": "latest",
+        "qiitanage": "latest",
+        "qiitarace": "latest",
+        "qiiu": "latest"
+    }
+}

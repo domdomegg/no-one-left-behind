@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-cra-template-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cra-template-qb-react-template": "latest",
+        "cra-template-qbase": "latest",
+        "cra-template-qbdh": "latest",
+        "cra-template-qjp-typescript": "latest",
+        "cra-template-qlik-enigma": "latest",
+        "cra-template-quality-ts": "latest",
+        "cra-template-quantum-template": "latest",
+        "cra-template-quantum-template-1": "latest",
+        "cra-template-quick": "latest",
+        "cra-template-quick-app": "latest",
+        "cra-template-quickdva": "latest",
+        "cra-template-quickstart": "latest",
+        "cra-template-quickstart-eslint-prettier": "latest",
+        "cra-template-quickstart-redux": "latest",
+        "cra-template-quickstarter": "latest",
+        "cra-template-quickstyles": "latest",
+        "cra-template-quix": "latest",
+        "cra-template-qwe": "latest",
+        "cra-template-qx-dashboard-materialui": "latest"
+    }
+}

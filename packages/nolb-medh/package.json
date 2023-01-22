@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-medh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "medha-frame-print": "latest",
+        "medhistory-api-rest": "latest",
+        "medhub-dicom-web-viewer": "latest",
+        "medhya": "latest"
+    }
+}

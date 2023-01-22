@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_az-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@az-dyno/choose-language": "latest",
+        "@az-dyno/select-language": "latest",
+        "@az-jsnotebook/local-api": "latest",
+        "@az-jsnotebook/local-client": "latest",
+        "@az-tickets/common": "latest",
+        "@az-way.com/dls": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-soe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "soe": "latest",
+        "soe-escpos": "latest",
+        "soe-lib": "latest",
+        "soe-pack": "latest",
+        "soeasy-mysql": "latest",
+        "soeasy-ui": "latest",
+        "soeasy-ui2022": "latest",
+        "soeasy_20190319": "latest",
+        "soeasyabc": "latest",
+        "soederpop-repl": "latest",
+        "soef": "latest",
+        "soehtut-first-lib": "latest",
+        "soeminhtike": "latest",
+        "soemtihng-frame-print": "latest",
+        "soenv": "latest",
+        "soerver": "latest",
+        "soeth": "latest"
+    }
+}

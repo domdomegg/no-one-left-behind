@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_anf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@anfadev/device-info": "latest",
+        "@anfdrltickets/common": "latest",
+        "@anfelos/ticketing_common": "latest",
+        "@anfema/grpc-code-generator": "latest",
+        "@anfentickets/common": "latest",
+        "@anfieldka/project-1-braingames": "latest",
+        "@anfo/create-egg": "latest",
+        "@anfo/db": "latest",
+        "@anfo/decorator-manager": "latest",
+        "@anfo/egg-anfo-validator": "latest",
+        "@anfo/egg-basic": "latest",
+        "@anfo/egg-validator": "latest",
+        "@anfo/koa-decorators": "latest",
+        "@anfo/promisequeue": "latest",
+        "@anfo/scripts": "latest",
+        "@anfo/ui": "latest",
+        "@anfo/validator": "latest"
+    }
+}

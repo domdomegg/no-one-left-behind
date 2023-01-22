@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-react-bs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-bs-components": "latest",
+        "react-bs-datatable": "latest",
+        "react-bs-grid": "latest",
+        "react-bs-music-player": "latest",
+        "react-bs-notifier": "latest",
+        "react-bs-notifier-less": "latest",
+        "react-bs-pagination": "latest",
+        "react-bs-search": "latest",
+        "react-bs-simple-datatable": "latest",
+        "react-bs-table": "latest",
+        "react-bs4-typeahead": "latest",
+        "react-bs4grid": "latest",
+        "react-bscroll": "latest",
+        "react-bsdd-search": "latest",
+        "react-bsod": "latest",
+        "react-bsonschema-form": "latest"
+    }
+}

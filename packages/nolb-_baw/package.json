@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_baw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@baw-ui/common": "latest",
+        "@bawangswap/sdk": "latest",
+        "@bawangswap/uikit": "latest",
+        "@bawer/card": "latest",
+        "@bawer/holidates": "latest",
+        "@bawi/cra-template-atomic": "latest",
+        "@bawi/cra-template-atomic-ts": "latest",
+        "@bawjs/http-client": "latest",
+        "@baws/cdk-monolith": "latest"
+    }
+}

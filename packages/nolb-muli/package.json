@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-muli",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "muli": "latest",
+        "muli1863": "latest",
+        "mulig": "latest",
+        "mulige-cli": "latest",
+        "muliice_eui": "latest",
+        "mulika": "latest",
+        "mulin-default-fonts": "latest",
+        "mulit-article-publisher": "latest",
+        "mulit-npm": "latest",
+        "mulit-pages-app": "latest",
+        "mulitbar-react-graph": "latest",
+        "mulite-transfer": "latest",
+        "mulitpi-table": "latest",
+        "mulitworker": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-usw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "uswds": "latest",
+        "uswds-gulp": "latest",
+        "uswds-vue": "latest",
+        "uswipe": "latest",
+        "uswkden-test1": "latest",
+        "usws": "latest"
+    }
+}

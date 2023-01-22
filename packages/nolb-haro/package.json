@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-haro",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "haro": "latest",
+        "haro-couchbase": "latest",
+        "haro-fs": "latest",
+        "haro-localstorage": "latest",
+        "haro-memcached": "latest",
+        "haro-mongo": "latest",
+        "haro-redis": "latest",
+        "harold": "latest",
+        "harold-lord-of-the-rings-sdk": "latest",
+        "harold-scripts": "latest",
+        "harold1024": "latest",
+        "haroon-prac": "latest",
+        "haroon1": "latest",
+        "haroro-cli": "latest",
+        "haroro-ui": "latest",
+        "harow": "latest"
+    }
+}

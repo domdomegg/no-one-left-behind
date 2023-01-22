@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_gaa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gaainf/codeceptjs": "latest",
+        "@gaainf/node-service": "latest",
+        "@gaalit/lotide": "latest",
+        "@gaap/gp-pos-shared-models": "latest",
+        "@gaap/simple-rx-pouch": "latest",
+        "@gaarutyunov/angularx-flatpickr": "latest",
+        "@gaarutyunov/crypto-pro-fork": "latest",
+        "@gaarutyunov/cypress-testrail-reporter": "latest",
+        "@gaarutyunov/go-npm-fork": "latest",
+        "@gaarutyunov/jest-sonar": "latest",
+        "@gaarutyunov/lucene": "latest",
+        "@gaarutyunov/pwa-asset-generator": "latest",
+        "@gaarutyunov/sync-request": "latest",
+        "@gaarutyunov/sync-rpc": "latest"
+    }
+}

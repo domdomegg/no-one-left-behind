@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-modj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "modjack": "latest",
+        "modjewel": "latest",
+        "modjo": "latest",
+        "modjo-serverless-plugin-common-excludes": "latest",
+        "modjool": "latest",
+        "modjoul-amplify-angular": "latest",
+        "modjs": "latest",
+        "modjulie": "latest",
+        "modjwt": "latest"
+    }
+}

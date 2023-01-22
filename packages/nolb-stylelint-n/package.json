@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-stylelint-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylelint-nesting-depth": "latest",
+        "stylelint-no-browser-hacks": "latest",
+        "stylelint-no-debug": "latest",
+        "stylelint-no-ending-comma-rule": "latest",
+        "stylelint-no-indistinguishable-colors": "latest",
+        "stylelint-no-initial-value": "latest",
+        "stylelint-no-mismatching-component-file": "latest",
+        "stylelint-no-mismatching-module-file": "latest",
+        "stylelint-no-multiple-top-level-components": "latest",
+        "stylelint-no-multiple-top-level-modules": "latest",
+        "stylelint-no-nested-media": "latest",
+        "stylelint-no-px": "latest",
+        "stylelint-no-repeated-nesting": "latest",
+        "stylelint-no-restricted-syntax": "latest",
+        "stylelint-no-undoing-styles": "latest",
+        "stylelint-no-unresolved-module": "latest",
+        "stylelint-no-unsupported-browser-features": "latest",
+        "stylelint-no-unsupported-css-pseudo-selector": "latest",
+        "stylelint-no-unused-selectors": "latest",
+        "stylelint-no-z-index": "latest",
+        "stylelint-non-zero-length-expect-unit": "latest",
+        "stylelint-number-z-index-constraint": "latest"
+    }
+}

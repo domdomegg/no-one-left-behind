@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-sharw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sharwecan-demo": "latest",
+        "sharwecan-multithreadjs": "latest",
+        "sharwecan-node-threads": "latest",
+        "sharwecan-threadpool": "latest"
+    }
+}

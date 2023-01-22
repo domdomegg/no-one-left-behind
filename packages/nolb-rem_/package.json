@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-rem_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rem.js": "latest",
+        "rem.less": "latest",
+        "rem_comp": "latest",
+        "rem_ease": "latest",
+        "rem_fontsize_setter": "latest",
+        "rem_plus": "latest",
+        "rem_qiao_copy": "latest"
+    }
+}

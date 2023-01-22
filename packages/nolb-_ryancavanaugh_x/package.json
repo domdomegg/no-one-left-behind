@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_ryancavanaugh_x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryancavanaugh/x-editable": "latest",
+        "@ryancavanaugh/x2js": "latest",
+        "@ryancavanaugh/xdate": "latest",
+        "@ryancavanaugh/xdomain": "latest",
+        "@ryancavanaugh/xlsx": "latest",
+        "@ryancavanaugh/xml-parser": "latest",
+        "@ryancavanaugh/xml2js": "latest",
+        "@ryancavanaugh/xmlbuilder": "latest",
+        "@ryancavanaugh/xmldom": "latest",
+        "@ryancavanaugh/xmltojson": "latest",
+        "@ryancavanaugh/xpath": "latest",
+        "@ryancavanaugh/xregexp": "latest",
+        "@ryancavanaugh/xrm": "latest",
+        "@ryancavanaugh/xsockets": "latest",
+        "@ryancavanaugh/xss-filters": "latest"
+    }
+}

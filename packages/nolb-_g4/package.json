@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_g4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@g42cloud/g42cloud-sdk-cce": "latest",
+        "@g42cloud/g42cloud-sdk-cse": "latest",
+        "@g42cloud/g42cloud-sdk-ecs": "latest",
+        "@g42cloud/g42cloud-sdk-elb": "latest",
+        "@g42cloud/g42cloud-sdk-evs": "latest",
+        "@g42cloud/g42cloud-sdk-ims": "latest",
+        "@g42cloud/g42cloud-sdk-smn": "latest",
+        "@g42cloud/g42cloud-sdk-vpc": "latest",
+        "@g43/common": "latest",
+        "@g43/ecs": "latest",
+        "@g43/input": "latest",
+        "@g43/menu": "latest",
+        "@g43/table": "latest",
+        "@g497/jira-ci": "latest",
+        "@g497/mp-ci": "latest",
+        "@g4br13l/basic-auth": "latest",
+        "@g4br13l/express-api-generator": "latest",
+        "@g4g/appsync-aurora-postgres": "latest",
+        "@g4g/eth-gas-reporter": "latest",
+        "@g4iz/eslint-rules": "latest",
+        "@g4iz/webpack-set-core": "latest",
+        "@g4rcez/httpsnippet": "latest",
+        "@g4rcez/prism-react-renderer": "latest"
+    }
+}

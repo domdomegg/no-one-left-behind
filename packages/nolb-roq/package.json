@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-roq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "roq": "latest",
+        "roq-ui-components-storybook-addon": "latest",
+        "roqay-react-native-common-components": "latest",
+        "roqet": "latest",
+        "roql": "latest",
+        "roqqupay-nodejs": "latest",
+        "roqua-chrome-headless-render-pdf": "latest",
+        "roque-nagios": "latest",
+        "roqueform": "latest",
+        "roquetto": "latest"
+    }
+}

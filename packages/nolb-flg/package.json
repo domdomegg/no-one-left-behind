@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-flg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "flg": "latest",
+        "flg-webcomponents-test": "latest",
+        "flgd-models": "latest",
+        "flgd-shared": "latest",
+        "flgd-ui-kit": "latest",
+        "flgen": "latest",
+        "flgs": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-booz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "boozang": "latest",
+        "booze": "latest",
+        "boozey": "latest",
+        "boozjs-requestx": "latest",
+        "boozjs-vue2x": "latest"
+    }
+}

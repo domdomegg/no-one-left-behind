@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-builda",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "builda": "latest",
+        "buildable": "latest",
+        "buildabot": "latest",
+        "buildaditi": "latest",
+        "buildandreleasetask": "latest",
+        "buildapi": "latest"
+    }
+}

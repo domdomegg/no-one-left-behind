@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-rands",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "randString": "latest",
+        "randString.js": "latest",
+        "rands": "latest",
+        "rands-codes": "latest",
+        "randsamp": "latest",
+        "randshortid": "latest",
+        "randsosms-msgs": "latest",
+        "randstr": "latest",
+        "randstream": "latest",
+        "randstring": "latest",
+        "randstringfadil": "latest",
+        "randsum": "latest"
+    }
+}

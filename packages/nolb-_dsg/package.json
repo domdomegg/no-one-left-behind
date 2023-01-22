@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_dsg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dsgittix/common": "latest",
+        "@dsgn-sys/editor-elements": "latest",
+        "@dsgn-sys/editor-elements-corvid-utils": "latest",
+        "@dsgn-sys/editor-elements-design-systems": "latest",
+        "@dsgn.tw/vue-scroll-trigger": "latest",
+        "@dsgnsys/editor-elements": "latest",
+        "@dsgnsys/editor-elements-corvid-utils": "latest",
+        "@dsgnsys/editor-elements-design-systems": "latest"
+    }
+}

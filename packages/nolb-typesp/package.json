@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-typesp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typespace": "latest",
+        "typespec-bdd": "latest",
+        "typespeed": "latest",
+        "typespess": "latest",
+        "typespess-client": "latest",
+        "typesplit": "latest",
+        "typespring": "latest",
+        "typespy": "latest"
+    }
+}

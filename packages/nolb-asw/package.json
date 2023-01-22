@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-asw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "asw": "latest",
+        "asw-billplz": "latest",
+        "asw-cli": "latest",
+        "asw-drag-resize": "latest",
+        "asw-form-builder": "latest",
+        "asw-indexdb": "latest",
+        "asw-logger": "latest",
+        "asw-vue-colorpicker": "latest",
+        "asw_baseapi2": "latest",
+        "asw_basepkg": "latest",
+        "aswap-core": "latest",
+        "aswap-sdk": "latest",
+        "aswbxml": "latest",
+        "aswc": "latest",
+        "asweb-button": "latest",
+        "asweb-input": "latest",
+        "asweb-shortener": "latest",
+        "asweiren-component": "latest",
+        "aswh": "latest",
+        "aswin-dev-test-npm": "latest",
+        "asws": "latest"
+    }
+}

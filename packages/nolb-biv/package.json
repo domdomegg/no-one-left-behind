@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-biv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "biv": "latest",
+        "biv-address-validator": "latest",
+        "bivariate": "latest",
+        "bivcore": "latest",
+        "bivcore-build": "latest",
+        "bivcore-insight": "latest",
+        "bivcore-mnemonic": "latest",
+        "bivcore-node": "latest",
+        "bivcore-test": "latest",
+        "bivcore-wallet-client": "latest",
+        "bivcore-wallet-service": "latest",
+        "bive": "latest",
+        "bivio": "latest",
+        "bivouac": "latest",
+        "bivrost": "latest",
+        "bivrost-axios-adapter": "latest",
+        "bivrost-delay-adapter": "latest",
+        "bivrost-fetch-adapter": "latest",
+        "bivrost-localstorage-adapter": "latest",
+        "bivrost-save-blob-adapter": "latest"
+    }
+}

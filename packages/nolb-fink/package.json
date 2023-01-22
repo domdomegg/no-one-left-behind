@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-fink",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fink": "latest",
+        "fink-api": "latest",
+        "fink-composant": "latest",
+        "fink-composant-koios": "latest",
+        "fink-is-uri": "latest",
+        "fink-is-valid-uri": "latest",
+        "fink-level": "latest",
+        "fink-loader": "latest",
+        "fink-shortener": "latest",
+        "fink-www": "latest",
+        "finka": "latest",
+        "finkel": "latest",
+        "finki-ui": "latest"
+    }
+}

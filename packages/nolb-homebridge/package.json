@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-homebridge",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "homebridge": "latest",
+        "@zalastax/nolb-homebridge-": "latest",
+        "@zalastax/nolb-homebridge4": "latest",
+        "@zalastax/nolb-homebridge_": "latest",
+        "@zalastax/nolb-homebridgeh": "latest",
+        "@zalastax/nolb-homebridger": "latest",
+        "@zalastax/nolb-homebridges": "latest"
+    }
+}

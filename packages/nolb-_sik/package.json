@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_sik",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sika7/mechanical-css-sdk": "latest",
+        "@sika7/postcss-whitelist-sanitize": "latest",
+        "@sika7/sanitize-html": "latest",
+        "@sika7/silver-html": "latest",
+        "@sika7/silver-html-plugin-sanitize": "latest",
+        "@sikalabs-demo/slu": "latest",
+        "@sikalabs/slu": "latest",
+        "@sikessem/package": "latest",
+        "@sikessem/static": "latest",
+        "@siketyan/matter-js": "latest",
+        "@sikka/hajar": "latest",
+        "@sikka/hawa": "latest",
+        "@sikka/loah": "latest",
+        "@sikka/namat": "latest",
+        "@sikka/package-test": "latest",
+        "@sikka/tawila": "latest",
+        "@sikka/vcardi": "latest",
+        "@sikkum/vahti": "latest",
+        "@sikokimo/starwars-names": "latest",
+        "@sikora00/nestjs": "latest",
+        "@sikora00/nestjs-slack-bot": "latest",
+        "@sikora00/rxjs-overlay": "latest"
+    }
+}

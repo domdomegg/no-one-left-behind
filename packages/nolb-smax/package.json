@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-smax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smax_mig_tool_auto": "latest",
+        "smaxapp": "latest",
+        "smaxtec-react-native-queue": "latest",
+        "smaxxy": "latest"
+    }
+}

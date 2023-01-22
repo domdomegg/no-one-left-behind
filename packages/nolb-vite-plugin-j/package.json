@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-vite-plugin-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vite-plugin-javascript-obfuscator": "latest",
+        "vite-plugin-jest": "latest",
+        "vite-plugin-js-imports": "latest",
+        "vite-plugin-jspm": "latest",
+        "vite-plugin-jsx": "latest",
+        "vite-plugin-jsx-inject": "latest",
+        "vite-plugin-jsx-plus": "latest",
+        "vite-plugin-jsx-sfc": "latest",
+        "vite-plugin-jsx-vue2": "latest",
+        "vite-plugin-jue": "latest"
+    }
+}

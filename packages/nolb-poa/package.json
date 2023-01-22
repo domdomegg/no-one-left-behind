@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-poa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "poa": "latest",
+        "poa-adapter": "latest",
+        "poa-connection": "latest",
+        "poa-dapps-voting": "latest",
+        "poa-my-storybook-components": "latest",
+        "poada": "latest",
+        "poale-demo-pkg": "latest",
+        "poaleell": "latest",
+        "poanmi-weather": "latest",
+        "poap-signer": "latest",
+        "poapi": "latest",
+        "poapply": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-thd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "thd": "latest",
+        "thd-customer": "latest",
+        "thd-gatsby-plugin-mkdir": "latest",
+        "thd-gatsby-plugin-proxy-directives": "latest",
+        "thd-gatsby-plugin-proxy-schema": "latest",
+        "thd-gatsby-plugin-utility-directives": "latest",
+        "thd-plngins": "latest",
+        "thd-plugin": "latest",
+        "thd-yql-tables": "latest",
+        "thdatatable": "latest",
+        "thdcli": "latest",
+        "thddashboard": "latest",
+        "thdlocations": "latest",
+        "thdrrdrizztssd": "latest",
+        "thds-ui": "latest"
+    }
+}

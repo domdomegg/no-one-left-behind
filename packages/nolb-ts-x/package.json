@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-ts-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ts-x-file": "latest",
+        "ts-x-unit": "latest",
+        "ts-xbee-api": "latest",
+        "ts-xlog-demo": "latest",
+        "ts-xlsx": "latest",
+        "ts-xlsx-export": "latest",
+        "ts-xor": "latest",
+        "ts-xors": "latest",
+        "ts-xpath": "latest",
+        "ts-xsltproc": "latest",
+        "ts-xxhash": "latest"
+    }
+}

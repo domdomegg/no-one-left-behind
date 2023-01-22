@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_hux",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hux-js/cli": "latest",
+        "@hux-js/hux": "latest",
+        "@hux-js/profiler": "latest",
+        "@huxin957/react-native-modal": "latest",
+        "@huxin957/react-native-portal": "latest",
+        "@huxin957/react-native-toast": "latest",
+        "@huxintoken/react-native-test1": "latest",
+        "@huxy/components": "latest",
+        "@huxy/copy-file-webpack-plugin": "latest",
+        "@huxy/layout": "latest",
+        "@huxy/materials": "latest",
+        "@huxy/open-browser-webpack-plugin": "latest",
+        "@huxy/router": "latest",
+        "@huxy/router4zbx": "latest",
+        "@huxy/styles": "latest",
+        "@huxy/use": "latest",
+        "@huxy/utils": "latest",
+        "@huxy/vue-router": "latest",
+        "@huxy/vue-use": "latest"
+    }
+}

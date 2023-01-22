@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-grr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grr": "latest",
+        "grr-avail": "latest",
+        "grr-math": "latest",
+        "grr_test01": "latest",
+        "grraf": "latest",
+        "grrr": "latest",
+        "grrr-gulpfile": "latest"
+    }
+}

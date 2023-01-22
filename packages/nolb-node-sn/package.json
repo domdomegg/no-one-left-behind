@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-node-sn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-snackbar": "latest",
+        "node-snake-cli": "latest",
+        "node-snakegame": "latest",
+        "node-snap-ci": "latest",
+        "node-snap7": "latest",
+        "node-snap7-micro-client": "latest",
+        "node-snapchat": "latest",
+        "node-snapchat-marketing": "latest",
+        "node-snapd": "latest",
+        "node-snappy": "latest",
+        "node-snappy-linux": "latest",
+        "node-snappy-mac": "latest",
+        "node-snappy-src": "latest",
+        "node-snappy-window": "latest",
+        "node-snapshot": "latest",
+        "node-snarl": "latest",
+        "node-snippet": "latest",
+        "node-snitch": "latest",
+        "node-snmp-server": "latest",
+        "node-snowball": "latest",
+        "node-snowflake": "latest",
+        "node-snowflake-id": "latest",
+        "node-snowflake.js": "latest",
+        "node-snowman": "latest",
+        "node-snowmix": "latest",
+        "node-sns": "latest"
+    }
+}

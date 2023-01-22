@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-hya",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hya": "latest",
+        "hyachin-ui": "latest",
+        "hyacinth": "latest",
+        "hyakkiyako": "latest",
+        "hyalinehash": "latest",
+        "hyamamoto-job-toolbox": "latest",
+        "hyan": "latest",
+        "hyaocuk-module": "latest",
+        "hyapp-cli": "latest",
+        "hyapp-sourcemap": "latest",
+        "hyapp-template": "latest",
+        "hyapp-ui": "latest",
+        "hyapp-utils": "latest",
+        "hyarobot-cli": "latest",
+        "hyatt": "latest",
+        "hyatt-extensions": "latest",
+        "hyatt-mumbai": "latest"
+    }
+}

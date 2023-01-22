@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_alet",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aletheia-data/strapi-provider-upload-nft-storage": "latest",
+        "@aletheia-data/strapi-provider-upload-web3-storage": "latest",
+        "@aletheiaatheos/react-router-navigation-core": "latest",
+        "@alethio-legacy/explorer-plugin-eth-ibft": "latest",
+        "@alethio/cms": "latest",
+        "@alethio/cms-plugin-api": "latest",
+        "@alethio/cms-plugin-tool": "latest",
+        "@alethio/explorer-plugin-3box": "latest",
+        "@alethio/explorer-plugin-eth-common": "latest",
+        "@alethio/explorer-plugin-eth-extended": "latest",
+        "@alethio/explorer-plugin-eth-ibft2": "latest",
+        "@alethio/explorer-plugin-eth-lite": "latest",
+        "@alethio/explorer-plugin-eth-memento": "latest",
+        "@alethio/explorer-plugin-mythx": "latest",
+        "@alethio/explorer-plugin-opensea": "latest",
+        "@alethio/explorer-ui": "latest",
+        "@alethio/ui": "latest",
+        "@aletriram/utils": "latest"
+    }
+}

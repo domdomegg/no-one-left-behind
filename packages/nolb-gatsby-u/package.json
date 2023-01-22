@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-gatsby-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gatsby-ui": "latest",
+        "gatsby-ui-components": "latest",
+        "gatsby-universal-link": "latest",
+        "gatsby-unsplash": "latest",
+        "gatsby-update": "latest",
+        "gatsby-use-sitemetadata": "latest",
+        "gatsby-util-fragments-extractor": "latest",
+        "gatsby-utils": "latest"
+    }
+}

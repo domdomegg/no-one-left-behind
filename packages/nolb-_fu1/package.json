@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_fu1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fu1996/color-replace-loader": "latest",
+        "@fu1996/i18n-translate-tool": "latest",
+        "@fu1996/kiwi-clis": "latest",
+        "@fu1996/osc-cli": "latest",
+        "@fu1996/resolver-mode-plugin": "latest",
+        "@fu1996/var-color-replace-loader": "latest",
+        "@fu1996/webapck-resolver-mode-plugin": "latest",
+        "@fu1996/webpack-find-packaged-plugin": "latest",
+        "@fu1996/webpack-used-files-plugin": "latest"
+    }
+}

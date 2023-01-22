@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_js8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@js8path/annotated-error": "latest",
+        "@js8path/js8path-data": "latest",
+        "@js8path/js8path-pskreporter": "latest",
+        "@js8path/js8path-route": "latest",
+        "@js8path/js8path-test-data": "latest",
+        "@js8path/js8path-vue": "latest"
+    }
+}

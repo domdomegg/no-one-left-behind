@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_vueu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vueui/checkbox": "latest",
+        "@vueup/vue-quill": "latest",
+        "@vueuse/components": "latest",
+        "@vueuse/core": "latest",
+        "@vueuse/electron": "latest",
+        "@vueuse/firebase": "latest",
+        "@vueuse/gesture": "latest",
+        "@vueuse/head": "latest",
+        "@vueuse/i18n": "latest",
+        "@vueuse/integrations": "latest",
+        "@vueuse/math": "latest",
+        "@vueuse/metadata": "latest",
+        "@vueuse/motion": "latest",
+        "@vueuse/nuxt": "latest",
+        "@vueuse/router": "latest",
+        "@vueuse/rxjs": "latest",
+        "@vueuse/schema-org": "latest",
+        "@vueuse/schema-org-integrations": "latest",
+        "@vueuse/schema-org-vite": "latest",
+        "@vueuse/shared": "latest",
+        "@vueuse/sound": "latest",
+        "@vueux/service": "latest"
+    }
+}

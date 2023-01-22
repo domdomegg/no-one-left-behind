@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_cia",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cia/secrets": "latest",
+        "@ciacredito/cia-apis-interface": "latest",
+        "@ciag/colorful": "latest",
+        "@ciag/commons": "latest",
+        "@ciag/component-factory": "latest",
+        "@ciag/file-sync": "latest",
+        "@ciag/latlong-by-map": "latest",
+        "@ciag/leaflet-map": "latest",
+        "@ciag/ngx-leaflet-draw-injector": "latest",
+        "@ciag/ngx-pinch-zoom": "latest",
+        "@ciag/paginator": "latest",
+        "@ciag/qrcode-input": "latest",
+        "@ciag/questao-multimidia": "latest",
+        "@ciag/questao-planilha-creator": "latest",
+        "@ciag/sentinel-hub": "latest",
+        "@cianciarusocataldo/demo-ui": "latest",
+        "@cianciarusocataldo/modular": "latest",
+        "@cianciarusocataldo/modular-engine": "latest",
+        "@cianciarusocataldo/modular-ui": "latest",
+        "@ciar4n/izmir": "latest",
+        "@ciaranrdnr/my-ds": "latest"
+    }
+}

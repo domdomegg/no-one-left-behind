@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_vur",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vuraljs/datafactory": "latest",
+        "@vuraljs/eris": "latest",
+        "@vuraljs/logger": "latest",
+        "@vuraljs/vural-core": "latest",
+        "@vurian/wizard": "latest",
+        "@vurtne0511/angular-library-name": "latest",
+        "@vurtnec/azure-database": "latest"
+    }
+}

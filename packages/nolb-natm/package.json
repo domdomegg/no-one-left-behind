@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-natm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "natmakur": "latest",
+        "natman": "latest",
+        "natman-api": "latest",
+        "natman-api-udp": "latest",
+        "natml": "latest",
+        "natmlx": "latest"
+    }
+}

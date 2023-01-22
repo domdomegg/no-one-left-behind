@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-compoe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "compoennt-test": "latest",
+        "compoent-npm": "latest",
+        "compoent-vue3-uiapp": "latest"
+    }
+}

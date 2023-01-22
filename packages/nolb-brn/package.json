@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-brn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brn": "latest",
+        "brn-cli": "latest",
+        "brn-product-card": "latest",
+        "brn-storybook-test-component": "latest",
+        "brnfckr": "latest",
+        "brng": "latest",
+        "brni-library": "latest",
+        "brnshuaige": "latest",
+        "brnstn": "latest",
+        "brnvi": "latest"
+    }
+}

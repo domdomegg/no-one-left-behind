@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-zos",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zos": "latest",
+        "zos-cli": "latest",
+        "zos-core": "latest",
+        "zos-ecc-js": "latest",
+        "zos-kernel": "latest",
+        "zos-lib": "latest",
+        "zos-linkedlist": "latest",
+        "zos-node-accessor": "latest",
+        "zos-safemath": "latest",
+        "zos-ssh-sftp": "latest",
+        "zos-truffle-merge": "latest",
+        "zos-upgradeability": "latest",
+        "zos-utils": "latest",
+        "zos-vouching": "latest",
+        "zos-wallet-js": "latest",
+        "zos_hello_world": "latest",
+        "zoschainlinked": "latest",
+        "zosconnect-node": "latest",
+        "zoservices": "latest",
+        "zosia-experiments-w-npm-publish-git-tag": "latest",
+        "zosjobs": "latest",
+        "zosjs": "latest",
+        "zosjs-ws": "latest",
+        "zosntewxubykrgfh": "latest",
+        "zospeum": "latest",
+        "zoster": "latest",
+        "zostest": "latest"
+    }
+}

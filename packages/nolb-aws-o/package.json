@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-aws-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aws-offer-index": "latest",
+        "aws-one-param-env": "latest",
+        "aws-op": "latest",
+        "aws-openapi-ui": "latest",
+        "aws-opensearch": "latest",
+        "aws-opensearch-connection": "latest",
+        "aws-opensearch-connector": "latest",
+        "aws-orchestrate": "latest",
+        "aws-org-graph": "latest",
+        "aws-organization-formation": "latest",
+        "aws-organization-formation-client": "latest",
+        "aws-os-connection": "latest"
+    }
+}

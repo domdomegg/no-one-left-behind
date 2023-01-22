@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-asx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "asx": "latest",
+        "asx-abm": "latest",
+        "asx-api": "latest",
+        "asx-cli": "latest",
+        "asx-data": "latest",
+        "asx-in-modules": "latest",
+        "asx-parser": "latest",
+        "asx-rjsf-material-ui": "latest",
+        "asx-stocks": "latest",
+        "asxticker": "latest",
+        "asxwer-sxs": "latest"
+    }
+}

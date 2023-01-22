@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-icb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "icb-cli": "latest",
+        "icb-lib-dashboards": "latest",
+        "icb-micro": "latest",
+        "icbc-open": "latest",
+        "icbc-plugin": "latest",
+        "icbcm-iview": "latest",
+        "icbcnpmadmin": "latest",
+        "icbint": "latest",
+        "icblue-cordova": "latest",
+        "icbm": "latest",
+        "icbon": "latest",
+        "icbp": "latest",
+        "icbps": "latest",
+        "icbsc": "latest",
+        "icbsc-dev": "latest",
+        "icbsc-fetch-dev.js": "latest",
+        "icbsc-fetch.js": "latest",
+        "icbsc-test": "latest",
+        "icbsc-text-encoding.js": "latest",
+        "icbsc.js": "latest"
+    }
+}

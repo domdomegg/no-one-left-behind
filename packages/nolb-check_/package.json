@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-check_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "check_996": "latest",
+        "check_api": "latest",
+        "check_checksum": "latest",
+        "check_couchdb": "latest",
+        "check_date_nodered": "latest",
+        "check_header": "latest",
+        "check_homematic": "latest",
+        "check_http_json_performance": "latest",
+        "check_is_chinese_ip": "latest",
+        "check_it_works": "latest",
+        "check_link_works": "latest",
+        "check_merge_conflict_cli": "latest",
+        "check_module": "latest",
+        "check_nextcloud": "latest",
+        "check_node": "latest",
+        "check_node_pm2": "latest",
+        "check_numbers_package": "latest",
+        "check_odd_number_amar": "latest",
+        "check_palindrome_name_or_word": "latest",
+        "check_parameters": "latest",
+        "check_pm2": "latest",
+        "check_prime_module": "latest",
+        "check_random_panhong": "latest",
+        "check_speedport": "latest",
+        "check_submodules": "latest",
+        "check_upper_case_string_start": "latest"
+    }
+}

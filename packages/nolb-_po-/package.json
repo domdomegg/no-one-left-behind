@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_po-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@po-ds/android-tokens-poc": "latest",
+        "@po-ds/css-tokens-poc": "latest",
+        "@po-ds/fluig-brand": "latest",
+        "@po-ds/fluig-tokens-poc": "latest",
+        "@po-ds/ios-swift-tokens-poc": "latest",
+        "@po-ds/ios-tokens-poc": "latest",
+        "@po-ds/po-ui-brand": "latest",
+        "@po-ds/po-ui-tokens-poc": "latest",
+        "@po-ds/scss-tokens-poc": "latest",
+        "@po-jen/bread-crumb": "latest",
+        "@po-to/potato": "latest",
+        "@po-to/potato-node": "latest",
+        "@po-to/poto-cache": "latest",
+        "@po-to/pt-cache": "latest",
+        "@po-to/tomato": "latest",
+        "@po-to/tomato-jquery": "latest",
+        "@po-ui/ng-code-editor": "latest",
+        "@po-ui/ng-components": "latest",
+        "@po-ui/ng-schematics": "latest",
+        "@po-ui/ng-storage": "latest",
+        "@po-ui/ng-sync": "latest",
+        "@po-ui/ng-templates": "latest",
+        "@po-ui/ng-tslint": "latest",
+        "@po-ui/style": "latest",
+        "@po-ui/theme-cli": "latest"
+    }
+}

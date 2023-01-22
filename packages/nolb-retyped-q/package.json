@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-retyped-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "retyped-q-io-tsd-ambient": "latest",
+        "retyped-q-retry-tsd-ambient": "latest",
+        "retyped-q-tsd-ambient": "latest",
+        "retyped-qajax-tsd-ambient": "latest",
+        "retyped-qs-tsd-ambient": "latest",
+        "retyped-qtip2-tsd-ambient": "latest",
+        "retyped-query-string-tsd-ambient": "latest",
+        "retyped-quill-tsd-ambient": "latest",
+        "retyped-quixote-tsd-ambient": "latest",
+        "retyped-qunit-tsd-ambient": "latest",
+        "retyped-qwest-tsd-ambient": "latest"
+    }
+}

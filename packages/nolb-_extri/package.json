@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_extri",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@extrimian/core": "latest",
+        "@extrimian/did-core": "latest",
+        "@extrimian/did-registry": "latest",
+        "@extrimian/did-resolver": "latest",
+        "@extrimian/dwn-client": "latest",
+        "@extrimian/dwn-client-scheduler": "latest",
+        "@extrimian/identity-wallet": "latest",
+        "@extrimian/kms-client": "latest",
+        "@extrimian/kms-core": "latest",
+        "@extrimian/kms-suite-bbsbls2020": "latest",
+        "@extrimian/kms-suite-didcomm": "latest",
+        "@extrimian/kms-suite-didcomm-v2": "latest",
+        "@extrimian/kms-suite-es256k": "latest",
+        "@extrimian/kms-suite-jsonld": "latest",
+        "@extrimian/kms-suite-rsa-signature-2018": "latest",
+        "@extrimian/modena-sdk": "latest",
+        "@extrimian/vc-core": "latest",
+        "@extrimian/vc-verifier": "latest",
+        "@extrimian/waci": "latest",
+        "@extrinsec/appguard": "latest"
+    }
+}

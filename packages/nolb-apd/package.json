@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-apd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "apd": "latest",
+        "apd-plugins": "latest",
+        "apd-renderer": "latest",
+        "apd-vue-plugins": "latest",
+        "apdb": "latest",
+        "apds-gesture": "latest",
+        "apdsdfsof": "latest",
+        "apdu": "latest"
+    }
+}

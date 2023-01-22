@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-vue-sq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-sql-builder": "latest",
+        "vue-sql-editor": "latest",
+        "vue-sql-query-builder": "latest",
+        "vue-sqlite": "latest",
+        "vue-sqlite-hook": "latest",
+        "vue-squadpay": "latest",
+        "vue-square": "latest",
+        "vue-square-by-parent": "latest",
+        "vue-square-input": "latest",
+        "vue-squarepay": "latest",
+        "vue-squircle": "latest"
+    }
+}

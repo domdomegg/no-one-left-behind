@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-html-2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "html-2-ast-2-html": "latest",
+        "html-2-canvas": "latest",
+        "html-2-fragments-collection": "latest",
+        "html-2-jira-markup": "latest",
+        "html-2-jsx": "latest",
+        "html-2-react": "latest",
+        "html-22-md": "latest"
+    }
+}

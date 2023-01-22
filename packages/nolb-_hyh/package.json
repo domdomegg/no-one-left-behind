@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_hyh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyhan-cli/core": "latest",
+        "@hyhan-cli/utils": "latest",
+        "@hyhan/emitter": "latest",
+        "@hyhan/eslint-config": "latest",
+        "@hyhan/eslint-config-basic": "latest",
+        "@hyhan/eslint-config-react": "latest",
+        "@hyhan/eslint-config-ts": "latest",
+        "@hyhan/eslint-config-vue": "latest",
+        "@hyhdev/common": "latest",
+        "@hyhello/geo-cli": "latest",
+        "@hyhello/utils": "latest",
+        "@hyhello/vue-ball": "latest",
+        "@hyhello/vue-cron": "latest",
+        "@hyhello/vue-fullscreen": "latest",
+        "@hyhoang/dropbox": "latest"
+    }
+}

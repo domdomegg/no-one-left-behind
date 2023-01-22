@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_chax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chax-at/amazon-chime-sdk-js": "latest",
+        "@chax-at/better-npm-audit": "latest",
+        "@chax-at/eslint-config": "latest",
+        "@chax-at/gelf-client": "latest",
+        "@chax-at/log-sink": "latest",
+        "@chax-at/prisma-filter": "latest",
+        "@chax-at/prisma-filter-common": "latest",
+        "@chax-at/transactional-prisma-testing": "latest"
+    }
+}

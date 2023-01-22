@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-vix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vix": "latest",
+        "vix-api": "latest",
+        "vix-boilerplate": "latest",
+        "vix-ui": "latest",
+        "vix-vdom": "latest",
+        "vixay-api": "latest",
+        "vixel": "latest",
+        "vixen": "latest",
+        "vixi": "latest",
+        "vixie": "latest",
+        "vixinet": "latest",
+        "vixisoft": "latest",
+        "vixlet-sqs-queue": "latest",
+        "vixo.js": "latest",
+        "vixonic": "latest",
+        "vixonic-facebook-timeline": "latest",
+        "vixonic-module-packager": "latest",
+        "vixonic-twitter-simple": "latest",
+        "vixonic-weather-360": "latest",
+        "vixonic-weather-360-simple": "latest",
+        "vixxxenvintage": "latest"
+    }
+}

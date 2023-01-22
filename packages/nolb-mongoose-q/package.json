@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-mongoose-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mongoose-q": "latest",
+        "mongoose-quaderno": "latest",
+        "mongoose-quadtree": "latest",
+        "mongoose-querier": "latest",
+        "mongoose-query": "latest",
+        "mongoose-query-cg": "latest",
+        "mongoose-query-counter": "latest",
+        "mongoose-query-express": "latest",
+        "mongoose-query-logger": "latest",
+        "mongoose-query-paginate": "latest",
+        "mongoose-query-paginate-q": "latest",
+        "mongoose-query-parser": "latest",
+        "mongoose-query-parser-ng": "latest",
+        "mongoose-query-random": "latest",
+        "mongoose-querybuilder": "latest",
+        "mongoose-queryhelper": "latest",
+        "mongoose-querystream-worker": "latest",
+        "mongoose-queue": "latest",
+        "mongoose-queue-fast": "latest"
+    }
+}

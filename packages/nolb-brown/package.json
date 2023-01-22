@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-brown",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brown": "latest",
+        "brown-cli": "latest",
+        "brown-express": "latest",
+        "brown-ext-basic": "latest",
+        "brown-forsythe-test": "latest",
+        "brown-fox-research": "latest",
+        "brown-http": "latest",
+        "brown-noise-node": "latest",
+        "brown-oak-package": "latest",
+        "brown-pencil": "latest",
+        "brown-test-20170221": "latest",
+        "brown-ui": "latest",
+        "brown-vite-plugin-cesium": "latest",
+        "browndash-components": "latest",
+        "brownfish-continuity": "latest",
+        "brownfish-video-marker": "latest",
+        "brownfox": "latest",
+        "brownie": "latest",
+        "brownie-blox": "latest",
+        "brownie-knex-postgres": "latest",
+        "brownie-runtime": "latest",
+        "brownie-search": "latest",
+        "brownies": "latest",
+        "browniu-cli": "latest",
+        "brownout-push": "latest",
+        "brownsugar": "latest",
+        "brownturtle": "latest"
+    }
+}

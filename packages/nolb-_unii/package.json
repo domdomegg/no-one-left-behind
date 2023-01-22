@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_unii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@uniin-cli/command": "latest",
+        "@uniin-cli/core": "latest",
+        "@uniin-cli/exec": "latest",
+        "@uniin-cli/format-path": "latest",
+        "@uniin-cli/get-npm-info": "latest",
+        "@uniin-cli/git": "latest",
+        "@uniin-cli/init": "latest",
+        "@uniin-cli/log": "latest",
+        "@uniin-cli/package": "latest",
+        "@uniin-cli/publish": "latest",
+        "@uniin-cli/request": "latest",
+        "@uniin-cli/utils": "latest",
+        "@uniiverse/library": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-glb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "glb": "latest",
+        "glb-a": "latest",
+        "glb-b": "latest",
+        "glb-c": "latest",
+        "glb-capacitor-alipay": "latest",
+        "glb-components": "latest",
+        "glb-d": "latest",
+        "glb-e": "latest",
+        "glb-overlay": "latest",
+        "glb-reader-writer-ts": "latest",
+        "glb.js": "latest",
+        "glbc-healthcheck-koa": "latest",
+        "glbim": "latest",
+        "glbl": "latest",
+        "glbl-npm": "latest",
+        "glbutils": "latest"
+    }
+}

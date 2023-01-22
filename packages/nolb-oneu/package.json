@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-oneu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "oneui": "latest",
+        "oneui-arul-test-wb-ce": "latest",
+        "oneui-component-library": "latest",
+        "oneui-core-style": "latest",
+        "oneui-doc": "latest",
+        "oneui-footer": "latest",
+        "oneui-header": "latest",
+        "oneui-icons": "latest",
+        "oneui-loader": "latest",
+        "oneui-widget": "latest",
+        "oneui-widget2": "latest",
+        "oneui-xbox": "latest",
+        "oneup-base": "latest",
+        "oneuptime": "latest",
+        "oneuptime-acme-http-01": "latest",
+        "oneuptime-acme-http-01-staging": "latest",
+        "oneuptime-gl-manager": "latest",
+        "oneuptime-gl-manager-staging": "latest",
+        "oneuptime-le-store": "latest",
+        "oneuptime-le-store-staging": "latest",
+        "oneuptime-staging": "latest",
+        "oneus": "latest",
+        "oneutil": "latest"
+    }
+}

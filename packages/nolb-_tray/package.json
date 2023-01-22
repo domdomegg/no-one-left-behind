@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_tray",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tray-cms/base": "latest",
+        "@tray-tecnologia/opencode-sdk": "latest",
+        "@tray-tecnologia/tray-cli": "latest",
+        "@trayio/builder-squad-event-emitter": "latest",
+        "@trayio/cli": "latest",
+        "@trayio/connector-utils": "latest",
+        "@trayio/falafel": "latest",
+        "@trayio/needle": "latest",
+        "@trayio/threadneedle": "latest",
+        "@trayl-app/bamba": "latest"
+    }
+}

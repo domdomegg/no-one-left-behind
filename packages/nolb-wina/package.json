@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-wina",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wina-wilma": "latest",
+        "winalertjs": "latest",
+        "winamp-eqf": "latest",
+        "winamp2-js": "latest",
+        "winaowl__525w": "latest",
+        "winapi": "latest",
+        "winapi-js": "latest",
+        "winappdriver": "latest",
+        "winappdriver-controller": "latest",
+        "winattr": "latest",
+        "winax": "latest",
+        "winax-dynamic-linking": "latest"
+    }
+}

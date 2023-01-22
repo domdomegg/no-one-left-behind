@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-quix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "quix": "latest",
+        "quix-core-workspace": "latest",
+        "quix-node-sdk": "latest",
+        "quixe": "latest",
+        "quixeb": "latest",
+        "quixel-to-three": "latest",
+        "quixot": "latest",
+        "quixote": "latest",
+        "quixote-ui": "latest",
+        "quixxi-cli": "latest",
+        "quixxi-security-cli": "latest"
+    }
+}

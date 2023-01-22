@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_riy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@riya_hiyori/umt-plugin-wasm": "latest",
+        "@riyank786/calculator-module": "latest",
+        "@riyasat/extended-js": "latest",
+        "@riyasat/modular-bootstrap": "latest",
+        "@riyazpasha/ticketing-common": "latest",
+        "@riyazu/datetime-picker": "latest",
+        "@riyazurrazak/react-skeleton": "latest",
+        "@riyenz/method-hook-decorator": "latest",
+        "@riyo-organization/common": "latest"
+    }
+}

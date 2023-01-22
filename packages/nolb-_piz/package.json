@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_piz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pizanim/pizanim-test-package": "latest",
+        "@pizswap/sdk": "latest",
+        "@pizswap/sdk-core": "latest",
+        "@pizswap/v2-sdk": "latest",
+        "@pizza-hut/hut-ui": "latest",
+        "@pizza-hut/hutbot-mapp-sdk-js": "latest",
+        "@pizza-programming-party/package-boilerplate": "latest",
+        "@pizzafactory/lambstatus-api": "latest",
+        "@pizzafactory/sprotty-theia": "latest",
+        "@pizzafactory/vscode-ws-jsonrpc": "latest",
+        "@pizzafinance/ui-sdk": "latest",
+        "@pizzanfruit/react-scripts": "latest",
+        "@pizzaprogram/mcp-pcf-aio": "latest",
+        "@pizzaql/hours-helper": "latest"
+    }
+}

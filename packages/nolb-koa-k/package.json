@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-koa-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "koa-kafka": "latest",
+        "koa-kakapo": "latest",
+        "koa-kane-error": "latest",
+        "koa-karma-proxy": "latest",
+        "koa-keycloak-example": "latest",
+        "koa-kiki-handlebars": "latest",
+        "koa-kiki-ral": "latest",
+        "koa-kiki-router": "latest",
+        "koa-kit": "latest",
+        "koa-knex": "latest",
+        "koa-knex-piet": "latest",
+        "koa-knexjs": "latest",
+        "koa-ku": "latest",
+        "koa-kue": "latest"
+    }
+}

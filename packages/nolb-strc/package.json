@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-strc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "strc-loader-button": "latest",
+        "strc-modal-overlay": "latest",
+        "strc-progress-bar": "latest",
+        "strc-scaleogram": "latest",
+        "strcalc": "latest",
+        "strcase": "latest",
+        "strcase1": "latest",
+        "strcaser": "latest",
+        "strclass": "latest",
+        "strclipper": "latest",
+        "strcmp": "latest",
+        "strcolour": "latest",
+        "strconcatfunctions": "latest",
+        "strconv": "latest",
+        "strconver_ccsl": "latest",
+        "strconverter": "latest",
+        "strcrypter": "latest",
+        "strcss": "latest",
+        "strct": "latest"
+    }
+}

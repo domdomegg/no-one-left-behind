@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-froy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "froyexpress": "latest",
+        "froyo": "latest",
+        "froyo-addressbook": "latest",
+        "froyo-api": "latest",
+        "froyo2-addressbook": "latest",
+        "froyobook-addressbook": "latest",
+        "froyolast-addressbook": "latest",
+        "froyop-addressbook": "latest",
+        "froyov2": "latest"
+    }
+}

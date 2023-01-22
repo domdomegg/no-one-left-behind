@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-eventh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "EventHub": "latest",
+        "eventhandle.js": "latest",
+        "eventhandler": "latest",
+        "eventhandler-stream": "latest",
+        "eventhandler.js": "latest",
+        "eventhandling": "latest",
+        "eventhash": "latest",
+        "eventhelper": "latest",
+        "eventhook": "latest",
+        "eventhookmulti": "latest",
+        "eventhoven": "latest",
+        "eventhub": "latest",
+        "eventhub-console-consumer": "latest",
+        "eventhub-console-producer": "latest",
+        "eventhub-js": "latest",
+        "eventhub-jsclient": "latest",
+        "eventhub-node-demo": "latest",
+        "eventhub-ts": "latest",
+        "eventhub-xxl": "latest",
+        "eventhub.js": "latest",
+        "eventhubs-checkpointstore-blob": "latest",
+        "eventhubs-checkpointstore-table": "latest",
+        "eventhubs-js": "latest"
+    }
+}

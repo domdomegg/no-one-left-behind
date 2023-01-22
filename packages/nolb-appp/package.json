@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-appp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "appp": "latest",
+        "appp-list": "latest",
+        "appp-wirestock-cdn-toolkit": "latest",
+        "apppa": "latest",
+        "apppack": "latest",
+        "apppack.edsql": "latest",
+        "apppankaj": "latest",
+        "apppot-sdk": "latest",
+        "appppp": "latest",
+        "apppppvjfjbngj": "latest",
+        "appprocedurestocke": "latest",
+        "appproject-auth": "latest",
+        "appproject-auth-fb": "latest",
+        "appproject-browser": "latest",
+        "appproject-camera": "latest",
+        "appproject-clipboard": "latest",
+        "appproject-components": "latest",
+        "appproject-entity": "latest",
+        "appproject-geolocation": "latest",
+        "appproject-map": "latest",
+        "appproject-onesignal-notify": "latest",
+        "appproject-share": "latest",
+        "appproject-speech": "latest",
+        "appproject-utils": "latest",
+        "apppublish": "latest",
+        "apppulse-test-app-angular2": "latest",
+        "apppulse-test-app-angularjs": "latest"
+    }
+}

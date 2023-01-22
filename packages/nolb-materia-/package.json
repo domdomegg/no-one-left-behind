@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-materia-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "materia-server": "latest",
+        "materia-server-client-assets": "latest",
+        "materia-widget-dependencies": "latest",
+        "materia-widget-development-kit": "latest"
+    }
+}

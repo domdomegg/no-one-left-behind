@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-lyw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lyw": "latest",
+        "lyw-cli-dev-components": "latest",
+        "lyw-cli-dev-template-custom-vue2": "latest",
+        "lyw-cli-dev-template-vue-element-admin": "latest",
+        "lyw-cli-dev-template-vue2": "latest",
+        "lyw-cli-test": "latest",
+        "lyw-cli-test-lib": "latest",
+        "lyw-components": "latest",
+        "lyw-semantic-ui-calendar-react": "latest",
+        "lyw-tracker": "latest",
+        "lyw-vg-cli": "latest",
+        "lyw-vue-cli": "latest",
+        "lywatch": "latest",
+        "lyweb-mod": "latest",
+        "lywebcomponent": "latest",
+        "lywed-cordova-android-support-gradle-release": "latest",
+        "lywpt": "latest",
+        "lyws-android": "latest",
+        "lyws.freedotech83": "latest",
+        "lywsd03mmc_custom_firmware_ver": "latest"
+    }
+}

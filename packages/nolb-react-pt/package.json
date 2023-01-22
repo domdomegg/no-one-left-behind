@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-react-pt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-pt-carousel": "latest",
+        "react-ptable-materials-grid": "latest",
+        "react-ptf": "latest",
+        "react-ptr": "latest",
+        "react-ptrcontainer": "latest",
+        "react-pts-canvas": "latest"
+    }
+}

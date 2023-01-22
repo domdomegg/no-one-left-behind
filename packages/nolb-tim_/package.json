@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-tim_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tim_dom": "latest",
+        "tim_event": "latest",
+        "tim_page": "latest",
+        "tim_util": "latest"
+    }
+}

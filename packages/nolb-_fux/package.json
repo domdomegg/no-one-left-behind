@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_fux",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fuxi-cli-dev/core": "latest",
+        "@fuxi-cli-dev/utils": "latest",
+        "@fuxifuchs/puppy-nest": "latest",
+        "@fuxijs/build": "latest",
+        "@fuxijs/demo": "latest",
+        "@fuxin-cli-dev/core": "latest",
+        "@fuxin-cli-dev/utils": "latest",
+        "@fuxin-imooc-cli-dev/core": "latest",
+        "@fuxin-imooc-cli-dev/utils": "latest",
+        "@fuxy526/vue-modal": "latest"
+    }
+}

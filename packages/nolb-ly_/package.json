@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-ly_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ly.stephane.phonegap.plugins.mediacategory": "latest",
+        "ly_auto": "latest",
+        "ly_autogo": "latest",
+        "ly_baoo": "latest",
+        "ly_cdp": "latest",
+        "ly_cesium": "latest",
+        "ly_first": "latest",
+        "ly_fsandpath": "latest",
+        "ly_hellow": "latest",
+        "ly_leaflet": "latest",
+        "ly_lylyly": "latest",
+        "ly_nodedemo": "latest",
+        "ly_paging": "latest",
+        "ly_pk1": "latest",
+        "ly_pkdm": "latest",
+        "ly_server_afternoon": "latest",
+        "ly_test_cli": "latest",
+        "ly_test_cli2": "latest",
+        "ly_three": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-ango",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ango": "latest",
+        "ango-react-components": "latest",
+        "angoform-api-v1": "latest",
+        "angoform-api-v2": "latest",
+        "angolarti": "latest",
+        "angon_datepicker": "latest",
+        "angon_react_data_grid": "latest",
+        "angon_selectedfield": "latest",
+        "angon_textfield": "latest",
+        "angon_timepicker": "latest",
+        "angonsoft_textfield": "latest",
+        "angoor": "latest",
+        "angoose": "latest",
+        "angoose-bcrypt": "latest",
+        "angoose-users": "latest",
+        "angora": "latest"
+    }
+}

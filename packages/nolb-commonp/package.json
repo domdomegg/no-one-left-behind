@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-commonp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "commonpack2": "latest",
+        "commonpdf": "latest",
+        "commonpdf_pdftk": "latest",
+        "commonpdf_podofo": "latest",
+        "commonpdf_testfiles": "latest",
+        "commonphrases": "latest",
+        "commonpkg": "latest",
+        "commonplace": "latest",
+        "commonplace-utilities": "latest",
+        "commonpurefuc": "latest"
+    }
+}

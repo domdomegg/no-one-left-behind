@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_itm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@itm-platform/dp-component": "latest",
+        "@itm-platform/dp-js-library": "latest",
+        "@itm-platform/itm-frontend-framework": "latest",
+        "@itm230/devops-cli": "latest",
+        "@itm230/v-ui": "latest",
+        "@itmatter/react-native-keycloak-adapter": "latest",
+        "@itmatter/validators": "latest",
+        "@itme/lit-pod": "latest",
+        "@itme/solid-client": "latest",
+        "@itmirror/ga4": "latest",
+        "@itmirror/im-track-jssdk": "latest",
+        "@itmirror/uvc-camera-jssdk": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-stylelint-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylelint-jest-rule-tester": "latest",
+        "stylelint-junit-formatter": "latest",
+        "stylelint-junit-formatter2": "latest"
+    }
+}

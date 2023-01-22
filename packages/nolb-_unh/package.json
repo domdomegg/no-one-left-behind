@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_unh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@unhack/cli": "latest",
+        "@unhack/launcher": "latest",
+        "@unhack/zesty": "latest",
+        "@unhandled_exception/learnstorybook-design-system-template": "latest",
+        "@unhandled_exception/shared": "latest",
+        "@unhang/ckeditor5-build-classic": "latest",
+        "@unhead/addons": "latest",
+        "@unhead/dom": "latest",
+        "@unhead/schema": "latest",
+        "@unhead/schema-org-vue": "latest",
+        "@unhead/ssr": "latest",
+        "@unhead/vue": "latest",
+        "@unhoc/core": "latest",
+        "@unhoc/material-ui": "latest",
+        "@unhoc/react": "latest",
+        "@unhoc/react-redux": "latest",
+        "@unholster/seisveinte": "latest"
+    }
+}

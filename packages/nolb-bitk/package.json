@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-bitk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bitkeep-connector": "latest",
+        "bitkeep-web3modal": "latest",
+        "bitkey": "latest",
+        "bitkey-ui": "latest",
+        "bitknown": "latest",
+        "bitknowscinema": "latest",
+        "bitknowscoinmarketcapwrapper": "latest",
+        "bitkompagniet": "latest",
+        "bitkompagniet-avatars": "latest",
+        "bitkompagniet-dice": "latest",
+        "bitkompagniet-id-generator": "latest",
+        "bitkompagniet-statistics-aggregator": "latest",
+        "bitkraft-ng6-data-table": "latest",
+        "bitkub": "latest",
+        "bitkub-client": "latest",
+        "bitkubapidemo": "latest"
+    }
+}

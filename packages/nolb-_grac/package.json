@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_grac",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@grace-studio/next-strapi": "latest",
+        "@grace-studio/next-wordpress": "latest",
+        "@gracebrigham/react-native-hour-picker": "latest",
+        "@gracebrigham/react-native-spin-picker-formatted": "latest",
+        "@gracefullight/docusaurus-plugin-channelio": "latest",
+        "@gracefullight/docusaurus-plugin-google-adsense": "latest",
+        "@gracefullight/docusaurus-plugin-microsoft-clarity": "latest",
+        "@gracefullight/docusaurus-plugin-naver-analytics": "latest",
+        "@gracelr/lotide": "latest",
+        "@gracesnoh/reflex-motion-test": "latest",
+        "@gracesnoh/tiny": "latest",
+        "@gracewalk/npm-test": "latest",
+        "@gracewxt/lotide": "latest",
+        "@gracexwho/model-card-generator": "latest",
+        "@graciameng/jinrishici": "latest",
+        "@graciameng/test": "latest",
+        "@graciano/hello-wasm": "latest",
+        "@gracious.tech/fetch-app": "latest",
+        "@gracious.tech/fetch-client": "latest",
+        "@gracious.tech/fetch-collector": "latest",
+        "@gracious/browserslist-config-graciousstudios": "latest",
+        "@gracious/eslint-config-gracious": "latest",
+        "@gracious/stylelint-config-gracious": "latest"
+    }
+}

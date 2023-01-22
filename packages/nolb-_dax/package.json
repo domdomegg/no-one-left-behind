@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_dax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dax.moore/wasm": "latest",
+        "@daxamayac/ds": "latest",
+        "@daxamayac/eva": "latest",
+        "@daxaymakwana/print-my-name123": "latest",
+        "@daxiazilong/image-preview": "latest",
+        "@daxinator22/aws": "latest",
+        "@daxiong_a/tiny": "latest",
+        "@daxper/uipack": "latest",
+        "@daxtrapub/chatterbug-mq-entities": "latest",
+        "@daxtrapub/logger": "latest",
+        "@daxtrapub/tsconfig": "latest",
+        "@daxur-studios/angular-core": "latest",
+        "@daxur-studios/backend-core": "latest",
+        "@daxur-studios/firebase-core": "latest",
+        "@daxur-studios/node-core": "latest",
+        "@daxur-studios/node-custom-claims": "latest",
+        "@daxur-studios/three": "latest",
+        "@daxur-studios/ui": "latest",
+        "@daxur-studios/ui-custom-claims": "latest"
+    }
+}

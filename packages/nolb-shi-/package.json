@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-shi-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "SHI-Shire": "latest",
+        "shi-button": "latest",
+        "shi-calendar": "latest",
+        "shi-cli": "latest",
+        "shi-dayt": "latest",
+        "shi-di-qu": "latest",
+        "shi-element-excel": "latest",
+        "shi-element-ui": "latest",
+        "shi-fu-mini": "latest",
+        "shi-kata": "latest",
+        "shi-kuai-xun": "latest",
+        "shi-node-lint": "latest",
+        "shi-npm-hello-world002": "latest",
+        "shi-react-lottery": "latest",
+        "shi-react-lottery002": "latest",
+        "shi-tian-jia": "latest",
+        "shi-touch": "latest",
+        "shi-ui": "latest",
+        "shi-xun-yi": "latest",
+        "shi-ying": "latest",
+        "shi-ylm-test-publish": "latest"
+    }
+}

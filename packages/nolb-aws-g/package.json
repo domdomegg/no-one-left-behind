@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-aws-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aws-gamelift-promised": "latest",
+        "aws-gameservers": "latest",
+        "aws-gateway-api": "latest",
+        "aws-generate-events": "latest",
+        "aws-generator": "latest",
+        "aws-get-credentials": "latest",
+        "aws-get-ip": "latest",
+        "aws-get-secret-lambda": "latest",
+        "aws-get-session-token": "latest",
+        "aws-global-dynamodb": "latest",
+        "aws-glue-test": "latest",
+        "aws-go-stack": "latest",
+        "aws-google-token-exchange": "latest",
+        "aws-graphql": "latest",
+        "aws-greengrass-common-js": "latest",
+        "aws-greengrass-core-sdk": "latest",
+        "aws-greengrass-ipc-sdk-js": "latest",
+        "aws-greengrass-provisioner": "latest",
+        "aws-gulp-tasks": "latest"
+    }
+}

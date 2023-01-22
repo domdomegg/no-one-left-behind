@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-simple-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simple-xbmc": "latest",
+        "simple-xdomain-proxy": "latest",
+        "simple-xgrid": "latest",
+        "simple-xhr-uploader": "latest",
+        "simple-xls": "latest",
+        "simple-xlsjs": "latest",
+        "simple-xlsx": "latest",
+        "simple-xlsx-reader": "latest",
+        "simple-xlsx-template": "latest",
+        "simple-xml": "latest",
+        "simple-xml-converter": "latest",
+        "simple-xml-dom": "latest",
+        "simple-xml-merge": "latest",
+        "simple-xml-packer": "latest",
+        "simple-xml-parser": "latest",
+        "simple-xml-reader": "latest",
+        "simple-xml-scrapper": "latest",
+        "simple-xml-to-json": "latest",
+        "simple-xml-writer": "latest",
+        "simple-xml2json": "latest",
+        "simple-xmlhttp-request": "latest",
+        "simple-xmlrpc": "latest",
+        "simple-xmpp": "latest",
+        "simple-xmpp2": "latest",
+        "simple-xor": "latest",
+        "simple-xpath-position": "latest",
+        "simple-xsidebar": "latest",
+        "simple-xss": "latest"
+    }
+}

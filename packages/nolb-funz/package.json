@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-funz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "funz": "latest",
+        "funz.js": "latest",
+        "funzerjs": "latest",
+        "funzip": "latest",
+        "funzo": "latest",
+        "funzy-react-hooks": "latest",
+        "funzz": "latest"
+    }
+}

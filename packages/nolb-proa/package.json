@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-proa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "proa": "latest",
+        "proa-gulp": "latest",
+        "proact": "latest",
+        "proact.js": "latest",
+        "proactive": "latest",
+        "proactive-angular-sharepoint": "latest",
+        "proactive-cache": "latest",
+        "proactive-gulp-pack": "latest",
+        "proactive-http-fetch": "latest",
+        "proactive-record": "latest",
+        "proactive-sharepoint-auth": "latest",
+        "proactive-test-pkg": "latest",
+        "proak-connector-hlfv1": "latest",
+        "proak-hyperledger-network": "latest",
+        "proapi": "latest",
+        "proapi-cli": "latest",
+        "proast": "latest",
+        "proauth.js": "latest"
+    }
+}

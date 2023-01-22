@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-epg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "epg": "latest",
+        "epg-cli": "latest",
+        "epg-focus-vue": "latest",
+        "epg-grabber": "latest",
+        "epg-loader": "latest",
+        "epg-menu-refresh": "latest",
+        "epg-panel": "latest",
+        "epg-parser": "latest",
+        "epg-prep": "latest",
+        "epg-table": "latest",
+        "epg-tv-schedule": "latest",
+        "epg6.0": "latest",
+        "epg_js": "latest",
+        "epgdata": "latest",
+        "epgen": "latest",
+        "epger": "latest",
+        "epgfocuscore": "latest",
+        "epgg": "latest",
+        "epgis-map": "latest",
+        "epgmcslgd": "latest",
+        "epgpro": "latest",
+        "epgstotwitter": "latest",
+        "epgu-chat-lib": "latest"
+    }
+}

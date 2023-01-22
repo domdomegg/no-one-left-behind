@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-np_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "np.utils": "latest",
+        "np_common_moudle": "latest",
+        "np_core_utils": "latest",
+        "np_designer": "latest",
+        "np_market_utils": "latest",
+        "np_package": "latest",
+        "np_poke_scraper_johnlewis": "latest",
+        "np_syi": "latest"
+    }
+}

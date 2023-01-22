@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_beir",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@beira/cli": "latest",
+        "@beira/static-server": "latest",
+        "@beira/utils": "latest",
+        "@beirdo/data-table": "latest",
+        "@beirdo/form-builder": "latest"
+    }
+}

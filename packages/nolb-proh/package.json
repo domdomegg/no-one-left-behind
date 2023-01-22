@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-proh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "prohabits-commit-notifications": "latest",
+        "prohabits-ms-notifications": "latest",
+        "prohairesis": "latest",
+        "prohashing": "latest",
+        "prohashing-api": "latest",
+        "prohighlya": "latest",
+        "prohoda-libas": "latest",
+        "prohoda-react-com": "latest",
+        "prohoda-webpack-library": "latest",
+        "prohosting-init": "latest",
+        "prohub-cli": "latest"
+    }
+}

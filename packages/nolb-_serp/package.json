@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_serp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@serpand/config-eslint": "latest",
+        "@serpand/config-prettier": "latest",
+        "@serpent/cli": "latest",
+        "@serpent/common-cli": "latest",
+        "@serpent/common-react": "latest",
+        "@serpent/dev-kits": "latest",
+        "@serpent/dev-kits-peer": "latest",
+        "@serpent/react-admin-kits": "latest",
+        "@serpent/react-kits": "latest",
+        "@serpent/rollup-kits": "latest",
+        "@serpent/template": "latest",
+        "@serpentine/glicko2": "latest",
+        "@serpentity/components.acceleration": "latest",
+        "@serpentity/components.angle": "latest",
+        "@serpentity/components.debug": "latest",
+        "@serpentity/components.force": "latest",
+        "@serpentity/components.position": "latest",
+        "@serpentity/components.velocity": "latest",
+        "@serpentity/components.weight": "latest",
+        "@serprex/react-motion": "latest",
+        "@serpstat/design-tokens": "latest",
+        "@serpstat/grapesjs-preset-webpage": "latest",
+        "@serpstat/icons": "latest",
+        "@serpstat/pagebuilder": "latest",
+        "@serpstat/serpstat-index-search-form": "latest"
+    }
+}

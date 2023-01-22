@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-react-rn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-rn-localize": "latest",
+        "react-rn-progressor": "latest",
+        "react-rnd": "latest",
+        "react-rnd-auditt98": "latest",
+        "react-rnd-com": "latest",
+        "react-rnd-custom": "latest",
+        "react-rnd-dragline": "latest",
+        "react-rnd-f": "latest",
+        "react-rnd-mfma": "latest",
+        "react-rnd-motionbox": "latest",
+        "react-rnd-mp": "latest",
+        "react-rnd-power-ai": "latest",
+        "react-rnd-rotatable": "latest",
+        "react-rnd-te": "latest",
+        "react-rnd-temp": "latest",
+        "react-rnd-vis": "latest",
+        "react-rnd-with-alignlines": "latest",
+        "react-rnd2": "latest",
+        "react-rnform": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_antl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@antler-ui/components": "latest",
+        "@antler-ui/system": "latest",
+        "@antler-ui/theme": "latest",
+        "@antlered-viking/eslint-config": "latest",
+        "@antlered-viking/prettier-config": "latest",
+        "@antlerengineering/components": "latest",
+        "@antlerengineering/form-builder": "latest",
+        "@antlerengineering/form-filler": "latest",
+        "@antlerengineering/multiselect": "latest",
+        "@antlervc/antler-one": "latest",
+        "@antlervc/boopers": "latest",
+        "@antlervc/components": "latest",
+        "@antlervc/form-builder": "latest",
+        "@antlervc/form-filler": "latest",
+        "@antlervc/multiselect": "latest",
+        "@antlinker/core": "latest",
+        "@antlinker/js-sdk": "latest"
+    }
+}

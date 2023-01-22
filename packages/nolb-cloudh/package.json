@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-cloudh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cloudhopper": "latest",
+        "cloudhospital.react.sdk": "latest",
+        "cloudhub-bamadmin": "latest",
+        "cloudhub-cli": "latest",
+        "cloudhub-components": "latest",
+        "cloudhub-components-peers": "latest",
+        "cloudhub-electron-sdk": "latest",
+        "cloudhub-electron-sdk-test1": "latest",
+        "cloudhub-expo-components": "latest",
+        "cloudhub-front": "latest",
+        "cloudhub-liveroom-electron-sdk": "latest",
+        "cloudhub-min": "latest",
+        "cloudhub-pdf": "latest",
+        "cloudhub-playback-sdk": "latest",
+        "cloudhub-react-components": "latest",
+        "cloudhub-rtc-js-sdk": "latest",
+        "cloudhub-rtc-js-sdk-v2": "latest",
+        "cloudhub-rtc-js-sdk_alpha.0": "latest",
+        "cloudhub-rtc-js-sdk_test.0": "latest",
+        "cloudhub-rts-electron-sdk": "latest",
+        "cloudhub-rts-live-room-sdk": "latest",
+        "cloudhub-rts-web-puller": "latest",
+        "cloudhub-rts-web-pusher": "latest",
+        "cloudhub-signal-js-sdk": "latest",
+        "cloudhub-wb-sdk": "latest",
+        "cloudhubui": "latest",
+        "cloudhubui-min": "latest"
+    }
+}

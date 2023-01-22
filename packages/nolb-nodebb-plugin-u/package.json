@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-nodebb-plugin-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodebb-plugin-ubbmigrator": "latest",
+        "nodebb-plugin-undelete-users": "latest",
+        "nodebb-plugin-unresponsive": "latest",
+        "nodebb-plugin-upload-aliyun-oss": "latest",
+        "nodebb-plugin-upload-oss": "latest",
+        "nodebb-plugin-uploads-queue": "latest",
+        "nodebb-plugin-upvote-notifications": "latest",
+        "nodebb-plugin-upvote-post": "latest",
+        "nodebb-plugin-upyun-uploads": "latest",
+        "nodebb-plugin-upyun-uploads-fix": "latest",
+        "nodebb-plugin-url-slugify": "latest",
+        "nodebb-plugin-user-badges": "latest",
+        "nodebb-plugin-user-css": "latest",
+        "nodebb-plugin-user-invitations": "latest",
+        "nodebb-plugin-user-level": "latest",
+        "nodebb-plugin-userapi": "latest",
+        "nodebb-plugin-userlist": "latest",
+        "nodebb-plugin-usertp": "latest"
+    }
+}

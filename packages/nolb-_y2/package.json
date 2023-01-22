@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_y2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@y2-cli/core": "latest",
+        "@y2-cli/utils": "latest",
+        "@y21/tljs": "latest",
+        "@y2hlbg/obj2json": "latest",
+        "@y2krock/react": "latest",
+        "@y2krock/tokens": "latest",
+        "@y2nk4/bonjour": "latest",
+        "@y2nk4/currency-converter": "latest",
+        "@y2nk4/deasync": "latest",
+        "@y2nk4/ipp-printer": "latest",
+        "@y2nk4/nacos": "latest",
+        "@y2nk4/nacos-config": "latest",
+        "@y2nk4/nacos-naming": "latest",
+        "@y2nk4/node-thrift-pool": "latest",
+        "@y2nk4/pooled-thrift-client": "latest",
+        "@y2nk4/ps-snowball": "latest",
+        "@y2z/dropdown-components": "latest",
+        "@y2z/react-native-checkbox": "latest",
+        "@y2zz/console-chalk-log": "latest",
+        "@y2zz/imagemagick-static": "latest",
+        "@y2zz/ip-parse": "latest",
+        "@y2zz/sharp": "latest",
+        "@y2zz/wangeditor": "latest"
+    }
+}

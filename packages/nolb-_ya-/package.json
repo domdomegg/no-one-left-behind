@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_ya-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ya-cli-dev/core": "latest",
+        "@ya-cli-dev/utils": "latest",
+        "@ya-dev/tickety-common": "latest",
+        "@ya-enot/hd-wallet": "latest",
+        "@ya-lsy/proxy": "latest",
+        "@ya-wxapp-org/bus": "latest",
+        "@ya-wxapp-org/lowcode-demo-material": "latest",
+        "@ya-wxapp-org/pify": "latest",
+        "@ya-wxapp-org/sync": "latest"
+    }
+}

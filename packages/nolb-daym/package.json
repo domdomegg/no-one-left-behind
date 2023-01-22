@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-daym",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "daym": "latest",
+        "daymare": "latest",
+        "daymee-analytics": "latest",
+        "daymet-single-pixel-client": "latest",
+        "daymmmmm": "latest",
+        "daymoment": "latest",
+        "daymon": "latest",
+        "daymon-nes-ps-usermanagement": "latest",
+        "daymon-ng-client": "latest"
+    }
+}

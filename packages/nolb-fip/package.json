@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-fip",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fip": "latest",
+        "fipamo": "latest",
+        "fipe": "latest",
+        "fipe-promise": "latest",
+        "fipe-table": "latest",
+        "fipi": "latest",
+        "fipi-core": "latest",
+        "fipi-mqtt": "latest",
+        "fipi-serialport": "latest",
+        "fipper-js-sdk": "latest",
+        "fips": "latest",
+        "fips-county-codes": "latest",
+        "fips-state-codes": "latest"
+    }
+}

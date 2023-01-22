@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-code2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "code2": "latest",
+        "code20190903": "latest",
+        "code2021-l": "latest",
+        "code22": "latest",
+        "code222": "latest",
+        "code2bin": "latest",
+        "code2design": "latest",
+        "code2doc": "latest",
+        "code2html": "latest",
+        "code2idea": "latest",
+        "code2image": "latest",
+        "code2img": "latest",
+        "code2jwt": "latest",
+        "code2md": "latest",
+        "code2mind": "latest",
+        "code2mp3": "latest",
+        "code2pdf": "latest",
+        "code2pic": "latest",
+        "code2png": "latest",
+        "code2stl": "latest",
+        "code2xml": "latest"
+    }
+}

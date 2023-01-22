@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_phoenix9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@phoenix91/vue-metatags-headful": "latest",
+        "@phoenix91/vue2-crumbs": "latest",
+        "@phoenix91/vue2-preloader": "latest"
+    }
+}

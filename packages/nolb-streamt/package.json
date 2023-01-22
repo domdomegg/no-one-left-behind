@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-streamt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "streamtap": "latest",
+        "streamtee": "latest",
+        "streamtest": "latest",
+        "streamtest2": "latest",
+        "streamtester": "latest",
+        "streamtip": "latest",
+        "streamtip-listener": "latest",
+        "streamtistics": "latest",
+        "streamtoarray": "latest",
+        "streamtparser": "latest"
+    }
+}

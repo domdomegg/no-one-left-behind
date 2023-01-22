@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-ji-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ji-cli-dev-lego-component": "latest",
+        "ji-cli-dev-template-custom-vue2": "latest",
+        "ji-cli-dev-template-vue-element-admin": "latest",
+        "ji-cli-dev-template-vue2": "latest",
+        "ji-component": "latest",
+        "ji-course-list": "latest",
+        "ji-excel-export": "latest",
+        "ji-lion": "latest",
+        "ji-npm-practice": "latest",
+        "ji-pdf-dist": "latest",
+        "ji-rcn": "latest",
+        "ji-test-lib": "latest",
+        "ji-test1": "latest",
+        "ji-test2": "latest",
+        "ji-tslib8": "latest",
+        "ji-tslib9": "latest",
+        "ji-web2206": "latest",
+        "ji-wysiwyg-editor": "latest"
+    }
+}

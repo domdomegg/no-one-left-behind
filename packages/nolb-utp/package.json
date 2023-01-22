@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-utp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "utp": "latest",
+        "utp-cli-dev-lego-components": "latest",
+        "utp-cli-dev-lego-custom-vue3": "latest",
+        "utp-cli-dev-section-plugin": "latest",
+        "utp-cli-dev-template-custom": "latest",
+        "utp-cli-dev-template-section-vue": "latest",
+        "utp-cli-dev-template-section2": "latest",
+        "utp-cli-dev-template-vue-element-admin": "latest",
+        "utp-cli-dev-template-vue3": "latest",
+        "utp-minder-editor": "latest",
+        "utp-native": "latest",
+        "utp-native-no-prebuild": "latest",
+        "utp-native-nodejs-mobile": "latest",
+        "utp-native-prebuilds-nodejs-mobile": "latest",
+        "utp-node-js-sdk": "latest",
+        "utp-punch": "latest",
+        "utp-solyd": "latest",
+        "utp-test-cli": "latest",
+        "utp-test2": "latest",
+        "utp-wasm": "latest",
+        "utp.js": "latest",
+        "utprint": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-cssg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cssg": "latest",
+        "cssgen": "latest",
+        "cssgip": "latest",
+        "cssgip-browser": "latest",
+        "cssgo": "latest",
+        "cssgrace": "latest",
+        "cssgrace-lite": "latest",
+        "cssgram": "latest",
+        "cssgrid.page": "latest",
+        "cssguard": "latest",
+        "cssgui": "latest",
+        "cssgzmin": "latest"
+    }
+}

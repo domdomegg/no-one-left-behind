@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-c8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "c8": "latest",
+        "c8-as-nyc": "latest",
+        "c81_package": "latest",
+        "c88": "latest",
+        "c883d5bfea5d5": "latest",
+        "c8front": "latest",
+        "c8js": "latest",
+        "c8n-simple-component": "latest",
+        "c8na-cli": "latest",
+        "c8na-crud": "latest",
+        "c8ocaf": "latest",
+        "c8osdkangular": "latest",
+        "c8osdkangular2": "latest",
+        "c8osdkjs": "latest",
+        "c8osdkjscore": "latest",
+        "c8osdkvuejs": "latest",
+        "c8r": "latest",
+        "c8rjs": "latest",
+        "c8y-ip.js": "latest",
+        "c8y-libphonenumber": "latest",
+        "c8y-openlayer": "latest",
+        "c8y-quiz-cli": "latest"
+    }
+}

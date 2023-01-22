@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_evc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@evches/raml-1-parser": "latest",
+        "@evches/raml-actions": "latest",
+        "@evches/raml-definition-system": "latest",
+        "@evches/raml-outline": "latest",
+        "@evches/raml-suggestions": "latest",
+        "@evctickets/common": "latest"
+    }
+}

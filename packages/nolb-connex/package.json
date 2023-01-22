@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-connex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "connex": "latest",
+        "connex-react": "latest",
+        "connex-sync-event-fetch": "latest",
+        "connex-tests": "latest",
+        "connexio": "latest",
+        "connexion-string": "latest",
+        "connexionjs": "latest",
+        "connexions-webview": "latest",
+        "connexon": "latest",
+        "connext": "latest",
+        "connext-browser-sdk": "latest",
+        "connext-js": "latest",
+        "connext-ns": "latest",
+        "connext-store": "latest",
+        "connext-tools": "latest",
+        "connext-ui": "latest"
+    }
+}

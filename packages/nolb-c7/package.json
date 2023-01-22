@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-c7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "c7": "latest",
+        "c7-notifications": "latest",
+        "c7-outages": "latest",
+        "c7-themes": "latest",
+        "c72-rfid-scanner": "latest",
+        "c7a3-4459": "latest",
+        "c7n-color-palette": "latest",
+        "c7z-minesweeper": "latest"
+    }
+}

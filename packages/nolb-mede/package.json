@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-mede",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mede": "latest",
+        "medea": "latest",
+        "medea-caql": "latest",
+        "medea-clusterify": "latest",
+        "medea-compressed": "latest",
+        "medea-jason": "latest",
+        "medea-library": "latest",
+        "medea-session-store": "latest",
+        "medea-ttl": "latest",
+        "medeadown": "latest",
+        "medeixaempaz": "latest",
+        "medemosu": "latest",
+        "medentee-backend-packages": "latest",
+        "medeo-iris": "latest",
+        "medes-ui": "latest",
+        "medet-lang": "latest",
+        "medex-click-to-call": "latest",
+        "medex-multi-video-frame": "latest"
+    }
+}

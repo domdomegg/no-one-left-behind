@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-openo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "openo": "latest",
+        "openobject": "latest",
+        "openobjects": "latest",
+        "openocean-wallet": "latest",
+        "openode": "latest",
+        "openol": "latest",
+        "openoo": "latest",
+        "openorca-js-client": "latest",
+        "openortho": "latest",
+        "openorz": "latest",
+        "openouath-package": "latest",
+        "openoutage": "latest",
+        "openoutage-sdk": "latest"
+    }
+}

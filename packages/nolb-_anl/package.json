@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_anl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@anl-ioc/node-red-contrib-oadr-ven": "latest",
+        "@anler/bsdoc": "latest",
+        "@anlerandy/timer": "latest",
+        "@anles/utils": "latest",
+        "@anlesvavortickets/common": "latest",
+        "@anli/api-doc": "latest",
+        "@anli/auth": "latest",
+        "@anli/email": "latest",
+        "@anli/lock": "latest",
+        "@anli/login": "latest",
+        "@anli/sample": "latest",
+        "@anli/splash": "latest",
+        "@anli/user": "latest",
+        "@anlib/utils": "latest",
+        "@anlijiu/react-tiny-popover": "latest",
+        "@anliting/algo": "latest",
+        "@anliting/cookie": "latest",
+        "@anliting/cr": "latest",
+        "@anliting/dt": "latest",
+        "@anliting/event-emitter": "latest",
+        "@anliting/lock": "latest",
+        "@anliting/path": "latest",
+        "@anliting/uri": "latest",
+        "@anlix-io/flashaudit-node-client": "latest",
+        "@anlix/common": "latest",
+        "@anlix/nfe-io": "latest",
+        "@anly_yaw/prettier-config": "latest"
+    }
+}

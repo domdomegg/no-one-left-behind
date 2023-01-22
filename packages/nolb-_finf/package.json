@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_finf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@finfa/strapi-provider-email-sparkpost": "latest",
+        "@finfe/react-kits": "latest",
+        "@finfe/react-kits-server": "latest",
+        "@finfe/react-kits-utils": "latest",
+        "@finfort-dev/winston-amqp": "latest"
+    }
+}

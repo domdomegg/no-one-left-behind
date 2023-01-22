@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-ch2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ch2-lib": "latest",
+        "ch2-paper-of-painter": "latest",
+        "ch225": "latest",
+        "ch233-x2": "latest",
+        "ch2en": "latest",
+        "ch2py": "latest"
+    }
+}

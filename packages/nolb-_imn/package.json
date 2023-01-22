@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_imn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@imnayakshubham/antd-select-infinite-scroll": "latest",
+        "@imndx/v-emoji-picker": "latest",
+        "@imnfeng/vue3-form-core": "latest",
+        "@imnickddme/docker-controller": "latest",
+        "@imnotakopp/p3": "latest",
+        "@imnotjames/koa-openapi-router": "latest",
+        "@imnotjames/typeorm": "latest",
+        "@imnotout/capacitor-firebase-phoneauth": "latest",
+        "@imnotteixeira/covid-19-simulator": "latest",
+        "@imnotteixeira/covid-19-simulator-cli": "latest",
+        "@imnotteixeira/covid-19-simulator-ui-components": "latest",
+        "@imnotteixeira/covid-19-simulator-web": "latest",
+        "@imnull/str": "latest"
+    }
+}

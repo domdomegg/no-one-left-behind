@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-fej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fej": "latest",
+        "fej-simple-broker": "latest",
+        "fejax": "latest",
+        "fejk": "latest",
+        "fejk-cli": "latest",
+        "fejk-ql": "latest",
+        "fejl": "latest",
+        "fejo-asset-pipeline": "latest",
+        "fejob": "latest",
+        "fejon": "latest"
+    }
+}

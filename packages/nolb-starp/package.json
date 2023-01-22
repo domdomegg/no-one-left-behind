@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-starp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "starpack": "latest",
+        "starparam": "latest",
+        "starpath": "latest",
+        "starpc": "latest",
+        "starphleet-cli": "latest",
+        "starplate": "latest",
+        "starport": "latest",
+        "starport-react": "latest",
+        "starport-vue": "latest",
+        "starporttest": "latest",
+        "starpost-ui": "latest",
+        "starprinter": "latest"
+    }
+}

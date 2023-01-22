@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-slan",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "slan": "latest",
+        "slana": "latest",
+        "slands": "latest",
+        "slang": "latest",
+        "slang-cli": "latest",
+        "slang-couchdb": "latest",
+        "slang-flight-assistant": "latest",
+        "slang-grocery-assistant": "latest",
+        "slang-js": "latest",
+        "slang-pharmacy-assistant": "latest",
+        "slang-registration-assistant": "latest",
+        "slang-retail-assistant": "latest",
+        "slang-studio": "latest",
+        "slang-translator": "latest",
+        "slang-web-sdk": "latest",
+        "slanger": "latest",
+        "slangerjs": "latest",
+        "slangopedia": "latest",
+        "slangopedia-cli": "latest",
+        "slangscript": "latest",
+        "slangwidge": "latest",
+        "slans-jsapi": "latest",
+        "slansjs": "latest",
+        "slant": "latest",
+        "slant-api": "latest"
+    }
+}

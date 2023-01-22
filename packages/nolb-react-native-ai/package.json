@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-react-native-ai",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-ai-baidu-map": "latest",
+        "react-native-aicipher": "latest",
+        "react-native-aiknow-kyc-activator": "latest",
+        "react-native-aina": "latest",
+        "react-native-aiqua-sdk": "latest",
+        "react-native-air-chat": "latest",
+        "react-native-air-component": "latest",
+        "react-native-air-progress-bar": "latest",
+        "react-native-airbitz-io": "latest",
+        "react-native-airbridge": "latest",
+        "react-native-airbridge-bridge": "latest",
+        "react-native-airkiss": "latest",
+        "react-native-airone-tabview": "latest",
+        "react-native-airplay": "latest",
+        "react-native-airplay-btn": "latest",
+        "react-native-airplay-button": "latest",
+        "react-native-airplay-cast": "latest",
+        "react-native-airplay-ios": "latest",
+        "react-native-airplay-menu": "latest",
+        "react-native-airplay-module": "latest",
+        "react-native-airpush": "latest",
+        "react-native-airship": "latest",
+        "react-native-aisino-fast-image": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_jij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jijevoid/glslimg": "latest",
+        "@jijiang/box-plugin-mini-pack": "latest",
+        "@jijiang/learnvue3": "latest",
+        "@jijiang/packages-box": "latest",
+        "@jijidown/query": "latest",
+        "@jijivisha/components": "latest"
+    }
+}

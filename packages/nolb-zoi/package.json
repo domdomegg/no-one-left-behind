@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-zoi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zoi": "latest",
+        "zoi-node-modules": "latest",
+        "zoi-nodejs-sdk": "latest",
+        "zoi-npm-test": "latest",
+        "zoi-test-package": "latest",
+        "zoia-captcha": "latest",
+        "zoia-cookies": "latest",
+        "zoia-formbuilder": "latest",
+        "zoia-table": "latest",
+        "zoib": "latest",
+        "zoic": "latest",
+        "zoid": "latest",
+        "zoid-demo": "latest",
+        "zoid-pay": "latest",
+        "zoidberg": "latest",
+        "zoidberg-me-vue2-component-test": "latest",
+        "zoidjs": "latest",
+        "zoidtypes": "latest",
+        "zoie": "latest",
+        "zoiecwsdv": "latest",
+        "zoiew-weex-ui": "latest",
+        "zoiko": "latest",
+        "zoined_api": "latest",
+        "zoink": "latest",
+        "zoinks": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-flou",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "flou": "latest",
+        "floud_combine_js": "latest",
+        "flough": "latest",
+        "floui": "latest",
+        "flounder": "latest",
+        "flounder-react": "latest",
+        "flour": "latest",
+        "floureeb": "latest",
+        "flourish": "latest",
+        "flourish-geo": "latest",
+        "flourish-search-ui": "latest",
+        "flourish-vue-tour": "latest",
+        "flourite": "latest"
+    }
+}

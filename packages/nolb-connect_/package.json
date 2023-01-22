@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-connect_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "connect.dll": "latest",
+        "connect.io": "latest",
+        "connect.min.js": "latest",
+        "connect_auth_github": "latest",
+        "connect_bridge": "latest",
+        "connect_facebook": "latest",
+        "connect_four_functional": "latest",
+        "connect_json": "latest",
+        "connect_router": "latest",
+        "connect_softbank_interface": "latest",
+        "connect_to_db_by_rohit": "latest"
+    }
+}

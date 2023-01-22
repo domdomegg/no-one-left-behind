@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-node-rel",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-relase-front": "latest",
+        "node-relation": "latest",
+        "node-relative-loader": "latest",
+        "node-relax": "latest",
+        "node-relay": "latest",
+        "node-relay-tunnel": "latest",
+        "node-release": "latest",
+        "node-release-helper": "latest",
+        "node-release-lines": "latest",
+        "node-release-server": "latest",
+        "node-release-tools": "latest",
+        "node-releasenote": "latest",
+        "node-releaser": "latest",
+        "node-releases": "latest",
+        "node-reload": "latest"
+    }
+}

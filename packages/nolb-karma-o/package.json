@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-karma-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "karma-oojspec": "latest",
+        "karma-opal-rspec": "latest",
+        "karma-openui5": "latest",
+        "karma-opera-launcher": "latest",
+        "karma-optimizer": "latest",
+        "karma-osx-reporter": "latest",
+        "karma-outflow-preprocessor": "latest",
+        "karma-ox-ui": "latest",
+        "karma-ozjs": "latest"
+    }
+}

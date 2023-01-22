@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-typeface-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typeface-jacques-francois": "latest",
+        "typeface-jacques-francois-shadow": "latest",
+        "typeface-jaldi": "latest",
+        "typeface-jetbrains-mono": "latest",
+        "typeface-jim-nightshade": "latest",
+        "typeface-jockey-one": "latest",
+        "typeface-jolly-lodger": "latest",
+        "typeface-jomhuria": "latest",
+        "typeface-jomolhari": "latest",
+        "typeface-josefin-sans": "latest",
+        "typeface-josefin-slab": "latest",
+        "typeface-jost": "latest",
+        "typeface-joti-one": "latest",
+        "typeface-jua": "latest",
+        "typeface-judson": "latest",
+        "typeface-julee": "latest",
+        "typeface-julius-sans-one": "latest",
+        "typeface-junge": "latest",
+        "typeface-jura": "latest",
+        "typeface-just-another-hand": "latest",
+        "typeface-just-me-again-down-here": "latest"
+    }
+}

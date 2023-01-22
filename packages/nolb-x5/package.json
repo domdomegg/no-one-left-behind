@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-x5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "x5": "latest",
+        "x5-dialog": "latest",
+        "x5-driver": "latest",
+        "x5-gmaps": "latest",
+        "x5-modal": "latest",
+        "x5-notify": "latest",
+        "x500-ts": "latest",
+        "x509": "latest",
+        "x509-builder": "latest",
+        "x509-certificate": "latest",
+        "x509-io": "latest",
+        "x509-keygen": "latest",
+        "x509-parser": "latest",
+        "x509-temp-fork": "latest",
+        "x509-ts": "latest",
+        "x509.cui": "latest",
+        "x509.js": "latest",
+        "x51": "latest",
+        "x5_form_extract": "latest",
+        "x5webview-cordova-plugin": "latest",
+        "x5webview-cordova-plugin-for-ionic": "latest",
+        "x5webview-cordova-plugin-for-ionic-new": "latest",
+        "x5webview-cordova-plugin-lwking": "latest",
+        "x5webview-cordova-plugin-new-xjp": "latest"
+    }
+}

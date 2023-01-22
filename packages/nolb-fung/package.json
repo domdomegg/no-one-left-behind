@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-fung",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fung": "latest",
+        "fung-shway": "latest",
+        "funga": "latest",
+        "fungal": "latest",
+        "fungi": "latest",
+        "fungi-driver": "latest",
+        "fungi-mdns": "latest",
+        "fungible-token": "latest",
+        "fungit": "latest",
+        "fungit-gerrit": "latest",
+        "fungit-plugin": "latest",
+        "fungo": "latest",
+        "fungo-editor": "latest",
+        "fungo-ui": "latest",
+        "fungpackage": "latest",
+        "fungram": "latest",
+        "fungsi-maju": "latest",
+        "fungus": "latest",
+        "funguy": "latest",
+        "fungwey-ui": "latest"
+    }
+}

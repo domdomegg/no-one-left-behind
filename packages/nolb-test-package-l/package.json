@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-test-package-l",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "test-package-lalala": "latest",
+        "test-package-latest": "latest",
+        "test-package-lock": "latest",
+        "test-package-lock-node-plugin": "latest",
+        "test-package-lock-propagator": "latest",
+        "test-package-lock-repo": "latest",
+        "test-package-lock-repo-core": "latest",
+        "test-package-lock-repo-express": "latest",
+        "test-package-lock-repo-mock-core": "latest",
+        "test-package-lock-sergeydt": "latest",
+        "test-package-lock-web-plugin": "latest",
+        "test-package-lolol": "latest",
+        "test-package-lowercase": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-gh_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gh.js": "latest",
+        "gh.midi": "latest",
+        "gh.midi-cli": "latest",
+        "gh_bb": "latest",
+        "gh_hbb": "latest",
+        "gh_hello": "latest",
+        "gh_label": "latest",
+        "gh_modulename": "latest",
+        "gh_reveal": "latest"
+    }
+}

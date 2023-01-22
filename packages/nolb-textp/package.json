@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-textp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "textp123": "latest",
+        "textpack": "latest",
+        "textpackege_sky": "latest",
+        "textpane": "latest",
+        "textparsermatrix": "latest",
+        "textpatcher": "latest",
+        "textpath": "latest",
+        "textpattern-branding": "latest",
+        "textpattern-classic-admin-theme": "latest",
+        "textpattern-com": "latest",
+        "textpattern-default-theme": "latest",
+        "textpattern-forum": "latest",
+        "textpattern-hive-admin-theme": "latest",
+        "textpattern-hive-framework": "latest",
+        "textpattern-jquery-ui-theme": "latest",
+        "textpattern-plugins": "latest",
+        "textpense": "latest",
+        "textpipe": "latest",
+        "textportrait": "latest",
+        "textposition": "latest",
+        "textposter": "latest",
+        "textpresentation": "latest",
+        "textpress": "latest",
+        "textpro": "latest",
+        "textprocess": "latest",
+        "textpublish": "latest"
+    }
+}

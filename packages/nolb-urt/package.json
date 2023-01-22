@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-urt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "urt": "latest",
+        "urt3": "latest",
+        "urtc-demo-react": "latest",
+        "urtc-electron-client": "latest",
+        "urtc-im": "latest",
+        "urtc-sdk": "latest",
+        "urtc-web-client": "latest",
+        "urthecast": "latest",
+        "urtil": "latest",
+        "urtsi": "latest",
+        "urturn-expression-api": "latest",
+        "urturn-sandbox": "latest",
+        "urturn-toolbelt": "latest",
+        "urtx": "latest"
+    }
+}

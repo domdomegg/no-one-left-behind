@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-formf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "formfactory": "latest",
+        "formfield": "latest",
+        "formfields-1": "latest",
+        "formfieldsui": "latest",
+        "formfirejs": "latest",
+        "formfish": "latest",
+        "formfix": "latest",
+        "formflex": "latest",
+        "formflowbotbuilder": "latest",
+        "formform": "latest",
+        "formform-ui": "latest",
+        "formformula": "latest",
+        "formfree": "latest",
+        "formfrog": "latest",
+        "formful": "latest"
+    }
+}

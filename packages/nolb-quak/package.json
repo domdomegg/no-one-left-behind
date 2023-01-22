@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-quak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "quak": "latest",
+        "quake": "latest",
+        "quake-babel": "latest",
+        "quake-champions-api": "latest",
+        "quake-git": "latest",
+        "quake-live-api": "latest",
+        "quake-minify": "latest",
+        "quake-rollup": "latest",
+        "quake-run": "latest",
+        "quake-task": "latest",
+        "quake-ui": "latest",
+        "quake3-rcon": "latest",
+        "quake3-rcon-e": "latest",
+        "quakejs-asset-graph": "latest",
+        "quakejs-files": "latest",
+        "quakeml-parser-js": "latest",
+        "quakeresume": "latest",
+        "quakeweps": "latest",
+        "quakeworld": "latest"
+    }
+}

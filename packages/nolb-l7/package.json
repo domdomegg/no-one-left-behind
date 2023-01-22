@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-l7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "L7": "latest",
+        "l7": "latest",
+        "l7-component": "latest",
+        "l7-core": "latest",
+        "l7-customlayer-template": "latest",
+        "l7-layers": "latest",
+        "l7-map": "latest",
+        "l7-maps": "latest",
+        "l7-maptalks": "latest",
+        "l7-react": "latest",
+        "l7-renderer": "latest",
+        "l7-scene": "latest",
+        "l7-source": "latest",
+        "l7-tiny-sdf": "latest",
+        "l7-utils": "latest",
+        "l7eval5": "latest",
+        "l7google-task": "latest",
+        "l7hammerjs": "latest",
+        "l7note": "latest",
+        "l7passtest": "latest",
+        "l7plot": "latest",
+        "l7plot-component": "latest",
+        "l7react-fork": "latest",
+        "l7react-fork-2": "latest",
+        "l7regl": "latest",
+        "l7reglwrap": "latest"
+    }
+}

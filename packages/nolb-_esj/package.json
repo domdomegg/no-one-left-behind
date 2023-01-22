@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_esj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@esjayeff/calculator": "latest",
+        "@esjayeff/currency-converter": "latest",
+        "@esjayeff/num_guess_game": "latest",
+        "@esjeon/ckeditor5-build-markdown": "latest",
+        "@esjs/esjs-grid": "latest"
+    }
+}

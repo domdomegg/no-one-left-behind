@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-jeb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jeb": "latest",
+        "jeb-boilerplate": "latest",
+        "jeb-cdn-cli": "latest",
+        "jeb-ddg": "latest",
+        "jeb-file-system": "latest",
+        "jeb-lib-collect": "latest",
+        "jeb-promises": "latest",
+        "jeb-socket-relay": "latest",
+        "jeb-spawn": "latest",
+        "jeb-watch": "latest",
+        "jeb.js": "latest",
+        "jebac-pis": "latest",
+        "jebait": "latest",
+        "jebaitli": "latest",
+        "jebase": "latest",
+        "jebcolors": "latest",
+        "jebena": "latest",
+        "jebjust": "latest",
+        "jebra": "latest",
+        "jebs": "latest",
+        "jebtest-2": "latest",
+        "jebtest-react-button": "latest",
+        "jebtest-react-text": "latest",
+        "jebulday-emailjs": "latest"
+    }
+}

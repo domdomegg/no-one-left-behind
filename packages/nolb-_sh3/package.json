@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_sh3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sh32my/assert": "latest",
+        "@sh32my/test": "latest",
+        "@sh3d2/express-rate-limit": "latest"
+    }
+}

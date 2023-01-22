@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-ccj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ccj": "latest",
+        "ccj-utils": "latest",
+        "ccj4a": "latest",
+        "ccja": "latest",
+        "ccjc": "latest",
+        "ccjchatroom": "latest",
+        "ccjd-react-native-payment-alipay-master": "latest",
+        "ccjh-logger": "latest",
+        "ccjjcj-cli": "latest",
+        "ccjmne-busy": "latest",
+        "ccjs": "latest",
+        "ccjs-cli-talk": "latest",
+        "ccjsjfullstatck007": "latest",
+        "ccjsjonefullstack": "latest",
+        "ccjson": "latest",
+        "ccjudge": "latest"
+    }
+}

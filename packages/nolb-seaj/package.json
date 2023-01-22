@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-seaj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "seajax": "latest",
+        "seajs": "latest",
+        "seajs-amd": "latest",
+        "seajs-build": "latest",
+        "seajs-builder": "latest",
+        "seajs-bundler": "latest",
+        "seajs-cmd": "latest",
+        "seajs-combo-express": "latest",
+        "seajs-combo.js": "latest",
+        "seajs-compress": "latest",
+        "seajs-css": "latest",
+        "seajs-gettext": "latest",
+        "seajs-loader": "latest",
+        "seajs-log": "latest",
+        "seajs-packager": "latest",
+        "seajs-parsedept": "latest",
+        "seajs-pg-cloud": "latest",
+        "seajs-preload.js": "latest",
+        "seajs-text.js": "latest",
+        "seajs-ui": "latest",
+        "seajs-var": "latest",
+        "seajs-webpack-plugin": "latest",
+        "seajs_test": "latest",
+        "seajsws-component": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-dec-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dec-2-week": "latest",
+        "dec-aes-256": "latest",
+        "dec-client": "latest",
+        "dec-controls": "latest",
+        "dec-enc-lib": "latest",
+        "dec-foo-component": "latest",
+        "dec-greet": "latest",
+        "dec-gulp-utils": "latest",
+        "dec-html-parser": "latest",
+        "dec-http": "latest",
+        "dec-icon-test": "latest",
+        "dec-int": "latest",
+        "dec-logger": "latest",
+        "dec-markdown-sidebar": "latest",
+        "dec-module": "latest",
+        "dec-pck": "latest",
+        "dec-proto": "latest",
+        "dec-test-1-1": "latest",
+        "dec-to-binary": "latest",
+        "dec-to-hex": "latest",
+        "dec-to-rom": "latest",
+        "dec-u3d": "latest",
+        "dec-web-ui-angular": "latest"
+    }
+}

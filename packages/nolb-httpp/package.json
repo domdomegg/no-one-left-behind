@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-httpp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "httpp": "latest",
+        "httpp-binary": "latest",
+        "httpp-forward": "latest",
+        "httpp-proxy": "latest",
+        "httppartserver-avaland": "latest",
+        "httppizar": "latest",
+        "httppize": "latest",
+        "httpplease": "latest",
+        "httpplease-prefix": "latest",
+        "httpplease-promises": "latest",
+        "httppoy": "latest",
+        "httppp": "latest",
+        "httpproblem": "latest",
+        "httppromise": "latest",
+        "httpproxy": "latest",
+        "httpproxyagnc": "latest",
+        "httpproxys": "latest"
+    }
+}

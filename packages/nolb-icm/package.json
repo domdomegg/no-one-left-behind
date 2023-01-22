@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-icm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "icm": "latest",
+        "icm-ag-grid-community": "latest",
+        "icm-js-client": "latest",
+        "icmod": "latest",
+        "icmodsapi": "latest",
+        "icmoe": "latest",
+        "icmp": "latest",
+        "icmp-code-resolution": "latest",
+        "icmp-ping": "latest",
+        "icmp-react-scripts": "latest",
+        "icms": "latest",
+        "icms-converter": "latest",
+        "icms-dropzone": "latest",
+        "icms-teste": "latest"
+    }
+}

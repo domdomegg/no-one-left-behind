@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_lez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lezer-editor/lezer-editor-common123": "latest",
+        "@lezer-editor/lezer-example-grammar": "latest",
+        "@lezer/common": "latest",
+        "@lezer/cpp": "latest",
+        "@lezer/css": "latest",
+        "@lezer/generator": "latest",
+        "@lezer/highlight": "latest",
+        "@lezer/html": "latest",
+        "@lezer/java": "latest",
+        "@lezer/javascript": "latest",
+        "@lezer/json": "latest",
+        "@lezer/lezer": "latest",
+        "@lezer/lr": "latest",
+        "@lezer/markdown": "latest",
+        "@lezer/php": "latest",
+        "@lezer/python": "latest",
+        "@lezer/rust": "latest",
+        "@lezer/xml": "latest",
+        "@lezhin/react-generate-component": "latest",
+        "@lezram/math-interval": "latest",
+        "@lezsun/mapboxdraw": "latest",
+        "@lezzmo/razzle-treact-natigation": "latest"
+    }
+}

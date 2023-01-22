@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-smj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smj-1st-npm-module": "latest",
+        "smjie": "latest",
+        "smjie123": "latest",
+        "smjies": "latest",
+        "smjr-starwars-names": "latest",
+        "smjs-mysql": "latest",
+        "smjs-react": "latest",
+        "smjs-ui": "latest"
+    }
+}

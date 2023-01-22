@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-react-pn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-png-button": "latest",
+        "react-png-component": "latest",
+        "react-png-flipcard": "latest",
+        "react-png-hovercard": "latest",
+        "react-png-tooltip": "latest",
+        "react-pnotify": "latest"
+    }
+}

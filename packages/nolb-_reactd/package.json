@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_reactd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reactdev/react-use-hover": "latest",
+        "@reactdev/react-use-toggle": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_dsv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dsvishchov/nativescript-audio": "latest",
+        "@dsvishchov/nativescript-loading-indicator": "latest",
+        "@dsvishchov/nativescript-ngx-shadow": "latest",
+        "@dsvishchov/nativescript-onesignal-sdk": "latest",
+        "@dsvllc/summernote-image-attributes": "latest",
+        "@dsvnpm/firestore-stripe-payments": "latest",
+        "@dsvtickets/common": "latest"
+    }
+}

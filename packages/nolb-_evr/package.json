@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_evr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@evrard/npxcard": "latest",
+        "@evrimfeyyaz/covid-19-api": "latest",
+        "@evrn/hello-wasm": "latest",
+        "@evroca/core": "latest",
+        "@evrynetlabs/credit-contract": "latest",
+        "@evrynetlabs/erc20-adaptor": "latest",
+        "@evrynetlabs/warp-contract": "latest",
+        "@evrynetlabs/warp-js": "latest",
+        "@evrythng/context-script": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-expressa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "expressApi": "latest",
+        "expressa": "latest",
+        "expressa-admin": "latest",
+        "expressa-cli": "latest",
+        "expressa-client": "latest",
+        "expressa-folder": "latest",
+        "expressa-init-collection": "latest",
+        "expressa-swagger": "latest",
+        "expressall": "latest",
+        "expressalt": "latest",
+        "expressapp": "latest",
+        "expressapp2017": "latest"
+    }
+}

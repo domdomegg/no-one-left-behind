@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_tuu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tuu/git-commit-version": "latest",
+        "@tuu/ufs": "latest",
+        "@tuul/archaius": "latest",
+        "@tuul/hystrix": "latest",
+        "@tuul/ribbon": "latest",
+        "@tuul/turbine": "latest",
+        "@tuuling/double-bounce": "latest",
+        "@tuuling/npmlulz": "latest",
+        "@tuum-tech/commons.js.tools": "latest",
+        "@tuum-tech/did-provider-pkh": "latest",
+        "@tuum-tech/elastos-hive-js-sdk": "latest",
+        "@tuum-tech/hive-js-sdk": "latest",
+        "@tuum-tech/identity-snap": "latest",
+        "@tuup/react-native-gps-state": "latest",
+        "@tuupertunut/angular-2-data-table": "latest"
+    }
+}

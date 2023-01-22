@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_buk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bukalapak/express-bearer-token": "latest",
+        "@bukalapak/pompeii": "latest",
+        "@bukan-warung-pintar/renceng-native": "latest",
+        "@bukhalo/prettier-config": "latest",
+        "@bukharim96/ress": "latest",
+        "@bukhr/base64image": "latest",
+        "@bukinoshita/space": "latest",
+        "@bukio-dev/test": "latest",
+        "@bukio/brick": "latest",
+        "@bukio/card-editor": "latest",
+        "@bukio/ckeditor5-angular": "latest",
+        "@bukio/ckeditor5-build-classic": "latest",
+        "@bukio/ckeditor5-media-embed": "latest",
+        "@bukio/components": "latest",
+        "@bukio/elements": "latest",
+        "@bukio/ngx-quill": "latest",
+        "@bukis/dp": "latest",
+        "@bukkentime/panda-ts-client": "latest",
+        "@bukme/api-client": "latest",
+        "@bukn/eslint-config": "latest",
+        "@bukn/utils": "latest",
+        "@bukolajimoh/node-tsc": "latest",
+        "@bukunmikuti/hello": "latest",
+        "@bukunmikuti/view-router": "latest"
+    }
+}

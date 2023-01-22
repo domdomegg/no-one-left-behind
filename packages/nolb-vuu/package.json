@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-vuu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vuu": "latest",
+        "vuu-nav": "latest",
+        "vuu-pull": "latest",
+        "vuu-util": "latest",
+        "vuub": "latest",
+        "vuui": "latest",
+        "vuui-json-view": "latest",
+        "vuur": "latest",
+        "vuuri": "latest",
+        "vuurrood-boilerplate": "latest",
+        "vuurrood-sockets": "latest",
+        "vuurrood-sockets-test": "latest",
+        "vuuvv": "latest"
+    }
+}

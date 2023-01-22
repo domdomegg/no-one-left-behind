@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-discord-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discord-oasis": "latest",
+        "discord-oauth-client": "latest",
+        "discord-oauth2": "latest",
+        "discord-oauth2-api": "latest",
+        "discord-oauth2-client": "latest",
+        "discord-oauth2-clientcredentials": "latest",
+        "discord-oauth2-utils": "latest",
+        "discord-oauth2-zero": "latest",
+        "discord-options": "latest",
+        "discord-osiris": "latest",
+        "discord-oversimplified": "latest"
+    }
+}

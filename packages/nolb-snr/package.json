@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-snr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "snr": "latest",
+        "snr-authorization-authvoter": "latest",
+        "snr-authorization-rolecheckvoter": "latest",
+        "snr-authorization-rolevoter": "latest",
+        "snr-authorizationmanager": "latest",
+        "snr-express-authorization": "latest",
+        "snr-fshelper": "latest",
+        "snr-rest": "latest",
+        "snr-spa": "latest",
+        "snrd-merge-dependencies": "latest",
+        "snrest": "latest",
+        "snresteasy": "latest",
+        "snrg": "latest",
+        "snrkthh-test": "latest",
+        "snrub": "latest"
+    }
+}

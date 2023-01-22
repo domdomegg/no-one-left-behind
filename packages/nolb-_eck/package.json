@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_eck",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@eckdanny-osi/forms-api-client": "latest",
+        "@eckidevs/payfastjs": "latest",
+        "@eckidevs/tool": "latest",
+        "@eckode/cli": "latest",
+        "@eckode/webpack": "latest",
+        "@eckon/toast": "latest"
+    }
+}

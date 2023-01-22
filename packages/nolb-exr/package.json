@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-exr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "exr": "latest",
+        "exrate": "latest",
+        "exrcise": "latest",
+        "exreda-logger": "latest",
+        "exredux": "latest",
+        "exreg": "latest",
+        "exreg-routes": "latest",
+        "exrepl": "latest",
+        "exriothing": "latest",
+        "exro-core-sdk": "latest",
+        "exro-http": "latest",
+        "exro-sdk": "latest",
+        "exrot": "latest",
+        "exroute": "latest",
+        "exrpess": "latest",
+        "exruxt": "latest"
+    }
+}

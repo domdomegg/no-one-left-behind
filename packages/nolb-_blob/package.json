@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_blob",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@blobaa/ardor-ts": "latest",
+        "@blobaa/attestation-protocol-ts": "latest",
+        "@blobaa/bba-did-method-handler-ts": "latest",
+        "@blobaa/claim-ts": "latest",
+        "@blobaa/did-document-ts": "latest",
+        "@blobber/react": "latest",
+        "@blobber/react-native": "latest",
+        "@blobfishkate/sovryncontracts": "latest",
+        "@blobfishkate/sovryncontractswip": "latest",
+        "@blobmaster/mini-j-highlight": "latest",
+        "@blobo/pagar.me": "latest"
+    }
+}

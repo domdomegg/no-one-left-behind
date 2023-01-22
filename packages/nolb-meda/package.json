@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-meda",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "meda": "latest",
+        "meda-cli": "latest",
+        "meda-jsencrypt": "latest",
+        "medable": "latest",
+        "medable-ckeditor": "latest",
+        "medacta-aws-cognito": "latest",
+        "medahog": "latest",
+        "medahog2": "latest",
+        "medal": "latest",
+        "medal-cli": "latest",
+        "medal-downloader": "latest",
+        "medal-js": "latest",
+        "medallia-commons-web-node": "latest",
+        "medallia-hipchat-notifier": "latest",
+        "medaltv-wrapper": "latest",
+        "medan": "latest",
+        "medapay": "latest",
+        "medash": "latest"
+    }
+}

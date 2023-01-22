@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-carc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "carcall": "latest",
+        "carcarabutton": "latest",
+        "carcase": "latest",
+        "carcass": "latest",
+        "carcass-auth": "latest",
+        "carcass-config": "latest",
+        "carcass-couch": "latest",
+        "carcass-generator": "latest",
+        "carcass-memoray": "latest",
+        "carcass-monitor": "latest",
+        "carcass-program": "latest",
+        "carcass-stripe": "latest",
+        "carcassonne-library": "latest",
+        "carcel": "latest",
+        "carcer": "latest",
+        "carch": "latest",
+        "carcheck": "latest",
+        "carcheck-test": "latest",
+        "carcheckapi": "latest",
+        "carcloud": "latest",
+        "carcloudaccess": "latest",
+        "carcode-keyboard": "latest"
+    }
+}

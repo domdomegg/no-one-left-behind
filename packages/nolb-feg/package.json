@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-feg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "feg": "latest",
+        "feg-cli": "latest",
+        "fega-cli": "latest",
+        "fegl": "latest",
+        "fego": "latest",
+        "fego-cached-image": "latest",
+        "fego-chart": "latest",
+        "fego-ios-charts": "latest",
+        "fego-mp-android-chart": "latest",
+        "fego-rn": "latest",
+        "fego-rn-keyboard": "latest",
+        "fego-rn-study": "latest",
+        "fego-rn-update": "latest",
+        "fego-update": "latest",
+        "fegyis-test-component-library": "latest"
+    }
+}

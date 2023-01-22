@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_fuc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fuc/cli": "latest",
+        "@fuc/cli-service": "latest",
+        "@fuc/cli-utils": "latest",
+        "@fuc/eslint-config-app": "latest",
+        "@fucesa/constants": "latest",
+        "@fuchengshun/truffle-plugin-verify": "latest",
+        "@fuchsfox/eslint-config-ff": "latest",
+        "@fuchsia-for-all/primitives": "latest",
+        "@fuchsiajs/cli": "latest",
+        "@fuchsiajs/common": "latest",
+        "@fuchsiajs/core": "latest",
+        "@fuchsiajs/orm": "latest",
+        "@fuchsiajs/template": "latest",
+        "@fuchsrudel/leistungen": "latest",
+        "@fuck-shit-a-share/scope-npm": "latest",
+        "@fuckedupstub/stub": "latest",
+        "@fuckingdigital/watch-animation-frame": "latest",
+        "@fuckswap/fuckswap-uikit": "latest",
+        "@fuckswap/uikit": "latest",
+        "@fuckswap/uikit-production": "latest",
+        "@fuckswap/uikit-v2": "latest",
+        "@fuckx-cli/test": "latest",
+        "@fuckyou123456/ksectest1234": "latest",
+        "@fucsi-npm-poc/custom-comp": "latest",
+        "@fucsi/custom-comp": "latest"
+    }
+}

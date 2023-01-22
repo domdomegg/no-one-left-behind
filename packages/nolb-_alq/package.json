@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_alq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alqatech/node-apn-http2": "latest",
+        "@alqmc/build-ts": "latest",
+        "@alqmc/build-utils": "latest",
+        "@alqmc/build-vue": "latest",
+        "@alqmc/demo-ci": "latest",
+        "@alqmc/eslint-config": "latest",
+        "@alqmc/eslint-config-basic": "latest",
+        "@alqmc/eslint-config-ts": "latest",
+        "@alqmc/eslint-config-vue": "latest",
+        "@alquipo/eslint-config": "latest"
+    }
+}

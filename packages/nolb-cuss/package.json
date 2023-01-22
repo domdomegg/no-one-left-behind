@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-cuss",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cuss": "latest",
+        "cuss-framework": "latest",
+        "cuss-word": "latest",
+        "cuss-word-filter-ko": "latest",
+        "cuss2-javascript-models": "latest",
+        "cussli": "latest",
+        "cusspvz-cordova-plugin-mapbox": "latest",
+        "cusspvz-cordova-universal-links-plugin": "latest",
+        "cusstom": "latest"
+    }
+}

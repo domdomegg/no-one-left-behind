@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-datec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "datecc": "latest",
+        "datechange": "latest",
+        "datechange_npm_test": "latest",
+        "datecollator": "latest",
+        "datecompare-picker": "latest",
+        "datecompute": "latest",
+        "datecompute1111": "latest",
+        "dateconv": "latest",
+        "dateconverter": "latest",
+        "dateconvertermethods": "latest",
+        "datecounter": "latest",
+        "datecrontest": "latest",
+        "datecs-fp700": "latest",
+        "datecs-printer-capacitor": "latest"
+    }
+}

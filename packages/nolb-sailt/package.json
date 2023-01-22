@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-sailt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sailthru-cli": "latest",
+        "sailthru-client": "latest",
+        "sailthru-client-8": "latest"
+    }
+}

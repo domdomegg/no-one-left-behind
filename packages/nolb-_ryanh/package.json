@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_ryanh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryanh5/fake-package": "latest",
+        "@ryanhefner/next-page-transitions": "latest",
+        "@ryanhefner/next-prismic": "latest",
+        "@ryanhefner/react-draggable-component": "latest",
+        "@ryanhefner/react-prismic": "latest",
+        "@ryanhs/kafkajs": "latest",
+        "@ryanhs/mutex-promise": "latest",
+        "@ryanhu/ryantest": "latest",
+        "@ryanhuangdevtickets/common": "latest"
+    }
+}

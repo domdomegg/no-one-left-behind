@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-grg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grg-cli": "latest",
+        "grg-ui": "latest",
+        "grg-web-ui": "latest",
+        "grgdeghrt00": "latest",
+        "grgkro": "latest",
+        "grgr": "latest",
+        "grgscreen-ui": "latest",
+        "grgtgparse": "latest",
+        "grgui-web": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-multih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "multihack-core": "latest",
+        "multihack-server": "latest",
+        "multihack-web": "latest",
+        "multihack-wire": "latest",
+        "multihandedapi": "latest",
+        "multihash": "latest",
+        "multihash-decorator": "latest",
+        "multihasher": "latest",
+        "multihashes": "latest",
+        "multihashes-sync": "latest",
+        "multihashing": "latest",
+        "multihashing-async": "latest",
+        "multihello": "latest",
+        "multihex": "latest",
+        "multihost": "latest",
+        "multihttpdispatcher": "latest",
+        "multihyperdb": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-valv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "valv": "latest",
+        "valve": "latest",
+        "valve-artifactor": "latest",
+        "valve-blockchain-utils": "latest",
+        "valve-config": "latest",
+        "valve-contract": "latest",
+        "valve-error": "latest",
+        "valve-kv": "latest",
+        "valve-lib": "latest",
+        "valve-logger": "latest",
+        "valve-master": "latest",
+        "valve-server-query": "latest",
+        "valve-steam-web-api": "latest",
+        "valve-utils": "latest",
+        "valve-vpk": "latest",
+        "valvebuffer": "latest",
+        "valvegamemaster": "latest",
+        "valvekit": "latest",
+        "valvelet": "latest",
+        "valven-hooks": "latest",
+        "valven-module": "latest",
+        "valvestream": "latest",
+        "valvo-custom-bs": "latest"
+    }
+}

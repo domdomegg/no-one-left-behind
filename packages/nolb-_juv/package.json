@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_juv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@juve.js/cr7": "latest",
+        "@juvejs/cr7": "latest",
+        "@juvejs/shared-utils": "latest",
+        "@juvejs/utils": "latest",
+        "@juvers/juvers": "latest",
+        "@juvoni/gatsby-theme-networked-thought": "latest",
+        "@juvoxa/fetch-country": "latest",
+        "@juvoxa/ui-components": "latest"
+    }
+}

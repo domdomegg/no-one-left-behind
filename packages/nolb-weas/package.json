@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-weas",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "weas-random-messages": "latest",
+        "wease-cli": "latest",
+        "wease-pdf-viewer": "latest",
+        "weasel": "latest",
+        "weasel-dgraph": "latest",
+        "weasel-words": "latest",
+        "weasel-words-german": "latest",
+        "weasel.js": "latest",
+        "weaselpecker": "latest",
+        "weaselpromise.js": "latest",
+        "weasels": "latest",
+        "weasfcfs": "latest",
+        "weasley": "latest",
+        "weast": "latest",
+        "weast-cli": "latest",
+        "weasyprint": "latest",
+        "weasyprint-wrapper": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-go1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "go1-react-three-game-engine": "latest",
+        "go1-rpc_todo": "latest",
+        "go1-utilities": "latest",
+        "go123-msg-randommessages": "latest",
+        "go19-array2-yxl": "latest",
+        "go1d-api-doc": "latest",
+        "go1d-clone": "latest",
+        "go1d-deploy-test": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-backl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "backlab": "latest",
+        "backland": "latest",
+        "backlash": "latest",
+        "backless": "latest",
+        "backlib": "latest",
+        "backlight": "latest",
+        "backlight-cli": "latest",
+        "backlight-ui-dist": "latest",
+        "backline-grid": "latest",
+        "backline-mixins": "latest",
+        "backline-normalize": "latest",
+        "backlinks": "latest",
+        "backlinks-serp": "latest",
+        "backlit-node-sdk": "latest",
+        "backlog": "latest",
+        "backlog-api": "latest",
+        "backlog-asteroid": "latest",
+        "backlog-cli": "latest",
+        "backlog-explorer": "latest",
+        "backlog-js": "latest",
+        "backlog-models": "latest",
+        "backlog2slack": "latest",
+        "backlog4js": "latest",
+        "backlogger": "latest",
+        "backlogger-cli": "latest",
+        "backloggery": "latest",
+        "backlunr": "latest"
+    }
+}

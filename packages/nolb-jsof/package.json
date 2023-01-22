@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-jsof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jsof": "latest",
+        "jsof-parser": "latest",
+        "jsoff": "latest",
+        "jsoff-app": "latest",
+        "jsofi": "latest",
+        "jsoform": "latest",
+        "jsoft-agile": "latest",
+        "jsoft-react-view": "latest",
+        "jsoft-utils": "latest",
+        "jsoften": "latest"
+    }
+}

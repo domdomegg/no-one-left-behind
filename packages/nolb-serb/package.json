@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-serb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "serb": "latest",
+        "serbea": "latest",
+        "serberries": "latest",
+        "serbet": "latest",
+        "serbia": "latest",
+        "serbia-zip-codes": "latest",
+        "serbian-latin-cyrillic-transliteration": "latest",
+        "serbian-script-converter": "latest",
+        "serbian-transliteration": "latest",
+        "serbian-transliterator": "latest",
+        "serbian-validators": "latest",
+        "serbot": "latest",
+        "serbreno": "latest"
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-metav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "metav": "latest",
+        "metav1": "latest",
+        "metaverse": "latest",
+        "metaverse-api": "latest",
+        "metaverse-api-js": "latest",
+        "metaverse-compiler": "latest",
+        "metaverse-editor": "latest",
+        "metaverse-editor-core": "latest",
+        "metaverse-ops": "latest",
+        "metaverse-rpc": "latest",
+        "metaverse-scripting": "latest",
+        "metaverse-ts": "latest",
+        "metaverse-ui": "latest",
+        "metaverse-utils": "latest",
+        "metaversefile": "latest",
+        "metaversejs": "latest",
+        "metaversejs-p2p": "latest",
+        "metaversejs-transport-tcpip": "latest",
+        "metaverses": "latest",
+        "metaversetoolkit": "latest",
+        "metavesal-analytics-sdk": "latest",
+        "metaview": "latest",
+        "metaviewport-parser": "latest",
+        "metavm": "latest",
+        "metavue": "latest"
+    }
+}

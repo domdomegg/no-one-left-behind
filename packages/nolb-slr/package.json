@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-slr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "slr": "latest",
+        "slr-angularx-social-login": "latest",
+        "slr-base-components": "latest",
+        "slr-cli": "latest",
+        "slr-ngx-graph": "latest",
+        "slr-ui": "latest",
+        "slrainy-cli": "latest",
+        "slrc-element-tiptap": "latest",
+        "slrdbc": "latest",
+        "slrngen-js": "latest",
+        "slrs": "latest",
+        "slru-cache": "latest",
+        "slrun": "latest",
+        "slrun-bunyan-stream": "latest",
+        "slrun-client": "latest",
+        "slrun-common": "latest",
+        "slrun-core": "latest",
+        "slrun-dashboard": "latest",
+        "slrun-middleware": "latest",
+        "slrun-nuxt": "latest",
+        "slrun-nuxt-start": "latest",
+        "slrun-server": "latest",
+        "slrun-utils": "latest"
+    }
+}

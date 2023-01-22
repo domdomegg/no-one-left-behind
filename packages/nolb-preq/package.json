@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-preq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "preq": "latest",
+        "preql": "latest",
+        "preql-core": "latest",
+        "preql-mariadb": "latest",
+        "preql-stdlib": "latest",
+        "preqlcli": "latest",
+        "prequal": "latest",
+        "prequel": "latest",
+        "prequelize": "latest",
+        "prequest": "latest",
+        "prequest-lite": "latest",
+        "prequire": "latest"
+    }
+}

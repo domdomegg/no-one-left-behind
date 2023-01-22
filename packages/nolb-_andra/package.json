@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_andra",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@andraaspar/function-queue": "latest",
+        "@andraaspar/illa": "latest",
+        "@andraaspar/jquery-d-ts-3": "latest",
+        "@andrantis-ub/example-ng-library": "latest",
+        "@andrasbacsai/designer": "latest",
+        "@andrassawatzky/lotide": "latest"
+    }
+}

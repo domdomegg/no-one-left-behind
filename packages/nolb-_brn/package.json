@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_brn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@brn/jspm-loader-css": "latest",
+        "@brn/postcss-import": "latest",
+        "@brn/worker-plugin": "latest",
+        "@brnbp/clockit": "latest",
+        "@brnbp/probot": "latest",
+        "@brndtickets/common": "latest",
+        "@brnho/react-native-context-menu": "latest",
+        "@brnrdog/listbox": "latest"
+    }
+}

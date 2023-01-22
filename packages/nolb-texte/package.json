@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-texte",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "texte": "latest",
+        "textea": "latest",
+        "texteara-catui": "latest",
+        "textedit-cli": "latest",
+        "texteditor": "latest",
+        "texteditor-crdt-server": "latest",
+        "texteditorangularjs": "latest",
+        "texteditorwandr": "latest",
+        "texteener": "latest",
+        "textemoji-plugin": "latest",
+        "textemoticons.js": "latest",
+        "textencoder-ponyfill": "latest",
+        "textent": "latest",
+        "texter": "latest",
+        "texterify": "latest",
+        "texterify-api": "latest",
+        "textevents": "latest",
+        "textexpander-to-alfred3": "latest",
+        "textextensions": "latest",
+        "textextensions-albinodrought": "latest",
+        "textextr": "latest"
+    }
+}

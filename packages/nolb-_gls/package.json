@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_gls",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gls_singapore/vrp-driver": "latest",
+        "@gls_singapore/vrp-frontend-dist": "latest",
+        "@glsass/basics": "latest",
+        "@glsass/components": "latest",
+        "@glsass/core": "latest",
+        "@glsass/elements": "latest",
+        "@glsass/framework": "latest",
+        "@glsass/generics": "latest",
+        "@glsass/graphics": "latest",
+        "@glsass/helpers": "latest",
+        "@glsass/objects": "latest",
+        "@glsass/patterns": "latest",
+        "@glsass/settings": "latest",
+        "@glsass/tools": "latest",
+        "@glsass/utilities": "latest",
+        "@glsp-examples/workflow-modelserver-theia": "latest",
+        "@glsp-examples/workflow-sprotty": "latest",
+        "@glsp-examples/workflow-theia": "latest",
+        "@glsp/client": "latest",
+        "@glsp/sprotty-client": "latest",
+        "@glsp/sprotty-theia": "latest",
+        "@glsp/theia-integration": "latest",
+        "@glsunian/ad-web-cli": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-rn2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rn2": "latest",
+        "rn2alipay": "latest",
+        "rn2angular": "latest",
+        "rn2baidu": "latest",
+        "rn2ndtest": "latest",
+        "rn2quick": "latest",
+        "rn2react": "latest",
+        "rn2toutiao": "latest",
+        "rn2uniapp": "latest",
+        "rn2vue": "latest",
+        "rn2web": "latest",
+        "rn2weixin": "latest"
+    }
+}

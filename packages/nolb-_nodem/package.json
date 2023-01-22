@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_nodem",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nodemailer/mailparser2": "latest",
+        "@nodemate/bridge": "latest",
+        "@nodemate/noble": "latest",
+        "@nodemate/sphero": "latest",
+        "@nodematic/babel-preset": "latest",
+        "@nodematic/core": "latest",
+        "@nodematic/create-app": "latest",
+        "@nodeme/forms-react": "latest",
+        "@nodeme/grid-react": "latest",
+        "@nodeme/i18n-react": "latest",
+        "@nodeme/jss-react": "latest",
+        "@nodemodules/create-boilerplate": "latest",
+        "@nodemvc/node-mvc-cli": "latest"
+    }
+}

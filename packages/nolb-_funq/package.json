@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_funq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@funq/documentation-theme-light": "latest",
+        "@funq/jsutils": "latest",
+        "@funq/mock-server": "latest"
+    }
+}

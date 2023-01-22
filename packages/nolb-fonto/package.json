@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-fonto",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fonto": "latest",
+        "fonto1-frame-print": "latest",
+        "fontonload": "latest",
+        "fontoptim": "latest",
+        "fontoxml-documentation-e2e-tester": "latest",
+        "fontoxml-documentation-parser": "latest",
+        "fontoxml-documentation-website": "latest",
+        "fontoxml-localization-tools": "latest",
+        "fontoxpath": "latest",
+        "fontoxpath-module-loader": "latest",
+        "fontozzi": "latest"
+    }
+}

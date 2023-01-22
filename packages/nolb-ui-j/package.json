@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-ui-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ui-jar": "latest",
+        "ui-jar-schematics": "latest",
+        "ui-jia": "latest",
+        "ui-job-posting": "latest",
+        "ui-job-posting-card": "latest",
+        "ui-job-posting-form": "latest",
+        "ui-john-sun-1999": "latest",
+        "ui-js": "latest",
+        "ui-js-data-bind": "latest",
+        "ui-js-dropdown": "latest",
+        "ui-js-loader": "latest",
+        "ui-js-tree-wc": "latest",
+        "ui-juggling": "latest",
+        "ui-jy": "latest"
+    }
+}

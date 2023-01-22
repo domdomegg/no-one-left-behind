@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_ge-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ge-allen/core": "latest",
+        "@ge-allen/utils": "latest",
+        "@ge-fnm/action-object": "latest",
+        "@ge-fnm/communication-selector-module": "latest",
+        "@ge-fnm/csm": "latest",
+        "@ge-fnm/data-model": "latest",
+        "@ge-fnm/perform-action-module": "latest",
+        "@ge-ge/highlight": "latest",
+        "@ge-ge/selector": "latest",
+        "@ge-ge/utils": "latest"
+    }
+}

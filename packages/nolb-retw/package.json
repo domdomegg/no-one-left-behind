@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-retw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "retweak": "latest",
+        "retween": "latest",
+        "retweet": "latest",
+        "retweet-bot": "latest",
+        "retweeter": "latest",
+        "retweetjs": "latest",
+        "retwis-nodejs": "latest"
+    }
+}

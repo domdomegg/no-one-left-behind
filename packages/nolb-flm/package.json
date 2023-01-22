@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-flm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "flmarques": "latest",
+        "flmasd": "latest",
+        "flmc-date-time-picker": "latest",
+        "flmc-grid-generator": "latest",
+        "flmc-lite-renderer": "latest",
+        "flmcat-sip": "latest",
+        "flmgr": "latest",
+        "flmml-on-html5": "latest",
+        "flmngr": "latest",
+        "flmngr-angular": "latest",
+        "flmngr-react": "latest",
+        "flmngr-vue": "latest"
+    }
+}

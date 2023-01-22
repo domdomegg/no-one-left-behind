@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-npd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "npd": "latest",
+        "npd-api": "latest",
+        "npd-common-js": "latest",
+        "npd-course-shop": "latest",
+        "npdc-common": "latest",
+        "npdefer": "latest",
+        "npdemo": "latest",
+        "npdep": "latest",
+        "npdev-react-loadable-babel": "latest",
+        "npdev-svelte-loadable-babel": "latest",
+        "npdev453-nestjs-otel": "latest",
+        "npdf": "latest",
+        "npdl": "latest",
+        "npdso-test-package": "latest",
+        "npdx": "latest",
+        "npdynamodb": "latest",
+        "npdynamodb-typecast": "latest"
+    }
+}

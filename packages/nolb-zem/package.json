@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-zem",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zem": "latest",
+        "zem-ui": "latest",
+        "zemantics": "latest",
+        "zemantix": "latest",
+        "zemen": "latest",
+        "zemen-qotari": "latest",
+        "zemi": "latest",
+        "zemil": "latest",
+        "zemit-client-core": "latest",
+        "zemit-layout-engine": "latest",
+        "zemitter": "latest",
+        "zemla": "latest",
+        "zemmuwa-plugin": "latest",
+        "zemna-electron-toaster": "latest",
+        "zemoso_storybook": "latest",
+        "zempie-sdk-test": "latest"
+    }
+}

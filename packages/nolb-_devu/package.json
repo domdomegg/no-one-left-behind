@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_devu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@devui-design/icons": "latest",
+        "@devular/gatsby-plugin-plausible": "latest",
+        "@devular/gatsby-source-prismic-graphql": "latest",
+        "@devular/gatsby-theme-help-center": "latest",
+        "@devular/htm-ui": "latest",
+        "@devuplus1/common": "latest",
+        "@devuplus1/ticketing-common": "latest",
+        "@devuplusticketing/common": "latest",
+        "@devupx/vue-auth": "latest",
+        "@devupx/vue-fabric-wrapper": "latest",
+        "@devus/devus-react-components": "latest",
+        "@devutil/devutil": "latest"
+    }
+}

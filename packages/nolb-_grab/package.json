@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_grab",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@grab-id/grab-id-client": "latest",
+        "@grab-x/scribe-web-sdk": "latest",
+        "@grabantot/react-cli": "latest",
+        "@grabbitickets/common": "latest",
+        "@grabit/common": "latest",
+        "@grabjs/mobile-kit-bridge-sdk": "latest",
+        "@grabjs/superapp-sdk": "latest",
+        "@grabrinc/grabr-build-tools": "latest",
+        "@grabrinc/isomorphic-logger": "latest",
+        "@grabrinc/travisci-test": "latest",
+        "@grabs00n/dices": "latest",
+        "@grabs00n/js": "latest",
+        "@grabtix/common": "latest",
+        "@grabvintage/babel-plugin-transform-ssm": "latest",
+        "@grabvintage/ts-schemaof": "latest",
+        "@grabzit/js": "latest"
+    }
+}

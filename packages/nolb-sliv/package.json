@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-sliv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sliv": "latest",
+        "sliv-test-1": "latest",
+        "sliv-test-2": "latest",
+        "slive-server": "latest",
+        "sliver": "latest",
+        "sliver-cli": "latest",
+        "sliver-marquee": "latest",
+        "sliver-md-loader": "latest",
+        "sliver-script": "latest",
+        "slivesol": "latest"
+    }
+}

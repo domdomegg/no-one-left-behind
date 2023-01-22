@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-ds_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ds.algo": "latest",
+        "ds.js": "latest",
+        "ds.lib.com": "latest",
+        "ds.oop": "latest",
+        "ds_app_core": "latest",
+        "ds_day1111": "latest",
+        "ds_julieo": "latest",
+        "ds_julieo.git": "latest",
+        "ds_kill": "latest",
+        "ds_particles.js": "latest",
+        "ds_study_npm": "latest",
+        "ds_study_test_npm": "latest",
+        "ds_tiny": "latest",
+        "ds_todo": "latest",
+        "ds_ui": "latest",
+        "ds_ui_20180705": "latest"
+    }
+}

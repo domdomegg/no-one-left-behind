@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-nodr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodra": "latest",
+        "nodram": "latest",
+        "nodredis": "latest",
+        "nodredismsg": "latest",
+        "nodreports": "latest",
+        "nodrix": "latest",
+        "nodrix-web": "latest",
+        "nodriza": "latest",
+        "nodriza-avatar-initials": "latest",
+        "nodrize": "latest",
+        "nodrize-common": "latest",
+        "nodroid": "latest",
+        "nodrrr": "latest"
+    }
+}

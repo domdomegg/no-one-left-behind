@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_tey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@teyalite/hackbio-common": "latest",
+        "@teyd/t-bot": "latest",
+        "@teyidev/common": "latest",
+        "@teyostudios/apply-dynamic-actions": "latest",
+        "@teyostudios/react-calendar": "latest",
+        "@teyostudios/sync-event-listener": "latest",
+        "@teysa/cli": "latest",
+        "@teysa/cli-shared": "latest",
+        "@teysa/eslint-config-react": "latest",
+        "@teysa/prettier-config": "latest",
+        "@teysa/scaffold-templates": "latest",
+        "@teysa/ui-next": "latest",
+        "@teysa/ui-react": "latest",
+        "@teyvatdev/node-sdk": "latest",
+        "@teyvatdev/types": "latest",
+        "@teyvatdev/types-test": "latest",
+        "@teyya/lotide": "latest"
+    }
+}

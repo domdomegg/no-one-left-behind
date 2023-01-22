@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_testw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@testwellioviz/wellioviz": "latest",
+        "@testwizard/android-set-top-box": "latest",
+        "@testwizard/android-smart-tv": "latest",
+        "@testwizard/commands-audio": "latest",
+        "@testwizard/commands-camera": "latest",
+        "@testwizard/commands-core": "latest",
+        "@testwizard/commands-mobile": "latest",
+        "@testwizard/commands-powerswitch": "latest",
+        "@testwizard/commands-remotecontrol": "latest",
+        "@testwizard/commands-services": "latest",
+        "@testwizard/commands-video": "latest",
+        "@testwizard/commands-web": "latest",
+        "@testwizard/core": "latest",
+        "@testwizard/mobile": "latest",
+        "@testwizard/session": "latest",
+        "@testwizard/set-top-box": "latest",
+        "@testwizard/smart-tv": "latest",
+        "@testwizard/test": "latest",
+        "@testwizard/testobjects-core": "latest",
+        "@testwizard/web": "latest",
+        "@testwriter/file-preview-page": "latest"
+    }
+}

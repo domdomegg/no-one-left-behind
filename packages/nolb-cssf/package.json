@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-cssf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cssfilter": "latest",
+        "cssflat": "latest",
+        "cssflat-loader": "latest",
+        "cssflat-loader-core": "latest",
+        "cssfmt": "latest",
+        "cssfontparser": "latest",
+        "cssformatter": "latest",
+        "cssframeuserage": "latest"
+    }
+}

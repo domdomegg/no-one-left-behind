@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-sm4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sm4-128-ecb": "latest",
+        "sm4-crypto-tool": "latest",
+        "sm4-demo": "latest",
+        "sm4-password": "latest",
+        "sm4js": "latest",
+        "sm4shbot.com": "latest",
+        "sm4util": "latest"
+    }
+}

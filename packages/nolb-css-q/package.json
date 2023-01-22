@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-css-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "css-quad": "latest",
+        "css-queries": "latest",
+        "css-query": "latest",
+        "css-query-selector": "latest",
+        "css-queryless": "latest",
+        "css-quick-starter": "latest"
+    }
+}

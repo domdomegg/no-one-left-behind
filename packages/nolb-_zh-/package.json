@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_zh-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zh-achieve/anypass": "latest",
+        "@zh-cli-dev-test/core": "latest",
+        "@zh-cli-dev-test/utils": "latest",
+        "@zh-cli/cli": "latest",
+        "@zh-cli/cli-shared-utils": "latest",
+        "@zh-or/lib": "latest",
+        "@zh-or/notify-js": "latest"
+    }
+}

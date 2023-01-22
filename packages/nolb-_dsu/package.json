@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_dsu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dsuen/bbxds": "latest",
+        "@dsutils/mobile": "latest",
+        "@dsutils/web": "latest",
+        "@dsutilst/mobile": "latest",
+        "@dsutilst/web": "latest"
+    }
+}

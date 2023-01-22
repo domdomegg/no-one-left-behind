@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-demo-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "demo-validation2": "latest",
+        "demo-validator": "latest",
+        "demo-version": "latest",
+        "demo-video": "latest",
+        "demo-vik": "latest",
+        "demo-vite-lit-component": "latest",
+        "demo-vm-hw": "latest",
+        "demo-vu3-lib-123": "latest",
+        "demo-vue-3-vite-component-lib": "latest",
+        "demo-vue-cli": "latest",
+        "demo-vue-proj": "latest",
+        "demo-vue-proj2": "latest",
+        "demo-vue-proj3": "latest",
+        "demo-vue-proj4": "latest",
+        "demo-vue-webpack-simple2": "latest",
+        "demo-vue11": "latest",
+        "demo-vue3-isp": "latest",
+        "demo-vuecli2-ui": "latest",
+        "demo-vuecli3-test": "latest",
+        "demo-vuecli3-test1": "latest",
+        "demo-vuecli3-ui": "latest",
+        "demo-vuecli3-ui1": "latest",
+        "demo-vuecli4": "latest",
+        "demo-vuecli4-ui": "latest",
+        "demo-vuelog": "latest",
+        "demo-vuex": "latest"
+    }
+}

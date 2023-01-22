@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-sqe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sqe": "latest",
+        "sqe-editer": "latest",
+        "sqe-editer-server": "latest",
+        "sqeasy": "latest",
+        "sqedt": "latest",
+        "sqee": "latest",
+        "sqee-loader": "latest",
+        "sqem": "latest",
+        "sqema": "latest",
+        "sqerge": "latest",
+        "sqess": "latest"
+    }
+}

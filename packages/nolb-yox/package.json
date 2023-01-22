@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-yox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yox": "latest",
+        "yox-cli": "latest",
+        "yox-common": "latest",
+        "yox-config": "latest",
+        "yox-dom": "latest",
+        "yox-expression-compiler": "latest",
+        "yox-finger": "latest",
+        "yox-loader": "latest",
+        "yox-observer": "latest",
+        "yox-router": "latest",
+        "yox-snabbdom": "latest",
+        "yox-store": "latest",
+        "yox-template-compiler": "latest",
+        "yox-template-loader": "latest",
+        "yox-touch": "latest",
+        "yox-type": "latest",
+        "yox-ui": "latest",
+        "yoxable": "latest",
+        "yoxel": "latest",
+        "yoxi": "latest"
+    }
+}

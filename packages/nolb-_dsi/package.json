@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_dsi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dsibilly/dice-tower": "latest",
+        "@dsibilly/mersenne-twister": "latest",
+        "@dsifford/eslint-config": "latest",
+        "@dsifford/prettier-config": "latest",
+        "@dsifford/stylelint-config": "latest",
+        "@dsiglobal/scp-api": "latest",
+        "@dsiglobal/scp-portal-state": "latest",
+        "@dsiglobal/scp-portal-ui": "latest",
+        "@dsigncoders/message": "latest",
+        "@dsimowitz/class-transformer": "latest",
+        "@dsinisa/gulp-metalsmith-server": "latest",
+        "@dsinisa/gunmetal": "latest",
+        "@dsinjs/binary-tree": "latest",
+        "@dsinjs/linked-list": "latest",
+        "@dsinni/connect-history-api-fallback": "latest",
+        "@dsinnovators/multi-level-table": "latest",
+        "@dsisolutions/halogen": "latest",
+        "@dsisolutions/node-converge": "latest",
+        "@dsisolutions/react-fabricjs": "latest",
+        "@dsisolutions/react-toastify": "latest",
+        "@dsivd/foehn": "latest",
+        "@dsivd/joran": "latest"
+    }
+}

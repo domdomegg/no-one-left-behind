@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-naw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "naw": "latest",
+        "naw-displayer": "latest",
+        "nawa": "latest",
+        "nawa-panel": "latest",
+        "nawa-register": "latest",
+        "nawac": "latest",
+        "nawadash": "latest",
+        "nawadata-web-example": "latest",
+        "nawajun": "latest",
+        "nawamp": "latest",
+        "nawaphon": "latest",
+        "nawatest": "latest",
+        "nawazshariff-frame-print": "latest",
+        "nawb": "latest",
+        "nawdawg": "latest",
+        "nawenn-modal-react": "latest",
+        "nawf": "latest",
+        "nawf-loader": "latest",
+        "nawf-router": "latest",
+        "nawk": "latest",
+        "nawn": "latest",
+        "nawr": "latest",
+        "naws": "latest",
+        "nawt": "latest"
+    }
+}

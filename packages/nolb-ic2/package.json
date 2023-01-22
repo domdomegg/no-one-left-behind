@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-ic2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ic2-ngx": "latest",
+        "ic2-reactor-sim": "latest",
+        "ic2012package1": "latest"
+    }
+}

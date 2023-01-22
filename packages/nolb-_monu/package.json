@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_monu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@monudj/monu-callback": "latest",
+        "@monukanyal/multiple-email-input": "latest",
+        "@monument-no/types-content-api": "latest",
+        "@monument/assert": "latest",
+        "@monument/core": "latest",
+        "@monument/date": "latest",
+        "@monument/keyboard": "latest",
+        "@monument/lens": "latest",
+        "@monument/logger": "latest",
+        "@monument/monad": "latest",
+        "@monument/recaptcha-validator": "latest",
+        "@monument/store": "latest",
+        "@monument/uri": "latest",
+        "@monument/version": "latest",
+        "@monumentai/j": "latest",
+        "@monumentuminc/obisidian": "latest",
+        "@monun-docs/surf": "latest"
+    }
+}

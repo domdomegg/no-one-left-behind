@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_ecr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ecr/contracts": "latest",
+        "@ecraneworldwide/node-red-contrib-lz4": "latest",
+        "@ecranked/api": "latest",
+        "@ecreeth/inertia-react": "latest",
+        "@ecreeth/rn-flex": "latest",
+        "@ecreeth/rn-ui": "latest",
+        "@ecreeth/tw.macro": "latest",
+        "@ecremmoce-pkg/hooks": "latest",
+        "@ecremmoce-pkg/ui": "latest",
+        "@ecremmoce/hooks": "latest",
+        "@ecromaneli/clockjs": "latest",
+        "@ecromaneli/mquery": "latest",
+        "@ecromaneli/true-skill": "latest",
+        "@ecrowjs/eslint-config": "latest",
+        "@ecrowjs/npmpack": "latest",
+        "@ecrowjs/theme": "latest",
+        "@ecrowjs/tsconfig": "latest",
+        "@ecrypty/florijncoincore-lib": "latest",
+        "@ecrypty/florijncoind-rpc": "latest",
+        "@ecrypty/x11-hash-js": "latest"
+    }
+}

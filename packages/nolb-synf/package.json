@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-synf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "synfc-wrequest": "latest",
+        "synflood": "latest",
+        "synfo": "latest",
+        "synfrastructure": "latest"
+    }
+}

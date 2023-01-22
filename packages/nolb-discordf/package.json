@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-discordf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "DiscordForge": "latest",
+        "discordfacts": "latest",
+        "discordflood": "latest",
+        "discordfuel": "latest",
+        "discordful": "latest",
+        "discordful-commander": "latest"
+    }
+}

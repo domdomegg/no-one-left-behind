@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-soj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "soj": "latest",
+        "soji": "latest",
+        "sojo": "latest",
+        "sojr": "latest",
+        "sojs": "latest",
+        "sojs-mysql": "latest",
+        "sojs-script": "latest",
+        "sojs-test": "latest",
+        "sojs-utility": "latest",
+        "sojs-utility-file": "latest",
+        "sojs-utility-url": "latest",
+        "soju": "latest"
+    }
+}

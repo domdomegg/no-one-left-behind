@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_tux",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tux-ui/base": "latest",
+        "@tux-ui/my-ts-lib": "latest",
+        "@tux-ui/tsup": "latest",
+        "@tuxjs/core": "latest",
+        "@tuxjs/eventbus": "latest",
+        "@tuxology/cpgqls-client": "latest",
+        "@tuxrampage/k8s-client-node": "latest",
+        "@tuxsudo/b64": "latest",
+        "@tuxsudo/compose": "latest",
+        "@tuxsudo/debounce": "latest",
+        "@tuxsudo/parsetime": "latest",
+        "@tuxsudo/scope-test": "latest",
+        "@tuxsudo/throttle": "latest",
+        "@tuxsudo/time": "latest"
+    }
+}

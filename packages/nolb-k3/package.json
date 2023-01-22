@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-k3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "k3": "latest",
+        "k3-ui": "latest",
+        "k300": "latest",
+        "k32-npm-test-pkg": "latest",
+        "k360layout": "latest",
+        "k360whatsapp": "latest",
+        "k3a-functions": "latest",
+        "k3bootstrap": "latest",
+        "k3cloudapi": "latest",
+        "k3cloudwebapi": "latest",
+        "k3d": "latest",
+        "k3d-material-ui-filter": "latest",
+        "k3d-react-scripts": "latest",
+        "k3d-shell": "latest",
+        "k3dump": "latest",
+        "k3s-ci": "latest",
+        "k3v-modal": "latest",
+        "k3v-pac": "latest",
+        "k3v-scripts": "latest"
+    }
+}

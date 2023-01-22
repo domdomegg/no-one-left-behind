@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-ega",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ega": "latest",
+        "egad": "latest",
+        "egads": "latest",
+        "egain-resourcemanagement-service": "latest",
+        "egainlogger": "latest",
+        "egainloggerdemo": "latest",
+        "egal": "latest",
+        "egalink-toasty.js": "latest",
+        "egallo-npm-test-pkg": "latest",
+        "egame-ws-client": "latest",
+        "egami": "latest",
+        "eganglia": "latest",
+        "egat": "latest"
+    }
+}

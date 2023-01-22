@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-saif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "saif": "latest",
+        "saif-bar-chart": "latest",
+        "saif-components-library": "latest",
+        "saif-indicator": "latest",
+        "saif-line-chart": "latest",
+        "saif-resume": "latest",
+        "saif_atm": "latest",
+        "saif_calculator": "latest",
+        "saif_coundown_timer": "latest",
+        "saif_currency_converter": "latest",
+        "saif_numbers_guessing": "latest",
+        "saif_student_management_system": "latest",
+        "saif_todo_list": "latest",
+        "saif_word_counter": "latest",
+        "saifa-components-demo-ts": "latest",
+        "saifa-resume": "latest",
+        "saifoelloh-react-counter": "latest",
+        "saifshamim": "latest",
+        "saifshines": "latest",
+        "saifu": "latest"
+    }
+}

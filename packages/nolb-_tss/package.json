@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_tss",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tssbpchannel/bluepage": "latest",
+        "@tssbpchannel/box": "latest",
+        "@tssbpchannel/bpmsutils": "latest",
+        "@tssbpchannel/markdown-editor": "latest",
+        "@tssbpchannel/performance": "latest",
+        "@tssbpchannel/reactutils": "latest",
+        "@tssbpchannel/sso": "latest",
+        "@tssp/customer-api-client": "latest",
+        "@tssp/dhl-calculator-api-client": "latest",
+        "@tssp/product-api-client": "latest",
+        "@tssp/stock-api-client": "latest",
+        "@tssr/webpack-ssr-dev-middleware": "latest",
+        "@tssr/webpack-ssr-dev-server": "latest",
+        "@tsswap/sdk": "latest",
+        "@tssword/generate-admin": "latest"
+    }
+}

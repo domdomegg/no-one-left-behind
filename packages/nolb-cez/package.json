@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-cez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cez": "latest",
+        "cez-stencil-userview": "latest",
+        "cez-ui": "latest",
+        "cezanne": "latest",
+        "cezariu-test-component": "latest",
+        "cezary-daniel-nowak-office-js-helpers": "latest",
+        "cezboil": "latest",
+        "cezerin": "latest",
+        "cezerin-client": "latest",
+        "cezerin2-client": "latest",
+        "cezerin2-client-upgrade": "latest",
+        "cezerin2-client_new": "latest",
+        "cezerin3-client": "latest",
+        "cezhou-cli": "latest",
+        "cezsjw": "latest",
+        "cezuis": "latest",
+        "cezuiss": "latest"
+    }
+}

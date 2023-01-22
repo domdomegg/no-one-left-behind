@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-hyper_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hyper.io": "latest",
+        "hyper.io-ejs": "latest",
+        "hyper.io-express-auth-basic": "latest",
+        "hyper.io-handlebars": "latest",
+        "hyper.js": "latest",
+        "hyper_friends": "latest"
+    }
+}

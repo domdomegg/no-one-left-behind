@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-bym",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bym": "latest",
+        "bymax": "latest",
+        "byml-ui": "latest",
+        "byml-vue-ui": "latest",
+        "bymodule": "latest",
+        "bymouse": "latest",
+        "bymtester-api": "latest",
+        "bymymodule": "latest"
+    }
+}

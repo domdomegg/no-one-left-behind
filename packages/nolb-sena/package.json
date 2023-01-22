@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-sena",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sena-cf-plugin": "latest",
+        "sena-components": "latest",
+        "senadores": "latest",
+        "senadores-asistencia": "latest",
+        "senadores-base": "latest",
+        "senadores-detalle": "latest",
+        "senadores-elecciones": "latest",
+        "senadores-viajes": "latest",
+        "senaev.com": "latest",
+        "senai-odyssey-locale": "latest",
+        "senapt-assured": "latest",
+        "senapt-dev": "latest",
+        "senapt-fpu": "latest",
+        "senapt-production": "latest",
+        "senapt-tomato": "latest",
+        "senapt-tseg": "latest",
+        "senar-components": "latest",
+        "senasaikou-yeoman": "latest",
+        "senates-names": "latest",
+        "senator": "latest"
+    }
+}

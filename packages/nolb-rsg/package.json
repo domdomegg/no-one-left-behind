@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-rsg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rsg": "latest",
+        "rsg-alt": "latest",
+        "rsg-chess": "latest",
+        "rsg-chess-graphics": "latest",
+        "rsg-chess-rn-graphics": "latest",
+        "rsg-cli": "latest",
+        "rsg-components": "latest",
+        "rsg-log-server": "latest",
+        "rsg-metrics-server": "latest",
+        "rsgen": "latest",
+        "rsgrid": "latest",
+        "rsgui": "latest"
+    }
+}

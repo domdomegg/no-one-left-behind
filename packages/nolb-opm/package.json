@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-opm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "opm": "latest",
+        "opm-dynamic-model": "latest",
+        "opm-qg": "latest",
+        "opm-query-generator": "latest",
+        "opmext-brix": "latest",
+        "opmext-project": "latest",
+        "opml": "latest",
+        "opml-file-manager": "latest",
+        "opml-generator": "latest",
+        "opml-generator2": "latest",
+        "opml-icon": "latest",
+        "opml-to-json": "latest",
+        "opml-to-markdown": "latest",
+        "opmlparser": "latest",
+        "opmltojs": "latest",
+        "opmltotext": "latest",
+        "opmo-generator": "latest",
+        "opmongo": "latest"
+    }
+}

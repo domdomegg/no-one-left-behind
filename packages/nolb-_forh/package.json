@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_forh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@forhot2000/express-async-handler": "latest",
+        "@forhot2000/express-json-error-handler": "latest",
+        "@forhot2000/knockout-starter": "latest",
+        "@forhot2000/recorderjs": "latest",
+        "@forhot2000/ts-migrate": "latest"
+    }
+}

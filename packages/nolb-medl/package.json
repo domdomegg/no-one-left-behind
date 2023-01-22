@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-medl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "medlar": "latest",
+        "medlei-parse-push-plugin": "latest",
+        "medlemsapp-types": "latest",
+        "medlemsapp-types-be": "latest",
+        "medlemsapp-types-fe": "latest",
+        "medley": "latest",
+        "medlife-components": "latest",
+        "medlinetheme": "latest",
+        "medlinexmltojson": "latest",
+        "medlinkerscale": "latest",
+        "medlit-lib": "latest",
+        "medlog-cli-dev-components": "latest",
+        "medlog-cli-dev-vue": "latest",
+        "medlog-cli-dev-vue-element-admin": "latest",
+        "medlor-virtual-list": "latest"
+    }
+}

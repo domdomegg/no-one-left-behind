@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_trivi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-_trivia": "latest",
+        "@zalastax/nolb-_trivik": "latest",
+        "@zalastax/nolb-_triviu": "latest",
+        "@zalastax/nolb-_triviy": "latest"
+    }
+}

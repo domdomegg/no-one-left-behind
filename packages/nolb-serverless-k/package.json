@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-serverless-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "serverless-kafka": "latest",
+        "serverless-kinesis-esm-plugin": "latest",
+        "serverless-kinesis-stream-management": "latest",
+        "serverless-kit": "latest",
+        "serverless-kms-alias": "latest",
+        "serverless-kms-grants": "latest",
+        "serverless-kms-secrets": "latest",
+        "serverless-knative": "latest",
+        "serverless-kubeless": "latest",
+        "serverless-kubeless-jin": "latest",
+        "serverless-kubeless-offline": "latest"
+    }
+}

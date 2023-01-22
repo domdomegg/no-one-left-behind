@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-colos",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "coloss": "latest",
+        "colossal": "latest",
+        "colossal-builder": "latest",
+        "colosseum": "latest",
+        "colosseum-player": "latest",
+        "colossus": "latest",
+        "colossus-browser": "latest",
+        "colossuscore-lib": "latest",
+        "colossuscore-mnemonic": "latest",
+        "colostate-ricro-scripts": "latest",
+        "colostate-ricro-ui": "latest"
+    }
+}

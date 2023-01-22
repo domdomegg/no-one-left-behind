@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-weac",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "weacast-alert": "latest",
+        "weacast-api": "latest",
+        "weacast-arome": "latest",
+        "weacast-arpege": "latest",
+        "weacast-client": "latest",
+        "weacast-core": "latest",
+        "weacast-gfs": "latest",
+        "weacast-grib2json": "latest",
+        "weacast-gtiff2json": "latest",
+        "weacast-leaflet": "latest",
+        "weacast-leaflet-velocity": "latest",
+        "weacast-loader": "latest",
+        "weacast-probe": "latest",
+        "weachy": "latest",
+        "weact": "latest",
+        "weact-cli": "latest",
+        "weact-d5tepicker": "latest"
+    }
+}

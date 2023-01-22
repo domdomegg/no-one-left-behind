@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_w6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@w6s/cli": "latest",
+        "@w6s/cli-deploy": "latest",
+        "@w6s/cli-script": "latest",
+        "@w6s/cli-shared-utils": "latest",
+        "@w6s/codash": "latest",
+        "@w6s/compare-versions": "latest",
+        "@w6s/cordova-import": "latest",
+        "@w6s/create-file-plugin": "latest",
+        "@w6s/dex": "latest",
+        "@w6s/escape": "latest",
+        "@w6s/eslint-config": "latest",
+        "@w6s/export-build-info": "latest",
+        "@w6s/export-env-json": "latest",
+        "@w6s/fedd": "latest",
+        "@w6s/mock-plugin": "latest",
+        "@w6s/open-desktop-application": "latest",
+        "@w6s/query-string": "latest",
+        "@w6s/react-infinite-scroller": "latest",
+        "@w6s/sdk": "latest",
+        "@w6s/sentry-plugin": "latest",
+        "@w6s/simple-storage": "latest",
+        "@w6s/style-resources-loader-plugin": "latest",
+        "@w6s/stylelint-config": "latest",
+        "@w6s/stylelint-plugin": "latest",
+        "@w6s/vconsole-plugin": "latest",
+        "@w6s/vue-cli-plugin-stylelint": "latest",
+        "@w6s/vue-code-component": "latest",
+        "@w6s/vuepress-code-wrapper": "latest"
+    }
+}

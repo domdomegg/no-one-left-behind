@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-dated",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dated": "latest",
+        "dated-cli": "latest",
+        "dated_log": "latest",
+        "datedada": "latest",
+        "datedap": "latest",
+        "datedash": "latest",
+        "dateday-lite": "latest",
+        "datedbrowser": "latest",
+        "datedelta": "latest",
+        "datediff": "latest",
+        "datedog": "latest",
+        "datedropper": "latest",
+        "datedropper-pro": "latest",
+        "datedropper3": "latest"
+    }
+}

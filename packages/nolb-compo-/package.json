@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-compo-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "compo-dataset": "latest",
+        "compo-demo": "latest",
+        "compo-form": "latest",
+        "compo-highlight.js": "latest",
+        "compo-layout": "latest",
+        "compo-lazy": "latest",
+        "compo-lib": "latest",
+        "compo-markdown": "latest",
+        "compo-pack": "latest",
+        "compo-quill-editor": "latest",
+        "compo-radio": "latest",
+        "compo-round-progress": "latest",
+        "compo-tree-view": "latest",
+        "compo-views": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_esg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@esgi-javascript-lab/pwd": "latest",
+        "@esgi-javascript-lab/wc": "latest",
+        "@esgi/eslint-config-javascript": "latest",
+        "@esgi/stylelint-config": "latest",
+        "@esgi/syslog": "latest",
+        "@esgi/test": "latest",
+        "@esgj/bookflow-sdk": "latest",
+        "@esgj/booking-sdk": "latest",
+        "@esgj/booking-ui": "latest",
+        "@esgj/serve-hbs": "latest",
+        "@esgraf/theme": "latest",
+        "@esgtickets/common": "latest"
+    }
+}

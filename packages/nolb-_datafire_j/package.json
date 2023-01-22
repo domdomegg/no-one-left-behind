@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_datafire_j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datafire/je_apis": "latest",
+        "@datafire/jira": "latest",
+        "@datafire/jira_local": "latest",
+        "@datafire/jirafe": "latest",
+        "@datafire/jokes_one": "latest",
+        "@datafire/jumpseller": "latest",
+        "@datafire/just_eat": "latest"
+    }
+}

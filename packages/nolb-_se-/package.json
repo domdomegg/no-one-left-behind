@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_se-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@se-cli/react-project-template": "latest",
+        "@se-cli/template-react": "latest",
+        "@se-cli/template-vue3": "latest",
+        "@se-cli/vue-component": "latest",
+        "@se-cli/vue-component-template": "latest",
+        "@se-cli/vue-project-template": "latest",
+        "@se-cli/vue-project-template-custom": "latest",
+        "@se-fe/logger": "latest",
+        "@se-fe/utils": "latest",
+        "@se-ng/dummy-demo": "latest",
+        "@se-ng/huppeldepup": "latest",
+        "@se-ng/ivy-life-cycle-decorators": "latest",
+        "@se-ng/let": "latest",
+        "@se-ng/observable-hooks": "latest",
+        "@se-ng/observable-utils": "latest",
+        "@se-ng/swapi": "latest",
+        "@se-ng/validate": "latest",
+        "@se-se/utils": "latest",
+        "@se-ui/vue": "latest",
+        "@se-yl/buziness": "latest",
+        "@se-yl/contracts": "latest",
+        "@se-yl/dev-cli": "latest",
+        "@se-yl/fabric": "latest",
+        "@se-yl/gis": "latest",
+        "@se-yl/npm": "latest",
+        "@se-yl/npm-pick-manifest": "latest",
+        "@se-yl/utils": "latest"
+    }
+}

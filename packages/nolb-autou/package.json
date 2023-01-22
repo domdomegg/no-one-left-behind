@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-autou",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "autoui-project-generator": "latest",
+        "autounsubscribe": "latest",
+        "autoup": "latest",
+        "autoupdate": "latest",
+        "autoupdate-simple": "latest",
+        "autoupdate-webpack-plugin": "latest",
+        "autoupdatedjson": "latest",
+        "autoupdater": "latest",
+        "autoupdaty": "latest",
+        "autouploadimg": "latest",
+        "autoutils": "latest"
+    }
+}

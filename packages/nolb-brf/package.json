@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-brf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brf-chat": "latest",
+        "brfake": "latest",
+        "brfck": "latest",
+        "brfinance": "latest",
+        "brfork-typeorm": "latest",
+        "brfs": "latest",
+        "brfs-babel": "latest",
+        "brfs-htmlmin": "latest",
+        "brfs-ignore": "latest",
+        "brfs-node-15": "latest",
+        "brfs2": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-dya",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dya": "latest",
+        "dya-two": "latest",
+        "dya2-plus": "latest",
+        "dyad": "latest",
+        "dyad-fsa-fetch": "latest",
+        "dyad-fsa-promise": "latest",
+        "dyal": "latest",
+        "dyana": "latest",
+        "dyang-cli": "latest",
+        "dyang-import-loader": "latest",
+        "dyangjs-property-decorator": "latest",
+        "dyangui": "latest",
+        "dyangui-vue": "latest"
+    }
+}

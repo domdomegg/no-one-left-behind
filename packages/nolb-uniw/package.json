@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-uniw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "uniweb": "latest",
+        "uniweb-dashboard": "latest",
+        "uniweb-lightbox2": "latest",
+        "uniweighter": "latest",
+        "uniwheel": "latest",
+        "uniwrapper": "latest",
+        "uniwrs": "latest",
+        "uniws": "latest",
+        "uniwswap-sdk": "latest",
+        "uniwue-lernplaetze-scraper": "latest",
+        "uniwx": "latest"
+    }
+}

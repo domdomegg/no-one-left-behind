@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-itw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "itw": "latest",
+        "itw-utils": "latest",
+        "itwangzi-tools2": "latest",
+        "itwanshu": "latest",
+        "itwarm-ui": "latest",
+        "itwashy-tools": "latest",
+        "itwatchdogs": "latest",
+        "itwc-datetools": "latest",
+        "itwcw-lib": "latest",
+        "itwcytools": "latest",
+        "itwd-icons": "latest",
+        "itweb-cli": "latest",
+        "itweb-tools": "latest",
+        "itweekenddemo": "latest",
+        "itweet": "latest",
+        "itwin-extension-debugging-prototype": "latest",
+        "itwis-widget": "latest",
+        "itwo40": "latest",
+        "itworks-graber-support-ticket": "latest",
+        "itworksiti42": "latest",
+        "itworksjs": "latest",
+        "itworx": "latest",
+        "itworx-hub-modal": "latest",
+        "itworxwaheed": "latest",
+        "itws2-sample-marks-data": "latest",
+        "itwsii": "latest",
+        "itwucode-http": "latest"
+    }
+}

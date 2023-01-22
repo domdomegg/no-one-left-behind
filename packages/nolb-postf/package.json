@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-postf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "postfetch": "latest",
+        "postfile-cli": "latest",
+        "postfinance-simple": "latest",
+        "postfinancecheckout": "latest",
+        "postfix": "latest",
+        "postfix-calculate": "latest",
+        "postfix-calculator": "latest",
+        "postfix-haskell": "latest",
+        "postfix-parser": "latest",
+        "postfix-parser2": "latest",
+        "postfix-queue-parser": "latest",
+        "postfix.js": "latest",
+        "postflight": "latest",
+        "postflow-client": "latest",
+        "postflux": "latest",
+        "postforjson": "latest",
+        "postform": "latest",
+        "postform-api": "latest",
+        "postform-error-codes": "latest",
+        "postform-errors": "latest",
+        "postform-js": "latest",
+        "postform-ui": "latest",
+        "postfs": "latest",
+        "postfunction": "latest"
+    }
+}

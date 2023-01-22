@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_poy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@poying/autopersist": "latest",
+        "@poyoho/compile-md": "latest",
+        "@poyoho/eslint-plugin-config": "latest",
+        "@poyoho/loader-md": "latest",
+        "@poyoho/markdown": "latest",
+        "@poyoho/md-loader-compile": "latest",
+        "@poyoho/shared-react": "latest",
+        "@poyoho/shared-service": "latest",
+        "@poyoho/shared-vue": "latest",
+        "@poyoho/storage-hook": "latest",
+        "@poyoho/ui-elements": "latest",
+        "@poyoho/vue-devtools": "latest"
+    }
+}

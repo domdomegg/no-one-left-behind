@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_stdlib_si",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stdlib/simulate": "latest",
+        "@stdlib/simulate-iter": "latest",
+        "@stdlib/simulate-iter-awgn": "latest",
+        "@stdlib/simulate-iter-awln": "latest",
+        "@stdlib/simulate-iter-awun": "latest",
+        "@stdlib/simulate-iter-bartlett-hann-pulse": "latest",
+        "@stdlib/simulate-iter-bartlett-pulse": "latest",
+        "@stdlib/simulate-iter-cosine-wave": "latest",
+        "@stdlib/simulate-iter-dirac-comb": "latest",
+        "@stdlib/simulate-iter-flat-top-pulse": "latest",
+        "@stdlib/simulate-iter-hann-pulse": "latest",
+        "@stdlib/simulate-iter-lanczos-pulse": "latest",
+        "@stdlib/simulate-iter-periodic-sinc": "latest",
+        "@stdlib/simulate-iter-pulse": "latest",
+        "@stdlib/simulate-iter-sawtooth-wave": "latest",
+        "@stdlib/simulate-iter-sine-wave": "latest",
+        "@stdlib/simulate-iter-square-wave": "latest",
+        "@stdlib/simulate-iter-triangle-wave": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-egg-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "egg-ua": "latest",
+        "egg-ua-test": "latest",
+        "egg-ua-zxh": "latest",
+        "egg-udp": "latest",
+        "egg-ueditor": "latest",
+        "egg-ueditor-feat": "latest",
+        "egg-ui": "latest",
+        "egg-uitest": "latest",
+        "egg-uki-base": "latest",
+        "egg-uki-grpc": "latest",
+        "egg-umi-ssr": "latest",
+        "egg-uni-sms": "latest",
+        "egg-unipush": "latest",
+        "egg-uniqid": "latest",
+        "egg-unittest-extend": "latest",
+        "egg-upyun": "latest",
+        "egg-user": "latest",
+        "egg-user-agent": "latest",
+        "egg-user-interceptor": "latest",
+        "egg-useragent-ts": "latest",
+        "egg-userrole": "latest",
+        "egg-userservice": "latest",
+        "egg-utils": "latest",
+        "egg-utils-plus": "latest",
+        "egg-utils2": "latest",
+        "egg-uuid-int": "latest"
+    }
+}

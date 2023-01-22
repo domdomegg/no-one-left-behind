@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-hapi-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hapi-qiniu": "latest",
+        "hapi-qs": "latest",
+        "hapi-querious": "latest",
+        "hapi-query": "latest",
+        "hapi-query-builder": "latest",
+        "hapi-query-filter": "latest",
+        "hapi-query-filters": "latest",
+        "hapi-queryparams": "latest",
+        "hapi-queue": "latest",
+        "hapi-quick-api-mongoose": "latest",
+        "hapi-quickthumb": "latest"
+    }
+}

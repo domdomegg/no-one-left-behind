@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-ko_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ko.plus": "latest",
+        "ko.revertibleobservable": "latest",
+        "ko.ts": "latest",
+        "ko.types": "latest",
+        "ko_file_reader": "latest",
+        "ko_module_test": "latest",
+        "ko_observable": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_tox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@toxa23/react-google-login": "latest",
+        "@toxclient/shathui": "latest",
+        "@toxicable/git-tools": "latest",
+        "@toxicable/lite-router": "latest",
+        "@toxicable/oidc": "latest",
+        "@toxicable/rebase": "latest",
+        "@toxicable/router": "latest",
+        "@toxicable/schematics": "latest",
+        "@toxicable/ts-cli": "latest",
+        "@toxicfinance/uikit": "latest",
+        "@toxicgorilla/react-app-basic": "latest",
+        "@toxiic/widget-cli": "latest",
+        "@toxiic/widget-devkit": "latest",
+        "@toxus/adrez-api-mock": "latest",
+        "@toxus/field-container": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-electq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "electqst1_001": "latest",
+        "electqst1_002": "latest",
+        "electqst1_003": "latest",
+        "electqst1_004": "latest",
+        "electqst1_005": "latest",
+        "electqst1_006": "latest"
+    }
+}

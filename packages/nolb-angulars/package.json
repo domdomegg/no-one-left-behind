@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-angulars",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "AngularStompDK": "latest",
+        "angulars_nodejs": "latest",
+        "angularsails": "latest",
+        "angularsdk-testing": "latest",
+        "angularseedcli": "latest",
+        "angularselectorqueries": "latest",
+        "angularservicesstarter": "latest",
+        "angularsessiondemo": "latest",
+        "angularshop": "latest",
+        "angularslick": "latest",
+        "angularsprint1": "latest",
+        "angularsprint2-validate": "latest",
+        "angularssi2019": "latest",
+        "angularstarterkit": "latest",
+        "angularstatic": "latest",
+        "angularstudio-auth-jwt": "latest",
+        "angularstudio-authentication": "latest",
+        "angularstudio-change-password": "latest"
+    }
+}

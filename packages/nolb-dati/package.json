@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-dati",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dati": "latest",
+        "datie": "latest",
+        "datify": "latest",
+        "datility": "latest",
+        "datimg-resize": "latest",
+        "dating-api-wrapper": "latest",
+        "dating-test": "latest",
+        "datingapi": "latest",
+        "datingjson": "latest",
+        "datingscan-protocol": "latest",
+        "dation": "latest",
+        "datish": "latest",
+        "datist": "latest",
+        "dative": "latest",
+        "dativejs": "latest"
+    }
+}

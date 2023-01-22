@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-clb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clb": "latest",
+        "clb-auth": "latest",
+        "clb-charming-ui": "latest",
+        "clb-cli": "latest",
+        "clb-dashboard": "latest",
+        "clb-file-list": "latest",
+        "clb-follower-card": "latest",
+        "clb-homepage": "latest",
+        "clb-jupyter-ext-copy-shareable-link": "latest",
+        "clb-jupyter-ext-query-params": "latest",
+        "clb-lab-extension": "latest",
+        "clb-modelloader": "latest",
+        "clb-navbar": "latest",
+        "clb-near-node-app": "latest",
+        "clb-near-wasm": "latest",
+        "clb-userdata": "latest",
+        "clb-weatherlib": "latest",
+        "clb_deep": "latest",
+        "clb_es62es5": "latest",
+        "clbee-uikit-sample": "latest",
+        "clbena-css": "latest",
+        "clbet": "latest",
+        "clbo_http_errors": "latest"
+    }
+}

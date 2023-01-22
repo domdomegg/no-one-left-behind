@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-stou",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stouch-stock": "latest",
+        "stout": "latest",
+        "stout-auth": "latest",
+        "stout-client": "latest",
+        "stout-core": "latest",
+        "stout-gcloud-datastore": "latest",
+        "stout-memory-datastore": "latest",
+        "stout-orm": "latest",
+        "stout-schedule": "latest",
+        "stout-server": "latest",
+        "stout-session": "latest",
+        "stout-ui": "latest",
+        "stout-validators": "latest",
+        "stouter": "latest",
+        "stouts": "latest",
+        "stouty": "latest"
+    }
+}

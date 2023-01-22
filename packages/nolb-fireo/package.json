@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-fireo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fireo": "latest",
+        "fireoose": "latest",
+        "fireorm": "latest",
+        "fireorm-web": "latest",
+        "fireormfork": "latest"
+    }
+}

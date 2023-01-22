@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-dis-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dis-assets": "latest",
+        "dis-cli": "latest",
+        "dis-cli-v2": "latest",
+        "dis-dat": "latest",
+        "dis-db": "latest",
+        "dis-dynamic-form": "latest",
+        "dis-fight": "latest",
+        "dis-fun": "latest",
+        "dis-gui": "latest",
+        "dis-isa": "latest",
+        "dis-link": "latest",
+        "dis-logs": "latest",
+        "dis-messenger-front": "latest",
+        "dis-modal": "latest",
+        "dis-msg": "latest",
+        "dis-npm-aws": "latest",
+        "dis-npm-mongo": "latest",
+        "dis-npm-services": "latest",
+        "dis-npm-utils": "latest",
+        "dis-redis": "latest",
+        "dis-templates": "latest",
+        "dis-util": "latest",
+        "dis-utils": "latest"
+    }
+}

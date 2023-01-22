@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_digg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@digg/design-system": "latest",
+        "@digg/react-ideal-image": "latest",
+        "@diggit/brand-normalize": "latest",
+        "@diggithy/sdk": "latest"
+    }
+}

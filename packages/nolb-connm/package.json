@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-connm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "connman": "latest",
+        "connman-api": "latest",
+        "connman-api-resin": "latest",
+        "connman-config": "latest",
+        "connman-node-api": "latest",
+        "connman-simplified": "latest",
+        "connman-simplified-resin": "latest"
+    }
+}

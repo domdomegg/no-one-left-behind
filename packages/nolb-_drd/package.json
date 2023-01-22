@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_drd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@drdanryan/angular-material-templates": "latest",
+        "@drdanryan/csv-translator": "latest",
+        "@drdanryan/data-parser": "latest",
+        "@drdanryan/deburr-filename": "latest",
+        "@drdanryan/kraken-gridfs": "latest",
+        "@drdanryan/kraken-streams": "latest",
+        "@drdanryan/log-error": "latest",
+        "@drdanryan/mm-photo-bucket": "latest",
+        "@drdanryan/mm-photo-transforms": "latest",
+        "@drdanryan/mongoose-api-routes": "latest",
+        "@drdanryan/rmq-dispatcher": "latest",
+        "@drdanryan/send-to-kraken": "latest",
+        "@drdanryan/simple-progress": "latest",
+        "@drdgvhbh/class-validator": "latest",
+        "@drdgvhbh/electron-splashscreen": "latest",
+        "@drdgvhbh/graphql-amqp-subscriptions": "latest",
+        "@drdgvhbh/io-ts-codegen": "latest",
+        "@drdgvhbh/nestjs-admin": "latest",
+        "@drdgvhbh/ono": "latest",
+        "@drdgvhbh/postgres-error-codes": "latest",
+        "@drdgvhbh/solc-assem-wasm": "latest",
+        "@drdgvhbh/solwasmc": "latest",
+        "@drdgvhbh/wc3-custom-hotkeys-parser": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_juy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@juyipeng/gltf-viewer": "latest",
+        "@juyoung.heo/common-components": "latest",
+        "@juyren/deep-clone": "latest",
+        "@juyren/eslint-config-personal": "latest",
+        "@juyren/eslint-config-react": "latest",
+        "@juyren/generate-module": "latest",
+        "@juyren/library-cli": "latest",
+        "@juyren/request": "latest",
+        "@juyren/stylelint-config-less": "latest",
+        "@juyren/stylelint-config-personal": "latest"
+    }
+}

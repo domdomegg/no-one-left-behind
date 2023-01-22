@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_malg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@malga-checkout-full/angular": "latest",
+        "@malga-checkout-full/core": "latest",
+        "@malga-checkout-full/react": "latest",
+        "@malga-checkout-full/vue": "latest",
+        "@malga-checkout/angular": "latest",
+        "@malga-checkout/core": "latest",
+        "@malga-checkout/vue": "latest",
+        "@malgo-fe/doorkeeper": "latest",
+        "@malgo-fe/version-listener": "latest",
+        "@malgo-fe/wechat-ui": "latest",
+        "@malgo-fe/windmill-client": "latest",
+        "@malgo-fe/windmill-server": "latest",
+        "@malgogi-rx-straw/core": "latest",
+        "@malgogi-rx-straw/nest-utils": "latest",
+        "@malgol/vision": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_cheg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chegg-commerce/internal-tools": "latest",
+        "@chegg-me-components/header": "latest",
+        "@chegg-ui/theme": "latest",
+        "@chegg-varafy-editor/editor-tools-common": "latest",
+        "@chegg-web-tools/with-chegg": "latest",
+        "@chegg-wt/wtf-components": "latest",
+        "@chegg/redux-loading-queue": "latest",
+        "@cheglanja/hello-wasm": "latest",
+        "@chego/chego": "latest",
+        "@chego/chego-api": "latest",
+        "@chego/chego-database-boilerplate": "latest",
+        "@chego/chego-firebase": "latest",
+        "@chego/chego-mongodb": "latest",
+        "@chego/chego-mysql": "latest",
+        "@chego/chego-postgresql": "latest",
+        "@chego/chego-sqlite": "latest",
+        "@chego/chego-tools": "latest"
+    }
+}

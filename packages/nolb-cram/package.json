@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-cram",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cram": "latest",
+        "cram-builder": "latest",
+        "cram-md5-digest": "latest",
+        "cram-tmp": "latest",
+        "cram.ui": "latest",
+        "crambit": "latest",
+        "cramda": "latest",
+        "cramit": "latest",
+        "crammer": "latest",
+        "cramp": "latest",
+        "cramp-scripts": "latest",
+        "cramped": "latest",
+        "crampon": "latest"
+    }
+}

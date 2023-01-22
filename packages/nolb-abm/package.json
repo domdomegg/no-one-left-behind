@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-abm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "abm": "latest",
+        "abm-cron": "latest",
+        "abm-product-card": "latest",
+        "abman": "latest",
+        "abmatrix-webutils": "latest",
+        "abmb-components-demo": "latest",
+        "abmb-styles": "latest",
+        "abmcontent": "latest",
+        "abmex-js-lib": "latest",
+        "abmm-npm-demo-pkg": "latest"
+    }
+}

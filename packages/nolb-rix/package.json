@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-rix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rix": "latest",
+        "rix-loader": "latest",
+        "rixi": "latest",
+        "rixjsv1": "latest",
+        "rixun-ui": "latest",
+        "rixutils": "latest"
+    }
+}

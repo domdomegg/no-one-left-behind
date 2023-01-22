@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-react-s3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-s3": "latest",
+        "react-s3-aws": "latest",
+        "react-s3-file-uploader": "latest",
+        "react-s3-post-uploader": "latest",
+        "react-s3-upload": "latest",
+        "react-s3-upload-modal": "latest",
+        "react-s3-uploader": "latest",
+        "react-s3-uploader-goodpractice": "latest",
+        "react-s3-uploader-multipart": "latest",
+        "react-s3-uploader-qualabs": "latest",
+        "react-s3-uploader-whitech": "latest",
+        "react-s3bucket-upload": "latest"
+    }
+}

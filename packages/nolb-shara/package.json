@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-shara",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shara": "latest",
+        "shara-country-currency-map": "latest",
+        "sharabay": "latest",
+        "sharable": "latest",
+        "sharable-narc-custom-component": "latest",
+        "sharadkrsingh-frame-print": "latest",
+        "sharan_r": "latest",
+        "sharan_validate": "latest",
+        "sharanya-test-app": "latest",
+        "sharath-navigator-ui": "latest",
+        "sharath-simple-print": "latest",
+        "sharath06": "latest",
+        "sharath06c": "latest",
+        "sharathkumarappu_demonodejs": "latest",
+        "sharav-nodejstut1": "latest",
+        "sharawadji": "latest",
+        "sharawrite-front": "latest"
+    }
+}

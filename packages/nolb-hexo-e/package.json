@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-hexo-e",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hexo-easy-abstract": "latest",
+        "hexo-easy-edit": "latest",
+        "hexo-easy-images": "latest",
+        "hexo-easy-tags-plugin": "latest",
+        "hexo-easyzoom": "latest",
+        "hexo-echarts-tagcloud": "latest",
+        "hexo-editor": "latest",
+        "hexo-electric-clock": "latest",
+        "hexo-email-obfuscate": "latest",
+        "hexo-encore": "latest",
+        "hexo-encrypt": "latest",
+        "hexo-encrypt-post": "latest",
+        "hexo-encrypt-token": "latest",
+        "hexo-encrypt-volantis": "latest",
+        "hexo-encrypted-package-html": "latest",
+        "hexo-enhanced-images": "latest",
+        "hexo-enhancer": "latest",
+        "hexo-enhancer-for-diary": "latest",
+        "hexo-env": "latest",
+        "hexo-evernote-html": "latest",
+        "hexo-excerpt": "latest",
+        "hexo-excerpt-block": "latest",
+        "hexo-ext-img": "latest",
+        "hexo-extend-injector2": "latest",
+        "hexo-extend-plugin": "latest",
+        "hexo-external-link": "latest",
+        "hexo-extract-inline-scripts": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_noonnu_v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@noonnu/vitro-core": "latest",
+        "@noonnu/vitro-inspire-ttf": "latest",
+        "@noonnu/vitro-pride": "latest"
+    }
+}

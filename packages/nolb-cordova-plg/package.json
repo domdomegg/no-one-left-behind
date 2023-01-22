@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-cordova-plg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cordova-plg-monitor-event": "latest",
+        "cordova-plguin-ezar-facedetector": "latest",
+        "cordova-plguin-ezar-facedetector-mod": "latest"
+    }
+}

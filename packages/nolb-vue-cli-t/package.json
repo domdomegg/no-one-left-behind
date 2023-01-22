@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-vue-cli-t",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cli-t-ui": "latest",
+        "vue-cli-tem": "latest",
+        "vue-cli-temp-1": "latest",
+        "vue-cli-template": "latest",
+        "vue-cli-template-admin": "latest",
+        "vue-cli-template-dev-server": "latest",
+        "vue-cli-template-github-pages": "latest",
+        "vue-cli-template-jbc": "latest",
+        "vue-cli-template-library": "latest",
+        "vue-cli-template-loopback-vue": "latest",
+        "vue-cli-template-nativescript": "latest",
+        "vue-cli-template-pwa": "latest",
+        "vue-cli-template-registry": "latest",
+        "vue-cli-template-vue-element-admin": "latest",
+        "vue-cli-template-webpack": "latest",
+        "vue-cli-test-kane-logger": "latest",
+        "vue-cli-test-magic": "latest",
+        "vue-cli-test-magic-lib": "latest",
+        "vue-cli-text": "latest",
+        "vue-cli-text-component": "latest",
+        "vue-cli-toast-demo": "latest",
+        "vue-cli-ttn": "latest"
+    }
+}

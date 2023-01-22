@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-baseu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "baseu64js": "latest",
+        "baseui": "latest",
+        "baseui-final-form": "latest",
+        "baseui-oms": "latest",
+        "baseui-v10": "latest",
+        "baseui-wc-base-component": "latest",
+        "baseui-wc-polyfills": "latest",
+        "baseui-wc-utils": "latest",
+        "baseui1tangottang": "latest",
+        "baseuitest": "latest",
+        "baseuni": "latest",
+        "baseunit": "latest",
+        "baseurl-for-express": "latest",
+        "baseutils-4js": "latest"
+    }
+}

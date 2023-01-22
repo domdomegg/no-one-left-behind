@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-markdown2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "markdown2": "latest",
+        "markdown2111": "latest",
+        "markdown22html": "latest",
+        "markdown2bootstrap": "latest",
+        "markdown2code": "latest",
+        "markdown2confluence": "latest",
+        "markdown2confluence-cws": "latest",
+        "markdown2dash": "latest",
+        "markdown2html": "latest",
+        "markdown2html-less": "latest",
+        "markdown2html-pro": "latest",
+        "markdown2image": "latest",
+        "markdown2json": "latest",
+        "markdown2json-loader": "latest",
+        "markdown2json_core": "latest",
+        "markdown2jsonml": "latest",
+        "markdown2pdf": "latest",
+        "markdown2pdfmake": "latest",
+        "markdown2react": "latest",
+        "markdown2slides": "latest",
+        "markdown2summary": "latest",
+        "markdown2text": "latest",
+        "markdown2troff": "latest",
+        "markdown2vue-loader": "latest",
+        "markdown2website": "latest"
+    }
+}

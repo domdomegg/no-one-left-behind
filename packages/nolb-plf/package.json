@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-plf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "plf-component-data-source": "latest",
+        "plf-component-data-source-manage": "latest",
+        "plf-component-system-manage": "latest",
+        "plfkweujctyqhdzb": "latest",
+        "plform": "latest"
+    }
+}

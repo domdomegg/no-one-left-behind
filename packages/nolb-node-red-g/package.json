@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-node-red-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-gaia": "latest",
+        "node-red-gcp-myproject": "latest",
+        "node-red-get-value-by-prop": "latest",
+        "node-red-google-notify": "latest",
+        "node-red-google-oauth2-token": "latest",
+        "node-red-grovepi-nodes": "latest"
+    }
+}

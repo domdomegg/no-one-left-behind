@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-react-reo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-reorder": "latest",
+        "react-reorder-images": "latest",
+        "react-reorder-scalable": "latest",
+        "react-reorderable": "latest",
+        "react-reorderable-list": "latest",
+        "react-reorderable-list-forked2": "latest"
+    }
+}

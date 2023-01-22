@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-noz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "noz": "latest",
+        "noz123": "latest",
+        "nozaki": "latest",
+        "nozaki-button": "latest",
+        "nozaki-color": "latest",
+        "nozaki-colors": "latest",
+        "nozaki-components": "latest",
+        "nozaki.ninja": "latest",
+        "nozapret": "latest",
+        "nozbe-to-todoist": "latest",
+        "nozbedesktop": "latest",
+        "nozdrebombilnya-common": "latest",
+        "nozem": "latest",
+        "nozes": "latest",
+        "nozombie": "latest",
+        "nozomi": "latest",
+        "nozomi-ui": "latest",
+        "nozomi_api": "latest",
+        "nozuchi": "latest",
+        "nozzle": "latest",
+        "nozzle-auth": "latest",
+        "nozzmo-redux-jwt": "latest",
+        "nozzmo-redux-jwt-fork": "latest"
+    }
+}

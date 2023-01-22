@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-pinn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pinnacle": "latest",
+        "pinnacle-api": "latest",
+        "pinnacle-nidd": "latest",
+        "pinnacle-sports": "latest",
+        "pinnacle-sports-api": "latest",
+        "pinnacle.js": "latest",
+        "pinnacle_sms_plugin": "latest",
+        "pinnacle_stagging_sms": "latest",
+        "pinnacle_whatsapp_plugin": "latest",
+        "pinnaple": "latest",
+        "pinnemouche-frontend": "latest",
+        "pinning-aggregation": "latest",
+        "pinnock-frame-print": "latest",
+        "pinny": "latest"
+    }
+}

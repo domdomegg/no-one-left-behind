@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-shep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shep": "latest",
+        "shep-app": "latest",
+        "shep-logger": "latest",
+        "shep-validaurl": "latest",
+        "shepa": "latest",
+        "shepa-payment-getaway": "latest",
+        "shepard": "latest",
+        "shepard-tone": "latest",
+        "shepeliukmodule": "latest",
+        "shepherd": "latest",
+        "shepherd-cli": "latest",
+        "shepherd-plugin-interfaces": "latest",
+        "shepherd-plugin-nsfw": "latest",
+        "shepherd.js": "latest",
+        "shepilong": "latest"
+    }
+}

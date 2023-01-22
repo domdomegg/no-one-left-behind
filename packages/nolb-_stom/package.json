@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_stom",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stomp/logger": "latest",
+        "@stomp/ng-stomp": "latest",
+        "@stomp/ng-stomp-x": "latest",
+        "@stomp/ng2-stompjs": "latest",
+        "@stomp/ng2-stompjs-do-not-use": "latest",
+        "@stomp/rx-stomp": "latest",
+        "@stomp/stompjs": "latest",
+        "@stompf/acli": "latest",
+        "@stomprocket/blastoff": "latest",
+        "@stomprocket/f": "latest",
+        "@stomvi/react-feather": "latest"
+    }
+}

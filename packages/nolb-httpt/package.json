@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-httpt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "httpTohttps": "latest",
+        "httptables": "latest",
+        "httptail": "latest",
+        "httptest": "latest",
+        "httptest-q": "latest",
+        "httptester": "latest",
+        "httptimer": "latest",
+        "httptoast": "latest",
+        "httptobusserver": "latest",
+        "httptool": "latest",
+        "httptoolkit-server": "latest",
+        "httptop": "latest",
+        "httptoy": "latest",
+        "httptrail": "latest",
+        "httptree": "latest"
+    }
+}

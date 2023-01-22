@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-evl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "evl": "latest",
+        "evl-cli": "latest",
+        "evl-example": "latest",
+        "evl-login-demo": "latest",
+        "evl-react-component-lib": "latest",
+        "evle-npm-pkg-demo": "latest",
+        "evlisp": "latest",
+        "evlisp-loader": "latest",
+        "evlist": "latest",
+        "evloop-monitor": "latest",
+        "evls-user-demo": "latest",
+        "evlsdemo-user": "latest",
+        "evlt": "latest"
+    }
+}

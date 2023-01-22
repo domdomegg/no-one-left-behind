@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-alls",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "alls": "latest",
+        "alls-cli": "latest",
+        "allsaberjs": "latest",
+        "allscribe": "latest",
+        "allscroller": "latest",
+        "allsense-jscommon": "latest",
+        "allserver": "latest",
+        "allserverming": "latest",
+        "allset-js": "latest",
+        "allsettled-polyfill": "latest",
+        "allsige-vue-layout": "latest",
+        "allsige-vue-theme": "latest",
+        "allsome": "latest",
+        "allsop-table": "latest",
+        "allspark": "latest",
+        "allspark-cli": "latest",
+        "allspawn": "latest",
+        "allspice": "latest",
+        "allstarhealth": "latest",
+        "allstore": "latest",
+        "allstringify-luishenrique": "latest",
+        "allsubs": "latest",
+        "allswap-sdk": "latest",
+        "allsync": "latest"
+    }
+}

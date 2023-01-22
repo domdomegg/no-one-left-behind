@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-bsy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bsy-batch-export-excel": "latest",
+        "bsy-bridge-helpers-first-test": "latest",
+        "bsy-components": "latest",
+        "bsy-domain-request": "latest",
+        "bsy-error": "latest",
+        "bsy-export-excel": "latest",
+        "bsy-generic-router": "latest",
+        "bsy-iam-login": "latest",
+        "bsy-live-ui": "latest",
+        "bsy-sdk-test": "latest",
+        "bsy-sso-login": "latest",
+        "bsy-sso-sdk": "latest",
+        "bsy-test": "latest",
+        "bsy-validation": "latest",
+        "bsy-webgl": "latest",
+        "bsy123": "latest",
+        "bsyjkctivnzglmxd": "latest",
+        "bsync": "latest",
+        "bsync-fibers": "latest",
+        "bsyxm": "latest"
+    }
+}

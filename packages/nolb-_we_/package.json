@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_we_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@we.io/eslint-config": "latest",
+        "@we.js/one-page-new-age": "latest",
+        "@we.js/we-admin": "latest",
+        "@we.js/we-admin-hotel": "latest",
+        "@we_thoughts/thoughts-commit": "latest",
+        "@we_thoughts/thoughts-wc-test": "latest"
+    }
+}

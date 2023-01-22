@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_syr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@syr/bus": "latest",
+        "@syr/cli": "latest",
+        "@syr/core": "latest",
+        "@syr/jsx": "latest",
+        "@syr/pack": "latest",
+        "@syransong/lotide": "latest",
+        "@syrashid/cookie-monster": "latest",
+        "@syrax/ui-kit": "latest",
+        "@syrf/circuit-breaker": "latest",
+        "@syrf/transport-library": "latest",
+        "@syrflover/command-parser": "latest",
+        "@syrflover/fs": "latest",
+        "@syrflover/grpc-client": "latest",
+        "@syrflover/iterator": "latest",
+        "@syrflover/of": "latest",
+        "@syrflover/redis": "latest",
+        "@syrflover/simple-store": "latest",
+        "@syrupdrop/swap-sdk": "latest",
+        "@syrupdropdao/swap-sdk": "latest"
+    }
+}

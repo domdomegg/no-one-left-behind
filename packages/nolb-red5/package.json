@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-red5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "red5": "latest",
+        "red5-cli": "latest",
+        "red5-engine": "latest",
+        "red5-router": "latest",
+        "red5-server": "latest",
+        "red5-session": "latest",
+        "red5-storage": "latest",
+        "red5-template": "latest",
+        "red5pro-html-sdk": "latest",
+        "red5pro-webrtc-sdk": "latest",
+        "red5seeker7-custom-package": "latest"
+    }
+}

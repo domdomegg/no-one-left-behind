@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_yab",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yab0i/dl.js": "latest",
+        "@yaba/plugin": "latest",
+        "@yababay67/bootstrap-svg-sprite": "latest",
+        "@yababay67/d3-adapter": "latest",
+        "@yababay67/footer-main-header": "latest",
+        "@yababay67/hash-router": "latest",
+        "@yababay67/header-main-footer": "latest",
+        "@yababay67/pug-modules": "latest",
+        "@yababay67/pug-settings": "latest",
+        "@yababay67/svelte-meets-bootstrap-icons": "latest",
+        "@yababay67/svelte-meets-pug": "latest",
+        "@yabbadabbadev/uikit": "latest",
+        "@yabetoo/adonis5-sentry": "latest",
+        "@yabetoo/mtn-momo-js": "latest",
+        "@yabhq/cart.js": "latest",
+        "@yabhq/nuxt-fathom": "latest",
+        "@yabhq/nuxt-hotjar": "latest",
+        "@yabin/core": "latest",
+        "@yabin/services": "latest",
+        "@yabinshi/deploy-plugin": "latest",
+        "@yabjob/lcrm-grpc": "latest",
+        "@yablonka-services/err-and-middle": "latest",
+        "@yabood/gatsby-transformer-rehype": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_una",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@una-ada/ksf": "latest",
+        "@unabridged/motion": "latest",
+        "@unagidev/apple-sign-in": "latest",
+        "@unagidev/react-flex": "latest",
+        "@unai_frias/my-corp-library": "latest",
+        "@unalayta/route-finder": "latest",
+        "@unalo/tso.js": "latest",
+        "@unanim/cookie-manager": "latest",
+        "@unanim/helpers": "latest",
+        "@unanim/mock-server": "latest",
+        "@unanim/notify-deploy": "latest",
+        "@unanim/pm2-hook": "latest",
+        "@unarekin/mockingtext": "latest",
+        "@unarekin/rootfs": "latest",
+        "@unassessed/plugin-dom": "latest",
+        "@unassessed/plugin-sinon": "latest",
+        "@unaussprechlich/keystone": "latest",
+        "@unauthapp/react-components": "latest",
+        "@unauthed/fracas": "latest",
+        "@unaxiom/ffmpeg": "latest",
+        "@unaxiom/unnotify": "latest"
+    }
+}

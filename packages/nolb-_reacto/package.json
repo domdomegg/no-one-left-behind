@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_reacto",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reacto/jscodeshift": "latest",
+        "@reactonic/ui": "latest",
+        "@reactoo/watchtogether-sdk": "latest",
+        "@reactoo/watchtogether-sdk-js": "latest",
+        "@reactools/fetch": "latest",
+        "@reactor4/forklift": "latest",
+        "@reactorboy/tiny": "latest",
+        "@reactorlib/core": "latest",
+        "@reactorlib/mui": "latest",
+        "@reactorone/common-static": "latest",
+        "@reactorx/core": "latest",
+        "@reactorx/form": "latest",
+        "@reactorx/persister": "latest",
+        "@reactorx/request": "latest",
+        "@reactorx/router": "latest",
+        "@reactorx/testutils": "latest",
+        "@reactorx/utils": "latest",
+        "@reactory/class-name": "latest",
+        "@reactory/from-class": "latest",
+        "@reactory/reactory": "latest",
+        "@reactour/config": "latest",
+        "@reactour/mask": "latest",
+        "@reactour/popover": "latest",
+        "@reactour/tour": "latest",
+        "@reactour/utils": "latest"
+    }
+}

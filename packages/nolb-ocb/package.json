@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-ocb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ocb": "latest",
+        "ocb-sender": "latest",
+        "ocbeerxml": "latest",
+        "ocbesbn-blob-client": "latest",
+        "ocbesbn-bouncer": "latest",
+        "ocbesbn-cache": "latest",
+        "ocbesbn-config": "latest",
+        "ocbesbn-db-init": "latest",
+        "ocbesbn-dbinit": "latest",
+        "ocbesbn-i18n-assist": "latest",
+        "ocbesbn-logger": "latest",
+        "ocbesbn-mysql-init": "latest",
+        "ocbesbn-react-components": "latest",
+        "ocbesbn-redis-events": "latest",
+        "ocbesbn-service-client": "latest",
+        "ocbesbn-supplier-ui": "latest",
+        "ocbesbn-web-init": "latest",
+        "ocbesbn-webinit": "latest",
+        "ocbjs-sender": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-erz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "erz": "latest",
+        "erza": "latest",
+        "erza-plugin-database-mysql": "latest",
+        "erza-plugin-express": "latest",
+        "erze-form": "latest",
+        "erzeghi": "latest",
+        "erzhou": "latest",
+        "erzhoukaoceshi-1": "latest",
+        "erzi": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-quel",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "quel": "latest",
+        "quelaag": "latest",
+        "quelib": "latest",
+        "quell": "latest",
+        "quelle": "latest",
+        "quely_angular_animations": "latest",
+        "quely_angular_common": "latest",
+        "quely_angular_compiler": "latest",
+        "quely_angular_compiler_cli": "latest",
+        "quely_angular_forms": "latest",
+        "quely_angular_http": "latest",
+        "quely_angular_platform_browser": "latest",
+        "quely_libreria_test": "latest"
+    }
+}

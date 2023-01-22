@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-idg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "idg": "latest",
+        "idg-helper": "latest",
+        "idg-quill": "latest",
+        "idgaf": "latest",
+        "idgames-archive-api": "latest",
+        "idgen": "latest",
+        "idgen-collider": "latest",
+        "idgener": "latest",
+        "idgenerator": "latest",
+        "idgenerator-uuid-v4": "latest",
+        "idgeneratormodule": "latest",
+        "idgexchange": "latest",
+        "idgis-test": "latest",
+        "idgis_leaflet.pm": "latest",
+        "idgobpe_sdk": "latest",
+        "idgp": "latest"
+    }
+}

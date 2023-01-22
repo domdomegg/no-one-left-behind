@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-smw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smw-components": "latest",
+        "smw-js-footer": "latest",
+        "smw-mergefile-my-test": "latest",
+        "smw-test-01": "latest",
+        "smwcentral.net-jsonapi": "latest",
+        "smweb": "latest",
+        "smweb-frontend": "latest",
+        "smworld": "latest",
+        "smws": "latest",
+        "smwtvmaze": "latest"
+    }
+}

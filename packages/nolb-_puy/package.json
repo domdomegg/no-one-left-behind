@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_puy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@puyodead1/discord-game": "latest",
+        "@puyodead1/discord.js": "latest",
+        "@puyodead1/discord.js-redis": "latest",
+        "@puyodead1/eris": "latest",
+        "@puyodead1/fosscord-gopnik": "latest",
+        "@puyodead1/next-auth": "latest",
+        "@puyodead1/openid": "latest",
+        "@puyodead1/openid-client": "latest",
+        "@puyodead1/react-bootstrap-theme-switcher": "latest",
+        "@puyodead1/react-native-router-flux": "latest",
+        "@puyodead1/toxicity": "latest",
+        "@puyodead1/universal-sentence-encoder": "latest",
+        "@puyuan/hello-wasm": "latest"
+    }
+}

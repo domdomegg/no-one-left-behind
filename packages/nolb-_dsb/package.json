@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_dsb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dsb-norge/eslint-config-dsb-vue": "latest",
+        "@dsb-norge/eslint-config-dsb-vue3": "latest",
+        "@dsb-norge/eslint-config-dsb-vue3-ts": "latest",
+        "@dsb-norge/eslint-config-standard": "latest",
+        "@dsb-norge/vue-feedback-dialog": "latest",
+        "@dsb-norge/vue-keycloak-js": "latest",
+        "@dsbalaban/typescript-library": "latest",
+        "@dsbn/slate": "latest",
+        "@dsbn/slate-css": "latest",
+        "@dsbn/slate-vue": "latest",
+        "@dsbn/slatecss": "latest",
+        "@dsbn/unrest": "latest",
+        "@dsbn/vue-auth": "latest",
+        "@dsbundles/test-component-bundle": "latest"
+    }
+}

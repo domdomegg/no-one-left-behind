@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-react-mc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-mc": "latest",
+        "react-mc-diagrams": "latest",
+        "react-mc-dnd": "latest",
+        "react-mc-dnd-frame": "latest",
+        "react-mc-lite": "latest",
+        "react-mc-render": "latest",
+        "react-mc-runner": "latest",
+        "react-mc-template": "latest",
+        "react-mc-workspace": "latest",
+        "react-mce": "latest",
+        "react-mchart": "latest",
+        "react-mchine": "latest",
+        "react-mcjsonchat": "latest",
+        "react-mcl-wasm": "latest",
+        "react-mclib": "latest",
+        "react-mcomponents": "latest",
+        "react-mcp-components": "latest",
+        "react-mcqview": "latest",
+        "react-mcw": "latest"
+    }
+}

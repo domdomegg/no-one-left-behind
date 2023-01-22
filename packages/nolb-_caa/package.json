@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_caa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@caaalabash/node-sse": "latest",
+        "@caaalabash/promise-mysql-lite": "latest",
+        "@caal-15/winston3-logstash-transport": "latest",
+        "@caap-store/schemas": "latest",
+        "@caary-capital/caary-accounting": "latest",
+        "@caary-capital/caary-accounting2": "latest",
+        "@caasi/hooks": "latest",
+        "@caasi/then": "latest",
+        "@caass/wrangler": "latest",
+        "@caassis/vue-keycloak-ts": "latest",
+        "@caast/react-use-caast": "latest",
+        "@caasy/sdk-js": "latest"
+    }
+}

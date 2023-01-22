@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_ong",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ong/cli": "latest",
+        "@ong/cli-shared-utils": "latest",
+        "@ong/copy-files": "latest",
+        "@ong/fs": "latest",
+        "@ong/git-info": "latest",
+        "@ong/playground": "latest",
+        "@ong/rc-pack": "latest",
+        "@ong/rc-pack-service": "latest",
+        "@ong/react-cli": "latest",
+        "@ong/react-cli-service": "latest",
+        "@ong/ts-init": "latest",
+        "@ong/ts-pack": "latest",
+        "@ongojs/ongo-cli": "latest",
+        "@ongw20/typed-stylings-webpack-plugin": "latest",
+        "@ongzzzzzz/p5.web-serial": "latest"
+    }
+}

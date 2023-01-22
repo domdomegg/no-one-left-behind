@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-superr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "superrandom.js": "latest",
+        "superreactive": "latest",
+        "superreg": "latest",
+        "superrequestable": "latest",
+        "superrest": "latest",
+        "superrmodule": "latest",
+        "superroman": "latest",
+        "superror": "latest",
+        "superroute": "latest"
+    }
+}

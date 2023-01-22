@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_t1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@t117503445/experiment-helper-core": "latest",
+        "@t117503445/npm-package-typescript": "latest",
+        "@t117503445/s3-database": "latest",
+        "@t117503445/yunzai-bot": "latest",
+        "@t11e/components": "latest",
+        "@t11e/core": "latest",
+        "@t11e/eslint-config": "latest",
+        "@t11e/hydrant-api": "latest",
+        "@t11e/pebbles-client": "latest",
+        "@t11e/utils": "latest",
+        "@t15-ui-kit/enums": "latest",
+        "@t1cketing/common": "latest",
+        "@t1m0thy_michael/d": "latest",
+        "@t1m0thy_michael/e": "latest",
+        "@t1m0thy_michael/p": "latest",
+        "@t1m0thy_michael/u": "latest",
+        "@t1mer/ishowfashion": "latest",
+        "@t1mmaas/remote-js-ui": "latest",
+        "@t1mmaas/swagger-to-ts": "latest",
+        "@t1mwillis/simple-moonphase-js": "latest"
+    }
+}

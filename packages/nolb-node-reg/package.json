@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-node-reg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-reg": "latest",
+        "node-reg-env": "latest",
+        "node-regex-parser": "latest",
+        "node-regexp": "latest",
+        "node-registrify": "latest",
+        "node-registry": "latest",
+        "node-registry-express": "latest",
+        "node-registry-winston": "latest",
+        "node-regon": "latest",
+        "node-regon-promise": "latest",
+        "node-regroup-ebooks": "latest",
+        "node-regwatch": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-leh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "leh": "latest",
+        "lehanu_element": "latest",
+        "lehbs-parser": "latest",
+        "lehi-trip-to-mars": "latest",
+        "lehm": "latest",
+        "lehnert-module": "latest",
+        "lehon": "latest",
+        "lehon25-lib": "latest",
+        "lehre": "latest",
+        "lehrenfried-leaflet": "latest",
+        "lehrenfried-simple-opening-hours": "latest",
+        "lehuunghia-frame-print": "latest"
+    }
+}

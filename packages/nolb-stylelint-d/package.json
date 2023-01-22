@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-stylelint-d",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylelint-de-standard": "latest",
+        "stylelint-declaration-block-no-ignored-properties": "latest",
+        "stylelint-declaration-block-order": "latest",
+        "stylelint-declaration-block-single-line": "latest",
+        "stylelint-declaration-property-unit-whitelist": "latest",
+        "stylelint-declaration-strict-value": "latest",
+        "stylelint-declaration-use-variable": "latest",
+        "stylelint-declaration-use-variable-or-custom-fn": "latest",
+        "stylelint-design-tokens-plugin": "latest",
+        "stylelint-devextreme": "latest",
+        "stylelint-disable": "latest",
+        "stylelint-disable-all": "latest",
+        "stylelint-disallow-at-rule": "latest",
+        "stylelint-disallow-bootstrap-properties": "latest",
+        "stylelint-disallow-selector": "latest",
+        "stylelint-disallow-vendor-prefix": "latest"
+    }
+}

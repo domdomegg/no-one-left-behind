@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-serm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "serm": "latest",
+        "serman": "latest",
+        "sermat": "latest",
+        "sermepa": "latest",
+        "sermo-socket": "latest",
+        "sermock": "latest",
+        "sermon": "latest",
+        "sermon-audio": "latest",
+        "sermone": "latest",
+        "sermonizer": "latest",
+        "sermons-ui": "latest",
+        "serms-assets": "latest"
+    }
+}

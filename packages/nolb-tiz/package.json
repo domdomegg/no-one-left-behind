@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-tiz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tiz": "latest",
+        "tiz-generate-eslint": "latest",
+        "tiz-multer": "latest",
+        "tiz-sequelize": "latest",
+        "tiza": "latest",
+        "tizen-app": "latest",
+        "tizen-common-web": "latest",
+        "tizen-config-loader": "latest",
+        "tizen-console": "latest",
+        "tizen-dev-cli-sdk": "latest",
+        "tizen-logs": "latest",
+        "tizen-react-native-scripts": "latest",
+        "tizen-remote": "latest",
+        "tizen-sdb": "latest",
+        "tizen-tau-wearable": "latest",
+        "tizen-tv-dev-cli": "latest",
+        "tizen-tv-webapis": "latest",
+        "tizen-utils": "latest",
+        "tizen-webdriver-server": "latest",
+        "tizentv-react-scripts": "latest",
+        "tizhinei-guanxi-erlingyijiulingjiu": "latest",
+        "tizi-first-npm-practice": "latest",
+        "tizi-ui": "latest",
+        "tizo": "latest",
+        "tizo-cli": "latest",
+        "tizo-components": "latest",
+        "tizone": "latest",
+        "tizzy": "latest"
+    }
+}

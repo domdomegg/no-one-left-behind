@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-transt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "transtion-drawer-jp": "latest",
+        "transtool": "latest",
+        "transtrans": "latest",
+        "transtransds": "latest",
+        "transtranss": "latest",
+        "transtype": "latest"
+    }
+}

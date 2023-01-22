@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-sh_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sh.cameleer-contrib": "latest",
+        "sh.ff-fingerprinter": "latest",
+        "sh.folder-rotate": "latest",
+        "sh.js": "latest",
+        "sh.log-client": "latest",
+        "sh.misc-tools": "latest",
+        "sh.orchestration-tools": "latest",
+        "sh.pinf.inf": "latest",
+        "sh.playlist-maker": "latest",
+        "sh.st": "latest",
+        "sh_mobile": "latest",
+        "sh_module_test": "latest",
+        "sh_project-maker": "latest",
+        "sh_xue_test": "latest"
+    }
+}

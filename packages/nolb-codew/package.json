@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-codew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "codewait": "latest",
+        "codewalker": "latest",
+        "codewalker-cli": "latest",
+        "codewall": "latest",
+        "codewars": "latest",
+        "codewars-api-types": "latest",
+        "codewars-cli": "latest",
+        "codewars-client": "latest",
+        "codewars-helper": "latest",
+        "codewars-node-api": "latest",
+        "codewars-runner": "latest",
+        "codewars-solutions-scraper": "latest",
+        "codewatchman": "latest",
+        "codewave": "latest",
+        "codeweb": "latest",
+        "codeweight": "latest",
+        "codewhy_utils": "latest",
+        "codewhynot-builder": "latest",
+        "codewing": "latest",
+        "codewithabhi-test": "latest",
+        "codewithmosh": "latest",
+        "codewizz-webpack-config": "latest",
+        "codewolf_cli": "latest",
+        "codewonders-helpers": "latest",
+        "codeword-components": "latest",
+        "codeworks-starter": "latest",
+        "codewriter": "latest",
+        "codewriter-js-snippets": "latest"
+    }
+}

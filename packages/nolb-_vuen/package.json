@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_vuen",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vueneue/critters": "latest",
+        "@vueneue/ssr-core": "latest",
+        "@vueneue/ssr-server": "latest",
+        "@vueneue/vue-cli-plugin-ssr": "latest",
+        "@vuenique/vue-vibrancy": "latest",
+        "@vueniquejs/vuenique": "latest",
+        "@vuensight/app": "latest",
+        "@vuensight/cli": "latest",
+        "@vuensight/parser": "latest",
+        "@vuensight/types": "latest"
+    }
+}

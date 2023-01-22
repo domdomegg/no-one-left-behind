@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_digd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@digdeeper/workshops-app-react-utils": "latest",
+        "@digdeeper/workshops-app-react-utils2": "latest",
+        "@digdir/design-system-react": "latest",
+        "@digdir/ds-core-css": "latest",
+        "@digdir/ds-core-js": "latest",
+        "@digdir/ds-core-react": "latest",
+        "@digdir/ds-icons": "latest",
+        "@digdir/ds-id-porten": "latest",
+        "@digdir/ds-tokens": "latest",
+        "@digdir/ds-web-react": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_ics",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ics-creative/modifyhtml": "latest",
+        "@ics-shared/dummy": "latest",
+        "@ics_defense/ics-data-table": "latest",
+        "@icscorp/cordova-plugin-app-preferences": "latest",
+        "@icsdpro/common": "latest",
+        "@icstark/types": "latest",
+        "@icstark/ui": "latest",
+        "@icstark/utils": "latest",
+        "@icstechsales/random-demo-names": "latest"
+    }
+}

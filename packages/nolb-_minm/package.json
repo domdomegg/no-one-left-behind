@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_minm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@minmaxindustries/lp": "latest",
+        "@minmaxindustries/mws-sdk": "latest",
+        "@minmin0530/hello-wasm": "latest",
+        "@minmin227/lotide": "latest",
+        "@minmoo/async-layers": "latest",
+        "@minmoo/publish-rollup": "latest",
+        "@minms/quasar-app-extension-app-version-inject": "latest",
+        "@minms/quasar-quick": "latest"
+    }
+}

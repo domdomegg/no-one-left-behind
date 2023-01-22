@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-expressw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "expressWeb": "latest",
+        "expresswall": "latest",
+        "expressway": "latest",
+        "expresswayreststop": "latest",
+        "expressways": "latest",
+        "expressweb": "latest",
+        "expressweb-fastify": "latest",
+        "expressweb-ioc": "latest",
+        "expressweb-scheduler": "latest",
+        "expressweb-scheduler-ts": "latest",
+        "expresswebcli": "latest",
+        "expresswebcore": "latest",
+        "expresswebcorets": "latest",
+        "expresswebjs-preset-ts": "latest",
+        "expresswebtpr": "latest",
+        "expressworks": "latest"
+    }
+}

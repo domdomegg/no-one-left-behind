@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-synd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "Syndication": "latest",
+        "synd": "latest",
+        "syndemofirst": "latest",
+        "syndesi-license-icons": "latest",
+        "syndesi-markdown-editor": "latest",
+        "syndex": "latest",
+        "syndicate": "latest",
+        "syndicate-build": "latest",
+        "syndicate-drive": "latest",
+        "syndicate-drive-ug-http": "latest",
+        "syndicate-drive-ug-http-cli": "latest",
+        "syndicate-drive-ug-tools": "latest",
+        "syndicate-interface": "latest",
+        "syndicate-storage": "latest",
+        "syndicate-storage-ug-tools": "latest",
+        "syndication": "latest",
+        "syndication-station": "latest",
+        "syndication-templates": "latest",
+        "syndicator": "latest",
+        "syndis-test": "latest",
+        "syndis_reference_test": "latest"
+    }
+}

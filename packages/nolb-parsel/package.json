@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-parsel",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "parsel": "latest",
+        "parsel-js": "latest",
+        "parsel-ts": "latest",
+        "parselatlon": "latest",
+        "parseless": "latest",
+        "parseley": "latest",
+        "parseliasse": "latest",
+        "parselib": "latest",
+        "parseltongue": "latest",
+        "parsely": "latest"
+    }
+}

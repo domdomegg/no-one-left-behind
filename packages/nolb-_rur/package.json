@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_rur",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@rurals/cli": "latest",
+        "@rurals/utils": "latest",
+        "@rurgos/ape-polygon-sdk": "latest",
+        "@rurgos/ape-sdk": "latest",
+        "@rurgos/pancake-sdk": "latest",
+        "@rurgos/quickswap-sdk": "latest",
+        "@rurgos/sdk-mdex": "latest",
+        "@rurgos/traderjoe-sdk": "latest",
+        "@rurgos/v3-sdk-goerlic": "latest",
+        "@rurquia/css-modules-require-hook": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-aws-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aws-q": "latest",
+        "aws-queue-ops": "latest",
+        "aws-quick-metric": "latest",
+        "aws-quickdeploy": "latest"
+    }
+}

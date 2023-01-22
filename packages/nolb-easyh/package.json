@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-easyh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "easyh": "latest",
+        "easyhappy-node-todo": "latest",
+        "easyhard": "latest",
+        "easyhard-api": "latest",
+        "easyhard-bridge": "latest",
+        "easyhard-client": "latest",
+        "easyhard-common": "latest",
+        "easyhard-debug": "latest",
+        "easyhard-forms": "latest",
+        "easyhard-loader": "latest",
+        "easyhard-post-message": "latest",
+        "easyhard-router": "latest",
+        "easyhard-server": "latest",
+        "easyhard-server-uws": "latest",
+        "easyhard-styles": "latest",
+        "easyhash": "latest",
+        "easyhat": "latest",
+        "easyhex": "latest",
+        "easyhome": "latest",
+        "easyhook": "latest",
+        "easyhook.js": "latest",
+        "easyhosts": "latest",
+        "easyhttp": "latest",
+        "easyhttp245312": "latest",
+        "easyhttp3": "latest",
+        "easyhub-angular-components": "latest",
+        "easyhub-sass": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-li3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "li3-templates": "latest",
+        "li3-widgets": "latest",
+        "li30": "latest",
+        "li347848102": "latest"
+    }
+}

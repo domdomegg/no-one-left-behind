@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-onev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "onev": "latest",
+        "onev-theme-chalk": "latest",
+        "onevalidator": "latest",
+        "onevideo-api": "latest",
+        "oneview-control": "latest",
+        "oneviewlogin": "latest",
+        "oneviewlogin2": "latest",
+        "oneviewmodel": "latest",
+        "oneviewservice": "latest",
+        "onevn-crypto": "latest"
+    }
+}

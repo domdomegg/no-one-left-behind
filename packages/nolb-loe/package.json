@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-loe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "loe": "latest",
+        "loe-x-build": "latest",
+        "loeb": "latest",
+        "loen-lib": "latest",
+        "loenys01": "latest",
+        "loerem": "latest",
+        "loess": "latest",
+        "loewe.js": "latest",
+        "loewy-assets": "latest",
+        "loex-plugin-kline": "latest"
+    }
+}

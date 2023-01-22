@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-typl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typl": "latest",
+        "typlayer": "latest",
+        "typlesmod": "latest",
+        "typling": "latest",
+        "typling-ast": "latest",
+        "typling-core": "latest",
+        "typling-signature": "latest",
+        "typlux": "latest",
+        "typly": "latest"
+    }
+}

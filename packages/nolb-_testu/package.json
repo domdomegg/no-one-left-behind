@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_testu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@testudor/testudor-theme-bulma": "latest",
+        "@testup/cli": "latest",
+        "@testup/console-reporter": "latest",
+        "@testup/core": "latest",
+        "@testup/tap-reporter": "latest",
+        "@testupswot/forecast": "latest",
+        "@testupswot/uilib": "latest",
+        "@testuser85264/scoped-package": "latest"
+    }
+}

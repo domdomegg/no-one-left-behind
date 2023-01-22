@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-test-pi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "test-pincode": "latest",
+        "test-pine-tool": "latest",
+        "test-pinia": "latest",
+        "test-pins-components": "latest",
+        "test-pipes-angular-4": "latest",
+        "test-piral-sample-sdk": "latest",
+        "test-pirvan-library": "latest",
+        "test-pirvan5001-library": "latest",
+        "test-pitech": "latest",
+        "test-piwex-juan": "latest"
+    }
+}

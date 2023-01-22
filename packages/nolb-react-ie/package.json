@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-react-ie",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-ie": "latest",
+        "react-ie-alt": "latest",
+        "react-ie-buster": "latest",
+        "react-ie6": "latest",
+        "react-ie7": "latest",
+        "react-ie8": "latest",
+        "react-ie8-cli": "latest",
+        "react-ie8-hello-world-example": "latest"
+    }
+}

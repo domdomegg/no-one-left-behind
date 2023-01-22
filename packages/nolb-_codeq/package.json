@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_codeq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@codeqo/cq-ngx-translate-routes": "latest",
+        "@codeqrypt/is-wds-cq": "latest",
+        "@codeque/cli": "latest",
+        "@codeque/core": "latest",
+        "@codequest-eu/eslint-config": "latest",
+        "@codequest-eu/typescript-config": "latest"
+    }
+}

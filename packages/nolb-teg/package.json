@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-teg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "teg": "latest",
+        "teg-parser": "latest",
+        "tega": "latest",
+        "tegaki-jan": "latest",
+        "tegcommerce-admin": "latest",
+        "tegel": "latest",
+        "tegel-example": "latest",
+        "tegel-router": "latest",
+        "tegg": "latest",
+        "tegg-tool": "latest",
+        "tegile-ng2-lib": "latest",
+        "tegit": "latest",
+        "tegn": "latest",
+        "tegong-xunlian-shouce": "latest",
+        "tegra": "latest",
+        "tegra-infrastructure-sh": "latest",
+        "tegra-infrastructure-sh-bizcharts": "latest",
+        "tegra-unswizzle": "latest",
+        "tegridy": "latest",
+        "tegteg": "latest",
+        "tegtig": "latest",
+        "tegud-lambda-api": "latest",
+        "tegula": "latest",
+        "tegument-components": "latest",
+        "tegund": "latest"
+    }
+}

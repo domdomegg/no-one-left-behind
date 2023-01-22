@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-rcu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rcu": "latest",
+        "rcu-builders": "latest",
+        "rcu-cli": "latest",
+        "rcu-command-tool": "latest",
+        "rcu192": "latest",
+        "rcue": "latest",
+        "rcui-date-picker": "latest",
+        "rcuid": "latest",
+        "rcutii": "latest",
+        "rcutils": "latest"
+    }
+}

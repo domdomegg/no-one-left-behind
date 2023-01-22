@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-mapn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mapn": "latest",
+        "mapnew": "latest",
+        "mapnga": "latest",
+        "mapngaclients": "latest",
+        "mapngadev": "latest",
+        "mapnik": "latest",
+        "mapnik-atlas": "latest",
+        "mapnik-fid": "latest",
+        "mapnik-fork": "latest",
+        "mapnik-omnivore": "latest",
+        "mapnik-pool": "latest",
+        "mapnik-reference": "latest",
+        "mapnik-style-parser": "latest",
+        "mapnik-test": "latest",
+        "mapnik-test-data": "latest",
+        "mapnik-tiles": "latest",
+        "mapnik-vector-tile": "latest",
+        "mapnik-xml-to-mapbox-gl-json": "latest"
+    }
+}

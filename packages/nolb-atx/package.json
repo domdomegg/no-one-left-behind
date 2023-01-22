@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-atx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "atx": "latest",
+        "atx-alerts": "latest",
+        "atx-amazon-scraper": "latest",
+        "atx-cbor-ts": "latest",
+        "atx-cli": "latest",
+        "atx-cli-generator": "latest",
+        "atx-filemanager": "latest",
+        "atx-img": "latest",
+        "atx-low-water-crossings": "latest",
+        "atx-todo": "latest",
+        "atxmon": "latest",
+        "atxpaul": "latest",
+        "atxt": "latest"
+    }
+}

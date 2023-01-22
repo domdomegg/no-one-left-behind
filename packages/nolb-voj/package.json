@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-voj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "voj": "latest",
+        "vojo-component-library": "latest",
+        "vojtech-giveth-react-scripts": "latest",
+        "vojto-capacitor-firebase-authentication": "latest",
+        "vojto2-react-pixi-fiber": "latest",
+        "vojvoda": "latest"
+    }
+}

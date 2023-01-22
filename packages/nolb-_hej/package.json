@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_hej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@heja/analytics-producer": "latest",
+        "@heja/shared": "latest",
+        "@hejfelix/bs-generic-parser": "latest",
+        "@hejk/affix": "latest",
+        "@hejk/fetch": "latest",
+        "@hejsoftware/cti-plugin-lib": "latest",
+        "@hejunjietest/create-mycli": "latest",
+        "@hejunjietest/jj-ui": "latest",
+        "@hejunjietest/modulea": "latest",
+        "@hejunjietest/moduleb": "latest",
+        "@hejunjietest/vue3-ui": "latest"
+    }
+}

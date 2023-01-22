@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_app2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@app21/core": "latest",
+        "@app2one/react-native-cipherlab-scanner": "latest",
+        "@app2one/react-native-country-picker-modal": "latest",
+        "@app2one/react-native-recaptcha-that-works": "latest",
+        "@app2one/react-native-share-extension": "latest"
+    }
+}

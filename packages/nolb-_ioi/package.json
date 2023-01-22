@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_ioi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ioiotv/io-react": "latest",
+        "@ioiotv/ioio-frame-vue": "latest",
+        "@ioiotv/ioio-kit-core": "latest",
+        "@ioiotv/ioio-kit-ffmpeg": "latest",
+        "@ioiotv/ioio-kit-icons": "latest",
+        "@ioiotv/ioio-kit-s3-streamer": "latest",
+        "@ioiotv/ioio-kit-vue": "latest",
+        "@ioiotv/serverless-aws-documentation": "latest",
+        "@ioiotv/serverless-aws-signer": "latest",
+        "@ioiotv/serverless-dependson-models-plugin": "latest",
+        "@ioiotv/serverless-reqvalidator-plugin": "latest"
+    }
+}

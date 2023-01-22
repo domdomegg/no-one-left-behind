@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_dsr-ro",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-_dsr-roa": "latest",
+        "@zalastax/nolb-_dsr-rob": "latest",
+        "@zalastax/nolb-_dsr-roi": "latest",
+        "@zalastax/nolb-_dsr-rol": "latest",
+        "@zalastax/nolb-_dsr-rom": "latest",
+        "@zalastax/nolb-_dsr-ron": "latest",
+        "@zalastax/nolb-_dsr-roo": "latest",
+        "@zalastax/nolb-_dsr-roq": "latest",
+        "@zalastax/nolb-_dsr-ror": "latest",
+        "@zalastax/nolb-_dsr-rot": "latest",
+        "@zalastax/nolb-_dsr-rou": "latest",
+        "@zalastax/nolb-_dsr-row": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-viti",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "viti": "latest",
+        "viti-cli": "latest",
+        "viti-eslint-config": "latest",
+        "viti-stylelint-config": "latest",
+        "vitify": "latest",
+        "vitim-cli": "latest",
+        "vitis": "latest",
+        "vitis-base-text-test": "latest",
+        "vitis-cli": "latest",
+        "vitis-engine-lib": "latest",
+        "vitis-lowcode-column": "latest",
+        "vitis-lowcode-component-test": "latest",
+        "vitis-lowcode-input": "latest",
+        "vitis-lowcode-layoutcelldouble": "latest",
+        "vitis-lowcode-layoutcellsingle": "latest",
+        "vitis-lowcode-row": "latest",
+        "vitis-lowcode-select": "latest",
+        "vitis-lowcode-warningtext": "latest",
+        "vitis-material-parser": "latest",
+        "vitivin-library": "latest"
+    }
+}

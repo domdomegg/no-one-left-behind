@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-markr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "markr": "latest",
+        "markr-prettier-config": "latest",
+        "markreay-accessibility-insights-report": "latest",
+        "markrgba-css-rpx": "latest",
+        "markrieth-core": "latest",
+        "markright": "latest",
+        "markrookie-meiqia-react-native": "latest",
+        "markrookie-react-native-puti-pay": "latest",
+        "markrun": "latest",
+        "markrun-sidebar": "latest",
+        "markrun-test": "latest",
+        "markrun-themes": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-sox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sox": "latest",
+        "sox-async": "latest",
+        "sox-audio": "latest",
+        "sox-bin": "latest",
+        "sox-buffer": "latest",
+        "sox-element": "latest",
+        "sox-io": "latest",
+        "sox-play": "latest",
+        "sox-static": "latest",
+        "sox-static-linux": "latest",
+        "sox-static-macos": "latest",
+        "sox-stream": "latest",
+        "sox-waveform": "latest",
+        "sox.js": "latest",
+        "soxbiledersoxiste": "latest",
+        "soxjs2": "latest",
+        "soxlib": "latest",
+        "soxo-bootstrap-core": "latest",
+        "soxo-firebase-core": "latest",
+        "soxo-react-scripts": "latest",
+        "soxo-view-builder": "latest",
+        "soxsnation": "latest",
+        "soxsot": "latest",
+        "soxsot-format": "latest",
+        "soxx": "latest",
+        "soxy": "latest"
+    }
+}

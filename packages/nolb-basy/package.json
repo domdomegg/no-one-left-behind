@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-basy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "basys": "latest",
+        "basys-app-builder": "latest",
+        "basys-cli": "latest",
+        "basyt": "latest",
+        "basyt-base-collection": "latest",
+        "basyt-cli": "latest",
+        "basyt-mongodb-collection": "latest"
+    }
+}

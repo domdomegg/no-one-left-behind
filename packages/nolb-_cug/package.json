@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_cug",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cugede/react-time": "latest",
+        "@cugiangi/libreria": "latest",
+        "@cuginoale/freeagent_csv_parser": "latest",
+        "@cuginoale/pa11y-report-html": "latest",
+        "@cuginoale/paxe": "latest",
+        "@cuginoale/svg-inliner": "latest"
+    }
+}

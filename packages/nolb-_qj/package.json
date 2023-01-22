@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_qj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@qj-test/my-test-library": "latest",
+        "@qj-test/project-1": "latest",
+        "@qj-test/project-2": "latest",
+        "@qj-test/project-3": "latest",
+        "@qj-test/project-4": "latest",
+        "@qj_thankwsx/graphql-demo": "latest",
+        "@qjk/npm-pack": "latest",
+        "@qjk/vue-core": "latest",
+        "@qjktickets/common": "latest",
+        "@qjorg/hint-keywords": "latest",
+        "@qjr-test1/vue-mobile-ui": "latest",
+        "@qjsx/io": "latest",
+        "@qjsx/types": "latest",
+        "@qjsx/web": "latest",
+        "@qjtickets/common": "latest",
+        "@qjui/elements": "latest",
+        "@qjwvtd/share-store": "latest",
+        "@qjwvtd/use-hook-store": "latest"
+    }
+}

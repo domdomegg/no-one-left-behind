@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_ad2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ad2302/antd-theme-webpack-plugin": "latest",
+        "@ad2302/browserslist-useragent-regexp": "latest",
+        "@ad2302/find-imports": "latest",
+        "@ad2302/gen-proto-nest-index": "latest",
+        "@ad2302/less-bundle-promise": "latest",
+        "@ad2302/pattern-match": "latest",
+        "@ad2302/react-grid-layout": "latest",
+        "@ad2302/rename-modules": "latest",
+        "@ad2302/rxjs-grpc": "latest",
+        "@ad2302/slider-captcha-core": "latest",
+        "@ad2302/slider-captcha-react": "latest",
+        "@ad2302/webpack-stats-progress": "latest",
+        "@ad2302/why-this-file": "latest"
+    }
+}

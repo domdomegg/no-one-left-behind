@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_aig",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aigan/iron-overlay-behavior": "latest",
+        "@aigan/polymer-css-compiler": "latest",
+        "@aigens/aigens-sdk-applepay": "latest",
+        "@aigens/aigens-sdk-core": "latest",
+        "@aigens/aigens-sdk-googlepay": "latest",
+        "@aigens/aigens-sdk-scan": "latest",
+        "@aigens/aigens-sdk-wechathk": "latest",
+        "@aigent/ringcentral-softphone": "latest",
+        "@aigoal/lib": "latest",
+        "@aigodata/element-theme": "latest",
+        "@aigolee/nodejs-demo": "latest",
+        "@aigotsrl/vault-env": "latest",
+        "@aigre87/ng2-date-countdown": "latest",
+        "@aiguesdebarcelona/ab-ofex-components": "latest",
+        "@aigur/lib": "latest",
+        "@aigur/lib-rn": "latest"
+    }
+}

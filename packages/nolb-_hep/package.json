@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_hep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hepeidong/ecslib": "latest",
+        "@hepengcheng/node-tool": "latest",
+        "@heph-tech/utils": "latest",
+        "@hephaestus/core": "latest",
+        "@hephaestus/eris": "latest",
+        "@hephaestus/utils": "latest",
+        "@heppi_br/flydrive": "latest",
+        "@heppi_br/flydrive-gcs": "latest",
+        "@heppi_br/flydrive-s3": "latest",
+        "@heppokofrontend/dictionary-file-maker": "latest",
+        "@heppokofrontend/flat-deep": "latest",
+        "@heppokofrontend/html-code-block-element": "latest",
+        "@heppokofrontend/html-entity": "latest",
+        "@heppokofrontend/jquery-accessible-name": "latest",
+        "@heppokofrontend/pager": "latest",
+        "@hepta/shared": "latest",
+        "@heptacode/http-request": "latest",
+        "@heptacode/military-letter": "latest",
+        "@heptickets/common": "latest",
+        "@heptickets/math": "latest"
+    }
+}

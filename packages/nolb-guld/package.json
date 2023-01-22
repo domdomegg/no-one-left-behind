@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-guld",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "guld-chat": "latest",
+        "guld-config": "latest",
+        "guld-config-cli": "latest",
+        "guld-git-dir": "latest",
+        "guld-key-btc": "latest",
+        "guld-keys": "latest",
+        "guld-keys-bitcoin": "latest",
+        "guld-keys-dash": "latest",
+        "guld-ledger": "latest",
+        "guld-ledger-btc": "latest",
+        "guld-ledger-transfer": "latest",
+        "guld-lib": "latest",
+        "guld-ui": "latest",
+        "guldan": "latest",
+        "guldan-add": "latest",
+        "guldberg-vue-event-calendar": "latest",
+        "guldencore": "latest",
+        "guldencore-lib": "latest",
+        "guldencore-message": "latest",
+        "guldencore-node": "latest",
+        "guldencore-p2p": "latest",
+        "guldend-rpc": "latest",
+        "guldenjs-lib": "latest"
+    }
+}

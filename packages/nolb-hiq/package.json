@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-hiq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hiq": "latest",
+        "hiq-charts": "latest",
+        "hiq-charts-react": "latest",
+        "hiq-locus": "latest",
+        "hiq-sv-webdav-syncer": "latest",
+        "hiq-ui-elements": "latest",
+        "hiq-webdav": "latest",
+        "hiqapp": "latest",
+        "hiqf": "latest",
+        "hique": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_micro_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@micro.ts/core": "latest",
+        "@micro/thunk-to-promise": "latest",
+        "@micro_common/common": "latest",
+        "@micro_course/common": "latest",
+        "@micro_insta/common": "latest",
+        "@micro_project/common": "latest",
+        "@micro_services/common": "latest",
+        "@micro_ticket/common": "latest"
+    }
+}

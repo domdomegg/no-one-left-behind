@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-multiu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "multiup": "latest",
+        "multiupload": "latest",
+        "multiuse": "latest",
+        "multiusecomponent": "latest",
+        "multiusecomponent0": "latest",
+        "multiuser-aframe": "latest",
+        "multiuser-meeting-scheduler": "latest",
+        "multiuserauthenticator": "latest"
+    }
+}

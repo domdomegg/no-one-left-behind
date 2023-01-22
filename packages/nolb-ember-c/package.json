@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-ember-c",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zalastax/nolb-ember-c3": "latest",
+        "@zalastax/nolb-ember-ca": "latest",
+        "@zalastax/nolb-ember-cc": "latest",
+        "@zalastax/nolb-ember-ce": "latest",
+        "@zalastax/nolb-ember-ch": "latest",
+        "@zalastax/nolb-ember-ci": "latest",
+        "@zalastax/nolb-ember-ck": "latest",
+        "@zalastax/nolb-ember-cl": "latest",
+        "@zalastax/nolb-ember-co": "latest",
+        "@zalastax/nolb-ember-cp": "latest",
+        "@zalastax/nolb-ember-cr": "latest",
+        "@zalastax/nolb-ember-cs": "latest",
+        "@zalastax/nolb-ember-ct": "latest",
+        "@zalastax/nolb-ember-cu": "latest",
+        "@zalastax/nolb-ember-cy": "latest"
+    }
+}

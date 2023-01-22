@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-crex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "crex": "latest",
+        "crex-component-lib": "latest",
+        "crexap": "latest",
+        "crext": "latest"
+    }
+}

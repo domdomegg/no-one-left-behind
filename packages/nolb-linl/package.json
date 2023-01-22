@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-linl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "linl-front-tools-view": "latest",
+        "linl-platform-tools": "latest",
+        "linl-util": "latest",
+        "linlane-button-react": "latest",
+        "linlang": "latest",
+        "linlilung-person-123": "latest",
+        "linlin": "latest",
+        "linlin-ui": "latest",
+        "linlin-web-sdk": "latest",
+        "linlincalc": "latest",
+        "linling-haha": "latest",
+        "linlinlin": "latest",
+        "linlinweijietest": "latest",
+        "linliqun730": "latest",
+        "linliqun74": "latest",
+        "linlodnpmtest": "latest",
+        "linlong-cli": "latest",
+        "linlong-components": "latest"
+    }
+}

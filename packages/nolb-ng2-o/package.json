@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-ng2-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ng2-oauth": "latest",
+        "ng2-oauth-magento": "latest",
+        "ng2-oauth-sysjs": "latest",
+        "ng2-oauth2": "latest",
+        "ng2-observable-events": "latest",
+        "ng2-odata": "latest",
+        "ng2-odometer": "latest",
+        "ng2-odometer-light": "latest",
+        "ng2-odometer-tiny": "latest",
+        "ng2-offclick": "latest",
+        "ng2-omelek-adal": "latest",
+        "ng2-op-image-upload": "latest",
+        "ng2-opd-popup": "latest",
+        "ng2-open-uploader": "latest",
+        "ng2-openmodal": "latest",
+        "ng2-openmrs-formentry": "latest",
+        "ng2-opentok": "latest",
+        "ng2-order-pipe": "latest",
+        "ng2-orderby": "latest",
+        "ng2-org-chart": "latest",
+        "ng2-orm": "latest",
+        "ng2-overlay": "latest",
+        "ng2-overlay-with-event-emitter": "latest",
+        "ng2-owl-carousel": "latest",
+        "ng2-owl-carousel2": "latest"
+    }
+}

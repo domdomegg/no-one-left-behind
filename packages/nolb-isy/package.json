@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-isy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "isy": "latest",
+        "isy-analytics-client": "latest",
+        "isy-bim-viewer": "latest",
+        "isy-grid-addon": "latest",
+        "isy-js": "latest",
+        "isy-njs": "latest",
+        "isy-nodejs": "latest",
+        "isy99": "latest",
+        "isyale": "latest",
+        "isyana": "latest",
+        "isyang-tools": "latest",
+        "isyet-au-input": "latest",
+        "isyflow-emails": "latest",
+        "isync": "latest",
+        "isynnode": "latest",
+        "isyoutubelive": "latest",
+        "isyscore-ui-copy": "latest",
+        "isyscore-utils.string": "latest",
+        "isyscore-utils.typeis": "latest",
+        "isystem": "latest"
+    }
+}

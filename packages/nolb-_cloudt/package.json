@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_cloudt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cloudtasks/image": "latest",
+        "@cloudtasks/js": "latest",
+        "@cloudtasks/ngx-image": "latest",
+        "@cloudtea/ct-asr": "latest",
+        "@cloudtea/iot-shadow": "latest",
+        "@cloudtea/react-native-cordova": "latest",
+        "@cloudtea/react-native-smartlink": "latest",
+        "@cloudteamdevs/collection": "latest",
+        "@cloudthrottle/dcc-ex--commands": "latest",
+        "@cloudthrottle/dcc-ex--serial-communicator": "latest",
+        "@cloudticon/agent": "latest",
+        "@cloudticon/cli": "latest",
+        "@cloudticon/env-replacer": "latest",
+        "@cloudticon/functions": "latest",
+        "@cloudticon/hasura-camel-case": "latest",
+        "@cloudticon/hasura-camelcase": "latest",
+        "@cloudticon/node-dev": "latest",
+        "@cloudticon/utils": "latest",
+        "@cloudtoolkit/aws": "latest",
+        "@cloudtower/eagle": "latest",
+        "@cloudtower/parrot": "latest",
+        "@cloudtower/sparrow": "latest",
+        "@cloudtrek/cloudtrek-web-radar-sdk": "latest",
+        "@cloudtwo/kh-npm-test-publish": "latest",
+        "@cloudtwo/test-npm": "latest",
+        "@cloudtwo/test_npm": "latest",
+        "@cloudtype/cli": "latest",
+        "@cloudtype/style": "latest"
+    }
+}

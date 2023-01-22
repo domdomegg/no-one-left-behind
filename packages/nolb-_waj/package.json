@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_waj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wajek/firebase": "latest",
+        "@wajek/printer-socket": "latest",
+        "@wajek/report": "latest",
+        "@wajek/sequel-js": "latest",
+        "@wajek/wui": "latest",
+        "@wajid.linux/wajid": "latest",
+        "@waju/vue-guard": "latest"
+    }
+}

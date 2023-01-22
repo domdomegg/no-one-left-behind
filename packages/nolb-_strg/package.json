@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_strg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@strg/behave-tracking-client-lib": "latest",
+        "@strg/behave-tracking-client-plugins": "latest",
+        "@strg/behave-tracking-client-vue": "latest",
+        "@strg/eslint-config-graphql": "latest",
+        "@strg/eslint-config-node": "latest",
+        "@strg/eslint-config-nuxt": "latest",
+        "@strg/eslint-config-vue": "latest",
+        "@strg/logging-winston": "latest",
+        "@strg/prettier-config": "latest",
+        "@strg/react-snip": "latest",
+        "@strg/stylelint-config-scss": "latest",
+        "@strg001/acronis-backup-console": "latest"
+    }
+}

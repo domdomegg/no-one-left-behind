@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-deph",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "deph": "latest",
+        "deph-gauge": "latest",
+        "dephall": "latest",
+        "depher": "latest",
+        "dephs": "latest",
+        "dephunt": "latest"
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-tiny-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tiny-warning": "latest",
+        "tiny-watch": "latest",
+        "tiny-watcher": "latest",
+        "tiny-watermark": "latest",
+        "tiny-wcwidth": "latest",
+        "tiny-wdd": "latest",
+        "tiny-web-worker": "latest",
+        "tiny-webcrypto": "latest",
+        "tiny-webpack-plugin": "latest",
+        "tiny-webpack-userscript-plugin": "latest",
+        "tiny-wechatpay": "latest",
+        "tiny-weixin-pay": "latest",
+        "tiny-wheels": "latest",
+        "tiny-when": "latest",
+        "tiny-whiteboard": "latest",
+        "tiny-wonder-bs-json": "latest",
+        "tiny-wonder-bs-most": "latest",
+        "tiny-wonder-commonlib": "latest",
+        "tiny-wonder-engine": "latest",
+        "tiny-wonder-generate-index": "latest",
+        "tiny-wonder-glsl-compiler": "latest",
+        "tiny-worker": "latest",
+        "tiny-worker-api": "latest",
+        "tiny-ws-rpc": "latest",
+        "tiny-wxapp": "latest"
+    }
+}

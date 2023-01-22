@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-bitd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bitd": "latest",
+        "bitdb": "latest",
+        "bitdepth": "latest",
+        "bitdiary": "latest",
+        "bitdipak": "latest",
+        "bitdo": "latest",
+        "bitdo2": "latest",
+        "bitdog-client": "latest",
+        "bitdog-client-example-intel-edison": "latest",
+        "bitdog-hub": "latest",
+        "bitdogeswap-v1-sdk": "latest",
+        "bitdogeswap-v2-sdk": "latest",
+        "bitdollar": "latest",
+        "bitdraw": "latest",
+        "bitdrive": "latest",
+        "bitdrive-cli": "latest"
+    }
+}

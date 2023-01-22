@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_marp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@marp-team/marp-cli": "latest",
+        "@marp-team/marp-core": "latest",
+        "@marp-team/marp-react": "latest",
+        "@marp-team/marp-vue": "latest",
+        "@marp-team/marpit": "latest",
+        "@marp-team/marpit-svg-polyfill": "latest",
+        "@marp-team/pptx": "latest",
+        "@marplex/flarebase-auth": "latest",
+        "@marposs-ui/mui-base": "latest",
+        "@marposs-ui/mui-passwordfield": "latest",
+        "@marposs-ui/mui-textfield": "latest",
+        "@marposs-ui/textfield": "latest",
+        "@marpu_1234/velocitycal": "latest"
+    }
+}

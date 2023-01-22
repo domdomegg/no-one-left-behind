@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_exl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@exlg/cli-mod": "latest",
+        "@exlg/core": "latest",
+        "@exlg/mod-captcha": "latest",
+        "@exlg/mod-dbc-jump-problem": "latest",
+        "@exlg/mod-discussion-save": "latest",
+        "@exlg/mod-emoticon": "latest",
+        "@exlg/mod-juan-inspector": "latest",
+        "@exlg/mod-messages": "latest",
+        "@exlg/mod-meta-discussion-guide": "latest",
+        "@exlg/mod-original-difficulty": "latest",
+        "@exlg/mod-rand-problem-ex": "latest",
+        "@exlg/mod-token": "latest",
+        "@exlg/mod-user-problem-ex": "latest",
+        "@exlg/theme-dark": "latest",
+        "@exlg/theme-default": "latest",
+        "@exlibris-sdks/alma": "latest",
+        "@exlibris/exl-cloudapp-angular-lib": "latest",
+        "@exlibris/exl-cloudapp-base": "latest",
+        "@exlibris/exl-cloudapp-cli": "latest",
+        "@exlinc/cc-web-exec-sdk": "latest",
+        "@exlinc/keycloak-passport": "latest",
+        "@exlinc/ngx-monaco-editor": "latest",
+        "@exlinc/skulpt": "latest",
+        "@exlint.io/inflint": "latest",
+        "@exlrt/spur-js": "latest"
+    }
+}

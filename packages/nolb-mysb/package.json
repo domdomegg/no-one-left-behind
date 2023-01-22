@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-mysb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mysbb": "latest",
+        "mysbgl-workflow-bpmn-modeler": "latest",
+        "mysbmapplicationweb": "latest",
+        "mysbmreactapplicatiojan": "latest",
+        "mysbmreactapplication": "latest",
+        "mysbmreactappnew123": "latest",
+        "mysbmwebappnew": "latest"
+    }
+}

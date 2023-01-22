@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-csk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "csk": "latest",
+        "csk-async": "latest",
+        "csk-cli": "latest",
+        "csk-component": "latest",
+        "csk-frame-print": "latest",
+        "csk.test.litelement": "latest",
+        "cskit": "latest",
+        "cskm-aqi": "latest",
+        "cskm-weather": "latest",
+        "cskm-youdao": "latest",
+        "cskt-wang": "latest",
+        "cskvpp": "latest"
+    }
+}

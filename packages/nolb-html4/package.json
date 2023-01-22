@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-html4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "html4-fallback": "latest",
+        "html4-id": "latest",
+        "html4markdown": "latest",
+        "html4server-webpack-plugin": "latest"
+    }
+}

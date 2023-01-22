@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_imf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@imfascinated/bat-framework": "latest",
+        "@imfeelingitchy/algorand-session-wallet": "latest",
+        "@imfr0st/tinytest": "latest",
+        "@imfs/escape-html": "latest",
+        "@imfs/http-streaming": "latest",
+        "@imfs/video.js": "latest"
+    }
+}

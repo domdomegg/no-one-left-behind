@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_lae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lae-touch-dashboard/insurance-non-life-family": "latest",
+        "@laerdal/figma-svg": "latest",
+        "@laerdal/life-react-components": "latest",
+        "@laerdal/navigation": "latest",
+        "@laeri/config-parser": "latest",
+        "@laertejjunior/docker-ratelimit": "latest",
+        "@laertejjunior/pmv-design-system": "latest",
+        "@laeti-g/holidates": "latest"
+    }
+}

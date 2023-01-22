@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-rae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rae": "latest",
+        "rae-api": "latest",
+        "rae-lite": "latest",
+        "rae-ui": "latest",
+        "rae.js": "latest",
+        "raebon-frame-print": "latest",
+        "raect": "latest",
+        "raect-native-searchbox": "latest",
+        "raectnumberwithcommas": "latest",
+        "raedpkgup": "latest",
+        "raeedchat.js": "latest",
+        "raegen-react-scripts": "latest",
+        "raehoweNode": "latest",
+        "raekwon": "latest",
+        "raen-cli": "latest",
+        "raeper-anydoor": "latest",
+        "raerpo-calculator": "latest",
+        "raesb": "latest",
+        "raest-capacitor-updater": "latest",
+        "raet-event": "latest",
+        "raet-example": "latest",
+        "raet-notification": "latest",
+        "raet-output": "latest",
+        "raet-test": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-xiah",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "xiaheng-ngapp": "latest",
+        "xiahoujun-linyu": "latest",
+        "xiahui-ly-cli": "latest",
+        "xiahuisheng": "latest"
+    }
+}

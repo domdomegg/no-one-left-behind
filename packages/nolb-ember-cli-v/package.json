@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-ember-cli-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ember-cli-vagrant-spk": "latest",
+        "ember-cli-valid-component-name": "latest",
+        "ember-cli-validation-components": "latest",
+        "ember-cli-validations-errors": "latest",
+        "ember-cli-validatorjs": "latest",
+        "ember-cli-vcl-icon": "latest",
+        "ember-cli-vcl-l10n-props-support": "latest",
+        "ember-cli-vcl-meta": "latest",
+        "ember-cli-vcr": "latest",
+        "ember-cli-velocity": "latest",
+        "ember-cli-velocity-prism": "latest",
+        "ember-cli-velocityjs": "latest",
+        "ember-cli-version-checker": "latest",
+        "ember-cli-vibrant": "latest",
+        "ember-cli-vibrant-js-shim": "latest",
+        "ember-cli-victor-shim": "latest",
+        "ember-cli-videojs": "latest",
+        "ember-cli-videojs-record": "latest",
+        "ember-cli-videojs-shim": "latest",
+        "ember-cli-vis-js": "latest",
+        "ember-cli-vis-network-ola": "latest",
+        "ember-cli-visible": "latest",
+        "ember-cli-visio": "latest",
+        "ember-cli-visjs": "latest",
+        "ember-cli-visual-acceptance": "latest",
+        "ember-cli-visualeditor": "latest",
+        "ember-cli-voximplant": "latest",
+        "ember-cli-vu-meter": "latest"
+    }
+}

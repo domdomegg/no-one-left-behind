@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_amt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@amtazi/form-builder": "latest",
+        "@amtekcorp/cms2-api-common-express": "latest",
+        "@amtekcorp/cms2-lib-common-express": "latest",
+        "@amticketing/common": "latest",
+        "@amticketingorg/common": "latest",
+        "@amtickets/common": "latest",
+        "@amtickets1908/common": "latest",
+        "@amtickets2/common": "latest",
+        "@amtics/common": "latest",
+        "@amtix/common": "latest",
+        "@amto/vue-skeleton": "latest",
+        "@amtpub/react-pwa-install": "latest",
+        "@amtrack/sfdx-browserforce-plugin": "latest",
+        "@amttickets/common": "latest"
+    }
+}

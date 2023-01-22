@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-discord-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discord-youtube": "latest",
+        "discord-youtube-api": "latest",
+        "discord-youtube-player": "latest",
+        "discord-youtubeposter": "latest",
+        "discord-yt-player": "latest",
+        "discord-ytdl-core": "latest",
+        "discord-yui": "latest"
+    }
+}

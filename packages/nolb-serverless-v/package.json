@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-serverless-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "serverless-v2-aws-documentation": "latest",
+        "serverless-v3-dynamodb-seed": "latest",
+        "serverless-v3-openapi": "latest",
+        "serverless-validate-execute-response": "latest",
+        "serverless-validator": "latest",
+        "serverless-var-resolvers": "latest",
+        "serverless-variable-objects": "latest",
+        "serverless-vars-resolver": "latest",
+        "serverless-vault-custom-plugin": "latest",
+        "serverless-vault-plugin": "latest",
+        "serverless-vault-vars": "latest",
+        "serverless-vercel-ncc": "latest",
+        "serverless-version": "latest",
+        "serverless-version-info": "latest",
+        "serverless-version-tracker": "latest",
+        "serverless-version-tracker-v2": "latest",
+        "serverless-vpc-discovery": "latest",
+        "serverless-vpc-peering-options": "latest",
+        "serverless-vpc-plugin": "latest",
+        "serverless-vpc-plugin-cr": "latest"
+    }
+}

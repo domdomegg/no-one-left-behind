@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-ion5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ion5-calendar": "latest",
+        "ion5-intl-tel-input": "latest",
+        "ion5-schedule": "latest"
+    }
+}

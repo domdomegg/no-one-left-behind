@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_cloudn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cloudnative/health": "latest",
+        "@cloudnative/health-connect": "latest",
+        "@cloudnativegbb/cosmos-odm": "latest",
+        "@cloudnativetoolkit/git-client": "latest",
+        "@cloudnativetoolkit/iascable": "latest",
+        "@cloudnativetoolkit/kubernetes-client": "latest",
+        "@cloudnc/grpc-web-testing-toolbox": "latest",
+        "@cloudnexa/bedrock-ui": "latest",
+        "@cloudnexa/vnoc-bedrock": "latest",
+        "@cloudnoa/api-base": "latest",
+        "@cloudnoa/cloud-platform": "latest",
+        "@cloudnoa/common-util": "latest",
+        "@cloudnoa/configurator": "latest",
+        "@cloudnoa/express-util": "latest",
+        "@cloudnoa/pg-helper": "latest",
+        "@cloudnoa/set-config": "latest",
+        "@cloudnoa/simple-logger": "latest",
+        "@cloudnouns/bolt": "latest",
+        "@cloudnouns/factory": "latest",
+        "@cloudnouns/kit": "latest",
+        "@cloudnouns/vapor": "latest"
+    }
+}

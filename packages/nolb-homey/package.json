@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-homey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "homey": "latest",
+        "homey-433": "latest",
+        "homey-agressive-zigbee": "latest",
+        "homey-api": "latest",
+        "homey-app-upload-cli": "latest",
+        "homey-app-upload-lib": "latest",
+        "homey-apps-sdk-v3-types": "latest",
+        "homey-device-discovery": "latest",
+        "homey-lib": "latest",
+        "homey-log": "latest",
+        "homey-meshdriver": "latest",
+        "homey-mock": "latest",
+        "homey-oauth2app": "latest",
+        "homey-oauth2app-tuya": "latest",
+        "homey-presentation": "latest",
+        "homey-real-estate-nwb": "latest",
+        "homey-real-estate-services-nwb": "latest",
+        "homey-realestate-services": "latest",
+        "homey-rfdriver": "latest",
+        "homey-signal-validator": "latest",
+        "homey-syslog": "latest",
+        "homey-ts-composer": "latest",
+        "homey-wifidriver": "latest",
+        "homey-zigbeedriver": "latest",
+        "homey-zwavedriver": "latest",
+        "homey2": "latest",
+        "homeyyq": "latest"
+    }
+}

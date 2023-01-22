@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-crox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "crox": "latest",
+        "crox-express": "latest",
+        "crox-grunt": "latest",
+        "crox-gulp": "latest",
+        "crox-loader": "latest",
+        "crox-new-uikit": "latest",
+        "crox-p": "latest",
+        "crox-uikit": "latest",
+        "crox-uikit2.0": "latest",
+        "crox-uikit2.2": "latest",
+        "crox.mod": "latest",
+        "croxy-api": "latest",
+        "croxydb": "latest"
+    }
+}

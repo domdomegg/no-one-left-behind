@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-webpl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "webpl8": "latest",
+        "webplate-cli": "latest",
+        "webplate-command": "latest",
+        "webplate-tools": "latest",
+        "webplatform": "latest",
+        "webplatform-frontend": "latest",
+        "webplatform-tabcontainer": "latest",
+        "webplatform-ui": "latest",
+        "webplay": "latest",
+        "webplayer": "latest",
+        "webplayer-sdk": "latest",
+        "webplayer-sei": "latest",
+        "webplex": "latest",
+        "webplorer": "latest",
+        "webplugin": "latest"
+    }
+}

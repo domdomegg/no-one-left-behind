@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-cch",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cch": "latest",
+        "cch-box-test": "latest",
+        "cch-components": "latest",
+        "cch-core": "latest",
+        "cch-first-npm": "latest",
+        "cch-pro-cli": "latest",
+        "cch-tools": "latest",
+        "cchao-cli": "latest",
+        "cchappell": "latest",
+        "ccharts-abbr": "latest",
+        "ccharts-test-buttton": "latest",
+        "cchd-applink": "latest",
+        "cchdiy": "latest",
+        "ccheck": "latest",
+        "cchelsisdevcampjs-footer": "latest",
+        "cchfbdqn_tools": "latest",
+        "cchinopio": "latest",
+        "cchm-los": "latest",
+        "cchomework": "latest",
+        "cchook": "latest",
+        "cchooks": "latest",
+        "cchs-libs": "latest",
+        "ccht": "latest",
+        "cchttp": "latest"
+    }
+}

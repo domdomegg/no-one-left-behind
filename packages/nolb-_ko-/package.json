@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_ko-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ko-fi/express": "latest",
+        "@ko-fi/handler": "latest",
+        "@ko-fi/koa": "latest",
+        "@ko-fi/nest": "latest",
+        "@ko-fi/next": "latest",
+        "@ko-fi/types": "latest",
+        "@ko-platform/image-editor": "latest",
+        "@ko-yelie/kgl": "latest"
+    }
+}

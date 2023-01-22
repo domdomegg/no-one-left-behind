@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-hox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hox": "latest",
+        "hox-store": "latest",
+        "hoxly": "latest",
+        "hoxton": "latest",
+        "hoxy": "latest",
+        "hoxy-fork": "latest",
+        "hoxy-module": "latest",
+        "hoxyws": "latest"
+    }
+}

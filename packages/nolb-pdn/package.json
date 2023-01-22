@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-pdn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pdn": "latest",
+        "pdn-counter": "latest",
+        "pdns": "latest",
+        "pdns-mysql": "latest",
+        "pdns-notify": "latest",
+        "pdnsjs": "latest"
+    }
+}

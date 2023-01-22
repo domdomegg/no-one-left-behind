@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_zh9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zh930-cli-dev/core": "latest",
+        "@zh930-cli-dev/utils": "latest",
+        "@zh9956/mini-cli": "latest",
+        "@zh9956/parcel-react-typescript": "latest",
+        "@zh9956/simple-cli": "latest",
+        "@zh99998/excel-exporter": "latest"
+    }
+}

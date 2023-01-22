@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-vup",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vup": "latest",
+        "vup-number-formatter": "latest",
+        "vup-portal": "latest",
+        "vupload": "latest",
+        "vupload-cos": "latest",
+        "vupp": "latest",
+        "vuppy": "latest",
+        "vupt": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-isw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "isw": "latest",
+        "isw-demo-package-dc": "latest",
+        "isw-mobile-payment-sdk-react": "latest",
+        "iswaac": "latest",
+        "iswapv2sdk": "latest",
+        "iswaryamasonary": "latest",
+        "iswaryapassword": "latest",
+        "iswaseem": "latest",
+        "iswasmfast": "latest",
+        "iswear": "latest",
+        "iswebglcontext": "latest",
+        "isweburl": "latest",
+        "iswife": "latest",
+        "iswin": "latest",
+        "iswiper": "latest",
+        "iswitch": "latest",
+        "iswitch-core": "latest",
+        "isword-npm": "latest",
+        "iswpdl": "latest"
+    }
+}

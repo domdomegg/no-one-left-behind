@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-webpas",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "webpass": "latest",
+        "webpass--excel-export": "latest",
+        "webpass-date": "latest",
+        "webpass-miniprogram-ui": "latest",
+        "webpass-myexpress": "latest",
+        "webpass-myvue-cli": "latest",
+        "webpass-qs": "latest",
+        "webpass-qs2": "latest",
+        "webpass-svg-captcha": "latest",
+        "webpass-ui": "latest",
+        "webpaste": "latest"
+    }
+}

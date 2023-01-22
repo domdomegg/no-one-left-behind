@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-filew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "FileWriter": "latest",
+        "FileWriterSync": "latest",
+        "filewalk": "latest",
+        "filewalker": "latest",
+        "filewatch": "latest",
+        "filewatcher": "latest",
+        "filewatcher-cli": "latest",
+        "filewatcher-webpack-plugin": "latest",
+        "filewatcher-webpack-plugin_no-vuln": "latest",
+        "filewatcherthing": "latest",
+        "filewindow": "latest",
+        "fileworkbyaleksbelka": "latest",
+        "fileworkdiokou": "latest",
+        "filewrap": "latest",
+        "filewrite-webpackplugin": "latest",
+        "filewtf": "latest"
+    }
+}

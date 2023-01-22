@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-typet",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typetac": "latest",
+        "typetag": "latest",
+        "typetag-fn": "latest",
+        "typetag-rust": "latest",
+        "typetags": "latest",
+        "typetalk": "latest",
+        "typetalk-js": "latest",
+        "typetastic": "latest",
+        "typeteca": "latest",
+        "typeteca-mongoose": "latest",
+        "typeterpret": "latest",
+        "typetest": "latest",
+        "typetest-npm": "latest",
+        "typetether": "latest",
+        "typethon": "latest",
+        "typetime-json-schema": "latest",
+        "typetoken": "latest",
+        "typetology": "latest",
+        "typetools-core": "latest",
+        "typetr.abstract": "latest",
+        "typetransform": "latest",
+        "typetree": "latest",
+        "typetron": "latest",
+        "typeturajs": "latest",
+        "typetwojs": "latest"
+    }
+}

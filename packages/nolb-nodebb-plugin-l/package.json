@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-nodebb-plugin-l",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodebb-plugin-l24u-lk": "latest",
+        "nodebb-plugin-landingpage-v1": "latest",
+        "nodebb-plugin-lastlife-registration-question": "latest",
+        "nodebb-plugin-latest-group": "latest",
+        "nodebb-plugin-latex": "latest",
+        "nodebb-plugin-lavender-hide-user-profile-cover": "latest",
+        "nodebb-plugin-lazyload": "latest",
+        "nodebb-plugin-leaderboard": "latest",
+        "nodebb-plugin-lightbox": "latest",
+        "nodebb-plugin-lightgallery": "latest",
+        "nodebb-plugin-link-mentions": "latest",
+        "nodebb-plugin-linkcheck": "latest",
+        "nodebb-plugin-links-require-login": "latest",
+        "nodebb-plugin-liveleak": "latest",
+        "nodebb-plugin-livereload": "latest",
+        "nodebb-plugin-local-image-upload": "latest",
+        "nodebb-plugin-location-to-map": "latest",
+        "nodebb-plugin-login-anope": "latest",
+        "nodebb-plugin-login-jwt": "latest",
+        "nodebb-plugin-login-leo": "latest",
+        "nodebb-plugin-login-mysite": "latest",
+        "nodebb-plugin-login-other-db": "latest",
+        "nodebb-plugin-login-with-alpha": "latest",
+        "nodebb-plugin-login-with-jwt": "latest",
+        "nodebb-plugin-luketest-postsave": "latest"
+    }
+}

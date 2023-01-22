@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-blos",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "blossa": "latest",
+        "blossom": "latest",
+        "blossom-aside": "latest",
+        "blossom-grid": "latest",
+        "blossom-js": "latest",
+        "blossom-js-custom-element": "latest",
+        "blossom-js-html": "latest",
+        "blossom-js-router": "latest",
+        "blossom-js-server-side": "latest",
+        "blossom-server": "latest",
+        "blossom-svg-webfont-icons": "latest",
+        "blossom-switch-button": "latest",
+        "blossom-ui": "latest",
+        "blossom-util": "latest",
+        "blossom91npm": "latest",
+        "blossomplus": "latest",
+        "blossoms": "latest"
+    }
+}

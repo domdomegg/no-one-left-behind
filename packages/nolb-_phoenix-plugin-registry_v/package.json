@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_phoenix-plugin-registry_v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@phoenix-plugin-registry/vagrant-control": "latest",
+        "@phoenix-plugin-registry/valkyrie-material-light": "latest",
+        "@phoenix-plugin-registry/varz-dark": "latest",
+        "@phoenix-plugin-registry/vcfvct.brackets-file-format": "latest",
+        "@phoenix-plugin-registry/velocity": "latest",
+        "@phoenix-plugin-registry/verilog": "latest",
+        "@phoenix-plugin-registry/vhdl": "latest",
+        "@phoenix-plugin-registry/vincentloy.lorem-picsum": "latest",
+        "@phoenix-plugin-registry/vincentloy.ui-faces-and-names": "latest",
+        "@phoenix-plugin-registry/violet-dark-theme": "latest",
+        "@phoenix-plugin-registry/violet-light-theme": "latest",
+        "@phoenix-plugin-registry/vipeclone.dark-blue-theme": "latest",
+        "@phoenix-plugin-registry/visual-studio": "latest",
+        "@phoenix-plugin-registry/visual-studio-dark": "latest",
+        "@phoenix-plugin-registry/vjsrinath.reactjs-jsxtransformer": "latest",
+        "@phoenix-plugin-registry/vjsrinath.visualstudioprojectsync": "latest",
+        "@phoenix-plugin-registry/vscode-dark": "latest",
+        "@phoenix-plugin-registry/vtrrsl.lapland": "latest",
+        "@phoenix-plugin-registry/vue-snippets": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-promisc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "promiscuous": "latest",
+        "promiscuous-denodeify": "latest",
+        "promiscuous-mysql": "latest",
+        "promiscuous-tool": "latest",
+        "promiscuous-umd": "latest",
+        "promiscuousd": "latest"
+    }
+}

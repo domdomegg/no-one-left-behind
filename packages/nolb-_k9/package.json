@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_k9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@k90mirzaei/editor": "latest",
+        "@k90mirzaei/light-editor": "latest",
+        "@k90mirzaei/vue-toast": "latest",
+        "@k9e/package-sample": "latest",
+        "@k9n/scully-plugin-mermaid": "latest",
+        "@k9n/scully-plugin-toc": "latest",
+        "@k9securityio/k9-cdk": "latest"
+    }
+}

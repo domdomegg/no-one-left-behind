@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_thg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@thg303/json-server": "latest",
+        "@thg303/react-async": "latest",
+        "@thg303/react-async-render": "latest",
+        "@thg303/react-native-form-validator": "latest",
+        "@thg303/react-native-persian-date-picker": "latest",
+        "@thg303/react-persian": "latest",
+        "@thg303/react-persian-datepicker": "latest",
+        "@thg303/react-share": "latest",
+        "@thg303/standard": "latest"
+    }
+}

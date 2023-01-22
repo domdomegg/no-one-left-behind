@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_mald",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@maldan/bytearray": "latest",
+        "@maldan/db-help": "latest",
+        "@maldan/extend-array": "latest",
+        "@maldan/extend-date": "latest",
+        "@maldan/extend-number": "latest",
+        "@maldan/extend-string": "latest",
+        "@maldan/ffmpeg": "latest",
+        "@maldan/file-system": "latest",
+        "@maldan/json-db": "latest",
+        "@maldan/pork": "latest",
+        "@maldan/rest-server": "latest",
+        "@maldan/tslib-db-help": "latest",
+        "@maldan/tslib-earray": "latest",
+        "@maldan/tslib-gam-builder": "latest",
+        "@maldan/tslib-react-help": "latest",
+        "@maldan/tslib-rest-server": "latest",
+        "@maldan/tslib-uid": "latest",
+        "@maldan/vue-vs-ui": "latest",
+        "@maldan/web-server": "latest",
+        "@malditogeek/openapi-to-joi": "latest",
+        "@malditonekro/utils": "latest"
+    }
+}

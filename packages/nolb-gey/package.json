@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-gey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gey": "latest",
+        "geyannpm": "latest",
+        "geye-common-system-user": "latest",
+        "geye-datepicker": "latest",
+        "geye-form": "latest",
+        "geye-lego": "latest",
+        "geye-page": "latest",
+        "geye-select-tree": "latest",
+        "geye-ts-component-template": "latest",
+        "geye-ts-component-template1": "latest",
+        "geye-vue-atd-header": "latest",
+        "geye-vue-atd-sidebar": "latest",
+        "geye-vue-button": "latest",
+        "geye-vue-components": "latest",
+        "geye-vue-form": "latest",
+        "geye-vue-icon": "latest",
+        "geye-vue-page": "latest",
+        "geye-vue-selecttree": "latest",
+        "geye-vue-table": "latest",
+        "geylnu-fanyi": "latest",
+        "geyser": "latest",
+        "geyser-mongo": "latest",
+        "geyst-gulp": "latest",
+        "geyulong": "latest",
+        "geyulong-ui": "latest"
+    }
+}

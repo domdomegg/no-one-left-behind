@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_in-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@in-core/incore-playbook": "latest",
+        "@in-order/io-ui": "latest",
+        "@in-r-tools/hooks": "latest",
+        "@in-r-tools/in-r-p": "latest",
+        "@in-r-tools/mono-admin": "latest",
+        "@in-r-tools/new-project": "latest",
+        "@in-r-tools/types": "latest",
+        "@in-sylva/common": "latest"
+    }
+}

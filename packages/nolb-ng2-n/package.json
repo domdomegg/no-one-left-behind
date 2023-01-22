@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-ng2-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ng2-namespaced-file-upload-": "latest",
+        "ng2-national-code-validator": "latest",
+        "ng2-native": "latest",
+        "ng2-native-accordion": "latest",
+        "ng2-navigator": "latest",
+        "ng2-nblegis-core": "latest",
+        "ng2-nested-search": "latest",
+        "ng2-ng": "latest",
+        "ng2-nice-smooth-scroll": "latest",
+        "ng2-nirvana": "latest",
+        "ng2-note-server": "latest",
+        "ng2-notification-center": "latest",
+        "ng2-notifications": "latest",
+        "ng2-notifier": "latest",
+        "ng2-notify": "latest",
+        "ng2-notify-popup": "latest",
+        "ng2-nouislider": "latest",
+        "ng2-nouislider-adv": "latest",
+        "ng2-nouislider-prot": "latest",
+        "ng2-number-separator": "latest",
+        "ng2-numeric-input": "latest",
+        "ng2-nvd3": "latest",
+        "ng2-nxp-core": "latest"
+    }
+}

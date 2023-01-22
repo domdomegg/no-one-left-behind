@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-adw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "adw": "latest",
+        "adwaita-icon-web": "latest",
+        "adwaita-materialu": "latest",
+        "adwaita-web": "latest",
+        "adwanii": "latest",
+        "adweb-cli": "latest",
+        "adwebsite": "latest",
+        "adwiki": "latest",
+        "adwin-web-push": "latest",
+        "adwin_web_push_pure": "latest",
+        "adwise-m2storefront": "latest",
+        "adwo_synutra_2for1": "latest",
+        "adwords": "latest",
+        "adwords-api": "latest",
+        "adwords-api-sma": "latest",
+        "adwords-auth": "latest",
+        "adwords-conversion-async": "latest",
+        "adwords-reports-nodejs-lib": "latest",
+        "adwr_data_table": "latest",
+        "adwr_table_data": "latest"
+    }
+}

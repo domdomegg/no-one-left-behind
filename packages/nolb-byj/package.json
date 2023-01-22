@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-byj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "byj": "latest",
+        "byj2018181818": "latest",
+        "byjk-component-app": "latest",
+        "byjk-package": "latest",
+        "byjkcli": "latest",
+        "byjove": "latest",
+        "byju-ui": "latest",
+        "byjus-nucleus-auth-wallet": "latest",
+        "byjus-searchbar-widget": "latest",
+        "byjusauthdemo": "latest",
+        "byjusorders-jwt-authentication": "latest",
+        "byjyh": "latest"
+    }
+}

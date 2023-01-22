@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-hyperi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hyperia.js": "latest",
+        "hypericons-svelte": "latest",
+        "hyperid": "latest",
+        "hyperidentity": "latest",
+        "hyperify": "latest",
+        "hyperimg": "latest",
+        "hyperinator": "latest",
+        "hyperindex": "latest",
+        "hyperinstall": "latest",
+        "hyperio": "latest",
+        "hyperion": "latest",
+        "hyperion-client": "latest",
+        "hyperion-graph": "latest",
+        "hyperion-js-api": "latest",
+        "hyperion-mixin-hooks": "latest",
+        "hyperion-mixin-permissions": "latest",
+        "hyperion-ng-api": "latest",
+        "hyperion-parse-path": "latest",
+        "hyperion-pl": "latest",
+        "hyperion-qs": "latest",
+        "hyperion-router": "latest",
+        "hyperion21-library": "latest",
+        "hyperionjs": "latest",
+        "hyperionscreen": "latest",
+        "hyperirc": "latest"
+    }
+}

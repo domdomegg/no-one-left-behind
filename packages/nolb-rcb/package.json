@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-rcb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rcb": "latest",
+        "rcb-omdb": "latest",
+        "rcb-sdk": "latest",
+        "rcb_corp_coding": "latest",
+        "rcb_sto": "latest",
+        "rcbm-pc-contact-kit": "latest",
+        "rcbm-pc-workkit": "latest",
+        "rcbm-workkit": "latest",
+        "rcbuilder-test-package-1": "latest"
+    }
+}

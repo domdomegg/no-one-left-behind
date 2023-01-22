@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_arcn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@arcnet-plugin/smart-pos": "latest",
+        "@arcnet-plugin/stone-sdk": "latest",
+        "@arcnovus/wet-boew-react": "latest",
+        "@arcnovus/wet-boew-utils": "latest"
+    }
+}

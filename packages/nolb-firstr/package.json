@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-firstr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "firstrade-cli": "latest",
+        "firstrally": "latest",
+        "firstreactpackage": "latest",
+        "firstreacttestplugin": "latest",
+        "firstroot-docs": "latest",
+        "firstror": "latest",
+        "firstrpge": "latest",
+        "firstrpojeck": "latest",
+        "firstrunwizard": "latest",
+        "firstry": "latest"
+    }
+}

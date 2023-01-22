@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-rung",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rung": "latest",
+        "rung-cli": "latest",
+        "rung-sdk": "latest",
+        "runge-kutta": "latest",
+        "runge-kutta-4": "latest",
+        "rungen": "latest",
+        "rungepackage": "latest",
+        "rungo": "latest",
+        "rungo-bone-sample": "latest",
+        "rungo-preact": "latest",
+        "rungo-project": "latest",
+        "rungoly": "latest",
+        "rungrunttask": "latest"
+    }
+}

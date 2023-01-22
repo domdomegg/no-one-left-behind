@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_teamr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@teamresou/common": "latest",
+        "@teamroboboogie/tabtab-commander": "latest",
+        "@teamroboboogie/x-optimizely-cli": "latest"
+    }
+}

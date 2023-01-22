@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-calp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "calp": "latest",
+        "calpheonjs": "latest",
+        "calphy": "latest",
+        "calplanner": "latest",
+        "calponents": "latest",
+        "calpvin-ide-shared": "latest"
+    }
+}

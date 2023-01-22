@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_malc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@malcodeman/react-button-group": "latest",
+        "@malcodeman/react-modal": "latest",
+        "@malcodeman/react-popover": "latest",
+        "@malcorehardcore698/react-notify": "latest",
+        "@malcoriel/hello-wasm": "latest",
+        "@malczewski/ngx-color": "latest"
+    }
+}

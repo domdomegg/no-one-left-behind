@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_trivikr-test_q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trivikr-test/querystring-builder": "latest",
+        "@trivikr-test/querystring-builder-esm": "latest",
+        "@trivikr-test/querystring-builder-esm-wrapper": "latest",
+        "@trivikr-test/querystring-parser": "latest",
+        "@trivikr-test/querystring-parser-esm": "latest",
+        "@trivikr-test/querystring-parser-esm-wrapper": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_weo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@weo-edu/avatars": "latest",
+        "@weo-edu/education-tags": "latest",
+        "@weo-edu/engaged": "latest",
+        "@weo-edu/grades": "latest",
+        "@weo-edu/is": "latest",
+        "@weo-edu/lunr": "latest",
+        "@weo-edu/marked": "latest",
+        "@weo-edu/pit": "latest",
+        "@weo-edu/po": "latest",
+        "@weo-edu/redux-gen": "latest",
+        "@weo-edu/resource-types": "latest",
+        "@weo-edu/schema": "latest",
+        "@weo-edu/schema-tag": "latest",
+        "@weo-edu/sedu": "latest",
+        "@weo-edu/source-map": "latest",
+        "@weo-edu/standards": "latest",
+        "@weo-edu/subjects": "latest",
+        "@weo-edu/validate": "latest",
+        "@weo-edu/yields": "latest",
+        "@weoil/datav-vue3": "latest",
+        "@weotch/fontagon-cli": "latest"
+    }
+}

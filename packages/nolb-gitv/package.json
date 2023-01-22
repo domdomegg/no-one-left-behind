@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-gitv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gitv": "latest",
+        "gitvatar": "latest",
+        "gitver": "latest",
+        "gitverse": "latest",
+        "gitversion-patcher": "latest",
+        "gitversion-tool": "latest",
+        "gitversion-tool-plain": "latest",
+        "gitversionfy": "latest",
+        "gitview_closure": "latest",
+        "gitviz": "latest"
+    }
+}

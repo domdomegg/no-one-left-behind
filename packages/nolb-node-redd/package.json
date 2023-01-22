@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-node-redd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-reddcoin": "latest",
+        "node-reddit": "latest",
+        "node-reddit-js": "latest",
+        "node-reddit-wrapper": "latest"
+    }
+}

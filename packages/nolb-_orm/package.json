@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_orm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ormi-fi/protocol": "latest",
+        "@orml/api": "latest",
+        "@orml/api-derive": "latest",
+        "@orml/app-util": "latest",
+        "@orml/dispatcher": "latest",
+        "@orml/fetcher": "latest",
+        "@orml/indexer": "latest",
+        "@orml/jsonrpc": "latest",
+        "@orml/scanner": "latest",
+        "@orml/types": "latest",
+        "@orml/util": "latest",
+        "@ormless/cli": "latest",
+        "@ormless/client": "latest",
+        "@ormless/client-slonik": "latest",
+        "@ormless/explorer": "latest",
+        "@ormless/types": "latest",
+        "@ormless/utils": "latest",
+        "@ormlite/core": "latest",
+        "@ormlite/postgre": "latest",
+        "@ormojo/data": "latest",
+        "@ormojo/elasticsearch": "latest",
+        "@ormojo/ephraim": "latest",
+        "@ormojo/fobs": "latest",
+        "@ormojo/mysql": "latest",
+        "@ormojo/ormojo": "latest",
+        "@ormojo/react-observe": "latest",
+        "@ormojo/tapestry": "latest",
+        "@ormu5/serverless-offline-sns": "latest"
+    }
+}

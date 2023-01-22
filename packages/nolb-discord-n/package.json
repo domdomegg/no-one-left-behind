@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-discord-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discord-nedb": "latest",
+        "discord-nestjs": "latest",
+        "discord-nestjs-xzyv": "latest",
+        "discord-neuraxbot": "latest",
+        "discord-news-modified": "latest",
+        "discord-nft-sales-bot": "latest",
+        "discord-ngine": "latest",
+        "discord-nitro-gen": "latest",
+        "discord-no-cache": "latest",
+        "discord-node": "latest",
+        "discord-notification": "latest",
+        "discord-nsfw": "latest",
+        "discord-nsfw-simple": "latest",
+        "discord-nsfws": "latest",
+        "discord-nuke-bot": "latest",
+        "discord-nuker": "latest"
+    }
+}

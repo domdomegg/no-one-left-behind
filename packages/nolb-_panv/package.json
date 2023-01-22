@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_panv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@panva/asn1.js": "latest",
+        "@panva/hkdf": "latest",
+        "@panva/jose": "latest",
+        "@panva/oauth4webapi": "latest",
+        "@panviva/node-sdk": "latest"
+    }
+}

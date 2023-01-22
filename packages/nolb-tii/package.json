@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-tii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tii": "latest",
+        "tiidadavena": "latest",
+        "tiimonn": "latest",
+        "tiimonn-fib": "latest",
+        "tiingo-adapter": "latest",
+        "tiingo-stream": "latest",
+        "tiink": "latest",
+        "tiinvo": "latest",
+        "tiinytiny": "latest",
+        "tiio": "latest",
+        "tiio-router": "latest",
+        "tiip": "latest",
+        "tiip-client-js": "latest",
+        "tiirbo": "latest",
+        "tiit": "latest"
+    }
+}

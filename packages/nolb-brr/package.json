@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-brr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brr": "latest",
+        "brr-log": "latest",
+        "brr-ui-test": "latest",
+        "brr3": "latest",
+        "brre3": "latest",
+        "brreg": "latest",
+        "brreg-cli": "latest",
+        "brreg-components": "latest",
+        "brreg-regnr-search": "latest",
+        "brregpro": "latest",
+        "brrow-demo-six": "latest",
+        "brrp": "latest",
+        "brrpw": "latest",
+        "brrr": "latest",
+        "brrrain_gggames": "latest"
+    }
+}

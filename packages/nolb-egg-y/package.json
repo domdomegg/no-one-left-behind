@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-egg-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "egg-y-prisma": "latest",
+        "egg-y-validator": "latest",
+        "egg-yanxin-kafkajs": "latest",
+        "egg-ycdd-api": "latest",
+        "egg-yhsd-api": "latest",
+        "egg-yhsd-sequelize": "latest",
+        "egg-yiren-tool": "latest",
+        "egg-yolk": "latest",
+        "egg-youch": "latest",
+        "egg-yoursql": "latest",
+        "egg-youzanyun": "latest",
+        "egg-yufu": "latest",
+        "egg-yufu-gameops": "latest",
+        "egg-yunpian": "latest",
+        "egg-yup": "latest",
+        "egg-yuque": "latest",
+        "egg-yy-cache": "latest",
+        "egg-yy-controller": "latest",
+        "egg-yy-entity": "latest",
+        "egg-yy-pay": "latest",
+        "egg-yy-router": "latest",
+        "egg-yy-service": "latest",
+        "egg-yy-task": "latest"
+    }
+}

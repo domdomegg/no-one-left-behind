@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-tese",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "teselagen": "latest",
+        "teselagen-form": "latest",
+        "teselagen-interval-tree": "latest",
+        "teselagen-react-components": "latest",
+        "teselagen-shared-backend": "latest",
+        "teselecta": "latest",
+        "teseo": "latest",
+        "teseo-theme": "latest",
+        "teseract": "latest",
+        "teserver": "latest",
+        "tesetnpm": "latest",
+        "tesetran": "latest"
+    }
+}

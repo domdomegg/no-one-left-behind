@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-wix-a",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wix-angular": "latest",
+        "wix-animations": "latest",
+        "wix-answers-integrations-testkit": "latest",
+        "wix-api-gw-testkit": "latest",
+        "wix-api-rpc-proxy": "latest",
+        "wix-app-automation": "latest",
+        "wix-app-forum-server": "latest",
+        "wix-app-info": "latest",
+        "wix-art-store-3rd-party": "latest",
+        "wix-artifact-info": "latest",
+        "wix-aspects": "latest",
+        "wix-atlas-gateway-api": "latest",
+        "wix-atlas-service-api": "latest",
+        "wix-auth-hmac": "latest",
+        "wix-authorization": "latest",
+        "wix-authorization-aspect": "latest",
+        "wix-axios-config": "latest"
+    }
+}

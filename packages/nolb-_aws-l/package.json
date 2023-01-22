@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_aws-l",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aws-lambda-powertools/commons": "latest",
+        "@aws-lambda-powertools/logger": "latest",
+        "@aws-lambda-powertools/metrics": "latest",
+        "@aws-lambda-powertools/tracer": "latest",
+        "@aws-lambda/flow": "latest",
+        "@aws-lambda/http": "latest"
+    }
+}

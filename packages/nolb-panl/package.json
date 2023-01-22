@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-panl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "panl": "latest",
+        "panlang": "latest",
+        "panle": "latest",
+        "panleeson5": "latest",
+        "panlex": "latest",
+        "panlex-language-picker": "latest",
+        "panli": "latest",
+        "panli-package": "latest",
+        "panli-ppt": "latest",
+        "panli-webapp": "latest",
+        "panlippt": "latest",
+        "panlong-web-app": "latest"
+    }
+}

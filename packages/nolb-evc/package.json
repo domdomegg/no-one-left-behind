@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-evc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "evc": "latest",
+        "evc-api": "latest",
+        "evcarddoc": "latest",
+        "evchar-oprator-common": "latest",
+        "evcharger": "latest",
+        "evcheck": "latest",
+        "evcodeshift": "latest",
+        "evconfig": "latest"
+    }
+}

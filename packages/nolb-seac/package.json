@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-seac",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "seaccount": "latest",
+        "seach_word_list": "latest",
+        "seachat": "latest",
+        "seachatroom": "latest",
+        "seaconstella": "latest",
+        "seacpe-string-regexp": "latest",
+        "seacreature": "latest",
+        "seacrest": "latest",
+        "seacrh-comm": "latest",
+        "seact": "latest"
+    }
+}

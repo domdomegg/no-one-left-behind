@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_phoenix-plugin-registry_q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@phoenix-plugin-registry/quakerwinters.monokai-dark-storm": "latest",
+        "@phoenix-plugin-registry/quape.selectword": "latest",
+        "@phoenix-plugin-registry/quick-dark": "latest",
+        "@phoenix-plugin-registry/quick-form": "latest",
+        "@phoenix-plugin-registry/quick-light": "latest",
+        "@phoenix-plugin-registry/quick-multi-cursor-selection": "latest",
+        "@phoenix-plugin-registry/quick-test": "latest",
+        "@phoenix-plugin-registry/quick.menu.search": "latest",
+        "@phoenix-plugin-registry/quickdocsjs": "latest",
+        "@phoenix-plugin-registry/quickdocsphp": "latest",
+        "@phoenix-plugin-registry/quickdocsregex": "latest",
+        "@phoenix-plugin-registry/quicktemplate": "latest",
+        "@phoenix-plugin-registry/qw0101.animations-deactivator": "latest",
+        "@phoenix-plugin-registry/qw0101.colorhighlighter": "latest",
+        "@phoenix-plugin-registry/qw0101.inline-calc": "latest"
+    }
+}

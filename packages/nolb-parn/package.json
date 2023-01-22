@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-parn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "parn": "latest",
+        "parna": "latest",
+        "parnassys-icons": "latest",
+        "parnassys-suite": "latest",
+        "parnassys-suite-sass-test": "latest",
+        "parnassys-suite-test": "latest"
+    }
+}

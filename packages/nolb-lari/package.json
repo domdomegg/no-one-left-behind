@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-lari",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lari": "latest",
+        "lari-api-client": "latest",
+        "lari-datatable": "latest",
+        "lari-event-bus": "latest",
+        "lari-google-maps": "latest",
+        "lari-layer": "latest",
+        "lari-lazy-image": "latest",
+        "lari-select": "latest",
+        "lari-simple-tooltip": "latest",
+        "lari-tinymce": "latest",
+        "lariat": "latest",
+        "larica": "latest",
+        "lariclient": "latest",
+        "larimer-schematics": "latest",
+        "larini-react-scripts": "latest",
+        "laripkg": "latest",
+        "larissa": "latest",
+        "larissa-card-validator": "latest",
+        "larissa-getlinksfrommd": "latest",
+        "larissa-plugin-nodes-image-js": "latest",
+        "larissa-plugin-nodes-logic": "latest",
+        "larissa-plugin-nodes-mljs": "latest",
+        "larissa-static-server": "latest",
+        "larissa-ui": "latest",
+        "larissapinto": "latest",
+        "larissateta": "latest",
+        "larix": "latest"
+    }
+}

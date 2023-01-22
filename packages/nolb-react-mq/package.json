@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-react-mq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-mq": "latest",
+        "react-mq-editor": "latest",
+        "react-mq-hoc": "latest",
+        "react-mqd": "latest",
+        "react-mql": "latest",
+        "react-mql-manager": "latest",
+        "react-mqls": "latest",
+        "react-mqtt": "latest",
+        "react-mqtt-client": "latest",
+        "react-mqtt-controls": "latest"
+    }
+}

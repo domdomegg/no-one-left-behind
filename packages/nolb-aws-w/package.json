@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-aws-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aws-wave": "latest",
+        "aws-web-console-12h": "latest",
+        "aws-web-pub": "latest",
+        "aws-web3-http-provider": "latest",
+        "aws-web3-ws-provider": "latest",
+        "aws-webdeploy": "latest",
+        "aws-websocket-api-server": "latest",
+        "aws-websocket-client": "latest",
+        "aws-websocket-handler": "latest",
+        "aws-websocket-sam-helper": "latest",
+        "aws-websocket-server": "latest",
+        "aws-whoami": "latest",
+        "aws-wkhtmltopdf": "latest",
+        "aws-word-rules": "latest",
+        "aws-worker": "latest",
+        "aws-workspace": "latest",
+        "aws-wrap": "latest",
+        "aws-wrapper": "latest",
+        "aws-wrapper-edp": "latest",
+        "aws-wrapper-noauth": "latest"
+    }
+}

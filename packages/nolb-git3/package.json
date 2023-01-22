@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-git3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "git3": "latest",
+        "git3-evm-large-storage": "latest",
+        "git3-hhh-storage": "latest",
+        "git3po": "latest"
+    }
+}

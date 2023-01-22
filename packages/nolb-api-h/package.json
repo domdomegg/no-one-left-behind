@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-api-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "api-h5lock": "latest",
+        "api-h5login": "latest",
+        "api-hashland": "latest",
+        "api-health": "latest",
+        "api-health-check": "latest",
+        "api-healthbar": "latest",
+        "api-helper": "latest",
+        "api-helper-module": "latest",
+        "api-helper-modules": "latest",
+        "api-helpers": "latest",
+        "api-hentaifox-com": "latest",
+        "api-homepage": "latest",
+        "api-hook": "latest",
+        "api-hooks": "latest",
+        "api-hose": "latest",
+        "api-hot-middleware": "latest",
+        "api-html": "latest",
+        "api-http": "latest",
+        "api-http-features": "latest"
+    }
+}

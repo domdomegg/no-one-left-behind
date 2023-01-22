@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-wov",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wov": "latest",
+        "wove": "latest",
+        "woven": "latest",
+        "woven-challenge-deploy": "latest",
+        "woven-js": "latest",
+        "woven-loader": "latest",
+        "woven-pay-js": "latest",
+        "wovencord": "latest",
+        "wovenpay": "latest",
+        "wovenpay-inline": "latest",
+        "woveon-engine-p": "latest",
+        "woveon-logger": "latest",
+        "woveon-sdk": "latest",
+        "woveon-service": "latest",
+        "woverlay": "latest",
+        "wovn": "latest",
+        "wovn-icons": "latest",
+        "wovnet": "latest",
+        "wovue-cols": "latest",
+        "wovue-dialog": "latest",
+        "wovue-focus-trap": "latest",
+        "wovue-off-canvas": "latest",
+        "wovue-offcanvas": "latest",
+        "wovue-scroader": "latest"
+    }
+}

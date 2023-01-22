@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-serverc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "serverc": "latest",
+        "servercache": "latest",
+        "servercall": "latest",
+        "servercall-cli": "latest",
+        "serverchan": "latest",
+        "serverchart": "latest",
+        "serverclient": "latest",
+        "serverclient123": "latest",
+        "serverclient456": "latest",
+        "serverconfig": "latest",
+        "servercontrolpanel-cli": "latest",
+        "servercraft": "latest",
+        "servercreation": "latest",
+        "servercreator-tool": "latest",
+        "serverctrl": "latest"
+    }
+}

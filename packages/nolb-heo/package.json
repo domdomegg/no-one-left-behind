@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-heo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "heo": "latest",
+        "heoin-ui": "latest",
+        "heom-request": "latest",
+        "heon-components": "latest",
+        "heornode-node": "latest",
+        "heos": "latest",
+        "heos-api": "latest",
+        "heos-cli": "latest",
+        "heos-client": "latest",
+        "heos-lib": "latest",
+        "heos-stream": "latest",
+        "heoubonuobonuo-chutiyan": "latest",
+        "heoubonuobonuo-jingdian-yulu": "latest",
+        "heoubonuobonuode-qiji-zhilv": "latest",
+        "heoubonuobonuode-xingfu-qiji": "latest"
+    }
+}

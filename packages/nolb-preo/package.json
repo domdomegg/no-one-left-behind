@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-preo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "preoccupyjs": "latest",
+        "preon": "latest",
+        "preon.js": "latest",
+        "preonjs": "latest",
+        "preons": "latest",
+        "preons-laravel-mix": "latest",
+        "preons-webpack-loader": "latest",
+        "preoom": "latest",
+        "preorden": "latest",
+        "preorder": "latest",
+        "preos": "latest",
+        "preoss": "latest"
+    }
+}

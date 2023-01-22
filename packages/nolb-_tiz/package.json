@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_tiz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tizee/eslint-config": "latest",
+        "@tizee/prettier-config": "latest",
+        "@tizen-utils/tau": "latest",
+        "@tizentv/create-tizen-app": "latest",
+        "@tizentv/tools": "latest",
+        "@tizentv/webide-common-tizentv": "latest",
+        "@tizentv/wits": "latest",
+        "@tizh/config": "latest",
+        "@tizoc/refractive": "latest",
+        "@tizoc/refractive_ppx": "latest"
+    }
+}

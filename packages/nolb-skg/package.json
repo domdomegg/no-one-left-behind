@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-skg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "skg": "latest",
+        "skg-gui": "latest",
+        "skg-hilink": "latest",
+        "skg-lib-test": "latest",
+        "skg-rendertron-middleware": "latest",
+        "skg-utils": "latest",
+        "skgah": "latest",
+        "skgis": "latest",
+        "skgnode-clitools": "latest",
+        "skgq": "latest",
+        "skgradver": "latest",
+        "skgsearch-components": "latest",
+        "skgskg123mixins": "latest",
+        "skgv": "latest"
+    }
+}

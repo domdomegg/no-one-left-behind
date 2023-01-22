@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-atd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "atd": "latest",
+        "atd-api": "latest",
+        "atd-browser-support": "latest",
+        "atd-cartodb.js": "latest",
+        "atd-deprecated-polyfills": "latest",
+        "atd-element": "latest",
+        "atd-hidden-height": "latest",
+        "atd-legacy-polyfills": "latest",
+        "atd-request": "latest",
+        "atd-super-table": "latest",
+        "atd-tinymce": "latest",
+        "atd_ui": "latest",
+        "atdd": "latest",
+        "atdesign": "latest",
+        "atdgen-bin": "latest",
+        "atdis": "latest",
+        "atdis-request": "latest",
+        "atdis-request-http-simple": "latest",
+        "atdow-vuekit": "latest",
+        "atdow2-cli": "latest",
+        "atdparser": "latest"
+    }
+}

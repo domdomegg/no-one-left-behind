@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-imaged",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "imaged": "latest",
+        "imagedata-filters": "latest",
+        "imagedata-to-canvas": "latest",
+        "imagedb": "latest",
+        "imagedeepshadowbypcbyp": "latest",
+        "imagedemo": "latest",
+        "imagediff": "latest",
+        "imagediff-flow": "latest",
+        "imagedir-diff": "latest",
+        "imagedirect-create-block": "latest",
+        "imagedropjs": "latest",
+        "imagedropper": "latest",
+        "imagedump": "latest"
+    }
+}

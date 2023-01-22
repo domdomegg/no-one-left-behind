@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_mard",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mardari/class-validator": "latest",
+        "@mardari/routing-controllers": "latest",
+        "@mardin101/local-echo": "latest",
+        "@mardonsi/template-react-ui-vite-npm": "latest",
+        "@mardotio/generate-environment": "latest",
+        "@marduke182/keymaps": "latest",
+        "@marduke182/markdown-editor": "latest",
+        "@marduke182/neutrinojs-jest-enzyme": "latest",
+        "@marduke182/neutrinojs-react-webpack-dev-client": "latest",
+        "@marduke182/prosemirror-markdown": "latest",
+        "@marduke182/prosemirror-markdown-schema": "latest",
+        "@marduke182/prosemirror-markdown-serializer": "latest",
+        "@marduke182/prosemirror-react-view": "latest",
+        "@marduke182/prosemirror-schema-builder": "latest",
+        "@marduke182/prosemirror-test-utils": "latest",
+        "@marduke182/prosemirror-utils": "latest",
+        "@marduke182/puppeteer-fake-network": "latest",
+        "@marduke182/puppeteer-jest": "latest",
+        "@marduke182/puppeter-fake-network": "latest",
+        "@marduke182/puppeter-jest": "latest",
+        "@marduke182/react-markdown-editor": "latest",
+        "@mardxmag/ons-core-datatable": "latest",
+        "@mardxmag/ons-core-datetimepicker": "latest"
+    }
+}

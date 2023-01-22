@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-nodeji",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodejiang.js": "latest",
+        "nodejie22": "latest",
+        "nodejieba": "latest",
+        "nodejieba-cht": "latest",
+        "nodejieba-ex": "latest",
+        "nodejieba-fix": "latest",
+        "nodejieba-traditional-chinese": "latest",
+        "nodejieba-worker": "latest",
+        "nodejieba2": "latest",
+        "nodejiebaxiak": "latest",
+        "nodejin": "latest",
+        "nodejisuanji": "latest",
+        "nodejitsu": "latest",
+        "nodejitsu-api": "latest",
+        "nodejitsu-client": "latest",
+        "nodejitsu-handbook": "latest",
+        "nodejitsu-npm": "latest"
+    }
+}

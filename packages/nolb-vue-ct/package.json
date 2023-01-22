@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-vue-ct",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cta-button": "latest",
+        "vue-cte": "latest",
+        "vue-ctk-carousel": "latest",
+        "vue-ctk-date-time-picker": "latest",
+        "vue-ctk-date-time-picker-asd": "latest",
+        "vue-ctk-date-time-picker-cd": "latest",
+        "vue-ctk-date-time-picker-custom": "latest",
+        "vue-ctk-date-time-picker-fix": "latest",
+        "vue-ctk-date-time-picker-fixed": "latest",
+        "vue-ctk-date-time-picker-kai": "latest",
+        "vue-ctk-date-time-picker-pluque": "latest",
+        "vue-ctk-date-time-picker-test": "latest",
+        "vue-ctk-date-time-picker-with-manual-input": "latest",
+        "vue-ctk-date-time-picker-wizlo": "latest",
+        "vue-ctk-date-time-picker-yunti": "latest",
+        "vue-ctk-date-time-picker3": "latest",
+        "vue-ctk-input-text": "latest",
+        "vue-ctk-time-picker": "latest",
+        "vue-ctk-tooltip": "latest",
+        "vue-ctr": "latest",
+        "vue-ctx": "latest",
+        "vue-ctx-injector": "latest",
+        "vue-ctxmenu": "latest"
+    }
+}

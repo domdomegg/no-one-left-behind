@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_pim",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pim-mobility/common": "latest",
+        "@piman51277/backprop": "latest",
+        "@piman51277/sigfig": "latest",
+        "@pimaonline/pimaonline-themepack": "latest",
+        "@pimax/components": "latest",
+        "@pimax/element": "latest",
+        "@pimax/pimax-components": "latest",
+        "@pimax/pimax-element": "latest",
+        "@pimba/excalibur": "latest",
+        "@pimd/classes-plugin": "latest",
+        "@pimd/highlight-plugin": "latest",
+        "@pimd/html-injector-plugin": "latest",
+        "@pimd/id-plugin": "latest",
+        "@pimd/preview-plugin": "latest",
+        "@pimd/prism-plugin": "latest",
+        "@pimd/showmore-plugin": "latest",
+        "@pimentelm/masker-js": "latest",
+        "@pimeys/connection-string": "latest",
+        "@pimkle/tester": "latest",
+        "@pimred/carousel": "latest",
+        "@pimred/cron": "latest",
+        "@pimred/cron-ui": "latest",
+        "@pimred/eslint-config-pimred": "latest",
+        "@pimred/lazyload": "latest",
+        "@pimred/logger": "latest",
+        "@pimred/redux": "latest",
+        "@pimred/solrcloud": "latest",
+        "@pimred/whcaptcha": "latest"
+    }
+}

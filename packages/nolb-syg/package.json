@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-syg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "syg-audio-src": "latest",
+        "syg-clock": "latest",
+        "syg-jp-social-share": "latest",
+        "syg-mask-validator": "latest",
+        "syg-mediaquery": "latest",
+        "syg-scroll-amount": "latest",
+        "syg-scroll-inview": "latest",
+        "syg-simple-audio-player": "latest",
+        "syg-tabs": "latest",
+        "syg-throttle": "latest",
+        "syg-twilio-taskrouter": "latest",
+        "syg-wp-posts-convert": "latest",
+        "sygaldry-core": "latest",
+        "sygame-tools": "latest",
+        "sygerea": "latest",
+        "sygic-custom-url": "latest",
+        "sygic-custom-url-ng": "latest",
+        "sygna-bridge-util": "latest",
+        "sygnal": "latest",
+        "sygonometry": "latest",
+        "sygtools": "latest",
+        "sygull": "latest"
+    }
+}

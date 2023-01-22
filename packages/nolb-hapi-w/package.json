@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-hapi-w",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hapi-warehouse": "latest",
+        "hapi-water": "latest",
+        "hapi-waterfall": "latest",
+        "hapi-waterhole": "latest",
+        "hapi-waterline": "latest",
+        "hapi-waypointer": "latest",
+        "hapi-web-monetization": "latest",
+        "hapi-web-server": "latest",
+        "hapi-web-service": "latest",
+        "hapi-webapi": "latest",
+        "hapi-webconsole-nav": "latest",
+        "hapi-webhooks": "latest",
+        "hapi-webpack": "latest",
+        "hapi-webpack-asset": "latest",
+        "hapi-webpack-connection": "latest",
+        "hapi-webpack-dev-middleware": "latest",
+        "hapi-webpack-dev-plugin": "latest",
+        "hapi-webpack-hot-middleware": "latest",
+        "hapi-webpack-middleware": "latest",
+        "hapi-webpack-plugin": "latest",
+        "hapi-webpack-plugin-2": "latest",
+        "hapi-websocket": "latest",
+        "hapi-wechat": "latest",
+        "hapi-winston": "latest",
+        "hapi-workshop": "latest",
+        "hapi-wso2-apim": "latest"
+    }
+}

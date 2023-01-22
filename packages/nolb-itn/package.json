@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-itn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "itn": "latest",
+        "itn-checker": "latest",
+        "itn-did-resolver": "latest",
+        "itn-input": "latest",
+        "itnc": "latest",
+        "itnh_bluebtn": "latest",
+        "itnh_shoppingcar": "latest",
+        "itnh_table": "latest",
+        "itnhgwc": "latest",
+        "itnlibrary": "latest",
+        "itnnjrides": "latest",
+        "itnode-tools": "latest",
+        "itnov-ng2": "latest"
+    }
+}

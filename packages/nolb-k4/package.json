@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-k4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "k4": "latest",
+        "k4-alexa-skill-base": "latest",
+        "k4-artillery-engine-kinesis": "latest",
+        "k4-base-bridge": "latest",
+        "k4-components": "latest",
+        "k4-elementui-componentes-table": "latest",
+        "k4-utils": "latest",
+        "k4_dung891995": "latest",
+        "k4iiiiiiiiiiiiiiiiiiiii": "latest",
+        "k4o-bumper": "latest",
+        "k4r1s0n-game": "latest",
+        "k4udeepak_package": "latest",
+        "k4us-share": "latest",
+        "k4ycer-lexer": "latest",
+        "k4ycer-syntactic-analyzer": "latest"
+    }
+}

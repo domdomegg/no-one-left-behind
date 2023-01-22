@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_pey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@peyamanvalikhanli/create_napm_prj": "latest",
+        "@peykio/algolia": "latest",
+        "@peykio/clsxm": "latest",
+        "@peykio/eslint-config-typescript": "latest",
+        "@peykio/eslint-config-typescript-react": "latest",
+        "@peykio/marketing": "latest",
+        "@peykio/migrator": "latest",
+        "@peykio/pg-formatter": "latest",
+        "@peykio/sanitycms": "latest",
+        "@peykio/tailwind-preset": "latest",
+        "@peykio/tsconfig": "latest",
+        "@peyman-mohtashami/react-pan-and-zoom": "latest",
+        "@peyman-mohtashami/tiny": "latest",
+        "@peymanbase/calculator-pie-chart-": "latest",
+        "@peymanbase/calculator-test": "latest",
+        "@peymanbase/webflow-integrate-01": "latest",
+        "@peymanghazvini/filerobot-image-beta": "latest",
+        "@peynman/press-vue-core": "latest",
+        "@peynman/vuetify-formjson": "latest"
+    }
+}

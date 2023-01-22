@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_appn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@appnest/ab-test": "latest",
+        "@appnest/boomerang": "latest",
+        "@appnest/confetti": "latest",
+        "@appnest/focus-trap": "latest",
+        "@appnest/lit-translate": "latest",
+        "@appnest/lit-util": "latest",
+        "@appnest/masonry-layout": "latest",
+        "@appnest/readme": "latest",
+        "@appnest/typed-actions": "latest",
+        "@appnest/upgrade-browser": "latest",
+        "@appnest/web-config": "latest",
+        "@appnest/web-router": "latest",
+        "@appngo-sk/auth": "latest",
+        "@appngo-sk/eslint-config": "latest",
+        "@appngo-sk/extensions": "latest",
+        "@appngo-sk/mocha-chai": "latest",
+        "@appngo-sk/prettier": "latest",
+        "@appnroll/app-function-component": "latest",
+        "@appnroll/delay-response": "latest",
+        "@appnroll/eslint-config": "latest",
+        "@appnroll/sm-cli": "latest",
+        "@appnroll/template-lib": "latest"
+    }
+}

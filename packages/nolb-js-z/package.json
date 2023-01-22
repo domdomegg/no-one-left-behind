@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-js-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "js-zarxbiz": "latest",
+        "js-zero": "latest",
+        "js-zfuncs": "latest",
+        "js-zh": "latest",
+        "js-zimbra": "latest",
+        "js-zip": "latest",
+        "js-zipcode": "latest",
+        "js-zrim-core": "latest",
+        "js-zrim-mongo-manager": "latest",
+        "js-zrim-netfilter-manager": "latest",
+        "js-zrim-proxy-logger": "latest",
+        "js-zrim-utils": "latest"
+    }
+}

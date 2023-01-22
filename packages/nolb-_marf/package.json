@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_marf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@marf95/react-native-iap": "latest",
+        "@marfalkov/laravel-real-favicon": "latest",
+        "@marfle/react-leaflet-nmscale": "latest",
+        "@marfle/winston-transport-datadog": "latest"
+    }
+}

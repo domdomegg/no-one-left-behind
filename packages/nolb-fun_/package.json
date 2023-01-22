@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-fun_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fun.framework": "latest",
+        "fun.framework.cli": "latest",
+        "fun.js": "latest",
+        "fun.typescript": "latest",
+        "fun_con": "latest",
+        "fun_hs": "latest",
+        "fun_np": "latest",
+        "fun_packet": "latest",
+        "fun_replacer": "latest",
+        "fun_with_flags": "latest",
+        "fun_zhoutaimin": "latest"
+    }
+}

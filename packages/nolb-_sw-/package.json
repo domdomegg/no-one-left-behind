@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_sw-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sw-tsdk/common": "latest",
+        "@sw-tsdk/connector": "latest",
+        "@sw-tsdk/core": "latest",
+        "@sw-tsdk/docker": "latest",
+        "@sw-tsdk/plugin-connector": "latest",
+        "@sw-tsdk/plugin-turbine": "latest",
+        "@sw-tsdk/turbine": "latest",
+        "@sw-yx/signbunny": "latest"
+    }
+}

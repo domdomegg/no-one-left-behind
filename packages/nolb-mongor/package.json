@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-mongor",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mongor": "latest",
+        "mongorack": "latest",
+        "mongorc": "latest",
+        "mongorc-manager": "latest",
+        "mongordbms": "latest",
+        "mongore": "latest",
+        "mongoredis": "latest",
+        "mongorem": "latest",
+        "mongorepo": "latest",
+        "mongoreporter": "latest",
+        "mongorepository": "latest",
+        "mongorest": "latest",
+        "mongorester": "latest",
+        "mongorestgen": "latest",
+        "mongorestorm-server": "latest",
+        "mongorilla": "latest",
+        "mongorite": "latest",
+        "mongorito": "latest",
+        "mongorito-tcomb": "latest",
+        "mongorito-timestamps": "latest",
+        "mongorito-validations": "latest",
+        "mongoritwo": "latest",
+        "mongorm": "latest",
+        "mongorpc-js": "latest",
+        "mongorpc-node": "latest",
+        "mongorules": "latest",
+        "mongorun": "latest"
+    }
+}

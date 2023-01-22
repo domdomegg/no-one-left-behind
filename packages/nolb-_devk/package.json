@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_devk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@devkaym/common": "latest",
+        "@devkep/database-json": "latest",
+        "@devkev89/randomize-input": "latest",
+        "@devkev89/types": "latest",
+        "@devkiko/example-cli": "latest",
+        "@devkillasoftware/nyc": "latest",
+        "@devkitjs/cli": "latest",
+        "@devkitjs/core": "latest",
+        "@devkolasani/covid-india-cli": "latest",
+        "@devkors/react-native-wheel-picker-android": "latest",
+        "@devkosta/react-text-marker": "latest",
+        "@devkosta/reverse-geocode": "latest",
+        "@devkoushik0004/tiny": "latest",
+        "@devkral/selectize": "latest",
+        "@devkral/sifter": "latest",
+        "@devktickets/common": "latest",
+        "@devktor/log.js": "latest"
+    }
+}

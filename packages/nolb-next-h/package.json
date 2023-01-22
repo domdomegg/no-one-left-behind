@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-next-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "next-handler": "latest",
+        "next-handler-api": "latest",
+        "next-handlers": "latest",
+        "next-hapi": "latest",
+        "next-hcaptcha": "latest",
+        "next-head-seo": "latest",
+        "next-header": "latest",
+        "next-header-lib": "latest",
+        "next-header-nibr-lib": "latest",
+        "next-header-test-lerna": "latest",
+        "next-helmet": "latest",
+        "next-helpers": "latest",
+        "next-high-order-middleware": "latest",
+        "next-hoc": "latest",
+        "next-hooks": "latest",
+        "next-hot-loader": "latest",
+        "next-hsuc": "latest",
+        "next-html": "latest",
+        "next-http": "latest",
+        "next-http-proxy-middleware": "latest",
+        "next-httpclient": "latest",
+        "next-https": "latest",
+        "next-httpservice": "latest",
+        "next-hubspot": "latest",
+        "next-hydrate": "latest"
+    }
+}

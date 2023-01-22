@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_openfonts_y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@openfonts/yanone-kaffeesatz_all": "latest",
+        "@openfonts/yanone-kaffeesatz_cyrillic": "latest",
+        "@openfonts/yanone-kaffeesatz_latin": "latest",
+        "@openfonts/yanone-kaffeesatz_latin-ext": "latest",
+        "@openfonts/yanone-kaffeesatz_vietnamese": "latest",
+        "@openfonts/yantramanav_all": "latest",
+        "@openfonts/yantramanav_devanagari": "latest",
+        "@openfonts/yantramanav_latin": "latest",
+        "@openfonts/yantramanav_latin-ext": "latest",
+        "@openfonts/yatra-one_all": "latest",
+        "@openfonts/yatra-one_devanagari": "latest",
+        "@openfonts/yatra-one_latin": "latest",
+        "@openfonts/yatra-one_latin-ext": "latest",
+        "@openfonts/yellowtail_latin": "latest",
+        "@openfonts/yeon-sung_korean": "latest",
+        "@openfonts/yeon-sung_latin": "latest",
+        "@openfonts/yeseva-one_all": "latest",
+        "@openfonts/yeseva-one_cyrillic": "latest",
+        "@openfonts/yeseva-one_cyrillic-ext": "latest",
+        "@openfonts/yeseva-one_latin": "latest",
+        "@openfonts/yeseva-one_latin-ext": "latest",
+        "@openfonts/yeseva-one_vietnamese": "latest",
+        "@openfonts/yesteryear_latin": "latest",
+        "@openfonts/yrsa_latin": "latest",
+        "@openfonts/yrsa_latin-ext": "latest"
+    }
+}

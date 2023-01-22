@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-passb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "passbase-dev": "latest",
+        "passbolt-browser-extension": "latest",
+        "passbolt-i18next-scanner": "latest",
+        "passbolt-kdbxweb": "latest",
+        "passbolt-mad": "latest",
+        "passbolt-styleguide": "latest",
+        "passbolt_cli": "latest",
+        "passbook": "latest",
+        "passbook-cli": "latest",
+        "passbook-manager": "latest",
+        "passbook.js": "latest",
+        "passbooker": "latest",
+        "passbookster": "latest",
+        "passbot.js": "latest",
+        "passbox": "latest",
+        "passbyme2fa-client": "latest"
+    }
+}

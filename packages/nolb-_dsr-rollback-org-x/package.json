@@ -1,0 +1,11 @@
+
+{
+    "name": "@zalastax/nolb-_dsr-rollback-org-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dsr-rollback-org-xoana-pumas-wills-trets/dsr-rollback-xoana-pumas-wills-trets": "latest"
+    }
+}

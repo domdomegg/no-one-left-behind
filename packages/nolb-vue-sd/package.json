@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-vue-sd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-sdk": "latest",
+        "vue-sdk-test": "latest",
+        "vue-sdk-ui": "latest",
+        "vue-sdz": "latest"
+    }
+}

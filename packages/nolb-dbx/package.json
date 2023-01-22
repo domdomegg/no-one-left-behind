@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-dbx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dbx": "latest",
+        "dbx-chain-tools": "latest",
+        "dbx-common-ui": "latest",
+        "dbx-i18n": "latest",
+        "dbx-js-sdk": "latest",
+        "dbx-swap-sdk": "latest",
+        "dbx-swap-uikit": "latest",
+        "dbxplorer": "latest"
+    }
+}

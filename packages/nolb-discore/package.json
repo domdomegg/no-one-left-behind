@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-discore",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discore": "latest",
+        "discore-closest": "latest",
+        "discore-interface": "latest",
+        "discore-messages": "latest",
+        "discore-process": "latest",
+        "discore-server": "latest",
+        "discore-snapshot": "latest",
+        "discore-utils": "latest",
+        "discore-watcher": "latest",
+        "discore.js": "latest",
+        "discores.js": "latest"
+    }
+}

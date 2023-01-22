@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_byb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@byba/eslint-config": "latest",
+        "@byba/express-validator": "latest",
+        "@bybang/lotide": "latest",
+        "@bybas/latte-ui": "latest",
+        "@bybas/minecraft-asset-mapper": "latest",
+        "@bybas/weather-icons": "latest",
+        "@bybit-fe/bitd": "latest",
+        "@bybit/marvel-cli": "latest",
+        "@bybit/marvel-fabric": "latest",
+        "@bybit/marvel-mock-server": "latest",
+        "@bybit/marvel-utils": "latest",
+        "@bybon_fe/scaffold": "latest",
+        "@bybox/react-datetime": "latest",
+        "@bybrick-elevate/prettier-config": "latest"
+    }
+}

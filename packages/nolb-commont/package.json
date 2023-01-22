@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-commont",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "commont": "latest",
+        "commont-6ls": "latest",
+        "commont-component-platform": "latest",
+        "commont_response_messages": "latest",
+        "commontable": "latest",
+        "commontablecomponent": "latest",
+        "commontabs-lib": "latest",
+        "commontestetest1": "latest",
+        "commontestpkg": "latest",
+        "commontext": "latest",
+        "commontime-thumbnail-plugin": "latest",
+        "commontool": "latest",
+        "commontools": "latest",
+        "commontpl": "latest",
+        "commonts-toolkit": "latest",
+        "commonts-toolkit1": "latest"
+    }
+}

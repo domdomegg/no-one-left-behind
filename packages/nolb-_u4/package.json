@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_u4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@u4/adbkit": "latest",
+        "@u4/adbkit-logcat": "latest",
+        "@u4/adbkit-monkey": "latest",
+        "@u4/beamcoder": "latest",
+        "@u4/better-lookup": "latest",
+        "@u4/chrome-remote-interface": "latest",
+        "@u4/dhcp": "latest",
+        "@u4/http-proxy": "latest",
+        "@u4/minicap-prebuilt": "latest",
+        "@u4/opencv-build": "latest",
+        "@u4/opencv4nodejs": "latest",
+        "@u4/prime": "latest",
+        "@u4/spice": "latest",
+        "@u4/tiny-glob": "latest",
+        "@u4/tinyrequest": "latest",
+        "@u4da3/express-redirect-flash": "latest",
+        "@u4learn/ckeditor5-custom-build": "latest"
+    }
+}

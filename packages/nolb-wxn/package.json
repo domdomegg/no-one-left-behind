@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-wxn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wxn-ebook": "latest",
+        "wxn-minx": "latest",
+        "wxn-request": "latest",
+        "wxn-store2": "latest",
+        "wxnnnn": "latest",
+        "wxnode": "latest",
+        "wxnpmtest": "latest"
+    }
+}

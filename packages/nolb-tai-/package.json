@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-tai-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tai-cloud-app": "latest",
+        "tai-date": "latest",
+        "tai-my-vue-library": "latest",
+        "tai-nice-handsome-button": "latest",
+        "tai-ol-ext": "latest",
+        "tai-parser": "latest",
+        "tai-password-strength": "latest",
+        "tai-publish": "latest",
+        "tai-qing": "latest",
+        "tai-spider": "latest",
+        "tai-tools": "latest",
+        "tai-vue-1": "latest",
+        "tai-vue-first-component": "latest",
+        "tai-vue-util": "latest"
+    }
+}

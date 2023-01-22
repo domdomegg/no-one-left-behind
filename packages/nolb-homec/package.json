@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-homec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "homecli-test": "latest",
+        "homecli-test-lib": "latest",
+        "homecloud-controller": "latest",
+        "homecms": "latest",
+        "homeconf": "latest",
+        "homeconfjs": "latest",
+        "homecontrol-bticino": "latest",
+        "homecontrol-js": "latest",
+        "homecountryarray": "latest",
+        "homecredit-kit": "latest",
+        "homecredit-ui": "latest",
+        "homectrl": "latest"
+    }
+}

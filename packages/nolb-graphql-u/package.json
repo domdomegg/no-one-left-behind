@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-graphql-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graphql-ui": "latest",
+        "graphql-undici": "latest",
+        "graphql-unified-mutation": "latest",
+        "graphql-union-input-type": "latest",
+        "graphql-unused-types": "latest",
+        "graphql-unwrap": "latest",
+        "graphql-up": "latest",
+        "graphql-upload": "latest",
+        "graphql-upload-cjs": "latest",
+        "graphql-upload-comartek": "latest",
+        "graphql-upload-for-typescript": "latest",
+        "graphql-upload-minimal": "latest",
+        "graphql-upload-scalar": "latest",
+        "graphql-upload-ts": "latest",
+        "graphql-url": "latest",
+        "graphql-url-to-typescript": "latest",
+        "graphql-usage": "latest",
+        "graphql-user": "latest",
+        "graphql-usermanager": "latest",
+        "graphql-utilities": "latest",
+        "graphql-utils": "latest"
+    }
+}

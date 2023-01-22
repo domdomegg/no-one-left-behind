@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-fileu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fileup": "latest",
+        "fileup-core": "latest",
+        "fileup-node": "latest",
+        "fileup-redux": "latest",
+        "fileupload": "latest",
+        "fileupload-lite": "latest",
+        "fileupload-react16": "latest",
+        "fileupload_firebase": "latest",
+        "fileuploadbase64": "latest",
+        "fileuploaddownload": "latest",
+        "fileuploader": "latest",
+        "fileuploader-dms": "latest",
+        "fileuploader-lib": "latest",
+        "fileuploaderv2": "latest",
+        "fileuploads": "latest",
+        "fileuploadtestpackage": "latest",
+        "fileuploadtool": "latest",
+        "fileutil": "latest",
+        "fileutil-tools": "latest",
+        "fileutils": "latest",
+        "fileutils-cli": "latest"
+    }
+}

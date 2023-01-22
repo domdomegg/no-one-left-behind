@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-httpn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "httpness": "latest",
+        "httpntlm": "latest",
+        "httpntlm-3": "latest",
+        "httpntlm-agentkeepalive": "latest",
+        "httpntlm-api": "latest",
+        "httpntlm-maa": "latest",
+        "httpntlm-negotiate": "latest",
+        "httpntlm-old": "latest",
+        "httpntlm-pull-req-8": "latest",
+        "httpntlm-web-maa": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-panm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "panmetrics-node": "latest",
+        "panming": "latest",
+        "panmingdefirstnpmpackage": "latest",
+        "panmnesia": "latest",
+        "panmnesia-server": "latest",
+        "panmo": "latest",
+        "panmy": "latest"
+    }
+}

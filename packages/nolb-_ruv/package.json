@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_ruv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ruvasik/bip39-expo": "latest",
+        "@ruvents/leader-id-uikit": "latest",
+        "@ruvents/yandex-metrika": "latest"
+    }
+}

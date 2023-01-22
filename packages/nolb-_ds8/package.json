@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_ds8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ds82/angular2-contextmenu": "latest",
+        "@ds82/check-pushed-commits": "latest",
+        "@ds82/mdx-deck": "latest"
+    }
+}

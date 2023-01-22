@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-confk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "confkit-base": "latest",
+        "confkit-base-module-defaultheaders": "latest",
+        "confkit-commons": "latest",
+        "confkit-notifier-slack": "latest"
+    }
+}

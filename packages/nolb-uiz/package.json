@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-uiz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "uiz": "latest",
+        "uiz-helloworld": "latest",
+        "uiza": "latest",
+        "uiza-demo-lib": "latest",
+        "uiza-ftp": "latest",
+        "uiza-healcheck-service": "latest",
+        "uiza-player-sdk": "latest",
+        "uizjk": "latest",
+        "uizoo": "latest",
+        "uizoo-app": "latest",
+        "uizzy-generator": "latest"
+    }
+}

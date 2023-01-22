@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-soq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "soq": "latest",
+        "soqi-ui": "latest",
+        "soql-build": "latest",
+        "soql-console": "latest",
+        "soql-escape": "latest",
+        "soql-parse": "latest",
+        "soql-parser": "latest",
+        "soql-parser-js": "latest",
+        "soql2json": "latest",
+        "soqlx-opener": "latest"
+    }
+}

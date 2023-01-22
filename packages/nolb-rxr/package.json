@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-rxr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rxr": "latest",
+        "rxr-react": "latest",
+        "rxreactjs": "latest",
+        "rxredis": "latest",
+        "rxrelayjs": "latest",
+        "rxremote": "latest",
+        "rxrest": "latest",
+        "rxrest-assert": "latest",
+        "rxrntemplate": "latest",
+        "rxrouter": "latest",
+        "rxrpc-js": "latest",
+        "rxrs": "latest",
+        "rxrs-ng": "latest",
+        "rxrunscript": "latest",
+        "rxrwimnw": "latest"
+    }
+}

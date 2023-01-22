@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-htmlh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htmlhammer": "latest",
+        "htmlhelp": "latest",
+        "htmlhelper": "latest",
+        "htmlhint": "latest",
+        "htmlhint-app": "latest",
+        "htmlhint-bia-loader": "latest",
+        "htmlhint-checkstyle": "latest",
+        "htmlhint-cli": "latest",
+        "htmlhint-config-htmlacademy": "latest",
+        "htmlhint-htmlacademy": "latest",
+        "htmlhint-loader": "latest",
+        "htmlhint-loader-ng2": "latest",
+        "htmlhint-networkaaron": "latest",
+        "htmlhint-ng2": "latest",
+        "htmlhint-plugin-blocked-words": "latest",
+        "htmlhint-riot-rules": "latest",
+        "htmlhint-stylish": "latest",
+        "htmlhint-teamcity": "latest",
+        "htmlhintrc": "latest"
+    }
+}

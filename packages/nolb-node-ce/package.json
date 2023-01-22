@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-node-ce",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-cec": "latest",
+        "node-cedulapanama": "latest",
+        "node-cegid-api": "latest",
+        "node-celaria-server": "latest",
+        "node-celery": "latest",
+        "node-celery-plus": "latest",
+        "node-celery-redis": "latest",
+        "node-celery-update": "latest",
+        "node-celik-api": "latest",
+        "node-censor": "latest",
+        "node-cep": "latest",
+        "node-cep-cli": "latest",
+        "node-cep-correios": "latest",
+        "node-cep-util": "latest",
+        "node-cepdb": "latest",
+        "node-cerberus": "latest",
+        "node-cert": "latest",
+        "node-cert-generator": "latest",
+        "node-ceshi1": "latest"
+    }
+}

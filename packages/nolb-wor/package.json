@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-wor",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wor": "latest",
+        "@zalastax/nolb-word": "latest",
+        "@zalastax/nolb-wora": "latest",
+        "@zalastax/nolb-worc": "latest",
+        "@zalastax/nolb-worg": "latest",
+        "@zalastax/nolb-wori": "latest",
+        "@zalastax/nolb-worj": "latest",
+        "@zalastax/nolb-work": "latest",
+        "@zalastax/nolb-worl": "latest",
+        "@zalastax/nolb-worm": "latest",
+        "@zalastax/nolb-worn": "latest",
+        "@zalastax/nolb-woro": "latest",
+        "@zalastax/nolb-worp": "latest",
+        "@zalastax/nolb-worq": "latest",
+        "@zalastax/nolb-worr": "latest",
+        "@zalastax/nolb-wors": "latest",
+        "@zalastax/nolb-wort": "latest",
+        "@zalastax/nolb-worx": "latest"
+    }
+}

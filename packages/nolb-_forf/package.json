@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_forf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@forfuns/sudoku": "latest",
+        "@forfuture/apidoc-openapi": "latest",
+        "@forfuture/migrate": "latest"
+    }
+}

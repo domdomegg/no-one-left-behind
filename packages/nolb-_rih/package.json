@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_rih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@riheldo/reman": "latest",
+        "@rihor/react-3d-card": "latest",
+        "@rihor/react-animated-card": "latest",
+        "@rihor/tiny": "latest"
+    }
+}

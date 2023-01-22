@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-drak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "drake": "latest",
+        "drake-blocks": "latest",
+        "drake-bot": "latest",
+        "drake-quotes": "latest",
+        "drake-test": "latest",
+        "drake_core": "latest",
+        "drakeevans": "latest",
+        "draken-design": "latest",
+        "draken-player": "latest",
+        "draken-sdk": "latest",
+        "drakengard3-sqex03datamessage": "latest",
+        "drakkar": "latest",
+        "drakolis-logger": "latest",
+        "drakon4ik": "latest",
+        "drakonian": "latest",
+        "drakotech-js-footer": "latest",
+        "drakov": "latest",
+        "drakov-a": "latest",
+        "drakov-cluster": "latest",
+        "drakov-git": "latest",
+        "drakovNew": "latest",
+        "drakshit": "latest",
+        "draktorian": "latest"
+    }
+}

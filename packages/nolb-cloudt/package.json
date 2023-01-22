@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-cloudt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cloudtables-api": "latest",
+        "cloudtables-vue": "latest",
+        "cloudtag-api": "latest",
+        "cloudtail": "latest",
+        "cloudtasks-node": "latest",
+        "cloudtenth": "latest",
+        "cloudtext": "latest",
+        "cloudticon": "latest",
+        "cloudtiles": "latest",
+        "cloudtower-node-sdk": "latest",
+        "cloudtower-typescript-sdk": "latest",
+        "cloudtq-ui": "latest",
+        "cloudtrace": "latest",
+        "cloudtrail-slack": "latest",
+        "cloudtrek-radar-wxapp-sdk": "latest",
+        "cloudtrek-reset-css-web": "latest",
+        "cloudtrek-sidebar": "latest",
+        "cloudtrek-web-radar-sdk2": "latest",
+        "cloudtrek-wxapp-radar-sdk": "latest",
+        "cloudtrek_web_radar_sdk": "latest",
+        "cloudtv-remote-proxy": "latest",
+        "cloudtype": "latest",
+        "cloudtypes": "latest"
+    }
+}

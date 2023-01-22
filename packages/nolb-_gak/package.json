@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_gak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gakgu/hello-wasm": "latest",
+        "@gakimball/eslint-config": "latest",
+        "@gakmacreative/cra-template": "latest",
+        "@gaku101/style-dictionary-example": "latest"
+    }
+}

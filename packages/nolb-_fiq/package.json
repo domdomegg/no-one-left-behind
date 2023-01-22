@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_fiq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fiqgant/fiqgant": "latest",
+        "@fiqryq/piqui": "latest",
+        "@fiqryq/tailwind-config": "latest",
+        "@fiquu/cl-rut": "latest",
+        "@fiquu/database-manager-mongoose": "latest",
+        "@fiquu/eslint-config": "latest",
+        "@fiquu/is": "latest",
+        "@fiquu/lambda-http-event-handler": "latest",
+        "@fiquu/logger": "latest",
+        "@fiquu/nonce": "latest",
+        "@fiquu/pagination": "latest",
+        "@fiquu/schema-loader-mongoose": "latest",
+        "@fiquu/shorten": "latest",
+        "@fiquu/slseed-web-utils": "latest",
+        "@fiquu/template": "latest"
+    }
+}

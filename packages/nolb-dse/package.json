@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-dse",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dse": "latest",
+        "dse-base": "latest",
+        "dse-bd": "latest",
+        "dse-charts": "latest",
+        "dse-cli": "latest",
+        "dse-clipboard-events": "latest",
+        "dse-driver": "latest",
+        "dse-graph": "latest",
+        "dse-nativebarcode": "latest",
+        "dse-templating-pkg": "latest",
+        "dse_public_content_html": "latest",
+        "dsearch": "latest",
+        "dsecops-date-format": "latest",
+        "dsecret": "latest",
+        "dseg": "latest",
+        "dselogin": "latest",
+        "dsensor": "latest",
+        "dsentr-toolkit": "latest",
+        "dsep-beckn-schema": "latest",
+        "dserdal": "latest",
+        "dserfozo-rpcbindings": "latest",
+        "dserv": "latest",
+        "dserver": "latest",
+        "dsesfsrss": "latest",
+        "dset": "latest",
+        "dseven-vue": "latest",
+        "dsew": "latest",
+        "dsezonecss": "latest"
+    }
+}

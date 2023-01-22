@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-wang0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wang01": "latest",
+        "wang02": "latest",
+        "wang0521wyw": "latest",
+        "wang0717": "latest",
+        "wang0718": "latest",
+        "wang0815": "latest",
+        "wang0816": "latest",
+        "wang0817": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-ng9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ng9-card": "latest",
+        "ng9-image-viewer": "latest",
+        "ng9-jalali-date-picker": "latest",
+        "ng9-jalali-date-picker-ali": "latest",
+        "ng9-localize-router": "latest",
+        "ng9-odometer": "latest",
+        "ng9-odometer-next": "latest",
+        "ng9-odometer_dev": "latest",
+        "ng9-pagination": "latest",
+        "ng9-password-strength-bar": "latest",
+        "ng9-permission": "latest",
+        "ng9-pick-datetime": "latest",
+        "ng9-rut": "latest",
+        "ng9-scroll-top": "latest",
+        "ng9-smart-table": "latest",
+        "ng9-stripe-checkout": "latest",
+        "ng9-table": "latest",
+        "ng9-ts-extractor": "latest",
+        "ng9-validation": "latest"
+    }
+}

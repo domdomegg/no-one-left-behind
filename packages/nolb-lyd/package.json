@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-lyd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lyd": "latest",
+        "lyd-backstage": "latest",
+        "lyd-hsy-ui": "latest",
+        "lyd08c": "latest",
+        "lyd753": "latest",
+        "lyda-accessor": "latest",
+        "lyda-accessor-formio": "latest",
+        "lyda-accessor-mongodb": "latest",
+        "lyda-api-client": "latest",
+        "lyda-api-client-1": "latest",
+        "lyda-querier": "latest",
+        "lyday4": "latest",
+        "lydeum-sdk-stellar": "latest",
+        "lydev-electron": "latest",
+        "lydev-electron-nightly": "latest",
+        "lydia": "latest",
+        "lydia-arthur": "latest",
+        "lydia-gary": "latest",
+        "lydiard": "latest",
+        "lydraw": "latest",
+        "lydrk1_1": "latest",
+        "lydsb": "latest"
+    }
+}

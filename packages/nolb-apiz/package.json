@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-apiz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "apiz": "latest",
+        "apiz-browser-client": "latest",
+        "apiz-legacy": "latest",
+        "apiz-ng": "latest",
+        "apiz-node-client": "latest",
+        "apizoo": "latest",
+        "apizza2apipost": "latest"
+    }
+}

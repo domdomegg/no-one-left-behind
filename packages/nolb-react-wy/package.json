@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-react-wy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-wyn-component1": "latest",
+        "react-wyre": "latest",
+        "react-wysiwyg": "latest",
+        "react-wysiwyg-draft": "latest",
+        "react-wysiwyg-editor": "latest",
+        "react-wysiwyg-typescript": "latest"
+    }
+}

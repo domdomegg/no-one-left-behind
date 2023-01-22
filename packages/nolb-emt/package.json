@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-emt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emt": "latest",
+        "emt-angularjs-highcharts": "latest",
+        "emt-api-infrastructure": "latest",
+        "emt-bus": "latest",
+        "emt-commander": "latest",
+        "emt-mad": "latest",
+        "emtandrem": "latest",
+        "emtase": "latest",
+        "emtee": "latest",
+        "emteor": "latest",
+        "emtg": "latest",
+        "emtmadrid": "latest",
+        "emtmadrid-lib": "latest",
+        "emtpry-object": "latest",
+        "emtrendz_fps": "latest",
+        "emtrey": "latest",
+        "emtrey-cli": "latest"
+    }
+}

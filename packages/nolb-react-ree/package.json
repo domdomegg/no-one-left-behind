@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-react-ree",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-reel": "latest",
+        "react-reem-login": "latest",
+        "react-reem-login2": "latest",
+        "react-reem-login3": "latest"
+    }
+}

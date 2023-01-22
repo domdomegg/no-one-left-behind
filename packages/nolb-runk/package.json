@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-runk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "runk": "latest",
+        "runkeeper": "latest",
+        "runkeeper-activity-types": "latest",
+        "runkeeper-js": "latest",
+        "runkit": "latest",
+        "runkit-api": "latest",
+        "runkit-embed": "latest",
+        "runkit-embed-react": "latest",
+        "runkit-eslint": "latest",
+        "runkit-graph": "latest",
+        "runkit-hash": "latest",
+        "runkit-inject-rev": "latest",
+        "runkit-livereload": "latest",
+        "runkit-midi": "latest",
+        "runkit-nunjucks": "latest",
+        "runkit-plotly": "latest",
+        "runkit-scripts": "latest",
+        "runkit-tap": "latest",
+        "runkit-task": "latest",
+        "runkit-test-external-dep": "latest",
+        "runkit-test-external-dep-client": "latest",
+        "runkit-test-package": "latest",
+        "runkit-test-urldep-payload-leaf": "latest",
+        "runkit-test-urldep-payload-with-sub-urldep": "latest",
+        "runkit-vis-viewer": "latest",
+        "runkit-watcher": "latest",
+        "runkitdev": "latest",
+        "runkoa": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-randu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "randu": "latest",
+        "randum": "latest",
+        "randumb": "latest",
+        "randusers": "latest"
+    }
+}

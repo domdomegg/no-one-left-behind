@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-qih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "qih": "latest",
+        "qihang-web": "latest",
+        "qihao-components": "latest",
+        "qiheiyipiana": "latest",
+        "qihl-readme-files": "latest",
+        "qiho-treeselect": "latest",
+        "qihoo-cli": "latest",
+        "qihoo-test": "latest",
+        "qihou-api": "latest",
+        "qihsin-tool": "latest",
+        "qihuan-tools": "latest",
+        "qihuande-tongling-yinji": "latest",
+        "qihuande-tongling-yinji-vol2": "latest",
+        "qihw-ethw-swap-sdk": "latest",
+        "qihw-uniswapv3-widgets": "latest"
+    }
+}

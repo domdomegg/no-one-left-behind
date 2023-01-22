@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_crc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@crcastle/fastify-piscina": "latest",
+        "@crcastle/html2canvas": "latest",
+        "@crcdevops/open-source-design-system": "latest",
+        "@crcls/blocksui-sdk": "latest",
+        "@crcong/eslint-config-basic": "latest",
+        "@crcong/eslint-config-typescript": "latest",
+        "@crcong/eslint-config-vue": "latest",
+        "@crcong/generate-changelog": "latest",
+        "@crcr/global-emitter": "latest",
+        "@crcr/load_env": "latest",
+        "@crcr/tg-broadcast-limits": "latest",
+        "@crcr/utils": "latest"
+    }
+}

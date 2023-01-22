@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-vitej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vitejs-compatible-vue-tabs-component": "latest",
+        "vitejs-fs-server": "latest",
+        "vitejs-notthomiz": "latest",
+        "vitejs-notthomiz-abi": "latest",
+        "vitejs-notthomiz-accountblock": "latest",
+        "vitejs-notthomiz-communication": "latest",
+        "vitejs-notthomiz-constant": "latest",
+        "vitejs-notthomiz-error": "latest",
+        "vitejs-notthomiz-http": "latest",
+        "vitejs-notthomiz-ipc": "latest",
+        "vitejs-notthomiz-keystore": "latest",
+        "vitejs-notthomiz-utils": "latest",
+        "vitejs-notthomiz-viteapi": "latest",
+        "vitejs-notthomiz-wallet": "latest",
+        "vitejs-notthomiz-ws": "latest",
+        "vitejs-plugin-electron": "latest",
+        "vitejs-plugin-less-global": "latest",
+        "vitejs-plugin-rem-px": "latest",
+        "vitejs-plugin-zzd-buried-point": "latest",
+        "vitejs-plugins": "latest"
+    }
+}

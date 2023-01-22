@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_vuea",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vueable-material/ripple": "latest",
+        "@vueable-material/tab": "latest",
+        "@vueact/typer": "latest",
+        "@vueaflet/core": "latest",
+        "@vueaflet/esri": "latest",
+        "@vueanalytics/proxy": "latest",
+        "@vueauth/core": "latest",
+        "@vueauth/firebase": "latest",
+        "@vueauth/quasar-app-extension-auth": "latest",
+        "@vueauth/quasar-ui-auth": "latest",
+        "@vueauth/sanctum": "latest",
+        "@vueauth/strapi": "latest",
+        "@vueauth/supabase": "latest"
+    }
+}

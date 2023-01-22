@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-treen",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "treenary": "latest",
+        "treenity": "latest",
+        "treenode": "latest",
+        "treenode.ts": "latest",
+        "treenotation": "latest",
+        "treenote": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_ngz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ngze/control-value-transformer": "latest",
+        "@ngze/rehooktive": "latest",
+        "@ngzhengwei/dropdown-function": "latest"
+    }
+}

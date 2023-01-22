@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-babel-pa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-package-import": "latest",
+        "babel-package-manager": "latest",
+        "babel-packages": "latest",
+        "babel-pal": "latest",
+        "babel-parse-translation": "latest",
+        "babel-parse-wild-code": "latest",
+        "babel-parser-dui": "latest",
+        "babel-parser-generator": "latest",
+        "babel-parser-inseinc": "latest",
+        "babel-parser-minimal": "latest",
+        "babel-parser-mxy-curry-function": "latest",
+        "babel-parser-utils": "latest",
+        "babel-patchwork": "latest"
+    }
+}

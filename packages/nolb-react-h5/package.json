@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-react-h5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-h5-audio-player": "latest",
+        "react-h5-audio-player-amchfc": "latest",
+        "react-h5-audio-player-bonobo": "latest",
+        "react-h5-calendar": "latest",
+        "react-h5-mobile-calendar": "latest",
+        "react-h5-page-editor": "latest",
+        "react-h5-video": "latest",
+        "react-h5video-player": "latest"
+    }
+}

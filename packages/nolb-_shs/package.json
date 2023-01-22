@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_shs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shs2020/new": "latest",
+        "@shs400/reaction": "latest",
+        "@shsaleh/formtools": "latest",
+        "@shsmysore/shree-diceapp3": "latest",
+        "@shsssskn/canary-utils": "latest",
+        "@shsssskn/gc-scss": "latest",
+        "@shsssskn/gemcook-scripts": "latest",
+        "@shsssskn/validate-regexp": "latest",
+        "@shstickets/common": "latest",
+        "@shsystem/elms": "latest",
+        "@shsystem/react-leaflet-elms": "latest"
+    }
+}

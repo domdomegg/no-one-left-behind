@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-react-coa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-coach-mark": "latest",
+        "react-coachmarks": "latest",
+        "react-coat": "latest",
+        "react-coat-dev-pkg": "latest",
+        "react-coat-dev-utils": "latest",
+        "react-coat-pkg": "latest"
+    }
+}

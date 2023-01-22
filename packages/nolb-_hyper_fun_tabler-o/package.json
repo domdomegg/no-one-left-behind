@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_tabler-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/tabler-octagon": "latest",
+        "@hyper.fun/tabler-octagon-off": "latest",
+        "@hyper.fun/tabler-old": "latest",
+        "@hyper.fun/tabler-olympics": "latest",
+        "@hyper.fun/tabler-omega": "latest",
+        "@hyper.fun/tabler-outlet": "latest",
+        "@hyper.fun/tabler-overline": "latest"
+    }
+}

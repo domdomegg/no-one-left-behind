@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-nax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nax": "latest",
+        "nax-card": "latest",
+        "nax-rest-api": "latest",
+        "nax-rest-api-client": "latest",
+        "naxa-openlayers": "latest",
+        "naxa-test": "latest",
+        "naxcss": "latest",
+        "naxgendiff": "latest",
+        "naxiang111": "latest",
+        "naxie-shenhua-jiaohui-wode-rensheng": "latest",
+        "naxis": "latest",
+        "naxlowdb": "latest",
+        "naxo-webjs": "latest",
+        "naxos": "latest",
+        "naxos-core": "latest",
+        "naxscroll": "latest",
+        "naxt": "latest",
+        "naxtex": "latest",
+        "naxxumhr-auth": "latest",
+        "naxxumhr-authentification": "latest",
+        "naxxumhr-calander": "latest",
+        "naxxumhr-consultsolde": "latest"
+    }
+}

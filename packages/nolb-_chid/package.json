@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_chid",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chidaniel/sdk-pro-js": "latest",
+        "@chidi-sdc/platform-ui": "latest",
+        "@chidi.ui/image-cutter": "latest",
+        "@chidiui/base-platform": "latest",
+        "@chidiui/image-cutter": "latest",
+        "@chidiui/permission": "latest",
+        "@chidiwilliams/ayoayo": "latest",
+        "@chidiwilliams/loxjs": "latest",
+        "@chidoan/excel-utils": "latest",
+        "@chidoan/vue-utility-components": "latest",
+        "@chidumennamdi/countdown-timer": "latest",
+        "@chidumennamdi/react-redux": "latest",
+        "@chidumennamdi/redux": "latest"
+    }
+}

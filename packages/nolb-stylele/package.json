@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-stylele",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylelens-sdk-js": "latest",
+        "stylelens_detector": "latest",
+        "stylelens_detector_sdk": "latest",
+        "styleless": "latest",
+        "styleless-epub": "latest",
+        "styleless-innertext": "latest",
+        "styleless-react-tabs": "latest"
+    }
+}

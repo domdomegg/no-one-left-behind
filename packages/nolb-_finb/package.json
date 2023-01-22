@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_finb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@finbb/ui-components": "latest",
+        "@finbook/duo-contract-wrapper": "latest",
+        "@finbook/duo-market-data": "latest",
+        "@finboot/docusaurus-theme": "latest",
+        "@finbourne/edp-lusid-sdk-angular6": "latest",
+        "@finbourne/edp-portfolios-sdk-angular6": "latest",
+        "@finbourne/edp_lusid": "latest",
+        "@finbourne/edp_portfolios": "latest",
+        "@finbourne/lusid": "latest",
+        "@finbourne/lusid-preview": "latest",
+        "@finbourne/lusid-sdk-angular13": "latest",
+        "@finbourne/lusid-sdk-angular14": "latest",
+        "@finbourne/lusid-sdk-angular6": "latest",
+        "@finbourne/lusid-sdk-angular7": "latest",
+        "@finbourne/lusid-sdk-angular8": "latest",
+        "@finbourne/lusidtypes": "latest",
+        "@finbox/bull": "latest",
+        "@finbox/bull-arena": "latest"
+    }
+}

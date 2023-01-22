@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_la4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@la40/js-helpers": "latest",
+        "@la40/quasar-dark-mode-toggler": "latest"
+    }
+}

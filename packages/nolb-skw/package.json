@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-skw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "skw": "latest",
+        "skw-cli": "latest",
+        "skw-jweixin": "latest",
+        "skw-shopify-cli": "latest",
+        "skwal98common": "latest",
+        "skwap": "latest",
+        "skwas-cordova-plugin-appinfo": "latest",
+        "skwas-cordova-plugin-datetimepicker": "latest",
+        "skwas-cordova-plugin-datetimepicker-asb": "latest",
+        "skwash": "latest",
+        "skwell": "latest",
+        "skweui": "latest",
+        "skwirrel-bunyan-logstash": "latest",
+        "skwiz": "latest",
+        "skwllmail": "latest",
+        "skwors": "latest"
+    }
+}

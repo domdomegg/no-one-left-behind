@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_smn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@smn-official/node.azure": "latest",
+        "@smn-official/node.helpers": "latest",
+        "@smn-official/node.mongo": "latest",
+        "@smn-official/node.router": "latest",
+        "@smn-official/schematics": "latest",
+        "@smnielsen/cover-my-ass": "latest",
+        "@smnielsen/eslint-config": "latest",
+        "@smnielsen/prettier-config": "latest"
+    }
+}

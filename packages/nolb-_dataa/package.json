@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_dataa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dataak/random-background-color": "latest",
+        "@dataak/space-killer": "latest",
+        "@dataak/string-cutter": "latest",
+        "@dataak/sum": "latest",
+        "@dataart.ai/dataart-js": "latest",
+        "@dataartdev/uikit": "latest"
+    }
+}

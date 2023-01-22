@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-hext",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hext": "latest",
+        "hext.js": "latest",
+        "hextape": "latest",
+        "hextask": "latest",
+        "hextec": "latest",
+        "hextech": "latest",
+        "hextech-api": "latest",
+        "hextech-toolkit": "latest",
+        "hextech-ui": "latest",
+        "hextechjs": "latest",
+        "hexterjs": "latest",
+        "hexterm": "latest",
+        "hextest": "latest",
+        "hextile": "latest",
+        "hextilel": "latest",
+        "hextiles-prototype": "latest",
+        "hextime": "latest",
+        "hextime-cli": "latest",
+        "hextimebg": "latest",
+        "hextk": "latest",
+        "hextodecimal": "latest",
+        "hextor": "latest",
+        "hextronics-shared-react-components": "latest",
+        "hextronweb": "latest",
+        "hextrust-kyc-sdk": "latest",
+        "hextuples": "latest",
+        "hexty": "latest"
+    }
+}

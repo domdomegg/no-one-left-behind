@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-tinp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tinp": "latest",
+        "tinpage": "latest",
+        "tinper-bee": "latest",
+        "tinper-bee-core": "latest",
+        "tinper-bee-theme-cli": "latest",
+        "tinper-bee-theme-server": "latest",
+        "tinper-datastore": "latest",
+        "tinper-mirrorx": "latest",
+        "tinper-mox": "latest",
+        "tinper-moy": "latest",
+        "tinper-neoui": "latest",
+        "tinper-neoui-grid": "latest",
+        "tinper-neoui-polyfill": "latest",
+        "tinper-neoui-tree": "latest",
+        "tinper-sparrow": "latest",
+        "tinper-storage": "latest",
+        "tinpig": "latest",
+        "tinplate": "latest",
+        "tinput": "latest"
+    }
+}

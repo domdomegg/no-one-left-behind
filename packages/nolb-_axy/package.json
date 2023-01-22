@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_axy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@axys/js": "latest",
+        "@axys/react": "latest",
+        "@axyzsdk/js": "latest",
+        "@axyzsdk/react": "latest"
+    }
+}

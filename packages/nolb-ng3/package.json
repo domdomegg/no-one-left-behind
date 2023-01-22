@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-ng3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ng3": "latest",
+        "ng3-flat-ui": "latest",
+        "ng3-gui": "latest",
+        "ng3-jalali-date-picker": "latest",
+        "ng3-mqtt": "latest",
+        "ng3-pagination": "latest",
+        "ng3-test": "latest",
+        "ng3-tour": "latest",
+        "ng3-tour-jl": "latest",
+        "ng3-tour-test": "latest",
+        "ng3-webxr": "latest",
+        "ng30-fone": "latest"
+    }
+}

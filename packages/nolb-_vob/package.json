@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_vob",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vobarian/tfbuilder": "latest",
+        "@vobi-io/test-coverage": "latest",
+        "@vobi-io/trello-task": "latest",
+        "@vobi/api-composer": "latest",
+        "@vobi/react-form": "latest",
+        "@vobla/hello-wasm": "latest"
+    }
+}

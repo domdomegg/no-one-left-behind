@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-sqy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sqy": "latest",
+        "sqy-syberos": "latest",
+        "sqycolorpicker": "latest",
+        "sqygg": "latest",
+        "sqylize": "latest",
+        "sqymgmcore": "latest",
+        "sqyui": "latest"
+    }
+}

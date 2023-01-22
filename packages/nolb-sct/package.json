@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-sct",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sct": "latest",
+        "sct-cli": "latest",
+        "sct-component-lib": "latest",
+        "sct-init": "latest",
+        "sct-loader": "latest",
+        "sct-payment-receipt": "latest",
+        "sct-react-xw": "latest",
+        "sct-receipt": "latest",
+        "sct-runtime": "latest",
+        "sct-web-player": "latest",
+        "sct8.12": "latest",
+        "sct_local_api": "latest",
+        "sctabel": "latest",
+        "scte35": "latest",
+        "scte35.js": "latest",
+        "sctemplate": "latest",
+        "sctester": "latest",
+        "scti": "latest",
+        "sctjs": "latest",
+        "sctnpm": "latest",
+        "scto": "latest",
+        "sctoolsdata": "latest",
+        "sctp": "latest",
+        "sctp-addon": "latest",
+        "sctp-iasi": "latest",
+        "sctpx": "latest",
+        "sctr-back-offers": "latest"
+    }
+}

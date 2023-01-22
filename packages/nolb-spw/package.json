@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-spw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "spw": "latest",
+        "spw-capsu": "latest",
+        "spw-kobp": "latest",
+        "spw-perxtech-api-client": "latest",
+        "spw-tree": "latest",
+        "spwaia": "latest",
+        "spwat": "latest",
+        "spwb": "latest",
+        "spwc-io": "latest",
+        "spwn": "latest",
+        "spwn.wasm": "latest",
+        "spwnawef3": "latest",
+        "spwolf": "latest",
+        "spworlds": "latest",
+        "spws": "latest",
+        "spws-proxy": "latest",
+        "spwuc": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_micd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@micdeb-ariane/heweb3-providers-http": "latest",
+        "@micdeb-ariane/hweb3": "latest",
+        "@micdeb-ariane/hweb3-bzz": "latest",
+        "@micdeb-ariane/hweb3-core": "latest",
+        "@micdeb-ariane/hweb3-core-helpers": "latest",
+        "@micdeb-ariane/hweb3-core-method": "latest",
+        "@micdeb-ariane/hweb3-core-promievent": "latest",
+        "@micdeb-ariane/hweb3-core-requestmanager": "latest",
+        "@micdeb-ariane/hweb3-core-subscriptions": "latest",
+        "@micdeb-ariane/hweb3-eth": "latest",
+        "@micdeb-ariane/hweb3-eth-abi": "latest",
+        "@micdeb-ariane/hweb3-eth-accounts": "latest",
+        "@micdeb-ariane/hweb3-eth-contract": "latest",
+        "@micdeb-ariane/hweb3-eth-ens": "latest",
+        "@micdeb-ariane/hweb3-eth-iban": "latest",
+        "@micdeb-ariane/hweb3-eth-personal": "latest",
+        "@micdeb-ariane/hweb3-eth2-beaconchain": "latest",
+        "@micdeb-ariane/hweb3-eth2-core": "latest",
+        "@micdeb-ariane/hweb3-net": "latest",
+        "@micdeb-ariane/hweb3-providers-http": "latest",
+        "@micdeb-ariane/hweb3-providers-ipc": "latest",
+        "@micdeb-ariane/hweb3-providers-ws": "latest",
+        "@micdeb-ariane/hweb3-shh": "latest",
+        "@micdeb-ariane/hweb3-utils": "latest",
+        "@micdeb-ariane/hweb3.js": "latest",
+        "@micdeb-ariane/test-npm-repo": "latest",
+        "@micdenny/ngx-material-timepicker": "latest",
+        "@micduffy/search-bar": "latest"
+    }
+}

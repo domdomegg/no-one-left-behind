@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-hiu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hiu": "latest",
+        "hiui-alert": "latest",
+        "hiui-build-tools": "latest",
+        "hiui-button": "latest",
+        "hiui-extends": "latest",
+        "hiui-pc": "latest",
+        "hiui-popper": "latest",
+        "hiui-select": "latest",
+        "hiui-template": "latest",
+        "hiui-v4": "latest",
+        "hiuicomponentforbit.hiuicomponent": "latest",
+        "hiukky": "latest",
+        "hiuphub-gamified": "latest",
+        "hiuwave": "latest",
+        "hiuzing-tools": "latest"
+    }
+}

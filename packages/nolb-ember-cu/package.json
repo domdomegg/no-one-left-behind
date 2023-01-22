@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-ember-cu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ember-currencies": "latest",
+        "ember-currencies-and-format-money": "latest",
+        "ember-currency": "latest",
+        "ember-current-url": "latest",
+        "ember-custom-actions": "latest",
+        "ember-custom-blueprints": "latest",
+        "ember-custom-css-properties": "latest",
+        "ember-custom-elements": "latest",
+        "ember-custom-elements-patch": "latest",
+        "ember-custom-link": "latest",
+        "ember-custom-select": "latest",
+        "ember-customers": "latest"
+    }
+}

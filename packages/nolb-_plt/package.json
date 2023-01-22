@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_plt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@plt4rm/cli": "latest",
+        "@plt4rm/commons": "latest",
+        "@plt4rm/core": "latest",
+        "@plt4rm/kernel": "latest",
+        "@plt4rm/odm": "latest",
+        "@plt4rm/plt4rm": "latest",
+        "@plt4rm/security": "latest",
+        "@plt4rm/server-service": "latest",
+        "@plt4rm/service-database": "latest",
+        "@plt4rm/service-server": "latest",
+        "@plt4rm/user-management": "latest",
+        "@plt4rm/utils": "latest",
+        "@pltickets/common": "latest",
+        "@pltk/app": "latest",
+        "@pltk/builtin-widgets": "latest",
+        "@pltk/components": "latest",
+        "@pltk/core": "latest",
+        "@pltk/indexdb-backend": "latest",
+        "@pltk/kv-backend-adaptor": "latest",
+        "@pltk/protocol": "latest",
+        "@pltk/restful-backend-client": "latest",
+        "@pltk/restful-backend-server": "latest"
+    }
+}

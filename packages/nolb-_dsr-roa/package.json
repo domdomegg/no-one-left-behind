@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-_dsr-roa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dsr-roars-coast-katas-affix/dsr-package-public-roars-coast-katas-affix": "latest",
+        "@dsr-roary-molal-romas-berms/dsr-package-public-roary-molal-romas-berms": "latest"
+    }
+}

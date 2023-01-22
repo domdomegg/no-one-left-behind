@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-grue",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grue": "latest",
+        "gruener-ball": "latest",
+        "gruenstromindex": "latest",
+        "gruenstromindex-server": "latest",
+        "gruetest": "latest",
+        "gruew-logger": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-genf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "genf": "latest",
+        "genfaguo-fangliao-tianhou-xuebaoyang": "latest",
+        "genfatfs": "latest",
+        "genfe-cli": "latest",
+        "genfile": "latest",
+        "genfontgl": "latest",
+        "genforce": "latest",
+        "genform": "latest",
+        "genft": "latest",
+        "genfun": "latest"
+    }
+}

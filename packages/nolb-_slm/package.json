@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_slm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@slm-h5-cli/core": "latest",
+        "@slm-h5-cli/utils": "latest",
+        "@slmably/pretty-quick": "latest",
+        "@slmdevs/aws-tooling": "latest",
+        "@slmdevs/celeraone": "latest",
+        "@slmdevs/contentstack-lib": "latest",
+        "@slmjkdbtl/normalize.css": "latest",
+        "@slmtickets/common": "latest"
+    }
+}

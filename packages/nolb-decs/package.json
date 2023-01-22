@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-decs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "decs": "latest",
+        "decs-engine": "latest",
+        "decsef-simple-authentication": "latest",
+        "decss": "latest",
+        "decss-loader": "latest",
+        "decss-wrf": "latest",
+        "decss-wrf-loader": "latest",
+        "decster": "latest",
+        "decstreams": "latest",
+        "decsv": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_aut-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aut-labs-private/abi-types": "latest",
+        "@aut-labs-private/sdk-biconomy": "latest",
+        "@aut-labs-private/sdk-storage": "latest",
+        "@aut-labs/d-aut": "latest",
+        "@aut-protocol/abi-types": "latest",
+        "@aut-protocol/aut-dashboard": "latest",
+        "@aut-protocol/contracts": "latest",
+        "@aut-protocol/d-aut": "latest",
+        "@aut-protocol/sdk": "latest",
+        "@aut-protocol/sdk-biconomy": "latest",
+        "@aut-protocol/sdk-storage": "latest"
+    }
+}

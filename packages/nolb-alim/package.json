@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-alim",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "alim-belajar-nodejs-npm-library": "latest",
+        "alim-core-pack": "latest",
+        "alim-ui-kit": "latest",
+        "alimaa": "latest",
+        "alimam": "latest",
+        "alimama": "latest",
+        "alimama-auto-login": "latest",
+        "alimama-cli": "latest",
+        "alimama-deploy": "latest",
+        "alimardani-print": "latest",
+        "alimask": "latest",
+        "alimask_zj": "latest",
+        "alimehridev-test": "latest",
+        "alimentometro-wrapper": "latest",
+        "alimini-toolkit": "latest",
+        "alimns-client": "latest",
+        "alimup": "latest"
+    }
+}

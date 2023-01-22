@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_glt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gltf-transform/cli": "latest",
+        "@gltf-transform/core": "latest",
+        "@gltf-transform/extensions": "latest",
+        "@gltf-transform/functions": "latest",
+        "@gltf-transform/lib": "latest",
+        "@gltf-transform/render": "latest",
+        "@gltf-transform/view": "latest",
+        "@glticket/common": "latest",
+        "@glticketing/common": "latest",
+        "@glticks/common": "latest"
+    }
+}

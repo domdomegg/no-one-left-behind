@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-buildm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "buildmail": "latest",
+        "buildman": "latest",
+        "buildmate": "latest",
+        "buildmatejs": "latest",
+        "buildme": "latest",
+        "buildmind-cli": "latest",
+        "buildmotion": "latest",
+        "buildmsql": "latest",
+        "buildmywork": "latest"
+    }
+}

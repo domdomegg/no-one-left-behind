@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_buo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@buooy/strapi-plugin-preview-content": "latest",
+        "@buooy/vue-beautiful-chat": "latest",
+        "@buooy/vue-good-table": "latest",
+        "@buou/test": "latest",
+        "@buoy/client": "latest",
+        "@buoyant/react": "latest",
+        "@buoysoftware/anchor-action-bar": "latest",
+        "@buoysoftware/anchor-button": "latest",
+        "@buoysoftware/anchor-dropdown-menu": "latest",
+        "@buoysoftware/anchor-form": "latest",
+        "@buoysoftware/anchor-layout": "latest",
+        "@buoysoftware/anchor-nav": "latest",
+        "@buoysoftware/anchor-theme": "latest",
+        "@buoysoftware/anchor-typography": "latest",
+        "@buoysoftware/anchor-ui": "latest",
+        "@buoysoftware/eslint-config": "latest"
+    }
+}

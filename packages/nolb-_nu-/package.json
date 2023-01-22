@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_nu-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nu-art/bug-report": "latest",
+        "@nu-art/core": "latest",
+        "@nu-art/db-api-generator": "latest",
+        "@nu-art/file-upload": "latest",
+        "@nu-art/firebase": "latest",
+        "@nu-art/fronzy": "latest",
+        "@nu-art/github": "latest",
+        "@nu-art/google-services": "latest",
+        "@nu-art/jira": "latest",
+        "@nu-art/live-docs": "latest",
+        "@nu-art/permissions": "latest",
+        "@nu-art/push-pub-sub": "latest",
+        "@nu-art/server": "latest",
+        "@nu-art/storm": "latest",
+        "@nu-art/test": "latest",
+        "@nu-art/testelot": "latest",
+        "@nu-art/thunder": "latest",
+        "@nu-art/thunderstorm": "latest",
+        "@nu-art/ts-common": "latest",
+        "@nu-art/ts-workspace": "latest",
+        "@nu-art/user-account": "latest",
+        "@nu-jazz/mylib": "latest"
+    }
+}

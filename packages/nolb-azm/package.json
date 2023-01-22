@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-azm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "azm-input": "latest",
+        "azmisahin-node": "latest",
+        "azmisahin-node-ddd": "latest",
+        "azmodule": "latest",
+        "azmovies": "latest",
+        "azmy1064": "latest"
+    }
+}

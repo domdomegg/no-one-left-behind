@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_icu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@icun-file/table.host": "latest",
+        "@icun-file/table.user": "latest",
+        "@icun-file/tables": "latest",
+        "@icun-file/types": "latest",
+        "@icun/uploader": "latest",
+        "@icun/upyun-uploader": "latest",
+        "@icure/api": "latest",
+        "@icure/be-fhc-api": "latest",
+        "@icure/form": "latest",
+        "@icure/icure-react-native-crypto": "latest",
+        "@icure/medical-device-sdk": "latest",
+        "@icure/react-native-aes-crypto": "latest",
+        "@icure/react-native-rsa-native": "latest",
+        "@icure/test-setup": "latest",
+        "@icursor/core": "latest",
+        "@icuxika/vue-scaffold-ui": "latest"
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-biu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "biu": "latest",
+        "biu-4": "latest",
+        "biu-cli": "latest",
+        "biu-client": "latest",
+        "biu-function": "latest",
+        "biu-function-es6": "latest",
+        "biu-function-suhui-test": "latest",
+        "biu-i18n": "latest",
+        "biu-kit": "latest",
+        "biu-plugin": "latest",
+        "biu-ticketjson": "latest",
+        "biu-tools": "latest",
+        "biu-ui": "latest",
+        "biu.js": "latest",
+        "biubiu": "latest",
+        "biubiu-utils": "latest",
+        "biubiu-xlsx": "latest",
+        "biubiubiu": "latest",
+        "biubiutools": "latest",
+        "biue": "latest",
+        "biuill": "latest",
+        "biujs": "latest",
+        "biukowalewski": "latest",
+        "biutiful": "latest",
+        "biuty": "latest",
+        "biuxbiu-cli": "latest",
+        "biuxbiu2": "latest"
+    }
+}

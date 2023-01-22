@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-usn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "usn": "latest",
+        "usnack": "latest",
+        "usnam-pmb": "latest",
+        "usnap": "latest",
+        "usnayocaceres": "latest",
+        "usneighboringstates": "latest",
+        "usnews-apollo-client": "latest",
+        "usnews-react-apollo": "latest",
+        "usnext-interfaces-desktopsystemv7": "latest",
+        "usng": "latest",
+        "usng-gmaps": "latest",
+        "usng-map-collar": "latest",
+        "usng.js": "latest",
+        "usng2": "latest"
+    }
+}

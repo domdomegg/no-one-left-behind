@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_marn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@marnanakou/my-package-dci": "latest",
+        "@marnault/react": "latest",
+        "@marnibrewster/homebridge-tuya-door-cloud": "latest",
+        "@marnibrewster/scd4x-node": "latest",
+        "@marnickvda/ngx-translate-spec": "latest",
+        "@marnjo/tiny": "latest"
+    }
+}

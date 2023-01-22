@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-bas-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bas-browser-connector": "latest",
+        "bas-component": "latest",
+        "bas-concept-file-upload-webclient": "latest",
+        "bas-demo": "latest",
+        "bas-enc-hana-conn": "latest",
+        "bas-first-lib": "latest",
+        "bas-material-ui": "latest",
+        "bas-meteor-facebook-login": "latest",
+        "bas-meteor-ip-geo": "latest",
+        "bas-meteor-jwplayer": "latest",
+        "bas-meteor-utils": "latest",
+        "bas-node-calculator": "latest",
+        "bas-ope": "latest",
+        "bas-remote-node": "latest",
+        "bas-simple-package": "latest",
+        "bas-style-kit": "latest",
+        "bas-typeorm": "latest",
+        "bas-websql-driver": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_byl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bylh/uni-model": "latest",
+        "@bylin/sote": "latest",
+        "@bylin/typecho-theme-sagiri": "latest",
+        "@bylist/lb-atom": "latest",
+        "@bylist/lb-calcium": "latest",
+        "@bylist/lb-magnesium": "latest",
+        "@bylist/lb-quantum": "latest",
+        "@bylist/lb_router": "latest",
+        "@bylist/listberry_router": "latest",
+        "@byll/hermes": "latest",
+        "@byll/react-autocomplete": "latest",
+        "@byll/validated": "latest",
+        "@byloth/eslint-config": "latest",
+        "@byloth/eslint-config-typescript": "latest",
+        "@byloth/eslint-config-vue": "latest",
+        "@byloth/exceptions": "latest",
+        "@byloth/html-element-style": "latest",
+        "@byloth/vue-content": "latest",
+        "@byloth/vue-scroll-animator": "latest",
+        "@byloth/vuert": "latest"
+    }
+}

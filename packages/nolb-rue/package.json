@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-rue",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rue": "latest",
+        "rue-cli-finder": "latest",
+        "rue-config": "latest",
+        "rue-mist": "latest",
+        "rue-mist-interface": "latest",
+        "rue-mist-nterface": "latest",
+        "rue-tools": "latest",
+        "rue-web3": "latest",
+        "ruebo": "latest",
+        "ruejs": "latest",
+        "ruelle": "latest",
+        "ruen_string_keyboard_replacer": "latest",
+        "ruevents": "latest",
+        "ruex": "latest"
+    }
+}

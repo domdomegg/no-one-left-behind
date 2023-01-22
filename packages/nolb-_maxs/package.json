@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_maxs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@maxsolovev/url-to-file": "latest",
+        "@maxsolovev/vue-grid": "latest",
+        "@maxsolovev/vue-yandex-maps": "latest",
+        "@maxsolvid/correios": "latest",
+        "@maxson/easyhook": "latest",
+        "@maxsparrow/aws-s3": "latest",
+        "@maxsparrow/sigma": "latest",
+        "@maxstack-cli/core": "latest",
+        "@maxstack-cli/utils": "latest",
+        "@maxstudener/react-mui-daterange-picker": "latest"
+    }
+}

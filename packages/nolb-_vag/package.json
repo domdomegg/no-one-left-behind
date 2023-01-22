@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_vag",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vagabondrev/maths-package": "latest",
+        "@vagachain/sdk": "latest",
+        "@vagalumedigital/gatsby-plugin-mailchimp-api": "latest",
+        "@vagnercardoso/multer-mux-storage": "latest",
+        "@vagnercardoso/nodesdk": "latest",
+        "@vagnerzadoque/vagnerlib": "latest",
+        "@vagrantir/rc-device-targeting": "latest",
+        "@vagrantir/rc-dropdown": "latest",
+        "@vagrantir/vue-custom-styles": "latest"
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_minh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@minh.nguyen/material-ui": "latest",
+        "@minh.nguyen/plugin-transform-destructuring": "latest",
+        "@minhakk24/lotide": "latest",
+        "@minhbear-ticket/common": "latest",
+        "@minhdtb/pms-timeline": "latest",
+        "@minhdtb/storeo-cli": "latest",
+        "@minhdtb/vite-plugin-storeo": "latest",
+        "@minhduc2811/poke-pkg-ui": "latest",
+        "@minhducsun2002/leb128": "latest",
+        "@minhducsun2002/node-osr-parser": "latest",
+        "@minhducsun2002/paged-embeds": "latest",
+        "@minhman10410/cuahangtienloi": "latest",
+        "@minhmeo55/app-1": "latest",
+        "@minhphant/test-package": "latest",
+        "@minhphongvn/demoform": "latest",
+        "@minht11/solid-virtual-container": "latest",
+        "@minhtetoo/random-number": "latest",
+        "@minhtetoo/random-string": "latest",
+        "@minhtrn/strapi-plugin-github-projects": "latest",
+        "@minhtuanq6/avatar": "latest",
+        "@minhvo/lotide": "latest",
+        "@minhvo199/lotide": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-dev1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dev1": "latest",
+        "dev1-front-boot": "latest",
+        "dev1-lib-henga": "latest",
+        "dev10-front": "latest",
+        "dev111": "latest",
+        "dev136-video.js": "latest",
+        "dev1nee-gci-helloworld": "latest"
+    }
+}

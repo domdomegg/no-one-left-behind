@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-agb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "agb": "latest",
+        "agb-logger": "latest",
+        "agb-schematics": "latest",
+        "agb-schematics1": "latest",
+        "agba-merger": "latest",
+        "agbis-price-adapter": "latest",
+        "agbis-react-scripts": "latest",
+        "agbj-ui": "latest",
+        "agbowo-parser": "latest"
+    }
+}

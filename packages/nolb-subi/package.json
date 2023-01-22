@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-subi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "subimagecheck": "latest",
+        "subin-kim": "latest",
+        "subin-test-package": "latest",
+        "subindable": "latest",
+        "subindex": "latest",
+        "subioto-admin-client": "latest",
+        "subioto-ui-react": "latest",
+        "subir-nube-vagos": "latest",
+        "subiranpm": "latest",
+        "subit": "latest",
+        "subitestnpm": "latest",
+        "subito-ci": "latest",
+        "subito-connector-mongodb": "latest",
+        "subito-connector-mysql": "latest",
+        "subito-connector-rabbitmq": "latest",
+        "subito-graphql": "latest",
+        "subito-lib": "latest",
+        "subitoo": "latest",
+        "subiz-store": "latest"
+    }
+}

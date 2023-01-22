@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-hexo-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hexo-uglify": "latest",
+        "hexo-uma-calendar": "latest",
+        "hexo-uncss": "latest",
+        "hexo-uncss2": "latest",
+        "hexo-undraft": "latest",
+        "hexo-unique-post-path": "latest",
+        "hexo-unsplash-credit": "latest",
+        "hexo-update-img": "latest",
+        "hexo-update-time": "latest",
+        "hexo-url-image": "latest",
+        "hexo-url-submission": "latest",
+        "hexo-util": "latest",
+        "hexo-util-parse-tag-arguments": "latest",
+        "hexo-uuid": "latest"
+    }
+}

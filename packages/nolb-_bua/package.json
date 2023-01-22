@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_bua",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bua/akt-input": "latest",
+        "@buames/eslint-config": "latest",
+        "@buames/jest-preset": "latest",
+        "@buames/prettier-config": "latest",
+        "@buames/tsconfig": "latest"
+    }
+}

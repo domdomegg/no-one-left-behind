@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_ka2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ka2n/babel-plugin-open-source": "latest",
+        "@ka2n/lezer-json5": "latest",
+        "@ka2n/now-next": "latest",
+        "@ka2n/now-node-bridge": "latest",
+        "@ka2n/now__node": "latest",
+        "@ka2n/pathpida": "latest",
+        "@ka2n/vercel-deno": "latest"
+    }
+}

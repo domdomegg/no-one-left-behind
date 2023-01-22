@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-bsm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bsm-basic": "latest",
+        "bsm-components": "latest",
+        "bsm-loaders": "latest",
+        "bsm-log": "latest",
+        "bsm-oauth": "latest",
+        "bsm-validation-rules": "latest",
+        "bsm-validator": "latest",
+        "bsm-vue-mixins": "latest",
+        "bsmith-palindrome": "latest",
+        "bsmodal-ajaxform": "latest",
+        "bsmodule": "latest",
+        "bsmodule-beta": "latest",
+        "bsmpvue-cli": "latest",
+        "bsms": "latest",
+        "bsmth": "latest"
+    }
+}

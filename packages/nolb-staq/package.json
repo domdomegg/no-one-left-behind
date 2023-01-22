@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-staq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "staq": "latest",
+        "staq-client": "latest",
+        "staq-mercator": "latest",
+        "staq-server": "latest",
+        "staque": "latest",
+        "staquia": "latest"
+    }
+}

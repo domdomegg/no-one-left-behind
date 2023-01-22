@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-omr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "omr": "latest",
+        "omr-creation": "latest",
+        "omri-beautify": "latest",
+        "omri-new-package": "latest",
+        "omri-ob-test-linter": "latest",
+        "omri-test-tsdx": "latest",
+        "omrilevyorg-tiny-npm-deploy": "latest",
+        "omrilotan": "latest",
+        "omrinadanpppp": "latest",
+        "omron-fins": "latest",
+        "omrs-checkmobi": "latest"
+    }
+}

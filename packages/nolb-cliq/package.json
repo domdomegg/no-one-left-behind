@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-cliq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cliq": "latest",
+        "cliq-to": "latest",
+        "clique": "latest",
+        "clique-api": "latest",
+        "clique-api-client-js": "latest",
+        "clique-seeds": "latest",
+        "clique-visualizer": "latest",
+        "cliquer": "latest",
+        "cliqueretire-map": "latest",
+        "cliques-console": "latest",
+        "cliquescope-searchbar": "latest",
+        "cliquish": "latest",
+        "cliquiz-millionaire": "latest",
+        "cliquizgame": "latest",
+        "cliqz-logo-database": "latest"
+    }
+}

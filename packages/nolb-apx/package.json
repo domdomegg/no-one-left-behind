@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-apx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "apx": "latest",
+        "apx-errors": "latest",
+        "apx-express-socket.io": "latest",
+        "apx-health": "latest",
+        "apx-helper-crud": "latest",
+        "apx-kue": "latest",
+        "apx-logger": "latest",
+        "apx-mongoose": "latest",
+        "apx-native-module": "latest",
+        "apx-queue": "latest",
+        "apx-response": "latest",
+        "apx-roles": "latest",
+        "apx-session": "latest",
+        "apx-winston": "latest",
+        "apx2-rn-component-list": "latest",
+        "apx_ywy": "latest",
+        "apx_ywyy": "latest",
+        "apxor": "latest",
+        "apxor-qe": "latest",
+        "apxor-react-native-sdk": "latest",
+        "apxor-rtm": "latest",
+        "apxor-rtm-ui": "latest",
+        "apxsoapcallviewer": "latest",
+        "apxx": "latest",
+        "apxx-decorator": "latest",
+        "apxx-hook": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-haq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "haq": "latest",
+        "haq-frame-print": "latest",
+        "haqnte-package": "latest",
+        "haqpltest": "latest",
+        "haqt": "latest"
+    }
+}

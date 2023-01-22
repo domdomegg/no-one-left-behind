@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_datafire_q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datafire/qualpay": "latest",
+        "@datafire/quandl": "latest",
+        "@datafire/quarantine_country": "latest",
+        "@datafire/quicksold_location": "latest",
+        "@datafire/quotes_rest": "latest"
+    }
+}

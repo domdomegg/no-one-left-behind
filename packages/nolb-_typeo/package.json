@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_typeo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@typeofnan/dev-tools": "latest",
+        "@typeofnan/vue-ripples": "latest",
+        "@typeofweb/eslint-plugin": "latest",
+        "@typeofweb/ignore-monorepo-buildstep": "latest",
+        "@typeofweb/schema": "latest",
+        "@typeofweb/server": "latest",
+        "@typeofweb/utils": "latest",
+        "@typeolymp/design-system": "latest",
+        "@typeolymp/ui-components": "latest",
+        "@typeolymp/utility": "latest",
+        "@typeonly/checker": "latest",
+        "@typeonly/checker-cli": "latest",
+        "@typeonly/loader": "latest",
+        "@typeonly/reader": "latest",
+        "@typeonly/validator": "latest",
+        "@typeonly/validator-cli": "latest",
+        "@typeorm-admin/core": "latest",
+        "@typeorm-admin/web-client": "latest",
+        "@typeorm/mysql": "latest"
+    }
+}

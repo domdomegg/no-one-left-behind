@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_yau",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yau/vue-linux-cron": "latest",
+        "@yaufai/language-abbreviations": "latest",
+        "@yaufai/mytsutils": "latest",
+        "@yaulthoon/cs-micro-frontend": "latest",
+        "@yaus/beam-splitter": "latest",
+        "@yaus/heckle": "latest",
+        "@yaus/m-list": "latest"
+    }
+}

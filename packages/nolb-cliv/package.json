@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-cliv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cliv": "latest",
+        "clivage": "latest",
+        "clivas": "latest",
+        "clivate": "latest",
+        "clive": "latest",
+        "clive-api": "latest",
+        "clive-censortext": "latest",
+        "clive-qa-parser": "latest",
+        "cliver": "latest",
+        "cliver4alfred": "latest",
+        "cliverter": "latest",
+        "clivi": "latest",
+        "clivia": "latest",
+        "clivias": "latest",
+        "clivm": "latest"
+    }
+}

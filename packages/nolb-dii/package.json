@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-dii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dii": "latest",
+        "dii-helper": "latest",
+        "dii_biblioteca": "latest",
+        "diia": "latest",
+        "diia-parser": "latest",
+        "diibanez-frame-print": "latest",
+        "diigonode": "latest",
+        "diii": "latest",
+        "diiing": "latest",
+        "diiing-ui": "latest",
+        "diip": "latest",
+        "diir": "latest"
+    }
+}

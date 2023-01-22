@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_adg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@adgad/my-app": "latest",
+        "@adgad/n-express": "latest",
+        "@adgad/n-ui": "latest",
+        "@adgad/third-party-dep": "latest",
+        "@adgad/third-party-subdep": "latest",
+        "@adgdev/adgcalc.js": "latest",
+        "@adgjerstad/react-extension": "latest",
+        "@adgorithmics/adgo-errors": "latest",
+        "@adgorithmics/cinnamon-sdk": "latest",
+        "@adgorithmics/eslint-config-base": "latest",
+        "@adgorithmics/graphql-errors": "latest",
+        "@adgstudio/graphql-generator": "latest",
+        "@adguard/api": "latest",
+        "@adguard/assistant": "latest",
+        "@adguard/extended-css": "latest",
+        "@adguard/filters-downloader": "latest",
+        "@adguard/github-stats": "latest",
+        "@adguard/hostlist-compiler": "latest",
+        "@adguard/scriptlets": "latest",
+        "@adguard/translate": "latest",
+        "@adguard/tsurlfilter": "latest",
+        "@adguard/tswebextension": "latest"
+    }
+}

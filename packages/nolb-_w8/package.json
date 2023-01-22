@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_w8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@w8coffee/libui-bins": "latest",
+        "@w8coffee/libui-node": "latest",
+        "@w8coffee/nbind": "latest"
+    }
+}

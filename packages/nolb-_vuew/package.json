@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_vuew",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vueware/chippy": "latest",
+        "@vuewind/jetstream": "latest",
+        "@vuewind/v-query": "latest",
+        "@vuewind/v-query-inertia": "latest"
+    }
+}

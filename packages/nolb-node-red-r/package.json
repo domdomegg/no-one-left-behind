@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-node-red-r",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-red-ram-info": "latest",
+        "node-red-raspicam": "latest",
+        "node-red-react": "latest",
+        "node-red-read-pdf": "latest",
+        "node-red-rgb-colour-converter": "latest",
+        "node-red-rm": "latest",
+        "node-red-rshake-udp-parser": "latest"
+    }
+}

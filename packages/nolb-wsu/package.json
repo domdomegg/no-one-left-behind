@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-wsu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wsui-test": "latest",
+        "wsuite-auth": "latest",
+        "wsuite-aws-ecs": "latest",
+        "wsuite-cognito-login": "latest",
+        "wsuite-cron-editor": "latest",
+        "wsuite-cron-editor-v2": "latest",
+        "wsuite-cron-parser": "latest",
+        "wsuite-dynamic-form-builder": "latest",
+        "wsuite-event-calendar": "latest",
+        "wsuite-generate-node-structure": "latest",
+        "wsuite-loader": "latest",
+        "wsuite-logger": "latest",
+        "wsuite-login": "latest",
+        "wsuite-loginv2": "latest",
+        "wsuite-ng-gapi": "latest",
+        "wsuite-ngx-chips": "latest",
+        "wsuite-notification": "latest",
+        "wsuite-resource-crud-node": "latest",
+        "wsuite-resource-list": "latest",
+        "wsuite-service-menu": "latest",
+        "wsuite-tag-cloud": "latest",
+        "wsuite-user-clients": "latest",
+        "wsuite-wdev-top-layer": "latest",
+        "wsup": "latest",
+        "wsurl": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_boh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bohdan-anderson/testproject": "latest",
+        "@bohdanohorodnik/testselec": "latest",
+        "@bohdantkachenko/flexboxgrid-sass": "latest",
+        "@bohdaq/lit-form-builder": "latest",
+        "@bohecola/eslint-config": "latest",
+        "@bohecola/eslint-config-basic": "latest",
+        "@bohecola/eslint-config-react": "latest",
+        "@bohecola/eslint-config-ts": "latest",
+        "@bohecola/eslint-config-vue": "latest",
+        "@bohecola/todolist": "latest",
+        "@bohemian_org/ticketing-common": "latest",
+        "@bohemicastudio/apostrophe-sync": "latest",
+        "@bohendo/connext": "latest",
+        "@bohendo/makerkeeper": "latest",
+        "@bohendo/nats-messaging-client": "latest",
+        "@bohiotv/components": "latest",
+        "@bohlken34/foc-sp": "latest",
+        "@bohlken34/focsp-cli": "latest",
+        "@bohon/bohon-dashboard-design": "latest",
+        "@bohr/changelogger": "latest"
+    }
+}

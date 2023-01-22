@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_stox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stoxy/core": "latest",
+        "@stoxy/element-base": "latest",
+        "@stoxy/element-mixin": "latest",
+        "@stoxy/form": "latest",
+        "@stoxy/hooks": "latest",
+        "@stoxy/object": "latest",
+        "@stoxy/repeat": "latest",
+        "@stoxy/stoxy": "latest",
+        "@stoxy/string": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-pov",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pov": "latest",
+        "pov-2018": "latest",
+        "pov-components": "latest",
+        "pov-login": "latest",
+        "pover": "latest",
+        "povery": "latest",
+        "povi": "latest",
+        "povjs": "latest",
+        "povjs-lodash": "latest",
+        "povshednyiolehmodule": "latest",
+        "povtor": "latest",
+        "povutils": "latest"
+    }
+}

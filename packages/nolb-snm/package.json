@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-snm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "snm": "latest",
+        "snm-cli": "latest",
+        "snmic-test": "latest",
+        "snmo": "latest",
+        "snmongo": "latest",
+        "snmp": "latest",
+        "snmp-factory": "latest",
+        "snmp-fiberhome": "latest",
+        "snmp-fitm": "latest",
+        "snmp-native": "latest",
+        "snmp-node": "latest",
+        "snmpjiangyou": "latest",
+        "snmpjs": "latest",
+        "snmpjs-f": "latest",
+        "snmpjs-new": "latest",
+        "snmpserver": "latest",
+        "snms": "latest"
+    }
+}

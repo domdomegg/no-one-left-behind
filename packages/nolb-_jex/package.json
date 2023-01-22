@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_jex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jexia/ng-jexia": "latest",
+        "@jexo/ace-gdpr": "latest",
+        "@jexo/pijen": "latest",
+        "@jexo/progress-tracker": "latest",
+        "@jexo/select-multi-level": "latest",
+        "@jexsrs/dot2env": "latest",
+        "@jexsrs/serializer": "latest"
+    }
+}

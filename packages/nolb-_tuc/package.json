@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_tuc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tucar/pit-stop": "latest",
+        "@tuchuang.space/mock-server": "latest",
+        "@tuckerconnelly/minimal-router": "latest",
+        "@tuckerconnelly/validate": "latest",
+        "@tuckie/peeki-api": "latest",
+        "@tuckn/fs-hospitality": "latest",
+        "@tuckn/insert-gtag": "latest",
+        "@tuckn/wsh-packager": "latest",
+        "@tuclase-tupais/valence": "latest",
+        "@tucotests/common": "latest",
+        "@tucows/donejs-carousel-plugin": "latest",
+        "@tucows/tucows-carousel-plugin": "latest",
+        "@tucq88/tucq-say-hello": "latest",
+        "@tucy/vue-color": "latest",
+        "@tucy/vue3-color": "latest"
+    }
+}

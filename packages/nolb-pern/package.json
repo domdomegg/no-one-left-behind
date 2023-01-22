@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-pern",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pern": "latest",
+        "pern-boilerplate-backend": "latest",
+        "pern-excel-validator": "latest",
+        "pern-stack-template": "latest",
+        "pernil2": "latest",
+        "pernilongo-plugin": "latest",
+        "perninha": "latest",
+        "pernote-index": "latest",
+        "pernr": "latest",
+        "perntest1": "latest"
+    }
+}

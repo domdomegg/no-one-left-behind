@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-y3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "y3": "latest",
+        "y3-cli": "latest",
+        "y3-graph": "latest",
+        "y3-ui": "latest",
+        "y3000": "latest",
+        "y33ang0110": "latest",
+        "y33t": "latest",
+        "y3cron": "latest"
+    }
+}

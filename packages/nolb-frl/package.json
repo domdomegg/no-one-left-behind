@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-frl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "frl": "latest",
+        "frl-ts-arithmetic": "latest",
+        "frl-ts-mocking": "latest",
+        "frl-ts-svg-path-builder": "latest",
+        "frl-ts-utils": "latest",
+        "frl-ts-variables": "latest",
+        "frlender": "latest",
+        "frler-compress": "latest",
+        "frler-scms-plugins": "latest",
+        "frler-webpack-config": "latest",
+        "frlinnstrument": "latest",
+        "frllk-vue-ui": "latest",
+        "frlluc-mocking": "latest",
+        "frlluc-svg-path-builder": "latest",
+        "frlluc-utils": "latest",
+        "frlowy": "latest"
+    }
+}

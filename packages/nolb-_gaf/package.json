@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_gaf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gafa/aws-operation-dynamodb-import": "latest",
+        "@gafo/bingsearch": "latest",
+        "@gafocus/common": "latest",
+        "@gafregatto-ignite-ui/docs": "latest",
+        "@gafregatto-ignite-ui/react": "latest",
+        "@gafregatto-ignite-ui/tokens": "latest",
+        "@gafs/infra-autorizacao": "latest",
+        "@gafs/infra-core": "latest",
+        "@gafs/infra-data": "latest",
+        "@gafs/infra-formulario": "latest",
+        "@gafs/infra-template": "latest"
+    }
+}

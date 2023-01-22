@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_suo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@suofeiyagroup/ckeditor5-classic": "latest",
+        "@suofeiyagroup/ckeditor5-classic-preview": "latest",
+        "@suofeiyagroup/ckeditor5-decoupled": "latest",
+        "@suolun/aliyun-captcha": "latest",
+        "@suolun/stamp": "latest",
+        "@suolun/verification-code": "latest",
+        "@suomikulta/eslint-config": "latest",
+        "@suomikulta/stylelint-config": "latest",
+        "@suomiton/aurelia-bootstrap-datepicker": "latest",
+        "@suontoticketing/common": "latest",
+        "@suotomeai/demo-ui": "latest",
+        "@suotomeai/ui": "latest",
+        "@suozhao/eslint-config-168": "latest"
+    }
+}

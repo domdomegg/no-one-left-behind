@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_material-icon-sk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/material-icon-skateboarding-filled": "latest",
+        "@hyper.fun/material-icon-skateboarding-outlined": "latest",
+        "@hyper.fun/material-icon-skateboarding-round": "latest",
+        "@hyper.fun/material-icon-skateboarding-sharp": "latest",
+        "@hyper.fun/material-icon-skateboarding-twotone": "latest",
+        "@hyper.fun/material-icon-skip-next-filled": "latest",
+        "@hyper.fun/material-icon-skip-next-outlined": "latest",
+        "@hyper.fun/material-icon-skip-next-round": "latest",
+        "@hyper.fun/material-icon-skip-next-sharp": "latest",
+        "@hyper.fun/material-icon-skip-next-twotone": "latest",
+        "@hyper.fun/material-icon-skip-previous-filled": "latest",
+        "@hyper.fun/material-icon-skip-previous-outlined": "latest",
+        "@hyper.fun/material-icon-skip-previous-round": "latest",
+        "@hyper.fun/material-icon-skip-previous-sharp": "latest",
+        "@hyper.fun/material-icon-skip-previous-twotone": "latest"
+    }
+}

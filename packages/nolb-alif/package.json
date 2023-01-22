@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-alif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "alif-common": "latest",
+        "alif-server": "latest",
+        "alif-toolkit": "latest",
+        "alifc": "latest",
+        "alifc-utils": "latest",
+        "alifd-build-plugin-lowcode": "latest",
+        "alifd-field": "latest",
+        "alifd-next": "latest",
+        "alifd-react-docgen-typescript-loader-add-tag": "latest",
+        "alife-file-to-base64": "latest",
+        "alife-iotx-oler-player": "latest",
+        "alife-iotx-roi-marker": "latest",
+        "alife-logger": "latest",
+        "alife-rating-star": "latest",
+        "alifia": "latest"
+    }
+}

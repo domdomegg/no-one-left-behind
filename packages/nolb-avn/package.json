@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-avn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "AVNjs": "latest",
+        "avn": "latest",
+        "avn-api": "latest",
+        "avn-homebrew-with-versions": "latest",
+        "avn-n": "latest",
+        "avn-nodebrew": "latest",
+        "avn-nvm": "latest",
+        "avn-types": "latest",
+        "avn-ui": "latest",
+        "avnerb": "latest",
+        "avngr": "latest",
+        "avni-canned-reports": "latest",
+        "avni-health-modules": "latest",
+        "avnishsoni75-frame-print": "latest",
+        "avnpc": "latest",
+        "avnpc.front": "latest",
+        "avnrich-ui-kit": "latest",
+        "avnsh-react-scripts": "latest",
+        "avnu-contentful": "latest",
+        "avnu-react-snap": "latest",
+        "avnuikit": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_chn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chn-js/canvas-tools": "latest",
+        "@chn-js/import-html-entry": "latest",
+        "@chn-js/sandbox": "latest",
+        "@chn-js/timeline-control": "latest",
+        "@chn1807/npm_test_amber": "latest",
+        "@chngl/jellojs": "latest",
+        "@chnirt/react-hooks": "latest",
+        "@chnirt/tiny": "latest",
+        "@chnlabs/chncwp21testscopefunctions3": "latest",
+        "@chnn/oats": "latest",
+        "@chnn/tube": "latest",
+        "@chnxo/ngx-charts": "latest"
+    }
+}

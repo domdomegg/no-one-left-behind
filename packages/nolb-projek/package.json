@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-projek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "projek249.com": "latest",
+        "projekatjelisavetafpis": "latest",
+        "projekiot-notification-sdk": "latest",
+        "projekodun": "latest",
+        "projekt": "latest",
+        "projektor": "latest",
+        "projektor-publish": "latest",
+        "projektpro-leaflet-smoothwheelzoom": "latest"
+    }
+}

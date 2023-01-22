@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-react-dv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-dv": "latest",
+        "react-dva": "latest",
+        "react-dva-cli": "latest",
+        "react-dva-route-client": "latest",
+        "react-dva-starter": "latest",
+        "react-dva-to-typescript-transform": "latest",
+        "react-dvd-player-animation": "latest",
+        "react-dvd-screensaver": "latest",
+        "react-dvis": "latest",
+        "react-dvis-test": "latest",
+        "react-dvr": "latest",
+        "react-dvr-calendar": "latest"
+    }
+}

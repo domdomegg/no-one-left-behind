@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-shn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shn-vue-ui": "latest",
+        "shn-vue-ui-lcrx": "latest",
+        "shna_1": "latest",
+        "shnaghai": "latest",
+        "shnapps": "latest",
+        "shnappy-email-templater": "latest",
+        "shnappy-emailer": "latest",
+        "shnappy-randomcode": "latest",
+        "shnc": "latest",
+        "shndrpc-wrapper": "latest",
+        "shngchuan": "latest",
+        "shnow": "latest",
+        "shntest": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-node-cp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-cp": "latest",
+        "node-cp-abe": "latest",
+        "node-cp866buffer": "latest",
+        "node-cpdir": "latest",
+        "node-cpf": "latest",
+        "node-cpf-cli": "latest",
+        "node-cpf-cnpj": "latest",
+        "node-cporras": "latest",
+        "node-cpplint": "latest",
+        "node-cpu-count": "latest",
+        "node-cputil": "latest"
+    }
+}

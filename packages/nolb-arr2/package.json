@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-arr2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "arr2": "latest",
+        "arr21606a": "latest",
+        "arr2map": "latest",
+        "arr2obj": "latest",
+        "arr2obj_88": "latest",
+        "arr2tree": "latest",
+        "arr2xls": "latest"
+    }
+}

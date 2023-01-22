@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-modulep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "modulep": "latest",
+        "modulepack1": "latest",
+        "modulepack2": "latest",
+        "modulepack2nishasharma": "latest",
+        "modulepaths": "latest",
+        "modulephoto": "latest",
+        "modulepra": "latest",
+        "moduleprivatenpm": "latest",
+        "modulepublishdemo": "latest"
+    }
+}

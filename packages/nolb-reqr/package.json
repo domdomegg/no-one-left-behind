@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-reqr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "reqr": "latest",
+        "reqr-cli": "latest",
+        "reqraph": "latest",
+        "reqrec": "latest",
+        "reqrep": "latest",
+        "reqrepable-socket": "latest",
+        "reqres": "latest",
+        "reqres-etc": "latest",
+        "reqres-generic": "latest",
+        "reqres-karina": "latest",
+        "reqres-logger": "latest",
+        "reqres0207": "latest",
+        "reqres_heemanshu": "latest",
+        "reqres_lib_100": "latest",
+        "reqresmhmdadbm": "latest",
+        "reqresnext": "latest",
+        "reqresnexti": "latest",
+        "reqrespaulg": "latest",
+        "reqrest": "latest",
+        "reqrestextract": "latest",
+        "reqroot": "latest",
+        "reqroute": "latest"
+    }
+}

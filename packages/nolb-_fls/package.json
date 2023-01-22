@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_fls",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fls-lk/fmgmt_models": "latest",
+        "@flsfrontux/teste-js": "latest",
+        "@flsh/svg2canvas": "latest",
+        "@flstk/pg": "latest",
+        "@flstk/pg-core": "latest",
+        "@flstk/pg-react": "latest",
+        "@flstk/result": "latest",
+        "@flstk/use-api": "latest",
+        "@flstk/utils": "latest"
+    }
+}

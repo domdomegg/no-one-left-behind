@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_tsg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tsgandalf/mini-dom": "latest",
+        "@tsgen/graphql": "latest",
+        "@tsgen/graphql-json-schema": "latest",
+        "@tsgl/webgl-consts": "latest",
+        "@tsgl/webgl2-consts": "latest",
+        "@tsgo/core": "latest",
+        "@tsgtickets/common": "latest"
+    }
+}

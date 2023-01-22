@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-smartg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smartgame": "latest",
+        "smartgamer": "latest",
+        "smartgen-new-media-applet": "latest",
+        "smartget": "latest",
+        "smartgl": "latest",
+        "smartglass": "latest",
+        "smartgraphql": "latest",
+        "smartgroup": "latest",
+        "smartguycodes_rng": "latest"
+    }
+}

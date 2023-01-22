@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-keyr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "keyrc": "latest",
+        "keyrest": "latest",
+        "keyri-fingerprint": "latest",
+        "keyring": "latest",
+        "keyring_js": "latest",
+        "keyrios": "latest",
+        "keyro": "latest",
+        "keyroll": "latest",
+        "keyrotator": "latest",
+        "keyruler": "latest",
+        "keyruler-client": "latest",
+        "keyrune": "latest",
+        "keyrune-data": "latest"
+    }
+}

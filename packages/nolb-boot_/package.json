@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-boot_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "boot.dll": "latest",
+        "boot.min.js": "latest",
+        "boot_tank": "latest"
+    }
+}

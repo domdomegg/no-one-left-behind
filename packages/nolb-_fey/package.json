@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_fey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@feynman69/rehype-slug": "latest",
+        "@feynmantech/express-resolve-proxy": "latest",
+        "@feynmantech/micro-core": "latest",
+        "@feynmanxiong-cli-dev/core": "latest",
+        "@feynmanxiong-cli-dev/utils": "latest",
+        "@feynmaz/trendtech-test": "latest",
+        "@feyond/chrome-messaging": "latest",
+        "@feyond/console-logging": "latest"
+    }
+}

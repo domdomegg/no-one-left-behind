@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_edf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@edf-re/esap-ui-components": "latest",
+        "@edfernape/npm-test": "latest",
+        "@edfinity/ally": "latest",
+        "@edfletcher/tools": "latest",
+        "@edflex-tech/keycloakify": "latest",
+        "@edfui/hello-lst": "latest",
+        "@edfus/file-server": "latest",
+        "@edfus/proxy-server": "latest"
+    }
+}

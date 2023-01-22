@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-vuv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vuv": "latest",
+        "vuvanthanh-package": "latest",
+        "vuvas": "latest",
+        "vuvu": "latest",
+        "vuvuzela": "latest"
+    }
+}

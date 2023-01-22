@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-pef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pef": "latest",
+        "pef-new": "latest",
+        "pef-news": "latest",
+        "pef-validator": "latest",
+        "pefile.js": "latest",
+        "pefish-eosjs": "latest",
+        "pefish-eosjs-ecc": "latest",
+        "pefish-hxjs": "latest",
+        "pefish-ripple-lib": "latest",
+        "pefish_backdoor": "latest",
+        "pefmote": "latest"
+    }
+}

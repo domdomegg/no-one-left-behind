@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-acd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "acd": "latest",
+        "acd-single-site-view": "latest",
+        "acd-tooltip-wc": "latest",
+        "acd-utils": "latest",
+        "acdavetest": "latest",
+        "acdavetest2": "latest",
+        "acdavetest3": "latest",
+        "acdc": "latest",
+        "acdc-core": "latest",
+        "acdc-gis-utils": "latest",
+        "acdc-loading": "latest",
+        "acdc-notifications": "latest",
+        "acdh-fundament-vuetify": "latest",
+        "acdh-vue-n3": "latest",
+        "acdibck": "latest",
+        "acdnc": "latest",
+        "acdoc": "latest",
+        "acdx": "latest"
+    }
+}

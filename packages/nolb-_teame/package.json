@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_teame",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@teamenki/dummy": "latest",
+        "@teamenki/semantic-release-fun": "latest",
+        "@teamertibebu/tiny": "latest",
+        "@teamest/calendar-generator": "latest",
+        "@teamest/internal-season-client": "latest",
+        "@teamest/internal-season-common": "latest",
+        "@teamest/internal-season-server": "latest",
+        "@teamest/internal-user-client": "latest",
+        "@teamest/internal-user-server": "latest",
+        "@teamest/knex-service": "latest",
+        "@teamest/models": "latest",
+        "@teamest/process-manager": "latest",
+        "@teamest/scrapers": "latest",
+        "@teamevie/discord.js": "latest",
+        "@teamevie/env": "latest",
+        "@teamevie/tsconfig": "latest",
+        "@teamexos/mbo-api": "latest",
+        "@teamexos/wistia-api": "latest"
+    }
+}

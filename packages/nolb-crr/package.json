@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-crr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "crr": "latest",
+        "crr-bing-pic": "latest",
+        "crr-del-dir": "latest",
+        "crr-move-download-file": "latest",
+        "crr-open": "latest",
+        "crr-social": "latest",
+        "crrchz_ui": "latest",
+        "crry": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-ngz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ngz": "latest",
+        "ngz-build": "latest",
+        "ngz-cache": "latest",
+        "ngz-cache-core": "latest",
+        "ngz-cache-fs-storage": "latest",
+        "ngz-cache-platform-browser": "latest",
+        "ngz-cache-platform-server": "latest",
+        "ngz-charts": "latest",
+        "ngz-config-core": "latest",
+        "ngz-config-http-loader": "latest",
+        "ngz-cookies": "latest",
+        "ngz-formly-material-file": "latest",
+        "ngz-grid": "latest",
+        "ngz-lightbox": "latest",
+        "ngzen": "latest",
+        "ngzerro-scss-theme-plugin": "latest",
+        "ngzip": "latest"
+    }
+}

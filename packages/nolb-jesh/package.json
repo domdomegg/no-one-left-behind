@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-jesh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jesh": "latest",
+        "jeshka": "latest",
+        "jeshka-legacy-crypto-utils": "latest",
+        "jeshka-lib": "latest",
+        "jeshka-lib-js": "latest",
+        "jeshka-qmanager": "latest",
+        "jeshka-secp256k1": "latest",
+        "jeshwan": "latest"
+    }
+}

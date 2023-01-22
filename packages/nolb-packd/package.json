@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-packd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "packd": "latest",
+        "packdemo27": "latest",
+        "packdemoofcarl": "latest",
+        "packdemp27": "latest",
+        "packdge-learn": "latest",
+        "packdir-cli": "latest",
+        "packdiv123": "latest",
+        "packdom": "latest",
+        "packdown": "latest",
+        "packdownjs": "latest"
+    }
+}

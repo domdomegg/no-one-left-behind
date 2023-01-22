@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-shiq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shiq-frame-print": "latest",
+        "shiqi": "latest",
+        "shiqi-tools": "latest",
+        "shiqi11": "latest",
+        "shiqianqiana": "latest",
+        "shiqianqiana-excel": "latest",
+        "shiqianqiana-express": "latest",
+        "shiqianqiana-svg": "latest",
+        "shiqianqiana-ui": "latest",
+        "shiqicong": "latest",
+        "shiqiri": "latest",
+        "shiqiyue-linkedin-private-api": "latest",
+        "shiqiyuebaileys": "latest",
+        "shiqiyuebaileys-md": "latest",
+        "shiqiyuebaileysmultidevice": "latest",
+        "shiqiyuephone": "latest",
+        "shiqiyuesysteminformation": "latest"
+    }
+}

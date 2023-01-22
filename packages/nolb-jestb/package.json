@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-jestb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jestbox-builder": "latest",
+        "jestbox-web": "latest",
+        "jestbox-webpack-plugin": "latest",
+        "jestbuddy": "latest"
+    }
+}

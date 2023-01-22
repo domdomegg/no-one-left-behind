@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_s2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@s20.ai/capture-sdk": "latest",
+        "@s20.ai/safecam-360-rn": "latest",
+        "@s20.ai/safecam-360-rn-v2": "latest",
+        "@s20.ai/safecam-components-rn": "latest",
+        "@s24software/ckeditor5-build-decoupled-document": "latest",
+        "@s25digital/express-mw-logger": "latest",
+        "@s25g5d4/mi-aqara-sdk": "latest",
+        "@s25g5d4/numjs": "latest",
+        "@s25g5d4/v2gif": "latest",
+        "@s2626/xxx": "latest",
+        "@s2b/react-qr-scanner": "latest",
+        "@s2g/borsh": "latest",
+        "@s2g/ipfs-pinning-adapter": "latest",
+        "@s2g/s2g-client": "latest",
+        "@s2h/jsutils": "latest",
+        "@s2hand/orm-typeorm": "latest",
+        "@s2kagency/react-dropzone": "latest",
+        "@s2maps/better-sqlite3": "latest",
+        "@s2maps/integer": "latest",
+        "@s2marine/babel-preset-shinesea": "latest",
+        "@s2s/language-service-client": "latest",
+        "@s2study/draw-api": "latest",
+        "@s2study/draw-canvas2d-renderer": "latest",
+        "@s2study/draw-editor": "latest",
+        "@s2study/draw-history": "latest",
+        "@s2study/draw-updater": "latest",
+        "@s2study/draw-viewer": "latest",
+        "@s2terminal/every-url": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_devr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@devraelfreeze/discordjs-antispam": "latest",
+        "@devraelfreeze/discordjs-pagination": "latest",
+        "@devraelfreeze/i18n": "latest",
+        "@devraiden/api": "latest",
+        "@devransimsek/perfanalytics-js": "latest",
+        "@devrec/ng-timer": "latest",
+        "@devrecipe/meshinum": "latest",
+        "@devreltools/schema": "latest",
+        "@devronder/lotide": "latest",
+        "@devrsi0n/eslint-config-base": "latest",
+        "@devrsi0n/eslint-config-react": "latest",
+        "@devrsi0n/gitalk": "latest",
+        "@devrsi0n/next-mdx-remote": "latest",
+        "@devrunning/atlas": "latest",
+        "@devrunning/eslint-config": "latest",
+        "@devrunning/react": "latest",
+        "@devrunning/tokens": "latest",
+        "@devrunning/ts-config": "latest"
+    }
+}

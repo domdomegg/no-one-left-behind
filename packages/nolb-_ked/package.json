@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_ked",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kedachen/ruler": "latest",
+        "@kedao/convert": "latest",
+        "@kedao/editor": "latest",
+        "@kedao/finder": "latest",
+        "@kedao/utils": "latest",
+        "@kedarv/bugsnag-sourcemap-webpack-plugin": "latest",
+        "@kedarv/kexec": "latest",
+        "@kedikon/adashboard": "latest",
+        "@keditor/components": "latest",
+        "@kedos-srl/3dera-js": "latest",
+        "@kedoska/exp2slack": "latest",
+        "@kedoska/resty": "latest",
+        "@kedrovski/gs-localize": "latest",
+        "@kedud/react-admin-firebase": "latest",
+        "@kedungpring/common": "latest"
+    }
+}

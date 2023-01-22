@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-vue-mj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-mj-daterangepicker": "latest",
+        "vue-mj-daterangepicker-ctech": "latest",
+        "vue-mj-daterangepicker-custom-presets": "latest",
+        "vue-mj-daterangepicker-with-sass": "latest",
+        "vue-mj-input": "latest"
+    }
+}

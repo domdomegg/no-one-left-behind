@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-sqb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sqb": "latest",
+        "sqb-connect": "latest",
+        "sqb-connect-oracle": "latest",
+        "sqb-connect-oracledb": "latest",
+        "sqb-connect-pg": "latest",
+        "sqb-connect-sqlite": "latest",
+        "sqb-custom-component": "latest",
+        "sqb-oracledb": "latest",
+        "sqb-serializer-mssql": "latest",
+        "sqb-serializer-oracle": "latest",
+        "sqb-serializer-pg": "latest",
+        "sqb-ui": "latest",
+        "sqb-util": "latest",
+        "sqbridge": "latest"
+    }
+}

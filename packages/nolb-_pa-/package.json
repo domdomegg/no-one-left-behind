@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_pa-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pa-cli-dev/core": "latest",
+        "@pa-cli-dev/utils": "latest",
+        "@pa-media-group/iptc-ninjs-2-type": "latest",
+        "@pa-media-group/ts-iptc-ninjs-type": "latest",
+        "@pa-terminfindung/api-client-dev": "latest",
+        "@pa-terminfindung/api-client-prod": "latest"
+    }
+}

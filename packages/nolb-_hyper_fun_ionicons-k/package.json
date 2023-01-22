@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_ionicons-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/ionicons-key": "latest",
+        "@hyper.fun/ionicons-key-outline": "latest",
+        "@hyper.fun/ionicons-key-sharp": "latest",
+        "@hyper.fun/ionicons-keypad": "latest",
+        "@hyper.fun/ionicons-keypad-outline": "latest",
+        "@hyper.fun/ionicons-keypad-sharp": "latest"
+    }
+}

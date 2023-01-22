@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-taig",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "taig": "latest",
+        "taiga": "latest",
+        "taiga-client": "latest",
+        "taiga-lang": "latest",
+        "taiga-njs": "latest",
+        "taiga-ui": "latest",
+        "taiga.js": "latest",
+        "taigacli": "latest",
+        "taigadarktheme": "latest",
+        "taigaio-client": "latest",
+        "taigeair-github-example": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-aws-n",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aws-netcfg-util": "latest",
+        "aws-next": "latest",
+        "aws-node-launcher": "latest",
+        "aws-node-project-1": "latest",
+        "aws-node-sns": "latest",
+        "aws-node-util": "latest",
+        "aws-node-utils": "latest",
+        "aws-node-utils-package-example": "latest",
+        "aws-nodejs": "latest",
+        "aws-nodejs-client": "latest",
+        "aws-nodejs-kit": "latest",
+        "aws-nodejs-layer": "latest",
+        "aws-nodejs-logger": "latest",
+        "aws-nodejs-sample": "latest",
+        "aws-nodejs-sample-poscai42": "latest",
+        "aws-nodejs-typescript": "latest",
+        "aws-northstar": "latest",
+        "aws-nuke": "latest",
+        "aws-nuke-configure": "latest"
+    }
+}

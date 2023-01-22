@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-c5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "c5": "latest",
+        "c5-angular-popovers": "latest",
+        "c5-base-converter": "latest",
+        "c5-basic-array-module": "latest",
+        "c5-cli": "latest",
+        "c5-code-editor": "latest",
+        "c5-envelope": "latest",
+        "c5-github-repos-search": "latest",
+        "c5-js-utils": "latest",
+        "c5-pick-color": "latest",
+        "c5-random-string-module": "latest",
+        "c5-react-library": "latest",
+        "c5-react-utils": "latest",
+        "c5-template-react-component-library": "latest",
+        "c5-test-library": "latest",
+        "c5-theme": "latest",
+        "c5-tiny-npm-deploy": "latest",
+        "c5-toasts": "latest",
+        "c5-tooltips": "latest",
+        "c5-zf-ui": "latest",
+        "c5.js": "latest",
+        "c50n": "latest",
+        "c5cl": "latest",
+        "c5m7b4-kreat": "latest",
+        "c5t-current-schema-ts": "latest",
+        "c5tojson": "latest"
+    }
+}

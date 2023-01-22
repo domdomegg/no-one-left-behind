@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-ream",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ream": "latest",
+        "ream-core": "latest",
+        "ream-init": "latest",
+        "ream-renderer-vue": "latest",
+        "ream-server": "latest",
+        "ream-typescript": "latest",
+        "reamc": "latest",
+        "reamd": "latest",
+        "reamde": "latest",
+        "reamey-auto-router-cli": "latest",
+        "reamix": "latest",
+        "reaml": "latest",
+        "reaml-icons": "latest",
+        "reaml-next": "latest",
+        "reaml-ppx": "latest",
+        "reamp": "latest",
+        "reams-aws-appsync": "latest",
+        "reams-aws-appsync-react": "latest",
+        "reamv": "latest"
+    }
+}

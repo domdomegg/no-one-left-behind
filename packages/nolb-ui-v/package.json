@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-ui-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ui-v10": "latest",
+        "ui-v4": "latest",
+        "ui-validations": "latest",
+        "ui-validator": "latest",
+        "ui-vat-sun": "latest",
+        "ui-vat-weather": "latest",
+        "ui-vite-ray": "latest",
+        "ui-vito": "latest",
+        "ui-vue": "latest",
+        "ui-vue-antd": "latest",
+        "ui-vue-antd-test": "latest",
+        "ui-vue-commons": "latest",
+        "ui-vue-core": "latest",
+        "ui-vue-form": "latest",
+        "ui-vue-rojin": "latest",
+        "ui-vue-select": "latest",
+        "ui-vue-to": "latest",
+        "ui-vue-xy": "latest",
+        "ui-vue2": "latest",
+        "ui-vue2-webpack3": "latest",
+        "ui-vue3": "latest"
+    }
+}

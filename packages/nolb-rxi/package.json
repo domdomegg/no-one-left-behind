@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-rxi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rxi": "latest",
+        "rxi18n": "latest",
+        "rxidb": "latest",
+        "rxifire": "latest",
+        "rxify": "latest",
+        "rxify-class": "latest",
+        "rxify-webworker": "latest",
+        "rxing-wasm": "latest",
+        "rxinit": "latest",
+        "rxio": "latest",
+        "rxios": "latest",
+        "rxis": "latest",
+        "rxiter": "latest"
+    }
+}

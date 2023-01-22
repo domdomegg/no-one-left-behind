@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_prx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@prxima/ngx-form": "latest",
+        "@prxima/services-manager": "latest",
+        "@prxm/clickhouse": "latest",
+        "@prxm/particles": "latest",
+        "@prxmat/eslint-config": "latest",
+        "@prxmat/eslint-config-basic": "latest",
+        "@prxmat/eslint-config-react": "latest",
+        "@prxmat/eslint-config-ts": "latest",
+        "@prxmat/eslint-config-vue": "latest",
+        "@prxmat/nestjs-eventsourcing": "latest"
+    }
+}

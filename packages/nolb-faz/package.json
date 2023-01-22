@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-faz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "faz": "latest",
+        "faz-cli": "latest",
+        "faz-ui": "latest",
+        "faz-um-pix": "latest",
+        "faza": "latest",
+        "fazal_scrapping_utils": "latest",
+        "fazan19": "latest",
+        "fazana": "latest",
+        "fazba-cli": "latest",
+        "faze": "latest",
+        "faze-cli": "latest",
+        "faze-components": "latest",
+        "fazenecture": "latest",
+        "fazer": "latest",
+        "fazer-extractor": "latest",
+        "fazer-reverse-selectors": "latest",
+        "fazer-selectors": "latest",
+        "fazigao": "latest",
+        "fazilet-cli": "latest",
+        "fazilet-scrapper": "latest",
+        "fazlidinmatematikasi": "latest",
+        "fazpass-react-native-sdk": "latest",
+        "fazwaz-twilio": "latest",
+        "fazz-bizz-barr": "latest",
+        "fazzywazzy": "latest"
+    }
+}

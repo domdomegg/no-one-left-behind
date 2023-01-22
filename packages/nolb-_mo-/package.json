@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_mo-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mo-cli-dev/core": "latest",
+        "@mo-cli-dev/utils": "latest",
+        "@mo-demo/cli": "latest",
+        "@mo-demo/cli-shared-utils": "latest",
+        "@mo-demox/cli": "latest",
+        "@mo-demox/cli-shared-utils": "latest",
+        "@mo-demox/t1": "latest",
+        "@mo-demox/utils2": "latest",
+        "@mo-fang/heft-rig": "latest",
+        "@mo-fang/materials": "latest",
+        "@mo-fang/runtime": "latest",
+        "@mo-fang/sdk": "latest",
+        "@mo-fang/types": "latest",
+        "@mo-fang/utils": "latest",
+        "@mo-platform/auth": "latest",
+        "@mo-platform/cli": "latest",
+        "@mo-platform/multidict": "latest",
+        "@mo-tools-engine/common": "latest",
+        "@mo-tools-engine/core": "latest",
+        "@mo-tools-engine/sdk": "latest",
+        "@mo-tools-engine/ui": "latest",
+        "@mo-yu/core": "latest",
+        "@mo-yu/vue": "latest"
+    }
+}

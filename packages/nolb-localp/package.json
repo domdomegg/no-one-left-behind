@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-localp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "localpack": "latest",
+        "localpdf": "latest",
+        "localpersistence": "latest",
+        "localplayground": "latest",
+        "localpop": "latest",
+        "localporridge": "latest",
+        "localport": "latest",
+        "localpracs": "latest",
+        "localpress": "latest",
+        "localproxy": "latest",
+        "localproxypool": "latest",
+        "localpublishable": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-electron-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "electron-ya-ipc": "latest",
+        "electron-yach-msi": "latest",
+        "electron-yesterday": "latest"
+    }
+}

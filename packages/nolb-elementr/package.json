@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-elementr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "elementr0esizedetector": "latest",
+        "elementree": "latest",
+        "elementry": "latest"
+    }
+}

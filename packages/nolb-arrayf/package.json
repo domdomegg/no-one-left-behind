@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-arrayf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "arrayFuncs": "latest",
+        "arrayfieldcopy": "latest",
+        "arrayfile": "latest",
+        "arrayfilter": "latest",
+        "arrayfilters": "latest",
+        "arrayfire-js": "latest",
+        "arrayfire_js": "latest",
+        "arrayflow": "latest",
+        "arrayformatter": "latest",
+        "arrayframe": "latest",
+        "arrayfriend": "latest"
+    }
+}

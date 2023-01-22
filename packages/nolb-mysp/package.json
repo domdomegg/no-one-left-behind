@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-mysp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "myspace-case": "latest",
+        "myspace-fd": "latest",
+        "myspace-green": "latest",
+        "myspaceapi-rewritten": "latest",
+        "myspackage": "latest",
+        "myspeech": "latest",
+        "myspeed": "latest",
+        "myspider": "latest",
+        "mysportsfeeds-node": "latest",
+        "myspw123": "latest"
+    }
+}

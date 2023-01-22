@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-winc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "winc": "latest",
+        "wincard": "latest",
+        "wincat": "latest",
+        "winccoanodejs": "latest",
+        "wincent-test-package": "latest",
+        "winch": "latest",
+        "winchan": "latest",
+        "winchester": "latest",
+        "winchester180ppx": "latest",
+        "winchester180px": "latest",
+        "winchester32kbps": "latest",
+        "winchi": "latest",
+        "wincleaner": "latest",
+        "wincom-login": "latest",
+        "wincom-share": "latest",
+        "wincrash.js": "latest",
+        "wincred": "latest",
+        "wincredmgr": "latest",
+        "wincrypt": "latest",
+        "winctl": "latest",
+        "winctl-compat": "latest",
+        "winctl-kh": "latest",
+        "wincurl": "latest"
+    }
+}

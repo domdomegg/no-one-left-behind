@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-kuo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "kuo_myset1023": "latest",
+        "kuodada": "latest",
+        "kuokoukele": "latest",
+        "kuolintoive-unit": "latest",
+        "kuoll": "latest",
+        "kuolun": "latest",
+        "kuonang": "latest",
+        "kuote-util-date": "latest",
+        "kuoye_qc": "latest",
+        "kuozhan-yuliaoyu": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-minp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "minp": "latest",
+        "minpackmod": "latest",
+        "minpatch": "latest",
+        "minpic": "latest",
+        "minplate": "latest",
+        "minpng": "latest",
+        "minpopup": "latest",
+        "minprogram": "latest",
+        "minprogram-iconfont": "latest",
+        "minprops": "latest",
+        "minpubsub": "latest"
+    }
+}

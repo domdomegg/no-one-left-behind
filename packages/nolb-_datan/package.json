@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_datan",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datanac/datanac-api-toolkit": "latest",
+        "@datanac/datanac-mui-toolkit": "latest",
+        "@datanac/datanac-voice-toolkit": "latest",
+        "@datank/julieta-nidavellir-library": "latest",
+        "@datank/nidavellir": "latest"
+    }
+}

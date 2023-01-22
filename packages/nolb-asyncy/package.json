@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-asyncy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "asyncy": "latest",
+        "asyncy-node": "latest",
+        "asyncy-player": "latest",
+        "asyncy-ui-components": "latest",
+        "asyncy-vue": "latest",
+        "asyncy-vue-components": "latest",
+        "asyncyo": "latest"
+    }
+}

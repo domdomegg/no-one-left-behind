@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-react2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react2": "latest",
+        "react2-cornerstone-viewport": "latest",
+        "react2-lighthouse-viewer": "latest",
+        "react2-vtkjs-viewport": "latest",
+        "react20191022": "latest",
+        "react20200521": "latest",
+        "react29062018": "latest",
+        "react2amp": "latest",
+        "react2angular": "latest",
+        "react2angular-shared-context": "latest",
+        "react2angular-tst": "latest",
+        "react2angularjs": "latest",
+        "react2canvas": "latest",
+        "react2desktop": "latest",
+        "react2eex": "latest",
+        "react2eragon518": "latest",
+        "react2html": "latest",
+        "react2pack": "latest",
+        "react2pdf": "latest",
+        "react2pdfpages": "latest",
+        "react2schema": "latest",
+        "react2screenshot": "latest",
+        "react2tree": "latest",
+        "react2vue": "latest",
+        "react2wc": "latest",
+        "react2xlsx": "latest",
+        "react2xml": "latest"
+    }
+}

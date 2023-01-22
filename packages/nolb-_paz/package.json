@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_paz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pazar/hardhat": "latest",
+        "@pazila/react": "latest",
+        "@pazila/utils": "latest",
+        "@paziresh24/splunk-event": "latest",
+        "@pazoc/lotide": "latest",
+        "@paztis/eslint-plugin-import": "latest",
+        "@paztis/json-schema-ref-parser": "latest",
+        "@paztis/redux-storage": "latest",
+        "@paztis/typedoc": "latest",
+        "@pazurite/prop-enhancers": "latest",
+        "@pazurite/stylelint-config": "latest",
+        "@pazy/saml2-js": "latest",
+        "@pazzeg/cliguigui": "latest",
+        "@pazzitul/robot-map-editor": "latest",
+        "@pazzle/antd-widgets": "latest",
+        "@pazzle/chartjs-widgets": "latest",
+        "@pazzle/core": "latest",
+        "@pazzle/prettier-config": "latest",
+        "@pazzle/rollup-test": "latest",
+        "@pazzle/runtime": "latest",
+        "@pazzle/typescript-config": "latest",
+        "@pazznetwork/ngx-chat": "latest",
+        "@pazznetwork/pazz-apply-job": "latest",
+        "@pazznetwork/strophe.ts": "latest",
+        "@pazznetwork/strophets": "latest"
+    }
+}

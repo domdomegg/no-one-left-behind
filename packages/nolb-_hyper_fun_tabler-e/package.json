@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_tabler-e",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/tabler-ear": "latest",
+        "@hyper.fun/tabler-ear-off": "latest",
+        "@hyper.fun/tabler-edit": "latest",
+        "@hyper.fun/tabler-edit-circle": "latest",
+        "@hyper.fun/tabler-egg": "latest",
+        "@hyper.fun/tabler-elevator": "latest",
+        "@hyper.fun/tabler-emergency-bed": "latest",
+        "@hyper.fun/tabler-emphasis": "latest",
+        "@hyper.fun/tabler-engine": "latest",
+        "@hyper.fun/tabler-equal": "latest",
+        "@hyper.fun/tabler-equal-not": "latest",
+        "@hyper.fun/tabler-eraser": "latest",
+        "@hyper.fun/tabler-exchange": "latest",
+        "@hyper.fun/tabler-exclamation-mark": "latest",
+        "@hyper.fun/tabler-exposure": "latest",
+        "@hyper.fun/tabler-external-link": "latest",
+        "@hyper.fun/tabler-eye": "latest",
+        "@hyper.fun/tabler-eye-check": "latest",
+        "@hyper.fun/tabler-eye-off": "latest",
+        "@hyper.fun/tabler-eye-table": "latest",
+        "@hyper.fun/tabler-eyeglass": "latest",
+        "@hyper.fun/tabler-eyeglass2": "latest"
+    }
+}

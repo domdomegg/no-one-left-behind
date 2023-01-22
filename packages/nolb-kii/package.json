@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-kii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "kii": "latest",
+        "kii-analytics-sdk": "latest",
+        "kii-cli": "latest",
+        "kii-cloud-sdk": "latest",
+        "kii-cloud-sdk-react-native": "latest",
+        "kii-cordova-plugin": "latest",
+        "kii-gateway-agent": "latest",
+        "kii-npm-module-practice": "latest",
+        "kii-reporting-2": "latest",
+        "kii-universal-ui": "latest",
+        "kiibos": "latest",
+        "kiichi-sugihara-sample": "latest",
+        "kiingo-api": "latest",
+        "kiipu-honey": "latest",
+        "kiite": "latest",
+        "kiite-ipc": "latest",
+        "kiiti-teste": "latest",
+        "kiitos": "latest"
+    }
+}

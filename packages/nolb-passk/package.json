@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-passk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "passkee": "latest",
+        "passkeeper": "latest",
+        "passkeeper-cli": "latest",
+        "passkepr": "latest",
+        "passkey": "latest",
+        "passkey-auth": "latest",
+        "passkey-cli": "latest",
+        "passkey-sdk": "latest",
+        "passkey-zip": "latest",
+        "passkeys": "latest",
+        "passkit": "latest",
+        "passkit-generator": "latest",
+        "passkit-intl-tel-input": "latest",
+        "passkit-json-ts": "latest",
+        "passkit-node-sdk": "latest",
+        "passkit-sdk": "latest",
+        "passkit-v2-sdk": "latest",
+        "passkontrolle": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_maxp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@maxpaj/create-react-component": "latest",
+        "@maxpike/vue": "latest",
+        "@maxplanck/scroll-lock": "latest",
+        "@maxpolun/podqueue-ui-core": "latest"
+    }
+}

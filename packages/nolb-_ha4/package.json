@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_ha4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ha4us/adapter": "latest",
+        "@ha4us/adapter.history": "latest",
+        "@ha4us/adapter.rest": "latest",
+        "@ha4us/core": "latest",
+        "@ha4us/fritz.adapter": "latest",
+        "@ha4us/harmony.adapter": "latest",
+        "@ha4us/history.adapter": "latest",
+        "@ha4us/hm.adapter": "latest",
+        "@ha4us/hue.adapter": "latest",
+        "@ha4us/landroid.adapter": "latest",
+        "@ha4us/ng-gui": "latest",
+        "@ha4us/rest.adapter": "latest",
+        "@ha4us/rfid.adapter": "latest",
+        "@ha4us/script.adapter": "latest",
+        "@ha4us/sonos.adapter": "latest",
+        "@ha4us/telegram.adapter": "latest"
+    }
+}

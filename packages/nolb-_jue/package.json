@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_jue",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@juegotest/facebooklibrary": "latest",
+        "@jueinin/axios-mock": "latest",
+        "@jueinin/shared": "latest",
+        "@jueinin/vue-query": "latest",
+        "@jueit/sayhello": "latest",
+        "@juel/create-project": "latest",
+        "@juel/hooks": "latest",
+        "@juel/package": "latest",
+        "@juergen.mutschall/testproject_node2": "latest",
+        "@juerry/lighthouse-cli": "latest",
+        "@juexro/custom-cli": "latest",
+        "@juexro/markdown-it-highlight-code-block": "latest",
+        "@juexro/markdown2html": "latest",
+        "@juexro/multi-cli": "latest",
+        "@juexro/open-browser-webpack-plugin": "latest",
+        "@juexro/react-components": "latest",
+        "@juexro/vue-multi-cli": "latest",
+        "@juexro/zcmd": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_c6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@c64emu/c64asm": "latest",
+        "@c64emu/c64emu": "latest",
+        "@c6bank/diamond": "latest",
+        "@c6fc/sonnetry": "latest",
+        "@c6fc/sonnetry_module_identity": "latest",
+        "@c6fc/terraform": "latest",
+        "@c6o/bundle": "latest",
+        "@c6o/cli": "latest",
+        "@c6o/conventional-changelog": "latest",
+        "@c6o/daemon": "latest",
+        "@c6o/kubeclient": "latest",
+        "@c6o/kubeclient-contracts": "latest",
+        "@c6o/kubeclient-generator": "latest",
+        "@c6o/kubeclient-helpers": "latest",
+        "@c6o/kubeclient-resources": "latest",
+        "@c6o/kubefwd": "latest",
+        "@c6o/ui-theme": "latest",
+        "@c6o/ui-web": "latest"
+    }
+}

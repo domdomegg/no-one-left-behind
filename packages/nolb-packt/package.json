@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-packt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "packt-ebook-downloader": "latest",
+        "packt-mastering-node-file-share-data": "latest",
+        "packt-sardines": "latest",
+        "packtag": "latest",
+        "packteer": "latest",
+        "packtes": "latest",
+        "packtest-urd": "latest",
+        "packtest1": "latest",
+        "packtest11": "latest",
+        "packtest_qiping": "latest",
+        "packtester": "latest",
+        "packtestmissliu": "latest",
+        "packthi": "latest",
+        "packtime": "latest",
+        "packtools": "latest",
+        "packtpub-cli": "latest",
+        "packtpub-free": "latest",
+        "packtracker-nextjs-webpack-plugin": "latest",
+        "packttest123": "latest",
+        "packtwo": "latest"
+    }
+}

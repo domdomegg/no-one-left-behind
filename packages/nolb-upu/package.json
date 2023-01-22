@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-upu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "upu": "latest",
+        "upu-postcode": "latest",
+        "upublish_txw": "latest",
+        "upubsub": "latest",
+        "upui": "latest",
+        "upui-vue": "latest",
+        "upundit-ui": "latest",
+        "upup": "latest",
+        "upupming-mirror": "latest",
+        "upupup": "latest",
+        "upupwhjaa": "latest",
+        "upush": "latest",
+        "upush2-electron-client": "latest",
+        "upush2-uni-client": "latest",
+        "upush2-web-client": "latest"
+    }
+}

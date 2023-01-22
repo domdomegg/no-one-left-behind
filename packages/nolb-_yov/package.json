@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_yov",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yovafree/kubernetes-client-node": "latest",
+        "@yovelino/geo-tools": "latest",
+        "@yovelsapir-sgtickets/common": "latest",
+        "@yovelsapir/dappeteer": "latest",
+        "@yovelsapir_sgtickets/common": "latest"
+    }
+}

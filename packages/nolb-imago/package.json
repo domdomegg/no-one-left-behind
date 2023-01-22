@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-imago",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "imago": "latest",
+        "imago-core": "latest",
+        "imago-gulp-angular": "latest",
+        "imago-job-logger": "latest",
+        "imago-js": "latest",
+        "imago-mixed-eng-chi-tokenizer": "latest",
+        "imago-sendemail": "latest",
+        "imago-test-package": "latest",
+        "imago.angular": "latest",
+        "imagoodman": "latest",
+        "imagozone": "latest"
+    }
+}

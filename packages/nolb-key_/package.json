@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-key_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "key.js": "latest",
+        "key.min.js": "latest",
+        "key.path": "latest",
+        "key.pics": "latest",
+        "key.val": "latest",
+        "key_borad_change": "latest",
+        "key_codes": "latest",
+        "key_inputs": "latest",
+        "key_mirror": "latest",
+        "key_mutex": "latest",
+        "key_value_model": "latest"
+    }
+}

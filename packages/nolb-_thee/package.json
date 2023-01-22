@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_thee",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@theedoran/bootstrap": "latest",
+        "@theedoran/eslint-config": "latest",
+        "@theedoran/eslint-config-next": "latest",
+        "@theedoran/passport-magic-link": "latest",
+        "@theedoran/tsconfig": "latest",
+        "@theeko/gatsby-theme-events": "latest",
+        "@theelbster/github-semantic-version": "latest",
+        "@theemeraldtree/emeraldui": "latest",
+        "@theemrio/j-pdfjson": "latest",
+        "@theenderofficial/custom-promise": "latest",
+        "@theerawat32/tiny": "latest",
+        "@theethawat/fb8-capacitor-firebase-auth": "latest",
+        "@theeventdiscoverycompany/react-stripe-checkout": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_miw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@miwa/string-replace-loader": "latest",
+        "@miweb/design-system": "latest",
+        "@miweb/icons": "latest",
+        "@miwebb/eslint-config": "latest",
+        "@miwebb/prettier-config": "latest",
+        "@miwillhite/assurant-demo-dashboard": "latest",
+        "@miwos/bridge": "latest",
+        "@miwt/adb": "latest",
+        "@miwt/novnc": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-rola",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rola": "latest",
+        "rolagem": "latest",
+        "rolancia-abstract-logger": "latest",
+        "rolancia-keymanager": "latest",
+        "rolancia-network": "latest",
+        "rolancia_mailer": "latest",
+        "roland": "latest",
+        "roland-checksum": "latest",
+        "roland-sysex.js": "latest",
+        "rolandbergergraph": "latest",
+        "rolandmueller-palindrome": "latest"
+    }
+}

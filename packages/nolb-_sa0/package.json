@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_sa0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sa0001/api-validator": "latest",
+        "@sa0001/cakefile": "latest",
+        "@sa0001/coffee-cache": "latest",
+        "@sa0001/deep-diff": "latest",
+        "@sa0001/fn-typer": "latest",
+        "@sa0001/grunt-contrib-coffee": "latest",
+        "@sa0001/json64": "latest",
+        "@sa0001/luxon-dtz": "latest",
+        "@sa0001/pretty-print": "latest",
+        "@sa0001/simple-proxy": "latest",
+        "@sa0001/sql-view-builder": "latest",
+        "@sa0001/supermodel": "latest",
+        "@sa0001/tap-teamcity": "latest",
+        "@sa0001/type-of": "latest",
+        "@sa0001/wrap-tap": "latest"
+    }
+}

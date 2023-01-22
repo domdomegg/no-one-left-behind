@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-wau",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wau": "latest",
+        "wau2": "latest",
+        "waua_npmtest": "latest",
+        "waud.js": "latest",
+        "waudbase64": "latest",
+        "waudio": "latest",
+        "waudsprite": "latest",
+        "wauifhifnp": "latest",
+        "wauker": "latest",
+        "wault": "latest",
+        "wauth-token": "latest",
+        "wauw-logger": "latest"
+    }
+}

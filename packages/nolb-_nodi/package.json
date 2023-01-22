@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_nodi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nodi/bunbun": "latest",
+        "@nodi/core": "latest",
+        "@nodiator/core": "latest",
+        "@nodiator/extension-logger": "latest",
+        "@nodiator/nest": "latest",
+        "@nodic/data-structures": "latest",
+        "@nodifox/nfx-ng-popups": "latest",
+        "@nodifox/nfx-ng-typeface-bebas": "latest",
+        "@nodifox/nfx-ng-typeface-montserrat": "latest",
+        "@nodifox/nfx-ng-typeface-nunito": "latest",
+        "@nodifox/ng-popups": "latest",
+        "@nodigo/json-db": "latest",
+        "@noding/basic": "latest",
+        "@noding/cli": "latest",
+        "@noding/decorator": "latest",
+        "@noding/di": "latest",
+        "@noding/framework": "latest",
+        "@noding/install": "latest",
+        "@noding/next": "latest",
+        "@noding/pro": "latest",
+        "@noding/router": "latest",
+        "@nodinite/logapiclient": "latest",
+        "@nodium/tsyringe": "latest"
+    }
+}

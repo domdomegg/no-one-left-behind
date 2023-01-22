@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-jqb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jqb-array-remove": "latest",
+        "jqb-button": "latest",
+        "jqb-extend": "latest",
+        "jqb-form": "latest",
+        "jqb-form-item": "latest",
+        "jqb-input": "latest",
+        "jqb-isarray": "latest",
+        "jqb-ko-ace": "latest",
+        "jqb-ko-component": "latest",
+        "jqb-ko-fastclick": "latest",
+        "jqb-lifecycle": "latest",
+        "jqb-pages": "latest",
+        "jqb-random": "latest",
+        "jqb-router": "latest",
+        "jqb-subscribable": "latest",
+        "jqbase64": "latest",
+        "jqbrick": "latest",
+        "jqbuild": "latest"
+    }
+}

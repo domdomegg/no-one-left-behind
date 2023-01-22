@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-checka",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "checka-first-module": "latest",
+        "checka11y-css": "latest",
+        "checkable-material-ui": "latest",
+        "checkadp": "latest",
+        "checkall": "latest",
+        "checkapi": "latest",
+        "checkapi.js": "latest",
+        "checkavailabilitypackage": "latest",
+        "checkavailibilitytestbutton": "latest",
+        "checkavailibityform": "latest"
+    }
+}

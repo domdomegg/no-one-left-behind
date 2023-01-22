@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-miniv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "minivaline": "latest",
+        "minivan": "latest",
+        "minivault": "latest",
+        "minivault-core": "latest",
+        "minivault-rest": "latest",
+        "minivents": "latest",
+        "miniverse": "latest",
+        "miniverse-infographic-dev": "latest",
+        "miniversion-components": "latest",
+        "miniview": "latest",
+        "minivision-components": "latest",
+        "minivlad": "latest",
+        "minivnc": "latest",
+        "minivue-hua": "latest",
+        "minivue-sjm": "latest",
+        "minivue3": "latest"
+    }
+}

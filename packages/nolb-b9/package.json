@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-b9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "b9": "latest",
+        "b9-channels": "latest",
+        "b9-debug": "latest",
+        "b9-logger": "latest",
+        "b9-slander": "latest",
+        "b9-users": "latest",
+        "b9.5.1-1-1-1-1": "latest",
+        "b9.5.1-nikodimov_maxim": "latest",
+        "b927": "latest",
+        "b951_practice": "latest",
+        "b951_satdarovroman": "latest",
+        "b951_tavator": "latest",
+        "b9_2_7_aloskutov": "latest",
+        "b9_5_1_aloskutov": "latest",
+        "b9_artifactory": "latest",
+        "b9_npm": "latest"
+    }
+}

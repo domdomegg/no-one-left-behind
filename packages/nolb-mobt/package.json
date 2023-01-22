@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-mobt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mobtechcli": "latest",
+        "mobtest": "latest",
+        "mobtexting-nodejs": "latest",
+        "mobtimer-api": "latest",
+        "mobtimer-api2": "latest",
+        "mobtimer-test-npmjs": "latest"
+    }
+}

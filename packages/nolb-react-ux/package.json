@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-react-ux",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-ux": "latest",
+        "react-ux-components": "latest",
+        "react-ux-form": "latest",
+        "react-ux-forms": "latest",
+        "react-ux-password-field": "latest",
+        "react-uxcustom-slider": "latest",
+        "react-uxdm-editor": "latest",
+        "react-uxp-spectrum": "latest"
+    }
+}

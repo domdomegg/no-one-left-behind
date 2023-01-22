@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_teamy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@teamy/http-client": "latest",
+        "@teamy/rt-http-client": "latest",
+        "@teamy/rt-utils": "latest",
+        "@teamy/teamy-ui": "latest",
+        "@teamy/teamy-utils": "latest",
+        "@teamyapp/ext": "latest",
+        "@teamyapp/libs": "latest"
+    }
+}

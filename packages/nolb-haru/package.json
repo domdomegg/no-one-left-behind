@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-haru",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "haru": "latest",
+        "haru-demo": "latest",
+        "haru-nodejs-analysis": "latest",
+        "haru-nodejs-store": "latest",
+        "haru-nodejs-util": "latest",
+        "haru-react-shared-ui": "latest",
+        "haru-ui": "latest",
+        "haru2-utils": "latest",
+        "harubase": "latest",
+        "harubootstrap": "latest",
+        "haruharu": "latest",
+        "haruka": "latest",
+        "harukaze": "latest",
+        "harukaze-router": "latest",
+        "harukaze-router-bootstrap": "latest",
+        "harumaxy-firequiz": "latest",
+        "harumi": "latest",
+        "haruna": "latest",
+        "harunpiric-frame-print": "latest",
+        "harurow-ejdict": "latest",
+        "harusame": "latest",
+        "harusei": "latest"
+    }
+}

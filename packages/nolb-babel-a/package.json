@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-babel-a",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-adapter": "latest",
+        "babel-add-flow-comments": "latest",
+        "babel-address-component-cart": "latest",
+        "babel-aimport": "latest",
+        "babel-alias-quokka-plugin": "latest",
+        "babel-all": "latest",
+        "babel-alt": "latest",
+        "babel-angular": "latest",
+        "babel-angular-jsx": "latest",
+        "babel-as-dep": "latest",
+        "babel-as-devdep": "latest",
+        "babel-ast-converter": "latest",
+        "babel-astring-generator": "latest",
+        "babel-asx-parser": "latest",
+        "babel-async-chunkname-plugin": "latest",
+        "babel-async-context": "latest",
+        "babel-auto-break": "latest",
+        "babel-auto-export": "latest",
+        "babel-auto-tracker": "latest",
+        "babel-auto-try-async": "latest",
+        "babel-autoapi": "latest",
+        "babel-autobind": "latest",
+        "babel-autonode": "latest",
+        "babel-autonode-init": "latest",
+        "babel-autonode-loader": "latest",
+        "babel-await-add-catch": "latest"
+    }
+}

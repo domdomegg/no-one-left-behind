@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-axc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "axc": "latest",
+        "axc-gravatar": "latest",
+        "axc-pdfviewerjs": "latest",
+        "axcis-source-code": "latest",
+        "axcom": "latest",
+        "axcommon": "latest",
+        "axcr-webpack-numbers": "latest"
+    }
+}

@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-gah",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gah": "latest",
+        "gah-datepicker": "latest",
+        "gahaha": "latest",
+        "gahoi_demo": "latest",
+        "gaholanda-my-lib": "latest",
+        "gahotx-cdn": "latest",
+        "gahotx-picgo": "latest",
+        "gahrinish": "latest"
+    }
+}

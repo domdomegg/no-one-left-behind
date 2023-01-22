@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-iod",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "iod": "latest",
+        "iod-issueenhancer-webcomponents": "latest",
+        "iod-node": "latest",
+        "iod-ui": "latest",
+        "iodash": "latest",
+        "iodb": "latest",
+        "iode-lib": "latest",
+        "ioderits": "latest",
+        "iodide": "latest",
+        "iodide-react-inspector": "latest",
+        "iodigital-criticalcss": "latest",
+        "iodine": "latest",
+        "iodine-gba": "latest",
+        "iodine-hydrate-mongodb": "latest",
+        "iodio": "latest",
+        "iodkdk-2lskd": "latest",
+        "iodlt-ants-sdk": "latest",
+        "iodocs": "latest",
+        "iodocs-cli": "latest",
+        "iodp-message": "latest",
+        "iodplogin": "latest",
+        "iods": "latest"
+    }
+}

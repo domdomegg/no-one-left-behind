@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-fob",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fob": "latest",
+        "fob-reserv": "latest",
+        "fob-reserve": "latest",
+        "fobiz-cli-template-lego": "latest",
+        "fobiz-cli-template-static": "latest",
+        "fobiz-cli-template-vue2": "latest",
+        "fobiz-cli-template-vue3": "latest",
+        "fobject": "latest",
+        "fobs": "latest"
+    }
+}

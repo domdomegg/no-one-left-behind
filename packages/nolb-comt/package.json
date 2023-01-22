@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-comt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "comt": "latest",
+        "comtable": "latest",
+        "comtacts-filters-api": "latest",
+        "comtele-sdk": "latest",
+        "comtemp": "latest",
+        "comtemp-ui": "latest",
+        "comtestxiang": "latest",
+        "comtjs": "latest",
+        "comtom-front-end-cli": "latest",
+        "comtool": "latest",
+        "comtoolcss": "latest",
+        "comtop": "latest",
+        "comtop-ui": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-vue-ce",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-ce-ui": "latest",
+        "vue-cedarmaps": "latest",
+        "vue-cell": "latest",
+        "vue-cells": "latest",
+        "vue-center": "latest",
+        "vue-central": "latest",
+        "vue-cert-poster": "latest",
+        "vue-cesium": "latest",
+        "vue-cesium-compass": "latest",
+        "vue-cesium-daoqi": "latest",
+        "vue-cesium-daoqi-test": "latest",
+        "vue-cesium-draw": "latest",
+        "vue-cesium-jyt": "latest",
+        "vue-cesium-supermap": "latest",
+        "vue-cesiumelement": "latest",
+        "vue-cesiumelements": "latest"
+    }
+}

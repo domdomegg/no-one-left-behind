@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-react-nb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-nb": "latest",
+        "react-nb-hooks": "latest",
+        "react-nba-logos": "latest",
+        "react-nblayout": "latest",
+        "react-nbsp": "latest",
+        "react-nbviewer": "latest"
+    }
+}

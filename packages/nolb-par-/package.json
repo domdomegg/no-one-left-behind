@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-par-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "par-auth": "latest",
+        "par-bundler": "latest",
+        "par-components": "latest",
+        "par-mais-data": "latest",
+        "par-style": "latest",
+        "par-ui": "latest",
+        "par-visualization": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_prl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@prl/shared": "latest",
+        "@prleasing/kuku": "latest",
+        "@prleasing/use": "latest",
+        "@prleasing/utility": "latest",
+        "@prln/core": "latest",
+        "@prln/generator": "latest",
+        "@prln/http-ws-browser-transport-client": "latest",
+        "@prln/http-ws-node-transport-server": "latest",
+        "@prlouis/create-project": "latest"
+    }
+}

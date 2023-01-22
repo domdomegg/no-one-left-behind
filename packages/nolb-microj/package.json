@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-microj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "microjam": "latest",
+        "microjam-docs": "latest",
+        "microjam-g2": "latest",
+        "microjam-simple": "latest",
+        "microjam-tufte": "latest",
+        "microjazz": "latest",
+        "microjob": "latest",
+        "microjoi": "latest",
+        "microjpeg": "latest",
+        "microjs": "latest",
+        "microjslib": "latest",
+        "microjungle": "latest"
+    }
+}

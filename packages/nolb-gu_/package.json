@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-gu_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "gu_create-cli": "latest",
+        "gu_jia_xuan_123": "latest",
+        "gu_practice_1": "latest",
+        "gu_ygr": "latest"
+    }
+}

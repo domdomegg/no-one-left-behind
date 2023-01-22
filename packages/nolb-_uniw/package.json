@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_uniw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@uniweb/eslint-config": "latest",
+        "@uniweb/generator-uniweb": "latest",
+        "@uniweb/stylelint-config": "latest",
+        "@uniwise/flow-ui": "latest",
+        "@uniworld/simple-contract-event": "latest",
+        "@uniworld/unichain-core": "latest",
+        "@uniworld/unichain-js": "latest",
+        "@uniworld/utool": "latest",
+        "@uniwrap/uniwrap-core": "latest"
+    }
+}

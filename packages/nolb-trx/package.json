@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-trx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "trx": "latest",
+        "trx-cli": "latest",
+        "trx-file-cli": "latest",
+        "trx-graphql-server": "latest",
+        "trx-ng12": "latest",
+        "trx-util": "latest",
+        "trx_ui": "latest",
+        "trxact": "latest",
+        "trxhosts": "latest",
+        "trxue": "latest",
+        "trxwallet": "latest",
+        "trxyazilim-igapi": "latest"
+    }
+}

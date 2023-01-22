@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-tuk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tuk": "latest",
+        "tuk-ckeditor5-classic": "latest",
+        "tuk-tuk": "latest",
+        "tukal": "latest",
+        "tukal-vue": "latest",
+        "tukangtest": "latest",
+        "tukar": "latest",
+        "tukio": "latest",
+        "tukki": "latest",
+        "tuko": "latest",
+        "tukod": "latest",
+        "tuktakjs": "latest",
+        "tuktuk-chart-plotter": "latest",
+        "tuktuk-libs-uikit": "latest",
+        "tuktuki-editor": "latest",
+        "tuku": "latest"
+    }
+}

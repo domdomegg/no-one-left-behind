@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-kq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "kq": "latest",
+        "kq-admin-cli": "latest",
+        "kq-bricks": "latest",
+        "kq-react-redux": "latest",
+        "kq-ui": "latest",
+        "kq-utils": "latest",
+        "kq2": "latest",
+        "kq_component": "latest",
+        "kqb": "latest",
+        "kqcrazy": "latest",
+        "kqd_wangeditor": "latest",
+        "kqim": "latest",
+        "kqjs": "latest",
+        "kqk": "latest",
+        "kqlibs": "latest",
+        "kqlselector": "latest",
+        "kqptcsuxewfkmazi": "latest",
+        "kqq": "latest",
+        "kqrma-music-api": "latest",
+        "kqtui-jssdk": "latest",
+        "kquery": "latest",
+        "kquerysma": "latest",
+        "kquerysma-ts": "latest",
+        "kqueue": "latest",
+        "kqwebclient": "latest",
+        "kqzy-npm-upload": "latest"
+    }
+}

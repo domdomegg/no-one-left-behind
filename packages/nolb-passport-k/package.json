@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-passport-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "passport-kakao": "latest",
+        "passport-kakao-oauth2": "latest",
+        "passport-kakao-token": "latest",
+        "passport-kakao-token2": "latest",
+        "passport-kerberos": "latest",
+        "passport-kerberos-negotiation": "latest",
+        "passport-keybase": "latest",
+        "passport-keycloak": "latest",
+        "passport-keycloak-bearer": "latest",
+        "passport-keycloak-oauth2-oidc": "latest",
+        "passport-keystone": "latest",
+        "passport-keystone-examples-login": "latest",
+        "passport-keystone-v3": "latest",
+        "passport-keyverify": "latest",
+        "passport-khan": "latest",
+        "passport-khbar4u-oauth": "latest",
+        "passport-koa": "latest",
+        "passport-koa2": "latest",
+        "passport-ktt": "latest",
+        "passport-kuainiu": "latest",
+        "passport-kuali": "latest",
+        "passport-kyivcard": "latest"
+    }
+}

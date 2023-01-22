@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-koag",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "koagent": "latest",
+        "koagent-certificate": "latest",
+        "koagent-client": "latest",
+        "koagent-dfire": "latest",
+        "koagent-http-proxy": "latest",
+        "koagent-server": "latest",
+        "koagger": "latest",
+        "koagyyzsm": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-anga",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "anga": "latest",
+        "anga-last": "latest",
+        "angaev-ui-kit-v2": "latest",
+        "angananodeapp": "latest",
+        "angaolan-test-li": "latest",
+        "angaolang-test-cli": "latest",
+        "angara.chartjs": "latest",
+        "angara.serializationjs": "latest",
+        "angara.tablejs": "latest",
+        "angarum": "latest",
+        "angaryos-frontend": "latest"
+    }
+}

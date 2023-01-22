@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-quec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "quec-app-test": "latest",
+        "quec-js-sdk": "latest",
+        "quec-map": "latest",
+        "quec-wx-sdk": "latest",
+        "quec-wx-sdk-dev": "latest",
+        "quec-wxa-sdk": "latest",
+        "queclink-parser": "latest",
+        "quectel": "latest",
+        "quectel-ui": "latest"
+    }
+}

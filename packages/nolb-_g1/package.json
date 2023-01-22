@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_g1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@g1100100/preload": "latest",
+        "@g1100100/rest.request": "latest",
+        "@g1100100/rest.request.vite": "latest",
+        "@g1100100/vue-ui": "latest",
+        "@g11n_tools/moto-batch-request-js": "latest",
+        "@g123jp/ctw-box-sdk": "latest",
+        "@g123jp/eslint-config-react": "latest",
+        "@g123jp/g123-internal-ui": "latest",
+        "@g123jp/g123-ui": "latest",
+        "@g123jp/prettier-config-recommended": "latest",
+        "@g123jp/recoil-observer": "latest",
+        "@g123jp/stylelint-config-recommended": "latest",
+        "@g16/react-base": "latest",
+        "@g1770ny/idx-clock": "latest",
+        "@g1cloud/bluesea-vue-renderer": "latest",
+        "@g1cloud/message-generator": "latest",
+        "@g1cloud/page-builder-vue-renderer": "latest",
+        "@g1cloud/vue-ui": "latest",
+        "@g1eny0ung/babel-plugin-transform-react-handled-props": "latest"
+    }
+}

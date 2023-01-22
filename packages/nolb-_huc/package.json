@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_huc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@huchenme/github-trending": "latest",
+        "@huck-finn/create-app": "latest",
+        "@huck-finn/create-layout": "latest",
+        "@huck/browser": "latest",
+        "@huck/cli": "latest",
+        "@huck/core": "latest",
+        "@huckleberry-inc/eslint-config": "latest",
+        "@huckleberry-inc/prettier-config": "latest",
+        "@huckleberry-inc/react-scripts": "latest",
+        "@huckleberry-inc/shopify-app-history": "latest",
+        "@huckleberry-inc/shopify-app-locales": "latest",
+        "@huckleberry-inc/valuecommerce-advertiser": "latest"
+    }
+}

@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-inf-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "inf-authenticationsystem": "latest",
+        "inf-build": "latest",
+        "inf-build-module-prefixer": "latest",
+        "inf-contactform": "latest",
+        "inf-design": "latest",
+        "inf-ee": "latest",
+        "inf-fed-dev": "latest",
+        "inf-fullwidthimgslider": "latest",
+        "inf-imgsliderwithpopup": "latest",
+        "inf-imgsliderwithtext": "latest",
+        "inf-modulitoz": "latest",
+        "inf-page": "latest",
+        "inf-prime-scroll": "latest",
+        "inf-pure": "latest",
+        "inf-rugallery": "latest",
+        "inf-ruimageslider": "latest",
+        "inf-ruloginform": "latest",
+        "inf-rumanu": "latest",
+        "inf-ruproductcarousel": "latest",
+        "inf-scroll-list": "latest",
+        "inf-shared-component": "latest",
+        "inf-testlogin": "latest",
+        "inf-webpack": "latest"
+    }
+}

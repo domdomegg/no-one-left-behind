@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-pey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pey": "latest",
+        "pey-unified-notifications": "latest",
+        "peycash-smart-contract": "latest",
+        "peynir": "latest",
+        "peynman-vuetify": "latest",
+        "peyo": "latest",
+        "peyote": "latest",
+        "peyotl": "latest",
+        "peyter-library": "latest",
+        "peytzwp-npmtest": "latest",
+        "peyxwdb": "latest"
+    }
+}

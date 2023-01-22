@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-cssw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "CSSwhat": "latest",
+        "cssw": "latest",
+        "csswe": "latest",
+        "cssweekly-scraper": "latest",
+        "cssweet-tts": "latest",
+        "csswitch": "latest",
+        "csswizardry-grids": "latest",
+        "csswizz": "latest",
+        "csswring": "latest"
+    }
+}

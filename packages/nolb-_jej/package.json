@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_jej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jeje-ui/docs": "latest",
+        "@jeje-ui/react": "latest",
+        "@jeje-ui/tokens": "latest",
+        "@jeje720/pingpong": "latest"
+    }
+}

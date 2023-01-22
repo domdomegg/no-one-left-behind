@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_trim",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trim21/cactbot": "latest",
+        "@trim21/cactbot-types": "latest",
+        "@trim21/gm-fetch": "latest",
+        "@trim21/php-serialize": "latest",
+        "@trim21/renovate-config": "latest",
+        "@trim21/test-npm-publish": "latest",
+        "@trimble-creative-strategy/contentful-migration-mxp": "latest",
+        "@trimble-oss/modus-angular-components": "latest",
+        "@trimble-oss/modus-react-components": "latest",
+        "@trimble-oss/modus-web-components": "latest",
+        "@trimble-quest/capacitor-oauth2": "latest",
+        "@trimblecsjohnson/npm-button": "latest",
+        "@trimbleinc/modus-react-bootstrap": "latest",
+        "@trimblemaps/content-db": "latest",
+        "@trimblemaps/trimblemaps-draw": "latest",
+        "@trimblemaps/trimblemaps-js": "latest",
+        "@trimblemaps/trimblemaps-js-angular": "latest",
+        "@trimblemaps/trimblemaps-mapmenus": "latest",
+        "@trimblemaps/trimblemaps-singlesearch": "latest",
+        "@trimblemaps/webtools-common": "latest",
+        "@trimindtech/formiojs": "latest",
+        "@triminh9666/demo-npm-name": "latest",
+        "@trimm/plugin-dependencytrack": "latest",
+        "@trimm/tus-client": "latest",
+        "@trimoz/trimoz-api-wrapper": "latest",
+        "@trimoz/trimoz-vue-error-handling": "latest"
+    }
+}

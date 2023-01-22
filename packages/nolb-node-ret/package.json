@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-node-ret",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-retailcrm-api": "latest",
+        "node-rethink": "latest",
+        "node-rethinkdb": "latest",
+        "node-retro": "latest",
+        "node-retry": "latest",
+        "node-rets": "latest",
+        "node-rets-client": "latest",
+        "node-retsinfo": "latest"
+    }
+}

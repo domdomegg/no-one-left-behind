@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-sla-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sla-cli": "latest",
+        "sla-custom-button": "latest",
+        "sla-element-published": "latest",
+        "sla-graphql-manager": "latest",
+        "sla-my-storybook-components": "latest",
+        "sla-navigate": "latest",
+        "sla-product-card": "latest",
+        "sla-ts": "latest",
+        "sla-ui": "latest"
+    }
+}

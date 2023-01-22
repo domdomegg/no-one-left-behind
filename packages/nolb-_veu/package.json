@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_veu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@veupathdb/base-webpack-config": "latest",
+        "@veupathdb/blast-summary-view": "latest",
+        "@veupathdb/browserslist-config": "latest",
+        "@veupathdb/components": "latest",
+        "@veupathdb/core-components": "latest",
+        "@veupathdb/coreui": "latest",
+        "@veupathdb/cra-template": "latest",
+        "@veupathdb/eda": "latest",
+        "@veupathdb/eda-workspace-core": "latest",
+        "@veupathdb/eslint-config": "latest",
+        "@veupathdb/http-utils": "latest",
+        "@veupathdb/multi-blast": "latest",
+        "@veupathdb/preferred-organisms": "latest",
+        "@veupathdb/prettier-config": "latest",
+        "@veupathdb/react-scripts": "latest",
+        "@veupathdb/site-babel-config": "latest",
+        "@veupathdb/site-tsconfig": "latest",
+        "@veupathdb/site-webpack-config": "latest",
+        "@veupathdb/study-data-access": "latest",
+        "@veupathdb/tsconfig": "latest",
+        "@veupathdb/user-datasets": "latest",
+        "@veupathdb/wdk-client": "latest",
+        "@veupathdb/web-common": "latest"
+    }
+}

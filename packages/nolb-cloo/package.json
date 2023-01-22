@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-cloo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cloob": "latest",
+        "cloob-library": "latest",
+        "clooca": "latest",
+        "cloogle-js": "latest",
+        "clookit-libs": "latest",
+        "clooney": "latest",
+        "clooney-angular": "latest",
+        "clooneyjs": "latest",
+        "cloop": "latest",
+        "cloopen-sms": "latest",
+        "cloover": "latest"
+    }
+}

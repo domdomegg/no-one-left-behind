@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_panm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@panmax/hello-wasm": "latest",
+        "@panmenghan/core": "latest",
+        "@panmenghan/http-client": "latest",
+        "@panmenghan/http-client-ts": "latest",
+        "@panmenghan/http-lib": "latest",
+        "@panmenghan/starter": "latest",
+        "@panmenghan/starter-ui": "latest",
+        "@panmenghan/test": "latest",
+        "@panmenghan/utils": "latest",
+        "@panmenghan/utils-ts": "latest",
+        "@panminxiang/kbw-cjs": "latest",
+        "@panminxiang/kbw-umd": "latest",
+        "@panmxy/custom_modal": "latest"
+    }
+}

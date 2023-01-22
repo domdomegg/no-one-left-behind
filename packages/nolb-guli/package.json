@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-guli",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "guli": "latest",
+        "guli-cli": "latest",
+        "guli-heo": "latest",
+        "gulin-otus-dz": "latest",
+        "guling-ui": "latest",
+        "gulinkai-web2105": "latest",
+        "gulinkai-web2106": "latest",
+        "guliunian": "latest",
+        "guliunian-myvue-cli": "latest",
+        "gulizhang": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_stm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stm-labs/essential-select": "latest",
+        "@stm0n/vue-autocomplete": "latest",
+        "@stm32p103/ngrx-utility": "latest",
+        "@stmicroticket/common": "latest",
+        "@stmoutai/ant-design-vue": "latest",
+        "@stmoutai/pkg-test": "latest",
+        "@stmp/stamp-cli": "latest",
+        "@stmtk/boid": "latest",
+        "@stmtk/hello-wasm": "latest"
+    }
+}

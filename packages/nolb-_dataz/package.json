@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_dataz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datazip/catalog": "latest",
+        "@datazone/chart": "latest",
+        "@datazone/moment": "latest",
+        "@datazone/stream": "latest",
+        "@datazoom/collector_akamai": "latest",
+        "@datazoom/collector_amazon_ivs": "latest",
+        "@datazoom/collector_bitmovin": "latest",
+        "@datazoom/collector_brightcove": "latest",
+        "@datazoom/collector_chromecast": "latest",
+        "@datazoom/collector_dashjs": "latest",
+        "@datazoom/collector_hlsjs": "latest",
+        "@datazoom/collector_html5_native": "latest",
+        "@datazoom/collector_ivs": "latest",
+        "@datazoom/collector_jw": "latest",
+        "@datazoom/collector_kaltura": "latest",
+        "@datazoom/collector_shaka": "latest",
+        "@datazoom/collector_theo": "latest",
+        "@datazoom/collector_videojs": "latest"
+    }
+}

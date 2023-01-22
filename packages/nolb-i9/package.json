@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-i9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "i9": "latest",
+        "i9jvm": "latest",
+        "i9n": "latest",
+        "i9r-i18n": "latest",
+        "i9r-prettier": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-vuev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vuev": "latest",
+        "vuevas": "latest",
+        "vuevdata": "latest",
+        "vuevectormap": "latest",
+        "vuevent": "latest",
+        "vueventjs": "latest",
+        "vuevertbars": "latest",
+        "vuevix": "latest",
+        "vueviz": "latest",
+        "vuevm": "latest",
+        "vuevt": "latest"
+    }
+}

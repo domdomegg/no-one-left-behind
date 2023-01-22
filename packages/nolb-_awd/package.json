@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_awd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@awdesh/caesar-cipher": "latest",
+        "@awdesh/number-formatter-awdesh": "latest",
+        "@awdev/hmm": "latest",
+        "@awdev/ifdef-typescript": "latest",
+        "@awdware/eslint-config-angular": "latest",
+        "@awdware/eslint-config-base": "latest",
+        "@awdware/eslint-config-nodejs": "latest",
+        "@awdware/gah": "latest",
+        "@awdware/gah-angular-json-plugin": "latest",
+        "@awdware/gah-cli": "latest",
+        "@awdware/gah-for-root-initializer": "latest",
+        "@awdware/gah-ie11-plugin": "latest",
+        "@awdware/gah-plugin-template": "latest",
+        "@awdware/gah-shared": "latest",
+        "@awdware/gah-translation-merger": "latest",
+        "@awdware/prettier-config": "latest",
+        "@awdware/resolve-url-loader-workaround": "latest",
+        "@awdware/shared": "latest"
+    }
+}

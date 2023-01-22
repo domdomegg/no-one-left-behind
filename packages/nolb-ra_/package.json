@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-ra_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ra.js": "latest",
+        "ra_brain_games": "latest",
+        "ra_random_num_gen": "latest"
+    }
+}

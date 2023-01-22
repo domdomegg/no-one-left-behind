@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-clm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clm": "latest",
+        "clm-mp-login": "latest",
+        "clm-mp-registration": "latest",
+        "clm-settings": "latest",
+        "clm111": "latest",
+        "clmaker": "latest",
+        "clmdraw": "latest",
+        "clmduxsyqkkjhbga": "latest",
+        "clmind": "latest",
+        "clmindfale": "latest",
+        "clmini_common": "latest",
+        "clmloader": "latest",
+        "clmm-ainqa-test-package": "latest",
+        "clmm-event-catalog": "latest",
+        "clmm-masters": "latest",
+        "clmm__v_dbinder": "latest",
+        "clmm__v_v_v_dbinder": "latest",
+        "clmm__v_v_v_v_dbinder": "latest",
+        "clmorales-vue3-component-library": "latest",
+        "clms": "latest",
+        "clmtracker": "latest",
+        "clmtrackr": "latest",
+        "clmtrackr-smile-recognition": "latest",
+        "clmutils": "latest"
+    }
+}

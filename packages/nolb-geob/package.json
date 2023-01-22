@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-geob",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "geobabel": "latest",
+        "geobabel-gml": "latest",
+        "geobackground-capacitor": "latest",
+        "geobatch": "latest",
+        "geobelt": "latest",
+        "geobing": "latest",
+        "geoblaze": "latest",
+        "geoblaze-cli": "latest",
+        "geobound-object": "latest",
+        "geoboundingbox": "latest",
+        "geobounds": "latest",
+        "geobson": "latest",
+        "geobuckets": "latest",
+        "geobuf": "latest",
+        "geobuf-file": "latest",
+        "geobuf-merge": "latest",
+        "geobuf-published": "latest",
+        "geobuf-to-grid": "latest",
+        "geobuffer": "latest",
+        "geobul": "latest"
+    }
+}

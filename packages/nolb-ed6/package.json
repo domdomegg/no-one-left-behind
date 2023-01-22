@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-ed6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ed64": "latest",
+        "ed64-example": "latest",
+        "ed64logjs": "latest"
+    }
+}

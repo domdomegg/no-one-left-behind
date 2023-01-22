@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-metae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "MetaEditor": "latest",
+        "metaeditor": "latest",
+        "metaedu": "latest",
+        "metaencuesta": "latest",
+        "metaes": "latest",
+        "metaexplorer-react-components": "latest"
+    }
+}

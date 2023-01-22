@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_inq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@inq/keypad-input": "latest",
+        "@inqling/components": "latest",
+        "@inqling/prettier-config": "latest",
+        "@inqling/svelte-heroicons": "latest",
+        "@inqling/svelte-icons": "latest",
+        "@inqling/svelte-portable-text": "latest",
+        "@inqludeit/qualweb-plugin-cmp": "latest",
+        "@inqool/forms-web-api": "latest",
+        "@inqool/forms-web-filler-api": "latest",
+        "@inqool/xml-core": "latest",
+        "@inqool/xmldsigjs": "latest",
+        "@inquire/inquire-kafka": "latest",
+        "@inquirer/checkbox": "latest",
+        "@inquirer/confirm": "latest",
+        "@inquirer/core": "latest",
+        "@inquirer/editor": "latest",
+        "@inquirer/expand": "latest",
+        "@inquirer/input": "latest",
+        "@inquirer/password": "latest",
+        "@inquirer/rawlist": "latest",
+        "@inquirer/select": "latest",
+        "@inquirer/testing": "latest",
+        "@inquirer/type": "latest",
+        "@inquirescript/cli": "latest",
+        "@inquirescript/runtime-types": "latest",
+        "@inquisitive/between": "latest"
+    }
+}

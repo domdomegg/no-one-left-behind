@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_zhx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zhxcloud/cloud-components": "latest",
+        "@zhxcloud/cloud-scss": "latest",
+        "@zhxcloud/cloud-share": "latest",
+        "@zhxi/ss": "latest",
+        "@zhxi/xproxy": "latest",
+        "@zhxiao1124/cat-design": "latest",
+        "@zhxiao1124/logger": "latest",
+        "@zhxiao1124/md-editor": "latest",
+        "@zhxiaog/parse-server": "latest",
+        "@zhxlp/webdav": "latest",
+        "@zhxy/web_pc_package": "latest"
+    }
+}

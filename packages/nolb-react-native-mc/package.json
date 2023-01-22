@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-react-native-mc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-mc-gesture-handler": "latest",
+        "react-native-mc-listview": "latest",
+        "react-native-mc-payment-module": "latest",
+        "react-native-mc-splash-screen": "latest",
+        "react-native-mc-ultimate-listview": "latest",
+        "react-native-mc-zip-archive": "latest",
+        "react-native-mcheck-proxy": "latest",
+        "react-native-mcl": "latest",
+        "react-native-mcsjs": "latest",
+        "react-native-mcuboot": "latest",
+        "react-native-mcx-pharmvioo-dep": "latest"
+    }
+}

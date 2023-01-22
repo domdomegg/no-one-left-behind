@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-x8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "x8": "latest",
+        "x8395f7": "latest",
+        "x86": "latest",
+        "x86.min.js": "latest",
+        "x86oc": "latest",
+        "x86paging": "latest",
+        "x8crypt": "latest",
+        "x8react": "latest"
+    }
+}

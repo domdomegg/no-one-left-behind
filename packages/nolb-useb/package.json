@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-useb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "useb-api-sdk-nodejs": "latest",
+        "usebas": "latest",
+        "usebasketstorage": "latest",
+        "usebeauty": "latest",
+        "usebeforerender": "latest",
+        "usebootstrap": "latest",
+        "usebot": "latest",
+        "usebrowserwindowsize": "latest",
+        "usebruno": "latest"
+    }
+}

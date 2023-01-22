@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-vite-pr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vite-prefetch-plugin": "latest",
+        "vite-preload-html-plugin": "latest",
+        "vite-prerender-spa": "latest",
+        "vite-preset-react": "latest",
+        "vite-preset-vapor": "latest",
+        "vite-pro": "latest",
+        "vite-project": "latest",
+        "vite-project-cli": "latest",
+        "vite-project-custom": "latest",
+        "vite-project-demo": "latest",
+        "vite-project-diao": "latest",
+        "vite-project-laixh4": "latest",
+        "vite-project-publish": "latest",
+        "vite-project-test": "latest",
+        "vite-project-thg": "latest",
+        "vite-project-vue3": "latest",
+        "vite-proxy": "latest"
+    }
+}

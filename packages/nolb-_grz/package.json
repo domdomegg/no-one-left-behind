@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_grz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@grzegonim/randomid-generator": "latest",
+        "@grzegorczyk/frame-print": "latest",
+        "@grzegorczykdevpl/counters": "latest",
+        "@grzegorz-jodlowski/npm-package-id-generator": "latest",
+        "@grzegorzmierzwa/id-generator": "latest",
+        "@grzesieks/id_generator": "latest",
+        "@grzesiu9779120/zad5": "latest",
+        "@grzpab/ts-envvar": "latest",
+        "@grzpab/ts-spymaster": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-htmli",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htmli": "latest",
+        "htmli18n": "latest",
+        "htmlid": "latest",
+        "htmlification": "latest",
+        "htmlifier": "latest",
+        "htmlify": "latest",
+        "htmlify-csv": "latest",
+        "htmlifycli": "latest",
+        "htmlimage": "latest",
+        "htmlimprover": "latest",
+        "htmlincludejs": "latest",
+        "htmlindexer": "latest",
+        "htmling": "latest",
+        "htmling-demo-app": "latest",
+        "htmlinit-command": "latest",
+        "htmlinsertcdnplugin": "latest",
+        "htmlint": "latest",
+        "htmlintred": "latest",
+        "htmliojs": "latest",
+        "htmlish": "latest",
+        "htmlism": "latest",
+        "htmlize": "latest",
+        "htmlizer": "latest",
+        "htmlizer-mwoc": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-vua",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vua": "latest",
+        "vua-crud": "latest",
+        "vua-redux": "latest",
+        "vuace": "latest",
+        "vuality": "latest",
+        "vualto-test-console-component": "latest",
+        "vualto-test-player-models": "latest",
+        "vualto-test-vu-core": "latest",
+        "vuamatch": "latest",
+        "vuan": "latest",
+        "vuano": "latest",
+        "vuapix": "latest"
+    }
+}

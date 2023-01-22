@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-react-native-tel",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-tel-input": "latest",
+        "react-native-tel-val": "latest",
+        "react-native-tele": "latest",
+        "react-native-telefon-validasyonu": "latest",
+        "react-native-telegram": "latest",
+        "react-native-telegram-apk-deployer": "latest",
+        "react-native-telegraph": "latest",
+        "react-native-telehealth": "latest",
+        "react-native-telematics": "latest",
+        "react-native-telemetry": "latest",
+        "react-native-telephone-input": "latest",
+        "react-native-telephony": "latest",
+        "react-native-telephony-manager-android": "latest",
+        "react-native-telesalesocket": "latest",
+        "react-native-telink-ble": "latest",
+        "react-native-telnet-client": "latest",
+        "react-native-telpo-pos": "latest",
+        "react-native-telpo-print": "latest",
+        "react-native-telpos": "latest"
+    }
+}

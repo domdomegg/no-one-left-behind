@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-da_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "da.account.login": "latest",
+        "da.dev": "latest",
+        "da_0206_tong": "latest",
+        "da_abc_test": "latest",
+        "da_check": "latest",
+        "da_check_test": "latest",
+        "da_funk": "latest",
+        "da_node": "latest",
+        "da_river": "latest",
+        "da_type": "latest",
+        "da_use": "latest",
+        "da_yu_tian": "latest"
+    }
+}

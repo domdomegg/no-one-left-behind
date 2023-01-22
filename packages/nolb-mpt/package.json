@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-mpt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mpt": "latest",
+        "mpt-loader": "latest",
+        "mpt-weazer": "latest",
+        "mptcfe-pc-components-copy": "latest",
+        "mpticket": "latest",
+        "mptitlebar": "latest",
+        "mptoast": "latest",
+        "mpts": "latest",
+        "mpts-core": "latest",
+        "mpts-loader": "latest"
+    }
+}

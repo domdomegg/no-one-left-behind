@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_e6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@e6-compiled/babel-plugin": "latest",
+        "@e6-compiled/babel-plugin-strip-runtime": "latest",
+        "@e6-compiled/css": "latest",
+        "@e6-compiled/react": "latest",
+        "@e6-compiled/utils": "latest",
+        "@e6-compiled/webpack-loader": "latest"
+    }
+}

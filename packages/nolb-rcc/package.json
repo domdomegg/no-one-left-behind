@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-rcc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rcc": "latest",
+        "rcc-calendar": "latest",
+        "rcc-cli": "latest",
+        "rcc-core": "latest",
+        "rcc-framework7": "latest",
+        "rcc-framework7-vue": "latest",
+        "rcc-ioredis-adapter": "latest",
+        "rcc-ioredis-mock-adapter": "latest",
+        "rcc-lasting": "latest",
+        "rcc-loader": "latest",
+        "rcc-plugin": "latest",
+        "rcc-plugin-barcodescanner": "latest",
+        "rcc-plugin-media": "latest",
+        "rcc-redis-adapter": "latest",
+        "rcc-redis-mock-adapter": "latest",
+        "rcc-stat": "latest",
+        "rcc-validator": "latest",
+        "rccc": "latest",
+        "rccmp": "latest",
+        "rccom": "latest",
+        "rcct": "latest"
+    }
+}

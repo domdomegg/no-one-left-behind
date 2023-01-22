@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-clac",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clac-component": "latest",
+        "clac-module": "latest",
+        "clache": "latest",
+        "clack": "latest",
+        "clack-cljs": "latest",
+        "clack-module": "latest",
+        "clacks": "latest",
+        "clacks-logger": "latest",
+        "clacks-message-formatter": "latest",
+        "clacks-p2p": "latest",
+        "clacrana": "latest"
+    }
+}

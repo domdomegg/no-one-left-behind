@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-hexo-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hexo-qcloudcos": "latest",
+        "hexo-qidaink-blogfiles": "latest",
+        "hexo-qidaink-cursor_effects": "latest",
+        "hexo-qidaink-fcircle": "latest",
+        "hexo-qidaink-live2d": "latest",
+        "hexo-qidaink-swiper_bar": "latest",
+        "hexo-qiniu": "latest",
+        "hexo-qiniu-images": "latest",
+        "hexo-qiniu-sync": "latest",
+        "hexo-qiniu-sync-parallel": "latest",
+        "hexo-qiniu-sync2": "latest",
+        "hexo-qiniu-uploader": "latest"
+    }
+}

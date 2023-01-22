@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-epd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "epd-autopr": "latest",
+        "epd-ui": "latest",
+        "epd2in13": "latest",
+        "epd2in7b": "latest",
+        "epd4in2": "latest",
+        "epd7x5": "latest",
+        "epd7x5-v2": "latest",
+        "epdcui": "latest",
+        "epdesigns": "latest",
+        "epdf": "latest",
+        "epdf-view": "latest",
+        "epdoc-config": "latest",
+        "epdoc-logger": "latest",
+        "epdoc-util": "latest",
+        "epdq": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_w5",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@w567675/taro-ui": "latest",
+        "@w567675/umi-hd": "latest",
+        "@w5s/browserslist-config": "latest",
+        "@w5s/commitlint-config": "latest",
+        "@w5s/cspell-config": "latest",
+        "@w5s/dev": "latest",
+        "@w5s/eslint-config": "latest",
+        "@w5s/mrm-preset": "latest",
+        "@w5s/prettier-config": "latest",
+        "@w5s/ts-config": "latest"
+    }
+}

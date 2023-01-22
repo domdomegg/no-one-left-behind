@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-pina",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pina": "latest",
+        "pinacate-eum-mobile": "latest",
+        "pinakajs": "latest",
+        "pinakbet": "latest",
+        "pinaple_repo_1": "latest",
+        "pinaple_types": "latest",
+        "pinaple_www": "latest",
+        "pinapp-components": "latest",
+        "pinar": "latest",
+        "pinary": "latest",
+        "pinata": "latest",
+        "pinata-client": "latest",
+        "pinata-folder": "latest",
+        "pinata-ipfs-http-client": "latest",
+        "pinata-ipfs-utils": "latest",
+        "pinata-proxy": "latest",
+        "pinata-sdk": "latest",
+        "pinata-submarine": "latest",
+        "pinata-upload-cli": "latest",
+        "pinata-utils": "latest",
+        "pinata-web-sdk": "latest",
+        "pinata_ipfs_sdk": "latest",
+        "pinatastore": "latest",
+        "pinaweb": "latest",
+        "pinawebcli": "latest",
+        "pinax-images-panel": "latest"
+    }
+}

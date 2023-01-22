@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-vite-m",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vite-main-js": "latest",
+        "vite-manifest": "latest",
+        "vite-manifest-css": "latest",
+        "vite-material": "latest",
+        "vite-mdx-cli": "latest",
+        "vite-micro-utils": "latest",
+        "vite-migrator": "latest",
+        "vite-mod": "latest",
+        "vite-monorepo": "latest",
+        "vite-multy-index-support": "latest"
+    }
+}

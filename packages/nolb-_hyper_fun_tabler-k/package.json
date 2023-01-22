@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_tabler-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/tabler-karate": "latest",
+        "@hyper.fun/tabler-kering": "latest",
+        "@hyper.fun/tabler-key": "latest",
+        "@hyper.fun/tabler-keyboard": "latest",
+        "@hyper.fun/tabler-keyboard-hide": "latest",
+        "@hyper.fun/tabler-keyboard-off": "latest",
+        "@hyper.fun/tabler-keyboard-show": "latest"
+    }
+}

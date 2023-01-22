@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-modp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "modp-groups": "latest",
+        "modpack": "latest",
+        "modpack-installer": "latest",
+        "modpackdl": "latest",
+        "modpacker": "latest",
+        "modpacksio-common": "latest",
+        "modpak": "latest",
+        "modpar": "latest",
+        "modpe-compiler": "latest",
+        "modplay": "latest",
+        "modplayer": "latest",
+        "modpow": "latest"
+    }
+}

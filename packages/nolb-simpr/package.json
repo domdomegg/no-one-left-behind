@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-simpr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simprajs": "latest",
+        "simpre": "latest",
+        "simpread_project_workflow": "latest",
+        "simpress": "latest",
+        "simpressjs": "latest",
+        "simpro": "latest",
+        "simproc": "latest",
+        "simprof": "latest",
+        "simprp-base": "latest"
+    }
+}

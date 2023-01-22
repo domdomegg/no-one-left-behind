@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-eslint-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslint-g": "latest",
+        "eslint-gen-overrides": "latest",
+        "eslint-generate-todo": "latest",
+        "eslint-generator": "latest",
+        "eslint-get-rules": "latest",
+        "eslint-gh-status-reporter": "latest",
+        "eslint-gha-formatter": "latest",
+        "eslint-git-changes": "latest",
+        "eslint-git-filter": "latest",
+        "eslint-githook": "latest",
+        "eslint-gitignore": "latest",
+        "eslint-gitstaged": "latest",
+        "eslint-gitstatus": "latest",
+        "eslint-global-patch": "latest",
+        "eslint-graph-reporter": "latest",
+        "eslint-graphql-rule": "latest",
+        "eslint-greenit": "latest",
+        "eslint-grunt": "latest",
+        "eslint-grunt-dep-locked": "latest"
+    }
+}

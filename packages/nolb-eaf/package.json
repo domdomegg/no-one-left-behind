@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-eaf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eaf": "latest",
+        "eaf-linter": "latest",
+        "eaf-map": "latest",
+        "eafd": "latest",
+        "eafit-tree-view": "latest",
+        "eaflet-ng2-gps": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-aub",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aub": "latest",
+        "aub-fluent-iterable": "latest",
+        "auban": "latest",
+        "aubay-sam-host": "latest",
+        "aubdevcampjs-footer": "latest",
+        "aube-test": "latest",
+        "aube-test-lib": "latest",
+        "auber": "latest",
+        "aubergine": "latest",
+        "aubio": "latest",
+        "aubiojs": "latest",
+        "aubiojs-es6": "latest",
+        "aubment": "latest",
+        "auboarm-x64": "latest",
+        "auboarm-x86": "latest",
+        "aubrey": "latest",
+        "aubrey-object-store": "latest",
+        "auburn": "latest"
+    }
+}

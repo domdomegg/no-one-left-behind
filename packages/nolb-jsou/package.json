@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-jsou",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jsouee-arsenal": "latest",
+        "jsouee-ui": "latest",
+        "jsouile": "latest",
+        "jsoun": "latest",
+        "jsoup": "latest",
+        "jsout": "latest",
+        "jsout-express": "latest"
+    }
+}

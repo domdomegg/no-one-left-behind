@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-dbb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dbb": "latest",
+        "dbb-chat-util": "latest",
+        "dbb-first-npm": "latest",
+        "dbb-img-crop": "latest",
+        "dbb-react-native-aliyun-oss": "latest",
+        "dbb-react-native-gifted-chat": "latest",
+        "dbb-react-native-invertible-scroll-view": "latest",
+        "dbb-react-native-pure-notification": "latest",
+        "dbb-react-native-scrollable-mixin": "latest",
+        "dbb-react-native-sound": "latest",
+        "dbb-react-native-unionpay": "latest",
+        "dbb-ybd-loading": "latest",
+        "dbb.js": "latest",
+        "dbbbbbbb": "latest",
+        "dbbebe": "latest",
+        "dbbitemsize-module": "latest",
+        "dbbucket-client": "latest",
+        "dbbuild": "latest",
+        "dbbuilder": "latest"
+    }
+}

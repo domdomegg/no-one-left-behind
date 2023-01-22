@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-fez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fez": "latest",
+        "fez-browserify": "latest",
+        "fez-clean-css": "latest",
+        "fez-concat": "latest",
+        "fez-fontmin": "latest",
+        "fez-imagemin": "latest",
+        "fez-imagemin-svgo": "latest",
+        "fez-jshint": "latest",
+        "fez-less": "latest",
+        "fez-livescript": "latest",
+        "fez-local-ip": "latest",
+        "fez-lwip": "latest",
+        "fez-preprocess-loader": "latest",
+        "fez-react": "latest",
+        "fez-replace": "latest",
+        "fez-stylus": "latest",
+        "fez-tap": "latest",
+        "fez-tape": "latest",
+        "fez-template-init": "latest",
+        "fez-uglify": "latest",
+        "feza-ui": "latest",
+        "fezinha": "latest",
+        "fezmock": "latest",
+        "fezs-china-area-list": "latest",
+        "fezs-my-storybook-components": "latest",
+        "fezs-product-card": "latest",
+        "fezui": "latest"
+    }
+}

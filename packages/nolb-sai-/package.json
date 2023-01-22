@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-sai-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sai-avatarcomponent": "latest",
+        "sai-bloom": "latest",
+        "sai-buttone": "latest",
+        "sai-component": "latest",
+        "sai-cookie": "latest",
+        "sai-curd-redux-material-ui": "latest",
+        "sai-custom-button": "latest",
+        "sai-experiment": "latest",
+        "sai-gatti-frame-print": "latest",
+        "sai-image-zoom": "latest",
+        "sai-language": "latest",
+        "sai-lib": "latest",
+        "sai-library": "latest",
+        "sai-manager": "latest",
+        "sai-navbar": "latest",
+        "sai-new-npm-package": "latest",
+        "sai-npm-package": "latest",
+        "sai-npm-test": "latest",
+        "sai-npmcircleci": "latest",
+        "sai-services": "latest",
+        "sai-style-color-picker": "latest",
+        "sai-table": "latest",
+        "sai-test": "latest",
+        "sai-test-onetest": "latest",
+        "sai-test-publishing": "latest",
+        "sai-ui": "latest"
+    }
+}

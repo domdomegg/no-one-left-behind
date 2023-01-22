@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-homek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "homekey": "latest",
+        "homeking365-amap": "latest",
+        "homeking365-common-function": "latest",
+        "homekit": "latest",
+        "homekit-adapter": "latest",
+        "homekit-battery-integration": "latest",
+        "homekit-code": "latest",
+        "homekit-ovms-integration": "latest",
+        "homekit-qrcode": "latest",
+        "homekit-react-components": "latest",
+        "homekit-sensorhub": "latest",
+        "homekit2mqtt": "latest",
+        "homekitnode": "latest",
+        "homekitweb": "latest"
+    }
+}

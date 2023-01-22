@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-comr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "comrade": "latest",
+        "comrade-angular": "latest",
+        "comrade-builder": "latest",
+        "comrade-builder-config": "latest",
+        "comrade-components-react": "latest",
+        "comrade-css": "latest",
+        "comrade-forms": "latest",
+        "comrade-styles": "latest",
+        "comrade-webflow": "latest",
+        "comrade-webflow-menu": "latest",
+        "comradefy": "latest",
+        "comrades-data": "latest",
+        "comrand_package": "latest",
+        "comrate": "latest",
+        "comrax-alex-airbnb-calendar": "latest",
+        "comreact-native-template-fullbarrn": "latest"
+    }
+}

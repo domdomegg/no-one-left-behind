@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-objf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "objf": "latest",
+        "objfile": "latest",
+        "objfilter": "latest",
+        "objfn": "latest",
+        "objfp": "latest",
+        "objfuscate": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-read_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "read.i": "latest",
+        "read.min.js": "latest",
+        "read.node": "latest",
+        "read_all_file": "latest",
+        "read_browser_console": "latest",
+        "read_count": "latest",
+        "read_fileone": "latest",
+        "read_json_file_maism": "latest",
+        "read_line": "latest",
+        "read_page": "latest",
+        "read_writ": "latest",
+        "read_write_cus": "latest",
+        "read_write_data_by_osp": "latest",
+        "read_write_json_fs": "latest",
+        "read_write_json_vikas": "latest",
+        "read_write_module": "latest",
+        "read_xlsx": "latest"
+    }
+}

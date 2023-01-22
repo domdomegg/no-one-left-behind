@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_jao",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jaoafa/jao-ui": "latest",
+        "@jaocer/hoster": "latest",
+        "@jaocer/nusage": "latest",
+        "@jaon/react-modal-image": "latest",
+        "@jaood/phone-numbers": "latest",
+        "@jaood/timestamp-colorizer": "latest",
+        "@jaortiz117/icon-map": "latest"
+    }
+}

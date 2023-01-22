@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_vau",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vaughan189/maths-package": "latest",
+        "@vaughan189/my-awesome-calculator": "latest",
+        "@vaughan189/my-awesome-greeter": "latest",
+        "@vault_h4x/csv-gen": "latest",
+        "@vault_h4x/sodium": "latest",
+        "@vaultie/lds-merkle-proof-2019": "latest",
+        "@vaultworld/sdk": "latest",
+        "@vaultworld/uikit": "latest",
+        "@vaulverin/orca-sdk": "latest"
+    }
+}

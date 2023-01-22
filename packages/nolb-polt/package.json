@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-polt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "poltapp01": "latest",
+        "polter": "latest",
+        "poltergeist": "latest",
+        "poltergeist-create": "latest",
+        "poltergeist-ha": "latest",
+        "poltergeist-ha-artnet-node": "latest",
+        "poltergeist-ha-dimmer-dmx": "latest",
+        "poltergeist-ha-hdmi-matrix": "latest",
+        "poltergeist-ha-pc-power": "latest",
+        "poltergeist-ha-relay-pack": "latest",
+        "poltergeist-ha-rgb-dmx": "latest",
+        "poltest": "latest",
+        "poltocar": "latest",
+        "poltoratchi-pagination-js-plugin": "latest"
+    }
+}

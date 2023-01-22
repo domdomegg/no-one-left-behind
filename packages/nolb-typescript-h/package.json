@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-typescript-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typescript-hamber-plugin": "latest",
+        "typescript-handler": "latest",
+        "typescript-hbs-plugin": "latest",
+        "typescript-head-to-toe": "latest",
+        "typescript-heapify": "latest",
+        "typescript-helper": "latest",
+        "typescript-helper-functions": "latest",
+        "typescript-helpers": "latest",
+        "typescript-hooks-react": "latest",
+        "typescript-hrnet-table": "latest",
+        "typescript-http-client": "latest",
+        "typescript-http-protobuf-utils": "latest"
+    }
+}

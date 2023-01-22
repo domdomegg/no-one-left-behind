@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-grunti",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grunticon-brunch": "latest",
+        "grunticon-cli": "latest",
+        "grunticon-lib": "latest",
+        "grunticon-lib-jspoe": "latest",
+        "grunticon-sass": "latest",
+        "gruntify-eslint": "latest",
+        "gruntify-eslint-v2": "latest",
+        "grunting": "latest"
+    }
+}

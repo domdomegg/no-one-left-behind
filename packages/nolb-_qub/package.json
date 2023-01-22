@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_qub",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@qubaish/payment-widget": "latest",
+        "@qubeekio/conditional-displaying": "latest",
+        "@qubeekio/minimum": "latest",
+        "@qubeekio/optional": "latest",
+        "@qubeekio/vue-fio-autocomplete": "latest",
+        "@qubic-connect/core": "latest",
+        "@qubic-connect/react": "latest",
+        "@qubic-connect/redirect": "latest",
+        "@qubic-creator/core": "latest",
+        "@qubic-creator/react": "latest",
+        "@qubic-js/browser": "latest",
+        "@qubic-js/core": "latest",
+        "@qubic-js/detect-inapp": "latest",
+        "@qubic-js/eth-json-rpc-infura": "latest",
+        "@qubic-js/react": "latest",
+        "@qubic-js/web3-core-method": "latest",
+        "@qubic/builder": "latest",
+        "@qubic/create-project": "latest",
+        "@qubic/dev-utils": "latest",
+        "@qubizapps/nestjs-commons": "latest",
+        "@qubizapps/nestjs-scheduler": "latest",
+        "@qubyte/appended-file-watcher": "latest",
+        "@qubyte/gamma": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-stx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stx": "latest",
+        "stx-abtest": "latest",
+        "stx-components": "latest",
+        "stx-components-lib": "latest",
+        "stx-dmn-eval-js": "latest",
+        "stx-fork": "latest",
+        "stx-lib": "latest",
+        "stx-library": "latest",
+        "stx-me": "latest",
+        "stx-persist-rocksdb": "latest",
+        "stx-react-filterable-table": "latest",
+        "stx-table": "latest",
+        "stx-vanilla": "latest",
+        "stx-vue": "latest",
+        "stx-vue-webview-js-bridge": "latest",
+        "stx_nextworld_api_client": "latest",
+        "stxcalculator": "latest",
+        "stxsim-ng": "latest",
+        "stxt": "latest"
+    }
+}

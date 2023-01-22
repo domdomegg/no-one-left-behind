@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-rxl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rxl": "latest",
+        "rxl.js": "latest",
+        "rxlax": "latest",
+        "rxleon": "latest",
+        "rxlf-init-npm": "latest",
+        "rxlib-react": "latest",
+        "rxline": "latest",
+        "rxlite-js": "latest",
+        "rxlize": "latest",
+        "rxlocal-pdk": "latest",
+        "rxloop": "latest"
+    }
+}

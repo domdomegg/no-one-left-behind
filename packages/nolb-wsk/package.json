@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-wsk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wsk": "latest",
+        "wsk-aanpm": "latest",
+        "wsk-mda": "latest",
+        "wsk-mkdira": "latest",
+        "wsk-mydemo": "latest",
+        "wsk-notify": "latest",
+        "wsk-random": "latest",
+        "wsk-test": "latest",
+        "wsk-track": "latest",
+        "wsk-ui": "latest",
+        "wsk-utils": "latest",
+        "wska": "latest",
+        "wskg-kgui1": "latest",
+        "wskg-qs": "latest",
+        "wskg-testnpm": "latest",
+        "wskit": "latest",
+        "wskj-koa-joi-swagger": "latest",
+        "wskng": "latest",
+        "wskproject": "latest",
+        "wsky": "latest"
+    }
+}

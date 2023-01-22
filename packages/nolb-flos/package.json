@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-flos",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "flos-ember-test-helpers": "latest",
+        "flos-ui": "latest",
+        "flosight-api": "latest",
+        "flosight-ui": "latest",
+        "flosql": "latest",
+        "floss": "latest",
+        "floss-js": "latest",
+        "flosum-sfdx-plugin": "latest"
+    }
+}

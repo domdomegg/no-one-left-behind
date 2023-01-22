@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-quac",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "quac-admin": "latest",
+        "quachio-testnpm": "latest",
+        "quack": "latest",
+        "quack-alert": "latest",
+        "quack-array": "latest",
+        "quack-it": "latest",
+        "quack-quack": "latest",
+        "quackamole": "latest",
+        "quackamole-event-emitter": "latest",
+        "quackamole-sdk": "latest",
+        "quackamole-server": "latest",
+        "quackatos": "latest",
+        "quackbaker": "latest",
+        "quacked": "latest",
+        "quacker": "latest",
+        "quackjs": "latest",
+        "quackle-lib": "latest",
+        "quacklink": "latest",
+        "quacklogs": "latest",
+        "quackquack-test": "latest",
+        "quackware": "latest"
+    }
+}

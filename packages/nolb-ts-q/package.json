@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-ts-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ts-qiwi-api": "latest",
+        "ts-qlik": "latest",
+        "ts-qmpt": "latest",
+        "ts-qrcode": "latest",
+        "ts-quantities": "latest",
+        "ts-query": "latest",
+        "ts-query-array": "latest",
+        "ts-query-builder": "latest",
+        "ts-query-cli": "latest",
+        "ts-querying": "latest",
+        "ts-quest-package": "latest",
+        "ts-queue-worker": "latest",
+        "ts-quick": "latest",
+        "ts-quick-docs": "latest",
+        "ts-quick-smtp": "latest",
+        "ts-quick-starter": "latest",
+        "ts-quickfixes-plugin": "latest",
+        "ts-quickstore": "latest"
+    }
+}

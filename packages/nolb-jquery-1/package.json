@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-jquery-1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jquery-1.10.2": "latest",
+        "jquery-1.8": "latest",
+        "jquery-1x": "latest"
+    }
+}

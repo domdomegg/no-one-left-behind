@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-generati",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "generation": "latest",
+        "generation-passwordjs": "latest",
+        "generation-react-components": "latest",
+        "generation-ui-components": "latest",
+        "generational-arena": "latest",
+        "generatit": "latest",
+        "generativ": "latest",
+        "generative": "latest",
+        "generative-art": "latest",
+        "generative-art-tools": "latest",
+        "generative-art-utils": "latest",
+        "generative-bayesian-network": "latest",
+        "generative-design": "latest",
+        "generative-design-library.js": "latest",
+        "generative-designs": "latest",
+        "generative-framework": "latest",
+        "generative-tools": "latest",
+        "generative.scss": "latest"
+    }
+}

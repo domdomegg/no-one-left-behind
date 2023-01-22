@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_axc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@axc/anima": "latest",
+        "@axc/ecs-ts": "latest",
+        "@axc/react-components": "latest",
+        "@axc/thread-manager": "latest",
+        "@axca/reax": "latest",
+        "@axceta/angular-editor-fabric-js": "latest",
+        "@axcnt/commons": "latest"
+    }
+}

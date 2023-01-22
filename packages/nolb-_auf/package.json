@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_auf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aufacicenta/microservice-generator": "latest",
+        "@aufentic/express-subdomain": "latest",
+        "@aufero/sidecar-sdk": "latest"
+    }
+}

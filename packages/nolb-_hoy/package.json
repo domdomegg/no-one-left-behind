@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_hoy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hoyivn/hybridapp": "latest",
+        "@hoyleg/react-native-navbar": "latest",
+        "@hoyleg/react-native-side-menu": "latest",
+        "@hoyleg/react-native-simple-modal": "latest",
+        "@hoyleg/rn-textinputlayout": "latest",
+        "@hoythan/watermark-dom": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-babu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babu": "latest",
+        "babu-dev": "latest",
+        "babuin": "latest",
+        "babushka": "latest"
+    }
+}

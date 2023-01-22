@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_dan-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dan-akl/patterns": "latest",
+        "@dan-escott/react-dashboard": "latest",
+        "@dan-nz/auto-config": "latest",
+        "@dan-nz/commitlint-config": "latest",
+        "@dan-nz/design-system-components": "latest",
+        "@dan-nz/design-system-tailwind": "latest",
+        "@dan-nz/design-system-tokens": "latest",
+        "@dan-nz/documentation-primitives": "latest",
+        "@dan-nz/eslint-config": "latest",
+        "@dan-nz/nws-table": "latest",
+        "@dan-nz/prettier-config": "latest",
+        "@dan-nz/semantic-release-config": "latest",
+        "@dan-nz/storybook-documentation-primitives": "latest",
+        "@dan-nz/storybook-theme": "latest",
+        "@dan-nz/stylelint-config": "latest",
+        "@dan-online/bunnycdnjs": "latest",
+        "@dan-online/solid-highlight-ts": "latest",
+        "@dan-p-baker/imburse-checkout": "latest",
+        "@dan-p-baker/sibsdpg-card": "latest",
+        "@dan-p-baker/stencil-test": "latest",
+        "@dan-pugsley/react-scroll-spinner": "latest",
+        "@dan-sogbey/valitator": "latest",
+        "@dan-sogbey/whitespaceremover": "latest",
+        "@dan-weaver/draft-js-mention-plugin": "latest",
+        "@dan-weinert/beacon": "latest"
+    }
+}

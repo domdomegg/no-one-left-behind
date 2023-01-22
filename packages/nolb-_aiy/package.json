@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_aiy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aiyan/prettier-config": "latest",
+        "@aiyan/safeplaces-auth": "latest",
+        "@aiyeola/task-manager": "latest",
+        "@aiyk/custom-data-table": "latest",
+        "@aiyk/data-table": "latest",
+        "@aiym/mobile-ui": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-stylek",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stylek": "latest",
+        "stylekit": "latest",
+        "stylekit2": "latest"
+    }
+}

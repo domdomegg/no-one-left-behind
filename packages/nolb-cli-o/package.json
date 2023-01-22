@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-cli-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cli-o": "latest",
+        "cli-oauth-client": "latest",
+        "cli-of-mine": "latest",
+        "cli-one": "latest",
+        "cli-op": "latest",
+        "cli-open-dicom-with-chrome": "latest",
+        "cli-opentelemetry": "latest",
+        "cli-ossutil": "latest",
+        "cli-output": "latest",
+        "cli-overlay-ttn1": "latest"
+    }
+}

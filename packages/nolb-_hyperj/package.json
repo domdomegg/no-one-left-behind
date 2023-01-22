@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_hyperj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyperjump-defi/onramper-widget": "latest",
+        "@hyperjump-defi/sdk": "latest",
+        "@hyperjump-defi/uikit": "latest",
+        "@hyperjump/browser": "latest",
+        "@hyperjump/json": "latest",
+        "@hyperjump/json-pointer": "latest",
+        "@hyperjump/json-reference": "latest",
+        "@hyperjump/json-schema": "latest",
+        "@hyperjump/json-schema-bundle": "latest",
+        "@hyperjump/json-schema-core": "latest",
+        "@hyperjump/json-validation": "latest",
+        "@hyperjump/oas-schema-validator": "latest",
+        "@hyperjump/pact": "latest",
+        "@hyperjump/uri": "latest",
+        "@hyperjump/uri-template": "latest",
+        "@hyperjump/validation": "latest",
+        "@hyperjumptech/db-connection-checker": "latest",
+        "@hyperjumptech/export-github-clones-views": "latest",
+        "@hyperjumptech/js-urai": "latest",
+        "@hyperjumptech/monika": "latest",
+        "@hyperjumptech/react-native-confetti": "latest",
+        "@hyperjumptech/universal-update-checker": "latest",
+        "@hyperjumptech/whatsapp-business-sender": "latest"
+    }
+}

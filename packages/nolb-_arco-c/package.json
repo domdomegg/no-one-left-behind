@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_arco-c",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@arco-cloud/error": "latest",
+        "@arco-cloud/eslint-config-arco": "latest",
+        "@arco-cloud/express": "latest",
+        "@arco-cloud/kafka": "latest",
+        "@arco-cloud/logging": "latest",
+        "@arco-cloud/mq": "latest"
+    }
+}

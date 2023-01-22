@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-cloudn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cloudnative": "latest",
+        "cloudnativemath": "latest",
+        "cloudnativeos": "latest",
+        "cloudnet-ui": "latest",
+        "cloudniite": "latest",
+        "cloudnode-api": "latest",
+        "cloudnode-cli": "latest",
+        "cloudnode-ts": "latest",
+        "cloudns": "latest",
+        "cloudns-cloudformation-sync": "latest"
+    }
+}

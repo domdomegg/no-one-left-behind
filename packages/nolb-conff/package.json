@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-conff",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "conff": "latest",
+        "confff": "latest",
+        "conffle": "latest",
+        "conffle-artifactor": "latest",
+        "conffle-blockchain-utils": "latest",
+        "conffle-config": "latest",
+        "conffle-contract": "latest",
+        "conffle-error": "latest",
+        "conffle-lib": "latest",
+        "conffle-logger": "latest",
+        "conffle-utils": "latest"
+    }
+}

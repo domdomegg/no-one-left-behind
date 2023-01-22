@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-sveltej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sveltejob": "latest",
+        "sveltejs-adapter-ipfs": "latest",
+        "sveltejs-brunch": "latest",
+        "sveltejs-content-loader": "latest",
+        "sveltejs-fontawesome": "latest",
+        "sveltejs-form": "latest",
+        "sveltejs-forms": "latest",
+        "sveltejs-markdoc": "latest",
+        "sveltejs-show": "latest",
+        "sveltejs-tippy": "latest",
+        "sveltejs_modal": "latest",
+        "sveltejscms": "latest",
+        "sveltejscmstest": "latest"
+    }
+}

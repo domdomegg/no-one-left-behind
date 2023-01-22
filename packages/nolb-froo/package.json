@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-froo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "froobit": "latest",
+        "froobit-cli": "latest",
+        "froogaloop-commonjs": "latest",
+        "froom-utls": "latest",
+        "froot": "latest",
+        "froot-elements": "latest",
+        "froot-uc": "latest",
+        "froot-wrapper": "latest",
+        "frootloop": "latest",
+        "frootloops": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-disca",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discan": "latest",
+        "discantispam": "latest",
+        "discanvas": "latest",
+        "discapp": "latest",
+        "discapp-dev": "latest",
+        "discard": "latest",
+        "discard-bot": "latest",
+        "discard-stream": "latest",
+        "discaudio": "latest",
+        "discauth": "latest"
+    }
+}

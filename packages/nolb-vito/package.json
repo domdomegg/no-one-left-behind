@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-vito",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vito": "latest",
+        "vito-grid": "latest",
+        "vito-react-demo-1": "latest",
+        "vito_cli": "latest",
+        "vitocollect": "latest",
+        "vitogisframework": "latest",
+        "vitomonitor": "latest",
+        "vitomuci": "latest",
+        "vitopedro-test-library": "latest",
+        "vitor": "latest",
+        "vitor-components": "latest",
+        "vitor-manfre": "latest",
+        "vitor-testing-lbs-xd": "latest",
+        "vitorcominato-test": "latest",
+        "vitorfranca-components": "latest",
+        "vitorfreitas-puppeteer-table-parser": "latest",
+        "vitorfreitas-react-beautiful-dnd-grid": "latest",
+        "vitorhidalgo-design-system": "latest",
+        "vitorhugomarcal": "latest",
+        "vitoria": "latest",
+        "vitorify": "latest",
+        "vitorm11-cj-daterange-picker": "latest",
+        "vitorpmaringolo-sdk": "latest",
+        "vitorteccom-dekajs": "latest"
+    }
+}

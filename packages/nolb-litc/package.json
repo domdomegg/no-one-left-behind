@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-litc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "litceshiweb": "latest",
+        "litch": "latest",
+        "litchi": "latest",
+        "litchi-cookie": "latest",
+        "litchi-design": "latest",
+        "litchi-mp": "latest",
+        "litchi-mp-ci": "latest",
+        "litchi-mp-devtools-ci": "latest",
+        "litchi-mp-images": "latest",
+        "litchi-mp-plugin-router": "latest",
+        "litchi-mp-router": "latest",
+        "litchi-mp-service": "latest",
+        "litchi-node": "latest",
+        "litchi-session": "latest",
+        "litchi-tools": "latest",
+        "litchi-ui": "latest",
+        "litchily": "latest",
+        "litchis": "latest",
+        "litchy": "latest"
+    }
+}

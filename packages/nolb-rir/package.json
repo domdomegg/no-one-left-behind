@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-rir",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rir": "latest",
+        "rir-parser": "latest",
+        "riri": "latest",
+        "riri-game-engine": "latest",
+        "riri-room-client": "latest",
+        "ririio-ssg": "latest",
+        "ririri": "latest",
+        "riro": "latest"
+    }
+}

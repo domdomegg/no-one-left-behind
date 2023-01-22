@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-remp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "remp": "latest",
+        "remp-node-api": "latest",
+        "rempl": "latest",
+        "rempl-cli": "latest",
+        "rempl-graphql-devtools": "latest",
+        "rempl-webpack-analyzer": "latest",
+        "remporium": "latest"
+    }
+}

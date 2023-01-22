@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-uia",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "uia-framework": "latest",
+        "uiaa": "latest",
+        "uiaas-components": "latest",
+        "uiabc-theme": "latest",
+        "uiae": "latest",
+        "uiamp": "latest",
+        "uiamp-client": "latest",
+        "uiangular-component": "latest",
+        "uiapp-charles": "latest",
+        "uiapptest": "latest",
+        "uiarch-design-system-components": "latest",
+        "uiarch-design-system-components.step-indicator": "latest",
+        "uiary": "latest",
+        "uiatar-react-tooltip": "latest",
+        "uiatotap": "latest",
+        "uiauto": "latest",
+        "uiauto-cli": "latest",
+        "uiautobox": "latest",
+        "uiautodex": "latest",
+        "uiautomation-runner": "latest",
+        "uiautomator": "latest",
+        "uiautomator-client": "latest",
+        "uiautomator-client-slef": "latest",
+        "uiautomator-server": "latest",
+        "uiautomator-web": "latest",
+        "uiautomator-wrapper": "latest",
+        "uiautomator-x": "latest",
+        "uiautomator2": "latest"
+    }
+}

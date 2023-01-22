@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_code_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@code.brofessor/port-checker": "latest",
+        "@code.gov/about-page": "latest",
+        "@code.gov/api-client": "latest",
+        "@code.gov/cautious": "latest",
+        "@code.gov/code-gov-adapter": "latest",
+        "@code.gov/code-gov-api-client": "latest",
+        "@code.gov/code-gov-font": "latest",
+        "@code.gov/code-gov-style": "latest",
+        "@code.gov/code-gov-validator": "latest",
+        "@code.gov/coding-languages": "latest",
+        "@code.gov/compliance-dashboard-web-component": "latest",
+        "@code.gov/fscp-react-component": "latest",
+        "@code.gov/json-schema-validator-web-component": "latest",
+        "@code.gov/json-schema-web-component": "latest",
+        "@code.gov/site-map-generator": "latest",
+        "@code.tieumomo/vymob-debug-tools": "latest",
+        "@code_bounce/brainiac-ui": "latest",
+        "@code_drive/lotide": "latest",
+        "@code_is_working/react-native-wears": "latest",
+        "@code_monk/falert": "latest",
+        "@code_monk/s3-streams": "latest",
+        "@code_of_power/react-hotkeys": "latest"
+    }
+}

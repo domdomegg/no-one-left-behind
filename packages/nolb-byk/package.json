@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-byk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "byk": "latest",
+        "byk-test": "latest",
+        "byk-whoami": "latest",
+        "byke": "latest",
+        "bykitty.db": "latest",
+        "bykj_cli": "latest",
+        "bykm_chat": "latest"
+    }
+}

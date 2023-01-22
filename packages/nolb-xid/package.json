@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-xid",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "xid": "latest",
+        "xid-js": "latest",
+        "xid-js-seed": "latest",
+        "xide": "latest",
+        "xide-js": "latest",
+        "xidesign": "latest",
+        "xidi": "latest",
+        "xidian-cli": "latest",
+        "xidoyatmodule": "latest",
+        "xiduo": "latest",
+        "xiduo68": "latest",
+        "xiduoya": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-fsb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fsb": "latest",
+        "fsb-address": "latest",
+        "fsb-hook-form-fields": "latest",
+        "fsbao": "latest",
+        "fsbao_yy": "latest",
+        "fsbash": "latest",
+        "fsbash-cli": "latest",
+        "fsbaz": "latest",
+        "fsbin": "latest",
+        "fsblog": "latest",
+        "fsblxc": "latest",
+        "fsbox": "latest",
+        "fsbr": "latest",
+        "fsbridge": "latest",
+        "fsbx": "latest"
+    }
+}

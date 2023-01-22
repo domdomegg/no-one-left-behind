@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-epn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "epn-cabinet-api": "latest",
+        "epn-markdown-editor": "latest",
+        "epn-ref-manager": "latest",
+        "epn-ui": "latest",
+        "epn-ui-test": "latest",
+        "epn-utm-params-manager": "latest",
+        "epnet": "latest",
+        "epnet-lib": "latest",
+        "epns-frontend-sdk-staging": "latest",
+        "epns-sdk": "latest",
+        "epnz-block-ui": "latest"
+    }
+}

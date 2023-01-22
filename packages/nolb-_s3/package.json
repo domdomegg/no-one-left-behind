@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_s3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@s3-publish/cli": "latest",
+        "@s3-publish/core": "latest",
+        "@s3-publish/loggers": "latest",
+        "@s3-publish/provider-fs": "latest",
+        "@s3-publish/provider-s3": "latest",
+        "@s360-utils/exceljs": "latest",
+        "@s360-utils/util-kits": "latest",
+        "@s360digital/eslint-config": "latest",
+        "@s3bubble/aws-directory-upload": "latest",
+        "@s3bubble/player": "latest",
+        "@s3bubble/s3player-react-component": "latest",
+        "@s3bubble/videojs-contrib-dash-with-quality-levels": "latest",
+        "@s3bubble/videojs-s3bubble-bitrate-switcher": "latest",
+        "@s3bubble/videojs-s3bubble-mediatailor": "latest",
+        "@s3bubble/videojs-s3bubble-settings-menu": "latest",
+        "@s3cure/vs-nodesecurity": "latest",
+        "@s3leha/lotide": "latest",
+        "@s3p-js-deep-purple/utils": "latest",
+        "@s3pweb/capacitor-http": "latest",
+        "@s3pweb/keycloak-admin-client-cjs": "latest",
+        "@s3pweb/leaflet.vectorgrid": "latest",
+        "@s3pweb/nestjs-common": "latest",
+        "@s3pweb/nestjs-ip-whitelist": "latest",
+        "@s3pweb/release-message-creator": "latest",
+        "@s3pweb/s3pweb-logger": "latest",
+        "@s3pweb/simple-kafka-promise": "latest",
+        "@s3rver/nuxt-modal": "latest",
+        "@s3xys4s/cbruid": "latest"
+    }
+}

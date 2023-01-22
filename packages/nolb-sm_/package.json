@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-sm_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sm.bump": "latest",
+        "sm.colos": "latest",
+        "sm.contract": "latest",
+        "sm.css": "latest",
+        "sm.dal": "latest",
+        "sm.dto": "latest",
+        "sm.expand": "latest",
+        "sm.hoist.visualcomponents": "latest",
+        "sm.js": "latest",
+        "sm.keep": "latest",
+        "sm.ms_upload": "latest",
+        "sm.resolve": "latest",
+        "sm.simple-uploader": "latest",
+        "sm_211_sm": "latest",
+        "sm_earth": "latest",
+        "sm_hgcomponent": "latest",
+        "sm_hgcomponents": "latest",
+        "sm_playground": "latest",
+        "sm_plugin": "latest",
+        "sm_widget-editor": "latest"
+    }
+}

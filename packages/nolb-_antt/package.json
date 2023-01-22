@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_antt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@anttargett/ant": "latest",
+        "@anttikissa/fisher-yates-shuffle": "latest",
+        "@anttin/code-style": "latest",
+        "@anttiviljami/data-grid": "latest",
+        "@anttiviljami/dtsgenerator": "latest",
+        "@anttiviljami/json-schema-ref-parser": "latest",
+        "@anttiviljami/serverless-stack-output": "latest",
+        "@anttiviljami/unleash-proxy-client": "latest",
+        "@anttiviljami/yn": "latest",
+        "@anttix/common": "latest",
+        "@antttezy/staking.ts": "latest",
+        "@anttunnel/anttunnel": "latest"
+    }
+}

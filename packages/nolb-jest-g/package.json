@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-jest-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jest-gas-reporter": "latest",
+        "jest-gauge": "latest",
+        "jest-gen": "latest",
+        "jest-generator": "latest",
+        "jest-geojson": "latest",
+        "jest-get-mocks": "latest",
+        "jest-get-type": "latest",
+        "jest-gh-md-reporter": "latest",
+        "jest-gherkin": "latest",
+        "jest-git-validator": "latest",
+        "jest-github-action": "latest",
+        "jest-github-actions": "latest",
+        "jest-github-actions-reporter": "latest",
+        "jest-github-reporter": "latest",
+        "jest-given": "latest",
+        "jest-given-when-then": "latest",
+        "jest-gl": "latest",
+        "jest-glamor-react": "latest",
+        "jest-globals": "latest",
+        "jest-golden-master": "latest",
+        "jest-google-maps-mock": "latest",
+        "jest-googleapi-mock": "latest",
+        "jest-graphql": "latest",
+        "jest-graphql-transform": "latest",
+        "jest-graphviz": "latest",
+        "jest-gwt": "latest"
+    }
+}

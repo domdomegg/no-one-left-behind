@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-ssk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ssk-ui": "latest",
+        "sskham": "latest",
+        "sskj-ui": "latest",
+        "sskpi-framework": "latest",
+        "sskpi-libs": "latest",
+        "sskpi-libs-v2": "latest",
+        "sskpi-pbac": "latest",
+        "sskshubhtnode": "latest",
+        "ssku": "latest",
+        "sskv-parser": "latest"
+    }
+}

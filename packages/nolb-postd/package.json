@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-postd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "postdam": "latest",
+        "postdata": "latest",
+        "postdata-wechat": "latest",
+        "postdfm": "latest",
+        "postdirekt-autocomplete": "latest",
+        "postdoc": "latest",
+        "postdoc-lib": "latest",
+        "postdown": "latest"
+    }
+}

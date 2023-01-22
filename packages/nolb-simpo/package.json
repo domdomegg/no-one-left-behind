@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-simpo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simpo": "latest",
+        "simpods-mixins": "latest",
+        "simpol-google-sheet": "latest",
+        "simpol-ui": "latest",
+        "simpolgytestplugin": "latest",
+        "simpollsystems": "latest",
+        "simpologytestplugin": "latest",
+        "simport": "latest",
+        "simpower-validation": "latest",
+        "simpozio-sdk": "latest"
+    }
+}

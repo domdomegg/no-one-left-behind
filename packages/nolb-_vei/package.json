@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_vei",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@veighnsche/csv": "latest",
+        "@veighnsche/deepmerge": "latest",
+        "@veighnsche/pipe": "latest",
+        "@veikkaus/re-node-config": "latest",
+        "@veikkos/cryptico": "latest",
+        "@veiligebuurt/clevertap-cordova": "latest",
+        "@veiligebuurt/cordova-plugin-firebase": "latest",
+        "@veiligebuurt/phonegap-plugin-push": "latest",
+        "@veins/vn-api": "latest",
+        "@veinte_desarrollo/amount-formatter": "latest",
+        "@veinte_desarrollo/coin-coverter": "latest",
+        "@veiss-com/sw-tools": "latest"
+    }
+}

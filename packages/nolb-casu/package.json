@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-casu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "casua": "latest",
+        "casual": "latest",
+        "casual-browserify": "latest",
+        "casual-commit": "latest",
+        "casual-invest": "latest",
+        "casual-messages": "latest",
+        "casual-messages-generator": "latest",
+        "casual-mini-esm": "latest",
+        "casual-time": "latest",
+        "casual-ui-react": "latest",
+        "casual-ui-svelte": "latest",
+        "casual-ui-vue": "latest",
+        "casual-ui-vue3": "latest",
+        "casual-ui1": "latest",
+        "casualcommerce-cart": "latest",
+        "casualis": "latest",
+        "casualjs-northrain-cmd": "latest",
+        "casually-css": "latest",
+        "casualpoll": "latest",
+        "casualseller": "latest",
+        "casualtranslate": "latest",
+        "casule": "latest",
+        "casumarzu": "latest"
+    }
+}

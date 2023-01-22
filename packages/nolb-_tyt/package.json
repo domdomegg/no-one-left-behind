@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_tyt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tytickets/common": "latest",
+        "@tytocare/tyto-test-package": "latest",
+        "@tytodynamic-test/apitomic-angular": "latest",
+        "@tytodynamic-test/apitomic-react": "latest",
+        "@tytodynamic/apitomic-angular": "latest",
+        "@tytodynamic/apitomic-react": "latest",
+        "@tytools/button-radio": "latest",
+        "@tytools/card": "latest",
+        "@tytools/config-provider": "latest",
+        "@tytools/customimg": "latest",
+        "@tytools/form-example": "latest",
+        "@tytools/formblock": "latest",
+        "@tytools/img-radio": "latest",
+        "@tytools/info": "latest",
+        "@tytools/input": "latest",
+        "@tytools/inputnumber": "latest",
+        "@tytools/list-select": "latest",
+        "@tytools/panelselect": "latest",
+        "@tytools/panelswitch": "latest",
+        "@tytools/regexp": "latest",
+        "@tytools/sudoku": "latest",
+        "@tytools/upload": "latest",
+        "@tytools/util": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-zoc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zoc": "latest",
+        "zocci": "latest",
+        "zocco": "latest",
+        "zock": "latest",
+        "zock-button": "latest",
+        "zock-js": "latest",
+        "zocka-maniaplanet-formatter": "latest",
+        "zocr": "latest",
+        "zocrmsdk": "latest"
+    }
+}

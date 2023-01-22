@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_pani",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@panicoenlaxbox/example": "latest",
+        "@panicoenlaxbox/tvmaze": "latest",
+        "@panicstyle/finenex-did": "latest",
+        "@panicstyle/finenex-did-resolver": "latest",
+        "@panicstyle/finenex-veramo-plugin": "latest",
+        "@panicstyle/test-kms": "latest",
+        "@panini-bhasha/core": "latest",
+        "@paniniswap/paniniswap-core": "latest",
+        "@paniniswap/paniniswap-sdk": "latest",
+        "@paniniswap/paniniswap-uikit": "latest",
+        "@panintelligence/document.cookie.mock": "latest",
+        "@panirajasrikanth/basepage": "latest"
+    }
+}

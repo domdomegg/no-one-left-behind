@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_imd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@imdevesh/congenial-waddle": "latest",
+        "@imdevesh/verify-valid-ssl": "latest",
+        "@imdodds/lotide": "latest",
+        "@imdreamrunner/next-i18next-koa-async": "latest",
+        "@imdt-os/build-react-from-ng": "latest",
+        "@imdt-os/url-tail": "latest"
+    }
+}

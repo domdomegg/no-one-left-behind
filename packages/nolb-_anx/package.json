@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_anx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@anxi/app": "latest",
+        "@anxi/core": "latest",
+        "@anxi/loader": "latest",
+        "@anxi/physics": "latest",
+        "@anxi/render": "latest",
+        "@anxi/vdom": "latest",
+        "@anxi/view": "latest",
+        "@anxi/view-const": "latest",
+        "@anxi/view-matrix": "latest",
+        "@anxi/view-particle": "latest",
+        "@anxi/view-spine": "latest",
+        "@anxin/web-config": "latest",
+        "@anxin/webpack-library-test": "latest",
+        "@anxing131/casdoor-nodejs-sdk": "latest",
+        "@anxing131/openid-client": "latest",
+        "@anxing131/q-router": "latest",
+        "@anxing131/tracing": "latest",
+        "@anxio/core": "latest",
+        "@anxolin/cow-runner-game": "latest",
+        "@anxolin/express-prom-bundle": "latest",
+        "@anxolin/mail": "latest",
+        "@anxolin/uniswap-sdk": "latest",
+        "@anxolin/walletconnect-connector": "latest",
+        "@anxorl/ng-c3-gauge": "latest",
+        "@anxorl/ng2-charts": "latest"
+    }
+}

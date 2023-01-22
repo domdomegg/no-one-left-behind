@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-po2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "po2icu": "latest",
+        "po2js": "latest",
+        "po2json": "latest",
+        "po2json-js": "latest",
+        "po2mo-loader": "latest"
+    }
+}

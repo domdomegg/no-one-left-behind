@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-drf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "drf": "latest",
+        "drf-api-client": "latest",
+        "drf-auth": "latest",
+        "drf-ember-frontend": "latest",
+        "drf-paginator": "latest",
+        "drf-quasar-ui": "latest",
+        "drf-redux-auth": "latest",
+        "drf.grid": "latest",
+        "drfd_sushuo": "latest",
+        "drfile": "latest",
+        "drfoojs": "latest",
+        "drformbuilder": "latest",
+        "drforms": "latest",
+        "drformsbuild": "latest",
+        "drforna": "latest",
+        "drfrf": "latest",
+        "drfront-responsive": "latest",
+        "drfront.responsive": "latest",
+        "drftjs": "latest"
+    }
+}

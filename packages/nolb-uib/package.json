@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-uib",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "uib": "latest",
+        "uib-context-menu": "latest",
+        "uibk-pm-checkfiles": "latest",
+        "uiblocker": "latest",
+        "uiblocker-react": "latest",
+        "uiblocks": "latest",
+        "uiboard-components": "latest",
+        "uibook": "latest",
+        "uibot": "latest",
+        "uibot-cli": "latest",
+        "uibot-commander": "latest",
+        "uibot-sdk": "latest",
+        "uibox-kit": "latest",
+        "uibridge": "latest",
+        "uibrqzjpknsdvyfw": "latest",
+        "uibuddy": "latest",
+        "uibuilder-material": "latest",
+        "uibuilder-wxmini": "latest"
+    }
+}

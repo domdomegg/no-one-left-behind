@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-hubot-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hubot-ya-url-title": "latest",
+        "hubot-yahoo-amagumo": "latest",
+        "hubot-yam": "latest",
+        "hubot-yammer": "latest",
+        "hubot-yandex-translate": "latest",
+        "hubot-yardmaster": "latest",
+        "hubot-yelp": "latest",
+        "hubot-yemeksepeti": "latest",
+        "hubot-yesnowtf": "latest",
+        "hubot-yet-another-foos": "latest",
+        "hubot-yeti": "latest",
+        "hubot-yigeAi": "latest",
+        "hubot-yo": "latest",
+        "hubot-yolo": "latest",
+        "hubot-yourface": "latest",
+        "hubot-yourpeople": "latest",
+        "hubot-youtube": "latest",
+        "hubot-youtube-feed": "latest",
+        "hubot-youtube-info": "latest",
+        "hubot-youtube-live": "latest",
+        "hubot-youtube-network": "latest",
+        "hubot-youtube-tracker": "latest",
+        "hubot-youtube-v3": "latest",
+        "hubot-youtubepl": "latest",
+        "hubot-yubikey-invalidation": "latest",
+        "hubot-yychat": "latest"
+    }
+}

@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_evl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@evlad/vue-terminal": "latest",
+        "@evlad/vue-terminal-ui": "latest",
+        "@evless/react-textfit": "latest",
+        "@evley/importer": "latest",
+        "@evlop/cli": "latest",
+        "@evlop/commons": "latest",
+        "@evlop/contexts": "latest",
+        "@evlop/core": "latest",
+        "@evlop/frontend": "latest",
+        "@evlop/froontend": "latest",
+        "@evlop/hooks": "latest",
+        "@evlop/native-components": "latest",
+        "@evlop/react-native-make": "latest",
+        "@evlop/site-cli": "latest",
+        "@evlop/web-components": "latest",
+        "@evlos/cli-plugin-babel": "latest",
+        "@evlos/cli-plugin-eslint": "latest",
+        "@evlos/cli-plugin-unit-jest": "latest",
+        "@evlos/cli-service": "latest",
+        "@evlos/cli-shared-utils": "latest"
+    }
+}

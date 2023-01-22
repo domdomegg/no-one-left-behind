@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-mongoose-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mongoose-gen": "latest",
+        "mongoose-generate-unique-key": "latest",
+        "mongoose-generic-api": "latest",
+        "mongoose-geojson": "latest",
+        "mongoose-geojson-schema": "latest",
+        "mongoose-geojson-schemas": "latest",
+        "mongoose-get-default-value": "latest",
+        "mongoose-getters": "latest",
+        "mongoose-global": "latest",
+        "mongoose-glue": "latest",
+        "mongoose-gm": "latest",
+        "mongoose-graphql": "latest",
+        "mongoose-graphql-server": "latest",
+        "mongoose-graphql-transformer": "latest",
+        "mongoose-graphql-type": "latest",
+        "mongoose-gravatar": "latest",
+        "mongoose-gridfs": "latest",
+        "mongoose-gridfs-operations": "latest",
+        "mongoose-gridstore": "latest",
+        "mongoose-groups-acl": "latest",
+        "mongoose-guid": "latest"
+    }
+}

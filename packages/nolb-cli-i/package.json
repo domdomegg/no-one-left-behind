@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-cli-i",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cli-icomoon": "latest",
+        "cli-idea": "latest",
+        "cli-if": "latest",
+        "cli-ifcjs": "latest",
+        "cli-img-codeword7": "latest",
+        "cli-in-ts": "latest",
+        "cli-infinity-progress": "latest",
+        "cli-info-test": "latest",
+        "cli-init": "latest",
+        "cli-init-ttn1": "latest",
+        "cli-input": "latest",
+        "cli-inquirer": "latest",
+        "cli-inspector": "latest",
+        "cli-installer": "latest",
+        "cli-interact": "latest",
+        "cli-interface": "latest",
+        "cli-interval": "latest",
+        "cli-intromsg": "latest",
+        "cli-invoke": "latest",
+        "cli-io": "latest",
+        "cli-item": "latest",
+        "cli-itu": "latest",
+        "cli-iva-generator": "latest"
+    }
+}

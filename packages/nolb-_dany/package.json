@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_dany",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dany-armstrong/hardhat-compound": "latest",
+        "@dany-armstrong/hardhat-erc20": "latest",
+        "@dany-deg/decorators": "latest",
+        "@dany-deg/deg-validators-transformers": "latest",
+        "@dany-deg/degcli": "latest",
+        "@dany-deg/exceptions-handler": "latest",
+        "@dany-deg/generics": "latest",
+        "@dany-deg/nest-cli": "latest",
+        "@dany-deg/nest-toolkit": "latest",
+        "@dany-deg/transforms": "latest",
+        "@dany-deg/validators": "latest",
+        "@dany-eduard/cra-template-ts-eslint-prettier": "latest",
+        "@danyadev/vue-devtools": "latest",
+        "@danyanikora/testssssssssdfsd1231": "latest",
+        "@danyaqf/eslint-config-preset-vue3-ts": "latest",
+        "@danyarubcov/adaptivitynavigation": "latest",
+        "@danydodson/eslint-config-react": "latest",
+        "@danydodson/prettier-config": "latest",
+        "@danyglez94/platzimediaplayer": "latest",
+        "@danyjaen/webpack": "latest",
+        "@danyk2099/x2js": "latest",
+        "@danyo1399/approve-pr": "latest",
+        "@danyo1399/memo-fetch": "latest",
+        "@danyo1399/proxy-server": "latest",
+        "@danyo1399/simon-says": "latest",
+        "@danyou/lotide": "latest",
+        "@danytdmenon1900/date-transform": "latest"
+    }
+}

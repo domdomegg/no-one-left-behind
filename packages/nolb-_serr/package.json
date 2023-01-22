@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_serr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@serrabii/svg-erase": "latest",
+        "@serrander/random-mesages-serrander": "latest",
+        "@serro/cli": "latest",
+        "@serro/core": "latest",
+        "@serro/tools": "latest",
+        "@serrulien/ngx-infinite-scroll": "latest"
+    }
+}

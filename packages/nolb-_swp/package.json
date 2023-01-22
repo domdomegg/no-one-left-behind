@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_swp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@swp/elo-sdk": "latest",
+        "@swp/ledger-sdk": "latest",
+        "@swp/pay-sdk": "latest",
+        "@swp/swipe-backoffice-sdk": "latest",
+        "@swp/swipe-sdk": "latest",
+        "@swp/wallet-sdk": "latest",
+        "@swp0x0/protocol-v2": "latest",
+        "@swp0x0/warp": "latest",
+        "@swp0x0/warp-ts": "latest",
+        "@swp0x0/warppp": "latest"
+    }
+}

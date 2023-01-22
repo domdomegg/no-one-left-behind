@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-prl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "prl": "latest",
+        "prl-buttons": "latest",
+        "prl-demo-component": "latest",
+        "prl-facial-recognization": "latest",
+        "prlang-language": "latest",
+        "prlatch": "latest",
+        "prlbot": "latest",
+        "prlimit": "latest",
+        "prll": "latest",
+        "prlx": "latest",
+        "prlxjs": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_steb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@steban1/bchswap-sdk": "latest",
+        "@steban1/rlogin": "latest",
+        "@steban1/rlogin-web3-react-connector": "latest",
+        "@steban1/ropsten-sdk": "latest",
+        "@steban1/ropsten1swap-sdk": "latest",
+        "@steban1/sdk-bch": "latest",
+        "@steban1/test-sdk": "latest",
+        "@steban1/v2-sdk-binance": "latest",
+        "@steban1/v2-sdk-ropsten": "latest",
+        "@steban1/v2-sdk-sbch": "latest",
+        "@steban1/v22-sdk": "latest",
+        "@stebenwolf/stebenwolf-modal-package": "latest",
+        "@stebneruslan/custom-color-picker": "latest",
+        "@stebneruslan/ngx-color-picker": "latest",
+        "@stebunting/library": "latest",
+        "@stebunting/verify": "latest"
+    }
+}

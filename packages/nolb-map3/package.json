@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-map3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "map33": "latest",
+        "map3d": "latest",
+        "map3d-gallery": "latest",
+        "map3d-ldm": "latest",
+        "map3d-mos-example": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_awl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@awlc/react": "latest",
+        "@awlc/tokens": "latest",
+        "@awlet/c1": "latest",
+        "@awlet/c2": "latest",
+        "@awliebenberg/ea-public-api-client": "latest",
+        "@awliebenberg/ea-sdk": "latest",
+        "@awliebenberg/public-weather-client": "latest",
+        "@awlsring/cdktf-surreal-backend": "latest",
+        "@awlsring/cloud-pihole": "latest",
+        "@awlsring/sops-secret": "latest",
+        "@awly/dynamodb-admin": "latest",
+        "@awly/env": "latest",
+        "@awly/express-longpoll": "latest",
+        "@awly/lasso": "latest",
+        "@awly/lasso-marko": "latest",
+        "@awly/lasso-sass": "latest",
+        "@awly/marko": "latest",
+        "@awly/raptor-cache": "latest"
+    }
+}

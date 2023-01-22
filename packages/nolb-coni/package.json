@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-coni",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "conic": "latest",
+        "conic-button": "latest",
+        "conic-checkbox": "latest",
+        "conic-cli": "latest",
+        "conic-gradient": "latest",
+        "conic-layout-global": "latest",
+        "conic-style": "latest",
+        "conic-table": "latest",
+        "conical": "latest",
+        "conichi-material": "latest",
+        "conichi-node-authorisation": "latest",
+        "coniciet": "latest",
+        "conifer": "latest",
+        "conifer-test": "latest",
+        "conify": "latest",
+        "coninect-flksh": "latest",
+        "conintervu": "latest",
+        "conio": "latest",
+        "coniostream": "latest",
+        "conious": "latest",
+        "coniq-ui": "latest",
+        "conire": "latest",
+        "conistring": "latest"
+    }
+}

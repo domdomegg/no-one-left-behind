@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-syq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "syq": "latest",
+        "syq-atom-ui": "latest",
+        "syq-el-1906": "latest",
+        "syq-image-compression": "latest",
+        "syq-test-npm": "latest",
+        "syq-toastsyq": "latest",
+        "syq-ui": "latest",
+        "syq-ui-link": "latest",
+        "syqd-webcomponent": "latest",
+        "syqvue_ui": "latest",
+        "syqy": "latest"
+    }
+}

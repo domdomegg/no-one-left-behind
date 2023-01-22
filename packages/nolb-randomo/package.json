@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-randomo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "randomobjkey": "latest",
+        "randomobjprop": "latest",
+        "randomock": "latest",
+        "randomoji": "latest",
+        "randomon": "latest",
+        "randomorg-js": "latest"
+    }
+}

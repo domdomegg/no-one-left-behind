@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_chis",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chisato/markdown-css": "latest",
+        "@chisel-ui/astro": "latest",
+        "@chisel-ui/center": "latest",
+        "@chisel-ui/column-drop": "latest",
+        "@chisel-ui/columns": "latest",
+        "@chisel-ui/component": "latest",
+        "@chisel-ui/core": "latest",
+        "@chisel-ui/css-reset": "latest",
+        "@chisel-ui/grid": "latest",
+        "@chisel-ui/inline": "latest",
+        "@chisel-ui/inline-cluster": "latest",
+        "@chisel-ui/reel": "latest",
+        "@chisel-ui/split": "latest",
+        "@chisel-ui/stack": "latest",
+        "@chisel/ease": "latest",
+        "@chisel/fluorite": "latest",
+        "@chisel/report-template": "latest",
+        "@chisel/steroids": "latest",
+        "@chisel/typescript": "latest",
+        "@chiselstrike/api": "latest",
+        "@chiselstrike/chiselstrike": "latest",
+        "@chiselstrike/chiselstrike-cli": "latest",
+        "@chiselstrike/cli": "latest",
+        "@chiselstrike/create-chiselstrike-app": "latest",
+        "@chiselstrike/frontend": "latest",
+        "@chiselstrike/netlify-plugin": "latest",
+        "@chiselstrike/next-auth": "latest",
+        "@chist/swag-api": "latest"
+    }
+}

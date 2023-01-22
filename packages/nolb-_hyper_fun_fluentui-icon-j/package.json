@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_fluentui-icon-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/fluentui-icon-javascript-filled": "latest",
+        "@hyper.fun/fluentui-icon-javascript-regular": "latest",
+        "@hyper.fun/fluentui-icon-joystick-filled": "latest",
+        "@hyper.fun/fluentui-icon-joystick-regular": "latest"
+    }
+}

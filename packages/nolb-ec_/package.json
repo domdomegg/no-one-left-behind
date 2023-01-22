@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-ec_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ec.admin": "latest",
+        "ec.cookie-mock": "latest",
+        "ec.datamanager": "latest",
+        "ec.errors": "latest",
+        "ec.js": "latest",
+        "ec.sdk": "latest",
+        "ec.vcms": "latest",
+        "ec_antd": "latest",
+        "ec_china-jd-bv": "latest",
+        "ec_comm": "latest",
+        "ec_hydrid_ecies": "latest"
+    }
+}

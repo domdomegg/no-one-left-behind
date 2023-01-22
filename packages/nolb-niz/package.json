@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-niz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "niz": "latest",
+        "niz-cli": "latest",
+        "nizai-mdlinks": "latest",
+        "nizams-node": "latest",
+        "nize": "latest",
+        "nize-message": "latest",
+        "nizhan": "latest",
+        "nizhendehenniubi": "latest",
+        "nizzotes-client": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-web8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "web8": "latest",
+        "web8.12": "latest",
+        "web8.13": "latest",
+        "web8.14": "latest",
+        "web816": "latest",
+        "web886-excel": "latest",
+        "web886-lulu-ui": "latest",
+        "web886-myexpress": "latest",
+        "web886-qs": "latest",
+        "web886captcha": "latest"
+    }
+}

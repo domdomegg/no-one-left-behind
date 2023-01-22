@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-asso",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "assoc": "latest",
+        "assoc-cache": "latest",
+        "assoc-promise": "latest",
+        "assoc-proxy-core": "latest",
+        "associate": "latest",
+        "associate-arrays": "latest",
+        "associated": "latest",
+        "associated-icon": "latest",
+        "association": "latest",
+        "association-table": "latest",
+        "associative": "latest",
+        "associative-array": "latest",
+        "associative-reducer": "latest",
+        "associativearray": "latest",
+        "associator": "latest",
+        "assoclist.js": "latest",
+        "assocr": "latest",
+        "assort": "latest",
+        "assorted-algorithms": "latest",
+        "assortment": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_itk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@itk/chart.js": "latest",
+        "@itk/react-chartjs-2": "latest",
+        "@itkdev/eslint-config": "latest",
+        "@itkyk/accordion": "latest",
+        "@itkyk/account-manager": "latest",
+        "@itkyk/aws-s3-sync": "latest",
+        "@itkyk/custom-scrollbar": "latest",
+        "@itkyk/emotion-reset-style": "latest",
+        "@itkyk/ftp-controller": "latest",
+        "@itkyk/git-diff": "latest",
+        "@itkyk/looper": "latest",
+        "@itkyk/minify-images": "latest",
+        "@itkyk/preload": "latest",
+        "@itkyk/reject": "latest",
+        "@itkyk/static-server": "latest",
+        "@itkyk/view": "latest",
+        "@itkyk/youtube-controller": "latest"
+    }
+}

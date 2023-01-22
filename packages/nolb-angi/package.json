@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-angi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "angi-file": "latest",
+        "angiaola": "latest",
+        "angie": "latest",
+        "angie-date-picker": "latest",
+        "angie-devcamp-js-footer": "latest",
+        "angie-frame-print": "latest",
+        "angie-injector": "latest",
+        "angie-log": "latest",
+        "angie-orm": "latest",
+        "angie-package-template": "latest",
+        "angie-rest-framework": "latest",
+        "angie-santos-md-links": "latest",
+        "angie-utils": "latest",
+        "angieslist-composed-components": "latest",
+        "angieslist-eslint-config": "latest",
+        "angieslist-gulp-build-tasks": "latest",
+        "angieslist-javascript-styleguide": "latest",
+        "angieslist-styleguide": "latest",
+        "angieslist-styles": "latest",
+        "angieslist-visitor-app-common": "latest",
+        "angify": "latest",
+        "angify-lib": "latest",
+        "angils": "latest",
+        "angin-publish-list": "latest",
+        "angioc": "latest",
+        "angioc-mocks": "latest",
+        "angiviti": "latest"
+    }
+}

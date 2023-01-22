@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-cust-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cust-button": "latest",
+        "cust-button-react": "latest",
+        "cust-event": "latest",
+        "cust-first-plugin": "latest",
+        "cust-form-builder": "latest",
+        "cust-formdesigner": "latest",
+        "cust-geolocation": "latest",
+        "cust-header": "latest",
+        "cust-hooks-use-previous": "latest",
+        "cust-html-reporter": "latest",
+        "cust-icon-svg": "latest",
+        "cust-lib": "latest",
+        "cust-lib-374": "latest",
+        "cust-mat-grid": "latest",
+        "cust-pack": "latest",
+        "cust-primeng": "latest",
+        "cust-reporter": "latest",
+        "cust-supp-portal": "latest",
+        "cust-ui": "latest",
+        "cust-ui-ll": "latest"
+    }
+}

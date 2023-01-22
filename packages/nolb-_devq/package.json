@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_devq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@devqin/easyquery": "latest",
+        "@devqin/eslint-config": "latest",
+        "@devqin/eslint-config-my": "latest",
+        "@devqin/eslint-config-x": "latest",
+        "@devqin/webp-detect": "latest",
+        "@devql/ui": "latest",
+        "@devql/web": "latest"
+    }
+}

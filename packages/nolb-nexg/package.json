@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-nexg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nexg-msw-client": "latest",
+        "nexgen": "latest",
+        "nexgen-georgefm": "latest",
+        "nexgen-magic": "latest",
+        "nexgen-maifm": "latest",
+        "nexgen-morefm": "latest",
+        "nexgen-thebreeze": "latest",
+        "nexgen-theedge": "latest",
+        "nexgen-therock": "latest",
+        "nexgen-thesound": "latest",
+        "nexgo-component-library": "latest",
+        "nexgui": "latest"
+    }
+}

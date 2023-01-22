@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-recw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "recwhale": "latest",
+        "recwhale-react-ag-grid": "latest",
+        "recwhale-react-autocomplete": "latest",
+        "recwhale-react-boostrap": "latest",
+        "recwhale-react-bootstrap": "latest",
+        "recwhale-react-core": "latest",
+        "recwhale-ts": "latest"
+    }
+}

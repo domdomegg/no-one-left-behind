@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_fun-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@fun-cli/core": "latest",
+        "@fun-cli/utils": "latest",
+        "@fun-coder/ioc": "latest",
+        "@fun-land/accessor": "latest",
+        "@fun-land/fun-state": "latest",
+        "@fun-land/fun-state-examples": "latest",
+        "@fun-land/observable-fun-state": "latest",
+        "@fun-land/react-validation": "latest",
+        "@fun-land/use-fun-state": "latest",
+        "@fun-land/validation": "latest",
+        "@fun-stack/fun-local-env": "latest",
+        "@fun-stack/fun-pack": "latest",
+        "@fun-stack/lambda-server": "latest",
+        "@fun-stack/source-map-loader-no-warn": "latest",
+        "@fun-ts/elmish": "latest",
+        "@fun-ts/elmish-preact": "latest",
+        "@fun-ts/elmish-react": "latest",
+        "@fun-ts/elmish-react-legacy": "latest",
+        "@fun-ts/fetch": "latest",
+        "@fun-ts/remote-result-adt": "latest",
+        "@fun-ts/rest": "latest",
+        "@fun-ts/rest-client": "latest",
+        "@fun-wallet/sdk": "latest",
+        "@fun-with-cameras/camera-bag": "latest"
+    }
+}

@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-discord-f",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discord-facilmusic": "latest",
+        "discord-fast-intents": "latest",
+        "discord-fbi": "latest",
+        "discord-features-handler": "latest",
+        "discord-fetch-all": "latest",
+        "discord-fetch-messages": "latest",
+        "discord-fetcher": "latest",
+        "discord-fight-game": "latest",
+        "discord-file-storage": "latest",
+        "discord-find-latest-msg-in-guild": "latest",
+        "discord-fivem-api": "latest",
+        "discord-fix": "latest",
+        "discord-flags": "latest",
+        "discord-fluent-emoji": "latest",
+        "discord-folders": "latest",
+        "discord-form-maker": "latest",
+        "discord-formatter": "latest",
+        "discord-forums": "latest",
+        "discord-frame": "latest",
+        "discord-framework": "latest",
+        "discord-friendly-components": "latest",
+        "discord-friends": "latest",
+        "discord-frotz": "latest",
+        "discord-fts": "latest",
+        "discord-fun": "latest",
+        "discord-functions": "latest",
+        "discord-funs": "latest",
+        "discord-funstuff": "latest"
+    }
+}

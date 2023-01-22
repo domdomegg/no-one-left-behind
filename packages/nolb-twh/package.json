@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-twh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "twh": "latest",
+        "twh--1": "latest",
+        "twh-basic-paint": "latest",
+        "twh-preview": "latest",
+        "twh-tracker": "latest",
+        "twhandybiscoqkml": "latest",
+        "twhiteboard": "latest",
+        "twhiteboard-plugin": "latest",
+        "twhiteboard-ui": "latest",
+        "twhooley-frame-print": "latest"
+    }
+}

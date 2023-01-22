@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_l_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@l.degener/geometry": "latest",
+        "@l.degener/weighted-random": "latest",
+        "@l.systems/config.io": "latest",
+        "@l_ine/light-svg-icons": "latest",
+        "@l_ine/prettier": "latest",
+        "@l_ine/regular-svg-icons": "latest",
+        "@l_ine/rules": "latest",
+        "@l_ine/solid-svg-icons": "latest",
+        "@l_ine/typed": "latest",
+        "@l_ine/utils": "latest",
+        "@l_j_w/check-data": "latest",
+        "@l_j_w/random": "latest",
+        "@l_k/healthcheck": "latest",
+        "@l_k/test_npm_publish": "latest"
+    }
+}

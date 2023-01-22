@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_thc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@thc/babel-preset-react": "latest",
+        "@thc/empty-repo-template": "latest",
+        "@thc/webpack-atom-js-react-css": "latest",
+        "@thc/webpack-atom-js-react-scss": "latest",
+        "@thc/webpack-chemistry": "latest",
+        "@thc/webpack-quark-assets": "latest",
+        "@thc/webpack-quark-babel": "latest",
+        "@thc/webpack-quark-css": "latest",
+        "@thc/webpack-quark-dev-server": "latest",
+        "@thc/webpack-quark-entry": "latest",
+        "@thc/webpack-quark-hot-reload": "latest",
+        "@thc/webpack-quark-html": "latest",
+        "@thc/webpack-quark-misc": "latest",
+        "@thc/webpack-quark-optimize": "latest",
+        "@thc/webpack-quark-output": "latest",
+        "@thc/webpack-quark-scss": "latest",
+        "@thc/webpack-quark-sourcemap": "latest",
+        "@thc/webpack-quark-typescript": "latest",
+        "@thc/webpack-quark-utility": "latest",
+        "@thc/webpack-react": "latest",
+        "@thchia/myinfo-connector-nodejs": "latest",
+        "@thchia/react-date-picker": "latest",
+        "@thclab/vue-idb": "latest",
+        "@thcloud/ui": "latest",
+        "@thcloud/vision-js": "latest"
+    }
+}

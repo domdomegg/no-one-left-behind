@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-na-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "na-de-style": "latest",
+        "na-de-style-test": "latest",
+        "na-debug": "latest",
+        "na-dev-01": "latest",
+        "na-editor": "latest",
+        "na-error-propagation": "latest",
+        "na-gaussian-elimination": "latest",
+        "na-generator": "latest",
+        "na-hermite-interpolation": "latest",
+        "na-hosted-zone": "latest",
+        "na-hosted-zone2": "latest",
+        "na-lib": "latest",
+        "na-lib-example": "latest",
+        "na-newsformat": "latest",
+        "na-phone-input": "latest",
+        "na-project": "latest",
+        "na-publish-to-npm": "latest",
+        "na-sprite-animate-icon": "latest",
+        "na-ui": "latest",
+        "na-ui-component": "latest"
+    }
+}

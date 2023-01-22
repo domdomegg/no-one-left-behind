@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_clj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cljs-figma/cljs-figma": "latest",
+        "@cljs-oss/module-deps": "latest",
+        "@cljs/compiler": "latest",
+        "@cljs/generator": "latest",
+        "@cljs/helpers": "latest",
+        "@cljs/loader": "latest",
+        "@cljs/parser": "latest",
+        "@cljs/register": "latest",
+        "@cljs/repl": "latest",
+        "@cljs/translator": "latest",
+        "@cljs/types": "latest",
+        "@cljstron/cljstron": "latest"
+    }
+}

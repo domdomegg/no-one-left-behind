@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-brof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "brofist": "latest",
+        "brofist-browser": "latest",
+        "brofist-cli": "latest",
+        "brofist-minimal": "latest",
+        "brofist-tap": "latest",
+        "broform": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-dynaf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dynafetch": "latest",
+        "dynafixtures": "latest",
+        "dynaflo": "latest",
+        "dynaflow": "latest",
+        "dynaform": "latest",
+        "dynaform-angular4": "latest",
+        "dynaform-compiler": "latest",
+        "dynaform-model": "latest",
+        "dynaform-ng": "latest"
+    }
+}

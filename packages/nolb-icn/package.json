@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-icn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "icn": "latest",
+        "icn-edp-components": "latest",
+        "icn3d": "latest",
+        "icn_basicmanager": "latest",
+        "icnc-auth": "latest",
+        "icnc-erp": "latest",
+        "icnc-mes-rev": "latest",
+        "icnf": "latest",
+        "icns": "latest",
+        "icns-endec": "latest",
+        "icns-js": "latest",
+        "icns-lib": "latest",
+        "icns-sdk": "latest",
+        "icns2ico": "latest",
+        "icns_polyfill": "latest"
+    }
+}

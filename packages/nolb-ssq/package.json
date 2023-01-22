@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-ssq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ssq": "latest",
+        "ssq-canvas": "latest",
+        "ssq-code-editor": "latest",
+        "ssq-coin-im": "latest",
+        "ssq-decision-properties": "latest",
+        "ssq-editor": "latest",
+        "ssq-emulator": "latest",
+        "ssq-flow": "latest",
+        "ssq-flow-block": "latest",
+        "ssq-key-properties": "latest",
+        "ssq-library": "latest",
+        "ssq-properties-block": "latest",
+        "ssq-screen-properties": "latest",
+        "ssq-sign": "latest",
+        "ssq-toolbar-block": "latest",
+        "ssq-widgets-block": "latest",
+        "ssqget": "latest",
+        "ssql": "latest",
+        "ssqs": "latest",
+        "ssqsignon-auth-proxy": "latest",
+        "ssqsignon-proxy-express": "latest",
+        "ssqv2": "latest"
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_aw-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aw-labs/appwrite-console": "latest",
+        "@aw-labs/icons": "latest",
+        "@aw-labs/ui": "latest",
+        "@aw-studio/strapi-template-cms": "latest",
+        "@aw-studio/vue-json-content": "latest",
+        "@aw-studio/vue-lit-block": "latest",
+        "@aw-studio/vue-lit-image": "latest",
+        "@aw-studio/vue-lit-image-next": "latest",
+        "@aw-web-design/components": "latest",
+        "@aw-web-design/font-picker-react": "latest",
+        "@aw-web-design/lerna-cli": "latest",
+        "@aw-web-design/lerna-core": "latest",
+        "@aw-web-design/lerna-publish": "latest",
+        "@aw-web-design/lerna-run": "latest",
+        "@aw-web-design/lerna-version": "latest",
+        "@aw-web-design/memoize": "latest",
+        "@aw-web-design/react-feather": "latest",
+        "@aw-web-design/react-lazy-named": "latest",
+        "@aw-web-design/react-textfit": "latest",
+        "@aw-web-design/react-virtualized": "latest",
+        "@aw-web-design/styled-system": "latest",
+        "@aw-web-design/tcm-cli": "latest",
+        "@aw-web-design/theme": "latest",
+        "@aw-web-design/virtualization": "latest",
+        "@aw-web-design/x-default-browser": "latest"
+    }
+}

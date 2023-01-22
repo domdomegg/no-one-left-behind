@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-async-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "async-validatar": "latest",
+        "async-validate": "latest",
+        "async-validate-obj": "latest",
+        "async-validate.js": "latest",
+        "async-validation": "latest",
+        "async-validator": "latest",
+        "async-validator-2": "latest",
+        "async-validator-extend": "latest",
+        "async-validator-mp": "latest",
+        "async-validator-patch": "latest",
+        "async-validator-uniapp": "latest",
+        "async-value": "latest",
+        "async-value-promise": "latest",
+        "async-values": "latest",
+        "async-vdom-builder": "latest",
+        "async-vue-at": "latest"
+    }
+}

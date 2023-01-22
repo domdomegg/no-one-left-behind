@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-yiu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yiu": "latest",
+        "yiu-axios": "latest",
+        "yiu-indexeddb": "latest",
+        "yiu-js": "latest",
+        "yiu-learn": "latest",
+        "yiu-tree-js": "latest",
+        "yiui-forest": "latest",
+        "yiui_gitee": "latest",
+        "yiumi": "latest"
+    }
+}

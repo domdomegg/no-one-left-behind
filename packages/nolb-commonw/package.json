@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-commonw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "commonwealth-chain-events": "latest",
+        "commonweb-config": "latest",
+        "commonweb-dynamic-routing": "latest",
+        "commonweb-utils": "latest"
+    }
+}

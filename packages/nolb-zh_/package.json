@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-zh_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zh.asoiaf.dict": "latest",
+        "zh.asoiaf.utility": "latest",
+        "zh_bus": "latest",
+        "zh_cn": "latest",
+        "zh_cn_zh_tw": "latest",
+        "zh_first_package": "latest",
+        "zh_mdd": "latest"
+    }
+}

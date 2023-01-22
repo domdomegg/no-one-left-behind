@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-css2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "css2": "latest",
+        "css2canvas": "latest",
+        "css2esm": "latest",
+        "css2img": "latest",
+        "css2js": "latest",
+        "css2jsobject": "latest",
+        "css2jsobject-list-loader": "latest",
+        "css2json": "latest",
+        "css2json-cli": "latest",
+        "css2less": "latest",
+        "css2lit": "latest",
+        "css2modernizr": "latest",
+        "css2obj": "latest",
+        "css2object": "latest",
+        "css2pre": "latest",
+        "css2reactjs-inline-style": "latest",
+        "css2saas": "latest",
+        "css2sass": "latest",
+        "css2sprite": "latest",
+        "css2spritesmith": "latest",
+        "css2str": "latest",
+        "css2string": "latest",
+        "css2style": "latest",
+        "css2stylus": "latest",
+        "css2xpath": "latest"
+    }
+}

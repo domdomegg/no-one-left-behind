@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-imageo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "imageopti": "latest",
+        "imageoptim": "latest",
+        "imageoptim-api": "latest",
+        "imageoptim-cli": "latest",
+        "imageoptim-cli-js": "latest",
+        "imageoptimize": "latest",
+        "imageoptmizer-brunch": "latest",
+        "imageorganize": "latest",
+        "imageoverlay": "latest"
+    }
+}

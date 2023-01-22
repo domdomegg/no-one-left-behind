@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-httpo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "httpolyglot": "latest",
+        "httpolyglot-webpack-server": "latest",
+        "httpong": "latest",
+        "httpor": "latest"
+    }
+}

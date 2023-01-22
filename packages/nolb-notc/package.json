@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-notc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "notcached": "latest",
+        "notch": "latest",
+        "notch-detected-event": "latest",
+        "notch-ios": "latest",
+        "notchcpu": "latest",
+        "notchy": "latest",
+        "notclass": "latest"
+    }
+}

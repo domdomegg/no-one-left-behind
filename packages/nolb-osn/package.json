@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-osn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "osn": "latest",
+        "osn-i18n": "latest",
+        "osn1000": "latest",
+        "osnap": "latest",
+        "osniffer": "latest",
+        "osnode-ticket": "latest",
+        "osnova": "latest",
+        "osnova-application-template": "latest",
+        "osnova-auth-server": "latest",
+        "osnova-basic-application": "latest",
+        "osnova-cluster-launcher": "latest",
+        "osnova-lib": "latest",
+        "osnova-module-socket.io": "latest",
+        "osnova-module-template": "latest",
+        "osnova-react-environment": "latest",
+        "osnova-webpack": "latest",
+        "osnovnacenzura": "latest"
+    }
+}

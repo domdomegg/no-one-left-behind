@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-ruu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ruu": "latest",
+        "ruubypay-h5-cli": "latest",
+        "ruubypay-modal": "latest",
+        "ruucm-blocks": "latest",
+        "ruucm-util": "latest",
+        "ruud": "latest",
+        "ruudi": "latest",
+        "ruudi-module": "latest",
+        "ruufpa": "latest",
+        "ruui-cli": "latest",
+        "ruuri": "latest",
+        "ruut": "latest",
+        "ruuter": "latest",
+        "ruuvi-gatt-demo": "latest",
+        "ruuvi-mqtt-gateway": "latest",
+        "ruuvi-streamr": "latest",
+        "ruuvi.endpoints.js": "latest",
+        "ruuvi.influxproxy.js": "latest",
+        "ruuvi.scanner.js": "latest",
+        "ruuvi.streamrproxy.js": "latest",
+        "ruuvi.webbluetooth.js": "latest",
+        "ruuvitag-debug": "latest",
+        "ruuvitag-parser": "latest",
+        "ruuvitag-telegram-bot": "latest",
+        "ruuvitrack": "latest"
+    }
+}

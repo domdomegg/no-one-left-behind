@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-discord2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discord24h": "latest",
+        "discord2fa": "latest",
+        "discord2heroku": "latest"
+    }
+}

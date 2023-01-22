@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-discord-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "discord-v11": "latest",
+        "discord-v11-shuri.js": "latest",
+        "discord-v12": "latest",
+        "discord-v13-interaction": "latest",
+        "discord-vanity": "latest",
+        "discord-vatron": "latest",
+        "discord-vengeance": "latest",
+        "discord-veri": "latest",
+        "discord-verify": "latest",
+        "discord-video-ghost": "latest",
+        "discord-vilao": "latest",
+        "discord-virus24": "latest",
+        "discord-visualizer": "latest",
+        "discord-voice": "latest",
+        "discord-voice-channel-observer": "latest",
+        "discord-vulture": "latest"
+    }
+}

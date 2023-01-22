@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-co_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "co.airsia.cordova.pingpp": "latest",
+        "co.balancy.unity": "latest",
+        "co.com.pragma.www.test": "latest",
+        "co.ejs": "latest",
+        "co.haply.hardwareapi": "latest",
+        "co.medicast.plugins.maplauncher": "latest",
+        "co.ntextualize": "latest",
+        "co.sleepyape.firebase-app": "latest",
+        "co.sleepyape.firebase-auth": "latest",
+        "co.sleepyape.google-edm4u": "latest",
+        "co.stream": "latest",
+        "co.validation": "latest",
+        "co.vire.aframe": "latest",
+        "co.vire.vast-client": "latest",
+        "co_bootstrap": "latest"
+    }
+}

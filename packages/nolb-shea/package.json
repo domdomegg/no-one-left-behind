@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-shea",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shea": "latest",
+        "shea-npm-package": "latest",
+        "sheaf": "latest",
+        "sheansuke-cli": "latest",
+        "shear": "latest",
+        "shear-react": "latest",
+        "shear.js": "latest",
+        "shearing_shared": "latest",
+        "shearling-boots": "latest",
+        "shears": "latest",
+        "sheath": "latest",
+        "sheave": "latest"
+    }
+}

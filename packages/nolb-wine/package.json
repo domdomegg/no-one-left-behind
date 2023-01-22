@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-wine",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wine": "latest",
+        "wine-angularjs-service": "latest",
+        "wine-child-process": "latest",
+        "wine-cli": "latest",
+        "wine-darwin": "latest",
+        "wine-dummy": "latest",
+        "wine-scrap": "latest",
+        "wine_dot_com": "latest",
+        "wineapi": "latest",
+        "winecomponents": "latest",
+        "winekiss-datav": "latest",
+        "winerss": "latest",
+        "winery": "latest",
+        "wineryswap": "latest",
+        "wines": "latest",
+        "winewang0000": "latest",
+        "winex": "latest",
+        "winex-cli-test": "latest",
+        "winex-test": "latest",
+        "winexe": "latest",
+        "winext": "latest",
+        "winext-authorization": "latest",
+        "winext-logger": "latest",
+        "winext-repository": "latest",
+        "winext-runserver": "latest"
+    }
+}

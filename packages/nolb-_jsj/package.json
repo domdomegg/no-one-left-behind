@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_jsj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jsj7/core": "latest",
+        "@jsj7/utils": "latest",
+        "@jsjoeio/code-server": "latest",
+        "@jsjoeio/hello-component": "latest",
+        "@jsjoeio/isarray": "latest",
+        "@jsjoeio/onegraph-apollo-server-auth": "latest",
+        "@jsjoeio/react-use-chuck-norris": "latest",
+        "@jsjoeio/react-use-star-wars-quote": "latest",
+        "@jsjoeio/react-use-sw-quote": "latest",
+        "@jsjoeio/react-use-the-things": "latest",
+        "@jsjoeio/streak-counter": "latest",
+        "@jsjoeio/streak-counter-2": "latest",
+        "@jsjoeio/use-click-outside": "latest",
+        "@jsjoeio/use-star-wars-quote": "latest",
+        "@jsjournal/local-api": "latest",
+        "@jsjournal/local-client": "latest",
+        "@jsjunglegym/local-api": "latest",
+        "@jsjunglegym/local-client": "latest",
+        "@jsjupyter/local-api": "latest",
+        "@jsjupyter/local-client": "latest"
+    }
+}

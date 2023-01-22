@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-saig",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "saiga": "latest",
+        "saiganesh522010": "latest",
+        "saigao": "latest",
+        "saigon": "latest",
+        "saigraph": "latest"
+    }
+}

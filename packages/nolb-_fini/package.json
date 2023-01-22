@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_fini",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@finibit/biscuit": "latest",
+        "@finibit/iterate": "latest",
+        "@finibit/props": "latest",
+        "@finibit/result": "latest",
+        "@finibit/types": "latest",
+        "@finicity/connect-react-native-sdk": "latest",
+        "@finicity/connect-web-sdk": "latest",
+        "@finiking/npm-test": "latest",
+        "@finish/docs": "latest",
+        "@finish/framework": "latest",
+        "@finish/scripts": "latest",
+        "@finish/scripts.utils": "latest",
+        "@finite/core": "latest",
+        "@finite/plot": "latest",
+        "@finito/svelte-context-stores": "latest",
+        "@finix-payments/finix": "latest"
+    }
+}

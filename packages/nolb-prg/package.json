@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-prg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "prg": "latest",
+        "prg-blueprint-validator": "latest",
+        "prg-chatbot": "latest",
+        "prg-editor": "latest",
+        "prg-express": "latest",
+        "prg-form": "latest",
+        "prg-identity": "latest",
+        "prg-identity-mongo": "latest",
+        "prg-projectator": "latest",
+        "prg-search": "latest",
+        "prg-tslint-rules": "latest",
+        "prg-ui-ds-temp": "latest",
+        "prg-uploader": "latest",
+        "prg-validator": "latest",
+        "prg2": "latest",
+        "prgen": "latest",
+        "prgexperiment": "latest",
+        "prgm-installed": "latest",
+        "prgomesr-address": "latest",
+        "prgressive-node-typescript": "latest",
+        "prgrm-js": "latest"
+    }
+}

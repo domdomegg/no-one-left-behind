@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-eventd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "EventDispatcher": "latest",
+        "eventDrops": "latest",
+        "eventd": "latest",
+        "eventd.js": "latest",
+        "eventdebugger": "latest",
+        "eventdecorator": "latest",
+        "eventdelegation": "latest",
+        "eventdispacher": "latest",
+        "eventdispatcher": "latest",
+        "eventdispatcher.js": "latest",
+        "eventdrivenvalidations": "latest",
+        "eventduino": "latest"
+    }
+}

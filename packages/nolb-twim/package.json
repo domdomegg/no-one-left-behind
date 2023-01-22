@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-twim",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "twim-decode": "latest",
+        "twim-encode": "latest",
+        "twimap": "latest",
+        "twiml-builder": "latest",
+        "twiml-router": "latest",
+        "twimo": "latest",
+        "twimo-v2": "latest"
+    }
+}

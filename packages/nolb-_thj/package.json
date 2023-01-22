@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_thj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@thj-cli-dev/core": "latest",
+        "@thj-cli-dev/get-npm-info": "latest",
+        "@thj-cli-dev/log": "latest",
+        "@thj-cli-dev/utils": "latest",
+        "@thjxs/cra-template-ttr": "latest",
+        "@thjxs/gc-markdown": "latest",
+        "@thjxs/react-scripts": "latest"
+    }
+}

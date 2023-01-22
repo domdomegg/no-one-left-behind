@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-connecta",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "connecta": "latest",
+        "connecta-maps": "latest",
+        "connecta_example": "latest",
+        "connectable": "latest",
+        "connectables": "latest",
+        "connectapp": "latest"
+    }
+}

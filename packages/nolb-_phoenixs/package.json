@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_phoenixs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@phoenixs/antd-modal": "latest",
+        "@phoenixs/create-widget": "latest",
+        "@phoenixs/fileupload": "latest",
+        "@phoenixs/form-components": "latest",
+        "@phoenixsoftware/ejes-cli": "latest",
+        "@phoenixswapv2/core-sdk": "latest",
+        "@phoenixswapv2/sdk": "latest",
+        "@phoenixswapv2/uniswap-sdk": "latest",
+        "@phoenixswapv2/v2-sdk": "latest"
+    }
+}

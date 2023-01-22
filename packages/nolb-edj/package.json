@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-edj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "edj": "latest",
+        "edj-cli": "latest",
+        "edj-eslint-rules": "latest",
+        "edj_math_example": "latest",
+        "edjchain": "latest",
+        "edjcomponent-vue": "latest",
+        "edje": "latest",
+        "edje-markdown-editor": "latest",
+        "edjes": "latest",
+        "edjison": "latest",
+        "edjpyxikkhbatqrs": "latest",
+        "edjr": "latest",
+        "edjs-cli": "latest",
+        "edjs-to-mui": "latest",
+        "edjui": "latest",
+        "edjui-lib": "latest"
+    }
+}

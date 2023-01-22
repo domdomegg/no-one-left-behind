@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_moq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@moqada/hubot-hatena-counting": "latest",
+        "@moqada/hubot-schedule-helper": "latest",
+        "@moqada/react-native-mock": "latest",
+        "@moqada/rn-twemoji": "latest",
+        "@moqada/simple-api-client": "latest",
+        "@moqada/simple-api-client-generator": "latest",
+        "@moqikaze/hello-wasm": "latest",
+        "@moqin/my-vue-lib": "latest",
+        "@moqrin3/demo-1st-cdk-lib": "latest",
+        "@moquality/agent": "latest",
+        "@moquality/analysis": "latest",
+        "@moquality/barista-lib": "latest",
+        "@moquality/cli": "latest",
+        "@moquality/farms": "latest",
+        "@moquality/mocha": "latest",
+        "@moquality/mq": "latest",
+        "@moquality/mq-gmsaas": "latest",
+        "@moquality/mqlab": "latest",
+        "@moquality/rl": "latest",
+        "@moquality/utility-hooks": "latest"
+    }
+}

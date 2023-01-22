@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-egn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "egn-cookie": "latest",
+        "egn-debugger": "latest",
+        "egn-dev-bus": "latest",
+        "egn-methods": "latest",
+        "egn-modal": "latest",
+        "egna": "latest",
+        "egnscss": "latest",
+        "egnxaqfzbjhdlvkp": "latest",
+        "egnyte-js-sdk": "latest",
+        "egnyte-resellers": "latest"
+    }
+}

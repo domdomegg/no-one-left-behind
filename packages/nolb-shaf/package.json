@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-shaf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shaf-button": "latest",
+        "shaf-chart": "latest",
+        "shaf-prac": "latest",
+        "shaf-rate": "latest",
+        "shaf-star-rating": "latest",
+        "shaf-timeago": "latest",
+        "shaf-toggle": "latest",
+        "shaf-unified-diff": "latest",
+        "shafeeq": "latest",
+        "shafeeqplugin": "latest",
+        "shaffcalculator": "latest",
+        "shaffkhangame": "latest",
+        "shaffle": "latest",
+        "shafia": "latest",
+        "shafile": "latest",
+        "shafiq-lib": "latest",
+        "shafiq-prac": "latest",
+        "shaft": "latest",
+        "shaft-build": "latest",
+        "shaft-cv": "latest",
+        "shaft-tools": "latest",
+        "shaft-ui": "latest",
+        "shaft.js": "latest",
+        "shaftlog": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-tef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tef": "latest",
+        "tefcha": "latest",
+        "tefcha-cli": "latest",
+        "tefe-test": "latest",
+        "teff-react-native-pdf-thumbnail": "latest",
+        "teffex": "latest",
+        "teffi": "latest",
+        "teffienpm": "latest",
+        "tefi-palindrome": "latest",
+        "tefify": "latest",
+        "tefles-react": "latest",
+        "teflon": "latest",
+        "tefuir": "latest",
+        "tefy": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_lob",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lob/calipers-pdf": "latest",
+        "@lob/lob-typescript-sdk": "latest",
+        "@lob/openapi": "latest",
+        "@lob/pdffonts": "latest",
+        "@lob/react-address-autocomplete": "latest",
+        "@lob/sqs-consumer": "latest",
+        "@lob/steve": "latest",
+        "@lob/ui-components": "latest",
+        "@lob/vue-address-autocomplete": "latest",
+        "@lobal/dir-serve": "latest",
+        "@lobal/html-render": "latest",
+        "@lobaro/lobaro-cron-validate": "latest",
+        "@lobaro/react-openlayers": "latest",
+        "@lobasoft/core": "latest",
+        "@lobe/lobe-js-sdk": "latest",
+        "@loblaw/backstage-plugin-gitlab": "latest",
+        "@lobodeguerra/hrjson": "latest",
+        "@lobodeguerra/react-hrjson": "latest",
+        "@lobsangnet/lobsang-connect-matrix": "latest",
+        "@lobsangnet/lobsang-formatter-matrix": "latest",
+        "@lobsangnet/lobsang-formatter-schema": "latest",
+        "@lobsangnet/lobsang-processor-hostname": "latest",
+        "@lobsangnet/lobsang-processor-port": "latest",
+        "@lobsterkatie/rowing-age": "latest",
+        "@lobsterlabs/koop-provider-geojson": "latest",
+        "@lobstermonkey/hextech": "latest"
+    }
+}

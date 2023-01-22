@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_erm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@erm4ic/eva-bio-ui": "latest",
+        "@erm4ic/evabioui": "latest",
+        "@ermag/ui-kit-demo": "latest",
+        "@ermakovich/gulp-cucumber": "latest",
+        "@ermakovich/jquery-menu-aim": "latest",
+        "@ermal96/react-notification": "latest",
+        "@ermeschultz/chai-arrays": "latest",
+        "@ermeschultz/react-native-ui-lib": "latest",
+        "@ermilburn02/maths": "latest",
+        "@ermile/dash": "latest",
+        "@ermile/siftal": "latest",
+        "@erminiolmendes/lotide": "latest",
+        "@ermish/parcel-transformer-shuji": "latest",
+        "@ermish/shuji": "latest",
+        "@erml/parser": "latest",
+        "@ermolaev/mind-common": "latest",
+        "@ermolaev/mind-ui": "latest",
+        "@ermurray31/lotide": "latest",
+        "@ermyril/ckeditor5-build-classic": "latest",
+        "@ermyril/react-sortablejs": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-cme",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cme": "latest",
+        "cme-component-test": "latest",
+        "cme-oapi-codegen": "latest",
+        "cmeasy": "latest",
+        "cmelement": "latest",
+        "cmelo-angular-sticky": "latest",
+        "cmem": "latest",
+        "cmen-test": "latest",
+        "cmenu": "latest",
+        "cmetrix": "latest",
+        "cmexx-scanner": "latest"
+    }
+}

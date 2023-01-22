@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-winw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "winwardjs": "latest",
+        "winwatch": "latest",
+        "winway-client-build": "latest",
+        "winway-component": "latest",
+        "winwheel": "latest",
+        "winwheel-module": "latest",
+        "winwheeljs": "latest",
+        "winwin": "latest",
+        "winwin-notifications": "latest",
+        "winwinlib": "latest"
+    }
+}

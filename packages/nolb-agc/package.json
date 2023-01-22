@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-agc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "agc": "latest",
+        "agc-broker": "latest",
+        "agc-broker-client": "latest",
+        "agc-button": "latest",
+        "agc-integration-tests": "latest",
+        "agc-node-auth": "latest",
+        "agc-node-rdp": "latest",
+        "agc-pipeline-node": "latest",
+        "agc-state": "latest",
+        "agc-testpackage": "latest",
+        "agca-ui": "latest",
+        "agcalendar": "latest",
+        "agccsapi": "latest",
+        "agcim": "latest",
+        "agcli": "latest",
+        "agco-amqp-client": "latest",
+        "agco-event-source-stream": "latest",
+        "agco-logger": "latest",
+        "agcod": "latest",
+        "agcore": "latest",
+        "agcs": "latest"
+    }
+}

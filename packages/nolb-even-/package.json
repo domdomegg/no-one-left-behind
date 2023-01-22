@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-even-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "even-11.24": "latest",
+        "even-array": "latest",
+        "even-better": "latest",
+        "even-better-console": "latest",
+        "even-chunks": "latest",
+        "even-cli": "latest",
+        "even-detector": "latest",
+        "even-financial-typed-utils": "latest",
+        "even-index": "latest",
+        "even-manage-cli": "latest",
+        "even-more-externals": "latest",
+        "even-more-min": "latest",
+        "even-more-useless-lib": "latest",
+        "even-nicercast": "latest",
+        "even-odd": "latest",
+        "even-odd-checker": "latest",
+        "even-odd-js": "latest",
+        "even-odd19": "latest",
+        "even-or-odd": "latest",
+        "even-or-odd-number": "latest",
+        "even-package": "latest",
+        "even-tester": "latest"
+    }
+}

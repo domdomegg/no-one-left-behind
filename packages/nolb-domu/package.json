@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-domu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "domu": "latest",
+        "domui": "latest",
+        "domujs": "latest",
+        "domurl": "latest",
+        "domus": "latest",
+        "domus-core": "latest",
+        "domus-ui": "latest",
+        "domus_node": "latest",
+        "domuse": "latest",
+        "domusnetwork-githun-example": "latest",
+        "domutil": "latest",
+        "domutils": "latest",
+        "domutils-browserify-ws": "latest",
+        "domuu": "latest",
+        "domux": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_extre",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@extreme_hero/deeptype": "latest",
+        "@extremedevelopments/simple.utils": "latest",
+        "@extremejs/utils": "latest",
+        "@extremelyclever/lightjson": "latest",
+        "@extremeprog-com/deploy-container": "latest",
+        "@extremesolution/auth0-accounts-service": "latest",
+        "@extremesolution/podcast-feed-parser": "latest"
+    }
+}

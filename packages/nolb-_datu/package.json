@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_datu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@datumcenter/test": "latest",
+        "@datumcenter/vae-common-et": "latest",
+        "@datumcenter/vae-common-ve": "latest",
+        "@datumjs/datum": "latest",
+        "@datumjs/pieces": "latest",
+        "@datumnetwork/datum-sdk": "latest",
+        "@datune/utils": "latest"
+    }
+}

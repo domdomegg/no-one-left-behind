@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-smap",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "smap": "latest",
+        "smap-api": "latest",
+        "smap-js": "latest",
+        "smap-jsts": "latest",
+        "smap-responsive": "latest",
+        "smap-shsmi-loader": "latest",
+        "smap-ui": "latest",
+        "smap_errors": "latest",
+        "smapbox": "latest",
+        "smape": "latest",
+        "smapi": "latest",
+        "smapi-manager": "latest",
+        "smapianalytics": "latest",
+        "smapify": "latest",
+        "smapiship-react-module": "latest",
+        "smapp-express-prometheus-middleware": "latest",
+        "smappee-nodejs": "latest",
+        "smappi": "latest",
+        "smappi-cl": "latest",
+        "smappi-instagram-private-api": "latest",
+        "smappl": "latest",
+        "smaps": "latest"
+    }
+}

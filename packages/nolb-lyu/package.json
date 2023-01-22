@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-lyu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lyu": "latest",
+        "lyu-web-cli": "latest",
+        "lyu_dsr_pkg": "latest",
+        "lyu_package_create_test": "latest",
+        "lyu_package_test": "latest",
+        "lyu_pkg": "latest",
+        "lyu_test_test_test": "latest",
+        "lyubi": "latest",
+        "lyui-for-react": "latest",
+        "lyui33": "latest",
+        "lyui33v1": "latest",
+        "lyuiv3": "latest",
+        "lyun-wanghong-frontend": "latest",
+        "lyunet": "latest",
+        "lyuns": "latest",
+        "lyuns_soft": "latest",
+        "lyupup_ui": "latest",
+        "lyustencilcomponent": "latest",
+        "lyutest": "latest",
+        "lyuyt5": "latest"
+    }
+}

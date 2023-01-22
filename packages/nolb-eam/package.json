@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-eam",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eam": "latest",
+        "eam_bootstrap-3-typeahead": "latest",
+        "eamcet": "latest",
+        "eames": "latest",
+        "eamexicano-logger": "latest",
+        "eamon_carousel_component": "latest",
+        "eamp": "latest",
+        "eamplugin": "latest",
+        "eams-scripts": "latest",
+        "eams-ui": "latest"
+    }
+}

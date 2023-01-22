@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-jesi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jesi-button": "latest",
+        "jesidea-wc": "latest",
+        "jesielviana-gatsby-theme-docs": "latest",
+        "jesielviana-gatsby-theme-docs-core": "latest",
+        "jesielviana-gatsby-theme-minimal-blog": "latest",
+        "jesielviana-gatsby-theme-minimal-blog-core": "latest",
+        "jesium": "latest"
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-checkl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "checkleakedcc": "latest",
+        "checklee-simple-npm-package": "latest",
+        "checkless": "latest",
+        "checkless-cli": "latest",
+        "checklet": "latest",
+        "checklgcomone": "latest",
+        "checkline": "latest",
+        "checklink": "latest",
+        "checklinks-lib": "latest",
+        "checklist": "latest",
+        "checklist-form": "latest",
+        "checklist-library": "latest",
+        "checklist-model": "latest",
+        "checklist-mycli": "latest",
+        "checklist-ninja": "latest",
+        "checklist-tools-website": "latest",
+        "checklist-web-foundation": "latest",
+        "checkloc": "latest",
+        "checklog": "latest",
+        "checklogc": "latest",
+        "checklogco": "latest",
+        "checklogcompo": "latest",
+        "checklogcompon": "latest",
+        "checkly": "latest",
+        "checkly-cli": "latest"
+    }
+}

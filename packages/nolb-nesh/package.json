@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-nesh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nesh": "latest",
+        "nesh-clear-screen": "latest",
+        "nesh-co": "latest",
+        "nesh-coffeescript": "latest",
+        "nesh-doc": "latest",
+        "nesh-fibrous": "latest",
+        "nesh-hello": "latest",
+        "nesh-history-search": "latest",
+        "nesh-immutable-plugin": "latest",
+        "nesh-lodash": "latest",
+        "nesh-lodash2": "latest",
+        "nesh-require": "latest",
+        "neshan-map": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_vuer",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vueraleigh/luxian": "latest",
+        "@vuerd/lit-observable": "latest",
+        "@vuerd/plugin-generate-template": "latest",
+        "@vuerd/sql-ddl-parser": "latest",
+        "@vuerun-cli-dev/core": "latest",
+        "@vuerun-cli-dev/get-npm-info": "latest",
+        "@vuerun-cli-dev/log": "latest",
+        "@vuerun-cli-dev/utils": "latest",
+        "@vuerun-cli/cli": "latest",
+        "@vuerun-cli/log": "latest",
+        "@vuerun-cli/utils": "latest"
+    }
+}

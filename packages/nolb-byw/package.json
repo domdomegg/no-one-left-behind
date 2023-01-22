@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-byw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "byw": "latest",
+        "byw_gethello": "latest",
+        "bywang": "latest",
+        "byways": "latest",
+        "bywin-design": "latest",
+        "bywmt": "latest",
+        "byword": "latest",
+        "byword-mongoose": "latest",
+        "bywp": "latest",
+        "bywq_tool": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-karmap",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "karmapa-api-client": "latest",
+        "karmapa-build-image": "latest",
+        "karmapa-censor": "latest",
+        "karmapa-is-i18n-string-id": "latest",
+        "karmapa-log": "latest",
+        "karmapa-redux-localstorage-helper": "latest",
+        "karmapa-wrap": "latest",
+        "karmaphantomjlauncher": "latest",
+        "karmapm": "latest"
+    }
+}

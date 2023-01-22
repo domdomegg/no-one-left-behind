@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_serc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@serc-20/serc": "latest",
+        "@sercanpaspal/sleep": "latest",
+        "@sercanuste/ngx-datatable": "latest",
+        "@sercanuste/react-ga": "latest",
+        "@sercanuste/rnal": "latest",
+        "@serch/common": "latest",
+        "@serchiu/mediaplayer": "latest"
+    }
+}

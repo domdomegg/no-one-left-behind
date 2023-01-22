@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_aiz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aizatto/date-fns": "latest",
+        "@aizatto/draft-js-markdown-plugin": "latest",
+        "@aizatto/draft-js-plugins-editor": "latest",
+        "@aizatto/graphql": "latest",
+        "@aizatto/hapi-auth0-oauth": "latest",
+        "@aizatto/lib": "latest",
+        "@aizatto/npm-hook-test": "latest",
+        "@aizatto/react": "latest",
+        "@aizf/d3v3": "latest",
+        "@aizigao/create-app": "latest",
+        "@aizigao/tools": "latest",
+        "@aizigao/uni-select": "latest",
+        "@aizoo/body-pix": "latest",
+        "@aizoo/coco-ssd": "latest",
+        "@aizoo/deeplab": "latest",
+        "@aizu/ezmysql": "latest",
+        "@aizu/tiny": "latest",
+        "@aizwan/eslint-parser": "latest",
+        "@aizwan/eslint-plugin": "latest",
+        "@aizwan/html-eslint": "latest"
+    }
+}

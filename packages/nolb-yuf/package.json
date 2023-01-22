@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-yuf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yuf": "latest",
+        "yuf-bin": "latest",
+        "yuf-core-plugins": "latest",
+        "yuf-kernel": "latest",
+        "yuf-plugins": "latest",
+        "yuf-services": "latest",
+        "yuf-utils": "latest",
+        "yufei-lerna-core": "latest",
+        "yufei-lerna-popular": "latest",
+        "yufei-mini-moment": "latest",
+        "yufei-test": "latest",
+        "yufei-test-nodejs-module": "latest",
+        "yufen-ui": "latest",
+        "yufeng-decorates": "latest",
+        "yufeng-sdk": "latest",
+        "yuferova-sum": "latest",
+        "yuffie-browser": "latest",
+        "yuffie-vue-plugin": "latest",
+        "yufish": "latest",
+        "yufjaimhswlbknzx": "latest",
+        "yufka": "latest",
+        "yufou": "latest",
+        "yufrontin": "latest",
+        "yufs": "latest",
+        "yufu-ui": "latest",
+        "yufu-vue-simple": "latest",
+        "yufuwujituanapp": "latest",
+        "yufvhfv": "latest"
+    }
+}

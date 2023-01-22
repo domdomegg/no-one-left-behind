@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-typefo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typefo": "latest",
+        "typefont": "latest",
+        "typeforce": "latest",
+        "typeforce-middleware": "latest",
+        "typeform": "latest",
+        "typeform-builder": "latest",
+        "typeform-client": "latest",
+        "typeform-elements": "latest",
+        "typeform-export-excel": "latest",
+        "typeform-io": "latest",
+        "typeform-js": "latest",
+        "typeform-library": "latest",
+        "typeform-node-api": "latest",
+        "typeform-parse": "latest",
+        "typeform-payload-helpers": "latest",
+        "typeform-react": "latest",
+        "typeform-sdk": "latest",
+        "typeform-to-facebook-messenger": "latest",
+        "typefox-client": "latest",
+        "typefox-monaco": "latest"
+    }
+}

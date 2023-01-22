@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-mongoose-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mongoose-oauth-store-multi-tenant": "latest",
+        "mongoose-object-stream": "latest",
+        "mongoose-objectid-middleware": "latest",
+        "mongoose-objectpath": "latest",
+        "mongoose-observables": "latest",
+        "mongoose-observer": "latest",
+        "mongoose-old-values": "latest",
+        "mongoose-omit-common-fields": "latest",
+        "mongoose-ops": "latest",
+        "mongoose-opt-paginate": "latest",
+        "mongoose-orchestrator": "latest",
+        "mongoose-order-manager": "latest",
+        "mongoose-organizer": "latest",
+        "mongoose-originals": "latest",
+        "mongoose-orm": "latest",
+        "mongoose-os": "latest",
+        "mongoose-os-emulator": "latest",
+        "mongoose-os-rpc": "latest",
+        "mongoose-otp-handler": "latest",
+        "mongoose-ownable": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_erb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@erbelion/utils": "latest",
+        "@erbelion/vite-plugin-laravel-purgecss": "latest",
+        "@erbium/iconsax": "latest",
+        "@erbium/is-prime": "latest",
+        "@erbium/lit-base-mixins": "latest",
+        "@erbridge/svelte-feather": "latest"
+    }
+}

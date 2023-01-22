@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-react-ls",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-ls": "latest",
+        "react-ls-header": "latest",
+        "react-lsq-component-library": "latest",
+        "react-lss-autocomplete": "latest",
+        "react-lsz-dragresponse": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_my0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@my01/react-native-ble-plx": "latest",
+        "@my01/react-native-charts-wrapper": "latest",
+        "@my01/react-native-fast-image": "latest",
+        "@my01/react-native-interactable": "latest",
+        "@my01/react-native-intercom": "latest",
+        "@my01/react-native-navigation": "latest",
+        "@my01/react-native-orientation": "latest",
+        "@my01/stompjs": "latest",
+        "@my0419/electron-oauth-helper": "latest"
+    }
+}

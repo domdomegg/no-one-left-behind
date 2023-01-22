@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-ng2-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ng2-jalali-date-picker": "latest",
+        "ng2-jazzik-test": "latest",
+        "ng2-jdate-picker": "latest",
+        "ng2-jira-connector": "latest",
+        "ng2-jira-ticket-creator": "latest",
+        "ng2-jsform": "latest",
+        "ng2-jsgrid": "latest",
+        "ng2-json-editor": "latest",
+        "ng2-json-tree": "latest",
+        "ng2-json-view": "latest",
+        "ng2-jsoneditor": "latest",
+        "ng2-jsoneditor-forked-by-dmitrio": "latest",
+        "ng2-jsonrpc-client": "latest",
+        "ng2-jspm-template-libs": "latest",
+        "ng2-jwplayer": "latest",
+        "ng2-jwt": "latest",
+        "ng2-jwtauth": "latest"
+    }
+}

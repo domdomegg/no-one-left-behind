@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_chet",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chetan_nitor/dynamic-form-new": "latest",
+        "@chetan_nitor/files-change": "latest",
+        "@chetangodhani/jupyterlab-apod": "latest",
+        "@chetanraj/git-ls": "latest",
+        "@chetanraj/style-my-app": "latest",
+        "@chetbox/electron-forge-plugin-webpack": "latest",
+        "@chetbu/posync-api": "latest",
+        "@chethanyadav456/discord-bot-template": "latest",
+        "@chetnashah/starwarsnames": "latest",
+        "@cheton/is-electron": "latest",
+        "@chettapong/moment-buddhist-era.js": "latest",
+        "@chettapong/plugin-axios": "latest",
+        "@chetwoodfinancial/gtm-tracker": "latest"
+    }
+}

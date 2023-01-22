@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_x2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@x22/dr": "latest",
+        "@x22/ersatzui": "latest",
+        "@x22/kiraui": "latest",
+        "@x22/utils": "latest",
+        "@x22/vvg": "latest",
+        "@x2ox/base64": "latest",
+        "@x2s/components": "latest",
+        "@x2ts/china-district": "latest",
+        "@x2y2-io/sdk": "latest"
+    }
+}

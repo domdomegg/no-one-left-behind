@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_scm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@scm-manager/babel-preset": "latest",
+        "@scm-manager/e2e-tests": "latest",
+        "@scm-manager/eslint-config": "latest",
+        "@scm-manager/integration-test-runner": "latest",
+        "@scm-manager/jest-preset": "latest",
+        "@scm-manager/medium-zoom": "latest",
+        "@scm-manager/plugin-scripts": "latest",
+        "@scm-manager/prettier-config": "latest",
+        "@scm-manager/refractor-flatten": "latest",
+        "@scm-manager/refractor-group-by-lines": "latest",
+        "@scm-manager/remark-preset-lint": "latest",
+        "@scm-manager/scm-code-editor-plugin": "latest",
+        "@scm-manager/tsconfig": "latest",
+        "@scm-manager/ui-api": "latest",
+        "@scm-manager/ui-bundler": "latest",
+        "@scm-manager/ui-buttons": "latest",
+        "@scm-manager/ui-components": "latest",
+        "@scm-manager/ui-extensions": "latest",
+        "@scm-manager/ui-forms": "latest",
+        "@scm-manager/ui-overlays": "latest",
+        "@scm-manager/ui-plugins": "latest",
+        "@scm-manager/ui-scripts": "latest",
+        "@scm-manager/ui-tests": "latest",
+        "@scm-manager/ui-types": "latest"
+    }
+}

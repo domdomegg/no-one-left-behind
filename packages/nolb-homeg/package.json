@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-homeg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "homegames": "latest",
+        "homegames-common": "latest",
+        "homegames-core": "latest",
+        "homegames-web": "latest",
+        "homegearws": "latest",
+        "homegrown": "latest",
+        "homegrown-nmea": "latest",
+        "homegrown-polars": "latest",
+        "homegrown-sailing": "latest",
+        "homegrown-spike": "latest",
+        "homegrown-spike-1": "latest",
+        "homegw-lightcontroller": "latest",
+        "homegwlightcontroller": "latest"
+    }
+}

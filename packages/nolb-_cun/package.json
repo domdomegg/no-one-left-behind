@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_cun",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cundd/rest-adapter": "latest",
+        "@cuneilego/core": "latest",
+        "@cuneilego/framer": "latest",
+        "@cuneilego/styled-elements": "latest",
+        "@cuneilego/theme": "latest",
+        "@cuneilego/web": "latest",
+        "@cuneytt/tiny": "latest",
+        "@cungminh2710/pseudolocalize": "latest",
+        "@cuniq/react": "latest",
+        "@cuniq/toolkit": "latest",
+        "@cunmo/data-picker": "latest",
+        "@cunneen/flatpickr": "latest",
+        "@cunw/cunw-cli": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_cox",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cox-automotive/clortho": "latest",
+        "@cox-automotive/yaml-changelog": "latest",
+        "@coxhome/homebridge-aldes-connect": "latest",
+        "@coxinhaswap/coxinhaswap-sdk": "latest",
+        "@coxinhaswap/router-sdk": "latest",
+        "@coxinhaswap/sdk-core": "latest",
+        "@coxinhaswap/v2-sdk": "latest",
+        "@coxinhaswap/v3-sdk": "latest",
+        "@coxy/aes-256": "latest",
+        "@coxy/axios-pool": "latest",
+        "@coxy/crypto-currency-data": "latest",
+        "@coxy/eslint-config": "latest",
+        "@coxy/promise-priority-queue": "latest",
+        "@coxy/queue": "latest",
+        "@coxy/react-click-outside": "latest",
+        "@coxy/react-native-navigator": "latest",
+        "@coxy/react-validator": "latest",
+        "@coxy/reply-count-loop": "latest",
+        "@coxy/tcp-router": "latest",
+        "@coxy/ts-node-logger": "latest",
+        "@coxy/utils": "latest"
+    }
+}

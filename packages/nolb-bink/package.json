@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-bink",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bink": "latest",
+        "bink-to": "latest",
+        "binkify": "latest",
+        "binking": "latest",
+        "binkl-chat-externe": "latest",
+        "binkl-chatbot": "latest",
+        "binkl-core": "latest",
+        "binks": "latest",
+        "binks-ui": "latest",
+        "binks-ui-upload": "latest",
+        "binky": "latest"
+    }
+}

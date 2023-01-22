@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-ilc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ilc": "latest",
+        "ilc-adapter-react": "latest",
+        "ilc-adapter-vue": "latest",
+        "ilc-cli": "latest",
+        "ilc-plugins-sdk": "latest",
+        "ilc-scripts": "latest",
+        "ilc-sdk": "latest",
+        "ilc-server-sdk": "latest",
+        "ilcd": "latest",
+        "ilcorsaronero-api": "latest"
+    }
+}

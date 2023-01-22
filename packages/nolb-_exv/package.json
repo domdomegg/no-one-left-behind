@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_exv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@exvu/charm-api": "latest",
+        "@exvu/deploy": "latest",
+        "@exvu/query-string": "latest",
+        "@exvu/umi-plugin-dynamic-route": "latest",
+        "@exvu/url-parse": "latest",
+        "@exvu/web-storage": "latest"
+    }
+}

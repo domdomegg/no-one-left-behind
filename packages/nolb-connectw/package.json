@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-connectw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "connectwise-action-api": "latest",
+        "connectwise-automate-sdk": "latest",
+        "connectwise-control-api": "latest",
+        "connectwise-despacio-lib": "latest",
+        "connectwise-manage-rest-api": "latest",
+        "connectwise-manage-sdk": "latest",
+        "connectwise-rest": "latest",
+        "connectwise-rest-api": "latest",
+        "connectwise-timeout-form-submission-tool": "latest",
+        "connectwisenodejs": "latest",
+        "connectwithnoor-firequiz": "latest"
+    }
+}

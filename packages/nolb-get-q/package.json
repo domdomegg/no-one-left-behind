@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-get-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "get-qb-token": "latest",
+        "get-query": "latest",
+        "get-query-modifier": "latest",
+        "get-query-param": "latest",
+        "get-query-params": "latest",
+        "get-query-params-for-practice": "latest",
+        "get-query-selector": "latest",
+        "get-query-string-value": "latest",
+        "get-query-strings": "latest",
+        "get-query-value": "latest",
+        "get-querying": "latest",
+        "get-quotes": "latest"
+    }
+}

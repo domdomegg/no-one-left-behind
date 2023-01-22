@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_kuf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kuflink/angular-typed": "latest",
+        "@kuflow/kuflow-engine-client-activity-kuflow": "latest",
+        "@kuflow/kuflow-engine-client-core": "latest",
+        "@kuflow/kuflow-rest": "latest",
+        "@kuflow/kuflow-rest-client": "latest",
+        "@kuflow/kuflow-temporal-activity-kuflow": "latest",
+        "@kuflow/kuflow-temporal-core": "latest",
+        "@kufox/icons": "latest",
+        "@kufox/makestyle": "latest",
+        "@kufox/mui": "latest"
+    }
+}

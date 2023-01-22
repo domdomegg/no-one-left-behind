@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-zhm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zhm-cli": "latest",
+        "zhm-element-ui": "latest",
+        "zhm-lv-kt-gp5": "latest",
+        "zhm-npm-test": "latest",
+        "zhm-test": "latest",
+        "zhmfitstload": "latest",
+        "zhmhello1": "latest",
+        "zhmurik": "latest",
+        "zhmyui": "latest"
+    }
+}

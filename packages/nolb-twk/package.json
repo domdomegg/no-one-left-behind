@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-twk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "twk-boilerplate": "latest",
+        "twk-first-test": "latest",
+        "twk-happy-utils": "latest",
+        "twk-utils": "latest",
+        "twk1": "latest",
+        "twkb": "latest",
+        "twkr": "latest",
+        "twkwok1209": "latest"
+    }
+}

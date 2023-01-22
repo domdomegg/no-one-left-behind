@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_tym",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@tymaker-team/thxgen": "latest",
+        "@tyman/modulo": "latest",
+        "@tymate/cra-template-lifegoals": "latest",
+        "@tymate/cra-template-tymate": "latest",
+        "@tymate/margaret": "latest",
+        "@tymate/tybo": "latest",
+        "@tymate/tymulus": "latest",
+        "@tyme-ui/button": "latest",
+        "@tyme-ui/utils": "latest",
+        "@tymianekpl/autonode": "latest",
+        "@tymianekpl/logginglib": "latest",
+        "@tymoshchuk19/keepcarbone": "latest",
+        "@tymur/v2-core": "latest",
+        "@tymur/v2-widget-c": "latest",
+        "@tymytickets/common": "latest"
+    }
+}

@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-clow",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clow": "latest",
+        "clow-plugin-task-npm-install": "latest",
+        "clowd": "latest",
+        "clowder": "latest",
+        "clowder-previewer": "latest",
+        "clowderjs": "latest",
+        "clowdr-video-frontend": "latest",
+        "clown": "latest",
+        "clown-component": "latest",
+        "clown-date-picker": "latest",
+        "clown-helang": "latest",
+        "clown-log": "latest",
+        "clown-test": "latest",
+        "clowncar": "latest",
+        "clowncryption": "latest",
+        "clownface": "latest",
+        "clownface-browser": "latest",
+        "clownface-shacl-path": "latest",
+        "clownfish": "latest",
+        "clowngen": "latest",
+        "clownshoes": "latest"
+    }
+}

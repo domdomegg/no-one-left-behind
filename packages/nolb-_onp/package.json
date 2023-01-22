@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_onp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@onpageideas/write-build-info-json-webpack-plugin": "latest",
+        "@onpaper/data-store": "latest",
+        "@onpaper/event-bus": "latest",
+        "@onparallel/marked-do-not-use": "latest",
+        "@onpr/amui": "latest",
+        "@onpr/vue-redux": "latest",
+        "@onpurple/types": "latest"
+    }
+}

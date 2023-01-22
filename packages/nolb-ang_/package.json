@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-ang_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ang.video.js": "latest",
+        "ang_luca": "latest",
+        "ang_play": "latest",
+        "ang_util": "latest"
+    }
+}

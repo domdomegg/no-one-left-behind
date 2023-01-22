@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-babel-plugin-x",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-plugin-x-for": "latest",
+        "babel-plugin-x-if": "latest",
+        "babel-plugin-x-import": "latest",
+        "babel-plugin-xiaoe-import": "latest",
+        "babel-plugin-xinui-import": "latest",
+        "babel-plugin-xplicit": "latest",
+        "babel-plugin-xss": "latest",
+        "babel-plugin-xst-api-log": "latest",
+        "babel-plugin-xxy-stage-one": "latest",
+        "babel-plugin-xyconsole": "latest",
+        "babel-plugin-xyz": "latest"
+    }
+}

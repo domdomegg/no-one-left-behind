@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_cif",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ciffi-js/builder": "latest",
+        "@ciffi-js/cookies": "latest",
+        "@ciffi-js/custom-select": "latest",
+        "@ciffi-js/design-token": "latest",
+        "@ciffi-js/dev-server": "latest",
+        "@ciffi-js/device": "latest",
+        "@ciffi-js/form": "latest",
+        "@ciffi-js/jsonize-path": "latest",
+        "@ciffi-js/responsive-images": "latest",
+        "@ciffi-js/router": "latest",
+        "@ciffi-js/utils": "latest",
+        "@ciffi-js/webpack-wcs-loader": "latest",
+        "@cifrum/navi": "latest",
+        "@cifrum/navi-docs": "latest",
+        "@cifrum/navi-icons": "latest",
+        "@cifrum/vuewind-docs": "latest"
+    }
+}

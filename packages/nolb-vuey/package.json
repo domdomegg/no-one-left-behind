@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-vuey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vuey": "latest",
+        "vueybcounter": "latest",
+        "vueye-datepicker": "latest",
+        "vueye-phone-input": "latest",
+        "vueye-table": "latest",
+        "vueye-timeline": "latest",
+        "vueyuanyuan": "latest",
+        "vueyuk": "latest",
+        "vueyytree": "latest"
+    }
+}

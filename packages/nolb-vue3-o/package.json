@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-vue3-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue3-observe-visibility": "latest",
+        "vue3-observe-visibility2": "latest",
+        "vue3-observer": "latest",
+        "vue3-odometer": "latest",
+        "vue3-oem-module": "latest",
+        "vue3-oidc": "latest",
+        "vue3-online": "latest",
+        "vue3-online-signature": "latest",
+        "vue3-oop": "latest",
+        "vue3-oop-static": "latest",
+        "vue3-openlayers": "latest",
+        "vue3-openlayers-select": "latest",
+        "vue3-openlayers-sl": "latest",
+        "vue3-operation-step": "latest",
+        "vue3-org-tree": "latest",
+        "vue3-organization-chart": "latest",
+        "vue3-otp": "latest",
+        "vue3-otp-component": "latest",
+        "vue3-otp-input": "latest"
+    }
+}

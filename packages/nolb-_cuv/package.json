@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_cuv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cuvent/react-native-better-tus-client": "latest",
+        "@cuvent/react-native-context-menu-view": "latest",
+        "@cuvent/react-native-fast-image": "latest",
+        "@cuvva/crpc": "latest",
+        "@cuvva/json-client": "latest",
+        "@cuvva/ksuid": "latest",
+        "@cuvva/postcodesio-client": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-servy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "servy": "latest",
+        "servyou": "latest",
+        "servyou-copy": "latest",
+        "servyou-fe": "latest",
+        "servyou-mask-guide": "latest",
+        "servyou-sj-fe": "latest",
+        "servyou-sj-ui": "latest",
+        "servyou-ui": "latest",
+        "servyou_gd-protal": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-ch_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ch.api.js": "latest",
+        "ch.maenulabs.angular.model": "latest",
+        "ch.maenulabs.type": "latest",
+        "ch.maenulabs.validation": "latest",
+        "ch.min.js": "latest",
+        "ch.resrc.domain": "latest",
+        "ch.rts.cordova.fork.cordova.plugin.statusbar": "latest",
+        "ch.rts.cordova.fork.telerik.plugins.nativepagetransitions": "latest",
+        "ch.rts.cordova.is.tablet": "latest",
+        "ch.ti8m.documenthandler": "latest",
+        "ch_react-horizontal-datepicker": "latest",
+        "ch_src": "latest",
+        "ch_utils": "latest",
+        "ch_utils_min_01": "latest",
+        "ch_work": "latest"
+    }
+}

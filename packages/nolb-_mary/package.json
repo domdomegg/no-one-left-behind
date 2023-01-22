@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_mary",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mary-cileungsi/sso-client": "latest",
+        "@maryamnoor/tile": "latest",
+        "@maryamnoor/tile-component-library": "latest",
+        "@maryamnoor/tile-ui": "latest",
+        "@maryamnoor/tile-ui2": "latest",
+        "@maryana2112/test": "latest",
+        "@marygans0210/header-component": "latest",
+        "@marygans0210/tiny": "latest",
+        "@maryjanyes-gk-software/commuincator": "latest",
+        "@maryjanyes-gk-software/component-service-messages": "latest",
+        "@maryjanyes-gk-software/component-service-rest": "latest",
+        "@maryjanyes-gk-software/component-widget-alerts-card": "latest",
+        "@maryjanyes-gk-software/component-widget-profile-card": "latest",
+        "@maryjanyes-gk-software/event-bus-emitter": "latest",
+        "@marysieek/react-native-fbsdk": "latest",
+        "@maryury/rn_widget": "latest",
+        "@maryury/widget": "latest",
+        "@maryville-swdv-660-djackson/colorized-haiku": "latest",
+        "@maryville-swdv-660-master/new-dad-joke": "latest",
+        "@maryville-wgreenlaw1/greeting-and-a-cat-fact": "latest"
+    }
+}

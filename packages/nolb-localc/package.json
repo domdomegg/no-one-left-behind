@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-localc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "localcache": "latest",
+        "localcacher": "latest",
+        "localcast": "latest",
+        "localcast-cli": "latest",
+        "localchain": "latest",
+        "localcheck": "latest",
+        "localci": "latest",
+        "localcms": "latest",
+        "localcoins": "latest",
+        "localcollection": "latest",
+        "localcombo": "latest",
+        "localconsolelogger": "latest",
+        "localcontrol": "latest",
+        "localcookie": "latest",
+        "localcookies": "latest",
+        "localcoords": "latest"
+    }
+}

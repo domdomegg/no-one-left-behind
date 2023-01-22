@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-fir-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fir-components": "latest",
+        "fir-dsp": "latest",
+        "fir-for-connectors": "latest",
+        "fir-im-upload-app": "latest",
+        "fir-lib-ui": "latest",
+        "fir-npm-test": "latest",
+        "fir-packer": "latest",
+        "fir-rule-gen": "latest",
+        "fir-ui": "latest"
+    }
+}

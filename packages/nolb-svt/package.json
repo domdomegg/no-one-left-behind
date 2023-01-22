@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-svt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "svt": "latest",
+        "svt-cli": "latest",
+        "svt-component": "latest",
+        "svt-components": "latest",
+        "svt-map": "latest",
+        "svt-router": "latest",
+        "svt_test": "latest",
+        "svtechs-ui": "latest",
+        "svtlib": "latest",
+        "svtoast": "latest",
+        "svtol-uploader": "latest",
+        "svtv-news": "latest",
+        "svtw": "latest"
+    }
+}

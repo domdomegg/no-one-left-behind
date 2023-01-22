@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-js4",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "js4": "latest",
+        "js416": "latest",
+        "js44d": "latest",
+        "js44d-tns": "latest",
+        "js4cdn": "latest",
+        "js4cytoscape": "latest",
+        "js4dapp": "latest",
+        "js4eos": "latest",
+        "js4gm": "latest",
+        "js4k": "latest",
+        "js4log": "latest",
+        "js4lol": "latest"
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_toi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@toi/dynamo": "latest",
+        "@toi/toi": "latest",
+        "@toi/toix": "latest",
+        "@toichubek/avn-qr": "latest",
+        "@toilal/dotx": "latest",
+        "@toiletgaming/libjewtrick": "latest",
+        "@toiletswap-libs/uikit": "latest",
+        "@toinane/apidoc": "latest",
+        "@toinane/express-rate-limit": "latest",
+        "@toinhotony/formulaire": "latest",
+        "@toio/cube": "latest",
+        "@toio/scanner": "latest",
+        "@toisu/body": "latest",
+        "@toisu/handlebars": "latest",
+        "@toisu/middleware-runner": "latest",
+        "@toisu/router": "latest",
+        "@toisu/static": "latest",
+        "@toisu/timings": "latest",
+        "@toisu/toisu": "latest",
+        "@toit/api": "latest",
+        "@toit/esptool.js": "latest",
+        "@toitware/api": "latest"
+    }
+}

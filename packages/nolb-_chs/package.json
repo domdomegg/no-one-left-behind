@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-_chs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@chs1402/markdown-it-mermaid": "latest",
+        "@chshouyu/tkit-cli": "latest",
+        "@chshum/npm_stuff": "latest",
+        "@chsingh678/oclif-firstplugin": "latest",
+        "@chsk/annotation": "latest",
+        "@chsk/band": "latest",
+        "@chsk/core": "latest",
+        "@chsk/matrix": "latest",
+        "@chsk/themes": "latest",
+        "@chsk/xy": "latest",
+        "@chsolve/common": "latest",
+        "@chsuvladimir/calendare-chsu": "latest",
+        "@chszchen/docusaurus-search-local": "latest"
+    }
+}

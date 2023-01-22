@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-scv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "scv": "latest",
+        "scv-bilara": "latest",
+        "scv-cli": "latest",
+        "scv-dev-au-input": "latest",
+        "scv-esm": "latest",
+        "scv-rb": "latest",
+        "scv-server": "latest",
+        "scv-tts": "latest",
+        "scv-web-components": "latest",
+        "scvjs": "latest",
+        "scvo-router": "latest",
+        "scvp-ts": "latest",
+        "scvue-cli": "latest"
+    }
+}

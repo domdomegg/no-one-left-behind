@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_bq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bq-web/babel-basic": "latest",
+        "@bqardi/rainbow-log": "latest",
+        "@bqardi/slideshow": "latest",
+        "@bqardi/ultimate-element-creator": "latest",
+        "@bqtickets/common": "latest",
+        "@bqy/feature-export-openapi": "latest"
+    }
+}

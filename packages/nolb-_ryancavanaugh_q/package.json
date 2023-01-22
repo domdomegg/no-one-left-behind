@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_ryancavanaugh_q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryancavanaugh/q": "latest",
+        "@ryancavanaugh/q-io": "latest",
+        "@ryancavanaugh/q-retry": "latest",
+        "@ryancavanaugh/qajax": "latest",
+        "@ryancavanaugh/qrcode-generator": "latest",
+        "@ryancavanaugh/qs": "latest",
+        "@ryancavanaugh/qtip2": "latest",
+        "@ryancavanaugh/query-string": "latest",
+        "@ryancavanaugh/quill": "latest",
+        "@ryancavanaugh/quixote": "latest",
+        "@ryancavanaugh/qunit": "latest",
+        "@ryancavanaugh/qwest": "latest"
+    }
+}

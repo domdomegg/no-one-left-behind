@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-tran-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tran-dql": "latest",
+        "tran-duc-anh": "latest",
+        "tran-log": "latest",
+        "tran-long-progressbar": "latest",
+        "tran-lx": "latest",
+        "tran-perf": "latest",
+        "tran-render": "latest",
+        "tran-sister": "latest",
+        "tran-stp": "latest",
+        "tran-sy": "latest"
+    }
+}

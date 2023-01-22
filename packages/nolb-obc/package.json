@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-obc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "obc": "latest",
+        "obcache": "latest",
+        "obcheck": "latest",
+        "obchecked": "latest",
+        "obcheckt": "latest",
+        "obclone": "latest",
+        "obco": "latest"
+    }
+}

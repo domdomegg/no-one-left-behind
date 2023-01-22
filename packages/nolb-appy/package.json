@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-appy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "appy": "latest",
+        "appy-bird": "latest",
+        "appy-comps": "latest",
+        "appy-style": "latest",
+        "appyawazi": "latest",
+        "appyay": "latest",
+        "appybee-website": "latest",
+        "appybee-widget": "latest",
+        "appybee-widget-beta": "latest",
+        "appybeesite": "latest",
+        "appyday": "latest",
+        "appygram": "latest",
+        "appygram-ti": "latest",
+        "appytw": "latest",
+        "appyz-demo": "latest"
+    }
+}

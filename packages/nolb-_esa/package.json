@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_esa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@esaevian/genmo-v2": "latest",
+        "@esafar/angular-jalali-date-picker": "latest",
+        "@esagawe/angular-schematics": "latest",
+        "@esamarathon/mq-events": "latest",
+        "@esamples/mypack-1": "latest",
+        "@esamples/mypack-2": "latest",
+        "@esandstedt/stellaris-model": "latest",
+        "@esandstedt/stellaris-render": "latest",
+        "@esaraviam/my-platzom-js": "latest",
+        "@esatickets/common": "latest",
+        "@esatterwhite/eslint-config-reasonable": "latest",
+        "@esatterwhite/micromock": "latest",
+        "@esavaner/home-station": "latest",
+        "@esayemm/react-popout": "latest",
+        "@esayemm/toolkit": "latest"
+    }
+}

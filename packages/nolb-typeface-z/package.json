@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-typeface-z",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typeface-zcool-kuaile": "latest",
+        "typeface-zcool-qingke-huangyou": "latest",
+        "typeface-zcool-xiaowei": "latest",
+        "typeface-zeyada": "latest",
+        "typeface-zhi-mang-xing": "latest",
+        "typeface-zilla-slab": "latest",
+        "typeface-zilla-slab-highlight": "latest"
+    }
+}

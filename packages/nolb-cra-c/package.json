@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-cra-c",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cra-clean": "latest",
+        "cra-cleanup": "latest",
+        "cra-cli": "latest",
+        "cra-clone-template": "latest",
+        "cra-components": "latest",
+        "cra-context-generator": "latest",
+        "cra-cules": "latest",
+        "cra-custom-temp-js-an": "latest",
+        "cra-custom-template-tailwindcss": "latest",
+        "cra-cvui": "latest",
+        "cra-cvui-test": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-react-sq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-sql": "latest",
+        "react-sql-editor": "latest",
+        "react-sql-operation-function-builder": "latest",
+        "react-sql-query-builder": "latest",
+        "react-sqlite": "latest",
+        "react-sqlite-hook": "latest",
+        "react-squadpay": "latest",
+        "react-square": "latest",
+        "react-square-cards": "latest",
+        "react-square-div": "latest",
+        "react-square-payment-form": "latest",
+        "react-square-web-payments-sdk": "latest",
+        "react-squarely": "latest",
+        "react-squeezebox": "latest",
+        "react-squid": "latest",
+        "react-squircle": "latest",
+        "react-squire-editor": "latest",
+        "react-squoosh": "latest"
+    }
+}

@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-grunte",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "grunted": "latest",
+        "gruntee": "latest",
+        "grunter": "latest",
+        "grunter-helpers": "latest",
+        "grunter-projects": "latest",
+        "gruntest": "latest",
+        "gruntextension-subgrunt": "latest"
+    }
+}

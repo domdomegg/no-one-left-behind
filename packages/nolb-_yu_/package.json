@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_yu_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yu_org/js_library": "latest",
+        "@yu_tou/l7-draw": "latest",
+        "@yu_tou/swagger-to-graphql": "latest"
+    }
+}

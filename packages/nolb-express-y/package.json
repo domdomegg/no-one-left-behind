@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-express-y",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "express-yalm": "latest",
+        "express-yandexuid": "latest",
+        "express-yels-example": "latest",
+        "express-yesterday": "latest",
+        "express-yields": "latest",
+        "express-yields-2": "latest",
+        "express-youch": "latest",
+        "express-yourself": "latest",
+        "express-yt-cli": "latest",
+        "express-yui": "latest",
+        "express-yui-serve": "latest",
+        "express-yui3": "latest",
+        "express-yuicombo": "latest",
+        "express-yup": "latest",
+        "express-yup-middleware": "latest"
+    }
+}

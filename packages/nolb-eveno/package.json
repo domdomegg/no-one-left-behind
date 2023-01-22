@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-eveno",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "evenodd01": "latest",
+        "evenodd_npm": "latest",
+        "evenoddapp": "latest",
+        "evenodddl": "latest",
+        "evenoddgame": "latest"
+    }
+}

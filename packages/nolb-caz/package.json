@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-caz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "caz": "latest",
+        "caz-pages": "latest",
+        "cazala": "latest",
+        "cazary": "latest",
+        "cazgem-obs": "latest",
+        "caznews": "latest",
+        "cazoo-logger": "latest",
+        "cazoo-oss-template": "latest",
+        "cazoo-toggles": "latest",
+        "cazuza-ds": "latest",
+        "cazuza-ds2": "latest",
+        "cazzty": "latest"
+    }
+}

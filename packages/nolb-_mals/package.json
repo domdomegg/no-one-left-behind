@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_mals",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@malsa/iconfont-plugin-webpack": "latest",
+        "@malsa/node-csgotm-api": "latest",
+        "@malsa/yii2-cookie": "latest",
+        "@malsa/yii2-stdlib": "latest",
+        "@malsapp/loading": "latest",
+        "@malsapp/react-native-maformvalidation": "latest",
+        "@malsapp/react-native-maloading": "latest"
+    }
+}

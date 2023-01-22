@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-bs_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bs_auth_api": "latest",
+        "bs_mock": "latest",
+        "bs_sun_ping": "latest",
+        "bs_use": "latest",
+        "bs_vue_confirm_dialog": "latest"
+    }
+}

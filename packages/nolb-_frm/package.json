@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_frm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@frm/event": "latest",
+        "@frm/frm": "latest",
+        "@frm/from": "latest",
+        "@frm/jsonc": "latest",
+        "@frm/type": "latest",
+        "@frm/validator": "latest",
+        "@frmnt/hydra": "latest",
+        "@frmnt/hydra-server": "latest",
+        "@frmnt/hydra-to-api": "latest",
+        "@frmwrk/shopware-pwa-gtm-events": "latest"
+    }
+}

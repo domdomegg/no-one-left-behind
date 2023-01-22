@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-tiny-v",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tiny-validation": "latest",
+        "tiny-validator": "latest",
+        "tiny-vdom": "latest",
+        "tiny-vec": "latest",
+        "tiny-vector": "latest",
+        "tiny-veev": "latest",
+        "tiny-version-compare": "latest",
+        "tiny-video-player": "latest",
+        "tiny-view": "latest",
+        "tiny-viewer": "latest",
+        "tiny-vm": "latest",
+        "tiny-vue": "latest",
+        "tiny-vue-admin": "latest",
+        "tiny-vue-frame": "latest",
+        "tiny-vue-img-lazyload": "latest",
+        "tiny-vue-manager": "latest",
+        "tiny-vue-router-cli": "latest",
+        "tiny-vue3-ui": "latest"
+    }
+}

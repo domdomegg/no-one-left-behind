@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_baj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bajekmarcin/id-creator": "latest",
+        "@bajetech/astrax-api": "latest",
+        "@bajetech/digitalbits-hd-wallet": "latest",
+        "@bajetech/digitalbits-wallet-sdk": "latest",
+        "@bajishaik/mylib": "latest",
+        "@bajishaik/passwordvalidator": "latest",
+        "@bajjy/es6templates": "latest",
+        "@bajpai244/calculator": "latest",
+        "@bajpai244/datetime": "latest",
+        "@bajuh/type-switch": "latest"
+    }
+}

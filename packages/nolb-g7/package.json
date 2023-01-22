@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-g7",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "g7-scripts": "latest",
+        "g7-total": "latest",
+        "g711": "latest",
+        "g7112pcm": "latest",
+        "g7s-create-mani": "latest",
+        "g7s-element": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_elz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@elzekool/laser-game-lib": "latest",
+        "@elzohery/tickets-common": "latest",
+        "@elzone/vue-3d-model-extend": "latest",
+        "@elzup/eslint-config": "latest",
+        "@elzup/fizzbuzz": "latest",
+        "@elzup/generator-nm": "latest",
+        "@elzup/github-packages-npm": "latest",
+        "@elzup/kindof": "latest",
+        "@elzup/kit": "latest",
+        "@elzup/renovate-config": "latest",
+        "@elzup/sum": "latest",
+        "@elzup/tsconfig": "latest",
+        "@elzzad/dazzle": "latest",
+        "@elzzad/dazzle-babel-loader": "latest",
+        "@elzzad/dazzle-plugin-webpack5": "latest",
+        "@elzzad/dazzle-plugin-webpack5-babel": "latest",
+        "@elzzad/dazzle-plugin-webpack5-browserslist": "latest",
+        "@elzzad/dazzle-plugin-webpack5-externals": "latest",
+        "@elzzad/dazzle-start-server-webpack-plugin": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-zih",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zih": "latest",
+        "zihan-solid-trpc": "latest",
+        "zihao-test-npm": "latest",
+        "zihao_runoob": "latest",
+        "zihorm": "latest",
+        "zihudi": "latest"
+    }
+}

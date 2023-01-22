@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_carf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@carfax-stencils/icon": "latest",
+        "@carforyou/api-client": "latest",
+        "@carforyou/assets": "latest",
+        "@carforyou/components": "latest",
+        "@carforyou/configuration": "latest",
+        "@carforyou/cookies": "latest",
+        "@carforyou/deploy": "latest",
+        "@carforyou/eslint-config": "latest",
+        "@carforyou/example": "latest",
+        "@carforyou/header-footer": "latest",
+        "@carforyou/i18n": "latest",
+        "@carforyou/ld": "latest",
+        "@carforyou/next-page-bundlesize": "latest",
+        "@carforyou/phraseapp": "latest",
+        "@carforyou/pika-plugin-build-components": "latest",
+        "@carforyou/pika-plugin-build-standalone-node": "latest",
+        "@carforyou/react-tooltip-lite": "latest",
+        "@carforyou/search-parameters": "latest",
+        "@carforyou/tslint-rules": "latest",
+        "@carforyou/whitelabel-widget": "latest"
+    }
+}

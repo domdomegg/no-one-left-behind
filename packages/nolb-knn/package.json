@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-knn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "knn": "latest",
+        "knn-core": "latest",
+        "knn-js": "latest",
+        "knn-lite": "latest",
+        "knn-rank": "latest",
+        "knn-recommender": "latest",
+        "knn-uniq": "latest",
+        "knnect": "latest",
+        "knnect_commons": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-fey",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fey": "latest",
+        "feyipay-components": "latest",
+        "feyipay-sdk": "latest",
+        "feyna": "latest",
+        "feynman": "latest",
+        "feyy": "latest"
+    }
+}

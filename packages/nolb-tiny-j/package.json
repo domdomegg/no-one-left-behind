@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-tiny-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tiny-jest": "latest",
+        "tiny-jiyuyu": "latest",
+        "tiny-jpg": "latest",
+        "tiny-js-db": "latest",
+        "tiny-js-logger": "latest",
+        "tiny-js-md5": "latest",
+        "tiny-js-modal": "latest",
+        "tiny-js-utils": "latest",
+        "tiny-jsnotes-portfolio": "latest",
+        "tiny-json": "latest",
+        "tiny-json-body-parser": "latest",
+        "tiny-json-db": "latest",
+        "tiny-json-http": "latest",
+        "tiny-json-validator": "latest",
+        "tiny-jsonp": "latest",
+        "tiny-jsonrpc": "latest",
+        "tiny-jsonrpc-client": "latest",
+        "tiny-jsonrpc-postmessage": "latest",
+        "tiny-jsonschema": "latest",
+        "tiny-jstool": "latest",
+        "tiny-jsx": "latest"
+    }
+}

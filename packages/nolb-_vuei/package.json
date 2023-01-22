@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_vuei",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@vuei-tool/deliver": "latest",
+        "@vuei-tool/lodash": "latest",
+        "@vuei-tool/mono-test": "latest"
+    }
+}

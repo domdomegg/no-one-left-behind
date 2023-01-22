@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_kuw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kuworking/block-landing-four": "latest",
+        "@kuworking/block-landing-one": "latest",
+        "@kuworking/block-landing-three": "latest",
+        "@kuworking/block-landing-two": "latest",
+        "@kuworking/block-masonry": "latest",
+        "@kuworking/gatsby-theme-kuworking-core": "latest",
+        "@kuworking/methods": "latest"
+    }
+}

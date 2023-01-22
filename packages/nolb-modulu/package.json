@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-modulu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "modulus": "latest",
+        "modulus-combine": "latest",
+        "modulus-craft": "latest",
+        "modulus-create": "latest",
+        "modulus-generator": "latest",
+        "modulus-operator": "latest",
+        "modulus-styles": "latest",
+        "modulus-ui": "latest",
+        "modulusjs": "latest",
+        "modulux": "latest"
+    }
+}

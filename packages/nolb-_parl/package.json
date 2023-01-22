@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_parl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@parlarkey/random-number-generator": "latest",
+        "@parley/logger": "latest",
+        "@parli/sdk": "latest",
+        "@parliamodipc/randomdog": "latest",
+        "@parliamodipc/testuu": "latest",
+        "@parligerly/a": "latest",
+        "@parligerly/b": "latest"
+    }
+}

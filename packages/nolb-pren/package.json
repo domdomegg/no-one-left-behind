@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-pren",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "prendas": "latest",
+        "prender": "latest",
+        "prender-babel": "latest",
+        "prender-cli": "latest",
+        "prender-core": "latest",
+        "prender-less": "latest",
+        "prender-pug": "latest",
+        "prenderer": "latest",
+        "prendre": "latest",
+        "prendus-question-elements": "latest",
+        "prendus-shared": "latest",
+        "prendy": "latest",
+        "prenode": "latest",
+        "prensa": "latest",
+        "prensa-docs": "latest",
+        "prent": "latest",
+        "prenup": "latest"
+    }
+}

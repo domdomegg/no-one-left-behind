@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-hanf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hanfanyi": "latest",
+        "hanfast": "latest",
+        "hanfastlf": "latest",
+        "hanfeidada": "latest",
+        "hanfen-ui": "latest",
+        "hanfeng-hello-node": "latest",
+        "hanfeng_zmf": "latest",
+        "hanfengleiutil": "latest",
+        "hanfordfriday": "latest",
+        "hanfu-test": "latest",
+        "hanfunc": "latest"
+    }
+}

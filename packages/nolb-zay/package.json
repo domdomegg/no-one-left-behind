@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-zay",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "zay": "latest",
+        "zaya": "latest",
+        "zaya-cra-template": "latest",
+        "zaya-react-scripts": "latest",
+        "zayan-library": "latest",
+        "zayith": "latest",
+        "zayne_glatz_footer_generator": "latest",
+        "zaynex-store": "latest",
+        "zaytsev-ui": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-treef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "treefarmer.js": "latest",
+        "treefind": "latest",
+        "treeflex": "latest",
+        "treeflexmap": "latest",
+        "treeflow": "latest",
+        "treefrog": "latest",
+        "treeful": "latest",
+        "treefun2": "latest",
+        "treefunc": "latest",
+        "treefy": "latest",
+        "treefy_js": "latest"
+    }
+}

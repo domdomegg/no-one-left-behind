@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-homed",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "homeday-assets": "latest",
+        "homeday-blocks": "latest",
+        "homedepot": "latest",
+        "homedir": "latest",
+        "homedir-config": "latest",
+        "homedir-current": "latest",
+        "homedir-polyfill": "latest",
+        "homedliu-npm-study": "latest",
+        "homedo-cli": "latest",
+        "homedo-utils": "latest",
+        "homedtvux": "latest",
+        "homedtvux-loader": "latest",
+        "homeduino": "latest",
+        "homeduino-dst-dev": "latest"
+    }
+}

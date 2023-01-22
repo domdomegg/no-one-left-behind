@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-pubt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pubt": "latest",
+        "pubtapper": "latest",
+        "pubtest-allenflynn": "latest",
+        "pubtest-shaun": "latest",
+        "pubtest1": "latest",
+        "pubtest_liu": "latest",
+        "pubtest_wp": "latest",
+        "pubtestfoobar": "latest",
+        "pubtool4pixi": "latest",
+        "pubtool4pixi1": "latest",
+        "pubtool4pixi2": "latest",
+        "pubtool4pixi_easydownloader": "latest",
+        "pubtstpkg": "latest"
+    }
+}

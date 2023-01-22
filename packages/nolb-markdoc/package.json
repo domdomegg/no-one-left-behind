@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-markdoc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "markdoc": "latest",
+        "markdoc-ls": "latest",
+        "markdoc-svelte": "latest",
+        "markdocco": "latest",
+        "markdocs": "latest",
+        "markdocx": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_luu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@luu-truong/react-native-image-viewer": "latest",
+        "@luu-truong/react-native-pdf": "latest",
+        "@luu-truong/react-native-reaction-button": "latest",
+        "@luuan/hello-wasm-test-pkg-luuan": "latest",
+        "@luubinhan/react": "latest",
+        "@luubinhan/scss": "latest",
+        "@luuc/react-d3-radar": "latest",
+        "@luudjanssen/gatsby-source-contentful": "latest",
+        "@luudjanssen/localforage-cache": "latest",
+        "@luudjanssen/next-locale-router": "latest",
+        "@luuduchieu/create-promise": "latest",
+        "@luuhuongtech/mui-customized-components": "latest",
+        "@luuhuongtech/testnpm": "latest",
+        "@luuklelifeld/bitwarden-cli": "latest",
+        "@luukone/darkmode-toggle": "latest"
+    }
+}

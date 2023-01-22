@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_stax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stax.ai/document-viewer": "latest",
+        "@staxisfun/lotide": "latest",
+        "@staxjs/cli": "latest",
+        "@staxjs/codemod": "latest",
+        "@staxjs/components": "latest",
+        "@staxjs/config": "latest",
+        "@staxjs/db": "latest",
+        "@staxjs/display": "latest",
+        "@staxjs/functions": "latest",
+        "@staxjs/generator": "latest",
+        "@staxjs/graphql": "latest",
+        "@staxjs/installer": "latest",
+        "@staxjs/scripts": "latest",
+        "@staxjs/theme": "latest",
+        "@staxjs/transforms": "latest",
+        "@staxval/postcss-custom-properties": "latest",
+        "@staxval/postcss-dynamic-custom-properties": "latest",
+        "@staxx6/scss-bundle": "latest",
+        "@staxy-app/react-native-web-maps": "latest"
+    }
+}

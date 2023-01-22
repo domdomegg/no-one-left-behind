@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-expresso",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "expressOne": "latest",
+        "expresso": "latest",
+        "expresso-api": "latest",
+        "expresso-machine": "latest",
+        "expresso-models": "latest",
+        "expresso-react-library": "latest",
+        "expresso-repositories": "latest",
+        "expresso-router": "latest",
+        "expresso-server": "latest",
+        "expresso-services": "latest",
+        "expresso-utils": "latest",
+        "expressobdd": "latest",
+        "expressodotio": "latest",
+        "expressoh": "latest",
+        "expressojs": "latest",
+        "expressoo": "latest",
+        "expressopot": "latest",
+        "expressor": "latest"
+    }
+}

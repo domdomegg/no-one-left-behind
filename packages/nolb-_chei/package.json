@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_chei",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@cheichey_/kokasai-cli": "latest",
+        "@cheilbnl/sebn-eslint-plugin": "latest",
+        "@cheinemann/generator": "latest",
+        "@cheio/node-geolocation": "latest",
+        "@cheio/node-sequelize-pagination": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-win1",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "win1": "latest",
+        "win10": "latest",
+        "win10-find-all-video-capture-devices": "latest",
+        "win10-loading": "latest",
+        "win10-location": "latest",
+        "win10-notif": "latest",
+        "win10-rocks": "latest",
+        "win10-toast": "latest",
+        "win11": "latest",
+        "win11-nodert-streams": "latest",
+        "win1252-filter": "latest"
+    }
+}

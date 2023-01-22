@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-siu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "siu": "latest",
+        "siu-js-app-launcher": "latest",
+        "siugzdinis": "latest",
+        "sius-core-types": "latest",
+        "sius-customer-definitions": "latest",
+        "sius-invbill-definitions": "latest",
+        "sius-member-definitions": "latest",
+        "sius-microservice-core-arch": "latest",
+        "sius-product-definitions": "latest",
+        "sius-system-definitions": "latest",
+        "sius-validators": "latest",
+        "siusiacz": "latest",
+        "siutils": "latest",
+        "siuuuu": "latest"
+    }
+}

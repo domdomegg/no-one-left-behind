@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-react-native-ten",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-tencent-ad": "latest",
+        "react-native-tencent-bugly": "latest",
+        "react-native-tencent-cos": "latest",
+        "react-native-tencent-im": "latest",
+        "react-native-tencent-im-ui": "latest",
+        "react-native-tencent-lbs": "latest",
+        "react-native-tencent-map": "latest",
+        "react-native-tencent-push": "latest",
+        "react-native-tencent-xg": "latest",
+        "react-native-tencent-ylh-ad": "latest",
+        "react-native-tencentx5": "latest",
+        "react-native-tengits-amap3d": "latest",
+        "react-native-tengits-baidulocation": "latest",
+        "react-native-tengits-baidumap": "latest",
+        "react-native-tengits-debug-tool": "latest",
+        "react-native-tengits-elements": "latest",
+        "react-native-tengits-image-marker": "latest",
+        "react-native-tengits-image-picker": "latest",
+        "react-native-tengits-swiper": "latest",
+        "react-native-tenjin": "latest",
+        "react-native-tensorflow": "latest",
+        "react-native-tensorflow-lite": "latest",
+        "react-native-tensorio": "latest"
+    }
+}

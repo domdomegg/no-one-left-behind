@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_whp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@whppt/api-express": "latest",
+        "@whppt/cli": "latest",
+        "@whppt/form-builder": "latest",
+        "@whppt/layouts": "latest",
+        "@whppt/mailchimp": "latest",
+        "@whppt/next": "latest",
+        "@whppt/nuxt": "latest",
+        "@whppt/sitemaps": "latest",
+        "@whppt/store": "latest",
+        "@whppt/store-api": "latest",
+        "@whppt/tagging": "latest",
+        "@whppt/tagging-api": "latest"
+    }
+}

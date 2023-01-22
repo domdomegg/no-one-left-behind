@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-sern",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sern": "latest",
+        "sern-stack": "latest",
+        "sern_handler": "latest",
+        "sernam": "latest",
+        "sernite": "latest",
+        "sernum": "latest"
+    }
+}

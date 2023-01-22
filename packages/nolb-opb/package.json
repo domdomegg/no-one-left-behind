@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-opb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "opb": "latest",
+        "opbase-cli": "latest",
+        "opbeans-node": "latest",
+        "opbeat": "latest",
+        "opbeat-angular": "latest",
+        "opbeat-http-client": "latest",
+        "opbeat-ionic": "latest",
+        "opbeat-js": "latest",
+        "opbeat-js-core": "latest",
+        "opbeat-multiagent": "latest",
+        "opbeat-react": "latest",
+        "opbeat-release-tracker": "latest",
+        "opbeat-test": "latest",
+        "opbeat-zone": "latest",
+        "opbfe": "latest",
+        "opblih": "latest",
+        "opbox-build-tools": "latest",
+        "opbox-web-browser": "latest"
+    }
+}

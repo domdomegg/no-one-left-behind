@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-ts-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ts-kafka": "latest",
+        "ts-kavenegar": "latest",
+        "ts-kd-tree": "latest",
+        "ts-key-mirror": "latest",
+        "ts-key-namespace": "latest",
+        "ts-key-value-cache": "latest",
+        "ts-keycloak-admin-client": "latest",
+        "ts-keycode": "latest",
+        "ts-keycode-enum": "latest",
+        "ts-keyof": "latest",
+        "ts-keysof.macro": "latest",
+        "ts-khqr": "latest",
+        "ts-kin": "latest",
+        "ts-kits": "latest",
+        "ts-kittens": "latest",
+        "ts-kkkk": "latest",
+        "ts-klass": "latest",
+        "ts-koa-connect-history-api-fallback": "latest",
+        "ts-koa-generator": "latest",
+        "ts-koa-router": "latest",
+        "ts-koa-router-decorators": "latest",
+        "ts-koa2": "latest",
+        "ts-koaaa": "latest",
+        "ts-kollektions": "latest",
+        "ts-kraken": "latest",
+        "ts-kube": "latest",
+        "ts-kue-worker": "latest"
+    }
+}

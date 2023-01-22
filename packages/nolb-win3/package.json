@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-win3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "win32": "latest",
+        "win32-api": "latest",
+        "win32-api-fork": "latest",
+        "win32-clipboard": "latest",
+        "win32-def": "latest",
+        "win32-def-fork": "latest",
+        "win32-displayconfig": "latest",
+        "win32-ffi": "latest",
+        "win32-fun": "latest",
+        "win32-js-date": "latest",
+        "win32-monitor-window-resize": "latest",
+        "win32-pdf-printer": "latest",
+        "win32-printer": "latest",
+        "win32-service": "latest",
+        "win32-tools": "latest",
+        "win32-trayicon": "latest",
+        "win32-user-locale": "latest",
+        "win32-volume": "latest",
+        "win32.showlockscreen": "latest",
+        "win32api": "latest",
+        "win32com": "latest",
+        "win32crypt": "latest",
+        "win32filetime": "latest",
+        "win32ole": "latest"
+    }
+}

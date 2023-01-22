@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-googl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "googl": "latest",
+        "@zalastax/nolb-google": "latest",
+        "@zalastax/nolb-googli": "latest",
+        "@zalastax/nolb-googlo": "latest",
+        "@zalastax/nolb-googlp": "latest",
+        "@zalastax/nolb-googly": "latest"
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_frg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@frgr91/vue3-components-test": "latest",
+        "@frgr91/vue3-plugin-typescript": "latest",
+        "@frgrisk/ngx-monaco-editor": "latest"
+    }
+}

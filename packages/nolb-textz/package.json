@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-textz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "textzhangdezhenshuai": "latest",
+        "textzhaowei": "latest",
+        "textzw1": "latest",
+        "textzw2": "latest",
+        "textzyl1212": "latest"
+    }
+}

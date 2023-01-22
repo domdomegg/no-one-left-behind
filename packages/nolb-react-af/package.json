@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-react-af",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-af": "latest",
+        "react-afac": "latest",
+        "react-afc": "latest",
+        "react-affected-style-loader": "latest",
+        "react-affects-rendering": "latest",
+        "react-affine": "latest",
+        "react-affix": "latest",
+        "react-affx": "latest",
+        "react-aframe": "latest",
+        "react-aframe-ar": "latest",
+        "react-aframe-starter": "latest",
+        "react-africa-map": "latest",
+        "react-after-before-slider": "latest",
+        "react-after-typing": "latest",
+        "react-afterpay-checkout": "latest",
+        "react-afterthought": "latest"
+    }
+}

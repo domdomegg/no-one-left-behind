@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-t8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "t8": "latest",
+        "t8-bi-lsd-tool": "latest",
+        "t8-cms": "latest",
+        "t804-charts": "latest",
+        "t8chex-palindrome": "latest",
+        "t8on": "latest",
+        "t8t-mobile-ui": "latest"
+    }
+}

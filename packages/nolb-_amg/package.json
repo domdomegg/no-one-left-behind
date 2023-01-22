@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_amg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@amga/protoc-gen-ts": "latest",
+        "@amgate/axios-limiter": "latest",
+        "@amgg/elhelper": "latest",
+        "@amgsus/hub-client": "latest",
+        "@amgsus/hub-collector": "latest",
+        "@amguao/sdk": "latest",
+        "@amgular/cdk": "latest",
+        "@amgular/material": "latest"
+    }
+}

@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-x3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "x3": "latest",
+        "x3-base-core": "latest",
+        "x3-common-core": "latest",
+        "x3-env": "latest",
+        "x3-linkedlist": "latest",
+        "x3-parser-csv": "latest",
+        "x3-stock-graphql-demo": "latest",
+        "x3-template": "latest",
+        "x3.photo.gallery": "latest",
+        "x32": "latest",
+        "x32-osc": "latest",
+        "x32-proxy": "latest",
+        "x32323": "latest",
+        "x3d-jisuanji-tuxingxue": "latest",
+        "x3d-tidy": "latest",
+        "x3d-youxi-vol2": "latest",
+        "x3dh": "latest",
+        "x3dom": "latest",
+        "x3dom-livereload": "latest",
+        "x3ds-icon": "latest",
+        "x3insight": "latest",
+        "x3p.js": "latest",
+        "x3view": "latest",
+        "x3vikas": "latest",
+        "x3yz-npx-test": "latest",
+        "x3yz-test": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_zhm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@zhmu/unocss-preset-mini": "latest",
+        "@zhmu/unocss-preset-minipx": "latest",
+        "@zhmu/unocss-preset-wind": "latest",
+        "@zhmu/unocss-preset-windpx": "latest",
+        "@zhmushan/blank-ui": "latest"
+    }
+}

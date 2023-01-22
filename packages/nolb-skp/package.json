@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-skp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "skp": "latest",
+        "skp-coupon": "latest",
+        "skp-files-upload": "latest",
+        "skp-pack-1": "latest",
+        "skp-package": "latest",
+        "skp-react-basics": "latest",
+        "skp2js": "latest",
+        "skpjr001-pkg": "latest",
+        "skpk": "latest",
+        "skplayer": "latest",
+        "skpm": "latest",
+        "skpm-builder": "latest",
+        "skpm-client": "latest",
+        "skpm-config": "latest",
+        "skpm-utils": "latest",
+        "skptest": "latest",
+        "skptr01lib": "latest"
+    }
+}

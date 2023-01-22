@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-nodejsf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodejsFramework": "latest",
+        "nodejsf": "latest",
+        "nodejsfireship": "latest",
+        "nodejsfirstapp": "latest",
+        "nodejsfirstexport": "latest",
+        "nodejsfirsttry": "latest",
+        "nodejsfordrupal": "latest",
+        "nodejsforlabsix": "latest",
+        "nodejsfun": "latest",
+        "nodejsfunction-plus": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-clab",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "clab": "latest",
+        "clabe-check": "latest",
+        "clabe-checksum": "latest",
+        "clabe-js": "latest",
+        "clabe-validator": "latest",
+        "clabe-validator-updated": "latest",
+        "clabot": "latest",
+        "clabot-fix": "latest",
+        "clabot-khan": "latest"
+    }
+}

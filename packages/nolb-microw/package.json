@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-microw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "microwarehouse": "latest",
+        "microwatch": "latest",
+        "microwave": "latest",
+        "microwave-typeface-metrics": "latest",
+        "microwave-typeface-rubik": "latest",
+        "microwave-typeface-template": "latest",
+        "microwave.js": "latest",
+        "microwave_etl": "latest",
+        "microweb": "latest",
+        "microwebchat": "latest",
+        "microwork": "latest",
+        "microwork-rpc-handler": "latest",
+        "microworld": "latest",
+        "microworld-vue": "latest",
+        "microwriter": "latest"
+    }
+}

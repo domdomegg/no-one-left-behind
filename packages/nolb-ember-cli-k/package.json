@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-ember-cli-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ember-cli-kalendae": "latest",
+        "ember-cli-karma": "latest",
+        "ember-cli-keyboard-actions": "latest",
+        "ember-cli-keyboard-nav": "latest",
+        "ember-cli-keycloak": "latest",
+        "ember-cli-kimchi": "latest",
+        "ember-cli-kit": "latest",
+        "ember-cli-knob": "latest",
+        "ember-cli-kss": "latest"
+    }
+}

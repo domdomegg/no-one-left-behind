@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_suy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@suy/bots-web-client": "latest",
+        "@suyashsumaroo/simple-validator": "latest",
+        "@suyaswap-libs/sdk": "latest",
+        "@suyaswap-libs/suya-swap-core": "latest",
+        "@suyaswap-libs/uikit": "latest",
+        "@suyi_working/ui": "latest",
+        "@suyongs/use-request": "latest",
+        "@suyouwanggang/p-ui": "latest",
+        "@suyun-cli/core": "latest",
+        "@suyun-cli/utils": "latest",
+        "@suyunfe/postcss-px2rem-extend": "latest",
+        "@suyunfe/stylelint-rules": "latest",
+        "@suyunfe/tslint-react-rules": "latest",
+        "@suyunfe/vue-cli-plugin-unikg": "latest"
+    }
+}

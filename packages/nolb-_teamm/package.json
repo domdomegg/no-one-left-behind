@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_teamm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@teammachine/sdk": "latest",
+        "@teammaestro/capacitor-single-signon": "latest",
+        "@teammaestro/express-http-logger": "latest",
+        "@teammaestro/loop-modules": "latest",
+        "@teammaestro/nativescript-svg": "latest",
+        "@teammaestro/nestjs-common": "latest",
+        "@teammaestro/ngx-auth": "latest",
+        "@teammaestro/node-common": "latest",
+        "@teammaestro/node-couchdb-client": "latest",
+        "@teammaestro/node-document-service": "latest",
+        "@teammaestro/sequelize": "latest",
+        "@teammaestro/sequelize-common": "latest",
+        "@teammaestro/stencil-pdf-viewer": "latest",
+        "@teammaestro/stencil-shimmer": "latest",
+        "@teammanch/videoshow": "latest",
+        "@teammodlr/modlr-api": "latest",
+        "@teammove/logger": "latest",
+        "@teammove/makeup": "latest",
+        "@teammove/unused-style": "latest",
+        "@teammove/utils": "latest"
+    }
+}

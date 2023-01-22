@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-insh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "inshaallah": "latest",
+        "inshallah": "latest",
+        "inshorts": "latest",
+        "inshorts-api": "latest",
+        "inshorts-news-api": "latest",
+        "inshorts-tv": "latest"
+    }
+}

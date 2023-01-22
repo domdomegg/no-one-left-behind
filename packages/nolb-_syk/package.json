@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_syk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sykes-npm/core": "latest",
+        "@sykes-npm/js-marker-clusterer": "latest",
+        "@sykes-npm/snazzy-info-window": "latest",
+        "@sykes/react-native-components": "latest",
+        "@sykes/ui-theme": "latest",
+        "@syki/random": "latest"
+    }
+}

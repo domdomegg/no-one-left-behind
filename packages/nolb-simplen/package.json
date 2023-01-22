@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-simplen",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "simplenameservice": "latest",
+        "simplenamespace": "latest",
+        "simplencrypt": "latest",
+        "simpleneo4js": "latest",
+        "simpleneuron": "latest",
+        "simpleng": "latest",
+        "simplengrams": "latest",
+        "simplenode": "latest",
+        "simplenodecalc": "latest",
+        "simplenodejspackage": "latest",
+        "simplenodemoduletest": "latest",
+        "simplenodeserver-cli": "latest",
+        "simplenoise": "latest",
+        "simplenosql": "latest",
+        "simplenote": "latest",
+        "simplenote-grammar-pegjs": "latest",
+        "simplenote-sync": "latest",
+        "simplenotion": "latest",
+        "simplenpm-disc": "latest",
+        "simplenpmlibrary-sean.kang": "latest",
+        "simplenpmpkg": "latest",
+        "simplenumbers": "latest",
+        "simplenvm": "latest"
+    }
+}

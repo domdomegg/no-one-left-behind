@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_kef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@kefah/nativescript-google-maps": "latest",
+        "@kefah/nativescript-otp": "latest",
+        "@kefah/nativescript-uuid": "latest",
+        "@kefas-ui/utils": "latest",
+        "@kefir100/radio-engine": "latest"
+    }
+}

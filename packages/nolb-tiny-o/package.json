@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-tiny-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tiny-object-hash": "latest",
+        "tiny-observable": "latest",
+        "tiny-observables": "latest",
+        "tiny-octopus": "latest",
+        "tiny-olap": "latest",
+        "tiny-once": "latest",
+        "tiny-onion": "latest",
+        "tiny-opts-parser": "latest",
+        "tiny-orm": "latest",
+        "tiny-osmpbf": "latest",
+        "tiny-oss": "latest",
+        "tiny-otp": "latest",
+        "tiny-overlay": "latest"
+    }
+}

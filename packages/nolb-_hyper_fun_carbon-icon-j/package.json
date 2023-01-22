@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_carbon-icon-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/carbon-icon-join-full": "latest",
+        "@hyper.fun/carbon-icon-join-inner": "latest",
+        "@hyper.fun/carbon-icon-join-left": "latest",
+        "@hyper.fun/carbon-icon-join-outer": "latest",
+        "@hyper.fun/carbon-icon-join-right": "latest",
+        "@hyper.fun/carbon-icon-jpg": "latest",
+        "@hyper.fun/carbon-icon-json": "latest",
+        "@hyper.fun/carbon-icon-json-reference": "latest",
+        "@hyper.fun/carbon-icon-jump-link": "latest"
+    }
+}

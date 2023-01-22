@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_unm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@unm-idi/angular-datetime-picker": "latest",
+        "@unmanaged/react": "latest",
+        "@unmango/pulumi-apps": "latest",
+        "@unmango/pulumi-homelab": "latest",
+        "@unmango/safir-agent-client": "latest",
+        "@unmango/safir-grpc-client": "latest",
+        "@unmango/safir-protos": "latest",
+        "@unmarshal/sdk": "latest",
+        "@unminify/cli": "latest",
+        "@unminify/core": "latest",
+        "@unminify/unminify": "latest",
+        "@unmock/githubv3": "latest",
+        "@unmock/jaymock": "latest",
+        "@unmock/jaymock-cli": "latest",
+        "@unmock/petstore": "latest",
+        "@unmock/petstore.swagger.io": "latest",
+        "@unmonorepo/file": "latest",
+        "@unmonorepo/pkg": "latest",
+        "@unmp/authorize": "latest"
+    }
+}

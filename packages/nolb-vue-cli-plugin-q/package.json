@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-vue-cli-plugin-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-cli-plugin-qdbrenderrouter": "latest",
+        "vue-cli-plugin-qiankun": "latest",
+        "vue-cli-plugin-qiankun-microapp": "latest",
+        "vue-cli-plugin-qiankun-portal": "latest",
+        "vue-cli-plugin-qiankun-ts": "latest",
+        "vue-cli-plugin-qing-markdown": "latest",
+        "vue-cli-plugin-qiniu-upload": "latest",
+        "vue-cli-plugin-qiniu-uploader": "latest",
+        "vue-cli-plugin-qrcode": "latest",
+        "vue-cli-plugin-quasar": "latest",
+        "vue-cli-plugin-qui": "latest",
+        "vue-cli-plugin-quick-micro": "latest"
+    }
+}

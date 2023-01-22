@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-as3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "as3": "latest",
+        "as3-to-ts": "latest",
+        "as3-to-typescript": "latest",
+        "as3js": "latest"
+    }
+}

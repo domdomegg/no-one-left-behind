@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-uir",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "uir": "latest",
+        "uire": "latest",
+        "uireact-menu": "latest",
+        "uirecorder": "latest",
+        "uirecorder-intl": "latest",
+        "uirecorder-intl-test": "latest",
+        "uirecorder-simple": "latest",
+        "uirecorder2": "latest",
+        "uirecorder_sl": "latest",
+        "uirecorderdeneme": "latest",
+        "uirecorderplusx": "latest",
+        "uirecordertest": "latest",
+        "uirenderer-canvas": "latest",
+        "uirex": "latest",
+        "uirol": "latest",
+        "uirouter-extended-views": "latest",
+        "uirouter-resolver": "latest",
+        "uirtusit": "latest"
+    }
+}

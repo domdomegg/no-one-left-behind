@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-winj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "winj": "latest",
+        "winject-load": "latest",
+        "winjet": "latest",
+        "winjit_test": "latest",
+        "winjs": "latest",
+        "winjs-localization": "latest",
+        "winjs-modules": "latest",
+        "winjs-node": "latest",
+        "winjs-self-built": "latest",
+        "winjsgui": "latest",
+        "winjsrocks": "latest",
+        "winjsrocks-extras": "latest",
+        "winjsrocks-plugin-platform": "latest",
+        "winjsrocks-plugin-storage": "latest",
+        "winjstodo": "latest"
+    }
+}

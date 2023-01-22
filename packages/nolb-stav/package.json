@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-stav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "stav-bc-logger": "latest",
+        "stavalfi-learn-lerna": "latest",
+        "stavalfi-split-root-dist-ts-plugin": "latest",
+        "stavalfi1": "latest",
+        "stavanger-nodeschool": "latest",
+        "stavdeti-api": "latest",
+        "stave": "latest",
+        "staveless-futhark": "latest",
+        "staven-cli": "latest",
+        "stavgian-npm-module": "latest",
+        "stavil-md-links": "latest",
+        "stavvy-sdk": "latest",
+        "stavyanui": "latest"
+    }
+}

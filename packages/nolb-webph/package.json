@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-webph",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "webphone-icon": "latest",
+        "webphone-js": "latest",
+        "webphone-lib": "latest",
+        "webphone-lib-stub": "latest",
+        "webphone-mobile": "latest",
+        "webphone-plugin": "latest",
+        "webphone-plugin-v1": "latest",
+        "webphone-plugin-v2": "latest",
+        "webphp": "latest"
+    }
+}

@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-axu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "axu-cli": "latest",
+        "axu-gulp": "latest",
+        "axueditor": "latest",
+        "axui-contextmenu": "latest",
+        "axui-datagrid": "latest",
+        "axuielement": "latest",
+        "axure-lavacord": "latest",
+        "axure-redline-tool": "latest",
+        "axure-signal": "latest",
+        "axure-wiki-editor": "latest",
+        "axure2weixin": "latest",
+        "axure_annotation": "latest",
+        "axus": "latest",
+        "axutime": "latest"
+    }
+}

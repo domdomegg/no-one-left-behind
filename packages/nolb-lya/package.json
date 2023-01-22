@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-lya",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lya": "latest",
+        "lya-brm": "latest",
+        "lya121utils": "latest",
+        "lyabc": "latest",
+        "lyadom": "latest",
+        "lyah-cards-xw24-lib": "latest",
+        "lyam": "latest",
+        "lyan-tools": "latest",
+        "lyan-ui": "latest",
+        "lyapp": "latest",
+        "lyapp-web": "latest",
+        "lyara-menu": "latest",
+        "lyarr": "latest",
+        "lyas": "latest",
+        "lyas.scss": "latest",
+        "lyatom-cms": "latest"
+    }
+}

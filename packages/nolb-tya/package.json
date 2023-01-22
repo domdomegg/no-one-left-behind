@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-tya",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tya": "latest",
+        "tya-mini_program": "latest",
+        "tya-template": "latest",
+        "tya-xm-2": "latest",
+        "tyage-sample-package": "latest",
+        "tyage-sample-package2": "latest",
+        "tyagi": "latest",
+        "tyarn": "latest",
+        "tyasuite-first": "latest",
+        "tyatech-format": "latest",
+        "tyatech-nebular": "latest",
+        "tyatestnpmpublish1": "latest"
+    }
+}

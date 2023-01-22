@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-rux",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rux": "latest",
+        "rux-browser-mall-helper": "latest",
+        "rux-cli": "latest",
+        "rux-icon": "latest",
+        "rux-mobile-vue": "latest",
+        "rux-react-webpack-plugin": "latest",
+        "rux-ui": "latest",
+        "rux-ui-v": "latest",
+        "rux_test": "latest",
+        "ruxd": "latest",
+        "ruxd-mobile-vue": "latest",
+        "ruxd-vue": "latest",
+        "ruxe": "latest",
+        "ruxiang-cli": "latest",
+        "ruxjs": "latest",
+        "ruxt": "latest",
+        "ruxts": "latest",
+        "ruxy": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-afc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "afc": "latest",
+        "afc-component-mixins": "latest",
+        "afc-custom-column-vue2": "latest",
+        "afc-devcamp-js-footer": "latest",
+        "afc-filter-bar-vue2": "latest",
+        "afc-fixed-bottom-vue2": "latest",
+        "afc-form-panel-vue2": "latest",
+        "afc-form-table-vue2": "latest",
+        "afc-overflow-tips-vue2": "latest",
+        "afc-scss-base": "latest",
+        "afc-shadow-sticky-vue2": "latest",
+        "afc.bo.frontend": "latest",
+        "afc163-test-package": "latest",
+        "afc_npm": "latest",
+        "afcm_data": "latest",
+        "afcon-shared-code": "latest",
+        "afcon-shared-code-test": "latest"
+    }
+}

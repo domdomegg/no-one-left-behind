@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-generator-3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "generator-3-songshu-vue": "latest",
+        "generator-360-photo": "latest",
+        "generator-365": "latest",
+        "generator-3am": "latest",
+        "generator-3m5-angular-1": "latest",
+        "generator-3pjs": "latest"
+    }
+}

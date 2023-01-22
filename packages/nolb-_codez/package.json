@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_codez",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@codez/blockz": "latest",
+        "@codezavod/phone-normalize": "latest",
+        "@codezavod/ssh-tun": "latest",
+        "@codezavod/ssh-tunneler": "latest",
+        "@codezavod/vk-sdk": "latest",
+        "@codezen/ngx-maplibre-gl": "latest",
+        "@codezilluh/bitarray.js": "latest",
+        "@codezist/local-api": "latest",
+        "@codezist/local-client": "latest",
+        "@codezone/simple-format": "latest",
+        "@codezyme/prettier-config": "latest"
+    }
+}

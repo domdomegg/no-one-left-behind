@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-aute",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "aute": "latest",
+        "autel-preview": "latest",
+        "autentia-ds": "latest",
+        "autentia-university-lib": "latest",
+        "autenticacion-oauth-con-passport-merquililycony": "latest",
+        "autenticacion-web": "latest",
+        "autenticacion-web2": "latest",
+        "autentikigo": "latest",
+        "autentique-v2-nodejs": "latest"
+    }
+}

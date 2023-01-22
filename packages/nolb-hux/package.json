@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-hux",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hux": "latest",
+        "hux-client": "latest",
+        "huxi123456": "latest",
+        "huxi_v2": "latest",
+        "huxiang": "latest",
+        "huxiangbo": "latest",
+        "huxiao_package": "latest",
+        "huxiaodongmodule": "latest",
+        "huxiaoweiopen-niubi": "latest",
+        "huxiaoyu_hello": "latest",
+        "huxiaozhuang": "latest",
+        "huxide-ziyuli": "latest",
+        "huxin_demo1": "latest",
+        "huxinfa_keyboard": "latest",
+        "huxingqiong": "latest",
+        "huxinyu": "latest",
+        "huxiu-copy-pc": "latest",
+        "huxley": "latest",
+        "huxley-cli": "latest",
+        "huxtable": "latest",
+        "huxy-request": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_blz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@blz-ospl/bpm": "latest",
+        "@blzd-dev/uikit": "latest",
+        "@blzd-dev/uikit-v2": "latest",
+        "@blzd-dev/use-wallet": "latest"
+    }
+}

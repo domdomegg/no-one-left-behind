@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-cals",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cals": "latest",
+        "cals-elliot-121": "latest",
+        "cals-person": "latest",
+        "cals-xl-juejiang": "latest",
+        "calsapp": "latest",
+        "calscheduler_widget": "latest",
+        "calserver": "latest",
+        "calservice1": "latest",
+        "calservice999": "latest",
+        "calsi": "latest",
+        "calsifar": "latest",
+        "calso": "latest",
+        "calsoyzj": "latest",
+        "calstats.js": "latest",
+        "calsync": "latest"
+    }
+}

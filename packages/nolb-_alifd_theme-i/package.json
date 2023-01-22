@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_alifd_theme-i",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@alifd/theme-ice": "latest",
+        "@alifd/theme-ice-design": "latest",
+        "@alifd/theme-ice-designer-dark": "latest",
+        "@alifd/theme-ice-green": "latest",
+        "@alifd/theme-ice-orange": "latest",
+        "@alifd/theme-ice-purple": "latest",
+        "@alifd/theme-iceblue": "latest",
+        "@alifd/theme-iceworks-dark": "latest",
+        "@alifd/theme-iceworks-light": "latest",
+        "@alifd/theme-icity365": "latest",
+        "@alifd/theme-ihometob": "latest",
+        "@alifd/theme-ihometobv2": "latest",
+        "@alifd/theme-ihweb": "latest",
+        "@alifd/theme-ikj-app-h5": "latest",
+        "@alifd/theme-imc": "latest",
+        "@alifd/theme-imcfd": "latest",
+        "@alifd/theme-inc": "latest",
+        "@alifd/theme-indoing": "latest",
+        "@alifd/theme-init": "latest",
+        "@alifd/theme-initial": "latest",
+        "@alifd/theme-initial-000": "latest",
+        "@alifd/theme-inke-design": "latest",
+        "@alifd/theme-iot-default": "latest",
+        "@alifd/theme-ipusi": "latest",
+        "@alifd/theme-irim": "latest",
+        "@alifd/theme-isv-1688-pc": "latest",
+        "@alifd/theme-ivy1": "latest"
+    }
+}

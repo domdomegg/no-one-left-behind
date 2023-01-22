@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-supl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "supl": "latest",
+        "suplex": "latest",
+        "suplink-cli": "latest",
+        "suplink-sdk": "latest",
+        "suplink-ui": "latest",
+        "supload": "latest",
+        "suploader": "latest",
+        "suploader-koa": "latest",
+        "suplogger": "latest",
+        "suplus-mco": "latest"
+    }
+}

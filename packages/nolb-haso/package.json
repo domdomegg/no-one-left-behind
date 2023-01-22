@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-haso",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "haso": "latest",
+        "hasoffers": "latest",
+        "hasoffers-api": "latest",
+        "hasoffers-node": "latest",
+        "hason": "latest",
+        "hason-cli": "latest",
+        "hasonlykeys": "latest",
+        "hasoop": "latest",
+        "hasown": "latest"
+    }
+}

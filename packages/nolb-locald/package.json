@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-locald",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "localdata": "latest",
+        "localdata.js": "latest",
+        "localdatastore": "latest",
+        "localdate": "latest",
+        "localdb": "latest",
+        "localdbstore": "latest",
+        "localdeps": "latest",
+        "localdev-tui": "latest",
+        "localdevelopment": "latest",
+        "localdiff": "latest",
+        "localdir": "latest",
+        "localdown": "latest",
+        "localdrive": "latest"
+    }
+}

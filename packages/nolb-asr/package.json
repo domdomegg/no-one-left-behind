@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-asr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "asr": "latest",
+        "asr-active-state-watcher": "latest",
+        "asr-answering": "latest",
+        "asr-fsm-navigation": "latest",
+        "asr-iso": "latest",
+        "asr-loader": "latest",
+        "asr-make-editor": "latest",
+        "asr-mini-plugin-ueditor": "latest",
+        "asr-my-storybook-components": "latest",
+        "asr-oms-plugin-ueditor": "latest",
+        "asr-plugin-ueditor": "latest",
+        "asr-plugin-ueditor-enhance": "latest",
+        "asr-product-card": "latest",
+        "asr-scroll-position": "latest",
+        "asr-vietspeech": "latest",
+        "asrandomselect": "latest",
+        "asranja-prod-package": "latest",
+        "asrasdgfsadfdadghfasdhgasfdahgjdsfasdhgasfdjsadsajdfsadghafsdjhasdfasjhdfsadjhgasfdashgdfasjhdfasdhgasdfjasdfashdjfasdjasfdajsgdfasdhgasfdjahsdgfahsgjd": "latest",
+        "asreq": "latest",
+        "asri-calc": "latest",
+        "asroondesignsystem": "latest",
+        "asroot": "latest",
+        "asrpc": "latest",
+        "asrt": "latest",
+        "asrtd": "latest",
+        "asrulalfi": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-packu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "packu": "latest",
+        "packui-nacho": "latest",
+        "packument": "latest",
+        "packument-package": "latest",
+        "packup": "latest",
+        "packupandrun": "latest",
+        "packupdate": "latest",
+        "packupview": "latest",
+        "packuserinfo": "latest",
+        "packutils": "latest",
+        "packuvator": "latest"
+    }
+}

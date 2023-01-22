@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-mobs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mobservable": "latest",
+        "mobservable-api": "latest",
+        "mobservable-form": "latest",
+        "mobservable-model": "latest",
+        "mobservable-patch-stream": "latest",
+        "mobservable-react": "latest",
+        "mobservable-react-devtools": "latest",
+        "mobsf-reporter": "latest",
+        "mobstac-awesome-qr": "latest",
+        "mobster": "latest",
+        "mobstore": "latest"
+    }
+}

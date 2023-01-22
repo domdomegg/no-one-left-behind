@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-uset",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "usetable-ahooks-asset": "latest",
+        "usetenor": "latest",
+        "usetestsana": "latest",
+        "usethat": "latest",
+        "usetheforce": "latest",
+        "usetheform": "latest",
+        "usethisname": "latest",
+        "usethree": "latest",
+        "usetimeout-react-hook": "latest",
+        "usetiny": "latest",
+        "usetitle": "latest",
+        "usetoaster": "latest",
+        "usetools": "latest",
+        "usetorch": "latest",
+        "usetranslate": "latest",
+        "usetrashable": "latest",
+        "usetube": "latest",
+        "usetube-improved": "latest",
+        "usetypepracticer": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-mij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mij": "latest",
+        "mija": "latest",
+        "mijia": "latest",
+        "mijia-cli": "latest",
+        "mijia-io": "latest",
+        "mijian-mobile-design": "latest",
+        "mijian-ui": "latest",
+        "mijin": "latest",
+        "mijn-bulma-layout": "latest",
+        "mijs": "latest",
+        "mijuntao-utils": "latest"
+    }
+}

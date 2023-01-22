@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-rc_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rc.js": "latest",
+        "rc.kencryptov1": "latest",
+        "rc.min.js": "latest",
+        "rc.ts": "latest",
+        "rc.unicom": "latest",
+        "rc_array": "latest",
+        "rc_demolib": "latest",
+        "rc_ghost": "latest",
+        "rc_notify_lib": "latest",
+        "rc_s380_driver": "latest",
+        "rc_sdk_gm": "latest",
+        "rc_testpackage": "latest",
+        "rc_toastify": "latest",
+        "rc_wizensoft_es": "latest"
+    }
+}

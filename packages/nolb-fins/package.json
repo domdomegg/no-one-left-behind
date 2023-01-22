@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-fins",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fins": "latest",
+        "fins-rheostat": "latest",
+        "finscale-hipsters-generators": "latest",
+        "finscript": "latest",
+        "finscript-beta": "latest",
+        "finse": "latest",
+        "finserve-lib": "latest",
+        "finsh-ui": "latest",
+        "finsights": "latest",
+        "finsiher": "latest",
+        "finsim": "latest",
+        "finsmart": "latest",
+        "finstatclient": "latest",
+        "finswap-toolkit": "latest",
+        "finsyn-api-resource": "latest",
+        "finsyn-client": "latest",
+        "finsyn-painter": "latest",
+        "finsyn-pubsub": "latest",
+        "finsyn-serviceid": "latest",
+        "finsyn-store": "latest",
+        "finsyn-store-share": "latest",
+        "finsyn-store-user": "latest"
+    }
+}

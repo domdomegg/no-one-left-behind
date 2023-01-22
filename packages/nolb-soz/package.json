@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-soz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "soz": "latest",
+        "soza-ts-library": "latest",
+        "sozai": "latest",
+        "soze": "latest",
+        "sozi": "latest",
+        "sozi-export": "latest",
+        "sozluk-api": "latest",
+        "sozlukjs": "latest",
+        "sozu": "latest"
+    }
+}

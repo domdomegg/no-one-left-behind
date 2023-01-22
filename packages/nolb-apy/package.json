@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-apy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "apy": "latest",
+        "apy-client": "latest",
+        "apy-tool": "latest",
+        "apybird": "latest",
+        "apyer-condor-framework": "latest",
+        "apyer-grpc4ui": "latest",
+        "apyhub": "latest",
+        "apysignature": "latest",
+        "apyt": "latest",
+        "apyui": "latest"
+    }
+}

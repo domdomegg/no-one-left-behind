@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-node-sd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "node-sdb": "latest",
+        "node-sddc": "latest",
+        "node-sdf": "latest",
+        "node-sdk": "latest",
+        "node-sdk-1": "latest",
+        "node-sdk-image-server": "latest",
+        "node-sdk-sms": "latest",
+        "node-sdl": "latest",
+        "node-sdl-canvas": "latest",
+        "node-sdl-mixer-prebuilt": "latest",
+        "node-sdl-parser": "latest",
+        "node-sdl-speaker": "latest",
+        "node-sdl-ttf-prebuilt": "latest",
+        "node-sdl2": "latest",
+        "node-sdl2-engine": "latest",
+        "node-sdl2-gfx": "latest",
+        "node-sdl2-gfx-prebuilt": "latest",
+        "node-sdl2-image": "latest",
+        "node-sdl2-image-prebuilt": "latest",
+        "node-sdl2-mixer": "latest",
+        "node-sdl2-prebuilt": "latest",
+        "node-sdlmixer": "latest",
+        "node-sdm": "latest",
+        "node-sdo": "latest",
+        "node-sdss-prueba": "latest"
+    }
+}

@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_bef",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@befaas/lib": "latest",
+        "@befabry-jsnote/local-api": "latest",
+        "@befabry-jsnote/local-client": "latest",
+        "@beff.jezos/core": "latest",
+        "@beff.jezos/tables": "latest",
+        "@beflagrant/netlify-plugin-persist-cache": "latest",
+        "@before.js/client": "latest",
+        "@before.js/server": "latest",
+        "@beforesemicolon/client-store": "latest",
+        "@beforesemicolon/html-plus": "latest",
+        "@beforesemicolon/web-component": "latest",
+        "@beforeyoubid/alpha": "latest",
+        "@beforeyoubid/console-logger-adapter": "latest",
+        "@beforeyoubid/error-adapter": "latest",
+        "@beforeyoubid/exception-handler": "latest",
+        "@beforeyoubid/graphql-schema-diff": "latest",
+        "@beforeyoubid/logger-adapter": "latest",
+        "@beforeyoubid/redis-client": "latest",
+        "@beforeyoubid/serverless-env-checker": "latest",
+        "@beforeyoubid/serverless-offline": "latest",
+        "@beforeyoubid/serverless-step-functions-offline": "latest",
+        "@beforeyoubid/ui-lib": "latest",
+        "@befreestudios/ts-react-gist": "latest",
+        "@befunky/esbuild-plugin-glslify-minify": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-cordova-k",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cordova-kc-plugin-automatic-config": "latest",
+        "cordova-kendo-ui-blank-template": "latest",
+        "cordova-kendo-ui-drawer-template": "latest",
+        "cordova-kendo-ui-tabstrip-template": "latest",
+        "cordova-keyboard-without-action": "latest",
+        "cordova-keychain": "latest",
+        "cordova-keychain-aes": "latest",
+        "cordova-keychain-aes-ecryption": "latest",
+        "cordova-keyguard-plugin": "latest",
+        "cordova-keyvaluestorage": "latest",
+        "cordova-kioskmode-plugin": "latest"
+    }
+}

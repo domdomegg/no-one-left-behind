@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-object2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "object2": "latest",
+        "object2array": "latest",
+        "object2buffer": "latest",
+        "object2dom": "latest",
+        "object2dot": "latest",
+        "object2ext": "latest",
+        "object2html": "latest",
+        "object2json": "latest",
+        "object2map": "latest",
+        "object2md": "latest",
+        "object2query": "latest",
+        "object2string": "latest",
+        "object2typescript": "latest"
+    }
+}

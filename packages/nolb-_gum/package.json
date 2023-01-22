@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_gum",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@gum-tech/flow-ts": "latest",
+        "@gum_gum/ytscrap": "latest",
+        "@gumball12/colour": "latest",
+        "@gumbee/next-firebase-auth": "latest",
+        "@gumbee/react-firebase-hooks": "latest",
+        "@gumbee/react-responsive-carousel": "latest",
+        "@gumbo-millennium/stylelint-config": "latest",
+        "@gumgum/react-script-tag": "latest",
+        "@guming-sushi/components": "latest",
+        "@gumlet/disk-lru-client": "latest",
+        "@gumlet/ghost-storage-adapter-s3": "latest",
+        "@gumlet/gif-resize": "latest",
+        "@gumlet/react-drm-player": "latest",
+        "@gumlet/react-hls-player": "latest",
+        "@gumm-inc/cupid": "latest",
+        "@gummelhummel/bulma-page-loader": "latest",
+        "@gummelhummel/bulma-toast": "latest",
+        "@gummelhummel/bulma-tooltip": "latest",
+        "@gummelhummel/mdi-icon": "latest",
+        "@gumoonmoon-cli/core": "latest",
+        "@gumoonmoon-cli/tools": "latest",
+        "@gumper-x/eslint-config": "latest",
+        "@gumper-x/prettier-config": "latest",
+        "@gumpflash/htmless": "latest",
+        "@gumpflash/myvaz": "latest",
+        "@gumspace/seneca-twilio": "latest",
+        "@gumuslab/clustergrammer": "latest",
+        "@gumuslab/deckgl-heatmap": "latest"
+    }
+}

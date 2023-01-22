@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_bax",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bax-test-cli/core": "latest",
+        "@bax-test-cli/utils": "latest",
+        "@baxdocs/common": "latest",
+        "@baxibaba/react-audio-recorder": "latest",
+        "@baxmusic/kube-watch": "latest",
+        "@baxon/datepicker": "latest",
+        "@baxpom/common": "latest",
+        "@baxterjs/divination": "latest",
+        "@baxxx/bax-box": "latest",
+        "@baxyz/ngx-avatars": "latest"
+    }
+}

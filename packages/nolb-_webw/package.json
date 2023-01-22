@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_webw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@webwallet/api": "latest",
+        "@webwallet/cryptools": "latest",
+        "@webwallet/graphstore": "latest",
+        "@webwallet/hashtable": "latest",
+        "@webwallet/iou": "latest",
+        "@webwallet/schemas": "latest",
+        "@webwallet/sdk": "latest",
+        "@webwangjiajia/amis-widget": "latest",
+        "@webwangjiajia/vue-info-card": "latest",
+        "@webwavecms/cropperjs": "latest",
+        "@webwingscz/googlefont-montserrat": "latest",
+        "@webwingscz/googlefont-roboto": "latest",
+        "@webwombats/configs": "latest",
+        "@webwriter/create-widget": "latest",
+        "@webwriter/lit": "latest",
+        "@webwriter/model": "latest",
+        "@webwriter/ww-embed": "latest",
+        "@webwriter/ww-figure": "latest",
+        "@webwriter/ww-textarea": "latest",
+        "@webwujy/cache": "latest"
+    }
+}

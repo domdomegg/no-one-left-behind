@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-roll2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "roll20-logger": "latest",
+        "roll20-shaped-srd-converter": "latest",
+        "roll20-wrapper": "latest",
+        "roll20auth": "latest"
+    }
+}

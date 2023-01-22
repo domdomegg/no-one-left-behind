@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-emberx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "emberx": "latest",
+        "emberx-autosuggest": "latest",
+        "emberx-file-input": "latest",
+        "emberx-form": "latest",
+        "emberx-input": "latest",
+        "emberx-range-input": "latest",
+        "emberx-select": "latest",
+        "emberx-select-blockless": "latest",
+        "emberx-select-modded": "latest",
+        "emberx-slider": "latest",
+        "emberx-xml-http-request": "latest",
+        "emberx-zbj-select": "latest"
+    }
+}

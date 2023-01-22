@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-nodebb-s",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "nodebb-sample-api-plugin": "latest",
+        "nodebb-simplest-plugin": "latest",
+        "nodebb-starwars-plugin": "latest"
+    }
+}

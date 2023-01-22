@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-xic",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "xic": "latest",
+        "xichen-gh-action-bump-version": "latest",
+        "xichencalc": "latest",
+        "xicjkv": "latest",
+        "xico2k-react-scroll-area": "latest",
+        "xico2k-scss-mixins": "latest",
+        "xicon": "latest",
+        "xicon-react": "latest",
+        "xicons": "latest",
+        "xicor": "latest"
+    }
+}

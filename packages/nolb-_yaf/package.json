@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_yaf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yafengxn/hellonpm": "latest",
+        "@yafetch/core": "latest",
+        "@yafetch/plugin-retry": "latest",
+        "@yaff/component-state": "latest",
+        "@yaff/formax": "latest",
+        "@yaff/store": "latest",
+        "@yaff/utils": "latest",
+        "@yaffle/bigdecimal": "latest",
+        "@yaffle/expression": "latest",
+        "@yaffol/vue2-vuetify": "latest",
+        "@yafh/a-codelf": "latest",
+        "@yafh/use-tinykeys": "latest",
+        "@yafh/vite-plugin-env-dts": "latest",
+        "@yafu/const": "latest",
+        "@yafu/curry": "latest",
+        "@yafu/either": "latest",
+        "@yafu/eslint-config-yafu": "latest",
+        "@yafu/fantasy-array-polyfill": "latest",
+        "@yafu/fantasy-functions": "latest",
+        "@yafu/fantasy-types": "latest",
+        "@yafu/identity": "latest",
+        "@yafu/lens": "latest",
+        "@yafu/maybe": "latest",
+        "@yafu/rollup-plugin-curry": "latest",
+        "@yafu/transduce": "latest",
+        "@yafu/type-utils": "latest"
+    }
+}

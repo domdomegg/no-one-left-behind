@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-mct",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mct": "latest",
+        "mct-convert-image-to-base64": "latest",
+        "mct-core": "latest",
+        "mct-jsnote": "latest",
+        "mct-rewrite-css-url-paths": "latest",
+        "mct-scp": "latest",
+        "mct-text-input": "latest",
+        "mct1": "latest",
+        "mct1-server": "latest",
+        "mctekk-payment-package": "latest",
+        "mctermjs": "latest",
+        "mctest": "latest",
+        "mctester": "latest",
+        "mctester-uploader": "latest",
+        "mctext-react": "latest",
+        "mctigger-flux-dispatcher": "latest",
+        "mctl": "latest",
+        "mctl-cli": "latest",
+        "mctl-ui": "latest",
+        "mctm-pl": "latest",
+        "mctm-ui": "latest",
+        "mctools": "latest",
+        "mctrackerlist": "latest",
+        "mctranslate": "latest",
+        "mctranslate-cli": "latest",
+        "mcts": "latest",
+        "mcts-ai": "latest"
+    }
+}

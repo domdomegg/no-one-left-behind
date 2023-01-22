@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_cona",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@conada7/hsl-to-hex": "latest",
+        "@conakryc/spoonacular-wrapper": "latest",
+        "@conalryan/crangular": "latest",
+        "@conan-cli-dev/core": "latest",
+        "@conan-cli-dev/utils": "latest",
+        "@conan-flexera/stencil-components": "latest",
+        "@conan125/hello-wasm20220716": "latest",
+        "@conandmobile/qmui": "latest",
+        "@conandmobile/vue-http": "latest",
+        "@conandmobile/vue-utils": "latest",
+        "@conandsherry/vue-utils": "latest",
+        "@conarrative/react-pdf": "latest",
+        "@conartist6/rd-parse": "latest",
+        "@conartist6/recast": "latest",
+        "@conarwelsh/framework": "latest",
+        "@conarwelsh/ui": "latest",
+        "@conaxian/loclib": "latest"
+    }
+}

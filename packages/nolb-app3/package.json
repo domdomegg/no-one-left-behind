@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-app3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "app3-apis": "latest",
+        "app3-apis-abi": "latest",
+        "app3-apis-accounts": "latest",
+        "app3-apis-contract": "latest",
+        "app3-apis-personal": "latest",
+        "app3-core": "latest",
+        "app3-core-helpers": "latest",
+        "app3-core-method": "latest",
+        "app3-core-promievent": "latest",
+        "app3-core-requestmanager": "latest",
+        "app3-core-subscriptions": "latest",
+        "app3-lib-2": "latest",
+        "app3-net": "latest",
+        "app3-providers-http": "latest",
+        "app3-providers-ws": "latest",
+        "app3-utils": "latest",
+        "app300": "latest",
+        "app3d-three-template": "latest",
+        "app3js": "latest"
+    }
+}

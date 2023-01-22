@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-beo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "beo": "latest",
+        "beobachtbar": "latest",
+        "beof": "latest",
+        "beok": "latest",
+        "beomjin-lib": "latest",
+        "beomjin_npm": "latest",
+        "beomtil": "latest",
+        "beon-page-cli": "latest",
+        "beone": "latest",
+        "beontrips-utitlity": "latest",
+        "beow": "latest",
+        "beowulf-js": "latest",
+        "beowulf-js-testnet": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-rnt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rnt": "latest",
+        "rnt-ui-base": "latest",
+        "rnt_arr_to_string": "latest",
+        "rntable": "latest",
+        "rntemplate": "latest",
+        "rnters": "latest",
+        "rntest": "latest",
+        "rntest-wuwenjun": "latest",
+        "rntest123": "latest",
+        "rntestminiapp1": "latest",
+        "rntestpackage": "latest",
+        "rntestwwwwwww": "latest",
+        "rntnbtrialroom": "latest",
+        "rntoast": "latest",
+        "rntp-fnt-fls-minipax": "latest",
+        "rntp-fnt-fls-test": "latest",
+        "rntr-games-api": "latest"
+    }
+}

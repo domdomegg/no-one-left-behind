@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-_inw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@inward/boot": "latest",
+        "@inward/build": "latest",
+        "@inward/context": "latest",
+        "@inward/core": "latest",
+        "@inward/eslint-config": "latest",
+        "@inward/example-context": "latest",
+        "@inward/extension-logging": "latest",
+        "@inward/metadata": "latest",
+        "@inward/service-proxy": "latest",
+        "@inward/testlab": "latest",
+        "@inway/meteor-random": "latest",
+        "@inway/observable-hooks": "latest",
+        "@inway/prettier-config": "latest",
+        "@inwebo/assetsloader.js": "latest",
+        "@inwebo/graph.js": "latest",
+        "@inwebo/grid.js": "latest",
+        "@inwebo/l-system.ts": "latest",
+        "@inwebo/physx.js": "latest",
+        "@inwebo/render.js": "latest",
+        "@inwebo/sprite.js": "latest",
+        "@inwebo/vector": "latest",
+        "@inworld/nodejs-sdk": "latest",
+        "@inwy/angular-gtag": "latest"
+    }
+}

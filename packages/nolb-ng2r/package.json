@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-ng2r",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ng2rc1": "latest",
+        "ng2rc2": "latest",
+        "ng2rc3": "latest",
+        "ng2rc4": "latest",
+        "ng2rc4-a": "latest",
+        "ng2rc4-cp": "latest",
+        "ng2rc4-cpack": "latest",
+        "ng2rc4-p": "latest",
+        "ng2rc5": "latest",
+        "ng2rc6": "latest",
+        "ng2rc7": "latest",
+        "ng2react-builder": "latest",
+        "ng2redux": "latest",
+        "ng2release": "latest",
+        "ng2rest": "latest"
+    }
+}

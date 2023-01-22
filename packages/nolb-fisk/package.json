@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-fisk",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fisk": "latest",
+        "fisk-engine": "latest",
+        "fiskal": "latest",
+        "fiskaly-sdk-node": "latest",
+        "fiskil_components": "latest",
+        "fiskit": "latest"
+    }
+}

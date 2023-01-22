@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_yaa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yaacl/core": "latest",
+        "@yaacl/hapi": "latest",
+        "@yaacl/memory-adapter": "latest",
+        "@yaacl/mongoose-adapter": "latest",
+        "@yaakadev/pdf-generator": "latest",
+        "@yaakadev/pdf-render": "latest",
+        "@yaakovbeckerman/conversation": "latest",
+        "@yaakovhatam/take-npm-packages": "latest",
+        "@yaameen/ng-file-input": "latest",
+        "@yaameen/v-thaana": "latest",
+        "@yaaooo/vue-json-formschema": "latest",
+        "@yaas-dev/utils": "latest",
+        "@yaas/bacon-cipher": "latest",
+        "@yaas/cipherjs": "latest",
+        "@yaas/ciphers": "latest",
+        "@yaas/command-handler": "latest",
+        "@yaas/create-project": "latest",
+        "@yaas/fortune": "latest",
+        "@yaas/id": "latest",
+        "@yaas/iniparser": "latest",
+        "@yaas/optparser": "latest",
+        "@yaas/range": "latest",
+        "@yaatt/cli": "latest",
+        "@yaatt/core": "latest",
+        "@yaatt/utils": "latest",
+        "@yaayy/core": "latest",
+        "@yaayy/utils": "latest"
+    }
+}

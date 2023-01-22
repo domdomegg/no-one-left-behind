@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-alij",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "alijarar": "latest",
+        "alijarar-2": "latest",
+        "alijawwadcli": "latest",
+        "alijian": "latest",
+        "alijian-1": "latest"
+    }
+}

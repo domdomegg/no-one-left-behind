@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_hoj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hojarascacrepitante/drop-down": "latest",
+        "@hojas/marked": "latest",
+        "@hojerst/semantic-release-config": "latest",
+        "@hojicha/backend": "latest",
+        "@hojicha/cli": "latest",
+        "@hojicha/common": "latest",
+        "@hojicha/config": "latest",
+        "@hojicha/contracts": "latest",
+        "@hojicha/frontend": "latest",
+        "@hojihooks/use-async-dispatch": "latest",
+        "@hojihooks/use-url-search-params-get-object": "latest",
+        "@hojjat-dev/components": "latest"
+    }
+}

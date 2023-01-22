@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_agm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@agm-as/bridge": "latest",
+        "@agm-as/components": "latest",
+        "@agm-dev/input-tags": "latest",
+        "@agm-dev/party-parrot-component": "latest",
+        "@agm-dev/twitch-login": "latest",
+        "@agm-dev/twitch-login-components": "latest",
+        "@agm-preview/core": "latest",
+        "@agm-preview/js-marker-clusterer": "latest",
+        "@agm-preview/snazzy-info-window": "latest",
+        "@agm-universal/_dev": "latest",
+        "@agm/core": "latest",
+        "@agm/drawing": "latest",
+        "@agm/js-marker-clusterer": "latest",
+        "@agm/markerclusterer": "latest",
+        "@agm/snazzy-info-window": "latest",
+        "@agmbk/array-to-embed": "latest",
+        "@agmbudik/core": "latest",
+        "@agmbudik/dev": "latest",
+        "@agmbudik/js-marker-clusterer": "latest",
+        "@agmbudik/snazzy-info-window": "latest",
+        "@agme/core": "latest",
+        "@agmendozal/typescript-talk": "latest"
+    }
+}

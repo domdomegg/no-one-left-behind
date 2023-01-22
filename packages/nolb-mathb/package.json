@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-mathb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mathball": "latest",
+        "mathbases": "latest",
+        "mathbasics-esm": "latest",
+        "mathbiol-til": "latest",
+        "mathbook-component-library": "latest",
+        "mathbox": "latest",
+        "mathbox-react": "latest"
+    }
+}

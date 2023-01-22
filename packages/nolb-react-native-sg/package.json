@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-react-native-sg",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-sg-elements": "latest",
+        "react-native-sg-module": "latest",
+        "react-native-sg-paynow": "latest",
+        "react-native-sgaudioplayer": "latest",
+        "react-native-sgaudioplayer2": "latest",
+        "react-native-sglistview": "latest",
+        "react-native-sglistview-gullitmiranda": "latest",
+        "react-native-sglistview-xc": "latest"
+    }
+}

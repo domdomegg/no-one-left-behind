@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-huu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "huudat": "latest",
+        "huui": "latest",
+        "huui-colorheader": "latest",
+        "huuks": "latest",
+        "huumun-cli": "latest",
+        "huumunest": "latest",
+        "huumunlog": "latest",
+        "huumunvault": "latest",
+        "huun-ui-component-ts": "latest",
+        "huuthanh": "latest",
+        "huutt-lib": "latest",
+        "huuu": "latest",
+        "huuy-sum-package": "latest"
+    }
+}

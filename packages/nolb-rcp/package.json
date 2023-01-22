@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-rcp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rcp": "latest",
+        "rcp-blog": "latest",
+        "rcp-cli": "latest",
+        "rcp-docs": "latest",
+        "rcp-fork": "latest",
+        "rcp-formelements-lib-example-demo": "latest",
+        "rcp-init": "latest",
+        "rcp-offline-wallet": "latest",
+        "rcp-ui": "latest",
+        "rcp2gems": "latest",
+        "rcpb": "latest",
+        "rcpbg1": "latest",
+        "rcpbox-checktype": "latest",
+        "rcpbox-combinejs": "latest",
+        "rcpbox-unique-id": "latest",
+        "rcpcsss": "latest",
+        "rcpfonts": "latest",
+        "rcpkg": "latest",
+        "rcpkg-format-util": "latest",
+        "rcpkg-sql-util": "latest",
+        "rcpkg-validate-util": "latest",
+        "rcpm": "latest",
+        "rcppsmc": "latest",
+        "rcpv": "latest"
+    }
+}

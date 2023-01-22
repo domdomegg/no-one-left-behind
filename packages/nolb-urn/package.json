@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-urn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "urn": "latest",
+        "urn-beta": "latest",
+        "urn-lib": "latest",
+        "urn-parser": "latest",
+        "urn-schema": "latest",
+        "urnot-turbo": "latest",
+        "urns": "latest",
+        "urnsocial": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-twik",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "twikifier": "latest",
+        "twikoo": "latest",
+        "twikoo-emoji": "latest",
+        "twikoo-func": "latest",
+        "twikoo-func-crxsoso": "latest",
+        "twikoo-govin": "latest",
+        "twikoo-magic": "latest",
+        "twikoo-vercel": "latest",
+        "twikoos": "latest",
+        "twikoos-func": "latest",
+        "twikoos-vercel": "latest"
+    }
+}

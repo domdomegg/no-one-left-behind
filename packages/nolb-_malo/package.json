@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_malo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@malolebrin/fetch-api-wrapper": "latest",
+        "@malolebrin/pinia-entity-store": "latest",
+        "@malomalo/viking": "latest",
+        "@malomohq/suede-button": "latest",
+        "@malomohq/suede-core": "latest",
+        "@malomohq/suede-elevation": "latest",
+        "@malond/ui-phone": "latest",
+        "@malopez1578/eslint-config-project-app": "latest",
+        "@malopez1578/projectcli": "latest",
+        "@maloric/flyonic": "latest",
+        "@maloric/testility": "latest",
+        "@malots/helper": "latest",
+        "@malots/log": "latest",
+        "@malots/notification": "latest",
+        "@malots/search-cities": "latest",
+        "@malows/vue-notifications": "latest"
+    }
+}

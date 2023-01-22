@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_k2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@k2.sdc/k2-object": "latest",
+        "@k2052/example-article": "latest",
+        "@k239i/streamtobuffer": "latest",
+        "@k2_tools/url-util": "latest",
+        "@k2_tools/utils": "latest",
+        "@k2bachan/lotide": "latest",
+        "@k2data/node-red-contrib-python-function": "latest",
+        "@k2omni/shopify-component-installer": "latest",
+        "@k2omni/theme-component-banner": "latest",
+        "@k2omni/theme-component-collection-banner": "latest",
+        "@k2omni/theme-component-collection-video-banner": "latest",
+        "@k2omni/theme-component-ticker": "latest",
+        "@k2omni/theme-component-video-banner": "latest",
+        "@k2on/center-cursor": "latest",
+        "@k2oss/k2-broker-core": "latest",
+        "@k2party/bs3-select-propagation": "latest",
+        "@k2party/entity-filter": "latest",
+        "@k2party/tiny-calendar": "latest"
+    }
+}

@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_stoq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@stoqey/aurum-broker-ibkr": "latest",
+        "@stoqey/aurum-broker-mille": "latest",
+        "@stoqey/aurum-broker-spec": "latest",
+        "@stoqey/client-graphql": "latest",
+        "@stoqey/common-env": "latest",
+        "@stoqey/finhubb": "latest",
+        "@stoqey/finnhub": "latest",
+        "@stoqey/firestore": "latest",
+        "@stoqey/gnuplot": "latest",
+        "@stoqey/hennessy": "latest",
+        "@stoqey/ib": "latest",
+        "@stoqey/ibkr": "latest",
+        "@stoqey/mille": "latest",
+        "@stoqey/promethazine": "latest",
+        "@stoqey/rasputia": "latest",
+        "@stoqey/rethinkdb": "latest",
+        "@stoqey/serverless-couchbase": "latest",
+        "@stoqey/sofa": "latest",
+        "@stoqey/timeout-manager": "latest"
+    }
+}

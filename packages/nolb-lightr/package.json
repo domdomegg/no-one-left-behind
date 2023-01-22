@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-lightr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lightr": "latest",
+        "lightrail": "latest",
+        "lightrail-client": "latest",
+        "lightrail-js": "latest",
+        "lightrail-stripe": "latest",
+        "lightrain-20170718": "latest",
+        "lightrap": "latest",
+        "lightref": "latest",
+        "lightroom": "latest",
+        "lightroom-gallery-downloader": "latest",
+        "lightroom-history-recorder": "latest",
+        "lightroom-interpolator": "latest",
+        "lightroom-preset": "latest",
+        "lightrope": "latest",
+        "lightrope.js": "latest",
+        "lightrouter": "latest",
+        "lightrpc": "latest",
+        "lightrun": "latest"
+    }
+}

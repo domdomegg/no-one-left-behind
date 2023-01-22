@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-avl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "avl": "latest",
+        "avl-binary-tree": "latest",
+        "avl-bst": "latest",
+        "avl-cli": "latest",
+        "avl-components": "latest",
+        "avl-promise": "latest",
+        "avl-sorted-list": "latest",
+        "avl-tree": "latest",
+        "avl-tree-adt": "latest",
+        "avl-tree-js": "latest",
+        "avl-tree-preservation-site-calculator": "latest",
+        "avl-tree-preservation-site-calculator-component": "latest",
+        "avl-treemap": "latest",
+        "avl-trees-js": "latest",
+        "avlbinstree": "latest",
+        "avlmap": "latest",
+        "avlmap-npm": "latest",
+        "avlog": "latest",
+        "avltree": "latest",
+        "avltree-js": "latest"
+    }
+}

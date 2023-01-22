@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-hanb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hanb-test-self-first": "latest",
+        "hanbang": "latest",
+        "hanbao": "latest",
+        "hanbao-basic": "latest",
+        "hanbao-basic-mongo": "latest",
+        "hanbao-basic-utils": "latest",
+        "hanbao-joi": "latest",
+        "hanbao-utils": "latest",
+        "hanbaoer": "latest",
+        "hanbi": "latest",
+        "hanbi-chai": "latest",
+        "hanbian": "latest",
+        "hanbiromono": "latest",
+        "hanbnao": "latest",
+        "hanbongul": "latest",
+        "hanbutton": "latest"
+    }
+}

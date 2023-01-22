@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-chav",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chav": "latest",
+        "chavanramesh-demopkg": "latest",
+        "chavanramesh-testpackage": "latest",
+        "chavanramesh_react-native-testpackage": "latest",
+        "chavanramesh_react-native-testpackage-1": "latest",
+        "chavanramesh_react-native-testpackage-3": "latest",
+        "chavanramesh_react_native_testpackage_5": "latest",
+        "chavascript": "latest",
+        "chavascript-parser": "latest",
+        "chavatest": "latest",
+        "chaves-plugin": "latest",
+        "chavez-juan": "latest",
+        "chavez-stock-components": "latest",
+        "chavpcensorify": "latest",
+        "chavvelo": "latest"
+    }
+}

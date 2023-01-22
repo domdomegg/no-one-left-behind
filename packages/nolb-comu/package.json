@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-comu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "comui": "latest",
+        "comuicore": "latest",
+        "comum": "latest",
+        "comun": "latest",
+        "comuni-json": "latest",
+        "comuni-province-regioni-italia": "latest",
+        "comunica": "latest",
+        "comunica-geosparql": "latest",
+        "comunicacion": "latest",
+        "comunicacion-http-plan-market": "latest",
+        "comunicator": "latest",
+        "comunik8-common": "latest",
+        "comunik8-events": "latest",
+        "comunion-dao": "latest",
+        "comunismo": "latest",
+        "comus": "latest",
+        "comus-ui": "latest",
+        "comuse-docz-rehype": "latest",
+        "comuse-docz-remark": "latest",
+        "comuse-docz-theme": "latest",
+        "comuse-rehype-docz": "latest",
+        "comuse-remark-docz": "latest",
+        "comuse-ts-lint": "latest",
+        "comutable": "latest",
+        "comutilintedemo": "latest",
+        "comutils": "latest"
+    }
+}

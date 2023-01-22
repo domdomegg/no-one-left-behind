@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-vev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vev": "latest",
+        "veva": "latest",
+        "veva-example-webpack": "latest",
+        "veval": "latest",
+        "veve-e2e-flow": "latest",
+        "veveal": "latest",
+        "vevet": "latest",
+        "vevet-dom": "latest",
+        "vevio-scraper": "latest",
+        "vevo": "latest",
+        "vevo-cli": "latest",
+        "vevo-config": "latest"
+    }
+}

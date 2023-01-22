@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_emx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@emxdigital/node-redshift": "latest",
+        "@emxdigital/sails-hook-publisher": "latest",
+        "@emxdigital/sails-hook-subscriber": "latest",
+        "@emxxjnm/eslint-config": "latest",
+        "@emxxjnm/eslint-config-standard": "latest",
+        "@emxxjnm/eslint-config-ts": "latest",
+        "@emxxjnm/eslint-config-vue": "latest"
+    }
+}

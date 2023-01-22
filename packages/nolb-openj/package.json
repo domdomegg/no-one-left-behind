@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-openj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "OpenJPEG.js": "latest",
+        "openjoi": "latest",
+        "openjpeg": "latest",
+        "openjs": "latest",
+        "openjs-cli": "latest",
+        "openjscad-csg": "latest",
+        "openjscad-react": "latest",
+        "openjsk": "latest",
+        "openjslog": "latest",
+        "openjtalk": "latest",
+        "openjtalk.js": "latest",
+        "openjudge-helper": "latest",
+        "openjx": "latest"
+    }
+}

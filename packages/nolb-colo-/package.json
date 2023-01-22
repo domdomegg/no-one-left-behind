@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-colo-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "colo-detect-paypal": "latest",
+        "colo-lerna-a": "latest",
+        "colo-lerna-b": "latest",
+        "colo-lerna-core": "latest",
+        "colo-link": "latest"
+    }
+}

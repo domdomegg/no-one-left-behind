@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-omt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "omt": "latest",
+        "omt-server-plugin": "latest",
+        "omt.js": "latest",
+        "omtejeda-frame-print": "latest",
+        "omtv-react-input": "latest",
+        "omtv-react-popup": "latest",
+        "omtv-theme": "latest"
+    }
+}

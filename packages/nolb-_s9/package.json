@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_s9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@s97712/graphql": "latest",
+        "@s97712/join-monster": "latest",
+        "@s97712/react-di": "latest",
+        "@s97712/react-hook-form": "latest",
+        "@s97712/react-use": "latest",
+        "@s9a/...npm": "latest",
+        "@s9a/bae": "latest",
+        "@s9a/cake": "latest",
+        "@s9a/dab": "latest",
+        "@s9a/daze": "latest",
+        "@s9a/dew": "latest",
+        "@s9a/s9a.github.io": "latest",
+        "@s9a/tape": "latest",
+        "@s9a/volume": "latest",
+        "@s9devnpm/react-boxes": "latest",
+        "@s9devnpm/react-data-hooks": "latest",
+        "@s9devnpm/react-form-hooks": "latest",
+        "@s9y/fastify-request-logging": "latest",
+        "@s9y/onnxjs-dev": "latest"
+    }
+}

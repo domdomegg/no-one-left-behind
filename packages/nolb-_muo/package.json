@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_muo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@muoka/tiny": "latest",
+        "@muonic/muon": "latest",
+        "@muons/library": "latest",
+        "@muoosic/eslint-config": "latest",
+        "@muoosic/stitches-config": "latest",
+        "@muoosic/ts-config": "latest",
+        "@muoosic/ui": "latest"
+    }
+}

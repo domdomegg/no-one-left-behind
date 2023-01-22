@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_sht",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sht-dev/fancy-grid": "latest",
+        "@sht-dev/fancy-grid-test": "latest",
+        "@sht-dev/fancy-tree": "latest",
+        "@sht1997/input": "latest",
+        "@shtian/ng-pick-datetime": "latest",
+        "@shticket/common": "latest",
+        "@shticketing/common": "latest",
+        "@shtickets/common": "latest",
+        "@shtickets007/common": "latest",
+        "@shtr0416/hello-wasm": "latest",
+        "@shtrifel/cwp-22-1": "latest",
+        "@shtrihpunktir/ngx-facebook": "latest",
+        "@shtrihpunktir/ngx-socket-io": "latest",
+        "@shtrihpunktir/reactive-vkconnect": "latest",
+        "@shttldev/copilot": "latest"
+    }
+}

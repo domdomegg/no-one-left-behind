@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_z3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@z363416071/vue-iconfont-cli": "latest",
+        "@z3k/eslint-config-zk": "latest",
+        "@z3k/zk-trace-bundle": "latest",
+        "@z3r0x/context-free-frontend": "latest",
+        "@z3r0x/plugin-chart-plugin-chart-hello-world": "latest",
+        "@z3r0x/superset-plugin-chart-hello-world": "latest",
+        "@z3ro/clim": "latest",
+        "@z3ro/mdparser": "latest",
+        "@z3ro/synthwave": "latest",
+        "@z3v00k/input": "latest"
+    }
+}

@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_skl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@sklearn/common": "latest",
+        "@sklechko/framework": "latest",
+        "@sklechko/testlib": "latest",
+        "@sklechko/tslib": "latest",
+        "@sklinet/datocms-plugin-deepl-translate-button": "latest",
+        "@sklinet/next-routes-with-locale": "latest",
+        "@sklinet/ra-tree-core": "latest",
+        "@sklinet/ra-tree-ui-materialui": "latest",
+        "@sklinet/react-admin-date-inputs": "latest",
+        "@sklinet/strapi-plugin-block-gallery": "latest",
+        "@sklinet/strapi-plugin-tinymce": "latest",
+        "@sklinet/strapi-plugin-video-field": "latest",
+        "@sklinet/strapi-utils": "latest",
+        "@sklink/react-native-responsive-layout": "latest",
+        "@sklirg/gondul-health": "latest",
+        "@sklyerx/express-typescript": "latest"
+    }
+}

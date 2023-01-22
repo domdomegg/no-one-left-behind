@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-disq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "disq": "latest",
+        "disqplus": "latest",
+        "disque": "latest",
+        "disque-client": "latest",
+        "disque-eventemitter": "latest",
+        "disque.js": "latest",
+        "disqueue-node": "latest",
+        "disquify": "latest",
+        "disquirer.js": "latest",
+        "disqus": "latest",
+        "disqus-hse-2022": "latest",
+        "disqus-node": "latest",
+        "disqus-proxy-core": "latest",
+        "disqus-proxy-server": "latest",
+        "disqus-react": "latest",
+        "disqus-react-sso": "latest",
+        "disqus-react-unofficial": "latest",
+        "disqus-server-client": "latest",
+        "disqus-server-client-core": "latest",
+        "disqus-snippet": "latest",
+        "disqus-sso-express": "latest",
+        "disqus-svelte": "latest",
+        "disqus-xml2json": "latest",
+        "disqus_ap": "latest",
+        "disqusjs": "latest",
+        "disqussion": "latest"
+    }
+}

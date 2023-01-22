@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-ethr",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ethr": "latest",
+        "ethr-did": "latest",
+        "ethr-did-registry": "latest",
+        "ethr-did-resolver": "latest",
+        "ethr-did-utils": "latest",
+        "ethr-status-registry": "latest",
+        "ethrain": "latest",
+        "ethreal": "latest",
+        "ethregistrar": "latest",
+        "ethrex": "latest",
+        "ethrjjrstj": "latest",
+        "ethrlp": "latest",
+        "ethrobot": "latest",
+        "ethrpc": "latest",
+        "ethrpc.js": "latest"
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_buq",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@buquan/mkdir": "latest",
+        "@buquan/rc-create": "latest",
+        "@buquan/rc-tool": "latest",
+        "@buquan/ui": "latest",
+        "@buquan/uiui": "latest",
+        "@buquan/uiui2": "latest"
+    }
+}

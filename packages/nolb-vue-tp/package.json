@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-vue-tp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "vue-tp-cli": "latest",
+        "vue-tp-cli-qrq": "latest",
+        "vue-tp-materials": "latest",
+        "vue-tp-materials-admin-layout": "latest",
+        "vue-tp-materials-admin-page": "latest",
+        "vue-tp-materials-admin-table": "latest",
+        "vue-tp-materials-vpc-admin": "latest",
+        "vue-tpl": "latest",
+        "vue-tpl-cli": "latest",
+        "vue-tpl-editor": "latest",
+        "vue-tpl-loader": "latest",
+        "vue-tplayer": "latest"
+    }
+}

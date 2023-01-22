@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-priz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "prize": "latest",
+        "prize-checker": "latest",
+        "prize-turn-table": "latest",
+        "prize-wheel": "latest",
+        "prizm": "latest",
+        "prizmdoc-reader": "latest",
+        "prizmicplayer": "latest",
+        "prizz-tip-addresses": "latest"
+    }
+}

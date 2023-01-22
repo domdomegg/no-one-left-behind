@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_buh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@buhissopro/portfolio-theme": "latest",
+        "@buhissopro/react-native-image-slider-show": "latest",
+        "@buhrmi/actionstore": "latest",
+        "@buhta-ooo/graphql": "latest"
+    }
+}

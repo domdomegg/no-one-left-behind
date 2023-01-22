@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-ngj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ngj-bz-lib-clearance": "latest",
+        "ngj-bz-lib-core": "latest",
+        "ngj-datepicker-test": "latest",
+        "ngj8-ui": "latest",
+        "ngjest": "latest",
+        "ngjs-addressinput": "latest",
+        "ngjs-auth0-spa": "latest",
+        "ngjs-cli": "latest",
+        "ngjs-cognito-spa": "latest",
+        "ngjs-color-picker": "latest",
+        "ngjs-es6-cli": "latest"
+    }
+}

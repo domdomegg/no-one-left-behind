@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-htm-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htm-asset-combo": "latest",
+        "htm-chef": "latest",
+        "htm-cli": "latest",
+        "htm-diff": "latest",
+        "htm-installer": "latest",
+        "htm-js": "latest",
+        "htm-preact-osagai": "latest",
+        "htm-to-json": "latest",
+        "htm-tool": "latest",
+        "htm-tool-css": "latest",
+        "htm-tool-ui": "latest"
+    }
+}

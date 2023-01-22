@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_b0",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@b0dhidharma/commons": "latest",
+        "@b0dhidharma/contract-tools": "latest",
+        "@b0dhidharma/contract-utils": "latest",
+        "@b0dhidharma/stealth-txs": "latest",
+        "@b0dhidharma/strategies-keep3r": "latest",
+        "@b0dhidharma/yswaps": "latest",
+        "@b0g3r/vuepress-plugin-generate-tree": "latest",
+        "@b0g3r/vuepress-plugin-locale-prefix": "latest",
+        "@b0r0/lily-text-editor": "latest",
+        "@b0r0/lily-wysiwyg": "latest",
+        "@b0ssy/hello_npm_package": "latest",
+        "@b0th/test": "latest",
+        "@b0th/tw-utils": "latest",
+        "@b0ulzy/password-generator": "latest",
+        "@b0wdyy/ckeditor5-build-classic-image-resize": "latest",
+        "@b0wdyy/tunity-reporting": "latest"
+    }
+}

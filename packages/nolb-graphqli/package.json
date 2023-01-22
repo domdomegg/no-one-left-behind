@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-graphqli",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "graphqlib": "latest",
+        "graphqlify": "latest",
+        "graphqlify-null": "latest",
+        "graphqlint": "latest",
+        "graphqlite": "latest",
+        "graphqlize": "latest",
+        "graphqlize-core": "latest",
+        "graphqlize-server": "latest",
+        "graphqlizejs": "latest"
+    }
+}

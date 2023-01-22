@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-sqc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sqc-config": "latest",
+        "sqc-dependencies": "latest",
+        "sqc-dependencies-dev-misc": "latest",
+        "sqc-dependencies-fe-misc": "latest",
+        "sqc-dependencies-fe-react": "latest",
+        "sqc-foundation": "latest",
+        "sqc-helpers": "latest",
+        "sqc-net": "latest",
+        "sqc-testing-helpers": "latest",
+        "sqc-ui": "latest",
+        "sqc292929": "latest",
+        "sqcr": "latest",
+        "sqcred-time-utils": "latest"
+    }
+}

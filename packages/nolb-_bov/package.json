@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_bov",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@bovan/react-select2-wrapper": "latest",
+        "@bovcontrol/react-native-template-bovcontrol": "latest",
+        "@bovieran/ckeditor5-editor": "latest",
+        "@bovo-ui/components": "latest",
+        "@bovo-ui/theme-chalk": "latest"
+    }
+}

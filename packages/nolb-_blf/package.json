@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-_blf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@blfc/pug-lint-contrib-blfc": "latest",
+        "@blfrg.xyz/slate-plugins": "latest",
+        "@blfrg.xyz/slate-plugins-core": "latest"
+    }
+}

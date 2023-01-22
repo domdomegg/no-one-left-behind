@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-fint",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "fint": "latest",
+        "fint-client": "latest",
+        "fint-get-data": "latest",
+        "fint-get-token": "latest",
+        "fint-token-generator": "latest",
+        "fintalk-logger": "latest",
+        "fintech": "latest",
+        "fintech-automated-testing": "latest",
+        "fintech-kit": "latest",
+        "fintech-unify": "latest",
+        "fintechman": "latest",
+        "fintechneo-angulartemplates": "latest",
+        "fintechx-soap": "latest",
+        "fintecture-client": "latest",
+        "finterest": "latest",
+        "finterface-key-value-store": "latest",
+        "finteza-sdk": "latest",
+        "fintobot-components": "latest",
+        "fintoc": "latest",
+        "fintrak": "latest",
+        "fintranor": "latest",
+        "fints": "latest",
+        "fints-cli": "latest",
+        "fints-institute-db": "latest"
+    }
+}

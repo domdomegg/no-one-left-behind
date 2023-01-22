@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-liby",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "liby-mobile": "latest",
+        "liby-ui": "latest",
+        "libyaml": "latest",
+        "libyang": "latest",
+        "libyang-dev": "latest",
+        "libyansheng": "latest",
+        "libyara-wasm": "latest",
+        "libyca": "latest",
+        "libyear": "latest",
+        "libyear-npm": "latest",
+        "libyear-yarn": "latest",
+        "libyopu": "latest",
+        "libyosys": "latest",
+        "libyuv": "latest",
+        "libyuv-wasm": "latest",
+        "libywlee": "latest"
+    }
+}

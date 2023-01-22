@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_amd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@amd-core/angular-ui": "latest",
+        "@amd-core/gulp-angular-inline": "latest",
+        "@amd-core/mongoose-ts": "latest",
+        "@amd-core/webpack-config": "latest",
+        "@amd690544/cellnex-ui": "latest",
+        "@amdevcorp/ticketing-common": "latest",
+        "@amdglobal/create-desktop-shortcuts": "latest",
+        "@amdglobal/font-manager": "latest",
+        "@amdglobal/koa-bearer-token": "latest",
+        "@amdglobal/log-manager": "latest",
+        "@amdglobal/process-list": "latest",
+        "@amdglobal/ptz": "latest",
+        "@amdglobal/react-file-viewer": "latest",
+        "@amdglobal/react-infinite-scroller": "latest",
+        "@amdglobal/role": "latest",
+        "@amdglobal/rpc": "latest",
+        "@amdglobal/user": "latest",
+        "@amdglobal/util": "latest",
+        "@amdirent/react-json-logic": "latest"
+    }
+}

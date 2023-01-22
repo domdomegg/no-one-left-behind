@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-idx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "idx": "latest",
+        "idx-auto-tester": "latest",
+        "idx-cogo-toast": "latest",
+        "idx-data": "latest",
+        "idx-db": "latest",
+        "idx-db.js": "latest",
+        "idx-escli": "latest",
+        "idx-helper": "latest",
+        "idx-js-service-demo": "latest",
+        "idx-loader": "latest",
+        "idx-round": "latest",
+        "idx-ui": "latest",
+        "idx.macro": "latest",
+        "idxangular-material": "latest",
+        "idxd": "latest",
+        "idxddb": "latest",
+        "idxgen": "latest",
+        "idxticker": "latest",
+        "idxwrd-framework-cli": "latest",
+        "idxwrd-phoeinx-framework": "latest"
+    }
+}

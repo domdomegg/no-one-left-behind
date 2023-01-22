@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-epe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "epe": "latest",
+        "epe-pbiviz": "latest",
+        "epechangelogger": "latest",
+        "epectron": "latest",
+        "epee": "latest",
+        "epee-ui": "latest",
+        "epeeme-frame-print": "latest",
+        "epeg": "latest",
+        "epeg.js": "latest",
+        "epegjs": "latest",
+        "epek": "latest",
+        "epeng": "latest",
+        "eper-cli": "latest",
+        "eperedo-scripts": "latest",
+        "eperiou-lodown": "latest",
+        "epersonate-dev": "latest",
+        "epet-cli": "latest",
+        "epet-element": "latest",
+        "epet-element-plus": "latest",
+        "epet-workbench": "latest",
+        "epezhman-automerge": "latest",
+        "epezhman-fabric-shim-2": "latest"
+    }
+}

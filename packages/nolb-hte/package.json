@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-hte",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "htec-popover": "latest",
+        "htel": "latest",
+        "htemplate": "latest",
+        "htemplate-render": "latest",
+        "htemplater": "latest",
+        "htenv": "latest",
+        "hterm": "latest",
+        "hterm-bundle": "latest",
+        "hterm-command": "latest",
+        "hterm-commonjs": "latest",
+        "hterm-esm": "latest",
+        "hterm-inquirer": "latest",
+        "hterm-readline": "latest",
+        "hterm-repl": "latest",
+        "hterm-shell": "latest",
+        "hterm-umd": "latest",
+        "hterm-umdjs": "latest",
+        "hterm-umdjs-cc": "latest",
+        "hterm-umdjs-s6": "latest",
+        "htermabstruse": "latest",
+        "htest": "latest",
+        "htest-cli": "latest",
+        "htestplugin_hua": "latest",
+        "htestss": "latest",
+        "htet-ko": "latest",
+        "htext-editor": "latest"
+    }
+}

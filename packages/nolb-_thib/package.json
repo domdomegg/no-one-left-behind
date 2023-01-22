@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_thib",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@thibaud_s-dev/react-modal-custom": "latest",
+        "@thibaudcolas/-_-.css": "latest",
+        "@thibaudcolas/alpinejs-csp-build": "latest",
+        "@thibaudcolas/automation-playground": "latest",
+        "@thibaudcolas/automation-sandbox": "latest",
+        "@thibaudcolas/eslint-plugin-cookbook": "latest",
+        "@thibaudcolas/stylelint-config-cookbook": "latest",
+        "@thibaultgobert/react-scripts": "latest",
+        "@thibautgreg/publicholidays": "latest",
+        "@thibautsabot/next-routes": "latest",
+        "@thibautsabot/web-api": "latest",
+        "@thibka/browser-detector": "latest",
+        "@thibka/cookie-manager": "latest",
+        "@thibka/fps-meter": "latest",
+        "@thibka/mediatrigger": "latest",
+        "@thibka/multiloader": "latest",
+        "@thibka/postprocessor": "latest",
+        "@thibka/spritemanager": "latest",
+        "@thibmaek/rn-bounce": "latest",
+        "@thibmaek/rn-playground-wrapper": "latest",
+        "@thibremy/vitale": "latest",
+        "@thibremy/vitale-pages": "latest",
+        "@thibremy/vue-fetch-composable": "latest",
+        "@thibremy/vue-form-composable": "latest"
+    }
+}

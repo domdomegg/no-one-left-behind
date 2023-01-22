@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_shoc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@shockapps/app-builder": "latest",
+        "@shockk73.tickets/common": "latest",
+        "@shockpkg/archive-files": "latest",
+        "@shockpkg/cli": "latest",
+        "@shockpkg/core": "latest",
+        "@shockpkg/dir-projector": "latest",
+        "@shockpkg/hdi-mac": "latest",
+        "@shockpkg/icon-encoder": "latest",
+        "@shockpkg/plist-dom": "latest",
+        "@shockpkg/ria-packager": "latest",
+        "@shockpkg/swf-projector": "latest",
+        "@shockticketing/common": "latest",
+        "@shockw4ver/ckeditor5-simple-classic": "latest",
+        "@shockw4ver/class": "latest",
+        "@shockw4ver/iciba": "latest",
+        "@shockw4ver/ninja": "latest",
+        "@shockw4ver/scoped-packages-demo": "latest",
+        "@shockz/eslint-config-vue-strict": "latest",
+        "@shockz/hi": "latest"
+    }
+}

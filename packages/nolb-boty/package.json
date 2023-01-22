@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-boty",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "botyo": "latest",
+        "botyo-api": "latest",
+        "botyo-bundle-instagram": "latest",
+        "botyo-bundle-persistence": "latest",
+        "botyo-command-ping": "latest",
+        "botyo-command-quote": "latest",
+        "botyo-command-reverse-image-search": "latest",
+        "botyo-command-showme": "latest",
+        "botyo-command-spotify": "latest",
+        "botyo-command-youtube": "latest",
+        "botyoo3": "latest"
+    }
+}

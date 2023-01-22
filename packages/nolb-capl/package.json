@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-capl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "caplena": "latest",
+        "caplet": "latest",
+        "caplin-cli": "latest",
+        "caplin-npm-test1": "latest",
+        "caplinked-api-node": "latest"
+    }
+}

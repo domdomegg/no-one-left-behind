@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-caw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "caw": "latest",
+        "caw-api": "latest",
+        "caw-global": "latest",
+        "cawayijs": "latest",
+        "cawcaw": "latest",
+        "cawdrey": "latest",
+        "caweb-cli": "latest",
+        "caweek-ui": "latest",
+        "cawer": "latest",
+        "cawfee-cli": "latest",
+        "cawgl": "latest",
+        "cawita-matx": "latest",
+        "caws-constructs": "latest"
+    }
+}

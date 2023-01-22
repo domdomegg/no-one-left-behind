@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-infa",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "infa-identity": "latest",
+        "infa-json-storage": "latest",
+        "infa-locale": "latest",
+        "infa-namespace": "latest",
+        "infa-resourcify": "latest",
+        "infa-upload-queue": "latest",
+        "inface": "latest",
+        "infact": "latest",
+        "infactor": "latest",
+        "infamous": "latest",
+        "infamous-engine": "latest",
+        "infamous-npm": "latest",
+        "infamy": "latest",
+        "infancy": "latest",
+        "infant": "latest",
+        "infant-nutrition-calculator": "latest",
+        "infanticide": "latest",
+        "infantry": "latest",
+        "infarep": "latest",
+        "infarep-aws": "latest",
+        "infaselector": "latest",
+        "infatuate": "latest"
+    }
+}

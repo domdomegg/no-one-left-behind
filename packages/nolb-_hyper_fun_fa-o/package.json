@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_fa-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/fa-object-group": "latest",
+        "@hyper.fun/fa-object-group-regular": "latest",
+        "@hyper.fun/fa-object-ungroup": "latest",
+        "@hyper.fun/fa-object-ungroup-regular": "latest",
+        "@hyper.fun/fa-octopus-deploy": "latest",
+        "@hyper.fun/fa-odnoklassniki": "latest",
+        "@hyper.fun/fa-odnoklassniki-square": "latest",
+        "@hyper.fun/fa-oil-can": "latest",
+        "@hyper.fun/fa-old-republic": "latest",
+        "@hyper.fun/fa-om": "latest",
+        "@hyper.fun/fa-opencart": "latest",
+        "@hyper.fun/fa-openid": "latest",
+        "@hyper.fun/fa-opera": "latest",
+        "@hyper.fun/fa-optin-monster": "latest",
+        "@hyper.fun/fa-orcid": "latest",
+        "@hyper.fun/fa-osi": "latest",
+        "@hyper.fun/fa-otter": "latest",
+        "@hyper.fun/fa-outdent": "latest"
+    }
+}

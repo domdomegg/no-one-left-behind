@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-_ryant",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ryantam626/jupyterlab_black": "latest",
+        "@ryantam626/jupyterlab_code_formatter": "latest",
+        "@ryantam626/jupyterlab_sublime": "latest",
+        "@ryantam626/jupyterlab_vim": "latest",
+        "@ryantate/corona-tracker": "latest",
+        "@ryantate/js-cli": "latest",
+        "@ryantate/react-html": "latest",
+        "@ryantech/xlsparser": "latest",
+        "@ryanthedev/lotide": "latest",
+        "@ryantrem/react-native": "latest"
+    }
+}

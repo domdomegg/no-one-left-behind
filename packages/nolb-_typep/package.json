@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_typep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@typepack/bundle": "latest",
+        "@typepi/generator": "latest",
+        "@typepoint/client": "latest",
+        "@typepoint/core": "latest",
+        "@typepoint/express": "latest",
+        "@typepoint/joiful": "latest",
+        "@typepoint/react": "latest",
+        "@typepoint/server": "latest",
+        "@typepoint/shared": "latest"
+    }
+}

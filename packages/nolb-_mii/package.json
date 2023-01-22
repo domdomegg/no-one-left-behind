@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_mii",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@mii/dora-cli": "latest",
+        "@miidev/8ball": "latest",
+        "@miidx/rn-count-down": "latest",
+        "@miidx/rn-floating-button": "latest",
+        "@miidx/rn-pin-input": "latest",
+        "@miidx/rn-simple-date-time-picker": "latest",
+        "@miidx/rn-simple-picker": "latest",
+        "@miidx/rn-text-button": "latest",
+        "@miidx/rn-text-field": "latest",
+        "@miigii/eslint-config-miigii": "latest",
+        "@miigii/eslint-test": "latest",
+        "@miigii/prettier-config": "latest",
+        "@miigii/test-eslint-conf-mk": "latest",
+        "@miii/vue-lettering": "latest",
+        "@miii/y-google-cast": "latest",
+        "@miikek/link-revised": "latest",
+        "@miinto/admin-eslint-config": "latest",
+        "@miipl/miipl-xlsx-style": "latest",
+        "@miirinjej/eslint-config": "latest",
+        "@miirinjej/eslint-config-vue": "latest",
+        "@miirinjej/stylelint-config": "latest",
+        "@miirinjej/stylelint-config-extra": "latest",
+        "@miizzo/effector-create-list-api": "latest",
+        "@miizzo/effector-router": "latest",
+        "@miizzo/react-native-babel-plugin": "latest"
+    }
+}

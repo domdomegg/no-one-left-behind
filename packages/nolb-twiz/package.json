@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-twiz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "twiz": "latest",
+        "twiz-client": "latest",
+        "twiz-client-accesstoken": "latest",
+        "twiz-client-options": "latest",
+        "twiz-client-request": "latest",
+        "twiz-client-requesttoken": "latest",
+        "twiz-client-utils": "latest",
+        "twiz-id": "latest",
+        "twiz-imager": "latest",
+        "twiz-scrape": "latest",
+        "twiz-server": "latest",
+        "twiz-util": "latest",
+        "twizo": "latest",
+        "twizzle": "latest",
+        "twizzle-js": "latest",
+        "twizzlers": "latest"
+    }
+}

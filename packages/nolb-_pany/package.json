@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_pany",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@panyam/nextjscommon": "latest",
+        "@panyam/priorityq": "latest",
+        "@panyam/tsutils": "latest",
+        "@panyam/tsutils-gae": "latest",
+        "@panyam/tsutils-ui": "latest",
+        "@panyan/panyan-ext": "latest",
+        "@panyongxu/vue_test_plugin": "latest",
+        "@panyongxu/vue_test_plugin1": "latest",
+        "@panyushan/study": "latest"
+    }
+}

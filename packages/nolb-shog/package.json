@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-shog",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "shogan": "latest",
+        "shogi": "latest",
+        "shogi-battle-style": "latest",
+        "shogi-board": "latest",
+        "shogi-lib": "latest",
+        "shogi-moves": "latest",
+        "shogi-player": "latest",
+        "shogi-player-webcomponents": "latest",
+        "shogi-ts": "latest",
+        "shogi.js": "latest",
+        "shogi64": "latest",
+        "shogi9.js": "latest",
+        "shogi_player": "latest",
+        "shogiboardjs": "latest",
+        "shogiboardjsx": "latest",
+        "shogiground": "latest",
+        "shogiops": "latest",
+        "shogism": "latest",
+        "shogistyle": "latest",
+        "shogitter-core": "latest",
+        "shogoss-core": "latest",
+        "shogoss-frontend-gametree-parser": "latest",
+        "shogoss-parser": "latest",
+        "shogun": "latest",
+        "shogun-css": "latest",
+        "shogun-lazysize": "latest"
+    }
+}

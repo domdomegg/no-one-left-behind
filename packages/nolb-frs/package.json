@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-frs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "frs": "latest",
+        "frs-cli": "latest",
+        "frs-common": "latest",
+        "frs-hide-scrollbar": "latest",
+        "frs-my-sb-components": "latest",
+        "frs-replace": "latest",
+        "frs_swap_sdk": "latest",
+        "frsh": "latest",
+        "frsh-sdk": "latest",
+        "frsk-print": "latest",
+        "frsoft-weex-common": "latest",
+        "frst-cli": "latest",
+        "frst-hello-world": "latest",
+        "frst-helpers": "latest",
+        "frst-package-ben": "latest",
+        "frst.io": "latest",
+        "frst_pack": "latest",
+        "frstapp": "latest",
+        "frstcmfrstsvd": "latest",
+        "frstio-monorepo": "latest"
+    }
+}

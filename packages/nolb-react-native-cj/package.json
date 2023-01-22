@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-react-native-cj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-cj-ad": "latest",
+        "react-native-cj-chuan-shan-jia": "latest",
+        "react-native-cj-helper": "latest",
+        "react-native-cj-protocol": "latest",
+        "react-native-cj-umeng-configure": "latest",
+        "react-native-cj-umeng-share": "latest",
+        "react-native-cj-you-liang-hui": "latest",
+        "react-native-cjk-textinput-patch": "latest",
+        "react-native-cjprinter": "latest",
+        "react-native-cjzf-toast": "latest"
+    }
+}

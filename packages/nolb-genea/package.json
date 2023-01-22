@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-genea",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "genea": "latest",
+        "geneajs": "latest",
+        "geneajs-b": "latest",
+        "genealogist": "latest",
+        "genealogit": "latest",
+        "genealogy": "latest",
+        "genealogy-book": "latest",
+        "genealogy-visualizations": "latest",
+        "geneasy": "latest",
+        "geneasy-handlebars": "latest",
+        "geneasy-yaml": "latest"
+    }
+}

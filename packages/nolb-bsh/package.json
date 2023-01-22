@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-bsh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bsh": "latest",
+        "bsh-iot-gulp-image": "latest",
+        "bsh-shared-module": "latest",
+        "bshare": "latest",
+        "bsharp-ipfs-adaptor": "latest",
+        "bshep-plugin-bpoint-plug": "latest",
+        "bshep-plugin-sivann-gassensor": "latest",
+        "bshep-plugin-sivann-nineaxis": "latest",
+        "bshep-plugin-sivann-pir": "latest",
+        "bshep-plugin-sivann-relay": "latest",
+        "bshep-plugin-sivann-remotecontrol": "latest",
+        "bshep-plugin-sivann-weatherstation": "latest",
+        "bshep-plugin-ti-keyfob": "latest",
+        "bshep-plugin-ti-sensortag1": "latest",
+        "bshow-stem": "latest",
+        "bshtest": "latest"
+    }
+}

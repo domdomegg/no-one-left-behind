@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-ai2",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ai2": "latest",
+        "ai228": "latest",
+        "ai2font": "latest",
+        "ai2html": "latest",
+        "ai2html-cmd": "latest",
+        "ai2jsx": "latest",
+        "ai2pdf": "latest",
+        "ai2png": "latest",
+        "ai2projeto": "latest",
+        "ai2react": "latest",
+        "ai2react-loader": "latest"
+    }
+}

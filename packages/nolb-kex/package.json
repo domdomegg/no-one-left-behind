@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-kex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "kex": "latest",
+        "kexcel": "latest",
+        "kexec": "latest",
+        "kexiaoyi-kf": "latest",
+        "kexin": "latest",
+        "kexinzhao": "latest",
+        "kexpress": "latest",
+        "kexpress-cli": "latest",
+        "kexpress-fields": "latest",
+        "kexpress-http": "latest",
+        "kexpress-job": "latest",
+        "kexpress-logger": "latest",
+        "kexpress-sample": "latest",
+        "kexpress-store": "latest",
+        "kexpress-store-um": "latest",
+        "kext": "latest",
+        "kextensions": "latest",
+        "kexue-guanlingshu": "latest",
+        "kexue-qigong": "latest",
+        "kexue-yekeyi-youlingxing": "latest",
+        "kexue-zhengshi-nixiangde-huichengzhen": "latest",
+        "kexun-date": "latest"
+    }
+}

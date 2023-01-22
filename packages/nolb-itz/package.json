@@ -1,0 +1,33 @@
+
+{
+    "name": "@zalastax/nolb-itz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "itz": "latest",
+        "itz-au-input": "latest",
+        "itz-caching-time": "latest",
+        "itz-element": "latest",
+        "itz-locking-time": "latest",
+        "itzadn": "latest",
+        "itzerotwo-tools": "latest",
+        "itzhangyi-tools": "latest",
+        "itzhijin-tools": "latest",
+        "itzhiyong-tools": "latest",
+        "itzhu-tools": "latest",
+        "itzikdu_pack": "latest",
+        "itzixue-toolsczh": "latest",
+        "itzj-tools": "latest",
+        "itzl-tool": "latest",
+        "itzmk-tools": "latest",
+        "itzrm": "latest",
+        "itzy-tools": "latest",
+        "itzyb-tools": "latest",
+        "itzyj-utils": "latest",
+        "itzyj_tools": "latest",
+        "itzzj-tools": "latest",
+        "itzzs_tools": "latest"
+    }
+}

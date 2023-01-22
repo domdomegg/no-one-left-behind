@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_a_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@a.abunada/expo-location": "latest",
+        "@a.abunada/expo-task-manager": "latest",
+        "@a.abunada/vue-jstree-rtl": "latest",
+        "@a.arefiev/pkg-1": "latest",
+        "@a.arefiev/pkg-2": "latest",
+        "@a.chepugov/z-npm-test": "latest",
+        "@a.davydov/react-kanban": "latest",
+        "@a.grisevich/ng-zorro-antd": "latest",
+        "@a.grisevich/ngx-datatable": "latest",
+        "@a.gusev/symlink-webpack-plugin": "latest",
+        "@a.helmi/call-module": "latest",
+        "@a.izzheurov/vue-bottom-sheet-fm": "latest",
+        "@a.kryvets/ng-lib": "latest",
+        "@a.pavlovic/bar": "latest",
+        "@a.pavlovic/foo": "latest",
+        "@a.perrot/vue3-treeselect": "latest",
+        "@a_athar/lotide-": "latest",
+        "@a_fairlie/lotide": "latest",
+        "@a_home_au/common": "latest",
+        "@a_home_au/shared_common": "latest",
+        "@a_isegawa/hello-rust-benchmark-str-wasm": "latest",
+        "@a_kawashiro/jendeley": "latest",
+        "@a_knot_super/npmpackagetest": "latest",
+        "@a_m_dev/tiny": "latest",
+        "@a_serghei/avatar": "latest",
+        "@a_yee/lotide": "latest"
+    }
+}

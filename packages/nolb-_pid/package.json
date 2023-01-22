@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-_pid",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pid-sku/modules": "latest",
+        "@pid-sku/theme": "latest",
+        "@pidelo/app": "latest",
+        "@pidelo/models": "latest",
+        "@pidelo/providers": "latest",
+        "@pidev000/tiny": "latest",
+        "@pidlisnyi/rosswald": "latest",
+        "@pidoc/components": "latest",
+        "@pidoc/core": "latest",
+        "@pidong/matrix-bot-sdk": "latest",
+        "@pidong/mx-puppet-bridge": "latest",
+        "@pidong/soru-slack-client": "latest",
+        "@pids/components": "latest",
+        "@pids/styles": "latest",
+        "@piducancore/fonts-andale-mono": "latest",
+        "@piducancore/gatsby-source-cloudinary-metadata": "latest",
+        "@piducancore/gl33ch": "latest",
+        "@pidz-developer/aws-sns-publish-message-wrapper": "latest",
+        "@pidz-developer/dynamo-light": "latest"
+    }
+}

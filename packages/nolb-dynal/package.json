@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-dynal",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dynalee": "latest",
+        "dynalinq-track-trace": "latest",
+        "dynalist-api": "latest",
+        "dynalist-api-wrapper": "latest",
+        "dynalist-archiver": "latest",
+        "dynalist-js": "latest",
+        "dynalite": "latest",
+        "dynalite-kwz": "latest",
+        "dynalite-sodaru": "latest",
+        "dynalite-test": "latest",
+        "dynalock": "latest",
+        "dynalogin": "latest"
+    }
+}

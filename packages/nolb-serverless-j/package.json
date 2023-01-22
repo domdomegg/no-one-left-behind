@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-serverless-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "serverless-java-instrument": "latest",
+        "serverless-jest-plugin": "latest",
+        "serverless-jest-tools": "latest",
+        "serverless-jetpack": "latest",
+        "serverless-job": "latest",
+        "serverless-js-transpiler": "latest",
+        "serverless-js-utils": "latest",
+        "serverless-jsconfig-plugin": "latest",
+        "serverless-jshint-plugin": "latest",
+        "serverless-json-generator-plugin": "latest",
+        "serverless-json-parser": "latest",
+        "serverless-justauthenticateme-plugin": "latest",
+        "serverless-jvm-plugin": "latest"
+    }
+}

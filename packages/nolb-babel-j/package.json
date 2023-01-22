@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-babel-j",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "babel-jest": "latest",
+        "babel-jest-amcharts": "latest",
+        "babel-jest-assertions": "latest",
+        "babel-jest-bp": "latest",
+        "babel-jest-config-wrapper": "latest",
+        "babel-jest-glob-transform": "latest",
+        "babel-jest-import-glob": "latest",
+        "babel-jest-modules": "latest",
+        "babel-jest-nested": "latest",
+        "babel-jquery-plugin": "latest",
+        "babel-js-handler": "latest",
+        "babel-js-to-jsx": "latest",
+        "babel-jscs": "latest",
+        "babel-jsm-plugin": "latest",
+        "babel-jsx": "latest",
+        "babel-jsx-pragma-module-auto-import": "latest",
+        "babel-jsx-render-tools": "latest",
+        "babel-jsx-to-ast-fragmented": "latest",
+        "babel-jsx-utils": "latest",
+        "babel-jsxgettext": "latest"
+    }
+}

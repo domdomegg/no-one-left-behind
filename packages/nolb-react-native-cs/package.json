@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-react-native-cs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-csangam": "latest",
+        "react-native-csj-ad": "latest",
+        "react-native-css": "latest",
+        "react-native-css-cascade": "latest",
+        "react-native-css-file": "latest",
+        "react-native-css-gradient": "latest",
+        "react-native-css-loader": "latest",
+        "react-native-css-media-query-processor": "latest",
+        "react-native-css-module": "latest",
+        "react-native-css-modules": "latest",
+        "react-native-css-modules-theme": "latest",
+        "react-native-css-parse": "latest",
+        "react-native-css-scss": "latest",
+        "react-native-css-stylesheet": "latest",
+        "react-native-css-transform": "latest",
+        "react-native-css-transformer": "latest",
+        "react-native-css-transition": "latest",
+        "react-native-css-tree": "latest",
+        "react-native-css-vh-vw": "latest",
+        "react-native-cstoaster": "latest",
+        "react-native-cstyle": "latest",
+        "react-native-csv": "latest"
+    }
+}

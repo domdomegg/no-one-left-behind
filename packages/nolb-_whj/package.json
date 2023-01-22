@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_whj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@whj1984/z-tool": "latest",
+        "@whjvenyl/angular-xxl": "latest",
+        "@whjvenyl/ngx-popper": "latest",
+        "@whjvenyl/safe-area": "latest",
+        "@whjvenyl/terser-webpack-plugin": "latest",
+        "@whjway/test": "latest"
+    }
+}

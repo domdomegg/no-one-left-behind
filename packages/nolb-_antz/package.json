@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_antz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@antzy/create-app": "latest",
+        "@antzy/eslint-config": "latest",
+        "@antzy/eslint-config-basic": "latest",
+        "@antzy/eslint-config-prettier": "latest",
+        "@antzy/eslint-config-ts": "latest",
+        "@antzy/eslint-config-vue": "latest",
+        "@antzy/image-cropper": "latest"
+    }
+}

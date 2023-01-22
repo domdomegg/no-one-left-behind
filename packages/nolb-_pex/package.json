@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_pex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@pexip-engage-public/color-utils": "latest",
+        "@pexip-engage-public/plugin-configuration": "latest",
+        "@pexip-engage-public/plugin-configuration-parser": "latest",
+        "@pexip-engage-public/plugin-events": "latest",
+        "@pexip-engage-public/plugin-instance": "latest",
+        "@pexip-engage-public/plugin-react": "latest",
+        "@pexip-engage-public/plugin-state": "latest",
+        "@pexip-engage-public/plugin-utils": "latest",
+        "@pexlab/math-utils": "latest",
+        "@pexlab/ngx-chart-engine": "latest",
+        "@pexlab/ngx-front-engine": "latest",
+        "@pexlify/booker-sfdx-plugin": "latest",
+        "@pexo/babel-transform": "latest",
+        "@pexo/cli": "latest",
+        "@pexo/core": "latest",
+        "@pexo/parcel-reporter-manifest": "latest",
+        "@pexo/parcel-runtime-dynamic-imports": "latest",
+        "@pexo/request": "latest",
+        "@pexo/utils": "latest",
+        "@pexxi/fold-to-ascii-ts": "latest",
+        "@pexxi/winston-azure-functions": "latest"
+    }
+}

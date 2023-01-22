@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-egw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "egw": "latest",
+        "egw-ele-ui": "latest",
+        "egw-element-ui": "latest",
+        "egw-kafka-bus": "latest",
+        "egw-react-components": "latest",
+        "egw-touch-dnd": "latest",
+        "egw_metamodelgeneratorg01": "latest"
+    }
+}

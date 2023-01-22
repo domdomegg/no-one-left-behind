@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_dak",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@dak79/dropdown-menu": "latest",
+        "@dak79/image-slider": "latest",
+        "@dak79/mobile-menu": "latest",
+        "@daka05/hello-wasm": "latest",
+        "@dakan/hooks": "latest",
+        "@dakan/metrics": "latest",
+        "@dakan/theme": "latest",
+        "@dakan/ui": "latest",
+        "@dakavisa/react-fonticonpicker": "latest",
+        "@dake-cli-dev/core": "latest",
+        "@dake-cli-dev/utils": "latest",
+        "@dake-cli/core": "latest",
+        "@dake-cli/utils": "latest",
+        "@dakingindanorf/hive": "latest",
+        "@dakinshin/botfarm-dev-kit": "latest",
+        "@dakotaruelle/hello-world": "latest",
+        "@dakqjs/mineflayer-captcha": "latest",
+        "@dakraken/shared": "latest",
+        "@dakruzz/my-client": "latest",
+        "@daksh0702tickets/common": "latest",
+        "@dakshinasd/react-next-components": "latest",
+        "@dakshkhetan/react-rating-tooltip": "latest",
+        "@dakshyanepal/common": "latest",
+        "@daktus/components": "latest"
+    }
+}

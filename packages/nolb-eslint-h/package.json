@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-eslint-h",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslint-haifengfe": "latest",
+        "eslint-happycode": "latest",
+        "eslint-helpers": "latest",
+        "eslint-html-parser": "latest",
+        "eslint-html-pretty-reporter": "latest",
+        "eslint-html-reporter": "latest",
+        "eslint-html-reporter-ext": "latest"
+    }
+}

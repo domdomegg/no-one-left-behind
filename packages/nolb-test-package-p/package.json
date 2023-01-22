@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-test-package-p",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "test-package-package": "latest",
+        "test-package-piperidis": "latest",
+        "test-package-pivotal-acela1": "latest",
+        "test-package-pivotal1": "latest",
+        "test-package-pj": "latest",
+        "test-package-please-ignore": "latest",
+        "test-package-pooria": "latest",
+        "test-package-post-3": "latest",
+        "test-package-postinstall": "latest",
+        "test-package-prac1": "latest",
+        "test-package-pratik": "latest",
+        "test-package-pratik1": "latest",
+        "test-package-private": "latest",
+        "test-package-private-joris_accow": "latest",
+        "test-package-prod-pavlov": "latest",
+        "test-package-project": "latest",
+        "test-package-publish": "latest",
+        "test-package-publishing": "latest"
+    }
+}

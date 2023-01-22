@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_appj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@appjoint/apollo": "latest",
+        "@appjoint/cypress": "latest",
+        "@appjoint/react": "latest",
+        "@appjoint/server": "latest",
+        "@appjoint/utils": "latest",
+        "@appjudo/ui": "latest",
+        "@appjumpstart/booster": "latest",
+        "@appjumpstart/launch": "latest",
+        "@appjumpstart/mercury-schema": "latest",
+        "@appjumpstart/mercury-send": "latest",
+        "@appjumpstart/mercury-vue": "latest",
+        "@appjumpstart/mercury-webpack": "latest",
+        "@appjumpstart/vue-styletron": "latest",
+        "@appjusto/common": "latest",
+        "@appjusto/dates": "latest",
+        "@appjusto/firebase-refs": "latest",
+        "@appjusto/firestore-batch-pool": "latest",
+        "@appjusto/menu": "latest",
+        "@appjusto/opendelivery-types": "latest",
+        "@appjusto/types": "latest"
+    }
+}

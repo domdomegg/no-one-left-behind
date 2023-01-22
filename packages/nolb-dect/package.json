@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-dect",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "dect": "latest",
+        "dectalk": "latest",
+        "dectech-react-scripts": "latest",
+        "dectom-basic-loader": "latest",
+        "dectom-console-logger": "latest",
+        "dectom-responder": "latest",
+        "dects": "latest"
+    }
+}

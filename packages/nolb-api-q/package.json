@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-api-q",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "api-qlq": "latest",
+        "api-querier": "latest",
+        "api-query": "latest",
+        "api-query-builder": "latest",
+        "api-query-korhani": "latest",
+        "api-query-params": "latest",
+        "api-query-parser": "latest",
+        "api-query-utils": "latest",
+        "api-queue-manager": "latest",
+        "api-quick": "latest"
+    }
+}

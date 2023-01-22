@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-_staf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@staff0rd/npm-test": "latest",
+        "@staffbar/express": "latest",
+        "@staffbar/inject": "latest",
+        "@staffbar/inject-core": "latest",
+        "@staffbar/inject-entrypoint": "latest",
+        "@staffbar/inject-full": "latest",
+        "@staffbar/parsing": "latest",
+        "@staffbar/react": "latest",
+        "@staffbar/rpc": "latest",
+        "@staffbar/rpc-iframe": "latest",
+        "@staffbar/shimmer": "latest",
+        "@staffbar/telemetry-types": "latest",
+        "@staffbar/types": "latest",
+        "@staffbase/create-staffbase-plugin": "latest",
+        "@staffbase/create-widget": "latest",
+        "@staffbase/eslint-config-staffbase": "latest",
+        "@staffbase/plugins-client-sdk": "latest",
+        "@staffbase/staffbase-plugin-sdk": "latest",
+        "@staffbase/widget-sdk": "latest",
+        "@stafftastic/codestyles": "latest",
+        "@stafihub/apps-config": "latest",
+        "@stafihub/apps-util": "latest",
+        "@stafihub/apps-wallet": "latest",
+        "@stafihub/react-components": "latest",
+        "@stafihub/types": "latest"
+    }
+}

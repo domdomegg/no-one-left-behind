@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-bron",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "bron": "latest",
+        "bronad": "latest",
+        "bronajs": "latest",
+        "bronco-reservation-data-thingy": "latest",
+        "bronos": "latest",
+        "bronosorg-ethers": "latest",
+        "bronote": "latest",
+        "bronson": "latest",
+        "bronte-lib-rte-umd": "latest",
+        "bronto": "latest",
+        "brontosaurus": "latest",
+        "brontosaurus-ponderosa": "latest",
+        "bronya": "latest",
+        "bronya-tools": "latest",
+        "bronycord-api": "latest",
+        "bronycord.js": "latest",
+        "bronze": "latest"
+    }
+}

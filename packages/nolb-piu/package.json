@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-piu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "piu": "latest",
+        "piu-cli": "latest",
+        "piu-tools": "latest",
+        "piuccio.dependency-tree": "latest",
+        "piuccio.detective-amd": "latest",
+        "piuccio.madge": "latest",
+        "piuccio.precinct": "latest",
+        "piui": "latest",
+        "piuma": "latest",
+        "piuma-asset-debug": "latest",
+        "piuma-commander": "latest",
+        "piuma-core": "latest",
+        "piuma-js-mapper": "latest",
+        "piuma-log": "latest",
+        "piumino": "latest",
+        "piupiu": "latest",
+        "piuploadfile": "latest",
+        "piur": "latest",
+        "piutil": "latest"
+    }
+}

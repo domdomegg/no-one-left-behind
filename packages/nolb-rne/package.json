@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-rne",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "rne": "latest",
+        "rne-demo": "latest",
+        "rne-netzon": "latest",
+        "rnelements": "latest",
+        "rnenv": "latest",
+        "rnep-cli": "latest",
+        "rner": "latest",
+        "rnerator": "latest",
+        "rnet": "latest",
+        "rneui": "latest",
+        "rnezswiper": "latest"
+    }
+}

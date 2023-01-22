@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_fos",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@foseberg/chatbot-js": "latest",
+        "@foseberg/react-useloading": "latest",
+        "@fosenu/httpclient": "latest",
+        "@fosenu/mysqlclient": "latest",
+        "@fosenu/prettier": "latest",
+        "@fosenu/tslint": "latest",
+        "@fosfad/json-pointer": "latest",
+        "@fosfad/json-schema-typescript-definitions": "latest",
+        "@fosfad/openapi-typescript-definitions": "latest",
+        "@fosh/chat-client": "latest",
+        "@fossbarrow/swedish-ssn-validator": "latest",
+        "@fossbarrow/tailwindcss-multiline-truncate": "latest",
+        "@fosscord/ui": "latest",
+        "@fossdk/depster": "latest",
+        "@fossdk/heimdall-web-scripts": "latest",
+        "@fossdk/scrall": "latest",
+        "@fossdk/tsrun": "latest",
+        "@fossguard/eslint-config": "latest",
+        "@fossguard/eslint-config-typescript": "latest",
+        "@fossguard/toast-ui.vue-chart": "latest",
+        "@fossil-engineering/mongoose": "latest",
+        "@fossilz/verint-swt": "latest",
+        "@fostack/fire": "latest",
+        "@fostack/ion-viewcontrollers": "latest",
+        "@fostimus/hr-utils": "latest",
+        "@fostly/aws": "latest",
+        "@fostly/base-project": "latest",
+        "@fostr/cli": "latest"
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-guz",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "guz": "latest",
+        "guzart-react-app": "latest",
+        "guzel": "latest",
+        "guzi": "latest",
+        "guzi-money": "latest",
+        "guzito": "latest",
+        "guzmodule": "latest",
+        "guzpless": "latest",
+        "guzzle": "latest",
+        "guzzler": "latest"
+    }
+}

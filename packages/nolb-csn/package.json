@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-csn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "csn": "latest",
+        "csn-aws-provisioner": "latest",
+        "csn-music": "latest",
+        "csn-print": "latest",
+        "csn.js": "latest",
+        "csna2014": "latest",
+        "csnake": "latest",
+        "csnaketerm": "latest",
+        "csnext": "latest",
+        "csnf": "latest",
+        "csnippets": "latest",
+        "csnlp": "latest",
+        "csnow": "latest",
+        "csnt-map-core": "latest"
+    }
+}

@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-react-gs",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-gs": "latest",
+        "react-gsap": "latest",
+        "react-gsap-enhancer": "latest",
+        "react-gsap-fork": "latest",
+        "react-gsap-marquee": "latest",
+        "react-gsap-parallax": "latest",
+        "react-gsap-transition": "latest",
+        "react-gsap-transitionable": "latest",
+        "react-gsheets-timeline": "latest",
+        "react-gsm": "latest",
+        "react-gsm-hook": "latest",
+        "react-gss": "latest",
+        "react-gstate": "latest",
+        "react-gstatem": "latest",
+        "react-gstore": "latest"
+    }
+}

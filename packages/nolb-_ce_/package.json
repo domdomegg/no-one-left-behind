@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_ce_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@ce/catamorphism": "latest",
+        "@ce/free": "latest",
+        "@ce/mixin": "latest",
+        "@ce/option": "latest",
+        "@ce/pbp": "latest",
+        "@ce/product": "latest",
+        "@ce/stringify": "latest",
+        "@ce/sum": "latest",
+        "@ce/unit": "latest"
+    }
+}

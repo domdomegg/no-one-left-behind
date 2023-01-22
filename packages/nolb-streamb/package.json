@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-streamb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "streamback": "latest",
+        "streambank": "latest",
+        "streambattery": "latest",
+        "streambeans": "latest",
+        "streambeautyplugin": "latest",
+        "streambed": "latest",
+        "streambim-widget-api": "latest",
+        "streambin": "latest",
+        "streambin-cli": "latest",
+        "streambird": "latest",
+        "streamboard-cli": "latest",
+        "streamboard-sdk": "latest",
+        "streambot": "latest",
+        "streambot.js": "latest",
+        "streambox": "latest",
+        "streambox-client": "latest",
+        "streambox-collection": "latest",
+        "streambox-mplayer": "latest",
+        "streambox-omxplayer": "latest",
+        "streambrake": "latest",
+        "streambrk": "latest",
+        "streambuf": "latest",
+        "streambuffer": "latest",
+        "streambuffer17": "latest",
+        "streambuffers": "latest",
+        "streambyter": "latest"
+    }
+}

@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-_jeh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@jehad_jaber/j-test-npm": "latest",
+        "@jehfkemsy/koa-logger": "latest",
+        "@jehfkemsy/workerbase": "latest",
+        "@jehfkemsy/workerbase-auth": "latest",
+        "@jehfkemsy/workerbase-store": "latest",
+        "@jehhb/create": "latest",
+        "@jehmatthews/lotide": "latest",
+        "@jehob/prettier": "latest",
+        "@jehon/css-inherit": "latest",
+        "@jehon/img-loading": "latest",
+        "@jehyunra/lotide": "latest"
+    }
+}

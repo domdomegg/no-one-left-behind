@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-eventb",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eventbase": "latest",
+        "eventbeat": "latest",
+        "eventboss": "latest",
+        "eventbox": "latest",
+        "eventbridge-bulk-loader": "latest",
+        "eventbridge-schema-validation": "latest",
+        "eventbrite": "latest",
+        "eventbrite-node": "latest",
+        "eventbrite-sdk": "latest",
+        "eventbrite2": "latest",
+        "eventbroker": "latest",
+        "eventbus": "latest",
+        "eventbus-cjs": "latest",
+        "eventbus-enrich": "latest",
+        "eventbus-es": "latest",
+        "eventbus-prodio": "latest",
+        "eventbus-ts": "latest",
+        "eventbus-types": "latest",
+        "eventbus-typescript": "latest",
+        "eventbus-vue": "latest",
+        "eventbus-wechat": "latest",
+        "eventbus-with-namespacing": "latest",
+        "eventbus.js": "latest",
+        "eventbus_js": "latest",
+        "eventbusjs": "latest",
+        "eventbut": "latest",
+        "eventbuzz": "latest"
+    }
+}

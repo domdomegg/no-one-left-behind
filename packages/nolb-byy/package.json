@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-byy",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "byy": "latest",
+        "byy-cli": "latest",
+        "byy-clis": "latest",
+        "byy-test-publish-npm": "latest",
+        "byy-vui": "latest",
+        "byyfumodule": "latest",
+        "byyui": "latest",
+        "byyuto-react-boilerplate": "latest",
+        "byyutolib": "latest",
+        "byyvoidmodule": "latest"
+    }
+}

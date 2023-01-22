@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-chex",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chex": "latest",
+        "chexamone": "latest",
+        "chexample": "latest",
+        "chexiang-cli": "latest",
+        "chexiang_fed_cli": "latest",
+        "chexiu-cli": "latest",
+        "chexo": "latest",
+        "chext": "latest",
+        "chext-cli": "latest",
+        "chexxwars": "latest"
+    }
+}

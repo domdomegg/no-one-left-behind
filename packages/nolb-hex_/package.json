@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-hex_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "hex.js": "latest",
+        "hex_a-to-rgba": "latest",
+        "hex_brain_games": "latest",
+        "hex_btn-2": "latest",
+        "hex_color_displayer": "latest",
+        "hex_colors": "latest",
+        "hex_conversion": "latest",
+        "hex_gendiff": "latest",
+        "hex_rgb_conversion": "latest"
+    }
+}

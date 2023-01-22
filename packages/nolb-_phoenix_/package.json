@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_phoenix_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@phoenix_fan/fetch": "latest",
+        "@phoenix_fan/lodash": "latest",
+        "@phoenix_fan/lodash-es": "latest",
+        "@phoenix_fan/test": "latest",
+        "@phoenix_fan/web-components-ui": "latest"
+    }
+}

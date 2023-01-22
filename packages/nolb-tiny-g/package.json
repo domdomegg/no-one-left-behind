@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-tiny-g",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "tiny-gateway": "latest",
+        "tiny-git-helper": "latest",
+        "tiny-git-rev-sync": "latest",
+        "tiny-git-terminal": "latest",
+        "tiny-glob": "latest",
+        "tiny-google-search-cli": "latest",
+        "tiny-graph": "latest",
+        "tiny-graphql-client": "latest",
+        "tiny-graphql-fetch": "latest",
+        "tiny-graphql-koa": "latest",
+        "tiny-grid": "latest",
+        "tiny-guard": "latest",
+        "tiny-guards": "latest"
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+    "name": "@zalastax/nolb-_funf",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@funfair-tech/wallet-angular": "latest",
+        "@funfair-tech/wallet-react": "latest",
+        "@funfair-tech/wallet-sdk": "latest",
+        "@funfair-tech/wallet-vue": "latest",
+        "@funfasy/minter-sdk-js": "latest",
+        "@funfasy/nestjs-minter-rpc": "latest",
+        "@funfo-cli-dev/core": "latest",
+        "@funfo-cli-dev/utils": "latest",
+        "@funfunfunco/expresserator": "latest",
+        "@funfunfunco/react-native-speech": "latest",
+        "@funfunz/azure-blob-storage-connector": "latest",
+        "@funfunz/cicd-tests": "latest",
+        "@funfunz/core": "latest",
+        "@funfunz/dynamodb-data-connector": "latest",
+        "@funfunz/json-data-connector": "latest",
+        "@funfunz/s3-data-connector": "latest",
+        "@funfunz/sql-data-connector": "latest"
+    }
+}

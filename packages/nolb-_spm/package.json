@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_spm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@spmeesseman/app-publisher": "latest",
+        "@spmeesseman/arg-parser": "latest",
+        "@spmeesseman/env-ci": "latest",
+        "@spmeesseman/eslint-plugin": "latest",
+        "@spmeesseman/extjs-pkg-fontawesome": "latest",
+        "@spmeesseman/extjs-pkg-intltelinput": "latest",
+        "@spmeesseman/extjs-pkg-mantis": "latest",
+        "@spmeesseman/extjs-pkg-plyr": "latest",
+        "@spmeesseman/extjs-pkg-tinymce": "latest",
+        "@spmeesseman/extjs-pkg-websocket": "latest",
+        "@spmeesseman/extjs-pkg-webworker": "latest",
+        "@spmeesseman/jenkins-utility-server": "latest",
+        "@spmeesseman/json": "latest",
+        "@spmeesseman/vscode-taskexplorer-types": "latest",
+        "@spms-apps/ts-error": "latest",
+        "@spms-apps/ts-logger": "latest"
+    }
+}

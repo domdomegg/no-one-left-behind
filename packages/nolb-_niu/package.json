@@ -1,0 +1,38 @@
+
+{
+    "name": "@zalastax/nolb-_niu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@niu_/tools-draggable": "latest",
+        "@niu_/tools-http-request": "latest",
+        "@niu_/tools-nprogress": "latest",
+        "@niu_/vue-tools": "latest",
+        "@niub/cli-plugin-test1": "latest",
+        "@niub/cli-plugin-test2": "latest",
+        "@niub/test-cli": "latest",
+        "@niuba-open-api/douyin": "latest",
+        "@niubalib/core": "latest",
+        "@niubalib/redbird": "latest",
+        "@niubalib/typed-wepy": "latest",
+        "@niubalib/types": "latest",
+        "@niubalib/typescript-libs": "latest",
+        "@niubalib/weapp.engine.io-client": "latest",
+        "@niubalib/weapp.socket.io": "latest",
+        "@niubrandon/lotide": "latest",
+        "@niugege/zhangcli": "latest",
+        "@niulandi/cli": "latest",
+        "@niulandi/cli-plugin-cicd": "latest",
+        "@niulandi/client": "latest",
+        "@niulandi/midway": "latest",
+        "@niulandi/newland": "latest",
+        "@niumyz/react-rss-podcast-player": "latest",
+        "@niunisas/sentry-nestjs": "latest",
+        "@niur/google-admanager-api": "latest",
+        "@niur/nestjs-service-bus": "latest",
+        "@niur/ng-gpt": "latest",
+        "@niuxiaojie88/contracts-vrf": "latest"
+    }
+}

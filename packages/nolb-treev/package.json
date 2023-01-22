@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-treev",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "treeverse": "latest",
+        "treevia": "latest",
+        "treeview-component": "latest",
+        "treeview-model": "latest",
+        "treeview-multilevel-react": "latest",
+        "treeview-react-bootstrap": "latest",
+        "treeview-react-bootstrap-fix": "latest",
+        "treeview-sample": "latest",
+        "treeviewfilter": "latest",
+        "treevis": "latest",
+        "treeviz": "latest",
+        "treeviz-react": "latest",
+        "treevizu": "latest",
+        "treevue": "latest",
+        "treevue-syj": "latest",
+        "treevue-world": "latest"
+    }
+}

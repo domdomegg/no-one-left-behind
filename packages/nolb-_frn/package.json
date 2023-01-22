@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-_frn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@frnak/vuevatar": "latest",
+        "@frnikho/hypixel-js": "latest",
+        "@frntickets/common": "latest",
+        "@frntnd/eslint": "latest",
+        "@frntnd/rollup": "latest"
+    }
+}

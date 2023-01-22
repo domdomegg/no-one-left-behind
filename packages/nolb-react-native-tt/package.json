@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-react-native-tt",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-native-tt": "latest",
+        "react-native-ttad": "latest",
+        "react-native-ttd-gvr": "latest",
+        "react-native-ttlock": "latest",
+        "react-native-ttlock-tsbee": "latest",
+        "react-native-ttm-dropdown": "latest",
+        "react-native-tts": "latest",
+        "react-native-tts-android": "latest",
+        "react-native-ttt-autocomplete": "latest"
+    }
+}

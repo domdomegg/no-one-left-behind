@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-wanh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wanhaiui": "latest",
+        "wanheda-components": "latest",
+        "wanhttp": "latest",
+        "wanhu-wechat-server": "latest",
+        "wanhuan-demo": "latest",
+        "wanhuimiao": "latest",
+        "wanhuimiao-666": "latest",
+        "wanhuimiao1010": "latest",
+        "wanhuimiao111": "latest"
+    }
+}

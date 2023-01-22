@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_appv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@appveen/data-mapper": "latest",
+        "@appveen/data.stack-utils": "latest",
+        "@appveen/ds-auth-cache": "latest",
+        "@appveen/ds-sdk": "latest",
+        "@appveen/faml": "latest",
+        "@appveen/gridfs-stream": "latest",
+        "@appveen/json-utils": "latest",
+        "@appveen/mongo-crud": "latest",
+        "@appveen/odp-apis": "latest",
+        "@appveen/odp-utils": "latest",
+        "@appveen/rat": "latest",
+        "@appveen/rest-crud": "latest",
+        "@appveen/swagger-mongoose-crud": "latest",
+        "@appveen/utils": "latest",
+        "@appveen/xcro-utils": "latest",
+        "@appvia/lens-extension-fluxcd": "latest",
+        "@appvise/digest-pbkdf2": "latest",
+        "@appvise/domain": "latest",
+        "@appvise/graphql": "latest",
+        "@appvise/resource": "latest",
+        "@appvise/resource-graphql": "latest",
+        "@appvise/resource-typeorm": "latest",
+        "@appvise/typeorm": "latest",
+        "@appvitalinc/file-upload-widget-api-angular": "latest",
+        "@appvitalinc/file-upload-widget-api-js": "latest",
+        "@appvitalinc/file-upload-widget-api-react": "latest"
+    }
+}

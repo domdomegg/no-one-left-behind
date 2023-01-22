@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-googlep",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "googlePlaceAutocomplete": "latest",
+        "googlep": "latest",
+        "googlepackage": "latest",
+        "googlephotorg": "latest",
+        "googlephotos": "latest",
+        "googleplaces": "latest",
+        "googleplaces-promises": "latest",
+        "googleplacesapi": "latest",
+        "googleplacesapi-0.0.3": "latest",
+        "googleplay-info": "latest",
+        "googleplaymusicdownloader": "latest",
+        "googleplayscraper": "latest"
+    }
+}

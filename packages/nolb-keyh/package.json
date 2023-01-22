@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-keyh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "keyhacking": "latest",
+        "keyhandler": "latest",
+        "keyhasher": "latest",
+        "keyhawk": "latest",
+        "keyholder": "latest",
+        "keyhole": "latest",
+        "keyhole-client": "latest",
+        "keyhole-grunt": "latest",
+        "keyhook": "latest"
+    }
+}

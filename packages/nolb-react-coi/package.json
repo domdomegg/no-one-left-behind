@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-react-coi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-coin": "latest",
+        "react-coin-hive": "latest",
+        "react-coin-icon": "latest",
+        "react-coinbase-commerce": "latest",
+        "react-coinbase-commerce-modal": "latest",
+        "react-coinhive": "latest",
+        "react-coinhive-captcha": "latest",
+        "react-coinmiq-miner": "latest",
+        "react-cointap-ido": "latest"
+    }
+}

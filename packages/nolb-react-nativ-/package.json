@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-react-nativ-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "react-nativ-broadcast-messages": "latest",
+        "react-nativ-chat": "latest",
+        "react-nativ-snackbar-android": "latest"
+    }
+}

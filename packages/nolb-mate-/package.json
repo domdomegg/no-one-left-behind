@@ -1,0 +1,20 @@
+
+{
+    "name": "@zalastax/nolb-mate-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "mate-cc": "latest",
+        "mate-emitter": "latest",
+        "mate-gulp-scripts-copy": "latest",
+        "mate-js": "latest",
+        "mate-js-tool": "latest",
+        "mate-scripts": "latest",
+        "mate-serverless": "latest",
+        "mate-state": "latest",
+        "mate-ui": "latest",
+        "mate-view": "latest"
+    }
+}

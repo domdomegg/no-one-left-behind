@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_axu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@axuate/eslint-config": "latest",
+        "@axub/express-cli": "latest",
+        "@axub/prisma-query-parser": "latest",
+        "@axub/test-package": "latest",
+        "@axuebin-pkg/simplelib-base": "latest",
+        "@axulus/uikit": "latest",
+        "@axux/charts": "latest",
+        "@axux/core": "latest",
+        "@axux/data": "latest",
+        "@axux/date": "latest",
+        "@axux/form": "latest",
+        "@axux/map": "latest",
+        "@axux/media": "latest",
+        "@axux/pagemaker": "latest",
+        "@axux/searchbar": "latest",
+        "@axux/utilities": "latest"
+    }
+}

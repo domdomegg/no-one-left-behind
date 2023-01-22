@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-autoj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "autojaeger-node": "latest",
+        "autojs": "latest",
+        "autojs-built-in-modules": "latest",
+        "autojs-cli": "latest",
+        "autojs-contrib-toolkit": "latest",
+        "autojs-create-javaarray": "latest",
+        "autojs-dev": "latest",
+        "autojs-sqlite": "latest",
+        "autojs-storages": "latest",
+        "autojs-types": "latest",
+        "autojs-ui-loader": "latest",
+        "autojs-ui-tool": "latest",
+        "autojs-vue": "latest",
+        "autojs.ext_enhance": "latest"
+    }
+}

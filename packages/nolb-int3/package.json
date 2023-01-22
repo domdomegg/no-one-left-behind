@@ -1,0 +1,12 @@
+
+{
+    "name": "@zalastax/nolb-int3",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "int32": "latest",
+        "int32-fnv1a": "latest"
+    }
+}

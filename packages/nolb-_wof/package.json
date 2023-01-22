@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_wof",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wof-show/deckdeckgo-core": "latest",
+        "@wof-show/deckdeckgo-slide-big-img": "latest",
+        "@wof-show/deckdeckgo-slide-video": "latest",
+        "@wofe/cli": "latest",
+        "@wofe/cli-plugin-sad": "latest",
+        "@wofe/cli-shared-utils": "latest",
+        "@wofe/vue-cli-plugin-mock": "latest",
+        "@wofh/eslint-config": "latest",
+        "@wofh/ui-kit-react": "latest",
+        "@wofie03/doggoboss": "latest",
+        "@wofie03/npm-git": "latest",
+        "@woftis/binary-search-tree": "latest",
+        "@woftis/linked-list": "latest",
+        "@woftis/reusable-drop-down": "latest",
+        "@wofwca/smoothie": "latest",
+        "@wofwq/hello-wasm": "latest"
+    }
+}

@@ -1,0 +1,15 @@
+
+{
+    "name": "@zalastax/nolb-synl",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "synlabs-doc-components": "latest",
+        "synlabs-webpack-utils": "latest",
+        "synle-rest-utils": "latest",
+        "synlib": "latest",
+        "synlink-pdu": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_danv",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@danvaduvasv/wms-common": "latest",
+        "@danvargas46/newman-reporter-allure": "latest",
+        "@danver97/aws-config": "latest",
+        "@danver97/event-sourcing": "latest",
+        "@danver97/express-recaptcha": "latest",
+        "@danver97/jwt-secure": "latest",
+        "@danver97/service-events": "latest",
+        "@danvick/ngx-translate-nativescript-loader": "latest",
+        "@danvsvtickets/common": "latest"
+    }
+}

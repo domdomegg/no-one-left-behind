@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-angula",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "angula": "latest",
+        "@zalastax/nolb-angular": "latest",
+        "@zalastax/nolb-angula-": "latest",
+        "@zalastax/nolb-angula2": "latest",
+        "@zalastax/nolb-angulac": "latest",
+        "@zalastax/nolb-angulat": "latest"
+    }
+}

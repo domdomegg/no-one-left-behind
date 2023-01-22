@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-lior",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lior-component-button": "latest",
+        "lior-component-input": "latest",
+        "lior-component-login-form": "latest",
+        "lior-cool-proj": "latest",
+        "lior-docs-task-update": "latest",
+        "lior-frame-print": "latest",
+        "lior-helper-theme": "latest",
+        "lior-random-number": "latest",
+        "lior-test-package": "latest",
+        "lior-test-project": "latest",
+        "lior-testflow": "latest",
+        "lior1": "latest",
+        "liora": "latest",
+        "liorgjfrog": "latest",
+        "liorjfrog": "latest"
+    }
+}

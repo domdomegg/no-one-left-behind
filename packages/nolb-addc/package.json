@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-addc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "addc": "latest",
+        "addc-uilib-test": "latest",
+        "addcal": "latest",
+        "addchat-vuejs": "latest",
+        "addclassname": "latest",
+        "addclc": "latest",
+        "addcn-template": "latest",
+        "addcode": "latest",
+        "addcodeline": "latest",
+        "addcolor": "latest",
+        "addcomponentyuyue": "latest",
+        "addcomtest": "latest",
+        "addconsoletest": "latest",
+        "addcopyright": "latest",
+        "addcount_j": "latest"
+    }
+}

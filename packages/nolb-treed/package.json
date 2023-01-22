@@ -1,0 +1,29 @@
+
+{
+    "name": "@zalastax/nolb-treed",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "treed": "latest",
+        "treedash": "latest",
+        "treedb": "latest",
+        "treedb.js": "latest",
+        "treedefi-uikit": "latest",
+        "treedep": "latest",
+        "treedialogcomponenttysh": "latest",
+        "treediff": "latest",
+        "treediffer": "latest",
+        "treedir": "latest",
+        "treeditya-lib": "latest",
+        "treedoc": "latest",
+        "treedoc-chrome-ext": "latest",
+        "treedoc-cli": "latest",
+        "treedoc-viewer": "latest",
+        "treedom": "latest",
+        "treedown-aligner": "latest",
+        "treeducer": "latest",
+        "treedux": "latest"
+    }
+}

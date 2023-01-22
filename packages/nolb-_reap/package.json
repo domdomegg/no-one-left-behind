@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-_reap",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@reaperofchaos/noter": "latest",
+        "@reapertickets/common": "latest",
+        "@reaperx/grator": "latest",
+        "@reapex/github-api": "latest",
+        "@reapi/api": "latest",
+        "@reapi/api-view": "latest",
+        "@reapi/components": "latest",
+        "@reapi/converter": "latest",
+        "@reapi/core": "latest",
+        "@reapi/core-components": "latest",
+        "@reapi/editor": "latest",
+        "@reapi/explorer": "latest",
+        "@reapi/open": "latest",
+        "@reapi/react": "latest",
+        "@reapi/theme": "latest",
+        "@reapi/viewer": "latest",
+        "@reapit/cli": "latest",
+        "@reapit/cognito-auth": "latest",
+        "@reapit/config-manager": "latest",
+        "@reapit/connect-session": "latest",
+        "@reapit/cra-template-foundations": "latest",
+        "@reapit/elements": "latest",
+        "@reapit/foundations-ts-definitions": "latest",
+        "@reapit/generator-react-app-scaffolder": "latest",
+        "@reapit/login-with-reapit": "latest",
+        "@reapit/storybook-addon-html": "latest"
+    }
+}

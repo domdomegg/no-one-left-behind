@@ -1,0 +1,21 @@
+
+{
+    "name": "@zalastax/nolb-crec",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "crec": "latest",
+        "crec-hr-component": "latest",
+        "crec-lib": "latest",
+        "crecatalyst": "latest",
+        "crecatalyst-auth": "latest",
+        "crecg-cli": "latest",
+        "crech": "latest",
+        "creche-common": "latest",
+        "creco": "latest",
+        "creco-cli": "latest",
+        "creco-ui": "latest"
+    }
+}

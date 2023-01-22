@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_hyper_fun_fluentui-emoji-mag",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper.fun/fluentui-emoji-magic-wand-color": "latest",
+        "@hyper.fun/fluentui-emoji-magic-wand-flat": "latest",
+        "@hyper.fun/fluentui-emoji-magic-wand-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-magnet-color": "latest",
+        "@hyper.fun/fluentui-emoji-magnet-flat": "latest",
+        "@hyper.fun/fluentui-emoji-magnet-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-magnifying-glass-tilted-left-color": "latest",
+        "@hyper.fun/fluentui-emoji-magnifying-glass-tilted-left-flat": "latest",
+        "@hyper.fun/fluentui-emoji-magnifying-glass-tilted-left-high-contrast": "latest",
+        "@hyper.fun/fluentui-emoji-magnifying-glass-tilted-right-color": "latest",
+        "@hyper.fun/fluentui-emoji-magnifying-glass-tilted-right-flat": "latest",
+        "@hyper.fun/fluentui-emoji-magnifying-glass-tilted-right-high-contrast": "latest"
+    }
+}

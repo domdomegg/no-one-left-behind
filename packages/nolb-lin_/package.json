@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-lin_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lin.css": "latest",
+        "lin.js": "latest",
+        "lin_antd_vue_component": "latest",
+        "lin_date": "latest",
+        "lin_easy-utils": "latest",
+        "lin_element_ui_uploader": "latest",
+        "lin_element_ui_uploader-ui": "latest",
+        "lin_fetch_http": "latest",
+        "lin_http_code": "latest",
+        "lin_npm": "latest",
+        "lin_set": "latest",
+        "lin_websocket": "latest"
+    }
+}

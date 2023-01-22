@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-helloi",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "helloify": "latest",
+        "helloinit": "latest",
+        "hellointec": "latest",
+        "hellointec1980": "latest",
+        "hellointec2022": "latest",
+        "hellointro": "latest",
+        "helloivan": "latest"
+    }
+}

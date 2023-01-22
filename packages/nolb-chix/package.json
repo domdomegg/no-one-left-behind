@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-chix",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "chix": "latest",
+        "chix-chi": "latest",
+        "chix-flow": "latest",
+        "chix-flow-todot": "latest",
+        "chix-flow-tofbpx": "latest",
+        "chix-group": "latest",
+        "chix-install": "latest",
+        "chix-loader": "latest",
+        "chix-monitor-npmlog": "latest",
+        "chix-node-react": "latest",
+        "chix-platform": "latest",
+        "chix-runtime": "latest",
+        "chix-test": "latest",
+        "chix-transport": "latest"
+    }
+}

@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-pdc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "pdc": "latest",
+        "pdc-cli": "latest",
+        "pdc-cli-test": "latest",
+        "pdc-foundation": "latest",
+        "pdc-legal-tool": "latest",
+        "pdc-network": "latest",
+        "pdc-publication-schema": "latest",
+        "pdc-test": "latest",
+        "pdc-timestamp-schema": "latest",
+        "pdc-transform": "latest",
+        "pdc-ts": "latest",
+        "pdc123": "latest",
+        "pdcctable": "latest",
+        "pdchess3": "latest",
+        "pdcloud": "latest",
+        "pdcloud_gateway": "latest",
+        "pdcloud_register": "latest",
+        "pdctest001": "latest"
+    }
+}

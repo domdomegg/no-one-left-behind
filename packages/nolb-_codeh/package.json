@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_codeh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@codehardt/leader-line": "latest",
+        "@codehat/react-loader": "latest",
+        "@codehat/vue-color-picker": "latest",
+        "@codehat/vue-css-loader": "latest",
+        "@codehat/vue-img-cards": "latest",
+        "@codehat/vue-pnf": "latest",
+        "@codehat/vue-profile-card": "latest",
+        "@codehaven/common-components": "latest",
+        "@codehaven/components": "latest",
+        "@codehaven/kobo-inputs": "latest",
+        "@codehaven/ngx-polylist": "latest",
+        "@codeheart/docs": "latest",
+        "@codeheart/react": "latest",
+        "@codeheart/tokens": "latest",
+        "@codehelios/verify-tokenid": "latest",
+        "@codehesion-za/headless": "latest",
+        "@codehiga/uidtrim": "latest",
+        "@codehint-ng/html-compiler": "latest",
+        "@codehint-ng/tabs": "latest",
+        "@codehint-ng/tree-table": "latest",
+        "@codehivetx/freepbx-pushover-smsbridge": "latest",
+        "@codehivetx/goosebay": "latest",
+        "@codehivetx/mourt": "latest",
+        "@codehj/mytest": "latest"
+    }
+}

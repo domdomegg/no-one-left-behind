@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-_glh",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@glhd/alpine-wizard": "latest",
+        "@glhd/omniponent": "latest",
+        "@glhd/postcss-font-stack": "latest",
+        "@glhf-cli/core": "latest",
+        "@glhf-cli/utils": "latest",
+        "@glhf-libs/sdk": "latest",
+        "@glhf-libs/test-icon": "latest",
+        "@glhf-libs/test-sdk": "latest",
+        "@glhf-libs/uikit": "latest",
+        "@glhf-libs/v2-periphery": "latest",
+        "@glhf-libs/v2-sdk": "latest",
+        "@glhfglhf/sdk": "latest",
+        "@glhrm/vue-scheduler": "latest",
+        "@glhrmoura/vue-scheduler": "latest"
+    }
+}

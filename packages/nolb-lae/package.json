@@ -1,0 +1,24 @@
+
+{
+    "name": "@zalastax/nolb-lae",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "lae": "latest",
+        "laeh": "latest",
+        "laeh2": "latest",
+        "laem-simulate": "latest",
+        "laeni": "latest",
+        "laeq-stats": "latest",
+        "laercio-calc": "latest",
+        "laerciopalindrome": "latest",
+        "laerdal-profile": "latest",
+        "laerpeek-large-number": "latest",
+        "laerte_fernandes-sdk": "latest",
+        "laertmodule": "latest",
+        "laessig": "latest",
+        "laetig": "latest"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "name": "@zalastax/nolb-wana",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "wana": "latest",
+        "wanache-cli": "latest",
+        "wanache-core": "latest",
+        "wanadev-ujs": "latest",
+        "wanado": "latest",
+        "wanakana": "latest",
+        "wanalyze": "latest",
+        "wanalyzer": "latest",
+        "wanami-browser": "latest",
+        "wanan": "latest",
+        "wanan-a-loader": "latest",
+        "wanan-mymodule": "latest",
+        "wanashare": "latest"
+    }
+}

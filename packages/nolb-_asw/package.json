@@ -1,0 +1,18 @@
+
+{
+    "name": "@zalastax/nolb-_asw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@aswaporg/aswap-core": "latest",
+        "@aswaporg/aswap-sdk-core": "latest",
+        "@aswaporg/aswap-v2-sdk": "latest",
+        "@aswaporg/aswap-web3-core": "latest",
+        "@aswaporg/aswap-web3-injected-connector": "latest",
+        "@aswaporg/starswap-core": "latest",
+        "@aswathpandiyan/error-boy": "latest",
+        "@aswathpandiyan/tiny": "latest"
+    }
+}

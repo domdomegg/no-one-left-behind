@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-subn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "subnet": "latest",
+        "subnet-check": "latest",
+        "subnet-cidr-calculator": "latest",
+        "subnet-discover": "latest",
+        "subnet-info": "latest",
+        "subnet-overlap": "latest",
+        "subnet-scan": "latest",
+        "subnet2cidr": "latest",
+        "subnetmask": "latest",
+        "subnetter": "latest",
+        "subnode": "latest",
+        "subnpub": "latest"
+    }
+}

@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-koa_",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "koa.api.server": "latest",
+        "koa.io": "latest",
+        "koa.js": "latest",
+        "koa.res.api": "latest",
+        "koa.sass": "latest",
+        "koa.ts": "latest",
+        "koa_app_koa": "latest",
+        "koa_body": "latest",
+        "koa_c1i": "latest",
+        "koa_cuicui": "latest",
+        "koa_gyf": "latest",
+        "koa_html": "latest",
+        "koa_lxl": "latest",
+        "koa_middlewares_with_config": "latest",
+        "koa_newer": "latest",
+        "koa_r": "latest",
+        "koa_roter_index": "latest",
+        "koa_scaffold": "latest",
+        "koa_sequelize": "latest",
+        "koa_server_demo": "latest",
+        "koa_typescript_boilerplate": "latest",
+        "koa_validator": "latest"
+    }
+}

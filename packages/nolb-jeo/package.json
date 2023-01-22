@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-jeo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "jeo": "latest",
+        "jeocoder": "latest",
+        "jeocsvlib": "latest",
+        "jeoffydev-html-to-image": "latest",
+        "jeol-data-test": "latest",
+        "jeol-fc-common": "latest",
+        "jeolconverter": "latest",
+        "jeolok": "latest",
+        "jeon-vue-module": "latest",
+        "jeong": "latest",
+        "jeong-cli-dev-lego-components": "latest",
+        "jeong-cli-dev-template-custom-vue3": "latest",
+        "jeong-cli-dev-template-vue-admin": "latest",
+        "jeong-cli-dev-template-vue3": "latest",
+        "jeonghui-lion-lib-123": "latest",
+        "jeonghwan.net": "latest",
+        "jeopardy": "latest",
+        "jeopardyjs": "latest",
+        "jeoshi-package": "latest",
+        "jeoshi-package-dev": "latest",
+        "jeotiff": "latest"
+    }
+}

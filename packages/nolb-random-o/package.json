@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-random-o",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "random-obj-key": "latest",
+        "random-obj-prop": "latest",
+        "random-object": "latest",
+        "random-object-gen": "latest",
+        "random-object-language": "latest",
+        "random-object-picker": "latest",
+        "random-object-utils": "latest",
+        "random-objectid": "latest",
+        "random-octal": "latest",
+        "random-octodex": "latest",
+        "random-odd-numbers": "latest",
+        "random-of": "latest",
+        "random-of-names": "latest",
+        "random-office-quote": "latest",
+        "random-ohlc-data-server": "latest",
+        "random-on-iteration": "latest",
+        "random-one": "latest",
+        "random-open-color": "latest",
+        "random-option": "latest",
+        "random-org": "latest",
+        "random-org-api": "latest",
+        "random-org-http": "latest",
+        "random-original-ultra-neyen": "latest",
+        "random-otp": "latest",
+        "random-outcome": "latest",
+        "random-owner": "latest",
+        "random-owner-test": "latest"
+    }
+}

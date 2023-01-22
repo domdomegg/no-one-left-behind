@@ -1,0 +1,34 @@
+
+{
+    "name": "@zalastax/nolb-_toc",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@toc-cli/core": "latest",
+        "@toc-cli/utils": "latest",
+        "@toc/markdown": "latest",
+        "@tocabot/angular-split": "latest",
+        "@tocabot/ngx-nestable": "latest",
+        "@tocabot/react-sortable-tree": "latest",
+        "@tocabot/react-sortly": "latest",
+        "@tochie/vscore": "latest",
+        "@tochka-modules/t15-ui-kit-icons": "latest",
+        "@tochno/ui": "latest",
+        "@tochukwudev/shared": "latest",
+        "@tocjs/find-up": "latest",
+        "@tocjs/locate-path": "latest",
+        "@tocjs/p-limit": "latest",
+        "@tocjs/p-locate": "latest",
+        "@tocjs/path-exists": "latest",
+        "@tocjs/yocto-queue": "latest",
+        "@tockn/active-fire": "latest",
+        "@tocsin/core": "latest",
+        "@tocsin/http": "latest",
+        "@tocsin/worker": "latest",
+        "@tocstick/common": "latest",
+        "@tocteam/gql-typescript-generic-sdk": "latest",
+        "@toctive-com/hotfetch": "latest"
+    }
+}

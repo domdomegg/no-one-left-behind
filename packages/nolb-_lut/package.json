@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-_lut",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@lut0/heracles": "latest",
+        "@lutangar/observable-fs": "latest",
+        "@lutay/angular-fullpage": "latest",
+        "@luterek/orderno": "latest",
+        "@luthaf/typescript-doctest": "latest",
+        "@luthebao/uikit": "latest",
+        "@luthfipun/yt-uploader": "latest",
+        "@luthfy/common": "latest",
+        "@luthra2059/initgit": "latest",
+        "@lutianyu990919/pnpmdemo": "latest",
+        "@lutra-labs/stock-exchange-symbol-info": "latest",
+        "@lutris/tailwind-theme": "latest",
+        "@lutsykvad/frontend-builder": "latest",
+        "@lutterotti/-customer-builder": "latest",
+        "@lutterotti/customer-builder": "latest"
+    }
+}

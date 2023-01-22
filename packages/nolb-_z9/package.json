@@ -1,0 +1,17 @@
+
+{
+    "name": "@zalastax/nolb-_z9",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@z9fr/paypal-payment": "latest",
+        "@z9fr/vue-theme": "latest",
+        "@z9i/date-format": "latest",
+        "@z9i/is-id-card-number": "latest",
+        "@z9i/to-thousand": "latest",
+        "@z9i/url-resolver": "latest",
+        "@z9i/uuid": "latest"
+    }
+}

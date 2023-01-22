@@ -1,0 +1,32 @@
+
+{
+    "name": "@zalastax/nolb-_trivikr-test_e",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trivikr-test/endpoint-cache": "latest",
+        "@trivikr-test/endpoint-cache-esm": "latest",
+        "@trivikr-test/endpoint-cache-esm-wrapper": "latest",
+        "@trivikr-test/eventstream-codec": "latest",
+        "@trivikr-test/eventstream-handler-node": "latest",
+        "@trivikr-test/eventstream-handler-node-esm": "latest",
+        "@trivikr-test/eventstream-handler-node-esm-wrapper": "latest",
+        "@trivikr-test/eventstream-marshaller": "latest",
+        "@trivikr-test/eventstream-marshaller-esm": "latest",
+        "@trivikr-test/eventstream-marshaller-esm-wrapper": "latest",
+        "@trivikr-test/eventstream-serde-browser": "latest",
+        "@trivikr-test/eventstream-serde-browser-esm": "latest",
+        "@trivikr-test/eventstream-serde-browser-esm-wrapper": "latest",
+        "@trivikr-test/eventstream-serde-config-resolver": "latest",
+        "@trivikr-test/eventstream-serde-config-resolver-esm": "latest",
+        "@trivikr-test/eventstream-serde-config-resolver-esm-wrapper": "latest",
+        "@trivikr-test/eventstream-serde-node": "latest",
+        "@trivikr-test/eventstream-serde-node-esm": "latest",
+        "@trivikr-test/eventstream-serde-node-esm-wrapper": "latest",
+        "@trivikr-test/eventstream-serde-universal": "latest",
+        "@trivikr-test/eventstream-serde-universal-esm": "latest",
+        "@trivikr-test/eventstream-serde-universal-esm-wrapper": "latest"
+    }
+}

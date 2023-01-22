@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-demor",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "demoraj-wasm-game-of-life": "latest",
+        "demoravi-sdk": "latest",
+        "demoravi1-sdk": "latest",
+        "demoreactcomponentlib": "latest",
+        "demoreactnative": "latest",
+        "demoreactproject_test": "latest",
+        "demorepo": "latest",
+        "demorisiko": "latest",
+        "demoru": "latest"
+    }
+}

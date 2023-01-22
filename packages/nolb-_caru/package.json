@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_caru",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@carusox/hyphenator": "latest",
+        "@caruuto/api": "latest",
+        "@caruuto/api-filestore": "latest",
+        "@caruuto/api-metadata": "latest",
+        "@caruuto/api-mongodb": "latest",
+        "@caruuto/api-server": "latest",
+        "@caruuto/api-validator": "latest",
+        "@caruuto/cache": "latest",
+        "@caruuto/nodemailer-browser-transport": "latest"
+    }
+}

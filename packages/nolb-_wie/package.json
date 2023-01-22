@@ -1,0 +1,26 @@
+
+{
+    "name": "@zalastax/nolb-_wie",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@wiede/eslint-config": "latest",
+        "@wiede/eslint-config-share": "latest",
+        "@wiede/eslint-config-typescript": "latest",
+        "@wiede/eslint-config-vue": "latest",
+        "@wiede/vscode-config": "latest",
+        "@wiedmann/zwift-mobile-api": "latest",
+        "@wieldyapp/wieldy": "latest",
+        "@wieni/koala-build": "latest",
+        "@wieni/magic": "latest",
+        "@wieni/prettier-config": "latest",
+        "@wieru/randomid-generator": "latest",
+        "@wiesemann-theis/node-red-contrib-wut": "latest",
+        "@wiesson/shared-ui": "latest",
+        "@wietse-z-venema/hello-test": "latest",
+        "@wietse-z-venema/test-wietse-hello-scoped-public": "latest",
+        "@wietse-z-venema/top-package": "latest"
+    }
+}

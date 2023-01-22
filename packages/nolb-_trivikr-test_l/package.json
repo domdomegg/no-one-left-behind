@@ -1,0 +1,16 @@
+
+{
+    "name": "@zalastax/nolb-_trivikr-test_l",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@trivikr-test/lib-dynamodb": "latest",
+        "@trivikr-test/lib-dynamodb-esm": "latest",
+        "@trivikr-test/lib-dynamodb-esm-wrapper": "latest",
+        "@trivikr-test/lib-storage": "latest",
+        "@trivikr-test/lib-storage-esm": "latest",
+        "@trivikr-test/lib-storage-esm-wrapper": "latest"
+    }
+}

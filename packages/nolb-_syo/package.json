@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_syo",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@syolab/az-servicebus-receiver": "latest",
+        "@syolab/az-servicebus-sender": "latest",
+        "@syolab/az_helpers": "latest",
+        "@syolab/azfn-util": "latest",
+        "@syolab/date-time": "latest",
+        "@syolab/exceljs": "latest",
+        "@syolab/jwt": "latest",
+        "@syolab/mongoclient": "latest",
+        "@syolab/relais-client": "latest",
+        "@syolab/servicebus-proxy": "latest",
+        "@syolab/utils": "latest",
+        "@syolab/xml_helper": "latest",
+        "@syom/syom-state-management": "latest",
+        "@syonfox/gpt-3-encoder": "latest",
+        "@syook/json-placeholder-replacer": "latest",
+        "@syook/react-tabulous": "latest",
+        "@syoon/react-canvas-draw": "latest",
+        "@syoonk/swapsdk-kovan": "latest",
+        "@syoonk/synthetix-js": "latest",
+        "@syoonk/testpf": "latest",
+        "@syoueicc/react-native-code-push": "latest"
+    }
+}

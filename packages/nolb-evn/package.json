@@ -1,0 +1,28 @@
+
+{
+    "name": "@zalastax/nolb-evn",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "evn": "latest",
+        "evn-library": "latest",
+        "evn-react-scripts": "latest",
+        "evn-storybook": "latest",
+        "evnbu-test": "latest",
+        "evnemit": "latest",
+        "evnet": "latest",
+        "evnext": "latest",
+        "evno": "latest",
+        "evnparse": "latest",
+        "evnr": "latest",
+        "evnt": "latest",
+        "evnt-hub": "latest",
+        "evnt-hyper-sdk-webview": "latest",
+        "evntbus": "latest",
+        "evntr": "latest",
+        "evnty": "latest",
+        "evnx": "latest"
+    }
+}

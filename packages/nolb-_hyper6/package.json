@@ -1,0 +1,37 @@
+
+{
+    "name": "@zalastax/nolb-_hyper6",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@hyper63/adapter-beequeue": "latest",
+        "@hyper63/adapter-couchdb": "latest",
+        "@hyper63/adapter-elasticsearch": "latest",
+        "@hyper63/adapter-fs": "latest",
+        "@hyper63/adapter-hooks": "latest",
+        "@hyper63/adapter-memory": "latest",
+        "@hyper63/adapter-minio": "latest",
+        "@hyper63/adapter-minisearch": "latest",
+        "@hyper63/adapter-pouchdb": "latest",
+        "@hyper63/adapter-redis": "latest",
+        "@hyper63/adapter-zmq": "latest",
+        "@hyper63/adpater-hooks": "latest",
+        "@hyper63/app-express": "latest",
+        "@hyper63/client": "latest",
+        "@hyper63/core": "latest",
+        "@hyper63/dev": "latest",
+        "@hyper63/hyper-types": "latest",
+        "@hyper63/nano": "latest",
+        "@hyper63/port-cache": "latest",
+        "@hyper63/port-data": "latest",
+        "@hyper63/port-hooks": "latest",
+        "@hyper63/port-queue": "latest",
+        "@hyper63/port-search": "latest",
+        "@hyper63/port-storage": "latest",
+        "@hyper63/storage-demo": "latest",
+        "@hyper63/typesm": "latest",
+        "@hyper63/x": "latest"
+    }
+}

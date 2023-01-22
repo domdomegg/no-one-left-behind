@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-yic",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "yic": "latest",
+        "yicat-table": "latest",
+        "yicat-y-websocket": "latest",
+        "yice": "latest",
+        "yichan": "latest",
+        "yichar-library": "latest",
+        "yichart": "latest",
+        "yiche-cli": "latest",
+        "yichen": "latest",
+        "yichen_toc": "latest",
+        "yichi": "latest",
+        "yicms": "latest",
+        "yico": "latest",
+        "yicode-cli": "latest",
+        "yicode-cli0020": "latest",
+        "yicommand": "latest",
+        "yicommon": "latest",
+        "yicon": "latest",
+        "yicon-builder": "latest",
+        "yicunbao-cli": "latest"
+    }
+}

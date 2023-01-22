@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_edm",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@edma/blocks": "latest",
+        "@edma/components": "latest",
+        "@edma/craft-components": "latest",
+        "@edma/design-tokens": "latest",
+        "@edmangimelli/tonumber": "latest",
+        "@edmarfelipe/common": "latest",
+        "@edmbn-wc/accordion": "latest",
+        "@edmdesigner/contenteditor-connector": "latest",
+        "@edmdesigner/htmlimport-connector": "latest",
+        "@edmdesigner/jsonpreview-connector": "latest",
+        "@edmdesigner/layouteditor-connector": "latest",
+        "@edmdesigner/plugin-core": "latest",
+        "@edmdesigner/supergallery-connector": "latest",
+        "@edmdesigner/superpreview-connector": "latest",
+        "@edmdesigner/templatelayer-connector": "latest",
+        "@edmicros/common": "latest",
+        "@edmond.d/editor-custom-build": "latest",
+        "@edmondscommerce/feqa": "latest",
+        "@edmund-gmaven/gmaven-dashboard-test": "latest",
+        "@edmundo0994/platzimediaplayer": "latest",
+        "@edmundpf/print-ts": "latest"
+    }
+}

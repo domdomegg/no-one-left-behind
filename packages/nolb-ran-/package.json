@@ -1,0 +1,25 @@
+
+{
+    "name": "@zalastax/nolb-ran-",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "ran-boilerplate": "latest",
+        "ran-cli": "latest",
+        "ran-express-genertor": "latest",
+        "ran-function": "latest",
+        "ran-gen": "latest",
+        "ran-gen-test-package": "latest",
+        "ran-github-example": "latest",
+        "ran-messages": "latest",
+        "ran-msn": "latest",
+        "ran-n-gen": "latest",
+        "ran-num-gen": "latest",
+        "ran-random-function": "latest",
+        "ran-string": "latest",
+        "ran-tabs": "latest",
+        "ran-vue-ui": "latest"
+    }
+}

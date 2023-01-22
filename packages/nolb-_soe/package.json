@@ -1,0 +1,30 @@
+
+{
+    "name": "@zalastax/nolb-_soe",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@soenderby/functional-utils": "latest",
+        "@soeren_balke/file-system-lib": "latest",
+        "@soeren_balke/ng-builder": "latest",
+        "@soeren_balke/ngx-charts": "latest",
+        "@soeren_balke/x-data-spreadsheet": "latest",
+        "@soerenmartius/vue3-clipboard": "latest",
+        "@soerenmetje/passport-discord": "latest",
+        "@soerenuhrbach/command-bus": "latest",
+        "@soerenuhrbach/di": "latest",
+        "@soerenuhrbach/event-dispatcher": "latest",
+        "@soerenuhrbach/event-sourcing": "latest",
+        "@soerenuhrbach/firebase-event-storage": "latest",
+        "@soerenuhrbach/google-spreadsheet-event-storage": "latest",
+        "@soerenuhrbach/message-store": "latest",
+        "@soerenuhrbach/mysql-event-storage": "latest",
+        "@soerenuhrbach/query-bus": "latest",
+        "@soerenuhrbach/rabbit-mq-event-sourcing-utils": "latest",
+        "@soerenuhrbach/storyblok": "latest",
+        "@soevii/react-native-card-input": "latest",
+        "@soeyu/dev-template-parser": "latest"
+    }
+}

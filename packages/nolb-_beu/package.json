@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-_beu",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@beu-jorge/nestjs-graphql-dataloader": "latest",
+        "@beuapp/aurora": "latest",
+        "@beuluis/captcha-for-all-client": "latest",
+        "@beuluis/create-helper": "latest",
+        "@beuluis/create-something": "latest",
+        "@beuluis/eslint-config": "latest",
+        "@beuluis/hook-cli": "latest",
+        "@beuluis/prettier-config": "latest",
+        "@beuluis/repository-runner": "latest"
+    }
+}

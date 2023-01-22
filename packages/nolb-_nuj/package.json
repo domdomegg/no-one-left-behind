@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_nuj",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@nujarum/mklnks": "latest",
+        "@nujarum/resolve-esm": "latest",
+        "@nujek/blok": "latest",
+        "@nujek/bundle": "latest",
+        "@nujek/core": "latest",
+        "@nujek/create-app": "latest",
+        "@nujek/dynamic": "latest",
+        "@nujek/nuxt-storyblok-queries": "latest",
+        "@nujek/shared": "latest",
+        "@nujek/storyblok": "latest",
+        "@nujek/ui": "latest",
+        "@nujek/vue-lazy-hydration": "latest"
+    }
+}

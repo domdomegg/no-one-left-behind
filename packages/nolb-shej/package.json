@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-shej",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "sheji": "latest",
+        "sheji-youxiaode-shujuku-xitong": "latest",
+        "shejiao-ruanjian-bamei-gonglue": "latest",
+        "shejimoshi-kefuyongde-mianxiang-duixiang-ruanjinde-jichu": "latest"
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-eslis",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslisp": "latest",
+        "eslisp-camelify": "latest",
+        "eslisp-chain": "latest",
+        "eslisp-dotify": "latest",
+        "eslisp-fancy-function": "latest",
+        "eslisp-loader": "latest",
+        "eslisp-propertify": "latest",
+        "eslispify": "latest",
+        "eslist": "latest"
+    }
+}

@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-_scp",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@scp-web-packages/core": "latest",
+        "@scp-web-packages/hooks": "latest",
+        "@scp-web-packages/rcs": "latest",
+        "@scp-web-packages/utils": "latest",
+        "@scp-wiki-article-builder/components": "latest",
+        "@scp-wiki-article-builder/engine": "latest",
+        "@scp-wiki-article-builder/util": "latest",
+        "@scp/in17n": "latest",
+        "@scpb/base": "latest",
+        "@scpb/core": "latest",
+        "@scpb/ui": "latest",
+        "@scpl/workcamp-ui": "latest"
+    }
+}

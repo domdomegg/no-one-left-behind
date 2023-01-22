@@ -1,0 +1,13 @@
+
+{
+    "name": "@zalastax/nolb-eslint-config-8",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "eslint-config-8haodi": "latest",
+        "eslint-config-8select": "latest",
+        "eslint-config-8select-flow": "latest"
+    }
+}

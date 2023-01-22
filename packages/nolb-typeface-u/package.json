@@ -1,0 +1,22 @@
+
+{
+    "name": "@zalastax/nolb-typeface-u",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "typeface-ubuntu": "latest",
+        "typeface-ubuntu-condensed": "latest",
+        "typeface-ubuntu-mono": "latest",
+        "typeface-ultra": "latest",
+        "typeface-uncial-antiqua": "latest",
+        "typeface-underdog": "latest",
+        "typeface-unica-one": "latest",
+        "typeface-unifrakturcook": "latest",
+        "typeface-unifrakturmaguntia": "latest",
+        "typeface-unkempt": "latest",
+        "typeface-unlock": "latest",
+        "typeface-unna": "latest"
+    }
+}

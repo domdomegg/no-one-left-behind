@@ -1,0 +1,35 @@
+
+{
+    "name": "@zalastax/nolb-cyd",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "cyd": "latest",
+        "cyd-ant": "latest",
+        "cyd-components-base": "latest",
+        "cyd-test-demos-20170417": "latest",
+        "cyd-vue-components": "latest",
+        "cydashboard-directives": "latest",
+        "cydashboard-utils": "latest",
+        "cydb": "latest",
+        "cyder": "latest",
+        "cyder-common-db-node": "latest",
+        "cyder-crm-react-buttons": "latest",
+        "cydia": "latest",
+        "cydia-2018": "latest",
+        "cydia-api-node": "latest",
+        "cydia-download": "latest",
+        "cydia-installer": "latest",
+        "cydiao-player": "latest",
+        "cydiarepodownloader": "latest",
+        "cydir": "latest",
+        "cydoc": "latest",
+        "cydom": "latest",
+        "cydome6": "latest",
+        "cydonia": "latest",
+        "cydran": "latest",
+        "cydux": "latest"
+    }
+}

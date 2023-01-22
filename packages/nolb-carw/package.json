@@ -1,0 +1,19 @@
+
+{
+    "name": "@zalastax/nolb-carw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "carwash-cli": "latest",
+        "carwash-data": "latest",
+        "carweb": "latest",
+        "carwings2": "latest",
+        "carwings2-js": "latest",
+        "carwings3": "latest",
+        "carwingsjs": "latest",
+        "carwiz-lib": "latest",
+        "carwow": "latest"
+    }
+}

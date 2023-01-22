@@ -1,0 +1,36 @@
+
+{
+    "name": "@zalastax/nolb-serverless-b",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "serverless-babel-plugin": "latest",
+        "serverless-backstopjs-runner": "latest",
+        "serverless-backup-vault-cleaner": "latest",
+        "serverless-base-path-mapping": "latest",
+        "serverless-base-path-plugin": "latest",
+        "serverless-base64-encode-env-vars": "latest",
+        "serverless-bash-plugin": "latest",
+        "serverless-basic-authentication": "latest",
+        "serverless-before-local-run": "latest",
+        "serverless-bespoken": "latest",
+        "serverless-better-credentials": "latest",
+        "serverless-binary-cors": "latest",
+        "serverless-blink1": "latest",
+        "serverless-blog": "latest",
+        "serverless-blue-green-deployments": "latest",
+        "serverless-boilerplate": "latest",
+        "serverless-boilerplate-graphql": "latest",
+        "serverless-boot": "latest",
+        "serverless-botpack-lib": "latest",
+        "serverless-bucket-notification-plugin": "latest",
+        "serverless-build-client": "latest",
+        "serverless-build-plugin": "latest",
+        "serverless-builder": "latest",
+        "serverless-bundle": "latest",
+        "serverless-bundle-christophior": "latest",
+        "serverless-bundle-no-pg-native": "latest"
+    }
+}

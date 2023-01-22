@@ -1,0 +1,31 @@
+
+{
+    "name": "@zalastax/nolb-_yaw",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@yawarakaijs/yawarakai-dictionary": "latest",
+        "@yawarakaijs/yawarakai-flight": "latest",
+        "@yawarakaijs/yawarakai-musicshare": "latest",
+        "@yawarakaijs/yawarakai-wiki": "latest",
+        "@yawaramin/dbc": "latest",
+        "@yawaramin/prometo": "latest",
+        "@yawaramin/re-web": "latest",
+        "@yawetse/chai-fs": "latest",
+        "@yawetse/js-grid-search": "latest",
+        "@yawetse/pkgcloud": "latest",
+        "@yawetse/socket.io-adapter-mongo": "latest",
+        "@yawf/yawf": "latest",
+        "@yawf/yawf-cli": "latest",
+        "@yawf/yawf-core": "latest",
+        "@yawf/yawf-core-hooks": "latest",
+        "@yawnxyz/grabby": "latest",
+        "@yawnxyz/somewhat-questionable": "latest",
+        "@yaws/env-json": "latest",
+        "@yaws/read-region": "latest",
+        "@yaws/zip-dir": "latest",
+        "@yawwusu/my-first-npm-package": "latest"
+    }
+}

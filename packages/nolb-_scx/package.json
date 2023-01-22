@@ -1,0 +1,14 @@
+
+{
+    "name": "@zalastax/nolb-_scx",
+    "version": "2023.01.22",
+    "description": "Subpackage of no-one-left-behind.",
+    "repository": "Zalastax/no-one-left-behind",
+    "license": "MIT",
+    "dependencies": {
+        "@scxkkj/react-native-audio-player": "latest",
+        "@scxkkj/react-native-device-info": "latest",
+        "@scxkkj/react-native-wechat": "latest",
+        "@scxkkj/xk-rn-ui": "latest"
+    }
+}
